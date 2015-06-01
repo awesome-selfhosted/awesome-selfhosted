@@ -39,6 +39,7 @@ Table of Contents
 
   * https://github.com/jatekos101/20euros - 20euros - Clone of 2048 game with euros. - Unlicensed
   * https://github.com/Kshitij-Banerjee/Cubiks-2048 - Cubiks-2048 - Clone of 2048 game in 3D. - CCANC 4.0
+  * [Agar.IO Clone](https://github.com/huytd/agar.io-clone) - MIT
 
 ## File Synchronization Tools
 
@@ -52,6 +53,7 @@ Table of Contents
 
   * https://diasporafoundation.org/ - Diaspora - Distributed social networking service. - GNU-AGPL-3.0
   * http://friendica.com/ - Friendica - Social Communication Server. GNU-AGPL 3.0
+  * [Node-Chat](https://github.com/IgorAntun/node-chat) - A not-so-basic open-source chat with admin features. MIT
 
 ## Office Suites
 
