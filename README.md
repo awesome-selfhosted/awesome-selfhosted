@@ -1,4 +1,5 @@
-# free-for-dev
+# Awesome-Selfhosted
+
 Selfhosting is the process of locally hosting and managing applications instead of renting from SaaS providers.
 
 This is list of software which can be hosted locally.
