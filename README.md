@@ -21,18 +21,18 @@ Table of Contents
 
 ## Monitoring
 
-  * https://www.nagios.org/ - Nagios - Industry standard monitoring software, which has a lot of plugins and customisation posibilities.
+  * https://www.nagios.org/ - Nagios - Industry standard monitoring software, which has a lot of plugins and customisation posibilities. - GPL
 
 
 ## Media Streaming
 
-  * https://plex.tv/ - Plex - Plex is a centralized home media playback system with a powerful central server.
-  * http://htpc.io/  - HTPC Manager - A fully responsive interface to manage all your favorite media on your HTPC.
+  * https://plex.tv/ - Plex - Plex is a centralized home media playback system with a powerful central server. 
+  * http://htpc.io/  - HTPC Manager - A fully responsive interface to manage all your favorite media on your HTPC. - MIT
 
 ## Games
 
-  * https://github.com/jatekos101/20euros - 20euros - Clone of 2048 game with euros.
-  * https://github.com/Kshitij-Banerjee/Cubiks-2048 - Cubiks-2048 - Clone of 2048 game in 3D.
+  * https://github.com/jatekos101/20euros - 20euros - Clone of 2048 game with euros. - Unlicensed
+  * https://github.com/Kshitij-Banerjee/Cubiks-2048 - Cubiks-2048 - Clone of 2048 game in 3D. - CCANC 4.0
 
 ## File Synchronization Tools
 
@@ -40,27 +40,27 @@ Table of Contents
 
 ## File Sharing
 
-  * https://coquelicot.potager.org/ - Coquelicot - Coquelicot is a “one-click” file sharing web application with a focus on protecting users’ privacy.
+  * https://coquelicot.potager.org/ - Coquelicot - Coquelicot is a “one-click” file sharing web application with a focus on protecting users’ privacy. - GNU-AGPL 3.0
 
 ## Social Networks
 
-  * https://diasporafoundation.org/ - Diaspora - Distributed social networking service.
-  * http://friendica.com/ - Friendica - Social Communication Server.
+  * https://diasporafoundation.org/ - Diaspora - Distributed social networking service. - GNU-AGPL-3.0
+  * http://friendica.com/ - Friendica - Social Communication Server. GNU-AGPL 3.0
 
 ## Office Suites
 
-  * https://ethercalc.org/ - EtherCalc - Web spreadsheet.
-  * http://etherpad.org/ - Etherpad - Etherpad is a highly customizable Open Source online editor providing collaborative editing in really real-time.
+  * https://ethercalc.org/ - EtherCalc - Web spreadsheet. - CPAL 1.0
+  * http://etherpad.org/ - Etherpad - Etherpad is a highly customizable Open Source online editor providing collaborative editing in really real-time. - Apache License
 
 ## RSS Readers
 
-  * http://freshrss.org/ - Fresh RSS - A free, self-hostable RSS aggregator.
+  * http://freshrss.org/ - Fresh RSS - A free, self-hostable RSS aggregator. - GNU-AGPL-3.0
 
 ## Money & Budgeting
 
-  * http://ihatemoney.org/ - IHateMoney - Manage your shared expenses, easily.
+  * http://ihatemoney.org/ - IHateMoney - Manage your shared expenses, easily. - Copyright
 
 ## Gateways
 
-  * https://github.com/liftoff/GateOne/ - GateOne - Gate One is an HTML5 web-based terminal emulator and SSH client.
-  * http://guac-dev.org/ - Guacamole - Guacamole is a clientless remote desktop gateway. It supports standard protocols like VNC and RDP.
+  * https://github.com/liftoff/GateOne/ - GateOne - Gate One is an HTML5 web-based terminal emulator and SSH client. - AGPL 3.0
+  * http://guac-dev.org/ - Guacamole - Guacamole is a clientless remote desktop gateway. It supports standard protocols like VNC and RDP. - Copyright
