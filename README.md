@@ -11,6 +11,7 @@ Table of Contents
 
   * [Monitoring](#monitoring)
   * [Media Streaming](#media-streaming)
+  * [Photo Galleries](#photo-galleries)
   * [Games](#games)
   * [File Synchronization Tools](#file-synchronization-tools)
   * [File Sharing](#file-sharing)
@@ -18,6 +19,7 @@ Table of Contents
   * [Office Suites](#office-suites)
   * [RSS Readers](#rss-readers)
   * [Money & Budgeting](#money-budgeting)
+  * [Analytics](#analytics)
 
 ## Monitoring
 
