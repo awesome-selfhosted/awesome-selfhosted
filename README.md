@@ -9,15 +9,15 @@ You can help by sending Pull Requests to add more services.
 Table of Contents
 =================
 
-	* [Monitoring](#monitoring)
-	* [Media Streaming](#media-streaming)
-	* [Games](#games)
-	* [File Synchronization Tools](#file-synchronization-tools)
-	* [File Sharing](#file-sharing)
-	* [Social Networks](#social-networks)
-	* [Office Suites](#office-suites)
-	* [RSS Readers](#rss-readers)
-	* [Money & Budgeting](#money-budgeting)
+  * [Monitoring](#monitoring)
+  * [Media Streaming](#media-streaming)
+  * [Games](#games)
+  * [File Synchronization Tools](#file-synchronization-tools)
+  * [File Sharing](#file-sharing)
+  * [Social Networks](#social-networks)
+  * [Office Suites](#office-suites)
+  * [RSS Readers](#rss-readers)
+  * [Money & Budgeting](#money-budgeting)
 
 ## Monitoring
 
