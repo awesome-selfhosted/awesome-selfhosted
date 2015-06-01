@@ -20,6 +20,7 @@ Table of Contents
   * [RSS Readers](#rss-readers)
   * [Money & Budgeting](#money-budgeting)
   * [Analytics](#analytics)
+  * [URL Shorteners](#url-shorteners)
 
 ## Monitoring
 
@@ -28,10 +29,10 @@ Table of Contents
 
 ## Media Streaming
 
-  * https://plex.tv/ - Plex - Plex is a centralized home media playback system with a powerful central server. 
+  * https://plex.tv/ - Plex - Plex is a centralized home media playback system with a powerful central server.
   * http://htpc.io/  - HTPC Manager - A fully responsive interface to manage all your favorite media on your HTPC. - MIT
 
-## Photo Galleries 
+## Photo Galleries
 
   * http://piwigo.org/ - Piwigo - Photo gallery software for the web, built by an active community of users and developers. - GNU GPL 2.0
 
@@ -76,3 +77,6 @@ Table of Contents
 ## Analytics
 
   * https://piwik.org/ - Piwik - Leading open-source analytics platform that gives you more than just powerful analytics. - GNU GPL 3.0
+
+## URL Shorteners
+  * https://github.com/YOURLS/YOURLS - YOURLS - YOURLS is a set of PHP scripts that will allow you to run Your Own URL Shortener.
