@@ -16,6 +16,7 @@ Table of Contents
   * [File Synchronization Tools](#file-synchronization-tools)
   * [File Sharing](#file-sharing)
   * [Social Networks](#social-networks)
+  * [Communication Systems](#communication-systems)
   * [Office Suites](#office-suites)
   * [RSS Readers](#rss-readers)
   * [Money & Budgeting](#money-budgeting)
@@ -39,7 +40,7 @@ Table of Contents
 
   * https://github.com/jatekos101/20euros - 20euros - Clone of 2048 game with euros. - Unlicensed
   * https://github.com/Kshitij-Banerjee/Cubiks-2048 - Cubiks-2048 - Clone of 2048 game in 3D. - CCANC 4.0
-  * [Agar.IO Clone](https://github.com/huytd/agar.io-clone) - MIT
+  * https://github.com/huytd/agar.io-clone - Agar.IO Clone - Agar.io clone written with Socket.IO and HTML5 canvas - MIT
 
 ## File Synchronization Tools
 
@@ -53,7 +54,9 @@ Table of Contents
 
   * https://diasporafoundation.org/ - Diaspora - Distributed social networking service. - GNU-AGPL-3.0
   * http://friendica.com/ - Friendica - Social Communication Server. GNU-AGPL 3.0
-  * [Node-Chat](https://github.com/IgorAntun/node-chat) - A not-so-basic open-source chat with admin features. MIT
+## Communication Systems
+  
+  * https://github.com/IgorAntun/node-chat - Node-Chat - A not-so-basic open-source chat with admin features. - MIT
 
 ## Office Suites
 
