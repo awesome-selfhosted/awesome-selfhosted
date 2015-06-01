@@ -54,8 +54,9 @@ Table of Contents
 
   * https://diasporafoundation.org/ - Diaspora - Distributed social networking service. - GNU-AGPL-3.0
   * http://friendica.com/ - Friendica - Social Communication Server. GNU-AGPL 3.0
+
 ## Communication Systems
-  
+
   * https://github.com/IgorAntun/node-chat - Node-Chat - A not-so-basic open-source chat with admin features. - MIT
 
 ## Office Suites
