@@ -32,6 +32,7 @@ Table of Contents
 
   * https://plex.tv/ - Plex - Plex is a centralized home media playback system with a powerful central server.
   * http://htpc.io/  - HTPC Manager - A fully responsive interface to manage all your favorite media on your HTPC. - MIT
+  * https://github.com/MediaBrowser/MediaBrowser - Emby - A home media server built using other popular open source technologies. - GNU GPL 2.0
 
 ## Photo Galleries
 
