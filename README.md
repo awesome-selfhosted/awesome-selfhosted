@@ -85,4 +85,4 @@ Table of Contents
   * https://piwik.org/ - Piwik - Leading open-source analytics platform that gives you more than just powerful analytics. - GNU GPL 3.0
 
 ## URL Shorteners
-  * https://github.com/YOURLS/YOURLS - YOURLS - YOURLS is a set of PHP scripts that will allow you to run Your Own URL Shortener.
+  * https://github.com/YOURLS/YOURLS - YOURLS - YOURLS is a set of PHP scripts that will allow you to run Your Own URL Shortener. - MIT
