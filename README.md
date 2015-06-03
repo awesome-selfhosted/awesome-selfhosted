@@ -67,6 +67,10 @@ Table of Contents
 
   * https://github.com/IgorAntun/node-chat - Node-Chat - A not-so-basic open-source chat with admin features. - MIT
 
+## Content Management Systems (CMS)
+
+ * [Pagekit](http://pagekit.com/) - A new modern CMS to create and share ([Source code](https://github.com/pagekit/pagekit)) - `MIT`
+
 ## Download tools
 
  * [Alltube](https://github.com/Rudloff/alltube) - A web interface for [youtube-dl](https://github.com/rg3/youtube-dl), a program to download videos and audio from [more than 100 websites](https://rg3.github.io/youtube-dl/supportedsites.html) ([Demo](http://alltubedownload.net/))
