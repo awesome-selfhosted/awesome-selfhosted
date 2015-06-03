@@ -93,7 +93,7 @@ Table of Contents
 ## Gateways
 
   * https://github.com/liftoff/GateOne/ - GateOne - Gate One is an HTML5 web-based terminal emulator and SSH client. -  - `AGPL 3.0`
-  * http://guac-dev.org/ - Guacamole - Guacamole is a clientless remote desktop gateway. It supports standard protocols like VNC and RDP. - Copyright
+  * http://guac-dev.org/ - Guacamole - Guacamole is a clientless remote desktop gateway. It supports standard protocols like VNC and RDP. - `Proprietary`
 
 ## Groupware
   * https://kolab.org/ - http://git.kolab.org/ - Kolab - Kolab community is a unified communication and collaboration system - Various Free Software / Open Source Software Licenses
@@ -107,7 +107,7 @@ Table of Contents
 
 ## Money & Budgeting
 
-  * http://ihatemoney.org/ - IHateMoney - Manage your shared expenses, easily. - Copyright
+  * http://ihatemoney.org/ - IHateMoney - Manage your shared expenses, easily. - `Proprietary`
 
 ## Monitoring
 
