@@ -31,10 +31,10 @@ Table of Contents
 
 ## Analytics
 
-  * https://piwik.org/ - Piwik - Leading open-source analytics platform that gives you more than just powerful analytics. - `GNU GPL 3.0`
+  * [Piwik](https://piwik.org/) - Leading open-source analytics platform that gives you more than just powerful analytics. - `GNU GPL 3.0`
 
 ## Automation
-  * https://github.com/cantino/huginn - Huginn - Allows you to build agents that monitor and act on your behalf. Built in Ruby - `MIT`
+  * [Huginn](https://github.com/cantino/huginn) - Allows you to build agents that monitor and act on your behalf. Built in Ruby - `MIT`
 
 ## Blogging platforms
 
@@ -65,7 +65,7 @@ Table of Contents
 
 ## Communication Systems
 
-  * https://github.com/IgorAntun/node-chat - Node-Chat - A not-so-basic open-source chat with admin features. - `MIT`
+  * [Node-Chat](https://github.com/IgorAntun/node-chat) - A not-so-basic open-source chat with admin features. - `MIT`
 
 ## Content Management Systems (CMS)
 
@@ -77,63 +77,63 @@ Table of Contents
 
 ## File Sharing
 
-  * https://coquelicot.potager.org/ - Coquelicot - Coquelicot is a “one-click” file sharing web application with a focus on protecting users’ privacy. - `GNU-AGPL 3.0`
+  * [Coquelicot](https://coquelicot.potager.org/) - Coquelicot is a “one-click” file sharing web application with a focus on protecting users’ privacy. - `GNU-AGPL 3.0`
 
 ## File Synchronization Tools
 
-  * https://www.getsync.com/ - BTSync - BitTorrent Sync by BitTorrent, Inc is a proprietary peer-to-peer file synchronisation tool.
-  * https://github.com/syncthing/syncthing - Syncthing - Syncthing is an open source peer-to-peer file synchronisation tool - MPL 2.0
+  * [BTSync](https://www.getsync.com/) - BitTorrent Sync by BitTorrent, Inc is a proprietary peer-to-peer file synchronisation tool.
+  * [Syncthing](https://github.com/syncthing/syncthing) - Syncthing is an open source peer-to-peer file synchronisation tool - MPL 2.0
 
 ## Games
 
-  * https://github.com/jatekos101/20euros - 20euros - Clone of 2048 game with euros. - Unlicensed
-  * https://github.com/Kshitij-Banerjee/Cubiks-2048 - Cubiks-2048 - Clone of 2048 game in 3D. - `CCANC 4.0`
-  * https://github.com/huytd/agar.io-clone - Agar.IO Clone - Agar.io clone written with Socket.IO and HTML5 canvas - `MIT`
+  * [20euros](https://github.com/jatekos101/20euros) - Clone of 2048 game with euros. - Unlicensed
+  * [Cubiks-2048](https://github.com/Kshitij-Banerjee/Cubiks-2048) - Clone of 2048 game in 3D. - `CCANC 4.0`
+  * [Agar.IO Clone](https://github.com/huytd/agar.io-clone) - Agar.io clone written with Socket.IO and HTML5 canvas - `MIT`
 
 ## Gateways
 
-  * https://github.com/liftoff/GateOne/ - GateOne - Gate One is an HTML5 web-based terminal emulator and SSH client. -  - `AGPL 3.0`
-  * http://guac-dev.org/ - Guacamole - Guacamole is a clientless remote desktop gateway. It supports standard protocols like VNC and RDP. - `Proprietary`
+  * [GateOne](https://github.com/liftoff/GateOne/) - Gate One is an HTML5 web-based terminal emulator and SSH client. -  - `AGPL 3.0`
+  * [Guacamole](http://guac-dev.org/) - Guacamole is a clientless remote desktop gateway. It supports standard protocols like VNC and RDP. - `Proprietary`
 
 ## Groupware
-  * https://kolab.org/ - http://git.kolab.org/ - Kolab - Kolab community is a unified communication and collaboration system - Various Free Software / Open Source Software Licenses
-  * http://www.horde.org/ - Horde - The Horde Project is about creating high quality Open Source applications and libraries, based on PHP and the Horde Framework. - `GPL` + Various Free Software / Open Source Software Licenses
+  * [http://git.kolab.org/](https://kolab.org/) - Kolab - Kolab community is a unified communication and collaboration system - Various Free Software / Open Source Software Licenses
+  * [Horde](http://www.horde.org/) - The Horde Project is about creating high quality Open Source applications and libraries, based on PHP and the Horde Framework. - `GPL` + Various Free Software / Open Source Software Licenses
 
 ## Media Streaming
 
-  * https://plex.tv/ - Plex - Plex is a centralized home media playback system with a powerful central server.
-  * http://htpc.io/  - HTPC Manager - A fully responsive interface to manage all your favorite media on your HTPC. - `MIT`
-  * https://github.com/MediaBrowser/MediaBrowser - Emby - A home media server built using other popular open source technologies. - `GNU GPL 2.0`
+  * [Plex](https://plex.tv/) - Plex is a centralized home media playback system with a powerful central server.
+  * [HTPC Manager](http://htpc.io/) - A fully responsive interface to manage all your favorite media on your HTPC. - `MIT`
+  * [Emby](https://github.com/MediaBrowser/MediaBrowser) - A home media server built using other popular open source technologies. - `GNU GPL 2.0`
 
 ## Money & Budgeting
 
-  * http://ihatemoney.org/ - IHateMoney - Manage your shared expenses, easily. - `Proprietary`
+  * [IHateMoney](http://ihatemoney.org/) - Manage your shared expenses, easily. - `Proprietary`
 
 ## Monitoring
 
-  * https://www.nagios.org/ - Nagios - Industry standard monitoring software, which has a lot of plugins and customisation posibilities. - `GPL`
+  * [Nagios](https://www.nagios.org/) - Industry standard monitoring software, which has a lot of plugins and customisation posibilities. - `GPL`
 
 ## Office Suites
 
-  * http://onlyoffice.org/ - Only Office - An office suite that enables you to manage documents, projects, team and customer relations in one place. - GNU  - `AGPL 3.0`
-  * https://ethercalc.org/ - EtherCalc - Web spreadsheet. - CPAL 1.0
-  * http://etherpad.org/ - Etherpad - Etherpad is a highly customizable Open Source online editor providing collaborative editing in really real-time. - `Apache License`
+  * [Only Office](http://onlyoffice.org/) - An office suite that enables you to manage documents, projects, team and customer relations in one place. - GNU  - `AGPL 3.0`
+  * [EtherCalc](https://ethercalc.org/) - Web spreadsheet. - CPAL 1.0
+  * [Etherpad](http://etherpad.org/) - Etherpad is a highly customizable Open Source online editor providing collaborative editing in really real-time. - `Apache License`
 
 ## Photo Galleries
 
-  * http://piwigo.org/ - Piwigo - Photo gallery software for the web, built by an active community of users and developers. - `GNU GPL 2.0`
-  * https://github.com/electerious/Lychee - Lychee - an open source grid and album based photo-management-system - `MIT` 
+  * [Piwigo](http://piwigo.org/) - Photo gallery software for the web, built by an active community of users and developers. - `GNU GPL 2.0`
+  * [Lychee](https://github.com/electerious/Lychee) - an open source grid and album based photo-management-system - `MIT` 
 
 ## RSS Readers
 
-  * http://freshrss.org/ - Fresh RSS - A free, self-hostable RSS aggregator. - `GNU-AGPL-3.0`
-  * https://tt-rss.org/redmine/projects/tt-rss/wiki - Tiny Tiny RSS - Open source web-based news feed (RSS/Atom) reader and aggregator. - `GNU GPL 3.0`
+  * [Fresh RSS](http://freshrss.org/) - A free, self-hostable RSS aggregator. - `GNU-AGPL-3.0`
+  * [Tiny Tiny RSS](https://tt-rss.org/redmine/projects/tt-rss/wiki) - Open source web-based news feed (RSS/Atom) reader and aggregator. - `GNU GPL 3.0`
 
 ## Social Networks
 
-  * https://diasporafoundation.org/ - Diaspora - Distributed social networking service. - `GNU-AGPL-3.0`
-  * http://friendica.com/ - Friendica - Social Communication Server. GNU- - `AGPL 3.0`
+  * [Diaspora](https://diasporafoundation.org/) - Distributed social networking service. - `GNU-AGPL-3.0`
+  * [Friendica](http://friendica.com/) - Social Communication Server. GNU- - `AGPL 3.0`
   * [BuddyPress](http://buddypress.org/about/) - A powerful plugin that takes your WordPress.org powered site beyond the blog with social-network features like user profiles, activity streams, user groups, and more.
 
 ## URL Shorteners
-  * https://github.com/YOURLS/YOURLS - YOURLS - YOURLS is a set of PHP scripts that will allow you to run Your Own URL Shortener. - `MIT`
+  * [YOURLS](https://github.com/YOURLS/YOURLS) - YOURLS is a set of PHP scripts that will allow you to run Your Own URL Shortener. - `MIT`
