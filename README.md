@@ -11,7 +11,10 @@ Table of Contents
 
   * [Analytics](#analytics)
   * [Automation](#automation)
+  * [Blogging Platforms](#blogging-platforms)
+  * [Bug and task trackers](#bug-and-task-trackers)
   * [Communication Systems](#communication-systems)
+  * [Download tools](#download-tools)
   * [File Sharing](#file-sharing)
   * [File Synchronization Tools](#file-synchronization-tools)
   * [Games](#games)
@@ -33,9 +36,40 @@ Table of Contents
 ## Automation
   * https://github.com/cantino/huginn - Huginn - Allows you to build agents that monitor and act on your behalf. Built in Ruby - MIT
 
+## Blogging platforms
+
+ * [Chyrp](http://chyrp.net/) - An extra-awesome, extra-lightweight blog engine ([Source code](https://github.com/chyrp/chyrp))
+ * [Dotclear](http://dotclear.org/) - Take control over your blog!
+ * [Wordpress](https://wordpress.org/) - Create a beautiful website or blog.
+ * [Blogotext](http://lehollandaisvolant.net/blogotext/en/) - a free blog-engine written in PHP and using SQLite. This offers you both an unmatched simplicity during installation and great performances. ([Source code](https://github.com/timovn/blogotext)
+ * [Ghost](http://ghost.org/) - Just a blogging platform
+ * [blosxom](http://blosxom.sourceforge.net/) -  a lightweight yet feature-packed weblog application designed from the ground up with simplicity, usability, and interoperability in mind.
+ * [htmly](https://github.com/danpros/htmly) - Databaseless Blogging Platform (Flat-File Blog) ([Demo](http://www.htmly.com/demo/))
+ * [PluXml](http://www.pluxml.org/) - XML-based blog/CMS platform
+ * [Anchor CMS](http://anchorcms.com/) -  Anchor is a free, lightweight, faster-than-a-bullet, simple blogging system, made for art–directed posts. ([Source code](https://github.com/anchorcms/anchor-cms))
+ * [WeblogMatrix](http://www.weblogmatrix.org/) - Blogging platforms comparator
+
+## Bug and task trackers
+
+  * [Bumpy Booby](http://bumpy-booby.derivoile.fr/) - A simple, responsive and highly customizable PHP bug tracking system. ([Source code](https://github.com/piero-la-lune/Bumpy-Booby))
+  * [Phproject](http://www.phproject.org/) - A high performance full-featured project management system ([Source code](https://github.com/Alanaktion/phproject), [Demo](http://demo.phproject.org/))
+  * [92five](http://92fiveapp.com/) - Self hosted project management application ([Source code](https://github.com/chintanbanugaria/92five))
+  * [Flyspray](http://www.flyspray.org/) - uncomplicated, web-based bug tracking system ([Source code](https://github.com/Flyspray/flyspray))
+  * [Tinyissue](https://github.com/mikelbring/tinyissue) - Simple Issue Tracking for Teams
+  * [Kanboard](http://kanboard.net/) - A simple and open source visual task board
+  * [Taiga.io](https://taiga.io/) - Your Agile, Free and Open Source Project Management Tool ([Source code](https://github.com/taigaio))
+  * [Gaskit](https://github.com/bkeepers/gaskit) - a git-backed issue tracker. It uses a branch in your local git database to store the tickets.
+  * [Redmine](http://www.redmine.org/) - Redmine is a flexible project management web application
+  * [Apache Bloodhound](https://bloodhound.apache.org/) - Manage software products, Keep track of features, tasks and bugs
+  * [ChiliProject](https://www.chiliproject.org/) - a web based project management system.
+
 ## Communication Systems
 
   * https://github.com/IgorAntun/node-chat - Node-Chat - A not-so-basic open-source chat with admin features. - MIT
+
+## Download tools
+
+ * [Alltube](https://github.com/Rudloff/alltube) - A web interface for [youtube-dl](https://github.com/rg3/youtube-dl), a program to download videos and audio from [more than 100 websites](https://rg3.github.io/youtube-dl/supportedsites.html) ([Demo](http://alltubedownload.net/))
 
 ## File Sharing
 
@@ -90,11 +124,12 @@ Table of Contents
 
   * http://freshrss.org/ - Fresh RSS - A free, self-hostable RSS aggregator. - GNU-AGPL-3.0
   * https://tt-rss.org/redmine/projects/tt-rss/wiki - Tiny Tiny RSS - Open source web-based news feed (RSS/Atom) reader and aggregator. - GNU GPL 3.0
-  
+
 ## Social Networks
 
   * https://diasporafoundation.org/ - Diaspora - Distributed social networking service. - GNU-AGPL-3.0
   * http://friendica.com/ - Friendica - Social Communication Server. GNU-AGPL 3.0
-  
+  * [BuddyPress](http://buddypress.org/about/) - A powerful plugin that takes your WordPress.org powered site beyond the blog with social-network features like user profiles, activity streams, user groups, and more.
+
 ## URL Shorteners
   * https://github.com/YOURLS/YOURLS - YOURLS - YOURLS is a set of PHP scripts that will allow you to run Your Own URL Shortener. - MIT
