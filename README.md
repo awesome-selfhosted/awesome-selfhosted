@@ -22,6 +22,8 @@ Table of Contents
   * [Money & Budgeting](#money-budgeting)
   * [Analytics](#analytics)
   * [URL Shorteners](#url-shorteners)
+  * [Automation](#automation)
+  * [Groupware](#groupware)
 
 ## Monitoring
 
@@ -37,6 +39,7 @@ Table of Contents
 ## Photo Galleries
 
   * http://piwigo.org/ - Piwigo - Photo gallery software for the web, built by an active community of users and developers. - GNU GPL 2.0
+  * https://github.com/electerious/Lychee - Lychee - an open source grid and album based photo-management-system - MIT
 
 ## Games
 
@@ -47,6 +50,7 @@ Table of Contents
 ## File Synchronization Tools
 
   * https://www.getsync.com/ - BTSync - BitTorrent Sync by BitTorrent, Inc is a proprietary peer-to-peer file synchronisation tool.
+  * https://github.com/syncthing/syncthing - Syncthing - Syncthing is an open source peer-to-peer file synchronisation tool - MPL 2.0
 
 ## File Sharing
 
@@ -87,3 +91,10 @@ Table of Contents
 
 ## URL Shorteners
   * https://github.com/YOURLS/YOURLS - YOURLS - YOURLS is a set of PHP scripts that will allow you to run Your Own URL Shortener. - MIT
+ 
+## Automation
+  * https://github.com/cantino/huginn - Huginn - Allows you to build agents that monitor and act on your behalf. Built in Ruby - MIT
+  
+## Groupware
+  * https://kolab.org/ - http://git.kolab.org/ - Kolab - Kolab community is a unified communication and collaboration system - Various Free Software / Open Source Software Licenses
+  * http://www.horde.org/ - Horde - The Horde Project is about creating high quality Open Source applications and libraries, based on PHP and the Horde Framework. - GPL + Various Free Software / Open Source Software Licenses
