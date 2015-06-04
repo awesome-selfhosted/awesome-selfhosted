@@ -140,6 +140,9 @@ CMS are a practical way to setup a website with many features. CMS often come wi
 ## Monitoring
 
   * [Nagios](https://www.nagios.org/) - Industry standard monitoring software, which has a lot of plugins and customisation posibilities. - `GPL`
+  * [linux-dash](https://github.com/afaqurk/linux-dash) - A drop-in, low-overhead monitoring web dashboard for a linux machine ([Demo](http://afaq.dreamhosters.com/linux-dash/))
+  * [pyDash](https://github.com/k3oni/pydash) - Small web-based monitoring dashboard for linux ([Demo](http://pydash.hostechs.com/main/) - _admin/admin_)
+  * [psdash](https://github.com/Jahaja/psdash) - A linux system information web dashboard using psutils and flask
 
 ## Office Suites
 
