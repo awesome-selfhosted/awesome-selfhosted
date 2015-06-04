@@ -14,11 +14,12 @@ Table of Contents
   * [Blogging Platforms](#blogging-platforms)
   * [Bug and task trackers](#bug-and-task-trackers)
   * [Communication Systems](#communication-systems)
-  * [Download tools](#download-tools)
+  * [Download Tools](#download-tools)
   * [File Sharing](#file-sharing)
   * [File Synchronization Tools](#file-synchronization-tools)
   * [Games](#games)
   * [Gateways](#gateways)
+  * [Link Sharing](#link-sharing)
   * [Groupware](#groupware)
   * [Media Streaming](#media-streaming)
   * [Money & Budgeting](#money-budgeting)
@@ -27,6 +28,7 @@ Table of Contents
   * [Photo Galleries](#photo-galleries)
   * [RSS Readers](#rss-readers)
   * [Social Networks](#social-networks)
+  * [Software Development Platforms](#software-development-platforms)
   * [URL Shorteners](#url-shorteners)
 
 ## Analytics
@@ -69,7 +71,22 @@ Table of Contents
 
 ## Content Management Systems (CMS)
 
- * [Pagekit](http://pagekit.com/) - A new modern CMS to create and share ([Source code](https://github.com/pagekit/pagekit)) - `MIT`
+CMS are a practical way to setup a website with many features. CMS often come with third party plugins, themes and functionality that is easy to add and customize to your needs.
+
+  * [Pagekit](http://pagekit.com/) - A new modern CMS to create and share ([Source code](https://github.com/pagekit/pagekit)) - `MIT`
+  * [Wordpress](https://wordpress.org/) - WordPress is web software you can use to create a beautiful website or blog. ([Source code mirror](https://github.com/WordPress/WordPress))
+  * [Pico](http://picocms.org/) - A stupidly simple, blazing fast, flat file CMS. ([Source code](https://github.com/gilbitron/Pico))
+  * [99ko CMS](http://99ko.hellojo.fr) - 99ko est un CMS permettant de créer un site web en quelques minutes et sans connaissances particulières en programmation. Il fonctionne sans base de données et utilise de simples fichiers texte (format JSON) pour stocker vos données. ([Source code](https://github.com/99ko-project/99ko-cms))
+  * [Baun](http://bauncms.com/) - A modern, lightweight, extensible CMS for PHP - ([Source code](https://github.com/BaunCMS/Baun))
+  * [october](http://octobercms.com/) - Free, open-source, self-hosted CMS platform based on the Laravel PHP Framework. ([Source code](https://github.com/octobercms/october))
+  * [SPIP](http://www.spip.net/fr) - SPIP est un Système de Publication pour l’Internet.
+  * [Drupal](https://drupal.org/) - open source content management platform
+  * [Joomal!](http://www.joomla.fr/) - un système de gestion de contenu (CMS)
+  * [Bolt](http://bolt.cm/) - Sophisticated, lightweight & simple CMS ([Source code](https://github.com/bolt/bolt))
+  * [CMS Made Simple](http://www.cmsmadesimple.org/) - open source content management system, faster and easier management of website contents, scalable for small businesses to large corporations.
+  * [GetSimple CMS](http://get-simple.info/) - The Simplest Content Management System. Ever.
+  * [Movable Type](https://movabletype.org/) - a powerful solution for the creation and management of web content.
+  * [Concrete 5 CMS](http://www.concrete5.org/) - an open source content management system
 
 ## Download tools
 
@@ -78,6 +95,9 @@ Table of Contents
 ## File Sharing
 
   * [Coquelicot](https://coquelicot.potager.org/) - Coquelicot is a “one-click” file sharing web application with a focus on protecting users’ privacy. - `GNU-AGPL 3.0`
+  * [Mediacrush](https://mediacru.sh/) - a website you can upload images, audio, and video to, and receive a link to share it with your friends ([Source code](https://github.com/MediaCrush/MediaCrush))
+  * [lutim](https://github.com/ldidry/lutim) - Let's Upload That Image !
+  * [img.bi](https://github.com/imgbi/img.bi) - img.bi is a secure image hosting. Images are encrypted using AES-256 with random key in browser before upload.
 
 ## File Synchronization Tools
 
@@ -99,6 +119,14 @@ Table of Contents
   * [http://git.kolab.org/](https://kolab.org/) - Kolab - Kolab community is a unified communication and collaboration system - Various Free Software / Open Source Software Licenses
   * [Horde](http://www.horde.org/) - The Horde Project is about creating high quality Open Source applications and libraries, based on PHP and the Horde Framework. - `GPL` + Various Free Software / Open Source Software Licenses
 
+## Link Sharing
+  * [Shaarli](https://github.com/shaarli/Shaarli) - Personal, minimalist, super-fast, no-database bookmarking and link sharing plaform. ([Demo](http://shaarlidemo.tuxfamily.org/Shaarli) - `demo/demo`)
+  * [Bookie](https://github.com/bookieio/Bookie) - Python based delicious.com replacement ([Firefox addon](https://github.com/bookieio/bookie-firefox), [Demo](http://bmark.us/), [Documentation](http://docs.bmark.us/)
+  * [unmark](https://github.com/plainmade/unmark) - An open source to do app for links
+  * [Pinry](http://getpinry.com/) - The tiling image board system for people who want to save, tag, and share images, videos, and webpages. ([Demo](http://demo.getpinry.com/), [Source code](https://github.com/pinry/pinry))
+  * [semanticscuttle](http://semanticscuttle.sourceforge.net/) - a social bookmarking tool experimenting with features like structured tags and collaborative tag descriptions.
+  * [Lobsters](https://lobste.rs) - Run your own link aggregation site - ([Source code](https://github.com/jcs/lobsters))
+
 ## Media Streaming
 
   * [Plex](https://plex.tv/) - Plex is a centralized home media playback system with a powerful central server.
@@ -112,6 +140,9 @@ Table of Contents
 ## Monitoring
 
   * [Nagios](https://www.nagios.org/) - Industry standard monitoring software, which has a lot of plugins and customisation posibilities. - `GPL`
+  * [linux-dash](https://github.com/afaqurk/linux-dash) - A drop-in, low-overhead monitoring web dashboard for a linux machine ([Demo](http://afaq.dreamhosters.com/linux-dash/))
+  * [pyDash](https://github.com/k3oni/pydash) - Small web-based monitoring dashboard for linux ([Demo](http://pydash.hostechs.com/main/) - _admin/admin_)
+  * [psdash](https://github.com/Jahaja/psdash) - A linux system information web dashboard using psutils and flask
 
 ## Office Suites
 
@@ -119,10 +150,25 @@ Table of Contents
   * [EtherCalc](https://ethercalc.org/) - Web spreadsheet. - CPAL 1.0
   * [Etherpad](http://etherpad.org/) - Etherpad is a highly customizable Open Source online editor providing collaborative editing in really real-time. - `Apache License`
 
-## Photo Galleries
+## Photo and Video Galleries
 
   * [Piwigo](http://piwigo.org/) - Photo gallery software for the web, built by an active community of users and developers. - `GNU GPL 2.0`
-  * [Lychee](https://github.com/electerious/Lychee) - an open source grid and album based photo-management-system - `MIT` 
+  * [Lychee](http://lychee.electerious.com/) - an open source grid and album based photo-management-system ([Source code](https://github.com/electerious/Lychee)) - `MIT`
+  * [Mediagoblin](http://mediagoblin.org) -  a free software media publishing platform that anyone can run. You can think of it as a decentralized alternative to Flickr, YouTube, SoundCloud, etc
+  * [CumulusClips](http://cumulusclips.org/) - your own video sharing website with CumulusClips video sharing script. You can build a YouTube clone where users can upload videos, rate videos, comment on videos, and much more. ([Demo](https://tube.devosi.org/))
+  * [Shot.io](http://shot.io/) - Mobile optimised photo publishing platform (self-hosted Flickr alternative) ([Source code](https://github.com/AliasIO/Shot.io))
+  * [MinigalNano](https://github.com/sebsauvage/MinigalNano) - MinigalNano is a very simple image gallery. It adheres to the KISS principle and is very easy to install. MinigalNano does not have a web admin interface: You just upload your images in the photo folder on your server (using FTP, SFTP...) ([Demo](http://boards.tomcanac.com/))
+  * [UberGallery](http://www.ubergallery.net) - U berGallery is an easy to use, simple to manage, web photo gallery. UberGallery does not require a database and supports JPEG, GIF and PNG file types. Simply upload your images and UberGallery will automatically generate thumbnails and output HTML. ([Source code](https://github.com/UberGallery/UberGallery))
+  * [Single File PHP Gallery](http://sye.dk/sfpg/) - is a web gallery in one single PHP file.
+  * [Photofloat](http://blog.zx2c4.com/567) - A Web 2.0 Photo Gallery Done Right via Static JSON & Dynamic Javascript ([Demo](http://photos.jasondonenfeld.com/))
+  * [Zenphoto](http://www.zenphoto.org/) - open-source gallery and CMS project ([Source code](https://github.com/zenphoto/zenphoto))
+  * [Photoshow](http://www.photoshow-gallery.com/) - ([Source code](https://github.com/thibaud-rohmer/PhotoShow))
+  * [Pygmyfoto](https://github.com/dmpop/pygmyfoto) - A crude solution for publishing a photo roll on the web
+  * [PhotoLight](https://github.com/thibaud-rohmer/PhotoLight) - The easiest photo gallery there is
+  * [phog](https://github.com/hillman/phog) - Static photo gallery generator with S3 uploader
+  * [sigal](https://github.com/saimn/sigal) - yet another simple static gallery generator
+  * [Gallery](http://galleryproject.org/) -  The simplest, most intuitive way to host your photos on your website ([Source code](https://github.com/gallery/gallery3))
+
 
 ## RSS Readers
 
@@ -134,6 +180,15 @@ Table of Contents
   * [Diaspora](https://diasporafoundation.org/) - Distributed social networking service. - `GNU-AGPL-3.0`
   * [Friendica](http://friendica.com/) - Social Communication Server. GNU- - `AGPL 3.0`
   * [BuddyPress](http://buddypress.org/about/) - A powerful plugin that takes your WordPress.org powered site beyond the blog with social-network features like user profiles, activity streams, user groups, and more.
+
+## Software development platforms
+
+  * [Gitlist](http://gitlist.org/) - A web-based git repository browser - GitList allows you to browse repositories using your favorite browser, viewing files under different revisions, commit history and diffs. ([Source code](https://github.com/klaussilveira/gitlist))
+  * [Gitprep](http://gitprep.org/) - Portable Github clone ([Source on Github](https://github.com/yuki-kimoto/gitprep), [Demo](http://perlcodesample.sakura.ne.jp/gitprep.cgi))
+  * [Repo.js](http://darcyclarke.me/dev/repojs/) - A plugin to embed Github repos on your site [Github project](https://github.com/darcyclarke/Repo.js)
+  * [GitLab: Self Hosted Git Management Application](http://gitlab.org/) - GitLab is open source software to collaborate on code. Manage git repositories with fine grained access controls that keep your code secure. Perform code reviews and enhance collaboration with merge requests. Each project can also have an issue tracker and a wiki ([Public instance](https://git.framasoft.org/)
+  * [Gogs](https://github.com/gogits/gogs) - a painless self-hosted Git Service written in Go. ([Demo](http://try.gogits.org))
+  * [gitbucket](http://takezoe.github.io/gitbucket/) - The easily installable GitHub clone powered by Scala - ([Source code](https://github.com/takezoe/gitbucket))
 
 ## URL Shorteners
   * [YOURLS](https://github.com/YOURLS/YOURLS) - YOURLS is a set of PHP scripts that will allow you to run Your Own URL Shortener. - `MIT`
