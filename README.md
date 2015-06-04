@@ -14,11 +14,12 @@ Table of Contents
   * [Blogging Platforms](#blogging-platforms)
   * [Bug and task trackers](#bug-and-task-trackers)
   * [Communication Systems](#communication-systems)
-  * [Download tools](#download-tools)
+  * [Download Tools](#download-tools)
   * [File Sharing](#file-sharing)
   * [File Synchronization Tools](#file-synchronization-tools)
   * [Games](#games)
   * [Gateways](#gateways)
+  * [Link Sharing](#link-sharing)
   * [Groupware](#groupware)
   * [Media Streaming](#media-streaming)
   * [Money & Budgeting](#money-budgeting)
@@ -27,6 +28,7 @@ Table of Contents
   * [Photo Galleries](#photo-galleries)
   * [RSS Readers](#rss-readers)
   * [Social Networks](#social-networks)
+  * [Software Development Platforms](#software-development-platforms)
   * [URL Shorteners](#url-shorteners)
 
 ## Analytics
@@ -115,6 +117,14 @@ CMS are a practical way to setup a website with many features. CMS often come wi
   * [http://git.kolab.org/](https://kolab.org/) - Kolab - Kolab community is a unified communication and collaboration system - Various Free Software / Open Source Software Licenses
   * [Horde](http://www.horde.org/) - The Horde Project is about creating high quality Open Source applications and libraries, based on PHP and the Horde Framework. - `GPL` + Various Free Software / Open Source Software Licenses
 
+## Link Sharing
+  * [Shaarli](https://github.com/shaarli/Shaarli) - Personal, minimalist, super-fast, no-database bookmarking and link sharing plaform. ([Demo](http://shaarlidemo.tuxfamily.org/Shaarli) - `demo/demo`)
+  * [Bookie](https://github.com/bookieio/Bookie) - Python based delicious.com replacement ([Firefox addon](https://github.com/bookieio/bookie-firefox), [Demo](http://bmark.us/), [Documentation](http://docs.bmark.us/)
+  * [unmark](https://github.com/plainmade/unmark) - An open source to do app for links
+  * [Pinry](http://getpinry.com/) - The tiling image board system for people who want to save, tag, and share images, videos, and webpages. ([Demo](http://demo.getpinry.com/), [Source code](https://github.com/pinry/pinry))
+  * [semanticscuttle](http://semanticscuttle.sourceforge.net/) - a social bookmarking tool experimenting with features like structured tags and collaborative tag descriptions.
+  * [Lobsters](https://lobste.rs) - Run your own link aggregation site - ([Source code](https://github.com/jcs/lobsters))
+
 ## Media Streaming
 
   * [Plex](https://plex.tv/) - Plex is a centralized home media playback system with a powerful central server.
@@ -159,6 +169,14 @@ CMS are a practical way to setup a website with many features. CMS often come wi
   * [Diaspora](https://diasporafoundation.org/) - Distributed social networking service. - `GNU-AGPL-3.0`
   * [Friendica](http://friendica.com/) - Social Communication Server. GNU- - `AGPL 3.0`
   * [BuddyPress](http://buddypress.org/about/) - A powerful plugin that takes your WordPress.org powered site beyond the blog with social-network features like user profiles, activity streams, user groups, and more.
+
+## Software development platforms
+
+  * [Gitprep](http://gitprep.org/) - Portable Github clone ([Source on Github](https://github.com/yuki-kimoto/gitprep), [Demo](http://perlcodesample.sakura.ne.jp/gitprep.cgi))
+  * [Repo.js](http://darcyclarke.me/dev/repojs/) - A plugin to embed Github repos on your site [Github project](https://github.com/darcyclarke/Repo.js)
+  * [GitLab: Self Hosted Git Management Application](http://gitlab.org/) - GitLab is open source software to collaborate on code. Manage git repositories with fine grained access controls that keep your code secure. Perform code reviews and enhance collaboration with merge requests. Each project can also have an issue tracker and a wiki ([Public instance](https://git.framasoft.org/)
+  * [Gogs](https://github.com/gogits/gogs) - a painless self-hosted Git Service written in Go. ([Demo](http://try.gogits.org))
+  * [gitbucket](http://takezoe.github.io/gitbucket/) - The easily installable GitHub clone powered by Scala - ([Source code](https://github.com/takezoe/gitbucket))
 
 ## URL Shorteners
   * [YOURLS](https://github.com/YOURLS/YOURLS) - YOURLS is a set of PHP scripts that will allow you to run Your Own URL Shortener. - `MIT`
