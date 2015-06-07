@@ -6,6 +6,12 @@ This is list of software which can be hosted locally.
 
 You can help by sending Pull Requests to add more services.
 
+### Note about closed source software
+Based on [this issue](https://github.com/Kickball/awesome-selfhosted/issues/8), I have decided to implement a closed source tag which will be used to identify closed source softare. The following tag will be used:
+
+![](https://camo.githubusercontent.com/1ce14dfd4d91a5e02da52dc135a3e144bab4a61c/687474703a2f2f706963726573697a652e636f6d2f696d616765732f72737a5f3172737a5f636c6f7365642d736f757263652d746d342e706e67)
+
+
 Table of Contents
 =================
 
@@ -22,10 +28,10 @@ Table of Contents
   * [Groupware](#groupware)
   * [Link Sharing](#link-sharing)
   * [Media Streaming](#media-streaming)
-  * [Money & Budgeting](#money-budgeting)
+  * [Money and Budgeting](#money-and-budgeting)
   * [Monitoring](#monitoring)
   * [Office Suites](#office-suites)
-  * [Photo Galleries](#photo-galleries)
+  * [Photo and Video Galleries](#photo-and-video-galleries)
   * [RSS Readers](#rss-readers)
   * [Social Networks](#social-networks)
   * [Software Development Platforms](#software-development-platforms)
@@ -133,9 +139,9 @@ CMS are a practical way to setup a website with many features. CMS often come wi
 
   * [Emby](https://github.com/MediaBrowser/MediaBrowser) - A home media server built using other popular open source technologies. - `GNU GPL 2.0`
   * [HTPC Manager](http://htpc.io/) - A fully responsive interface to manage all your favorite media on your HTPC. - `MIT`
-  * [Plex](https://plex.tv/) - Plex is a centralized home media playback system with a powerful central server.
+  * ![](https://camo.githubusercontent.com/1ce14dfd4d91a5e02da52dc135a3e144bab4a61c/687474703a2f2f706963726573697a652e636f6d2f696d616765732f72737a5f3172737a5f636c6f7365642d736f757263652d746d342e706e67) - [Plex](https://plex.tv/) - Plex is a centralized home media playback system with a powerful central server.
 
-## Money & Budgeting
+## Money and Budgeting
 
   * [IHateMoney](http://ihatemoney.org/) - Manage your shared expenses, easily. - `Proprietary`
 
