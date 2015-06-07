@@ -67,7 +67,9 @@ Table of Contents
 
 ## Communication Systems
 
+  * [Metronome](http://www.lightwitch.org/metronome) – XMPP server forked from Prosody.
   * [Node-Chat](https://github.com/IgorAntun/node-chat) - A not-so-basic open-source chat with admin features. - `MIT`
+  * [Prosody](http://prosody.im/) – Modern XMPP server written in Lua.
 
 ## Content Management Systems (CMS)
 
