@@ -76,6 +76,7 @@ Table of Contents
   * [Metronome](http://www.lightwitch.org/metronome) – XMPP server forked from Prosody.
   * [Node-Chat](https://github.com/IgorAntun/node-chat) - A not-so-basic open-source chat with admin features. - `MIT`
   * [Prosody](http://prosody.im/) – Modern XMPP server written in Lua.
+  * [Kandan](http://getkandan.com/) – Kandan is an Open Source Alternative to HipChat. - `AGPL License`
 
 ## Content Management Systems (CMS)
 
