@@ -32,6 +32,7 @@ Table of Contents
   * [Monitoring](#monitoring)
   * [Office Suites](#office-suites)
   * [Photo and Video Galleries](#photo-and-video-galleries)
+  * [Private Clouds](#private-clouds)
   * [RSS Readers](#rss-readers)
   * [Social Networks](#social-networks)
   * [Software Development Platforms](#software-development-platforms)
@@ -39,7 +40,8 @@ Table of Contents
 
 ## Analytics
 
-  * [Piwik](https://piwik.org/) - Leading open-source analytics platform that gives you more than just powerful analytics. - `GNU GPL 3.0`
+  * [Open Web Analytics](http://www.openwebanalytics.com/) - Google Analytics and Piwik alternative - `GNU-GPL`
+  * [Piwik](https://piwik.org/) - Leading open-source analytics platform that gives you more than just powerful analytics. - `GNU-GPL-3.0`
 
 ## Automation
   * [Huginn](https://github.com/cantino/huginn) - Allows you to build agents that monitor and act on your behalf. Built in Ruby - `MIT`
@@ -76,7 +78,8 @@ Table of Contents
   * [Metronome](http://www.lightwitch.org/metronome) – XMPP server forked from Prosody.
   * [Node-Chat](https://github.com/IgorAntun/node-chat) - A not-so-basic open-source chat with admin features. - `MIT`
   * [Prosody](http://prosody.im/) – Modern XMPP server written in Lua.
-  * [Kandan](http://getkandan.com/) – Kandan is an Open Source Alternative to HipChat. - `AGPL License`
+  * [Kandan](http://getkandan.com/) – Kandan is an Open Source Alternative to HipChat. - `GNU-AGPL`
+  * [Rocket.Chat](http://rocket.chat/) – Teamchat solution similar to Gitter.im or Slack - `MIT`
 
 ## Content Management Systems (CMS)
 
@@ -138,9 +141,9 @@ CMS are a practical way to setup a website with many features. CMS often come wi
 
 ## Media Streaming
 
-  * [Emby](https://github.com/MediaBrowser/MediaBrowser) - A home media server built using other popular open source technologies. - `GNU GPL 2.0`
+  * [Emby](https://github.com/MediaBrowser/MediaBrowser) - A home media server built using other popular open source technologies. - `GNU-GPL-2.0`
   * [HTPC Manager](http://htpc.io/) - A fully responsive interface to manage all your favorite media on your HTPC. - `MIT`
-  * ![](https://camo.githubusercontent.com/1ce14dfd4d91a5e02da52dc135a3e144bab4a61c/687474703a2f2f706963726573697a652e636f6d2f696d616765732f72737a5f3172737a5f636c6f7365642d736f757263652d746d342e706e67) - [Plex](https://plex.tv/) - Plex is a centralized home media playback system with a powerful central server.
+  * [Plex](https://plex.tv/) - Plex is a centralized home media playback system with a powerful central server. ![](https://camo.githubusercontent.com/1ce14dfd4d91a5e02da52dc135a3e144bab4a61c/687474703a2f2f706963726573697a652e636f6d2f696d616765732f72737a5f3172737a5f636c6f7365642d736f757263652d746d342e706e67)
 
 ## Money and Budgeting
 
@@ -157,7 +160,7 @@ CMS are a practical way to setup a website with many features. CMS often come wi
 
   * [EtherCalc](https://ethercalc.org/) - Web spreadsheet. - CPAL 1.0
   * [Etherpad](http://etherpad.org/) - Etherpad is a highly customizable Open Source online editor providing collaborative editing in really real-time. - `Apache License`
-  * [Only Office](http://onlyoffice.org/) - An office suite that enables you to manage documents, projects, team and customer relations in one place. - GNU  - `AGPL 3.0`
+  * [Only Office](http://onlyoffice.org/) - An office suite that enables you to manage documents, projects, team and customer relations in one place. - GNU  - `GNU-AGPL-3.0`
 
 ## Photo and Video Galleries
 
@@ -170,25 +173,31 @@ CMS are a practical way to setup a website with many features. CMS often come wi
   * [Photofloat](http://blog.zx2c4.com/567) - A Web 2.0 Photo Gallery Done Right via Static JSON & Dynamic Javascript ([Demo](http://photos.jasondonenfeld.com/))
   * [PhotoLight](https://github.com/thibaud-rohmer/PhotoLight) - The easiest photo gallery there is
   * [Photoshow](http://www.photoshow-gallery.com/) - ([Source code](https://github.com/thibaud-rohmer/PhotoShow))
-  * [Piwigo](http://piwigo.org/) - Photo gallery software for the web, built by an active community of users and developers. - `GNU GPL 2.0`
+  * [Piwigo](http://piwigo.org/) - Photo gallery software for the web, built by an active community of users and developers. - `GNU-GPL-2.0`
   * [Pygmyfoto](https://github.com/dmpop/pygmyfoto) - A crude solution for publishing a photo roll on the web
   * [sigal](https://github.com/saimn/sigal) - yet another simple static gallery generator
   * [Single File PHP Gallery](http://sye.dk/sfpg/) - is a web gallery in one single PHP file.
   * [Shot.io](http://shot.io/) - Mobile optimised photo publishing platform (self-hosted Flickr alternative) ([Source code](https://github.com/AliasIO/Shot.io))
-  * [UberGallery](http://www.ubergallery.net) - U berGallery is an easy to use, simple to manage, web photo gallery. UberGallery does not require a database and supports JPEG, GIF and PNG file types. Simply upload your images and UberGallery will automatically generate thumbnails and output HTML. ([Source code](https://github.com/UberGallery/UberGallery))
+  * [UberGallery](http://www.ubergallery.net) - UberGallery is an easy to use, simple to manage, web photo gallery. UberGallery does not require a database and supports JPEG, GIF and PNG file types. Simply upload your images and UberGallery will automatically generate thumbnails and output HTML. ([Source code](https://github.com/UberGallery/UberGallery))
   * [Zenphoto](http://www.zenphoto.org/) - open-source gallery and CMS project ([Source code](https://github.com/zenphoto/zenphoto))
 
+## Private Cloud
+
+  * [ownCloud](https://owncloud.org/) - All-in-one solution for saving and sharing files, photos, music,... - `GNU-AGPL-3.0`
+  * [seafile](http://www.seafile.com/en/home/) - File hosting and sharing solution primary for teams and organizations. - `GNU-GPL-2.0`
 
 ## RSS Readers
 
   * [Fresh RSS](http://freshrss.org/) - A free, self-hostable RSS aggregator. - `GNU-AGPL-3.0`
-  * [Tiny Tiny RSS](https://tt-rss.org/redmine/projects/tt-rss/wiki) - Open source web-based news feed (RSS/Atom) reader and aggregator. - `GNU GPL 3.0`
+  * [selfoss](http://selfoss.aditu.de/) - Basic web-based Feedreader - `GNU-AGPL-3.0`
+  * [Tiny Tiny RSS](https://tt-rss.org/redmine/projects/tt-rss/wiki) - Open source web-based news feed (RSS/Atom) reader and aggregator. - `GNU-GPL-3.0`
 
 ## Social Networks
 
   * [BuddyPress](http://buddypress.org/about/) - A powerful plugin that takes your WordPress.org powered site beyond the blog with social-network features like user profiles, activity streams, user groups, and more.
   * [Diaspora](https://diasporafoundation.org/) - Distributed social networking service. - `GNU-AGPL-3.0`
-  * [Friendica](http://friendica.com/) - Social Communication Server. GNU- - `AGPL 3.0`
+  * [Discourse](http://www.discourse.org/) - Advanced forum / community solution based on Ruby and JS - `GNU-GPL-2.0`
+  * [Friendica](http://friendica.com/) - Social Communication Server. GNU- - `GNU-AGPL-3.0`
 
 ## Software development platforms
 
