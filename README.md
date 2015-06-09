@@ -9,7 +9,7 @@ You can help by sending Pull Requests to add more services.
 ### Note about closed source software
 Based on [this issue](https://github.com/Kickball/awesome-selfhosted/issues/8), I have decided to implement a closed source tag which will be used to identify closed source softare. The following tag will be used:
 
-![](https://camo.githubusercontent.com/1ce14dfd4d91a5e02da52dc135a3e144bab4a61c/687474703a2f2f706963726573697a652e636f6d2f696d616765732f72737a5f3172737a5f636c6f7365642d736f757263652d746d342e706e67)
+![](https://cloud.githubusercontent.com/assets/2252004/8065509/c88bd4b2-0ed9-11e5-9af7-b53e437f56e7.png)
 
 
 Table of Contents
@@ -143,7 +143,7 @@ CMS are a practical way to setup a website with many features. CMS often come wi
 
   * [Emby](https://github.com/MediaBrowser/MediaBrowser) - A home media server built using other popular open source technologies. - `GNU-GPL-2.0`
   * [HTPC Manager](http://htpc.io/) - A fully responsive interface to manage all your favorite media on your HTPC. - `MIT`
-  * [Plex](https://plex.tv/) - Plex is a centralized home media playback system with a powerful central server. ![](https://camo.githubusercontent.com/1ce14dfd4d91a5e02da52dc135a3e144bab4a61c/687474703a2f2f706963726573697a652e636f6d2f696d616765732f72737a5f3172737a5f636c6f7365642d736f757263652d746d342e706e67)
+  * [Plex](https://plex.tv/) - Plex is a centralized home media playback system with a powerful central server. ![](https://cloud.githubusercontent.com/assets/2252004/8065509/c88bd4b2-0ed9-11e5-9af7-b53e437f56e7.png)
 
 ## Money and Budgeting
 
