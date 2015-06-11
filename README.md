@@ -7,9 +7,7 @@ This is list of software which can be hosted locally.
 You can help by sending Pull Requests to add more services.
 
 ### Note about closed source software
-Based on [this issue](https://github.com/Kickball/awesome-selfhosted/issues/8), I have decided to implement a closed source tag which will be used to identify closed source softare. The following tag will be used:
-
-![](https://cloud.githubusercontent.com/assets/2252004/8065509/c88bd4b2-0ed9-11e5-9af7-b53e437f56e7.png)
+Based on [this issue](https://github.com/Kickball/awesome-selfhosted/issues/8), I have decided to implement a closed source tag which will be used to identify closed source softare. We will use a slashed circle to represent closed source applications: ⊘
 
 
 Table of Contents
@@ -143,7 +141,7 @@ CMS are a practical way to setup a website with many features. CMS often come wi
 
   * [Emby](https://github.com/MediaBrowser/MediaBrowser) - A home media server built using other popular open source technologies. - `GNU-GPL-2.0`
   * [HTPC Manager](http://htpc.io/) - A fully responsive interface to manage all your favorite media on your HTPC. - `MIT`
-  * [Plex](https://plex.tv/) - Plex is a centralized home media playback system with a powerful central server. ![](https://cloud.githubusercontent.com/assets/2252004/8065509/c88bd4b2-0ed9-11e5-9af7-b53e437f56e7.png)
+  * [Plex](https://plex.tv/) ⊘ - Plex is a centralized home media playback system with a powerful central server.
 
 ## Money and Budgeting
 
