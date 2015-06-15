@@ -75,7 +75,7 @@ Table of Contents
   * [Phproject](http://www.phproject.org/) - A high performance full-featured project management system ([Source code](https://github.com/Alanaktion/phproject), [Demo](http://demo.phproject.org/))
   * [Redmine](http://www.redmine.org/) - Redmine is a flexible project management web application
   * [Taiga.io](https://taiga.io/) - Your Agile, Free and Open Source Project Management Tool ([Source code](https://github.com/taigaio))
-  * [TaskBoard](https://github.com/kiswa/TaskBoard) - A Kanban-inspired app for keeping track of things that need to get done. - http://taskboard.matthewross.me/
+  * [TaskBoard](http://taskboard.matthewross.me/) - A Kanban-inspired app for keeping track of things that need to get done. ([Source code](https://github.com/kiswa/TaskBoard))
   * [tasks.php](https://github.com/RaymiiOrg/tasks.php) - A simple task/todo list manager
   * [Tinyissue](https://github.com/mikelbring/tinyissue) - Simple Issue Tracking for Teams
 
@@ -169,7 +169,7 @@ CMS are a practical way to setup a website with many features. CMS often come wi
 
   * [Emby](https://github.com/MediaBrowser/MediaBrowser) - A home media server built using other popular open source technologies. - `GNU-GPL-2.0`
   * [HTPC Manager](http://htpc.io/) - A fully responsive interface to manage all your favorite media on your HTPC. - `MIT`
-  * [Plex](https://plex.tv/) ⊘ - Plex is a centralized home media playback system with a powerful central server.
+  * [Plex](https://plex.tv/) ⊘ - Plex is a centralized home media playback system with a powerful central server. - `Proprietary`
 
 ## Mind maps
 
@@ -208,14 +208,14 @@ CMS are a practical way to setup a website with many features. CMS often come wi
 ## Pastebins
 
  * [cryptonote](https://cryptonote.it) - A simple open source web application that lets users encrypt and share messages that can only be read once ([Source code](https://github.com/alainmeier/cryptonote))
- * [hastebin](https://github.com/seejohnrun/haste-server) -  open source pastebin written in node.js - http://hastebin.com/about.md
- * [snipt](https://github.com/nicksergeant/snipt/) -  Long-term memory for coders. Share and store code snippets - https://snipt.net/
+ * [hastebin](http://hastebin.com/about.md) - open source pastebin written in node.js ([Source code](https://github.com/seejohnrun/haste-server))
+ * [snipt](https://snipt.net/) -  Long-term memory for coders. Share and store code snippets  ([Source code](https://github.com/nicksergeant/snipt/))
  * [Stikked](https://github.com/claudehohl/Stikked) - An advanced and beautiful pastebin written in PHP
  * [Zerobin](http://sebsauvage.net/wiki/doku.php?id=php:zerobin) - A minimalist, opensource online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES. ([Demo](http://sebsauvage.net/paste/), [Source code](https://github.com/sebsauvage/zerobin))
 
 ## Photo and Video Galleries
 
-  * [CumulusClips](http://cumulusclips.org/) - your own video sharing website with CumulusClips video sharing script. You can build a YouTube clone where users can upload videos, rate videos, comment on videos, and much more. ([Demo](https://tube.devosi.org/))
+  * [CumulusClips](http://cumulusclips.org/) - your own video sharing website with CumulusClips video sharing script. You can build a YouTube clone where users can upload, rate, comment on videos, and much more. ([Demo](https://tube.devosi.org/))
   * [Gallery](http://galleryproject.org/) -  The simplest, most intuitive way to host your photos on your website ([Source code](https://github.com/gallery/gallery3))
   * [Lychee](http://lychee.electerious.com/) - an open source grid and album based photo-management-system ([Source code](https://github.com/electerious/Lychee)) - `MIT`
   * [Mediagoblin](http://mediagoblin.org) -  a free software media publishing platform that anyone can run. You can think of it as a decentralized alternative to Flickr, YouTube, SoundCloud, etc
@@ -244,8 +244,7 @@ CMS are a practical way to setup a website with many features. CMS often come wi
 
 ## Read it Later Lists
 
- * [Wallabag](http://www.wallabag.org/?lang=fr_fr) - Wallabag, formerly Poche, is a web application allowing you to save articles to red them later with improved readability. (([Demo](http://demo.wallabag.org/), [Public instance](http://www.framabag.org/), [Source code](https://github.com/wallabag/wallabag)))
-
+ * [Wallabag](http://www.wallabag.org/?lang=fr_fr) - Wallabag, formerly Poche, is a web application allowing you to save articles to red them later with improved readability. ([Demo](http://demo.wallabag.org/), [Public instance](http://www.framabag.org/), [Source code](https://github.com/wallabag/wallabag
 
 ## RSS Readers
 
@@ -255,14 +254,14 @@ CMS are a practical way to setup a website with many features. CMS often come wi
   * [Feedbin](https://feedbin.me) - a simple, fast and nice looking RSS reader. ([Source code](https://github.com/feedbin/feedbin))
   * [FeedHQ](https://feedhq.org/) - FeedHQ is a web-based feed reader ([Source code](https://github.com/feedhq/feedhq))
   * [Fresh RSS](http://freshrss.org/) - A free, self-hostable RSS aggregator. - `GNU-AGPL-3.0`
-  * [FreshRSS](http://freshrss.org/) - A self-hostable RSS feed aggregator ([Demo](http://demo.freshrss.org/i/), [Source code](https://github.com/marienfressinaud/FreshRSS)]
+  * [FreshRSS](http://freshrss.org/) - A self-hostable RSS feed aggregator ([Demo](http://demo.freshrss.org/i/), [Source code](https://github.com/marienfressinaud/FreshRSS))
   * [gritttt-rss](http://gritttt-rss.nicolashoening.de/) - More features for Tiny Tiny RSS [Source code](https://github.com/nhoening/gritttt-rss)
   * [Kriss Feed](http://tontof.net/kriss/feed/) - A simple and smart (or stupid) feed reader ([Demo](http://tontof.net/feed/), [Source code](https://github.com/tontof/kriss_feed/))
   * [Leed](http://projet.idleman.fr/leed/) - Leed (for Light Feed) is a Free and minimalist RSS aggregator ([Source code](https://github.com/ldleman/Leed))
   * [Leselys](https://github.com/socketubs/leselys) - your very elegant RSS reader
   * [Liled](https://github.com/ypo/liled) - Liled is an aggregator, capable of reading Atom and RSS feeds ([Demo](http://liled.alwaysdata.net/app/index.php) - _guest/guest_)
   * [Lite-Reader](http://cubny.com/lite-reader/) - Read your feeds on your own machine with a simple and lite application. ([Source code](https://github.com/cubny/lite-reader))
-  * [Miniflux](http://miniflux.net/) - Miniflux is a minimalist and open source news reader. ([Source code](https://github.com/fguillot/miniflux)
+  * [Miniflux](http://miniflux.net/) - Miniflux is a minimalist and open source news reader. ([Source code](https://github.com/fguillot/miniflux))
   * [NewsBlur](https://github.com/samuelclay/NewsBlur) - NewsBlur is a personal news reader that brings people together to talk about the world. A new sound of an old instrument
   * [Reader-Self](http://readerself.com/) Self-hosted rss reader (php / mysql or sqlite) - Google Reader alternative ([Source code](https://github.com/readerself/readerself))
   * [Readr](https://github.com/pabloprieto/Readr) - A clean & simple, self-hosted RSS reader
@@ -272,7 +271,7 @@ CMS are a practical way to setup a website with many features. CMS often come wi
   * [Stringer](https://github.com/swanson/stringer) - A work-in-progress self-hosted, anti-social RSS reader.
   * [Tiny Tiny RSS](https://tt-rss.org/redmine/projects/tt-rss/wiki) - Open source web-based news feed (RSS/Atom) reader and aggregator. ([Demo](http://tt-rss.org/demo/), [Public instance](http://framanews.org/)) - `GNU-GPL-3.0`
     * [RelatedSoftware - Tiny Tiny RSS](http://tt-rss.org/redmine/projects/tt-rss/wiki/RelatedSoftware) - (mobile applications, browser plugins...)
-  * [ttrss-mobile](https://github.com/mboinet/ttrss-mobile) - A mobile webapp for Tiny Tiny RSS
+    * [ttrss-mobile](https://github.com/mboinet/ttrss-mobile) - A mobile webapp for Tiny Tiny RSS
 
 
 ## Social Networks
@@ -285,7 +284,7 @@ CMS are a practical way to setup a website with many features. CMS often come wi
   * [Friendica](http://friendica.com/) - Social Communication Server ([Source code](https://github.com/friendica/friendica)) `GNU AGPL 3.0`
   * [Gnu Social](http://gnu.io/social/) - social communication software for both public and private communications
   * [Jappix](https://jappix.com/) - Jappix is an open social platform, that let's you easily get or keep in touch with everyone.
-  * [Movim](https://movim.eu/) (A brand new social network, full of awesome features in a modern and smart interface)
+  * [Movim](https://movim.eu/) - A brand new social network, full of awesome features in a modern and smart interface)
   * [Pump.io](http://pump.io/) - stream server that does most of what people really want from a social network ([Source code](https://github.com/e14n/pump.io))
   * [Red](http://redmatrix.me/) - complete decentralised publishing, sharing, and communications system ([Source code](https://github.com/friendica/red))
   * [twister](http://twister.net.co/) -  P2P microblogging platform
@@ -297,7 +296,7 @@ CMS are a practical way to setup a website with many features. CMS often come wi
   * [Gitlist](http://gitlist.org/) - A web-based git repository browser - GitList allows you to browse repositories using your favorite browser, viewing files under different revisions, commit history and diffs. ([Source code](https://github.com/klaussilveira/gitlist))
   * [Gitprep](http://gitprep.org/) - Portable Github clone ([Source code](https://github.com/yuki-kimoto/gitprep), [Demo](http://perlcodesample.sakura.ne.jp/gitprep.cgi))
   * [Gogs](https://github.com/gogits/gogs) - a painless self-hosted Git Service written in Go. ([Demo](http://try.gogits.org))
-  * [Repo.js](http://darcyclarke.me/dev/repojs/) - A plugin to embed Github repos on your site [Source code](https://github.com/darcyclarke/Repo.js)
+  * [Repo.js](http://darcyclarke.me/dev/repojs/) - A plugin to embed Github repos on your site ([Source code](https://github.com/darcyclarke/Repo.js))
 
 ## URL Shorteners
   * [YOURLS](http://yourls.org/) - YOURLS is a set of PHP scripts that will allow you to run Your Own URL Shortener. Features include password protection, URL customization, bookmarklets, statistics, API, plugins, jsonp ([Source code](https://github.com/YOURLS/YOURLS/), [Documentation](https://github.com/YOURLS/YOURLS/wiki)) - `MIT`
@@ -306,20 +305,20 @@ CMS are a practical way to setup a website with many features. CMS often come wi
 
 ## Wikis
 
-  * [Blazekiss](https://github.com/ldleman/blazekiss) - BlazeKiss est un wiki basé sur le principe Kiss : Keep It Simple Stupid, c'est à dire la simplicité et la fonctionnalité avant tout
+  * [Blazekiss](https://github.com/ldleman/blazekiss) - BlazeKiss is a KISS-based wiki (Keep It Simple, Stupid) - simplicity and functionality comes before all.
   * [commonplace](https://github.com/fredoliveira/commonplace) - A server for your markdown files. Give it a directory, and Commonplace gives you a url, pretty pages, and quick editing.
   * [daux.io](https://github.com/justinwalsh/daux.io) - Daux.io is an documentation generator that uses a simple folder structure and Markdown files to create custom documentation on the fly. It helps you create great looking documentation in a developer friendly way.
-  * [Docstore](http://haldean.org/) - A basic site for hosting static documents - [Source code](https://github.com/haldean/docstore) - docstore is a simple way to serve Markdown files without any server-side processing, and without requiring you (as the author) to recompile every time you change an article. It consists of a very simple JS script that makes an ajax request to your server, runs a Markdown processor on what it finds, and then displays the results. Clone the repository and add articles in the text/ directory to get started.
+  * [Docstore](http://haldean.org/) - A basic site for hosting static documents - docstore is a simple way to serve Markdown files without any server-side processing, and without requiring you (as the author) to recompile every time you change an article. It consists of a very simple JS script that makes an ajax request to your server, runs a Markdown processor on what it finds, and then displays the results. Clone the repository and add articles in the text/ directory to get started. ([Source code](https://github.com/haldean/docstore))
   * [Dokuwiki](http://www.splitbrain.org/projects/dokuwiki) - An easy to use, lightweight, standards-compliant wiki engine with a simple syntax allowing reading the data outside the wiki. All data is stored in plain files, therefore no database is required. - `GNU GPL`
   * [Gitit](https://github.com/jgm/gitit) - A wiki program that stores pages and uploaded files in a git repository, which can then be modified using the VCS command line tools or the wiki's web interface. Supported markups include pandoc's extended version of markdown, reStructuredText, LaTeX, and HTML. Pages can be exported in a number of different formats, including LaTeX, RTF, OpenOffice ODT, and MediaWiki markup. Other features include: plugins, syntax highlighting, caching, ATOM feeds...
-  * [Gruik](https://github.com/grena/gruik) - Gruik ! An open-source markdown note-taking web app - http://gruik.io/
+  * [Gruik](http://gruik.io/) - An open-source markdown note-taking web app ([Source code](https://github.com/grena/gruik))
   * [markdown-tree](https://github.com/mil/markdown-tree) - serve a hierarchy / tree directory of markdown files. Use intended for small sites built in markdown
   * [MdWiki](https://dynalon.github.io/mdwiki/#!index.md) - a Markdown CMS/Wiki completely built in HTML5/Javascript and runs 100% on the client ([Source code](https://github.com/Dynalon/mdwiki))
   * [Mediawiki](https://www.mediawiki.org/wiki/MediaWiki)
   * [Olelo/Gitwiki](https://github.com/minad/olelo) - Olelo is a wiki that stores pages in a Git repository, supports many markup styles and has an extensible, hackable architecture! Features: Edit, move or delete pages; Page attribute editor; Support for hierarchical wikis (directory structure); File upload; History, commit and diff view; Locales (Czech, English, French, German); Support for many markup languages (Creole, Markdown, Textile, ...); RSS/Atom changelog for whole wiki or pages; Section editing for Creole; Embedded LaTeX formulas; Syntax highlighting; Image resizing, SVG to PNG/JPEG conversion; Auto-generated table of contents; Previews; View pages as S5 presentation; Privacy features: Access control lists, Private wiki, Read-only wiki. ([Demo](http://www.gitwiki.org/)) 
   * [Realms](https://github.com/scragg0x/realms-wiki) - a git-backed wiki inspired by Gollum
-  * [Redaxscript • Ultra lightweight website engine](http://redaxscript.com/)
+  * [Redaxscript](http://redaxscript.com/) - Ultra lightweight website engine
   * [TiddlyWiki](http://tiddlywiki.com/) - a reusable non-linear personal web notebook
-  * [Wikimatrix - Compare wikis](http://www.wikimatrix.org/)
+  * [Wikimatrix](http://www.wikimatrix.org/) - A wiki platforms comparator
   * [WiKiss](http://wikiss.tuxfamily.org/) - un wiki simple à utiliser et déployer.
   * [Wikitten](https://github.com/victorstanciu/Wikitten) - Wikitten is a small, fast, PHP wiki, and the perfect place to store your notes, code snippets, ideas, and so on.
