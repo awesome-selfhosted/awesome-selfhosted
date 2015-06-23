@@ -9,6 +9,15 @@ You can help by sending Pull Requests to add more services.
 ### Note about closed source software
 Based on [this issue](https://github.com/Kickball/awesome-selfhosted/issues/8), I have decided to implement a closed source tag which will be used to identify closed source softare. We will use a slashed circle to represent closed source applications: ⊘
 
+### List of Licenses
+
+  * `MIT` - [MIT License](http://opensource.org/licenses/MIT)
+  * `GNU-GPL` - [GNU General Public License](https://www.gnu.org/licenses/gpl-1.0)
+  * `GNU-GPL-2.0` - [GNU General Public License 2.0](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
+  * `GNU-GPL-3.0` - [GNU General Public License 3.0](http://www.gnu.org/licenses/gpl-3.0.en.html)
+  * `GNU-AGPL-3.0` - [GNU Affero General Public License 3.0](https://www.gnu.org/licenses/agpl-3.0)
+  * `Apache` - [Apache License, Version 2.0](http://www.apache.org/licenses/)
+
 
 Table of Contents
 =================
@@ -16,9 +25,12 @@ Table of Contents
   * [Analytics](#analytics)
   * [Automation](#automation)
   * [Blogging Platforms](#blogging-platforms)
-  * [Bug and task trackers](#bug-and-task-trackers)
+  * [Bug and Task Trackers](#bug-and-task-trackers)
+  * [Calendar and Address Books](#calendar-and-address-books)
   * [Communication Systems](#communication-systems)
+    + [Email Communication](#email-communication)
   * [Download Tools](#download-tools)
+  * [Feed Readers](#feed-readers)
   * [File Sharing](#file-sharing)
   * [File Synchronization Tools](#file-synchronization-tools)
   * [Games](#games)
@@ -26,20 +38,21 @@ Table of Contents
   * [Groupware](#groupware)
   * [Link Sharing](#link-sharing)
   * [Media Streaming](#media-streaming)
-  * [Mind maps](#mind-maps)
+    + [Music Streaming](#music-streaming)
+  * [Mind Maps](#mind-maps)
   * [Money and Budgeting](#money-and-budgeting)
   * [Monitoring](#monitoring)
-  * [Music sctreaming](#music-streaming)
+  * [Note Taking](#note-taking)
   * [Office Suites](#office-suites)
   * [Pastebins](#pastebins)
   * [Photo and Video Galleries](#photo-and-video-galleries)
-  * [Polls and events](#polls-and-events)
+  * [Polls and Events](#polls-and-events)
   * [Private Clouds](#private-clouds)
-  * [Read it Later lists](#read-it-later-lists)
-  * [RSS Readers](#rss-readers)
+  * [Read-it-Later Lists](#read-it-later-lists)
   * [Social Networks](#social-networks)
   * [Software Development Platforms](#software-development-platforms)
   * [URL Shorteners](#url-shorteners)
+  * [Wikis](#wikis)
 
 ## Analytics
 
@@ -49,73 +62,102 @@ Table of Contents
 ## Automation
   * [Huginn](https://github.com/cantino/huginn) - Allows you to build agents that monitor and act on your behalf. Built in Ruby - `MIT`
 
-## Blogging platforms
+## Blogging Platforms
 
- * [Anchor CMS](http://anchorcms.com/) -  Anchor is a free, lightweight, faster-than-a-bullet, simple blogging system, made for art–directed posts. ([Source code](https://github.com/anchorcms/anchor-cms))
- * [Blogotext](http://lehollandaisvolant.net/blogotext/en/) - a free blog-engine written in PHP and using SQLite. This offers you both an unmatched simplicity during installation and great performances. ([Source code](https://github.com/timovn/blogotext))
- * [blosxom](http://blosxom.sourceforge.net/) -  a lightweight yet feature-packed weblog application designed from the ground up with simplicity, usability, and interoperability in mind.
- * [Chyrp](http://chyrp.net/) - An extra-awesome, extra-lightweight blog engine ([Source code](https://github.com/chyrp/chyrp))
- * [Dotclear](http://dotclear.org/) - Take control over your blog!
- * [Ghost](http://ghost.org/) - Just a blogging platform
- * [htmly](https://github.com/danpros/htmly) - Databaseless Blogging Platform (Flat-File Blog) ([Demo](http://www.htmly.com/demo/))
- * [PluXml](http://www.pluxml.org/) - XML-based blog/CMS platform
- * [WeblogMatrix](http://www.weblogmatrix.org/) - Blogging platforms comparator.
- * [Wordpress](https://wordpress.org/) - Create a beautiful website or blog.
+ * [Anchor CMS](http://anchorcms.com/) -  Anchor is a free, lightweight, faster-than-a-bullet, simple blogging system, made for art–directed posts. - `GNU-GPL-3.0`
+ * [Blogotext](http://lehollandaisvolant.net/blogotext/en/) - a free blog-engine written in PHP and using SQLite. This offers you both an unmatched simplicity during installation and great performances. - `MIT`
+ * [blosxom](http://blosxom.sourceforge.net/) -  A lightweight yet feature-packed weblog application designed from the ground up with simplicity, usability, and interoperability in mind. - `MIT`
+ * [Chyrp](http://chyrp.net/) - An extra-awesome, extra-lightweight blog engine - `MIT`
+ * [Dotclear](http://dotclear.org/) - User-friendly tool allowing anyone to publish on the web, regardless of their technical skills - `GNU-GPL-2.0`
+ * [Ghost](http://ghost.org/) - Ghost is a simple, powerful publishing platform that allows you to share your stories with the world. - `MIT`
+ * [htmly](https://www.htmly.com/) - Database-less Blogging Platform (Flat-File Blog) - `GNU-GPL-2.0`
+ * [PluXml](http://www.pluxml.org/) - XML-based blog/CMS platform - `GNU-GPL`
 
-## Bug and task trackers
+## Bug and Task Trackers
 
-  * [92five](http://92fiveapp.com/) - Self hosted project management application ([Source code](https://github.com/chintanbanugaria/92five))
-  * [Apache Bloodhound](https://bloodhound.apache.org/) - Manage software products, Keep track of features, tasks and bugs
-  * [bulldog](https://github.com/infews/bulldog) - HTML5 task manager, built on todo.txt
-  * [Bumpy Booby](http://bumpy-booby.derivoile.fr/) - A simple, responsive and highly customizable PHP bug tracking system. ([Source code](https://github.com/piero-la-lune/Bumpy-Booby))
-  * [ChiliProject](https://www.chiliproject.org/) - a web based project management system.
-  * [Flyspray](http://www.flyspray.org/) - uncomplicated, web-based bug tracking system ([Source code](https://github.com/Flyspray/flyspray))
-  * [Gaskit](https://github.com/bkeepers/gaskit) - a git-backed issue tracker. It uses a branch in your local git database to store the tickets.
-  * [Kanboard](http://kanboard.net/) - A simple and open source visual task board
-  * [Phproject](http://www.phproject.org/) - A high performance full-featured project management system ([Source code](https://github.com/Alanaktion/phproject), [Demo](http://demo.phproject.org/))
-  * [Redmine](http://www.redmine.org/) - Redmine is a flexible project management web application
-  * [Taiga.io](https://taiga.io/) - Your Agile, Free and Open Source Project Management Tool ([Source code](https://github.com/taigaio))
-  * [TaskBoard](http://taskboard.matthewross.me/) - A Kanban-inspired app for keeping track of things that need to get done. ([Source code](https://github.com/kiswa/TaskBoard))
-  * [tasks.php](https://github.com/RaymiiOrg/tasks.php) - A simple task/todo list manager
-  * [Tinyissue](https://github.com/mikelbring/tinyissue) - Simple Issue Tracking for Teams
+  * [92five](http://92fiveapp.com/) - Self hosted project management application - `no license`
+  * [Apache Bloodhound](https://bloodhound.apache.org/) - Manage software products, Keep track of features, tasks and bugs - `Apache`
+  * [bulldog](https://github.com/infews/bulldog) - HTML5 task manager, built on todo.txt - `MIT`
+  * [Bumpy Booby](http://bumpy-booby.derivoile.fr/) - A simple, responsive and highly customizable PHP bug tracking system. - `MIT`
+  * ~~[ChiliProject](https://www.chiliproject.org/) - A web based project management system~~ _not maintained anymore_
+  * [Flyspray](http://www.flyspray.org/) - uncomplicated, web-based bug tracking system - `GNU-GPL-2.0`
+  * [Gaskit](https://github.com/bkeepers/gaskit) - A git-backed issue tracker. It uses a branch in your local git database to store the tickets. - `GNU-GPL`
+  * [Kanboard](http://kanboard.net/) - A simple and open source visual task board - `GNU-AGPL-3.0`
+  * [Phproject](http://www.phproject.org/) - A high performance full-featured project management system - `GNU-GPL-3.0`
+  * [Redmine](http://www.redmine.org/) - Redmine is a flexible project management web application - `GNU-GPL-2.0`
+  * [Taiga.io](https://taiga.io/) - Your Agile, Free and Open Source Project Management Tool - `GNU-AGPL-3.0`
+  * [TaskBoard](http://taskboard.matthewross.me/) - A Kanban-inspired app for keeping track of things that need to get done. - `MIT`
+  * [tasks.php](https://github.com/RaymiiOrg/tasks.php) - A simple task/todo list manager - `MIT`
+  * [Tinyissue](https://github.com/mikelbring/tinyissue) - Simple Issue Tracking for Teams - `MIT`
 
-## Calendar and address books
+## Calendar and Address Books
 
-  * [Radicale](http://radicale.org/) - A Simple Calendar and Contact Server
-  * [calypso](http://keithp.com/calypso/) - a python-based CalDAV/CardDAV server
-  * [AgenDAV](http://agendav.org/) - Multilanguage CalDAV web client with a rich AJAX interface and shared calendars support
-  * [Baïkal](http://baikal.codr.fr/) - Lightweight CalDAV+CardDAV server
+  * [Radicale](http://radicale.org/) - A Simple Calendar and Contact Server - `no license`
+  * [calypso](http://keithp.com/calypso/) - a python-based CalDAV/CardDAV server - `no license`
+  * [AgenDAV](http://agendav.org/) - Multilanguage CalDAV web client with a rich AJAX interface and shared calendars support - `GNU-AGPL-3.0`
+  * [Baïkal](http://baikal-server.com/) - Lightweight CalDAV+CardDAV server - `GNU-GPL-3.0`
 
 ## Communication Systems
 
-  * [Metronome](http://www.lightwitch.org/metronome) – XMPP server forked from Prosody.
+  * [Metronome](http://www.lightwitch.org/metronome) – XMPP server forked from Prosody - `no license`
   * [Node-Chat](https://github.com/IgorAntun/node-chat) - A not-so-basic open-source chat with admin features. - `MIT`
-  * [Prosody](http://prosody.im/) – Modern XMPP server written in Lua.
+  * [Prosody](http://prosody.im/) – Modern XMPP server written in Lua - `MIT`
   * [Kandan](http://getkandan.com/) – Kandan is an Open Source Alternative to HipChat. - `GNU-AGPL`
   * [Rocket.Chat](http://rocket.chat/) – Teamchat solution similar to Gitter.im or Slack - `MIT`
+  
+### Email Communication
+
+  * [Cypht](http://cypht.org/index.html) - A feed reader for your email accounts - `GNU-GPL`
 
 ## Content Management Systems (CMS)
 
 CMS are a practical way to setup a website with many features. CMS often come with third party plugins, themes and functionality that is easy to add and customize to your needs.
 
-  * [99ko CMS](http://99ko.hellojo.fr) - 99ko est un CMS permettant de créer un site web en quelques minutes et sans connaissances particulières en programmation. Il fonctionne sans base de données et utilise de simples fichiers texte (format JSON) pour stocker vos données. ([Source code](https://github.com/99ko-project/99ko-cms))
-  * [Baun](http://bauncms.com/) - A modern, lightweight, extensible CMS for PHP - ([Source code](https://github.com/BaunCMS/Baun))
-  * [Bolt](http://bolt.cm/) - Sophisticated, lightweight & simple CMS ([Source code](https://github.com/bolt/bolt))
-  * [CMS Made Simple](http://www.cmsmadesimple.org/) - open source content management system, faster and easier management of website contents, scalable for small businesses to large corporations.
-  * [Concrete 5 CMS](http://www.concrete5.org/) - an open source content management system
-  * [Drupal](https://drupal.org/) - open source content management platform
-  * [GetSimple CMS](http://get-simple.info/) - The Simplest Content Management System. Ever.
-  * [Joomla!](http://www.joomla.fr/) - un système de gestion de contenu (CMS)
-  * [Movable Type](https://movabletype.org/) - a powerful solution for the creation and management of web content.
-  * [october](http://octobercms.com/) - Free, open-source, self-hosted CMS platform based on the Laravel PHP Framework. ([Source code](https://github.com/octobercms/october))
-  * [Pagekit](http://pagekit.com/) - A new modern CMS to create and share ([Source code](https://github.com/pagekit/pagekit)) - `MIT`
-  * [Pico](http://picocms.org/) - A stupidly simple, blazing fast, flat file CMS. ([Source code](https://github.com/gilbitron/Pico))
-  * [SPIP](http://www.spip.net/fr) - Publication system for the Internet.
-  * [Wordpress](https://wordpress.org/) - WordPress is web software you can use to create a beautiful website or blog. ([Source code mirror](https://github.com/WordPress/WordPress))
+  * [99ko CMS](http://99ko.hellojo.fr) - 99ko est un CMS permettant de créer un site web en quelques minutes et sans connaissances particulières en programmation. - `no license`
+  * [Baun](http://bauncms.com/) - A modern, lightweight, extensible CMS for PHP - `MIT`
+  * [Bolt](http://bolt.cm/) - Sophisticated, lightweight & simple CMS - `no license`
+  * [CMS Made Simple](http://www.cmsmadesimple.org/) - open source content management system, faster and easier management of website contents, scalable for small businesses to large corporations - `GNU-GPL`
+  * [Concrete 5 CMS](http://www.concrete5.org/) - An open source content management system - `MIT`
+  * [Drupal](https://drupal.org/) - Advanced open source content management platform - `GNU-GPL`
+  * [GetSimple CMS](http://get-simple.info/) - The Simplest Content Management System. - `GNU-GPL-3.0`
+  * [Joomla!](https://www.joomla.com/) - Advanced Content Management System - `GNU-GPL`
+  * [Movable Type](https://movabletype.org/) - a powerful solution for the creation and management of web content. - `no license`
+  * [october](http://octobercms.com/) - Free, open-source, self-hosted CMS platform based on the Laravel PHP Framework. - `MIT`
+  * [Pagekit](http://pagekit.com/) - A new modern CMS to create and share - `MIT`
+  * [Pico](http://picocms.org/) - A stupidly simple, blazing fast, flat file CMS. - `MIT`
+  * [SPIP](http://www.spip.net) - Publication system for the Internet. - `no license`
+  * [Wordpress](https://wordpress.org/) - The worlds most-used blogging and CMS engine. - `GNU-GPL-2.0`
 
 ## Download tools
 
- * [Alltube](https://github.com/Rudloff/alltube) - A web interface for [youtube-dl](https://github.com/rg3/youtube-dl), a program to download videos and audio from [more than 100 websites](https://rg3.github.io/youtube-dl/supportedsites.html) ([Demo](http://alltubedownload.net/))
+ * [Alltube](https://github.com/Rudloff/alltube) - A web interface for [youtube-dl](https://github.com/rg3/youtube-dl), a program to download videos and audio from more than 100 websites. - `GNU-GPL`
+ 
+## Feed Readers
+ 
+  * [Cacocloud](https://github.com/Cacodaimon/CacoCloud) - A simple, fast and secure PHP/AngularJS based feed and mail reader, password and bookmark manager.
+  * [CommaFeed](https://www.commafeed.com/) - Google Reader inspired self-hosted RSS reader ([Source code](https://github.com/Athou/commafeed))
+  * [Creaky Coot](https://github.com/piero-la-lune/Creaky-Coot) - Minimalist and responsive RSS reader and links saver
+  * [Feedbin](https://feedbin.me) - a simple, fast and nice looking RSS reader. ([Source code](https://github.com/feedbin/feedbin))
+  * [FeedHQ](https://feedhq.org/) - FeedHQ is a web-based feed reader ([Source code](https://github.com/feedhq/feedhq))
+  * [Fresh RSS](http://freshrss.org/) - A free, self-hostable RSS aggregator. - `GNU-AGPL-3.0`
+  * [FreshRSS](http://freshrss.org/) - A self-hostable RSS feed aggregator ([Demo](http://demo.freshrss.org/i/), [Source code](https://github.com/marienfressinaud/FreshRSS))
+  * [gritttt-rss](http://gritttt-rss.nicolashoening.de/) - More features for Tiny Tiny RSS [Source code](https://github.com/nhoening/gritttt-rss)
+  * [Kriss Feed](http://tontof.net/kriss/feed/) - A simple and smart (or stupid) feed reader ([Demo](http://tontof.net/feed/), [Source code](https://github.com/tontof/kriss_feed/))
+  * [Leed](http://projet.idleman.fr/leed/) - Leed (for Light Feed) is a Free and minimalist RSS aggregator ([Source code](https://github.com/ldleman/Leed))
+  * [Leselys](https://github.com/socketubs/leselys) - your very elegant RSS reader
+  * [Liled](https://github.com/ypo/liled) - Liled is an aggregator, capable of reading Atom and RSS feeds ([Demo](http://liled.alwaysdata.net/app/index.php) - _guest/guest_)
+  * [Lite-Reader](http://cubny.com/lite-reader/) - Read your feeds on your own machine with a simple and lite application. ([Source code](https://github.com/cubny/lite-reader))
+  * [Miniflux](http://miniflux.net/) - Miniflux is a minimalist and open source news reader. ([Source code](https://github.com/fguillot/miniflux))
+  * [NewsBlur](https://github.com/samuelclay/NewsBlur) - NewsBlur is a personal news reader that brings people together to talk about the world. A new sound of an old instrument
+  * [Reader-Self](http://readerself.com/) Self-hosted rss reader (php / mysql or sqlite) - Google Reader alternative ([Source code](https://github.com/readerself/readerself))
+  * [Readr](https://github.com/pabloprieto/Readr) - A clean & simple, self-hosted RSS reader
+  * [RSSminer](http://rssminer.net/) -An online rss reader written in clojure & javascript & java ([Source code](https://github.com/shenfeng/rssminer))
+  * [selfoss](http://selfoss.aditu.de/) - Basic web-based Feedreader - `GNU-AGPL-3.0`
+  * [Selfoss](http://selfoss.aditu.de/) - The new multipurpose rss reader, live stream, mashup, aggregation web application ([Source code](https://github.com/SSilence/selfoss))
+  * [Stringer](https://github.com/swanson/stringer) - A work-in-progress self-hosted, anti-social RSS reader.
+  * [Tiny Tiny RSS](https://tt-rss.org/redmine/projects/tt-rss/wiki) - Open source web-based news feed (RSS/Atom) reader and aggregator. ([Demo](http://tt-rss.org/demo/), [Public instance](http://framanews.org/)) - `GNU-GPL-3.0`
+  * [RelatedSoftware - Tiny Tiny RSS](http://tt-rss.org/redmine/projects/tt-rss/wiki/RelatedSoftware) - (mobile applications, browser plugins...)
+  * [ttrss-mobile](https://github.com/mboinet/ttrss-mobile) - A mobile webapp for Tiny Tiny RSS
 
 ## File Sharing
 
@@ -132,7 +174,7 @@ CMS are a practical way to setup a website with many features. CMS often come wi
 
 ## File Synchronization Tools
 
-  * [BTSync](https://www.getsync.com/) - BitTorrent Sync by BitTorrent, Inc is a proprietary peer-to-peer file synchronisation tool.
+  * [BitTorrent Sync](https://www.getsync.com/) - BitTorrent Sync by BitTorrent, Inc is a proprietary peer-to-peer file synchronisation tool. - `Proprietary`
   * [Syncthing](http://syncthing.net/) - Syncthing is an open source peer-to-peer file synchronisation tool ([Source code](https://github.com/syncthing/syncthing)) - `MPL 2.0`
   * [Git Annex](http://git-annex.branchable.com/assistant/quickstart/) - Synchronisation de fichiers entre ordinateurs, disques externes, serveurs...
   * [Seafile](http://seafile.com/en/home/) - File Syncing and Collaboration for Teams
@@ -170,14 +212,19 @@ CMS are a practical way to setup a website with many features. CMS often come wi
   * [Emby](https://github.com/MediaBrowser/MediaBrowser) - A home media server built using other popular open source technologies. - `GNU-GPL-2.0`
   * [HTPC Manager](http://htpc.io/) - A fully responsive interface to manage all your favorite media on your HTPC. - `MIT`
   * [Plex](https://plex.tv/) ⊘ - Plex is a centralized home media playback system with a powerful central server. - `Proprietary`
+  
+### Music Streaming
+  * [Sonerezh](https://www.sonerezh.bzh/) - A self-hosted, web-based application for stream your music, everywhere. ([Demo](https://www.sonerezh.bzh/demo/), [Documentation](https://www.sonerezh.bzh/docs/), [Source code](https://github.com/sonerezh/sonerezh))
+  * [cloudtunes](https://github.com/jakubroztocil/cloudtunes) -  Web-based music player for the cloud
 
-## Mind maps
+## Mind Maps
 
  * [Mindmaps](https://github.com/drichard/mindmaps) - An open source, offline capable, mind mapping application ([Demo](http://drichard.org/mindmaps/))
 
 ## Money and Budgeting
 
   * [IHateMoney](http://ihatemoney.org/) - Manage your shared expenses, easily. - `Proprietary`
+  * [InvoicePlane](https://invoiceplane.com/) - Manage quotes, invoices, payments and customers for your small business. - `MIT`
 
 ## Monitoring
 
@@ -187,11 +234,7 @@ CMS are a practical way to setup a website with many features. CMS often come wi
   * [psdash](https://github.com/Jahaja/psdash) - A linux system information web dashboard using psutils and flask
   * [pyDash](https://github.com/k3oni/pydash) - Small web-based monitoring dashboard for linux ([Demo](http://pydash.hostechs.com/main/) - _admin/admin_)
 
-## Music streaming
-  * [Sonerezh](https://www.sonerezh.bzh/) - A self-hosted, web-based application for stream your music, everywhere. ([Demo](https://www.sonerezh.bzh/demo/), [Documentation](https://www.sonerezh.bzh/docs/), [Source code](https://github.com/sonerezh/sonerezh))
-  * [cloudtunes](https://github.com/jakubroztocil/cloudtunes) -  Web-based music player for the cloud
-
-## Note-taking
+## Note Taking
 
   * [Jotter](https://github.com/yosko/jotter) - Jotter is a lightweight, no database, powerful web notebook that lets you create and manage notes online safely, quickly & easily. ([Demo](http://tools.yosko.net/demos/jotter/) - `demo/demo`)
   * [Laverna](https://laverna.cc/) - Laverna is a JavaScript note taking application with Markdown editor and encryption support. Consider it like open source alternative to Evernote ([Source code](https://github.com/Laverna/laverna), [Demo](https://laverna.cc/index.html#notes))
@@ -232,7 +275,7 @@ CMS are a practical way to setup a website with many features. CMS often come wi
   * [UberGallery](http://www.ubergallery.net) - UberGallery is an easy to use, simple to manage, web photo gallery. UberGallery does not require a database and supports JPEG, GIF and PNG file types. Simply upload your images and UberGallery will automatically generate thumbnails and output HTML. ([Source code](https://github.com/UberGallery/UberGallery))
   * [Zenphoto](http://www.zenphoto.org/) - open-source gallery and CMS project ([Source code](https://github.com/zenphoto/zenphoto))
 
-## Polls and events
+## Polls and Events
 
  * [OpenSondage](https://github.com/leblanc-simon/OpenSondage) - an online service for planning an appointment or make a decision quickly and easily: Make a poll, Define dates or subjects to choose, Send the poll link to your friends or colleagues, Discuss and make a decision - ([Demo](http://framadate.org/), [Example](https://framadate.org/aqg259dth55iuhwm))
  * [Kyélà](http://kyela.net/) -  Participation polls for group events  - ([Source code](https://github.com/abienvenu/Kyela), [Demo](http://kyela.net/55232734237c8/))
@@ -242,37 +285,9 @@ CMS are a practical way to setup a website with many features. CMS often come wi
   * [ownCloud](https://owncloud.org/) - All-in-one solution for saving and sharing files, photos, music,... - `GNU-AGPL-3.0`
   * [seafile](http://www.seafile.com/en/home/) - File hosting and sharing solution primary for teams and organizations. - `GNU-GPL-2.0`
 
-## Read it Later Lists
+## Read-it-Later Lists
 
  * [Wallabag](http://www.wallabag.org/?lang=fr_fr) - Wallabag, formerly Poche, is a web application allowing you to save articles to red them later with improved readability. ([Demo](http://demo.wallabag.org/), [Public instance](http://www.framabag.org/), [Source code](https://github.com/wallabag/wallabag
-
-## RSS Readers
-
-  * [Cacocloud](https://github.com/Cacodaimon/CacoCloud) - A simple, fast and secure PHP/AngularJS based feed and mail reader, password and bookmark manager.
-  * [CommaFeed](https://www.commafeed.com/) - Google Reader inspired self-hosted RSS reader ([Source code](https://github.com/Athou/commafeed))
-  * [Creaky Coot](https://github.com/piero-la-lune/Creaky-Coot) - Minimalist and responsive RSS reader and links saver
-  * [Feedbin](https://feedbin.me) - a simple, fast and nice looking RSS reader. ([Source code](https://github.com/feedbin/feedbin))
-  * [FeedHQ](https://feedhq.org/) - FeedHQ is a web-based feed reader ([Source code](https://github.com/feedhq/feedhq))
-  * [Fresh RSS](http://freshrss.org/) - A free, self-hostable RSS aggregator. - `GNU-AGPL-3.0`
-  * [FreshRSS](http://freshrss.org/) - A self-hostable RSS feed aggregator ([Demo](http://demo.freshrss.org/i/), [Source code](https://github.com/marienfressinaud/FreshRSS))
-  * [gritttt-rss](http://gritttt-rss.nicolashoening.de/) - More features for Tiny Tiny RSS [Source code](https://github.com/nhoening/gritttt-rss)
-  * [Kriss Feed](http://tontof.net/kriss/feed/) - A simple and smart (or stupid) feed reader ([Demo](http://tontof.net/feed/), [Source code](https://github.com/tontof/kriss_feed/))
-  * [Leed](http://projet.idleman.fr/leed/) - Leed (for Light Feed) is a Free and minimalist RSS aggregator ([Source code](https://github.com/ldleman/Leed))
-  * [Leselys](https://github.com/socketubs/leselys) - your very elegant RSS reader
-  * [Liled](https://github.com/ypo/liled) - Liled is an aggregator, capable of reading Atom and RSS feeds ([Demo](http://liled.alwaysdata.net/app/index.php) - _guest/guest_)
-  * [Lite-Reader](http://cubny.com/lite-reader/) - Read your feeds on your own machine with a simple and lite application. ([Source code](https://github.com/cubny/lite-reader))
-  * [Miniflux](http://miniflux.net/) - Miniflux is a minimalist and open source news reader. ([Source code](https://github.com/fguillot/miniflux))
-  * [NewsBlur](https://github.com/samuelclay/NewsBlur) - NewsBlur is a personal news reader that brings people together to talk about the world. A new sound of an old instrument
-  * [Reader-Self](http://readerself.com/) Self-hosted rss reader (php / mysql or sqlite) - Google Reader alternative ([Source code](https://github.com/readerself/readerself))
-  * [Readr](https://github.com/pabloprieto/Readr) - A clean & simple, self-hosted RSS reader
-  * [RSSminer](http://rssminer.net/) -An online rss reader written in clojure & javascript & java ([Source code](https://github.com/shenfeng/rssminer))
-  * [selfoss](http://selfoss.aditu.de/) - Basic web-based Feedreader - `GNU-AGPL-3.0`
-  * [Selfoss](http://selfoss.aditu.de/) - The new multipurpose rss reader, live stream, mashup, aggregation web application ([Source code](https://github.com/SSilence/selfoss))
-  * [Stringer](https://github.com/swanson/stringer) - A work-in-progress self-hosted, anti-social RSS reader.
-  * [Tiny Tiny RSS](https://tt-rss.org/redmine/projects/tt-rss/wiki) - Open source web-based news feed (RSS/Atom) reader and aggregator. ([Demo](http://tt-rss.org/demo/), [Public instance](http://framanews.org/)) - `GNU-GPL-3.0`
-    * [RelatedSoftware - Tiny Tiny RSS](http://tt-rss.org/redmine/projects/tt-rss/wiki/RelatedSoftware) - (mobile applications, browser plugins...)
-    * [ttrss-mobile](https://github.com/mboinet/ttrss-mobile) - A mobile webapp for Tiny Tiny RSS
-
 
 ## Social Networks
 
@@ -281,7 +296,7 @@ CMS are a practical way to setup a website with many features. CMS often come wi
   * [Diaspora](https://diasporafoundation.org/) - Distributed social networking service. - `GNU-AGPL-3.0`
   * [Discourse](http://www.discourse.org/) - Advanced forum / community solution based on Ruby and JS - `GNU-GPL-2.0`
   * [Elgg](https://www.elgg.org/) - a powerful open source
-  * [Friendica](http://friendica.com/) - Social Communication Server ([Source code](https://github.com/friendica/friendica)) `GNU AGPL 3.0`
+  * [Friendica](http://friendica.com/) - Social Communication Server ([Source code](https://github.com/friendica/friendica)) `GNU-AGPL-3.0`
   * [Gnu Social](http://gnu.io/social/) - social communication software for both public and private communications
   * [Jappix](https://jappix.com/) - Jappix is an open social platform, that let's you easily get or keep in touch with everyone.
   * [Movim](https://movim.eu/) - A brand new social network, full of awesome features in a modern and smart interface)
@@ -307,15 +322,17 @@ CMS are a practical way to setup a website with many features. CMS often come wi
 
   * [Blazekiss](https://github.com/ldleman/blazekiss) - BlazeKiss is a KISS-based wiki (Keep It Simple, Stupid) - simplicity and functionality comes before all.
   * [commonplace](https://github.com/fredoliveira/commonplace) - A server for your markdown files. Give it a directory, and Commonplace gives you a url, pretty pages, and quick editing.
+  * [Codex](http://codex.caffeinated.ninja/codex/master) - Codex is a simple file-based Markdown documentation platform built on top of Laravel. - `MIT`
   * [daux.io](https://github.com/justinwalsh/daux.io) - Daux.io is an documentation generator that uses a simple folder structure and Markdown files to create custom documentation on the fly. It helps you create great looking documentation in a developer friendly way.
   * [Docstore](http://haldean.org/) - A basic site for hosting static documents - docstore is a simple way to serve Markdown files without any server-side processing, and without requiring you (as the author) to recompile every time you change an article. It consists of a very simple JS script that makes an ajax request to your server, runs a Markdown processor on what it finds, and then displays the results. Clone the repository and add articles in the text/ directory to get started. ([Source code](https://github.com/haldean/docstore))
-  * [Dokuwiki](http://www.splitbrain.org/projects/dokuwiki) - An easy to use, lightweight, standards-compliant wiki engine with a simple syntax allowing reading the data outside the wiki. All data is stored in plain files, therefore no database is required. - `GNU GPL`
+  * [Dokuwiki](http://www.splitbrain.org/projects/dokuwiki) - An easy to use, lightweight, standards-compliant wiki engine with a simple syntax allowing reading the data outside the wiki. All data is stored in plain files, therefore no database is required. - `GNU-GPL`
   * [Gitit](https://github.com/jgm/gitit) - A wiki program that stores pages and uploaded files in a git repository, which can then be modified using the VCS command line tools or the wiki's web interface. Supported markups include pandoc's extended version of markdown, reStructuredText, LaTeX, and HTML. Pages can be exported in a number of different formats, including LaTeX, RTF, OpenOffice ODT, and MediaWiki markup. Other features include: plugins, syntax highlighting, caching, ATOM feeds...
   * [Gruik](http://gruik.io/) - An open-source markdown note-taking web app ([Source code](https://github.com/grena/gruik))
   * [markdown-tree](https://github.com/mil/markdown-tree) - serve a hierarchy / tree directory of markdown files. Use intended for small sites built in markdown
   * [MdWiki](https://dynalon.github.io/mdwiki/#!index.md) - a Markdown CMS/Wiki completely built in HTML5/Javascript and runs 100% on the client ([Source code](https://github.com/Dynalon/mdwiki))
   * [Mediawiki](https://www.mediawiki.org/wiki/MediaWiki)
   * [Olelo/Gitwiki](https://github.com/minad/olelo) - Olelo is a wiki that stores pages in a Git repository, supports many markup styles and has an extensible, hackable architecture! Features: Edit, move or delete pages; Page attribute editor; Support for hierarchical wikis (directory structure); File upload; History, commit and diff view; Locales (Czech, English, French, German); Support for many markup languages (Creole, Markdown, Textile, ...); RSS/Atom changelog for whole wiki or pages; Section editing for Creole; Embedded LaTeX formulas; Syntax highlighting; Image resizing, SVG to PNG/JPEG conversion; Auto-generated table of contents; Previews; View pages as S5 presentation; Privacy features: Access control lists, Private wiki, Read-only wiki. ([Demo](http://www.gitwiki.org/)) 
+  * [Raneto](http://raneto.com/) - Raneto is an open source Knowledgebase platform that uses static Markdown files to power your Knowledgebase - `MIT`
   * [Realms](https://github.com/scragg0x/realms-wiki) - a git-backed wiki inspired by Gollum
   * [Redaxscript](http://redaxscript.com/) - Ultra lightweight website engine
   * [TiddlyWiki](http://tiddlywiki.com/) - a reusable non-linear personal web notebook
