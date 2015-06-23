@@ -9,6 +9,15 @@ You can help by sending Pull Requests to add more services.
 ### Note about closed source software
 Based on [this issue](https://github.com/Kickball/awesome-selfhosted/issues/8), I have decided to implement a closed source tag which will be used to identify closed source softare. We will use a slashed circle to represent closed source applications: ⊘
 
+### List of Licenses
+
+  * `MIT` - [MIT License](http://opensource.org/licenses/MIT)
+  * `GNU-GPL` - [GNU General Public License](https://www.gnu.org/licenses/gpl-1.0)
+  * `GNU-GPL-2.0` - [GNU General Public License 2.0](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
+  * `GNU-GPL-3.0` - [GNU General Public License 3.0](http://www.gnu.org/licenses/gpl-3.0.en.html)
+  * `GNU-AGPL-3.0` - [GNU Affero General Public License 3.0](https://www.gnu.org/licenses/agpl-3.0)
+  * `Apache` - [Apache License, Version 2.0](http://www.apache.org/licenses/)
+
 
 Table of Contents
 =================
@@ -55,46 +64,44 @@ Table of Contents
 
 ## Blogging Platforms
 
- * [Anchor CMS](http://anchorcms.com/) -  Anchor is a free, lightweight, faster-than-a-bullet, simple blogging system, made for art–directed posts. ([Source code](https://github.com/anchorcms/anchor-cms))
- * [Blogotext](http://lehollandaisvolant.net/blogotext/en/) - a free blog-engine written in PHP and using SQLite. This offers you both an unmatched simplicity during installation and great performances. ([Source code](https://github.com/timovn/blogotext))
- * [blosxom](http://blosxom.sourceforge.net/) -  a lightweight yet feature-packed weblog application designed from the ground up with simplicity, usability, and interoperability in mind.
- * [Chyrp](http://chyrp.net/) - An extra-awesome, extra-lightweight blog engine ([Source code](https://github.com/chyrp/chyrp))
- * [Dotclear](http://dotclear.org/) - Take control over your blog!
- * [Ghost](http://ghost.org/) - Just a blogging platform
- * [htmly](https://github.com/danpros/htmly) - Databaseless Blogging Platform (Flat-File Blog) ([Demo](http://www.htmly.com/demo/))
- * [PluXml](http://www.pluxml.org/) - XML-based blog/CMS platform
- * [WeblogMatrix](http://www.weblogmatrix.org/) - Blogging platforms comparator.
- * [Wordpress](https://wordpress.org/) - Create a beautiful website or blog.
+ * [Anchor CMS](http://anchorcms.com/) -  Anchor is a free, lightweight, faster-than-a-bullet, simple blogging system, made for art–directed posts. - `GNU-GPL-3.0`
+ * [Blogotext](http://lehollandaisvolant.net/blogotext/en/) - a free blog-engine written in PHP and using SQLite. This offers you both an unmatched simplicity during installation and great performances. - `MIT`
+ * [blosxom](http://blosxom.sourceforge.net/) -  A lightweight yet feature-packed weblog application designed from the ground up with simplicity, usability, and interoperability in mind. - `MIT`
+ * [Chyrp](http://chyrp.net/) - An extra-awesome, extra-lightweight blog engine - `MIT`
+ * [Dotclear](http://dotclear.org/) - User-friendly tool allowing anyone to publish on the web, regardless of their technical skills - `GNU-GPL-2.0`
+ * [Ghost](http://ghost.org/) - Ghost is a simple, powerful publishing platform that allows you to share your stories with the world. - `MIT`
+ * [htmly](https://www.htmly.com/) - Database-less Blogging Platform (Flat-File Blog) - `GNU-GPL-2.0`
+ * [PluXml](http://www.pluxml.org/) - XML-based blog/CMS platform - `GNU-GPL`
 
 ## Bug and Task Trackers
 
-  * [92five](http://92fiveapp.com/) - Self hosted project management application ([Source code](https://github.com/chintanbanugaria/92five))
-  * [Apache Bloodhound](https://bloodhound.apache.org/) - Manage software products, Keep track of features, tasks and bugs
-  * [bulldog](https://github.com/infews/bulldog) - HTML5 task manager, built on todo.txt
-  * [Bumpy Booby](http://bumpy-booby.derivoile.fr/) - A simple, responsive and highly customizable PHP bug tracking system. ([Source code](https://github.com/piero-la-lune/Bumpy-Booby))
-  * [ChiliProject](https://www.chiliproject.org/) - a web based project management system.
-  * [Flyspray](http://www.flyspray.org/) - uncomplicated, web-based bug tracking system ([Source code](https://github.com/Flyspray/flyspray))
-  * [Gaskit](https://github.com/bkeepers/gaskit) - a git-backed issue tracker. It uses a branch in your local git database to store the tickets.
-  * [Kanboard](http://kanboard.net/) - A simple and open source visual task board
-  * [Phproject](http://www.phproject.org/) - A high performance full-featured project management system ([Source code](https://github.com/Alanaktion/phproject), [Demo](http://demo.phproject.org/))
-  * [Redmine](http://www.redmine.org/) - Redmine is a flexible project management web application
-  * [Taiga.io](https://taiga.io/) - Your Agile, Free and Open Source Project Management Tool ([Source code](https://github.com/taigaio))
-  * [TaskBoard](http://taskboard.matthewross.me/) - A Kanban-inspired app for keeping track of things that need to get done. ([Source code](https://github.com/kiswa/TaskBoard))
-  * [tasks.php](https://github.com/RaymiiOrg/tasks.php) - A simple task/todo list manager
-  * [Tinyissue](https://github.com/mikelbring/tinyissue) - Simple Issue Tracking for Teams
+  * [92five](http://92fiveapp.com/) - Self hosted project management application - `no license`
+  * [Apache Bloodhound](https://bloodhound.apache.org/) - Manage software products, Keep track of features, tasks and bugs - `Apache`
+  * [bulldog](https://github.com/infews/bulldog) - HTML5 task manager, built on todo.txt - `MIT`
+  * [Bumpy Booby](http://bumpy-booby.derivoile.fr/) - A simple, responsive and highly customizable PHP bug tracking system. - `MIT`
+  * ~~[ChiliProject](https://www.chiliproject.org/) - A web based project management system~~ _not maintained anymore_
+  * [Flyspray](http://www.flyspray.org/) - uncomplicated, web-based bug tracking system - `GNU-GPL-2.0`
+  * [Gaskit](https://github.com/bkeepers/gaskit) - A git-backed issue tracker. It uses a branch in your local git database to store the tickets. - `GNU-GPL`
+  * [Kanboard](http://kanboard.net/) - A simple and open source visual task board - `GNU-AGPL-3.0`
+  * [Phproject](http://www.phproject.org/) - A high performance full-featured project management system - `GNU-GPL-3.0`
+  * [Redmine](http://www.redmine.org/) - Redmine is a flexible project management web application - `GNU-GPL-2.0`
+  * [Taiga.io](https://taiga.io/) - Your Agile, Free and Open Source Project Management Tool - `GNU-AGPL-3.0`
+  * [TaskBoard](http://taskboard.matthewross.me/) - A Kanban-inspired app for keeping track of things that need to get done. - `MIT`
+  * [tasks.php](https://github.com/RaymiiOrg/tasks.php) - A simple task/todo list manager - `MIT`
+  * [Tinyissue](https://github.com/mikelbring/tinyissue) - Simple Issue Tracking for Teams - `MIT`
 
 ## Calendar and Address Books
 
-  * [Radicale](http://radicale.org/) - A Simple Calendar and Contact Server
-  * [calypso](http://keithp.com/calypso/) - a python-based CalDAV/CardDAV server
-  * [AgenDAV](http://agendav.org/) - Multilanguage CalDAV web client with a rich AJAX interface and shared calendars support
-  * [Baïkal](http://baikal.codr.fr/) - Lightweight CalDAV+CardDAV server
+  * [Radicale](http://radicale.org/) - A Simple Calendar and Contact Server - `no license`
+  * [calypso](http://keithp.com/calypso/) - a python-based CalDAV/CardDAV server - `no license`
+  * [AgenDAV](http://agendav.org/) - Multilanguage CalDAV web client with a rich AJAX interface and shared calendars support - `GNU-AGPL-3.0`
+  * [Baïkal](http://baikal-server.com/) - Lightweight CalDAV+CardDAV server - `GNU-GPL-3.0`
 
 ## Communication Systems
 
-  * [Metronome](http://www.lightwitch.org/metronome) – XMPP server forked from Prosody.
+  * [Metronome](http://www.lightwitch.org/metronome) – XMPP server forked from Prosody - `no license`
   * [Node-Chat](https://github.com/IgorAntun/node-chat) - A not-so-basic open-source chat with admin features. - `MIT`
-  * [Prosody](http://prosody.im/) – Modern XMPP server written in Lua.
+  * [Prosody](http://prosody.im/) – Modern XMPP server written in Lua - `MIT`
   * [Kandan](http://getkandan.com/) – Kandan is an Open Source Alternative to HipChat. - `GNU-AGPL`
   * [Rocket.Chat](http://rocket.chat/) – Teamchat solution similar to Gitter.im or Slack - `MIT`
   
@@ -106,24 +113,24 @@ Table of Contents
 
 CMS are a practical way to setup a website with many features. CMS often come with third party plugins, themes and functionality that is easy to add and customize to your needs.
 
-  * [99ko CMS](http://99ko.hellojo.fr) - 99ko est un CMS permettant de créer un site web en quelques minutes et sans connaissances particulières en programmation. Il fonctionne sans base de données et utilise de simples fichiers texte (format JSON) pour stocker vos données. ([Source code](https://github.com/99ko-project/99ko-cms))
-  * [Baun](http://bauncms.com/) - A modern, lightweight, extensible CMS for PHP - ([Source code](https://github.com/BaunCMS/Baun))
-  * [Bolt](http://bolt.cm/) - Sophisticated, lightweight & simple CMS ([Source code](https://github.com/bolt/bolt))
-  * [CMS Made Simple](http://www.cmsmadesimple.org/) - open source content management system, faster and easier management of website contents, scalable for small businesses to large corporations.
-  * [Concrete 5 CMS](http://www.concrete5.org/) - an open source content management system
-  * [Drupal](https://drupal.org/) - open source content management platform
-  * [GetSimple CMS](http://get-simple.info/) - The Simplest Content Management System. Ever.
-  * [Joomla!](http://www.joomla.fr/) - un système de gestion de contenu (CMS)
-  * [Movable Type](https://movabletype.org/) - a powerful solution for the creation and management of web content.
-  * [october](http://octobercms.com/) - Free, open-source, self-hosted CMS platform based on the Laravel PHP Framework. ([Source code](https://github.com/octobercms/october))
-  * [Pagekit](http://pagekit.com/) - A new modern CMS to create and share ([Source code](https://github.com/pagekit/pagekit)) - `MIT`
-  * [Pico](http://picocms.org/) - A stupidly simple, blazing fast, flat file CMS. ([Source code](https://github.com/gilbitron/Pico))
-  * [SPIP](http://www.spip.net/fr) - Publication system for the Internet.
-  * [Wordpress](https://wordpress.org/) - WordPress is web software you can use to create a beautiful website or blog. ([Source code mirror](https://github.com/WordPress/WordPress))
+  * [99ko CMS](http://99ko.hellojo.fr) - 99ko est un CMS permettant de créer un site web en quelques minutes et sans connaissances particulières en programmation. - `no license`
+  * [Baun](http://bauncms.com/) - A modern, lightweight, extensible CMS for PHP - `MIT`
+  * [Bolt](http://bolt.cm/) - Sophisticated, lightweight & simple CMS - `no license`
+  * [CMS Made Simple](http://www.cmsmadesimple.org/) - open source content management system, faster and easier management of website contents, scalable for small businesses to large corporations - `GNU-GPL`
+  * [Concrete 5 CMS](http://www.concrete5.org/) - An open source content management system - `MIT`
+  * [Drupal](https://drupal.org/) - Advanced open source content management platform - `GNU-GPL`
+  * [GetSimple CMS](http://get-simple.info/) - The Simplest Content Management System. - `GNU-GPL-3.0`
+  * [Joomla!](https://www.joomla.com/) - Advanced Content Management System - `GNU-GPL`
+  * [Movable Type](https://movabletype.org/) - a powerful solution for the creation and management of web content. - `no license`
+  * [october](http://octobercms.com/) - Free, open-source, self-hosted CMS platform based on the Laravel PHP Framework. - `MIT`
+  * [Pagekit](http://pagekit.com/) - A new modern CMS to create and share - `MIT`
+  * [Pico](http://picocms.org/) - A stupidly simple, blazing fast, flat file CMS. - `MIT`
+  * [SPIP](http://www.spip.net) - Publication system for the Internet. - `no license`
+  * [Wordpress](https://wordpress.org/) - The worlds most-used blogging and CMS engine. - `GNU-GPL-2.0`
 
 ## Download tools
 
- * [Alltube](https://github.com/Rudloff/alltube) - A web interface for [youtube-dl](https://github.com/rg3/youtube-dl), a program to download videos and audio from [more than 100 websites](https://rg3.github.io/youtube-dl/supportedsites.html) ([Demo](http://alltubedownload.net/))
+ * [Alltube](https://github.com/Rudloff/alltube) - A web interface for [youtube-dl](https://github.com/rg3/youtube-dl), a program to download videos and audio from more than 100 websites. - `GNU-GPL`
  
 ## Feed Readers
  
@@ -289,7 +296,7 @@ CMS are a practical way to setup a website with many features. CMS often come wi
   * [Diaspora](https://diasporafoundation.org/) - Distributed social networking service. - `GNU-AGPL-3.0`
   * [Discourse](http://www.discourse.org/) - Advanced forum / community solution based on Ruby and JS - `GNU-GPL-2.0`
   * [Elgg](https://www.elgg.org/) - a powerful open source
-  * [Friendica](http://friendica.com/) - Social Communication Server ([Source code](https://github.com/friendica/friendica)) `GNU AGPL 3.0`
+  * [Friendica](http://friendica.com/) - Social Communication Server ([Source code](https://github.com/friendica/friendica)) `GNU-AGPL-3.0`
   * [Gnu Social](http://gnu.io/social/) - social communication software for both public and private communications
   * [Jappix](https://jappix.com/) - Jappix is an open social platform, that let's you easily get or keep in touch with everyone.
   * [Movim](https://movim.eu/) - A brand new social network, full of awesome features in a modern and smart interface)
@@ -318,7 +325,7 @@ CMS are a practical way to setup a website with many features. CMS often come wi
   * [Codex](http://codex.caffeinated.ninja/codex/master) - Codex is a simple file-based Markdown documentation platform built on top of Laravel. - `MIT`
   * [daux.io](https://github.com/justinwalsh/daux.io) - Daux.io is an documentation generator that uses a simple folder structure and Markdown files to create custom documentation on the fly. It helps you create great looking documentation in a developer friendly way.
   * [Docstore](http://haldean.org/) - A basic site for hosting static documents - docstore is a simple way to serve Markdown files without any server-side processing, and without requiring you (as the author) to recompile every time you change an article. It consists of a very simple JS script that makes an ajax request to your server, runs a Markdown processor on what it finds, and then displays the results. Clone the repository and add articles in the text/ directory to get started. ([Source code](https://github.com/haldean/docstore))
-  * [Dokuwiki](http://www.splitbrain.org/projects/dokuwiki) - An easy to use, lightweight, standards-compliant wiki engine with a simple syntax allowing reading the data outside the wiki. All data is stored in plain files, therefore no database is required. - `GNU GPL`
+  * [Dokuwiki](http://www.splitbrain.org/projects/dokuwiki) - An easy to use, lightweight, standards-compliant wiki engine with a simple syntax allowing reading the data outside the wiki. All data is stored in plain files, therefore no database is required. - `GNU-GPL`
   * [Gitit](https://github.com/jgm/gitit) - A wiki program that stores pages and uploaded files in a git repository, which can then be modified using the VCS command line tools or the wiki's web interface. Supported markups include pandoc's extended version of markdown, reStructuredText, LaTeX, and HTML. Pages can be exported in a number of different formats, including LaTeX, RTF, OpenOffice ODT, and MediaWiki markup. Other features include: plugins, syntax highlighting, caching, ATOM feeds...
   * [Gruik](http://gruik.io/) - An open-source markdown note-taking web app ([Source code](https://github.com/grena/gruik))
   * [markdown-tree](https://github.com/mil/markdown-tree) - serve a hierarchy / tree directory of markdown files. Use intended for small sites built in markdown
