@@ -31,6 +31,7 @@ Table of Contents
   * [Monitoring](#monitoring)
   * [Music sctreaming](#music-streaming)
   * [Office Suites](#office-suites)
+  * [Password managers](#password-managers)
   * [Pastebins](#pastebins)
   * [Photo and Video Galleries](#photo-and-video-galleries)
   * [Polls and events](#polls-and-events)
@@ -97,6 +98,7 @@ Table of Contents
   * [Prosody](http://prosody.im/) – Modern XMPP server written in Lua.
   * [Kandan](http://getkandan.com/) – Kandan is an Open Source Alternative to HipChat. - `GNU-AGPL`
   * [Rocket.Chat](http://rocket.chat/) – Teamchat solution similar to Gitter.im or Slack - `MIT`
+  * [Kaiwa](http://getkaiwa.com) A modern XMPP Web client ([Source code](https://github.com/digicoop/kaiwa))
 
 ## Content Management Systems (CMS)
 
@@ -116,6 +118,7 @@ CMS are a practical way to setup a website with many features. CMS often come wi
   * [Pico](http://picocms.org/) - A stupidly simple, blazing fast, flat file CMS. ([Source code](https://github.com/gilbitron/Pico))
   * [SPIP](http://www.spip.net/fr) - Publication system for the Internet.
   * [Wordpress](https://wordpress.org/) - WordPress is web software you can use to create a beautiful website or blog. ([Source code mirror](https://github.com/WordPress/WordPress))
+  * [Gazelle](https://github.com/WhatCD/Gazelle) - Gazelle is a web framework geared towards private BitTorrent trackers. Although naturally focusing on music, it can be modified for most needs. `PHP` 
 
 ## Download tools
 
@@ -133,6 +136,9 @@ CMS are a practical way to setup a website with many features. CMS often come wi
   * [Jyraphe](http://home.gna.org/jyraphe/) - Jyraphe is a web application of file repository, easy to install and easy to use.
   * [OnionShare](https://onionshare.org/) - securely and anonymously share a file of any size.
   * [Jirafeau](https://gitlab.com/mojo42/Jirafeau/wikis/home) - Jirafeau is a web site permitting to upload a file in a simple way and give an unique link to it. (Demo](http://jirafeau.net/))
+  * [Pomf](https://github.com/nokonoko/Pomf) -  Simple file uploading and sharing, source for the now shut down site Pomf.se `MIT` `PHP/Nodejs`
+  * [instant.io](https://github.com/feross/instant.io) - Streaming file transfer over WebTorrent ([Demo](https://instant.io)) `MIT` `Nodejs`
+
 
 ## File Synchronization Tools
 
@@ -201,6 +207,8 @@ CMS are a practical way to setup a website with many features. CMS often come wi
   * [Laverna](https://laverna.cc/) - Laverna is a JavaScript note taking application with Markdown editor and encryption support. Consider it like open source alternative to Evernote ([Source code](https://github.com/Laverna/laverna), [Demo](https://laverna.cc/index.html#notes))
   * [OpenNote](https://github.com/FoxUSA/OpenNote) - OpenNote was built to be an open web-based alternative to Microsoft OneNote (T) and EverNote
   * [Paperwork](http://paperwork.rocks) - OpenSource note-taking & archiving alternative to Evernote, Microsoft OneNote & Google Keep ([Source code](https://github.com/twostairs/paperwork))
+  * [minimalist-web-notepad](https://github.com/pereorga/minimalist-web-notepad) -  a minimalist http://notepad.cc clone `Apache License` `PHP`
+
 
 
 ## Office Suites
@@ -208,6 +216,10 @@ CMS are a practical way to setup a website with many features. CMS often come wi
   * [EtherCalc](https://ethercalc.org/) - Web spreadsheet. - CPAL 1.0
   * [Etherpad](http://etherpad.org/) - Etherpad is a highly customizable Open Source online editor providing collaborative editing in really real-time. - `Apache License`
   * [Only Office](http://onlyoffice.org/) - An office suite that enables you to manage documents, projects, team and customer relations in one place. - GNU  - `GNU-AGPL-3.0`
+
+## Password managers
+
+ * [Rattic](http://rattic.org/) - Password Management for Humans ([Source code](https://github.com/tildaslash/RatticWeb))
 
 ## Pastebins
 
