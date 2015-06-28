@@ -25,10 +25,11 @@ Table of Contents
   * [Gateways](#gateways)
   * [Groupware](#groupware)
   * [Link Sharing](#link-sharing)
+  * [Maps](#maps)
   * [Media Streaming](#media-streaming)
   * [Mind maps](#mind-maps)
   * [Money and Budgeting](#money-and-budgeting)
-  * [Monitoring](#monitoring)
+  * [Monitoring and administration](#monitoring-and-administration)
   * [Music sctreaming](#music-streaming)
   * [Office Suites](#office-suites)
   * [Password managers](#password-managers)
@@ -38,6 +39,7 @@ Table of Contents
   * [Private Clouds](#private-clouds)
   * [Read it Later lists](#read-it-later-lists)
   * [RSS Readers](#rss-readers)
+  * [Search engines](#search-engines)
   * [Social Networks](#social-networks)
   * [Software Development Platforms](#software-development-platforms)
   * [URL Shorteners](#url-shorteners)
@@ -99,6 +101,7 @@ Table of Contents
   * [Kandan](http://getkandan.com/) – Kandan is an Open Source Alternative to HipChat. - `GNU-AGPL`
   * [Rocket.Chat](http://rocket.chat/) – Teamchat solution similar to Gitter.im or Slack - `MIT`
   * [Kaiwa](http://getkaiwa.com) A modern XMPP Web client ([Source code](https://github.com/digicoop/kaiwa))
+  * [Shout](http://shout-irc.com/) -The self-hosted web IRC client ([Demo](http://demo.shout-irc.com/), [Source code](https://github.com/erming/shout)) `MIT` `Nodejs`
 
 ## Content Management Systems (CMS)
 
@@ -175,6 +178,10 @@ CMS are a practical way to setup a website with many features. CMS often come wi
   * [Shaarli](https://github.com/shaarli/Shaarli) - Personal, minimalist, super-fast, no-database bookmarking and link sharing plaform. ([Demo](http://shaarlidemo.tuxfamily.org/Shaarli) - `demo/demo`)
   * [unmark](https://github.com/plainmade/unmark) - An open source to do app for links
 
+## Maps
+ * [Graphhopper](https://graphhopper.com/) -  Fast routing library and server using OpenStreetMap ([Source code](https://github.com/graphhopper/graphhopper))
+ * [Openstreetmap](http://www.openstreetmap.org/) - OpenStreetMap is a map of the world, created by people like you and free to use under an open license. ([Source code](https://github.com/openstreetmap/openstreetmap-website))
+
 ## Media Streaming
 
   * [Emby](https://github.com/MediaBrowser/MediaBrowser) - A home media server built using other popular open source technologies. - `GNU-GPL-2.0`
@@ -189,12 +196,14 @@ CMS are a practical way to setup a website with many features. CMS often come wi
 
   * [IHateMoney](http://ihatemoney.org/) - Manage your shared expenses, easily. - `Proprietary`
 
-## Monitoring
+## Monitoring and administration
 
   * [linux-dash](https://github.com/afaqurk/linux-dash) - A drop-in, low-overhead monitoring web dashboard for a linux machine ([Demo](http://afaq.dreamhosters.com/linux-dash/))
   * [Nagios](https://www.nagios.org/) - Industry standard monitoring software, which has a lot of plugins and customisation posibilities. - `GPL`
   * [psdash](https://github.com/Jahaja/psdash) - A linux system information web dashboard using psutils and flask
   * [pyDash](https://github.com/k3oni/pydash) - Small web-based monitoring dashboard for linux ([Demo](http://pydash.hostechs.com/main/) - _admin/admin_)
+  * [adminer](http://www.adminer.org/) -  Database management in a single PHP file ([Source code](https://github.com/vrana/adminer))
+  * [Reportr](http://www.reportr.io/) - Your life's personal dashboard. ([Source code](https://github.com/Reportr/dashboard))
   * [phpSysInfo](https://phpsysinfo.github.io/phpsysinfo/) - a customizable PHP script that displays information about your system nicely ([Demo](http://phpsysinfo.sourceforge.net/phpsysinfo/index.php?disp=bootstrap))
 
 ## Music streaming
@@ -228,6 +237,7 @@ CMS are a practical way to setup a website with many features. CMS often come wi
  * [snipt](https://snipt.net/) -  Long-term memory for coders. Share and store code snippets  ([Source code](https://github.com/nicksergeant/snipt/))
  * [Stikked](https://github.com/claudehohl/Stikked) - An advanced and beautiful pastebin written in PHP
  * [Zerobin](http://sebsauvage.net/wiki/doku.php?id=php:zerobin) - A minimalist, opensource online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES. ([Demo](http://sebsauvage.net/paste/), [Source code](https://github.com/sebsauvage/zerobin))
+ * [0bin](https://github.com/sametmax/0bin) -  Client side encrypted pastebin `WTFPL` `Python`
 
 ## Photo and Video Galleries
 
@@ -262,10 +272,12 @@ CMS are a practical way to setup a website with many features. CMS often come wi
 ## Proxy
 
  * [Swiperproxy](https://swiperproxy.github.io/) - A lightning-fast, open source web proxy that is easy for you to run and customize. ([Source code](https://github.com/swiperproxy/swiperproxy), [Demo](http://proxy.donttrustrobots.nl/)) - `MIT`
+ * [Oranjeproxy](http://lehollandaisvolant.net/tout/oranjeproxy/) - Anonymizing web proxy ([Source code](https://github.com/AmauryCarrade/OranjeProxy)) `GNU-GPL-2.0` `PHP`
 
 ## Read it Later Lists
 
  * [Wallabag](http://www.wallabag.org/?lang=fr_fr) - Wallabag, formerly Poche, is a web application allowing you to save articles to red them later with improved readability. ([Demo](http://demo.wallabag.org/), [Public instance](http://www.framabag.org/), [Source code](https://github.com/wallabag/wallabag
+ * [Readityourself](https://github.com/memiks/readityourself) - read the web without ads, comments, or tweets ([Demo](http://www.readityourself.net/)) `MIT` `PHP`
 
 ## RSS Readers
 
@@ -294,6 +306,8 @@ CMS are a practical way to setup a website with many features. CMS often come wi
     * [RelatedSoftware - Tiny Tiny RSS](http://tt-rss.org/redmine/projects/tt-rss/wiki/RelatedSoftware) - (mobile applications, browser plugins...)
     * [ttrss-mobile](https://github.com/mboinet/ttrss-mobile) - A mobile webapp for Tiny Tiny RSS
 
+## Search engines
+ * [Searx](https://github.com/asciimoo/searx) - A privacy-respecting, hackable metasearch engine ([Demo](https://searx.me/), [Public instances](https://github.com/asciimoo/searx/wiki/Searx-instances))
 
 ## Social Networks
 
@@ -318,6 +332,9 @@ CMS are a practical way to setup a website with many features. CMS often come wi
   * [Gitprep](http://gitprep.org/) - Portable Github clone ([Source code](https://github.com/yuki-kimoto/gitprep), [Demo](http://perlcodesample.sakura.ne.jp/gitprep.cgi))
   * [Gogs](https://github.com/gogits/gogs) - a painless self-hosted Git Service written in Go. ([Demo](http://try.gogits.org))
   * [Repo.js](http://darcyclarke.me/dev/repojs/) - A plugin to embed Github repos on your site ([Source code](https://github.com/darcyclarke/Repo.js))
+  * [Regexr](http://regexr.com/) -  RegExr is a HTML/JS based tool for creating, testing, and learning about Regular Expressions. ([Source code](https://github.com/gskinner/regexr/)) `MIT` `Nodejs`
+  * [Pairjam](http://pairjam.com/) -  Real-time web-based collaborative coding ([Source code](https://github.com/neerajwahi/pairjam))
+  * [Codiad](http://codiad.com/) - a web-based IDE framework with a small footprint and minimal requirements. ([Source code](https://github.com/Codiad/Codiad))
 
 ## URL Shorteners
   * [YOURLS](http://yourls.org/) - YOURLS is a set of PHP scripts that will allow you to run Your Own URL Shortener. Features include password protection, URL customization, bookmarklets, statistics, API, plugins, jsonp ([Source code](https://github.com/YOURLS/YOURLS/), [Documentation](https://github.com/YOURLS/YOURLS/wiki)) - `MIT`
