@@ -189,6 +189,7 @@ CMS are a practical way to setup a website with many features. CMS often come wi
   * [Nagios](https://www.nagios.org/) - Industry standard monitoring software, which has a lot of plugins and customisation posibilities. - `GPL`
   * [psdash](https://github.com/Jahaja/psdash) - A linux system information web dashboard using psutils and flask
   * [pyDash](https://github.com/k3oni/pydash) - Small web-based monitoring dashboard for linux ([Demo](http://pydash.hostechs.com/main/) - _admin/admin_)
+  * [phpSysInfo](https://phpsysinfo.github.io/phpsysinfo/) - a customizable PHP script that displays information about your system nicely ([Demo](http://phpsysinfo.sourceforge.net/phpsysinfo/index.php?disp=bootstrap))
 
 ## Music streaming
   * [Sonerezh](https://www.sonerezh.bzh/) - A self-hosted, web-based application for stream your music, everywhere. ([Demo](https://www.sonerezh.bzh/demo/), [Documentation](https://www.sonerezh.bzh/docs/), [Source code](https://github.com/sonerezh/sonerezh))
