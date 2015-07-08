@@ -240,6 +240,7 @@ CMS are a practical way to setup a website with many features. CMS often come wi
 
  * [OpenSondage](https://github.com/leblanc-simon/OpenSondage) - an online service for planning an appointment or make a decision quickly and easily: Make a poll, Define dates or subjects to choose, Send the poll link to your friends or colleagues, Discuss and make a decision - ([Demo](http://framadate.org/), [Example](https://framadate.org/aqg259dth55iuhwm))
  * [Kyélà](http://kyela.net/) -  Participation polls for group events  - ([Source code](https://github.com/abienvenu/Kyela), [Demo](http://kyela.net/55232734237c8/))
+ * [MaterialPoll](https://github.com/nearbycoder/materialpoll) - an opensource strawpoll.me clone for creating random polls. - ([Source code](https://github.com/nearbycoder/materialpoll), [Demo](http://materialpoll.tk))
 
 ## Private Cloud
 
