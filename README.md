@@ -136,7 +136,7 @@ CMS are a practical way to setup a website with many features. CMS often come wi
 
 ## File Synchronization Tools
 
-  * [BTSync](https://www.getsync.com/) - BitTorrent Sync by BitTorrent, Inc is a proprietary peer-to-peer file synchronisation tool.
+  * [BTSync](https://www.getsync.com/) ⊘ - BitTorrent Sync by BitTorrent, Inc is a proprietary peer-to-peer file synchronisation tool.
   * [Syncthing](http://syncthing.net/) - Syncthing is an open source peer-to-peer file synchronisation tool ([Source code](https://github.com/syncthing/syncthing)) - `MPL 2.0`
   * [Git Annex](http://git-annex.branchable.com/assistant/quickstart/) - Synchronisation de fichiers entre ordinateurs, disques externes, serveurs...
   * [Seafile](http://seafile.com/en/home/) - File Syncing and Collaboration for Teams
