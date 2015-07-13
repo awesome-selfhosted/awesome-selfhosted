@@ -169,7 +169,7 @@ CMS are a practical way to setup a website with many features. CMS often come wi
 
 ## GPS tracking
 
-  * [Traccar](https://www.traccar.org/) - Java application to track GPS positions. Supports loads of tracking devices and protocols, has an Android and iOS App. Has a web interface to view your trips -  ([Demo](http://demo.traccar.org/)) - ([Source](https://github.com/tananaev?tab=repositories)) - Tracking server license: `Apache License 2.0`
+  * [Traccar](https://www.traccar.org/) - Java application to track GPS positions. Supports loads of tracking devices and protocols, has an Android and iOS App. Has a web interface to view your trips -  ([Demo](http://demo.traccar.org/)) - ([Source](https://github.com/tananaev?tab=repositories)) - `Apache License 2.0`
 
 ## Groupware
   * [Kolab](https://kolab.org/) - Kolab community is a unified communication and collaboration system - `Various FLOSS Licenses` ([Source](http://git.kolab.org/))
