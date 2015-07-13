@@ -23,6 +23,7 @@ Table of Contents
   * [File Synchronization Tools](#file-synchronization-tools)
   * [Games](#games)
   * [Gateways](#gateways)
+  * [GPS tracking](#gps-tracking)
   * [Groupware](#groupware)
   * [Link Sharing](#link-sharing)
   * [Maps](#maps)
@@ -165,6 +166,10 @@ CMS are a practical way to setup a website with many features. CMS often come wi
 
   * [GateOne](https://github.com/liftoff/GateOne/) - Gate One is an HTML5 web-based terminal emulator and SSH client. - `AGPL 3.0`
   * [Guacamole](http://guac-dev.org/) - Guacamole is a clientless remote desktop gateway. It supports standard protocols like VNC and RDP. - `Proprietary`
+
+## GPS tracking
+
+  * [Traccar](https://www.traccar.org/) - Java application to track GPS positions. Supports loads of tracking devices and protocols, has an Android and iOS App. Has a web interface to view your trips -  ([Demo](http://demo.traccar.org/)) - ([Source](https://github.com/tananaev?tab=repositories)) - Tracking server license: `Apache License 2.0`
 
 ## Groupware
   * [Kolab](https://kolab.org/) - Kolab community is a unified communication and collaboration system - `Various FLOSS Licenses` ([Source](http://git.kolab.org/))
