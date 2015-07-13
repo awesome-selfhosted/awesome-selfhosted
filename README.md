@@ -268,7 +268,7 @@ CMS are a practical way to setup a website with many features. CMS often come wi
  * [Kyélà](http://kyela.net/) -  Participation polls for group events  - ([Source code](https://github.com/abienvenu/Kyela), [Demo](http://kyela.net/55232734237c8/))
  * [MaterialPoll](https://github.com/nearbycoder/materialpoll) - an opensource strawpoll.me clone for creating random polls. - ([Source code](https://github.com/nearbycoder/materialpoll), [Demo](http://materialpoll.tk))
 
-## Private Cloud
+## Private Clouds
 
   * [Tine 2.0org](https://www.tine20.org) - Contacts, Calendar, Tasks, WebDAV, ActiveSync, VOIP, Mail-Client, CRM, Sales, Projects, Timetracker -  ([Demo](https://demo.tine20.net)) - `GNU-AGPL v3` - other licences involved, see LICENSE-file
   * [ownCloud](https://owncloud.org/) - All-in-one solution for saving and sharing files, photos, music,... - `GNU-AGPL-3.0`
