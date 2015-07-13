@@ -76,6 +76,7 @@ Table of Contents
   * [Gaskit](https://github.com/bkeepers/gaskit) - a git-backed issue tracker. It uses a branch in your local git database to store the tickets.
   * [HabitRPG](http://habitrpg.com/) - A habit tracker app which treats your goals like a Role Playing Game. ([Source code](https://github.com/lefnire/habitrpg))
   * [Kanboard](http://kanboard.net/) - A simple and open source visual task board
+  * [MantisBT](https://www.mantisbt.org/) - Self hosted bug tracker, fits best for software development - ([Demo](https://www.mantisbt.org/bugs/my_view_page.php)) -  ([Source code](https://github.com/mantisbt/mantisbt)) - `GPLv2`
   * [myTinyTodo](http://www.mytinytodo.net/) - Simple way to manage your todo list in AJAX style. Uses PHP, jQuery, SQLite/MySQL. GTD compliant. `GNU GPL`
   * [Phproject](http://www.phproject.org/) - A high performance full-featured project management system ([Source code](https://github.com/Alanaktion/phproject), [Demo](http://demo.phproject.org/))
   * [Redmine](http://www.redmine.org/) - Redmine is a flexible project management web application
