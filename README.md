@@ -23,6 +23,7 @@ Table of Contents
   * [File Synchronization Tools](#file-synchronization-tools)
   * [Games](#games)
   * [Gateways](#gateways)
+  * [GPS tracking](#gps-tracking)
   * [Groupware](#groupware)
   * [Link Sharing](#link-sharing)
   * [Maps](#maps)
@@ -166,6 +167,10 @@ CMS are a practical way to setup a website with many features. CMS often come wi
   * [GateOne](https://github.com/liftoff/GateOne/) - Gate One is an HTML5 web-based terminal emulator and SSH client. - `AGPL 3.0`
   * [Guacamole](http://guac-dev.org/) - Guacamole is a clientless remote desktop gateway. It supports standard protocols like VNC and RDP. - `Proprietary`
 
+## GPS tracking
+
+  * [Traccar](https://www.traccar.org/) - Java application to track GPS positions. Supports loads of tracking devices and protocols, has an Android and iOS App. Has a web interface to view your trips -  ([Demo](http://demo.traccar.org/)) - ([Source](https://github.com/tananaev?tab=repositories)) - `Apache License 2.0`
+
 ## Groupware
   * [Kolab](https://kolab.org/) - Kolab community is a unified communication and collaboration system - `Various FLOSS Licenses` ([Source](http://git.kolab.org/))
   * [Horde](http://www.horde.org/) - The Horde Project is about creating high quality Open Source applications and libraries, based on PHP and the Horde Framework. - `GPL` + Various Free Software / Open Source Software Licenses
@@ -268,7 +273,7 @@ CMS are a practical way to setup a website with many features. CMS often come wi
  * [Kyélà](http://kyela.net/) -  Participation polls for group events  - ([Source code](https://github.com/abienvenu/Kyela), [Demo](http://kyela.net/55232734237c8/))
  * [MaterialPoll](https://github.com/nearbycoder/materialpoll) - an opensource strawpoll.me clone for creating random polls. - ([Source code](https://github.com/nearbycoder/materialpoll), [Demo](http://materialpoll.tk))
 
-## Private Cloud
+## Private Clouds
 
   * [Tine 2.0org](https://www.tine20.org) - Contacts, Calendar, Tasks, WebDAV, ActiveSync, VOIP, Mail-Client, CRM, Sales, Projects, Timetracker -  ([Demo](https://demo.tine20.net)) - `GNU-AGPL v3` - other licences involved, see LICENSE-file
   * [ownCloud](https://owncloud.org/) - All-in-one solution for saving and sharing files, photos, music,... - `GNU-AGPL-3.0`
