@@ -266,6 +266,7 @@ CMS are a practical way to setup a website with many features. CMS often come wi
 
 ## Private Cloud
 
+  * [Tine 2.0org](https://www.tine20.org) - Contacts, Calendar, Tasks, WebDAV, ActiveSync, VOIP, Mail-Client, CRM, Sales, Projects, Timetracker -  ([Demo](https://demo.tine20.net)) - `GNU-AGPL v3` - other licences involved, see LICENSE-file
   * [ownCloud](https://owncloud.org/) - All-in-one solution for saving and sharing files, photos, music,... - `GNU-AGPL-3.0`
   * [seafile](http://www.seafile.com/en/home/) - File hosting and sharing solution primary for teams and organizations. - `GNU-GPL-2.0`
 
