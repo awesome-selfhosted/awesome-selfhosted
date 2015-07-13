@@ -76,6 +76,7 @@ Table of Contents
   * [Gaskit](https://github.com/bkeepers/gaskit) - a git-backed issue tracker. It uses a branch in your local git database to store the tickets.
   * [HabitRPG](http://habitrpg.com/) - A habit tracker app which treats your goals like a Role Playing Game. ([Source code](https://github.com/lefnire/habitrpg))
   * [Kanboard](http://kanboard.net/) - A simple and open source visual task board
+  * [MantisBT](https://www.mantisbt.org/) - Self hosted bug tracker, fits best for software development - ([Demo](https://www.mantisbt.org/bugs/my_view_page.php)) -  ([Source code](https://github.com/mantisbt/mantisbt)) - `GPLv2`
   * [myTinyTodo](http://www.mytinytodo.net/) - Simple way to manage your todo list in AJAX style. Uses PHP, jQuery, SQLite/MySQL. GTD compliant. `GNU GPL`
   * [Phproject](http://www.phproject.org/) - A high performance full-featured project management system ([Source code](https://github.com/Alanaktion/phproject), [Demo](http://demo.phproject.org/))
   * [Redmine](http://www.redmine.org/) - Redmine is a flexible project management web application
@@ -99,6 +100,7 @@ Table of Contents
   * [Node-Chat](https://github.com/IgorAntun/node-chat) - A not-so-basic open-source chat with admin features. - `MIT`
   * [Prosody](http://prosody.im/) – Modern XMPP server written in Lua.
   * [Kandan](http://getkandan.com/) – Kandan is an Open Source Alternative to HipChat. - `GNU-AGPL`
+  * [Kontalk](http://kontalk.org/) – Kontalk is an Open Source Messenger, similiar to WhatsApp (app for android only currently), including end-to-end encryption, server is based on Tigase XMPP Server - [Source code](https://github.com/kontalk)) - `GPLv3`
   * [Rocket.Chat](http://rocket.chat/) – Teamchat solution similar to Gitter.im or Slack - `MIT`
   * [Kaiwa](http://getkaiwa.com) A modern XMPP Web client ([Source code](https://github.com/digicoop/kaiwa))
   * [Shout](http://shout-irc.com/) -The self-hosted web IRC client ([Demo](http://demo.shout-irc.com/), [Source code](https://github.com/erming/shout)) `MIT` `Nodejs`
@@ -198,6 +200,7 @@ CMS are a practical way to setup a website with many features. CMS often come wi
 
 ## Monitoring and administration
 
+  * [Icinga / Icinga 2](https://www.icinga.org/) - Nagios fork that has since lapped nagios several times. Comes with the possibility of clustered monitoring - ([SourceCode](https://github.com/Icinga)) - `GPLv2`
   * [linux-dash](https://github.com/afaqurk/linux-dash) - A drop-in, low-overhead monitoring web dashboard for a linux machine ([Demo](http://afaq.dreamhosters.com/linux-dash/))
   * [Nagios](https://www.nagios.org/) - Industry standard monitoring software, which has a lot of plugins and customisation posibilities. - `GPL`
   * [psdash](https://github.com/Jahaja/psdash) - A linux system information web dashboard using psutils and flask
