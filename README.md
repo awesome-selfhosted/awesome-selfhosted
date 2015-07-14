@@ -44,6 +44,7 @@ Table of Contents
   * [Social Networks](#social-networks)
   * [Software Development Platforms](#software-development-platforms)
   * [URL Shorteners](#url-shorteners)
+  * [Webmail interfaces](#webmail-interfaces)
 
 ## Analytics
 
@@ -351,6 +352,10 @@ CMS are a practical way to setup a website with many features. CMS often come wi
   * [YOURLS](http://yourls.org/) - YOURLS is a set of PHP scripts that will allow you to run Your Own URL Shortener. Features include password protection, URL customization, bookmarklets, statistics, API, plugins, jsonp ([Source code](https://github.com/YOURLS/YOURLS/), [Documentation](https://github.com/YOURLS/YOURLS/wiki)) - `MIT`
   * [Polr](http://project.polr.me/) - A modern, minimalist, modular, and lightweight URL shortener ([Source code](https://github.com/Cydrobolt/polr)
   * [Lstu](https://github.com/ldidry/lstu) - _Let's SHorten That Url_ - Lightweight URL shortener
+
+## Webmail interfaces
+
+  * [Roundcube](https://roundcube.net) - A web interface to act as an IMAP frontend ([Screenshots](https://roundcube.net/screens/)) ([Source code](https://github.com/roundcube/roundcubemail/)) `GPLv3` `PHP`
 
 ## Wikis
 
