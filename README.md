@@ -328,7 +328,7 @@ CMS are a practical way to setup a website with many features. CMS often come wi
   * [BuddyPress](http://buddypress.org/about/) - A powerful plugin that takes your WordPress.org powered site beyond the blog with social-network features like user profiles, activity streams, user groups, and more.
   * [Diaspora](https://diasporafoundation.org/) - Distributed social networking service. - `GNU-AGPL-3.0`
   * [Discourse](http://www.discourse.org/) - Advanced forum / community solution based on Ruby and JS - `GNU-GPL-2.0`
-  * [Elgg](https://www.elgg.org/) - a powerful open source
+  * [Elgg](https://www.elgg.org/) - a powerful open source social networking engine - `GPLv2`
   * [Friendica](http://friendica.com/) - Social Communication Server ([Source code](https://github.com/friendica/friendica)) `GNU AGPL 3.0`
   * [Gnu Social](http://gnu.io/social/) - social communication software for both public and private communications
   * [Jappix](https://jappix.com/) - Jappix is an open social platform, that let's you easily get or keep in touch with everyone.
