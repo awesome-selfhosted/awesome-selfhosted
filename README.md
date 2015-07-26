@@ -113,14 +113,14 @@ Table of Contents
 
 CMS are a practical way to setup a website with many features. CMS often come with third party plugins, themes and functionality that is easy to add and customize to your needs.
 
-  * [99ko CMS](http://99ko.hellojo.fr) - 99ko est un CMS permettant de créer un site web en quelques minutes et sans connaissances particulières en programmation. Il fonctionne sans base de données et utilise de simples fichiers texte (format JSON) pour stocker vos données. ([Source code](https://github.com/99ko-project/99ko-cms))
+  * [99ko CMS](http://99ko.hellojo.fr) - 99ko allows you to create a website in minutes without knowledge of Web development. It does not use a database server but relies on simple text files (JSON format) to store your data. ([Source code](https://github.com/99ko-project/99ko-cms))
   * [Baun](http://bauncms.com/) - A modern, lightweight, extensible CMS for PHP - ([Source code](https://github.com/BaunCMS/Baun))
   * [Bolt](http://bolt.cm/) - Sophisticated, lightweight & simple CMS ([Source code](https://github.com/bolt/bolt))
   * [CMS Made Simple](http://www.cmsmadesimple.org/) - open source content management system, faster and easier management of website contents, scalable for small businesses to large corporations.
   * [Concrete 5 CMS](http://www.concrete5.org/) - an open source content management system
   * [Drupal](https://drupal.org/) - open source content management platform
   * [GetSimple CMS](http://get-simple.info/) - The Simplest Content Management System. Ever.
-  * [Joomla!](http://www.joomla.fr/) - un système de gestion de contenu (CMS)
+  * [Joomla!](http://www.joomla.fr/) - A Content Management System (CMS)
   * [Movable Type](https://movabletype.org/) - a powerful solution for the creation and management of web content.
   * [october](http://octobercms.com/) - Free, open-source, self-hosted CMS platform based on the Laravel PHP Framework. ([Source code](https://github.com/octobercms/october))
   * [Pagekit](http://pagekit.com/) - A new modern CMS to create and share ([Source code](https://github.com/pagekit/pagekit)) - `MIT`
@@ -153,7 +153,7 @@ CMS are a practical way to setup a website with many features. CMS often come wi
 
   * [BTSync](https://www.getsync.com/) ⊘ - BitTorrent Sync by BitTorrent, Inc is a proprietary peer-to-peer file synchronisation tool.
   * [Syncthing](http://syncthing.net/) - Syncthing is an open source peer-to-peer file synchronisation tool ([Source code](https://github.com/syncthing/syncthing)) - `MPL 2.0`
-  * [Git Annex](http://git-annex.branchable.com/assistant/quickstart/) - Synchronisation de fichiers entre ordinateurs, disques externes, serveurs...
+  * [Git Annex](http://git-annex.branchable.com/assistant/quickstart/) - File synchronization between computers, servers, external drives...
   * [Seafile](http://seafile.com/en/home/) - File Syncing and Collaboration for Teams
   * [SparkleShare](http://sparkleshare.org/) - Self hosted, instant, secure file sync
   * [Syncany](https://www.syncany.org/) - Secure file sync software for arbitrary storage backends - An open-source cloud storage and filesharing application. Securely synchronize your files to any kind of storage!
@@ -172,12 +172,12 @@ CMS are a practical way to setup a website with many features. CMS often come wi
 
 ## GPS tracking
 
-  * [Traccar](https://www.traccar.org/) - Java application to track GPS positions. Supports loads of tracking devices and protocols, has an Android and iOS App. Has a web interface to view your trips -  ([Demo](http://demo.traccar.org/)) - ([Source](https://github.com/tananaev?tab=repositories)) - `Apache License 2.0`
+  * [Traccar](https://www.traccar.org/) - Java application to track GPS positions. Supports loads of tracking devices and protocols, has an Android and iOS App. Has a web interface to view your trips -  ([Demo](http://demo.traccar.org/), [Source code](https://github.com/tananaev?tab=repositories)) - `Apache License 2.0`
 
 ## Groupware
   * [Kolab](https://kolab.org/) - Kolab community is a unified communication and collaboration system - `Various FLOSS Licenses` ([Source](http://git.kolab.org/))
   * [Horde](http://www.horde.org/) - The Horde Project is about creating high quality Open Source applications and libraries, based on PHP and the Horde Framework. - `GPL` + Various Free Software / Open Source Software Licenses
-  * [egroupware](http://www.egroupware.org/) - calendrier, répertoire, bloc notes, planning, outils de gestion de projets, solution de gestion de la relation client, outil de gestion des connaissances, Wiki, CMS.
+  * [egroupware](http://www.egroupware.org/) - Software suite including calendars, address books, notepad, project management tools, client relationship managemnt tools (CRM), knowledge management tools, a wiki and a CMS.
 
 ## Link Sharing
 
@@ -227,7 +227,7 @@ CMS are a practical way to setup a website with many features. CMS often come wi
   * [Laverna](https://laverna.cc/) - Laverna is a JavaScript note taking application with Markdown editor and encryption support. Consider it like open source alternative to Evernote ([Source code](https://github.com/Laverna/laverna), [Demo](https://laverna.cc/index.html#notes))
   * [OpenNote](https://github.com/FoxUSA/OpenNote) - OpenNote was built to be an open web-based alternative to Microsoft OneNote (T) and EverNote
   * [Paperwork](http://paperwork.rocks) - OpenSource note-taking & archiving alternative to Evernote, Microsoft OneNote & Google Keep ([Source code](https://github.com/twostairs/paperwork))
-  * [minimalist-web-notepad](https://github.com/pereorga/minimalist-web-notepad) -  a minimalist http://notepad.cc clone `Apache License` `PHP`
+  * [minimalist-web-notepad](https://github.com/pereorga/minimalist-web-notepad)- a minimalist http://notepad.cc clone `Apache License` `PHP`
 
 
 
@@ -331,6 +331,7 @@ CMS are a practical way to setup a website with many features. CMS often come wi
   * [Elgg](https://www.elgg.org/) - a powerful open source social networking engine - `GPLv2`
   * [Friendica](http://friendica.com/) - Social Communication Server ([Source code](https://github.com/friendica/friendica)) `GNU AGPL 3.0`
   * [Gnu Social](http://gnu.io/social/) - social communication software for both public and private communications
+  * [Isso](http://posativ.org/isso/) - a lightweight commenting server written in Python and JavaScript. It aims to be a drop-in replacement for Disqus ([Source code](https://github.com/posativ/isso)) `Python` `MIT`
   * [Jappix](https://jappix.com/) - Jappix is an open social platform, that let's you easily get or keep in touch with everyone.
   * [Movim](https://movim.eu/) - A brand new social network, full of awesome features in a modern and smart interface)
   * [Pump.io](http://pump.io/) - stream server that does most of what people really want from a social network ([Source code](https://github.com/e14n/pump.io))
