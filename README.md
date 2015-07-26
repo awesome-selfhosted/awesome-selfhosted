@@ -1,79 +1,84 @@
 # Awesome-Selfhosted
 
 Selfhosting is the process of locally hosting and managing applications instead of renting from SaaS providers.
-
-This is list of software which can be hosted locally.
-
-You can help by sending Pull Requests to add more services.
-
-### Note about closed source software
-Based on [this issue](https://github.com/Kickball/awesome-selfhosted/issues/8), I have decided to implement a closed source tag which will be used to identify closed source softare. We will use a slashed circle to represent closed source applications: ⊘
+This is a list of software which can be hosted locally.
 
 
 Table of Contents
 =================
 
-  * [Analytics](#analytics)
-  * [Automation](#automation)
-  * [Blogging Platforms](#blogging-platforms)
-  * [Bug and task trackers](#bug-and-task-trackers)
-  * [Communication Systems](#communication-systems)
-  * [Download Tools](#download-tools)
-  * [File Sharing](#file-sharing)
-  * [File Synchronization Tools](#file-synchronization-tools)
-  * [Games](#games)
-  * [Gateways](#gateways)
-  * [GPS tracking](#gps-tracking)
-  * [Groupware](#groupware)
-  * [Link Sharing](#link-sharing)
-  * [Maps](#maps)
-  * [Media Streaming](#media-streaming)
-  * [Mind maps](#mind-maps)
-  * [Money and Budgeting](#money-and-budgeting)
-  * [Monitoring and administration](#monitoring-and-administration)
-  * [Music sctreaming](#music-streaming)
-  * [Office Suites](#office-suites)
-  * [Password managers](#password-managers)
-  * [Pastebins](#pastebins)
-  * [Photo and Video Galleries](#photo-and-video-galleries)
-  * [Polls and events](#polls-and-events)
-  * [Private Clouds](#private-clouds)
-  * [Read it Later lists](#read-it-later-lists)
-  * [RSS Readers](#rss-readers)
-  * [Search engines](#search-engines)
-  * [Social Networks](#social-networks)
-  * [Software Development Platforms](#software-development-platforms)
-  * [URL Shorteners](#url-shorteners)
-  * [Wikis](#wikis)
+<!-- MarkdownTOC -->
+
+- [Analytics](#analytics)
+- [Automation](#automation)
+- [Blogging platforms](#blogging-platforms)
+- [Bug and task trackers](#bug-and-task-trackers)
+- [Calendar and address books](#calendar-and-address-books)
+- [Communication Systems](#communication-systems)
+- [Content Management Systems (CMS)](#content-management-systems-cms)
+- [Download tools](#download-tools)
+- [File Sharing](#file-sharing)
+- [File Synchronization Tools](#file-synchronization-tools)
+- [Games](#games)
+- [Gateways](#gateways)
+- [GPS tracking](#gps-tracking)
+- [Groupware](#groupware)
+- [Link Sharing](#link-sharing)
+- [Maps](#maps)
+- [Media Streaming](#media-streaming)
+- [Mind maps](#mind-maps)
+- [Money and Budgeting](#money-and-budgeting)
+- [Monitoring and administration](#monitoring-and-administration)
+- [Music streaming](#music-streaming)
+- [Note-taking](#note-taking)
+- [Office Suites](#office-suites)
+- [Password managers](#password-managers)
+- [Pastebins](#pastebins)
+- [Photo and Video Galleries](#photo-and-video-galleries)
+- [Polls and events](#polls-and-events)
+- [Private Clouds](#private-clouds)
+- [Proxy](#proxy)
+- [Read it Later Lists](#read-it-later-lists)
+- [RSS Readers](#rss-readers)
+- [Search engines](#search-engines)
+- [Social Networks](#social-networks)
+- [Software development platforms](#software-development-platforms)
+- [Text editors](#text-editors)
+- [URL Shorteners](#url-shorteners)
+- [Wikis](#wikis)
+- [Contributing](#contributing)
+- [License](#license)
+
+<!-- /MarkdownTOC -->
 
 ## Analytics
 
-  * [Open Web Analytics](http://www.openwebanalytics.com/) - Google Analytics and Piwik alternative - `GNU-GPL`
-  * [Piwik](https://piwik.org/) - Leading open-source analytics platform that gives you more than just powerful analytics. - `GNU-GPL-3.0`
+  * [Open Web Analytics](http://www.openwebanalytics.com/) - Google Analytics and Piwik alternative - `GNU-GPL` `PHP`
+  * [Piwik](https://piwik.org/) - Leading open-source analytics platform that gives you more than just powerful analytics. - `GNU-GPL-3.0` `PHP`
 
 ## Automation
-  * [Huginn](https://github.com/cantino/huginn) - Allows you to build agents that monitor and act on your behalf. Built in Ruby - `MIT`
+  * [Huginn](https://github.com/cantino/huginn) - Allows you to build agents that monitor and act on your behalf. Built in Ruby - `MIT` `Ruby`
 
 ## Blogging platforms
 
- * [Anchor CMS](http://anchorcms.com/) -  Anchor is a free, lightweight, faster-than-a-bullet, simple blogging system, made for art–directed posts. ([Source code](https://github.com/anchorcms/anchor-cms))
- * [Blogotext](http://lehollandaisvolant.net/blogotext/en/) - a free blog-engine written in PHP and using SQLite. This offers you both an unmatched simplicity during installation and great performances. ([Source code](https://github.com/timovn/blogotext))
- * [blosxom](http://blosxom.sourceforge.net/) -  a lightweight yet feature-packed weblog application designed from the ground up with simplicity, usability, and interoperability in mind.
- * [Chyrp](http://chyrp.net/) - An extra-awesome, extra-lightweight blog engine ([Source code](https://github.com/chyrp/chyrp))
- * [Dotclear](http://dotclear.org/) - Take control over your blog!
- * [Ghost](http://ghost.org/) - Just a blogging platform
- * [htmly](https://github.com/danpros/htmly) - Databaseless Blogging Platform (Flat-File Blog) ([Demo](http://www.htmly.com/demo/))
- * [PluXml](http://www.pluxml.org/) - XML-based blog/CMS platform
- * [WeblogMatrix](http://www.weblogmatrix.org/) - Blogging platforms comparator.
- * [Wordpress](https://wordpress.org/) - Create a beautiful website or blog.
+ * **[WeblogMatrix](http://www.weblogmatrix.org/) - Blogging platforms comparator.**
+ * [Anchor CMS](http://anchorcms.com/) -  Anchor is a free, lightweight, faster-than-a-bullet, simple blogging system, made for art–directed posts. ([Source code](https://github.com/anchorcms/anchor-cms)) `GNU GPLv3` `PHP`
+ * [Blogotext](http://lehollandaisvolant.net/blogotext/en/) - a free blog-engine written in PHP and using SQLite. This offers you both an unmatched simplicity during installation and great performances. ([Source code](https://github.com/timovn/blogotext)) `MIT` `PHP`
+ * [blosxom](http://blosxom.sourceforge.net/) -  a lightweight yet feature-packed weblog application designed from the ground up with simplicity, usability, and interoperability in mind. `MIT` `Perl`
+ * [Chyrp](http://chyrp.net/) - An extra-awesome, extra-lightweight blog engine ([Source code](https://github.com/chyrp/chyrp)) `MIT` `PHP`
+ * [Dotclear](http://dotclear.org/) - Take control over your blog! ([Source code](https://hg.dotclear.org/dotclear)) `GNU GPLv2` `PHP`
+ * [Ghost](http://ghost.org/) - Just a blogging platform ([Source code](https://github.com/TryGhost/Ghost)) `MIT` `Nodejs`
+ * [htmly](http://www.htmly.com/) - Databaseless Blogging Platform (Flat-File Blog) ([Source code]((https://github.com/danpros/htmly)), [Demo](http://www.htmly.com/demo/)) `GNU GPLv2` `PHP`
+ * [PluXml](http://www.pluxml.org/) - XML-based blog/CMS platform ([Source code](https://github.com/pluxml/PluXml)) `GNU GPL` `PHP`
+ * [Wordpress](https://wordpress.org/) - Create a beautiful website or blog. ([Source code](https://github.com/WordPress/WordPress)) `GNU GPLv2`
 
 ## Bug and task trackers
 
-  * [92five](http://92fiveapp.com/) - Self hosted project management application ([Source code](https://github.com/chintanbanugaria/92five))
-  * [Apache Bloodhound](https://bloodhound.apache.org/) - Manage software products, Keep track of features, tasks and bugs
-  * [bulldog](https://github.com/infews/bulldog) - HTML5 task manager, built on todo.txt
-  * [Bumpy Booby](http://bumpy-booby.derivoile.fr/) - A simple, responsive and highly customizable PHP bug tracking system. ([Source code](https://github.com/piero-la-lune/Bumpy-Booby))
-  * [ChiliProject](https://www.chiliproject.org/) - a web based project management system.
+  * [92five](http://92fiveapp.com/) - Self hosted project management application ([Source code](https://github.com/chintanbanugaria/92five)) `CC BY-NC 4.0` `PHP`
+  * [Apache Bloodhound](https://bloodhound.apache.org/) - Manage software products, Keep track of features, tasks and bugs `Apache License` `Python`
+  * [bulldog](https://github.com/infews/bulldog) - HTML5 task manager, built on todo.txt `MIT` `HTML5` 
+  * [Bumpy Booby](http://bumpy-booby.derivoile.fr/) - A simple, responsive and highly customizable PHP bug tracking system. ([Source code](https://github.com/piero-la-lune/Bumpy-Booby)) `MIT` `PHP`
+  * [ChiliProject](https://www.chiliproject.org/) - a web based project management system. ([Source code](https://github.com/chiliproject/chiliproject)) `GNU GPLv2` `Ruby`
   * [Flyspray](http://www.flyspray.org/) - uncomplicated, web-based bug tracking system ([Source code](https://github.com/Flyspray/flyspray))
   * [Gaskit](https://github.com/bkeepers/gaskit) - a git-backed issue tracker. It uses a branch in your local git database to store the tickets.
   * [HabitRPG](http://habitrpg.com/) - A habit tracker app which treats your goals like a Role Playing Game. ([Source code](https://github.com/lefnire/habitrpg))
@@ -113,14 +118,14 @@ Table of Contents
 
 CMS are a practical way to setup a website with many features. CMS often come with third party plugins, themes and functionality that is easy to add and customize to your needs.
 
-  * [99ko CMS](http://99ko.hellojo.fr) - 99ko est un CMS permettant de créer un site web en quelques minutes et sans connaissances particulières en programmation. Il fonctionne sans base de données et utilise de simples fichiers texte (format JSON) pour stocker vos données. ([Source code](https://github.com/99ko-project/99ko-cms))
+  * [99ko CMS](http://99ko.hellojo.fr) - 99ko allows you to create a website in minutes without knowledge of Web development. It does not use a database server but relies on simple text files (JSON format) to store your data. ([Source code](https://github.com/99ko-project/99ko-cms))
   * [Baun](http://bauncms.com/) - A modern, lightweight, extensible CMS for PHP - ([Source code](https://github.com/BaunCMS/Baun))
   * [Bolt](http://bolt.cm/) - Sophisticated, lightweight & simple CMS ([Source code](https://github.com/bolt/bolt))
   * [CMS Made Simple](http://www.cmsmadesimple.org/) - open source content management system, faster and easier management of website contents, scalable for small businesses to large corporations.
   * [Concrete 5 CMS](http://www.concrete5.org/) - an open source content management system
   * [Drupal](https://drupal.org/) - open source content management platform
   * [GetSimple CMS](http://get-simple.info/) - The Simplest Content Management System. Ever.
-  * [Joomla!](http://www.joomla.fr/) - un système de gestion de contenu (CMS)
+  * [Joomla!](http://www.joomla.fr/) - A Content Management System (CMS)
   * [Movable Type](https://movabletype.org/) - a powerful solution for the creation and management of web content.
   * [october](http://octobercms.com/) - Free, open-source, self-hosted CMS platform based on the Laravel PHP Framework. ([Source code](https://github.com/octobercms/october))
   * [Pagekit](http://pagekit.com/) - A new modern CMS to create and share ([Source code](https://github.com/pagekit/pagekit)) - `MIT`
@@ -151,9 +156,9 @@ CMS are a practical way to setup a website with many features. CMS often come wi
 
 ## File Synchronization Tools
 
-  * [BTSync](https://www.getsync.com/) ⊘ - BitTorrent Sync by BitTorrent, Inc is a proprietary peer-to-peer file synchronisation tool.
+  * [BTSync](https://www.getsync.com/) `⊘ Closed Source` - BitTorrent Sync by BitTorrent, Inc is a proprietary peer-to-peer file synchronisation tool.
   * [Syncthing](http://syncthing.net/) - Syncthing is an open source peer-to-peer file synchronisation tool ([Source code](https://github.com/syncthing/syncthing)) - `MPL 2.0`
-  * [Git Annex](http://git-annex.branchable.com/assistant/quickstart/) - Synchronisation de fichiers entre ordinateurs, disques externes, serveurs...
+  * [Git Annex](http://git-annex.branchable.com/assistant/quickstart/) - File synchronization between computers, servers, external drives...
   * [Seafile](http://seafile.com/en/home/) - File Syncing and Collaboration for Teams
   * [SparkleShare](http://sparkleshare.org/) - Self hosted, instant, secure file sync
   * [Syncany](https://www.syncany.org/) - Secure file sync software for arbitrary storage backends - An open-source cloud storage and filesharing application. Securely synchronize your files to any kind of storage!
@@ -172,12 +177,12 @@ CMS are a practical way to setup a website with many features. CMS often come wi
 
 ## GPS tracking
 
-  * [Traccar](https://www.traccar.org/) - Java application to track GPS positions. Supports loads of tracking devices and protocols, has an Android and iOS App. Has a web interface to view your trips -  ([Demo](http://demo.traccar.org/)) - ([Source](https://github.com/tananaev?tab=repositories)) - `Apache License 2.0`
+  * [Traccar](https://www.traccar.org/) - Java application to track GPS positions. Supports loads of tracking devices and protocols, has an Android and iOS App. Has a web interface to view your trips -  ([Demo](http://demo.traccar.org/), [Source code](https://github.com/tananaev?tab=repositories)) - `Apache License 2.0`
 
 ## Groupware
   * [Kolab](https://kolab.org/) - Kolab community is a unified communication and collaboration system - `Various FLOSS Licenses` ([Source](http://git.kolab.org/))
   * [Horde](http://www.horde.org/) - The Horde Project is about creating high quality Open Source applications and libraries, based on PHP and the Horde Framework. - `GPL` + Various Free Software / Open Source Software Licenses
-  * [egroupware](http://www.egroupware.org/) - calendrier, répertoire, bloc notes, planning, outils de gestion de projets, solution de gestion de la relation client, outil de gestion des connaissances, Wiki, CMS.
+  * [egroupware](http://www.egroupware.org/) - Software suite including calendars, address books, notepad, project management tools, client relationship managemnt tools (CRM), knowledge management tools, a wiki and a CMS.
 
 ## Link Sharing
 
@@ -196,7 +201,7 @@ CMS are a practical way to setup a website with many features. CMS often come wi
 
   * [Emby](https://github.com/MediaBrowser/MediaBrowser) - A home media server built using other popular open source technologies. - `GNU-GPL-2.0`
   * [HTPC Manager](http://htpc.io/) - A fully responsive interface to manage all your favorite media on your HTPC. - `MIT`
-  * [Plex](https://plex.tv/) ⊘ - Plex is a centralized home media playback system with a powerful central server. - `Proprietary`
+  * [Plex](https://plex.tv/) `⊘ Closed Source` - Plex is a centralized home media playback system with a powerful central server. - `Proprietary`
 
 ## Mind maps
 
@@ -227,7 +232,7 @@ CMS are a practical way to setup a website with many features. CMS often come wi
   * [Laverna](https://laverna.cc/) - Laverna is a JavaScript note taking application with Markdown editor and encryption support. Consider it like open source alternative to Evernote ([Source code](https://github.com/Laverna/laverna), [Demo](https://laverna.cc/index.html#notes))
   * [OpenNote](https://github.com/FoxUSA/OpenNote) - OpenNote was built to be an open web-based alternative to Microsoft OneNote (T) and EverNote
   * [Paperwork](http://paperwork.rocks) - OpenSource note-taking & archiving alternative to Evernote, Microsoft OneNote & Google Keep ([Source code](https://github.com/twostairs/paperwork))
-  * [minimalist-web-notepad](https://github.com/pereorga/minimalist-web-notepad) -  a minimalist http://notepad.cc clone `Apache License` `PHP`
+  * [minimalist-web-notepad](https://github.com/pereorga/minimalist-web-notepad)- a minimalist http://notepad.cc clone `Apache License` `PHP`
 
 
 
@@ -331,6 +336,7 @@ CMS are a practical way to setup a website with many features. CMS often come wi
   * [Elgg](https://www.elgg.org/) - a powerful open source social networking engine - `GPLv2`
   * [Friendica](http://friendica.com/) - Social Communication Server ([Source code](https://github.com/friendica/friendica)) `GNU AGPL 3.0`
   * [Gnu Social](http://gnu.io/social/) - social communication software for both public and private communications
+  * [Isso](http://posativ.org/isso/) - a lightweight commenting server written in Python and JavaScript. It aims to be a drop-in replacement for Disqus ([Source code](https://github.com/posativ/isso)) `Python` `MIT`
   * [Jappix](https://jappix.com/) - Jappix is an open social platform, that let's you easily get or keep in touch with everyone.
   * [Movim](https://movim.eu/) - A brand new social network, full of awesome features in a modern and smart interface)
   * [Pump.io](http://pump.io/) - stream server that does most of what people really want from a social network ([Source code](https://github.com/e14n/pump.io))
@@ -377,3 +383,34 @@ CMS are a practical way to setup a website with many features. CMS often come wi
   * [WiKiss](http://wikiss.tuxfamily.org/) - un wiki simple à utiliser et déployer.
   * [Wikitten](https://github.com/victorstanciu/Wikitten) - Wikitten is a small, fast, PHP wiki, and the perfect place to store your notes, code snippets, ideas, and so on.
 
+-------------------------------------------------------
+
+## Contributing
+
+ * You can help by sending Pull Requests to add more services. See [Using Pull Request](https://help.github.com/articles/using-pull-requests/)
+ * Sections should be ordered alphabetically, lines inside sections should be orderer alphabetically.
+ * All projects should have their license and main programming language referenced.
+ * Non-[free](https://en.wikipedia.org/wiki/Free_software) software must be marked `⊘ Closed source` next to the title.
+ * The syntax for links is `[Name](http://homepage/) - Short description ([Demo](http://url.to/demo), [Source code](http://url.of/source/code)) \`License\` \`Language\``
+ * The list of contributors can be updated with `git shortlog -sne`
+
+## License
+
+This list is under the [Creative Commons Attribution-ShareAlike 3.0 Unported](LICENSE) License.
+
+
+The list of contributors can be found below
+
+    30  Edward D <ed.kickball@hotmail.com>
+    22  nodiscc <nodiscc@gmail.com>
+     7  Kickball <ed.kickball@hotmail.com>
+     7  Thomas Dalichow <info@thomasdalichow.de>
+     6  Thomas Dalichow <2012-02-05.github.com@thomasdalichow.de>
+     2  Charles Farence III <charles@charlessite90.com>
+     2  Costin Moise <necenzurat@gmail.com>
+     2  jimykk <JimyKK@users.noreply.github.com>
+     2  phre4k <me@phre4k.at>
+     1  Igor Antun <IgorAntun@users.noreply.github.com>
+     1  Jeremiah Marks <jeremiah@jlmarks.org>
+     1  Joshua Hamilton <joshua.hamilton@fabricut.com>
+     1  Kovah <mail@kovah.de>
