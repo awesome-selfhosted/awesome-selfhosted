@@ -1,50 +1,55 @@
 # Awesome-Selfhosted
 
 Selfhosting is the process of locally hosting and managing applications instead of renting from SaaS providers.
-
-This is list of software which can be hosted locally.
-
-You can help by sending Pull Requests to add more services.
-
-### Note about closed source software
-Based on [this issue](https://github.com/Kickball/awesome-selfhosted/issues/8), I have decided to implement a closed source tag which will be used to identify closed source softare. We will use a slashed circle to represent closed source applications: ⊘
+This is a list of software which can be hosted locally.
 
 
 Table of Contents
 =================
 
-  * [Analytics](#analytics)
-  * [Automation](#automation)
-  * [Blogging Platforms](#blogging-platforms)
-  * [Bug and task trackers](#bug-and-task-trackers)
-  * [Communication Systems](#communication-systems)
-  * [Download Tools](#download-tools)
-  * [File Sharing](#file-sharing)
-  * [File Synchronization Tools](#file-synchronization-tools)
-  * [Games](#games)
-  * [Gateways](#gateways)
-  * [GPS tracking](#gps-tracking)
-  * [Groupware](#groupware)
-  * [Link Sharing](#link-sharing)
-  * [Maps](#maps)
-  * [Media Streaming](#media-streaming)
-  * [Mind maps](#mind-maps)
-  * [Money and Budgeting](#money-and-budgeting)
-  * [Monitoring and administration](#monitoring-and-administration)
-  * [Music sctreaming](#music-streaming)
-  * [Office Suites](#office-suites)
-  * [Password managers](#password-managers)
-  * [Pastebins](#pastebins)
-  * [Photo and Video Galleries](#photo-and-video-galleries)
-  * [Polls and events](#polls-and-events)
-  * [Private Clouds](#private-clouds)
-  * [Read it Later lists](#read-it-later-lists)
-  * [RSS Readers](#rss-readers)
-  * [Search engines](#search-engines)
-  * [Social Networks](#social-networks)
-  * [Software Development Platforms](#software-development-platforms)
-  * [URL Shorteners](#url-shorteners)
-  * [Wikis](#wikis)
+<!-- MarkdownTOC -->
+
+- [Analytics](#analytics)
+- [Automation](#automation)
+- [Blogging platforms](#blogging-platforms)
+- [Bug and task trackers](#bug-and-task-trackers)
+- [Calendar and address books](#calendar-and-address-books)
+- [Communication Systems](#communication-systems)
+- [Content Management Systems (CMS)](#content-management-systems-cms)
+- [Download tools](#download-tools)
+- [File Sharing](#file-sharing)
+- [File Synchronization Tools](#file-synchronization-tools)
+- [Games](#games)
+- [Gateways](#gateways)
+- [GPS tracking](#gps-tracking)
+- [Groupware](#groupware)
+- [Link Sharing](#link-sharing)
+- [Maps](#maps)
+- [Media Streaming](#media-streaming)
+- [Mind maps](#mind-maps)
+- [Money and Budgeting](#money-and-budgeting)
+- [Monitoring and administration](#monitoring-and-administration)
+- [Music streaming](#music-streaming)
+- [Note-taking](#note-taking)
+- [Office Suites](#office-suites)
+- [Password managers](#password-managers)
+- [Pastebins](#pastebins)
+- [Photo and Video Galleries](#photo-and-video-galleries)
+- [Polls and events](#polls-and-events)
+- [Private Clouds](#private-clouds)
+- [Proxy](#proxy)
+- [Read it Later Lists](#read-it-later-lists)
+- [RSS Readers](#rss-readers)
+- [Search engines](#search-engines)
+- [Social Networks](#social-networks)
+- [Software development platforms](#software-development-platforms)
+- [Text editors](#text-editors)
+- [URL Shorteners](#url-shorteners)
+- [Wikis](#wikis)
+- [Contributing](#contributing)
+- [License](#license)
+
+<!-- /MarkdownTOC -->
 
 ## Analytics
 
@@ -151,7 +156,7 @@ CMS are a practical way to setup a website with many features. CMS often come wi
 
 ## File Synchronization Tools
 
-  * [BTSync](https://www.getsync.com/) ⊘ - BitTorrent Sync by BitTorrent, Inc is a proprietary peer-to-peer file synchronisation tool.
+  * [BTSync](https://www.getsync.com/) `⊘ Closed Source` - BitTorrent Sync by BitTorrent, Inc is a proprietary peer-to-peer file synchronisation tool.
   * [Syncthing](http://syncthing.net/) - Syncthing is an open source peer-to-peer file synchronisation tool ([Source code](https://github.com/syncthing/syncthing)) - `MPL 2.0`
   * [Git Annex](http://git-annex.branchable.com/assistant/quickstart/) - File synchronization between computers, servers, external drives...
   * [Seafile](http://seafile.com/en/home/) - File Syncing and Collaboration for Teams
@@ -196,7 +201,7 @@ CMS are a practical way to setup a website with many features. CMS often come wi
 
   * [Emby](https://github.com/MediaBrowser/MediaBrowser) - A home media server built using other popular open source technologies. - `GNU-GPL-2.0`
   * [HTPC Manager](http://htpc.io/) - A fully responsive interface to manage all your favorite media on your HTPC. - `MIT`
-  * [Plex](https://plex.tv/) ⊘ - Plex is a centralized home media playback system with a powerful central server. - `Proprietary`
+  * [Plex](https://plex.tv/) `⊘ Closed Source` - Plex is a centralized home media playback system with a powerful central server. - `Proprietary`
 
 ## Mind maps
 
@@ -378,3 +383,34 @@ CMS are a practical way to setup a website with many features. CMS often come wi
   * [WiKiss](http://wikiss.tuxfamily.org/) - un wiki simple à utiliser et déployer.
   * [Wikitten](https://github.com/victorstanciu/Wikitten) - Wikitten is a small, fast, PHP wiki, and the perfect place to store your notes, code snippets, ideas, and so on.
 
+-------------------------------------------------------
+
+## Contributing
+
+ * You can help by sending Pull Requests to add more services. See [Using Pull Request](https://help.github.com/articles/using-pull-requests/)
+ * Sections should be ordered alphabetically, lines inside sections should be orderer alphabetically.
+ * All projects should have their license and main programming language referenced.
+ * Non-[free](https://en.wikipedia.org/wiki/Free_software) software must be marked `⊘ Closed source` next to the title.
+ * The syntax for links is `[Name](http://homepage/) - Short description ([Demo](http://url.to/demo), [Source code](http://url.of/source/code)) \`License\` \`Language\``
+ * The list of contributors can be updated with `git shortlog -sne`
+
+## License
+
+This list is under the [Creative Commons Attribution-ShareAlike 3.0 Unported](LICENSE) License.
+
+
+The list of contributors can be found below
+
+    30  Edward D <ed.kickball@hotmail.com>
+    22  nodiscc <nodiscc@gmail.com>
+     7  Kickball <ed.kickball@hotmail.com>
+     7  Thomas Dalichow <info@thomasdalichow.de>
+     6  Thomas Dalichow <2012-02-05.github.com@thomasdalichow.de>
+     2  Charles Farence III <charles@charlessite90.com>
+     2  Costin Moise <necenzurat@gmail.com>
+     2  jimykk <JimyKK@users.noreply.github.com>
+     2  phre4k <me@phre4k.at>
+     1  Igor Antun <IgorAntun@users.noreply.github.com>
+     1  Jeremiah Marks <jeremiah@jlmarks.org>
+     1  Joshua Hamilton <joshua.hamilton@fabricut.com>
+     1  Kovah <mail@kovah.de>
