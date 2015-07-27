@@ -327,7 +327,7 @@ CMS are a practical way to setup a website with many features. CMS often come wi
 
 ## Read it Later Lists
 
- * [Wallabag](http://www.wallabag.org/?lang=fr_fr) - Wallabag, formerly Poche, is a web application allowing you to save articles to red them later with improved readability. ([Demo](http://demo.wallabag.org/), [Public instance](http://www.framabag.org/), [Source code](https://github.com/wallabag/wallabag
+ * [Wallabag](http://www.wallabag.org/?lang=fr_fr) - Wallabag, formerly Poche, is a web application allowing you to save articles to read them later with improved readability. ([Demo](http://demo.wallabag.org/), [Public instance](http://www.framabag.org/), [Source code](https://github.com/wallabag/wallabag) `MIT` `PHP`
  * [Readityourself](https://github.com/memiks/readityourself) - read the web without ads, comments, or tweets ([Demo](http://www.readityourself.net/)) `MIT` `PHP`
 
 ## Search Engines
