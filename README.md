@@ -18,8 +18,7 @@ Table of Contents
 - [Content Management Systems (CMS)](#content-management-systems-cms)
 - [Download Tools](#download-tools)
 - [Feed Readers](#feed-readers)
-- [File Sharing](#file-sharing)
-- [File Synchronization Tools](#file-synchronization-tools)
+- [File Sharing and Synchronization](#file-sharing)
 - [Games](#games)
 - [Gateways](#gateways)
 - [GPS tracking](#gps-tracking)
@@ -37,7 +36,6 @@ Table of Contents
 - [Pastebins](#pastebins)
 - [Photo and Video Galleries](#photo-and-video-galleries)
 - [Polls and Events](#polls-and-events)
-- [Private Clouds](#private-clouds)
 - [Proxy](#proxy)
 - [Read it Later Lists](#read-it-later-lists)
 - [Search Engines](#search-engines)
@@ -171,7 +169,7 @@ CMS are a practical way to setup a website with many features. CMS often come wi
 
 
 
-## File Sharing
+## File Sharing and Synchronization
 
   * [Coquelicot](https://coquelicot.potager.org/) - Coquelicot is a “one-click” file sharing web application with a focus on protecting users’ privacy. - `AGPLv3`
   * [Mediacrush](https://mediacru.sh/) - a website you can upload images, audio, and video to, and receive a link to share it with your friends ([Source code](https://github.com/MediaCrush/MediaCrush))
@@ -185,10 +183,6 @@ CMS are a practical way to setup a website with many features. CMS often come wi
   * [Jirafeau](https://gitlab.com/mojo42/Jirafeau/wikis/home) - Jirafeau is a web site permitting to upload a file in a simple way and give an unique link to it. (Demo](http://jirafeau.net/))
   * [Pomf](https://github.com/nokonoko/Pomf) -  Simple file uploading and sharing, source for the now shut down site Pomf.se `MIT` `PHP/Nodejs`
   * [instant.io](https://github.com/feross/instant.io) - Streaming file transfer over WebTorrent ([Demo](https://instant.io)) `MIT` `Nodejs`
-
-
-## File Synchronization Tools
-
   * [Bittorrent Sync](https://www.getsync.com/) `⊘ Proprietary` - BitTorrent Sync by BitTorrent, Inc is a proprietary peer-to-peer file synchronisation tool.
   * [Syncthing](http://syncthing.net/) - Syncthing is an open source peer-to-peer file synchronisation tool ([Source code](https://github.com/syncthing/syncthing)) - `MPL 2.0`
   * [Git Annex](http://git-annex.branchable.com/assistant/quickstart/) - File synchronization between computers, servers, external drives...
@@ -196,6 +190,9 @@ CMS are a practical way to setup a website with many features. CMS often come wi
   * [SparkleShare](http://sparkleshare.org/) - Self hosted, instant, secure file sync
   * [Syncany](https://www.syncany.org/) - Secure file sync software for arbitrary storage backends - An open-source cloud storage and filesharing application. Securely synchronize your files to any kind of storage!
   * [Tahoe-LAFS](https://www.tahoe-lafs.org/trac/tahoe-lafs) - Tahoe-LAFS is a Free and Open decentralized cloud storage system. It distributes your data across multiple servers. Even if some of the servers fail or are taken over by an attacker, the entire file store continues to function correctly, preserving your privacy and security.
+  * [ownCloud](https://owncloud.org/) - All-in-one solution for saving and sharing files, photos, music,... - `AGPLv3`
+  * [seafile](http://www.seafile.com/en/home/) - File hosting and sharing solution primary for teams and organizations. - `GPLv2`
+
 
 ## Games
 
@@ -216,6 +213,7 @@ CMS are a practical way to setup a website with many features. CMS often come wi
   * [Kolab](https://kolab.org/) - Kolab community is a unified communication and collaboration system - `Various FLOSS Licenses` ([Source](http://git.kolab.org/))
   * [Horde](http://www.horde.org/) - The Horde Project is about creating high quality Open Source applications and libraries, based on PHP and the Horde Framework. - `GPL` + Various Free Software / Open Source Software Licenses
   * [egroupware](http://www.egroupware.org/) - Software suite including calendars, address books, notepad, project management tools, client relationship managemnt tools (CRM), knowledge management tools, a wiki and a CMS.
+  * [Tine 2.0org](https://www.tine20.org) - Contacts, Calendar, Tasks, WebDAV, ActiveSync, VOIP, Mail-Client, CRM, Sales, Projects, Timetracker -  ([Demo](https://demo.tine20.net)) - `AGPLv3`
 
 ## Link Sharing
 
@@ -321,12 +319,6 @@ CMS are a practical way to setup a website with many features. CMS often come wi
  * [OpenSondage](https://github.com/leblanc-simon/OpenSondage) - an online service for planning an appointment or make a decision quickly and easily: Make a poll, Define dates or subjects to choose, Send the poll link to your friends or colleagues, Discuss and make a decision - ([Demo](http://framadate.org/), [Example](https://framadate.org/aqg259dth55iuhwm))
  * [Kyélà](http://kyela.net/) -  Participation polls for group events  - ([Source code](https://github.com/abienvenu/Kyela), [Demo](http://kyela.net/55232734237c8/))
  * [MaterialPoll](https://github.com/nearbycoder/materialpoll) - an opensource strawpoll.me clone for creating random polls. - ([Source code](https://github.com/nearbycoder/materialpoll), [Demo](http://materialpoll.tk))
-
-## Private Clouds
-
-  * [Tine 2.0org](https://www.tine20.org) - Contacts, Calendar, Tasks, WebDAV, ActiveSync, VOIP, Mail-Client, CRM, Sales, Projects, Timetracker -  ([Demo](https://demo.tine20.net)) - `AGPLv3`
-  * [ownCloud](https://owncloud.org/) - All-in-one solution for saving and sharing files, photos, music,... - `AGPLv3`
-  * [seafile](http://www.seafile.com/en/home/) - File hosting and sharing solution primary for teams and organizations. - `GPLv2`
 
 ## Proxy
 
