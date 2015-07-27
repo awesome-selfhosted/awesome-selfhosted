@@ -445,5 +445,6 @@ The list of contributors can be found below
      1  Igor Antun <IgorAntun@users.noreply.github.com>
      1  Jeremiah Marks <jeremiah@jlmarks.org>
      1  Joshua Hamilton <joshua.hamilton@fabricut.com>
+     1  Mikael Peigney <Mika56@users.noreply.github.com>
      1  Remy Honig <remyhonig@users.noreply.github.com>
      1  stevesbrain <stevesbrain@users.noreply.github.com>
