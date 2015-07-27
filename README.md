@@ -187,7 +187,7 @@ CMS are a practical way to setup a website with many features. CMS often come wi
 
 ## File Synchronization Tools
 
-  * [Bittorrent Sync](https://www.getsync.com/) `⊘ Closed Source` - BitTorrent Sync by BitTorrent, Inc is a proprietary peer-to-peer file synchronisation tool.
+  * [Bittorrent Sync](https://www.getsync.com/) `⊘ Proprietary` - BitTorrent Sync by BitTorrent, Inc is a proprietary peer-to-peer file synchronisation tool.
   * [Syncthing](http://syncthing.net/) - Syncthing is an open source peer-to-peer file synchronisation tool ([Source code](https://github.com/syncthing/syncthing)) - `MPL 2.0`
   * [Git Annex](http://git-annex.branchable.com/assistant/quickstart/) - File synchronization between computers, servers, external drives...
   * [Seafile](http://seafile.com/en/home/) - File Syncing and Collaboration for Teams
@@ -204,7 +204,7 @@ CMS are a practical way to setup a website with many features. CMS often come wi
 ## Gateways
 
   * [GateOne](https://github.com/liftoff/GateOne/) - Gate One is an HTML5 web-based terminal emulator and SSH client. - `AGPLv3`
-  * [Guacamole](http://guac-dev.org/) - Guacamole is a clientless remote desktop gateway. It supports standard protocols like VNC and RDP. - `Proprietary`
+  * [Guacamole](http://guac-dev.org/) `⊘ Proprietary` - Guacamole is a clientless remote desktop gateway. It supports standard protocols like VNC and RDP.
 
 ## GPS tracking
 
@@ -232,15 +232,14 @@ CMS are a practical way to setup a website with many features. CMS often come wi
 
   * [Emby](https://github.com/MediaBrowser/MediaBrowser) - A home media server built using other popular open source technologies. - `GPLv2`
   * [HTPC Manager](http://htpc.io/) - A fully responsive interface to manage all your favorite media on your HTPC. - `MIT`
-  * [Plex](https://plex.tv/) `⊘ Closed Source` - Plex is a centralized home media playback system with a powerful central server. - `Proprietary`
-
+  * [Plex](https://plex.tv/) `⊘ Proprietary` - Plex is a centralized home media playback system with a powerful central server.
 ## Mind Maps
 
  * [Mindmaps](https://github.com/drichard/mindmaps) - An open source, offline capable, mind mapping application ([Demo](http://drichard.org/mindmaps/))
 
 ## Money and Budgeting
 
-  * [IHateMoney](http://ihatemoney.org/) - Manage your shared expenses, easily. - `Proprietary`
+  * [IHateMoney](http://ihatemoney.org/) `⊘ Proprietary` - Manage your shared expenses, easily.
   * [InvoicePlane](https://invoiceplane.com/) - Manage quotes, invoices, payments and customers for your small business. - `MIT`
 
 ## Monitoring and Administration
@@ -416,8 +415,8 @@ CMS are a practical way to setup a website with many features. CMS often come wi
  * You can help by sending Pull Requests to add more services. See [Using Pull Request](https://help.github.com/articles/using-pull-requests/)
  * Sections should be ordered alphabetically, lines inside sections should be ordered alphabetically.
  * All projects should have their license and main programming language referenced.
- * Non-[free](https://en.wikipedia.org/wiki/Free_software) software must be marked `⊘ Closed source` next to the title.
- * The syntax for links is `[Name](http://homepage/) - Short description ([Demo](http://url.to/demo), [Source code](http://url.of/source/code)) \`License\` \`Language\``
+ * Non-[free](https://en.wikipedia.org/wiki/Free_software) software must be marked `⊘ Proprietary` next to the title.
+ * The syntax for links is ``[Name](http://homepage/) - Short description ([Demo](http://url.to/demo), [Source code](http://url.of/source/code)) `License` `Language` ``
  * The list of contributors can be updated with `git shortlog -sne`
 
 ## License
