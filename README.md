@@ -225,6 +225,9 @@ CMS are a practical way to setup a website with many features. CMS often come wi
 ## Music streaming
   * [Sonerezh](https://www.sonerezh.bzh/) - A self-hosted, web-based application for stream your music, everywhere. ([Demo](https://www.sonerezh.bzh/demo/), [Documentation](https://www.sonerezh.bzh/docs/), [Source code](https://github.com/sonerezh/sonerezh))
   * [cloudtunes](https://github.com/jakubroztocil/cloudtunes) -  Web-based music player for the cloud
+  * [mpd](http://www.musicpd.org/) - Daemon to remotely play music, stream music, handle and organize playlists. Many clients available.
+  * [Ampache](http://ampache.org/) - A web based audio/video streaming application
+  * [Subsonic](http://subsonic.org/) - Open-source web-based media streamer and jukebox
 
 ## Note-taking
 
