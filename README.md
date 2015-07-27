@@ -11,12 +11,13 @@ Table of Contents
 
 - [Analytics](#analytics)
 - [Automation](#automation)
-- [Blogging platforms](#blogging-platforms)
-- [Bug and task trackers](#bug-and-task-trackers)
-- [Calendar and address books](#calendar-and-address-books)
+- [Blogging Platforms](#blogging-platforms)
+- [Bug and Task Trackers](#bug-and-task-trackers)
+- [Calendar and Address Books](#calendar-and-address-books)
 - [Communication Systems](#communication-systems)
 - [Content Management Systems (CMS)](#content-management-systems-cms)
-- [Download tools](#download-tools)
+- [Download Tools](#download-tools)
+- [Feed Readers](#feed-readers)
 - [File Sharing](#file-sharing)
 - [File Synchronization Tools](#file-synchronization-tools)
 - [Games](#games)
@@ -26,24 +27,23 @@ Table of Contents
 - [Link Sharing](#link-sharing)
 - [Maps](#maps)
 - [Media Streaming](#media-streaming)
-- [Mind maps](#mind-maps)
+- [Mind Maps](#mind-maps)
 - [Money and Budgeting](#money-and-budgeting)
-- [Monitoring and administration](#monitoring-and-administration)
-- [Music streaming](#music-streaming)
+- [Monitoring and Administration](#monitoring-and-administration)
+- [Music Streaming](#music-streaming)
 - [Note-taking](#note-taking)
 - [Office Suites](#office-suites)
-- [Password managers](#password-managers)
+- [Password Managers](#password-managers)
 - [Pastebins](#pastebins)
 - [Photo and Video Galleries](#photo-and-video-galleries)
-- [Polls and events](#polls-and-events)
+- [Polls and Events](#polls-and-events)
 - [Private Clouds](#private-clouds)
 - [Proxy](#proxy)
 - [Read it Later Lists](#read-it-later-lists)
-- [RSS Readers](#rss-readers)
-- [Search engines](#search-engines)
+- [Search Engines](#search-engines)
 - [Social Networks](#social-networks)
-- [Software development platforms](#software-development-platforms)
-- [Text editors](#text-editors)
+- [Software Development Platforms](#software-development-platforms)
+- [Text Editors](#text-editors)
 - [URL Shorteners](#url-shorteners)
 - [Wikis](#wikis)
 - [List of Licenses](#list-of-licenses)
@@ -60,7 +60,7 @@ Table of Contents
 ## Automation
   * [Huginn](https://github.com/cantino/huginn) - Allows you to build agents that monitor and act on your behalf. Built in Ruby - `MIT` `Ruby`
 
-## Blogging platforms
+## Blogging Platforms
 
  * **[WeblogMatrix](http://www.weblogmatrix.org/) - Blogging platforms comparator.**
  * [Anchor CMS](http://anchorcms.com/) -  Anchor is a free, lightweight, faster-than-a-bullet, simple blogging system, made for art–directed posts. ([Source code](https://github.com/anchorcms/anchor-cms)) `GNU GPLv3` `PHP`
@@ -74,7 +74,7 @@ Table of Contents
  * [PluXml](http://www.pluxml.org/) - XML-based blog/CMS platform ([Source code](https://github.com/pluxml/PluXml)) `GNU GPL` `PHP`
  * [Wordpress](https://wordpress.org/) - Create a beautiful website or blog. ([Source code](https://github.com/WordPress/WordPress)) `GNU GPLv2`
 
-## Bug and task trackers
+## Bug and Task Trackers
 
   * [92five](http://92fiveapp.com/) - Self hosted project management application ([Source code](https://github.com/chintanbanugaria/92five)) `CC BY-NC 4.0` `PHP`
   * [Apache Bloodhound](https://bloodhound.apache.org/) - Manage software products, Keep track of features, tasks and bugs `Apache License` `Python`
@@ -95,7 +95,7 @@ Table of Contents
   * [Tinyissue](https://github.com/mikelbring/tinyissue) - Simple Issue Tracking for Teams `MIT`
   * [Tracks](http://getontracks.org/) -  a web-based application to help you implement David Allen’s [Getting Things Done™](http://wikipedia.org/wiki/Getting_Things_Done) methodology. - ` GPL V2.0`
 
-## Calendar and address books
+## Calendar and Address Books
 
   * [Radicale](http://radicale.org/) - A Simple Calendar and Contact Server
   * [calypso](http://keithp.com/calypso/) - a python-based CalDAV/CardDAV server
@@ -135,9 +135,38 @@ CMS are a practical way to setup a website with many features. CMS often come wi
   * [Wordpress](https://wordpress.org/) - The worlds most-used blogging and CMS engine. ([Source code mirror](https://github.com/WordPress/WordPress)) `GNU-GPL-2.0`
   * [Gazelle](https://github.com/WhatCD/Gazelle) - Gazelle is a web framework geared towards private BitTorrent trackers. Although naturally focusing on music, it can be modified for most needs. `PHP` 
 
-## Download tools
+## Download Tools
 
  * [Alltube](https://github.com/Rudloff/alltube) - A web interface for [youtube-dl](https://github.com/rg3/youtube-dl), a program to download videos and audio from [more than 100 websites](https://rg3.github.io/youtube-dl/supportedsites.html) ([Demo](http://alltubedownload.net/)) `GNU-GPL`
+
+## Feed Readers
+
+  * [Cacocloud](https://github.com/Cacodaimon/CacoCloud) - A simple, fast and secure PHP/AngularJS based feed and mail reader, password and bookmark manager.
+  * [CommaFeed](https://www.commafeed.com/) - Google Reader inspired self-hosted RSS reader ([Source code](https://github.com/Athou/commafeed))
+  * [Creaky Coot](https://github.com/piero-la-lune/Creaky-Coot) - Minimalist and responsive RSS reader and links saver
+  * [Feedbin](https://feedbin.me) - a simple, fast and nice looking RSS reader. ([Source code](https://github.com/feedbin/feedbin))
+  * [FeedHQ](https://feedhq.org/) - FeedHQ is a web-based feed reader ([Source code](https://github.com/feedhq/feedhq))
+  * [Fresh RSS](http://freshrss.org/) - A free, self-hostable RSS aggregator. - `GNU-AGPL-3.0`
+  * [FreshRSS](http://freshrss.org/) - A self-hostable RSS feed aggregator ([Demo](http://demo.freshrss.org/i/), [Source code](https://github.com/marienfressinaud/FreshRSS))
+  * [gritttt-rss](http://gritttt-rss.nicolashoening.de/) - More features for Tiny Tiny RSS [Source code](https://github.com/nhoening/gritttt-rss)
+  * [Kriss Feed](http://tontof.net/kriss/feed/) - A simple and smart (or stupid) feed reader ([Demo](http://tontof.net/feed/), [Source code](https://github.com/tontof/kriss_feed/))
+  * [Leed](http://projet.idleman.fr/leed/) - Leed (for Light Feed) is a Free and minimalist RSS aggregator ([Source code](https://github.com/ldleman/Leed))
+  * [Leselys](https://github.com/socketubs/leselys) - your very elegant RSS reader
+  * [Liled](https://github.com/ypo/liled) - Liled is an aggregator, capable of reading Atom and RSS feeds ([Demo](http://liled.alwaysdata.net/app/index.php) - _guest/guest_)
+  * [Lite-Reader](http://cubny.com/lite-reader/) - Read your feeds on your own machine with a simple and lite application. ([Source code](https://github.com/cubny/lite-reader))
+  * [Miniflux](http://miniflux.net/) - Miniflux is a minimalist and open source news reader. ([Source code](https://github.com/fguillot/miniflux))
+  * [NewsBlur](https://github.com/samuelclay/NewsBlur) - NewsBlur is a personal news reader that brings people together to talk about the world. A new sound of an old instrument
+  * [Reader-Self](http://readerself.com/) Self-hosted rss reader (php / mysql or sqlite) - Google Reader alternative ([Source code](https://github.com/readerself/readerself))
+  * [Readr](https://github.com/pabloprieto/Readr) - A clean & simple, self-hosted RSS reader
+  * [RSSminer](http://rssminer.net/) -An online rss reader written in clojure & javascript & java ([Source code](https://github.com/shenfeng/rssminer))
+  * [selfoss](http://selfoss.aditu.de/) - Basic web-based Feedreader - `GNU-AGPL-3.0`
+  * [Selfoss](http://selfoss.aditu.de/) - The new multipurpose rss reader, live stream, mashup, aggregation web application ([Source code](https://github.com/SSilence/selfoss))
+  * [Stringer](https://github.com/swanson/stringer) - A work-in-progress self-hosted, anti-social RSS reader.
+  * [Tiny Tiny RSS](https://tt-rss.org/redmine/projects/tt-rss/wiki) - Open source web-based news feed (RSS/Atom) reader and aggregator. ([Demo](http://tt-rss.org/demo/), [Public instance](http://framanews.org/)) - `GNU-GPL-3.0`
+    * [RelatedSoftware - Tiny Tiny RSS](http://tt-rss.org/redmine/projects/tt-rss/wiki/RelatedSoftware) - (mobile applications, browser plugins...)
+    * [ttrss-mobile](https://github.com/mboinet/ttrss-mobile) - A mobile webapp for Tiny Tiny RSS
+
+
 
 ## File Sharing
 
@@ -157,7 +186,7 @@ CMS are a practical way to setup a website with many features. CMS often come wi
 
 ## File Synchronization Tools
 
-  * [BTSync](https://www.getsync.com/) `⊘ Closed Source` - BitTorrent Sync by BitTorrent, Inc is a proprietary peer-to-peer file synchronisation tool.
+  * [Bittorrent Sync](https://www.getsync.com/) `⊘ Closed Source` - BitTorrent Sync by BitTorrent, Inc is a proprietary peer-to-peer file synchronisation tool.
   * [Syncthing](http://syncthing.net/) - Syncthing is an open source peer-to-peer file synchronisation tool ([Source code](https://github.com/syncthing/syncthing)) - `MPL 2.0`
   * [Git Annex](http://git-annex.branchable.com/assistant/quickstart/) - File synchronization between computers, servers, external drives...
   * [Seafile](http://seafile.com/en/home/) - File Syncing and Collaboration for Teams
@@ -204,7 +233,7 @@ CMS are a practical way to setup a website with many features. CMS often come wi
   * [HTPC Manager](http://htpc.io/) - A fully responsive interface to manage all your favorite media on your HTPC. - `MIT`
   * [Plex](https://plex.tv/) `⊘ Closed Source` - Plex is a centralized home media playback system with a powerful central server. - `Proprietary`
 
-## Mind maps
+## Mind Maps
 
  * [Mindmaps](https://github.com/drichard/mindmaps) - An open source, offline capable, mind mapping application ([Demo](http://drichard.org/mindmaps/))
 
@@ -212,7 +241,7 @@ CMS are a practical way to setup a website with many features. CMS often come wi
 
   * [IHateMoney](http://ihatemoney.org/) - Manage your shared expenses, easily. - `Proprietary`
 
-## Monitoring and administration
+## Monitoring and Administration
 
   * [Adagios](http://adagios.org/) - Web based Nagios interface for configuration, as well as monitoring (as a replacement to the standard interface), and a REST interface ([Demo](http://demo.adagios.org/), [SourceCode](https://github.com/opinkerfi/adagios), [Documentation](https://github.com/opinkerfi/adagios/wiki) - `GNU-GPL-v3.0` `Python`
   * [adminer](http://www.adminer.org/) -  Database management in a single PHP file ([Source code](https://github.com/vrana/adminer))
@@ -224,7 +253,7 @@ CMS are a practical way to setup a website with many features. CMS often come wi
   * [pyDash](https://github.com/k3oni/pydash) - Small web-based monitoring dashboard for linux ([Demo](http://pydash.hostechs.com/main/) - _admin/admin_)
   * [Reportr](http://www.reportr.io/) - Your life's personal dashboard. ([Source code](https://github.com/Reportr/dashboard))
 
-## Music streaming
+## Music Streaming
 
   * [cloudtunes](https://github.com/jakubroztocil/cloudtunes) -  Web-based music player for the cloud
   * [Sonerezh](https://www.sonerezh.bzh/) - A self-hosted, web-based application for stream your music, everywhere. ([Demo](https://www.sonerezh.bzh/demo/), [Documentation](https://www.sonerezh.bzh/docs/), [Source code](https://github.com/sonerezh/sonerezh))
@@ -245,7 +274,7 @@ CMS are a practical way to setup a website with many features. CMS often come wi
   * [Etherpad](http://etherpad.org/) - Etherpad is a highly customizable Open Source online editor providing collaborative editing in really real-time. - `Apache License`
   * [Only Office](http://onlyoffice.org/) - An office suite that enables you to manage documents, projects, team and customer relations in one place. - GNU  - `GNU-AGPL-3.0`
 
-## Password managers
+## Password Managers
 
  * [Rattic](http://rattic.org/) - Password Management for Humans ([Source code](https://github.com/tildaslash/RatticWeb))
 
@@ -277,7 +306,7 @@ CMS are a practical way to setup a website with many features. CMS often come wi
   * [UberGallery](http://www.ubergallery.net) - UberGallery is an easy to use, simple to manage, web photo gallery. UberGallery does not require a database and supports JPEG, GIF and PNG file types. Simply upload your images and UberGallery will automatically generate thumbnails and output HTML. ([Source code](https://github.com/UberGallery/UberGallery))
   * [Zenphoto](http://www.zenphoto.org/) - open-source gallery and CMS project ([Source code](https://github.com/zenphoto/zenphoto))
 
-## Polls and events
+## Polls and Events
 
  * [LimeSurvey](https://www.limesurvey.org) - Feature-rich Open Source web based polling software. Supports extensive survey logic. - ([Demo](https://demo.limesurvey.org))
  * [OpenSondage](https://github.com/leblanc-simon/OpenSondage) - an online service for planning an appointment or make a decision quickly and easily: Make a poll, Define dates or subjects to choose, Send the poll link to your friends or colleagues, Discuss and make a decision - ([Demo](http://framadate.org/), [Example](https://framadate.org/aqg259dth55iuhwm))
@@ -300,34 +329,7 @@ CMS are a practical way to setup a website with many features. CMS often come wi
  * [Wallabag](http://www.wallabag.org/?lang=fr_fr) - Wallabag, formerly Poche, is a web application allowing you to save articles to red them later with improved readability. ([Demo](http://demo.wallabag.org/), [Public instance](http://www.framabag.org/), [Source code](https://github.com/wallabag/wallabag
  * [Readityourself](https://github.com/memiks/readityourself) - read the web without ads, comments, or tweets ([Demo](http://www.readityourself.net/)) `MIT` `PHP`
 
-## RSS Readers
-
-  * [Cacocloud](https://github.com/Cacodaimon/CacoCloud) - A simple, fast and secure PHP/AngularJS based feed and mail reader, password and bookmark manager.
-  * [CommaFeed](https://www.commafeed.com/) - Google Reader inspired self-hosted RSS reader ([Source code](https://github.com/Athou/commafeed))
-  * [Creaky Coot](https://github.com/piero-la-lune/Creaky-Coot) - Minimalist and responsive RSS reader and links saver
-  * [Feedbin](https://feedbin.me) - a simple, fast and nice looking RSS reader. ([Source code](https://github.com/feedbin/feedbin))
-  * [FeedHQ](https://feedhq.org/) - FeedHQ is a web-based feed reader ([Source code](https://github.com/feedhq/feedhq))
-  * [Fresh RSS](http://freshrss.org/) - A free, self-hostable RSS aggregator. - `GNU-AGPL-3.0`
-  * [FreshRSS](http://freshrss.org/) - A self-hostable RSS feed aggregator ([Demo](http://demo.freshrss.org/i/), [Source code](https://github.com/marienfressinaud/FreshRSS))
-  * [gritttt-rss](http://gritttt-rss.nicolashoening.de/) - More features for Tiny Tiny RSS [Source code](https://github.com/nhoening/gritttt-rss)
-  * [Kriss Feed](http://tontof.net/kriss/feed/) - A simple and smart (or stupid) feed reader ([Demo](http://tontof.net/feed/), [Source code](https://github.com/tontof/kriss_feed/))
-  * [Leed](http://projet.idleman.fr/leed/) - Leed (for Light Feed) is a Free and minimalist RSS aggregator ([Source code](https://github.com/ldleman/Leed))
-  * [Leselys](https://github.com/socketubs/leselys) - your very elegant RSS reader
-  * [Liled](https://github.com/ypo/liled) - Liled is an aggregator, capable of reading Atom and RSS feeds ([Demo](http://liled.alwaysdata.net/app/index.php) - _guest/guest_)
-  * [Lite-Reader](http://cubny.com/lite-reader/) - Read your feeds on your own machine with a simple and lite application. ([Source code](https://github.com/cubny/lite-reader))
-  * [Miniflux](http://miniflux.net/) - Miniflux is a minimalist and open source news reader. ([Source code](https://github.com/fguillot/miniflux))
-  * [NewsBlur](https://github.com/samuelclay/NewsBlur) - NewsBlur is a personal news reader that brings people together to talk about the world. A new sound of an old instrument
-  * [Reader-Self](http://readerself.com/) Self-hosted rss reader (php / mysql or sqlite) - Google Reader alternative ([Source code](https://github.com/readerself/readerself))
-  * [Readr](https://github.com/pabloprieto/Readr) - A clean & simple, self-hosted RSS reader
-  * [RSSminer](http://rssminer.net/) -An online rss reader written in clojure & javascript & java ([Source code](https://github.com/shenfeng/rssminer))
-  * [selfoss](http://selfoss.aditu.de/) - Basic web-based Feedreader - `GNU-AGPL-3.0`
-  * [Selfoss](http://selfoss.aditu.de/) - The new multipurpose rss reader, live stream, mashup, aggregation web application ([Source code](https://github.com/SSilence/selfoss))
-  * [Stringer](https://github.com/swanson/stringer) - A work-in-progress self-hosted, anti-social RSS reader.
-  * [Tiny Tiny RSS](https://tt-rss.org/redmine/projects/tt-rss/wiki) - Open source web-based news feed (RSS/Atom) reader and aggregator. ([Demo](http://tt-rss.org/demo/), [Public instance](http://framanews.org/)) - `GNU-GPL-3.0`
-    * [RelatedSoftware - Tiny Tiny RSS](http://tt-rss.org/redmine/projects/tt-rss/wiki/RelatedSoftware) - (mobile applications, browser plugins...)
-    * [ttrss-mobile](https://github.com/mboinet/ttrss-mobile) - A mobile webapp for Tiny Tiny RSS
-
-## Search engines
+## Search Engines
  * [Searx](https://github.com/asciimoo/searx) - A privacy-respecting, hackable metasearch engine ([Demo](https://searx.me/), [Public instances](https://github.com/asciimoo/searx/wiki/Searx-instances))
 
 ## Social Networks
@@ -346,7 +348,7 @@ CMS are a practical way to setup a website with many features. CMS often come wi
   * [Red](http://redmatrix.me/) - complete decentralised publishing, sharing, and communications system ([Source code](https://github.com/friendica/red))
   * [twister](http://twister.net.co/) -  P2P microblogging platform
 
-## Software development platforms
+## Software Development Platforms
 
   * [gitbucket](http://takezoe.github.io/gitbucket/) - The easily installable GitHub clone powered by Scala - ([Source code](https://github.com/takezoe/gitbucket))
   * [GitLab](http://gitlab.org/) - Self Hosted Git Management Application - GitLab is open source software to collaborate on code. Manage git repositories with fine grained access controls that keep your code secure. Perform code reviews and enhance collaboration with merge requests. Each project can also have an issue tracker and a wiki ([Public instance](https://git.framasoft.org/)
@@ -358,7 +360,7 @@ CMS are a practical way to setup a website with many features. CMS often come wi
   * [Pairjam](http://pairjam.com/) -  Real-time web-based collaborative coding ([Source code](https://github.com/neerajwahi/pairjam))
   * [Codiad](http://codiad.com/) - a web-based IDE framework with a small footprint and minimal requirements. ([Source code](https://github.com/Codiad/Codiad))
 
-## Text editors
+## Text Editors
  * [dillinger](http://dillinger.io/) - The last Markdown editor, ever. ([Source code](https://github.com/joemccann/dillinger/)) `MIT` `Nodejs`
 
 ## URL Shorteners
