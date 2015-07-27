@@ -354,6 +354,7 @@ CMS are a practical way to setup a website with many features. CMS often come wi
   * [Bamboo](https://www.atlassian.com/software/bamboo) `⊘ Proprietary` - A continuous integration server `Java`
   * [Confluence](https://www.atlassian.com/software/confluence) `⊘ Proprietary` - A team collaboration software `Java`
   * [Crucible](https://www.atlassian.com/software/crucible/overview) `⊘ Proprietary` - A peer code review application `Java`
+  * [Fossil](https://www.fossil-scm.org/index.html/doc/trunk/www/index.wiki) `BSD` - Distributed version control system featuring wiki and bug tracker - `C`
   * [gitbucket](http://takezoe.github.io/gitbucket/) - The easily installable GitHub clone powered by Scala - ([Source code](https://github.com/takezoe/gitbucket))
   * [GitLab](http://gitlab.org/) - Self Hosted Git Management Application - GitLab is open source software to collaborate on code. Manage git repositories with fine grained access controls that keep your code secure. Perform code reviews and enhance collaboration with merge requests. Each project can also have an issue tracker and a wiki ([Public instance](https://git.framasoft.org/)
   * [Gitlist](http://gitlist.org/) - A web-based git repository browser - GitList allows you to browse repositories using your favorite browser, viewing files under different revisions, commit history and diffs. ([Source code](https://github.com/klaussilveira/gitlist))
@@ -399,12 +400,14 @@ CMS are a practical way to setup a website with many features. CMS often come wi
 -------------------------------------------------------
 ## List of Licenses
 
- * `MIT` - [MIT License](http://opensource.org/licenses/MIT)
+ * `AGPLv3` - [GNU Affero General Public License 3.0](https://www.gnu.org/licenses/agpl-3.0)
+ * `Apache` - [Apache, Version 2.0](http://www.apache.org/licenses/)
+ * `BSD` - [FreeBSD License](https://www.freebsd.org/copyright/license.html)
  * `GPL` - [GNU General Public License](https://www.gnu.org/licenses/gpl-1.0)
  * `GPLv2` - [GNU General Public License 2.0](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
  * `GPLv3` - [GNU General Public License 3.0](http://www.gnu.org/licenses/gpl-3.0.en.html)
- * `AGPLv3` - [GNU Affero General Public License 3.0](https://www.gnu.org/licenses/agpl-3.0)
- * `Apache` - [Apache, Version 2.0](http://www.apache.org/licenses/)
+ *  `MIT` - [MIT License](http://opensource.org/licenses/MIT)
+ 
 
 
 -------------------------------------------------------
