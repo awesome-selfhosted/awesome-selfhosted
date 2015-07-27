@@ -46,6 +46,7 @@ Table of Contents
 - [Text editors](#text-editors)
 - [URL Shorteners](#url-shorteners)
 - [Wikis](#wikis)
+- [List of Licenses](#list-of-licenses)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -385,6 +386,17 @@ CMS are a practical way to setup a website with many features. CMS often come wi
   * [Wikimatrix](http://www.wikimatrix.org/) - A wiki platforms comparator
   * [WiKiss](http://wikiss.tuxfamily.org/) - un wiki simple à utiliser et déployer.
   * [Wikitten](https://github.com/victorstanciu/Wikitten) - Wikitten is a small, fast, PHP wiki, and the perfect place to store your notes, code snippets, ideas, and so on.
+
+-------------------------------------------------------
+## List of Licenses
+
+ * `MIT` - [MIT License](http://opensource.org/licenses/MIT)
+ * `GNU-GPL` - [GNU General Public License](https://www.gnu.org/licenses/gpl-1.0)
+ * `GNU-GPL-2.0` - [GNU General Public License 2.0](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
+ * `GNU-GPL-3.0` - [GNU General Public License 3.0](http://www.gnu.org/licenses/gpl-3.0.en.html)
+ * `GNU-AGPL-3.0` - [GNU Affero General Public License 3.0](https://www.gnu.org/licenses/agpl-3.0)
+ * `Apache` - [Apache License, Version 2.0](http://www.apache.org/licenses/)
+
 
 -------------------------------------------------------
 
