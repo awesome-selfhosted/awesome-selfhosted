@@ -418,7 +418,8 @@ CMS are a practical way to setup a website with many features. CMS often come wi
 
 -------------------------------------------------------
 ## External links
-  *
+ * [Awesome Sysadmin](https://github.com/n1trux/awesome-sysadmin) -  A curated list of amazingly awesome open source sysadmin resources.
+ * [PRISM Break](https://prism-break.org/en/), [Privacytools.io](https://www.privacytools.io/) - Mobile, computer & server privacy-minded applications
 
 
 -------------------------------------------------------
