@@ -418,7 +418,7 @@ CMS are a practical way to setup a website with many features. CMS often come wi
 
 ## Contributing
 
- * You can help by sending Pull Requests to add more services. See [Using Pull Request](https://help.github.com/articles/using-pull-requests/)
+ * You can help by sending Pull Requests to add more services. See [Editing files](https://help.github.com/articles/editing-files-in-another-user-s-repository/), [Creating Pull Requests](https://help.github.com/articles/creating-a-pull-request/), [Using Pull Requests](https://help.github.com/articles/using-pull-requests/)
  * Sections should be ordered alphabetically, lines inside sections should be ordered alphabetically.
  * All projects should have their license and main programming language referenced.
  * Non-[free](https://en.wikipedia.org/wiki/Free_software) software must be marked `⊘ Proprietary` next to the title.
