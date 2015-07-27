@@ -257,11 +257,14 @@ CMS are a practical way to setup a website with many features. CMS often come wi
 
 ## Music Streaming
 
-  * [cloudtunes](https://github.com/jakubroztocil/cloudtunes) -  Web-based music player for the cloud
-  * [Sonerezh](https://www.sonerezh.bzh/) - A self-hosted, web-based application for stream your music, everywhere. ([Demo](https://www.sonerezh.bzh/demo/), [Documentation](https://www.sonerezh.bzh/docs/), [Source code](https://github.com/sonerezh/sonerezh))
-  * [mpd](http://www.musicpd.org/) - Daemon to remotely play music, stream music, handle and organize playlists. Many clients available.
-  * [Ampache](http://ampache.org/) - A web based audio/video streaming application
-  * [Subsonic](http://subsonic.org/) - Open-source web-based media streamer and jukebox
+  * [Ampache](http://ampache.org/) - A web based audio/video streaming application `GNU GPLv2` `PHP`
+  * [cloudtunes](https://github.com/jakubroztocil/cloudtunes) -  Web-based music player for the cloud `MIT` `Python/Javascript`
+  * [mpd](http://www.musicpd.org/) - Daemon to remotely play music, stream music, handle and organize playlists. Many clients available. `GNU GPLv2` `C++`
+  * [Sonerezh](https://www.sonerezh.bzh/) - A self-hosted, web-based application for stream your music, everywhere. ([Demo](https://www.sonerezh.bzh/demo/), [Documentation](https://www.sonerezh.bzh/docs/), [Source code](https://github.com/sonerezh/sonerezh)) `GNU GPLv3` `PHP`
+  * [Subsonic](http://subsonic.org/) - Open-source web-based media streamer and jukebox ([Source code](https://github.com/EugeneKay/subsonic)) `GNU GPLv3` `Java`
+
+
+
 
 ## Note-taking
 
