@@ -17,6 +17,7 @@ Table of Contents
 - [Communication Systems](#communication-systems)
 - [Content Management Systems (CMS)](#content-management-systems-cms)
 - [Download Tools](#download-tools)
+- [Email Server](#email-server)
 - [Feed Readers](#feed-readers)
 - [File Sharing and Synchronization](#file-sharing)
 - [Games](#games)
@@ -139,6 +140,9 @@ CMS are a practical way to setup a website with many features. CMS often come wi
 ## Download Tools
 
  * [Alltube](https://github.com/Rudloff/alltube) - A web interface for [youtube-dl](https://github.com/rg3/youtube-dl), a program to download videos and audio from [more than 100 websites](https://rg3.github.io/youtube-dl/supportedsites.html) ([Demo](http://alltubedownload.net/)) `GPL`
+
+## Email Server
+ * [mailcow](https://github.com/andryyy/mailcow) - Mail server suite based on Dovecot, Postfix and other open source software, that provides a modern Web UI for administration. `GPL
 
 ## Feed Readers
 
