@@ -300,6 +300,7 @@ See also [Static Site Generators](#static-site-generators)
 ## Password Managers
 
  * [Rattic](http://rattic.org/) - Password Management for Humans ([Source code](https://github.com/tildaslash/RatticWeb))
+ * [pass](http://passwordstore.org/) - UNIX-flavored password management backed by GPG and Git. ([Source code](http://git.zx2c4.com/password-store/))
 
 ## Pastebins
 
