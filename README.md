@@ -100,7 +100,6 @@ Table of Contents
 
 ## Communication Systems
 
-  * [Ostel](https://dev.guardianproject.info/projects/ostel/wiki/Server_Documentation) - Secure SIP telephony setup with ZRTP encryption
   * [Cypht](http://cypht.org/index.html) - A feed reader for your email accounts - `GPL` 
   * [ejabberd](http://www.ejabberd.im) - A robust, scalable, and extensible XMPP server - `GPL` `Erlang`
   * [FreeSWITCH](https://freeswitch.org/) - Scalable open source cross-platform telephony platform `MPL` `C`
@@ -110,15 +109,16 @@ Table of Contents
   * [Kandan](http://getkandan.com/) – Kandan is an Open Source Alternative to HipChat. - `AGPL`
   * [Kontalk](http://kontalk.org/) – Kontalk is an Open Source Messenger, similiar to WhatsApp (app for android only currently), including end-to-end encryption, server is based on Tigase XMPP Server - ([Source code](https://github.com/kontalk)) - `GPLv3`
   * [mailcow](https://github.com/andryyy/mailcow) - Mail server suite based on Dovecot, Postfix and other open source software, that provides a modern Web UI for administration. `GPL`
-  * [Metronome](http://www.lightwitch.org/metronome) – XMPP server forked from Prosody. `MIT`
-  * [Mumble](http://wiki.mumble.info/wiki/Main_Page) - low-latency, high quality voice chat software
+  * [Metronome](http://www.lightwitch.org/metronome) – XMPP server forked from Prosody. `Lua` `MIT`
+  * [Mumble](http://wiki.mumble.info/wiki/Main_Page) - low-latency, high quality voice chat software `BSD` `C++`
   * [Node-Chat](https://github.com/IgorAntun/node-chat) - A not-so-basic open-source chat with admin features. - `MIT`
-  * [OpenFire](http://www.igniterealtime.org/projects/openfire/) - instant messaging (XMPP) and groupchat server written in Java - `Apache 2.0`
-  * [Prosody](http://prosody.im/) – Modern XMPP server written in Lua. `MIT`
+  * [OpenFire](http://www.igniterealtime.org/projects/openfire/) - instant messaging (XMPP) and groupchat server `Java` `Apache 2.0`
+  * [Ostel](https://dev.guardianproject.info/projects/ostel/wiki/Server_Documentation) - Secure SIP telephony setup with ZRTP encryption `GPLv3`
+  * [Prosody](http://prosody.im/) – Lightweight XMPP server `Lua` `MIT`
   * [Rocket.Chat](http://rocket.chat/) – Teamchat solution similar to Gitter.im or Slack - `MIT`
   * [Roundcube](https://roundcube.net) - A web interface to act as an IMAP frontend ([Screenshots](https://roundcube.net/screens/)) ([Source code](https://github.com/roundcube/roundcubemail/)) `GPLv3` `PHP`
   * [Shout](http://shout-irc.com/) -The self-hosted web IRC client ([Demo](http://demo.shout-irc.com/), [Source code](https://github.com/erming/shout)) `MIT` `Nodejs`
-  * [Tox](https://tox.im/) -  A distributed, secure messenger with audio and video chat capabilities.
+  * [Tox](https://tox.im/) -  A distributed, secure messenger with audio and video chat capabilities. `C` `GPLv3`
 
 
 
@@ -301,12 +301,12 @@ CMS are a practical way to setup a website with many features. CMS often come wi
 
 ## Pastebins
 
-  * [0bin](https://github.com/sametmax/0bin) -  Client side encrypted pastebin `WTFPL` `Python`
-  * [Stikked](https://github.com/claudehohl/Stikked) - An advanced and beautiful pastebin written in PHP
-  * [Zerobin](http://sebsauvage.net/wiki/doku.php?id=php:zerobin) - A minimalist, opensource online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES. ([Demo](http://sebsauvage.net/paste/), [Source code](https://github.com/sebsauvage/zerobin))
-  * [cryptonote](https://cryptonote.me/) - A simple open source web application that lets users encrypt and share messages that can only be read once ([Source code](https://github.com/alainmeier/cryptonote))
-  * [hastebin](http://hastebin.com/about.md) - open source pastebin written in node.js ([Source code](https://github.com/seejohnrun/haste-server))
-  * [snipt](https://snipt.net/) -  Long-term memory for coders. Share and store code snippets  ([Source code](https://github.com/nicksergeant/snipt/))
+ * [0bin](https://github.com/sametmax/0bin) -  Client side encrypted pastebin `WTFPL` `Python`
+    * [cryptonote](https://cryptonote.me/) - A simple open source web application that lets users encrypt and share messages that can only be read once ([Source code](https://github.com/alainmeier/cryptonote))
+    * [hastebin](http://hastebin.com/about.md) - open source pastebin written in node.js ([Source code](https://github.com/seejohnrun/haste-server))
+    * [snipt](https://snipt.net/) -  Long-term memory for coders. Share and store code snippets  ([Source code](https://github.com/nicksergeant/snipt/))
+    * [Stikked](https://github.com/claudehohl/Stikked) - An advanced and beautiful pastebin written in PHP
+    *[tastebin](https://github.com/andreineculau/tastebin) - Updated version of hastebin plus additional features `Apache` `nodejs`
 
 ## Photo and Video Galleries
 
