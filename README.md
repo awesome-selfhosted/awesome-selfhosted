@@ -41,6 +41,7 @@ Table of Contents
 - [Search Engines](#search-engines)
 - [Social Networks](#social-networks)
 - [Software Development Platforms](#software-development-platforms)
+- [Static site generators](#static-site-generators)
 - [Text Editors](#text-editors)
 - [URL Shorteners](#url-shorteners)
 - [Wikis](#wikis)
@@ -120,6 +121,8 @@ Table of Contents
 ## Content Management Systems (CMS)
 
 CMS are a practical way to setup a website with many features. CMS often come with third party plugins, themes and functionality that is easy to add and customize to your needs.
+
+See also [Static Site Generators](#static-site-generators)
 
   * [99ko CMS](http://99ko.hellojo.fr) - 99ko allows you to create a website in minutes without knowledge of Web development. It does not use a database server but relies on simple text files (JSON format) to store your data. ([Source code](https://github.com/99ko-project/99ko-cms))
   * [Baun](http://bauncms.com/) - A modern, lightweight, extensible CMS for PHP - ([Source code](https://github.com/BaunCMS/Baun)) `MIT`
@@ -368,6 +371,10 @@ CMS are a practical way to setup a website with many features. CMS often come wi
   * [Pairjam](http://pairjam.com/) -  Real-time web-based collaborative coding ([Source code](https://github.com/neerajwahi/pairjam))
   * [Codiad](http://codiad.com/) - a web-based IDE framework with a small footprint and minimal requirements. ([Source code](https://github.com/Codiad/Codiad))
   * [Jenkins](https://jenkins-ci.org/) - Continuous Integration Server ([Source Code](https://github.com/jenkinsci/jenkins/)) `MIT` `Java`
+
+## Static site generators
+
+See https://staticsitegenrators.net/ and https://www.staticgen.com
 
 ## Text Editors
  * [dillinger](http://dillinger.io/) - The last Markdown editor, ever. ([Source code](https://github.com/joemccann/dillinger/)) `MIT` `Nodejs`
