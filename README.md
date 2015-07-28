@@ -96,24 +96,26 @@ Table of Contents
 
 ## Calendar and Address Books
 
-  * [Radicale](http://radicale.org/) - A Simple Calendar and Contact Server
-  * [calypso](http://keithp.com/calypso/) - a python-based CalDAV/CardDAV server
-  * [AgenDAV](http://agendav.org/) - Multilanguage CalDAV web client with a rich AJAX interface and shared calendars support
-  * [Baïkal](http://baikal.codr.fr/) - Lightweight CalDAV+CardDAV server
+    * [AgenDAV](http://agendav.org/) - Multilanguage CalDAV web client with a rich AJAX interface and shared calendars support
+    * [Baïkal](http://baikal.codr.fr/) - Lightweight CalDAV+CardDAV server
+    * [calypso](http://keithp.com/calypso/) - a python-based CalDAV/CardDAV server
+    * [Radicale](http://radicale.org/) - A Simple Calendar and Contact Server
 
 ## Communication Systems
 
-  * [Cypht](http://cypht.org/index.html) - A feed reader for your email accounts - `GPL` 
+  * [Cypht](http://cypht.org/index.html) - A feed reader for your email accounts - `GPL`
+  * [FreeSWITCH](https://freeswitch.org/) - Scalable open source cross-platform telephony platform `MPL` `C`
   * [HipChat](https://www.atlassian.com/software/hipchat) `⊘ Proprietary` - A team chat solution with 1:1 chat audio and video, third party integration and more `PHP + Python`
-  * [Metronome](http://www.lightwitch.org/metronome) – XMPP server forked from Prosody. `MIT`
-  * [Node-Chat](https://github.com/IgorAntun/node-chat) - A not-so-basic open-source chat with admin features. - `MIT`
-  * [Prosody](http://prosody.im/) – Modern XMPP server written in Lua. `MIT`
+  * [Kaiwa](http://getkaiwa.com) A modern XMPP Web client ([Source code](https://github.com/digicoop/kaiwa))
   * [Kandan](http://getkandan.com/) – Kandan is an Open Source Alternative to HipChat. - `AGPL`
-  * [Kontalk](http://kontalk.org/) – Kontalk is an Open Source Messenger, similiar to WhatsApp (app for android only currently), including end-to-end encryption, server is based on Tigase XMPP Server - [Source code](https://github.com/kontalk)) - `GPLv3`
+   * [Kontalk](http://kontalk.org/) – Kontalk is an Open Source Messenger, similiar to WhatsApp (app for android only currently), including end-to-end encryption, server is based on Tigase XMPP Server - [Source code](https://github.com/kontalk)) - `GPLv3`
+  * [Metronome](http://www.lightwitch.org/metronome) – XMPP server forked from Prosody. `MIT`
+  * [Mumble](http://wiki.mumble.info/wiki/Main_Page) - Mumble is an open source, cross platform, low-latency, high quality voice chat software primarily intended for use while gaming. `BSD` `C++`
+  * [Node-Chat](https://github.com/IgorAntun/node-chat) - A not-so-basic open-source chat with admin features. - `MIT`
   * [OpenFire](http://www.igniterealtime.org/projects/openfire/) - instant messaging (XMPP) and groupchat server written in Java - `Apache 2.0`
+  * [Prosody](http://prosody.im/) – Modern XMPP server written in Lua. `MIT`
   * [Rocket.Chat](http://rocket.chat/) – Teamchat solution similar to Gitter.im or Slack - `MIT`
   * [Roundcube](https://roundcube.net) - A web interface to act as an IMAP frontend ([Screenshots](https://roundcube.net/screens/)) ([Source code](https://github.com/roundcube/roundcubemail/)) `GPLv3` `PHP`
-  * [Kaiwa](http://getkaiwa.com) A modern XMPP Web client ([Source code](https://github.com/digicoop/kaiwa))
   * [Shout](http://shout-irc.com/) -The self-hosted web IRC client ([Demo](http://demo.shout-irc.com/), [Source code](https://github.com/erming/shout)) `MIT` `Nodejs`
 
 ## Content Management Systems (CMS)
