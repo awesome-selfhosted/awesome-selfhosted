@@ -18,7 +18,7 @@ Table of Contents
 - [Content Management Systems (CMS)](#content-management-systems-cms)
 - [Download Tools](#download-tools)
 - [Feed Readers](#feed-readers)
-- [File Sharing and Synchronization](#file-sharing)
+- [File Sharing and Synchronization](#file-sharing-and-synchronization)
 - [Games](#games)
 - [Gateways](#gateways)
 - [GPS tracking](#gps-tracking)
@@ -233,6 +233,7 @@ CMS are a practical way to setup a website with many features. CMS often come wi
   * [Emby](https://github.com/MediaBrowser/MediaBrowser) - A home media server built using other popular open source technologies. - `GPLv2`
   * [HTPC Manager](http://htpc.io/) - A fully responsive interface to manage all your favorite media on your HTPC. - `MIT`
   * [Plex](https://plex.tv/) `⊘ Proprietary` - Plex is a centralized home media playback system with a powerful central server.
+
 ## Mind Maps
 
  * [Mindmaps](https://github.com/drichard/mindmaps) - An open source, offline capable, mind mapping application ([Demo](http://drichard.org/mindmaps/))
