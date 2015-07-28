@@ -72,28 +72,20 @@ Table of Contents
  * [Pelican](http://blog.getpelican.com) - Static sight generator written in Python, requires no database or server-side logic ([Source code](https://github.com/getpelican/pelican)) `GPLv3` `Python`
  * [PluXml](http://www.pluxml.org/) - XML-based blog/CMS platform ([Source code](https://github.com/pluxml/PluXml)) `GPL` `PHP`
  * [Wordpress](https://wordpress.org/) - Create a beautiful website or blog. ([Source code](https://github.com/WordPress/WordPress)) `GPLv2`
+ 
+ 
 
-## Bug and Task Trackers
+## Bookmarks & Link Sharing
 
-  * [92five](http://92fiveapp.com/) - Self hosted project management application ([Source code](https://github.com/chintanbanugaria/92five)) `CC BY-NC 4.0` `PHP`
-  * [Apache Bloodhound](https://bloodhound.apache.org/) - Manage software products, Keep track of features, tasks and bugs `Apache` `Python`
-  * [bulldog](https://github.com/infews/bulldog) - HTML5 task manager, built on todo.txt `MIT` `HTML5` 
-  * [Bumpy Booby](http://bumpy-booby.derivoile.fr/) - A simple, responsive and highly customizable PHP bug tracking system. ([Source code](https://github.com/piero-la-lune/Bumpy-Booby)) `MIT` `PHP`
-  * [Flyspray](http://www.flyspray.org/) - uncomplicated, web-based bug tracking system ([Source code](https://github.com/Flyspray/flyspray)) `GPLv2`
-  * [Gaskit](https://github.com/bkeepers/gaskit) - a git-backed issue tracker. It uses a branch in your local git database to store the tickets. `GPL`
-  * [HabitRPG](http://habitrpg.com/) - A habit tracker app which treats your goals like a Role Playing Game. ([Source code](https://github.com/lefnire/habitrpg))
-  * [Kanboard](http://kanboard.net/) - A simple and open source visual task board `AGPLv3`
-  * [JIRA](https://www.atlassian.com/software/jira) `⊘ Proprietary` - A professional and extensible issue tracker `Java`
-  * [MantisBT](https://www.mantisbt.org/) - Self hosted bug tracker, fits best for software development - ([Demo](https://www.mantisbt.org/bugs/my_view_page.php)) -  ([Source code](https://github.com/mantisbt/mantisbt)) - `GPLv2`
-  * [myTinyTodo](http://www.mytinytodo.net/) - Simple way to manage your todo list in AJAX style. Uses PHP, jQuery, SQLite/MySQL. GTD compliant. `GPL`
-  * [Phproject](http://www.phproject.org/) - A high performance full-featured project management system ([Source code](https://github.com/Alanaktion/phproject), [Demo](http://demo.phproject.org/)) `GPLv3`
-  * [Redmine](http://www.redmine.org/) - Redmine is a flexible project management web application
-  * [Taiga.io](https://taiga.io/) - Your Agile, Free and Open Source Project Management Tool ([Source code](https://github.com/taigaio))
-  * [TaskBoard](http://taskboard.matthewross.me/) - A Kanban-inspired app for keeping track of things that need to get done. ([Source code](https://github.com/kiswa/TaskBoard)) `MIT`
-  * [Taskfreak](http://www.taskfreak.com/original) - a simple but efficient web based task manager written in PHP. ([Demo](http://demo.taskfreak.com/))
-  * [tasks.php](https://github.com/RaymiiOrg/tasks.php) - A simple task/todo list manager `MIT`
-  * [Tinyissue](https://github.com/mikelbring/tinyissue) - Simple Issue Tracking for Teams `MIT`
-  * [Tracks](http://getontracks.org/) -  a web-based application to help you implement David Allen’s [Getting Things Done™](http://wikipedia.org/wiki/Getting_Things_Done) methodology. - ` GPL V2.0`
+  * [Bookie](https://github.com/bookieio/Bookie) - Python based delicious.com replacement ([Firefox addon](https://github.com/bookieio/bookie-firefox), [Demo](http://bmark.us/), [Documentation](http://docs.bmark.us/)
+  * [Lobsters](https://lobste.rs) - Run your own link aggregation site - ([Source code](https://github.com/jcs/lobsters))
+  * [Pinry](http://getpinry.com/) - The tiling image board system for people who want to save, tag, and share images, videos, and webpages. ([Demo](http://demo.getpinry.com/), [Source code](https://github.com/pinry/pinry))
+  * [semanticscuttle](http://semanticscuttle.sourceforge.net/) - a social bookmarking tool experimenting with features like structured tags and collaborative tag descriptions.
+  * [Shaarli](https://github.com/shaarli/Shaarli) - Personal, minimalist, super-fast, no-database bookmarking and link sharing plaform. ([Demo](http://shaarlidemo.tuxfamily.org/Shaarli) - `demo/demo`)
+  * [unmark](https://github.com/plainmade/unmark) - An open source to do app for links
+  * [Firefox Accounts Server](https://docs.services.mozilla.com/howtos/run-fxa.html)
+   * [Firefox Sync Server](https://docs.services.mozilla.com/howtos/run-sync-1.5.html) - Sync Firefox bookmarks, passwords, history, tabs, preferences...
+
 
 ## Calendar and Address Books
 
@@ -101,7 +93,8 @@ Table of Contents
   * [Baïkal](http://baikal.codr.fr/) - Lightweight CalDAV+CardDAV server
   * [calypso](http://keithp.com/calypso/) - a python-based CalDAV/CardDAV server
   * [Radicale](http://radicale.org/) - A Simple Calendar and Contact Server
-
+  * [CalendarServer](http://trac.calendarserver.org/) - a standards-compliant server implementing the CalDAV and CardDAV protocols. `Apache` `Python`
+  * [DAViCal](http://www.davical.org/) - a server for calendar sharing (CalDAV)
 
 ## Communication Systems
 
@@ -117,6 +110,12 @@ Table of Contents
   * [Roundcube](https://roundcube.net) - A web interface to act as an IMAP frontend ([Screenshots](https://roundcube.net/screens/)) ([Source code](https://github.com/roundcube/roundcubemail/)) `GPLv3` `PHP`
   * [Kaiwa](http://getkaiwa.com) A modern XMPP Web client ([Source code](https://github.com/digicoop/kaiwa))
   * [Shout](http://shout-irc.com/) -The self-hosted web IRC client ([Demo](http://demo.shout-irc.com/), [Source code](https://github.com/erming/shout)) `MIT` `Nodejs`
+  * [Tox](https://tox.im/) -  A distributed, secure messenger with audio and video chat capabilities.
+  * [Kamailio](http://www.kamailio.org/w/) - Modular SIP server (registrar/proxy/router/etc)
+   * [Ostel](https://dev.guardianproject.info/projects/ostel/wiki/Server_Documentation) - Secure SIP telephony setup with ZRTP encryption
+  * [Mumble](http://wiki.mumble.info/wiki/Main_Page) - low-latency, high quality voice chat software 
+
+
 
 ## Content Management Systems (CMS)
 
@@ -143,6 +142,13 @@ See also [Static Site Generators](#static-site-generators)
 ## Download Tools
 
  * [Alltube](https://github.com/Rudloff/alltube) - A web interface for [youtube-dl](https://github.com/rg3/youtube-dl), a program to download videos and audio from [more than 100 websites](https://rg3.github.io/youtube-dl/supportedsites.html) ([Demo](http://alltubedownload.net/)) `GPL`
+
+## Federated Identity/Authentication
+ * [OpenID/OpenID Connect](http://openid.net/developers/libraries/)
+ * [BrowserID/Mozilla Persona](https://developer.mozilla.org/en-US/Persona/Identity_Provider_Overview)
+ * [Libravatar](https://www.libravatar.org/) -  a service which delivers your avatar (profile picture) to other websites
+ * [OpenCA OCSPD](https://pki.openca.org/projects/ocspd/) - [OCSP](https://en.wikipedia.org/wiki/Online_Certificate_Status_Protocol) Responder
+
 
 ## Feed Readers
 
@@ -196,7 +202,7 @@ See also [Static Site Generators](#static-site-generators)
   * [Tahoe-LAFS](https://www.tahoe-lafs.org/trac/tahoe-lafs) - Tahoe-LAFS is a Free and Open decentralized cloud storage system. It distributes your data across multiple servers. Even if some of the servers fail or are taken over by an attacker, the entire file store continues to function correctly, preserving your privacy and security.
   * [ownCloud](https://owncloud.org/) - All-in-one solution for saving and sharing files, photos, music,... - `AGPLv3`
   * [seafile](http://www.seafile.com/en/home/) - File hosting and sharing solution primary for teams and organizations. - `GPLv2`
-
+  * [Z-Push](https://z-push.org/) - an implementation of Microsoft’s [ActiveSync](https://en.wikipedia.org/wiki/ActiveSync) protocol 
 
 ## Games
 
@@ -219,15 +225,6 @@ See also [Static Site Generators](#static-site-generators)
   * [egroupware](http://www.egroupware.org/) - Software suite including calendars, address books, notepad, project management tools, client relationship managemnt tools (CRM), knowledge management tools, a wiki and a CMS.
   * [Tine 2.0org](https://www.tine20.org) - Contacts, Calendar, Tasks, WebDAV, ActiveSync, VOIP, Mail-Client, CRM, Sales, Projects, Timetracker -  ([Demo](https://demo.tine20.net)) - `AGPLv3`
 
-## Link Sharing
-
-  * [Bookie](https://github.com/bookieio/Bookie) - Python based delicious.com replacement ([Firefox addon](https://github.com/bookieio/bookie-firefox), [Demo](http://bmark.us/), [Documentation](http://docs.bmark.us/)
-  * [Lobsters](https://lobste.rs) - Run your own link aggregation site - ([Source code](https://github.com/jcs/lobsters))
-  * [Pinry](http://getpinry.com/) - The tiling image board system for people who want to save, tag, and share images, videos, and webpages. ([Demo](http://demo.getpinry.com/), [Source code](https://github.com/pinry/pinry))
-  * [semanticscuttle](http://semanticscuttle.sourceforge.net/) - a social bookmarking tool experimenting with features like structured tags and collaborative tag descriptions.
-  * [Shaarli](https://github.com/shaarli/Shaarli) - Personal, minimalist, super-fast, no-database bookmarking and link sharing plaform. ([Demo](http://shaarlidemo.tuxfamily.org/Shaarli) - `demo/demo`)
-  * [unmark](https://github.com/plainmade/unmark) - An open source to do app for links
-
 ## Maps
  * [Graphhopper](https://graphhopper.com/) -  Fast routing library and server using OpenStreetMap ([Source code](https://github.com/graphhopper/graphhopper))
  * [Openstreetmap](http://www.openstreetmap.org/) - OpenStreetMap is a map of the world, created by people like you and free to use under an open license. ([Source code](https://github.com/openstreetmap/openstreetmap-website))
@@ -241,10 +238,14 @@ See also [Static Site Generators](#static-site-generators)
 
  * [Mindmaps](https://github.com/drichard/mindmaps) - An open source, offline capable, mind mapping application ([Demo](http://drichard.org/mindmaps/))
 
-## Money and Budgeting
+
+
+## Money, Budgeting and Management
 
   * [IHateMoney](http://ihatemoney.org/) `⊘ Proprietary` - Manage your shared expenses, easily.
   * [InvoicePlane](https://invoiceplane.com/) - Manage quotes, invoices, payments and customers for your small business. - `MIT`
+  * [GRR](http://grr.devome.com/?lang=en) - Assets management and booking for small/medium companies ([demo](http://grr.devome.com/demo/week_all.php?year=2015&month=07&day=28&area=94), _administrateur/azerty_) `GPLv2` `PHP`
+  * [GLPI](http://www.glpi-project.org/spip.php?lang=en) - GLPI is an IT assests/resources/inventory manager ([Source code](https://forge.glpi-project.org/projects/glpi)) `GPLv2` `PHP`
 
 ## Monitoring and Administration
 
@@ -270,14 +271,14 @@ See also [Static Site Generators](#static-site-generators)
 
 
 
-## Note-taking
+## Note-taking & Editors
 
   * [Jotter](https://github.com/yosko/jotter) - Jotter is a lightweight, no database, powerful web notebook that lets you create and manage notes online safely, quickly & easily. ([Demo](http://tools.yosko.net/demos/jotter/) - `demo/demo`)
   * [Laverna](https://laverna.cc/) - Laverna is a JavaScript note taking application with Markdown editor and encryption support. Consider it like open source alternative to Evernote ([Source code](https://github.com/Laverna/laverna), [Demo](https://laverna.cc/index.html#notes))
   * [minimalist-web-notepad](https://github.com/pereorga/minimalist-web-notepad)- a minimalist http://notepad.cc clone `Apache` `PHP`
   * [OpenNote](https://github.com/FoxUSA/OpenNote) - OpenNote was built to be an open web-based alternative to Microsoft OneNote (T) and EverNote
   * [Paperwork](http://paperwork.rocks) - OpenSource note-taking & archiving alternative to Evernote, Microsoft OneNote & Google Keep ([Source code](https://github.com/twostairs/paperwork))
-
+ * [dillinger](http://dillinger.io/) - The last Markdown editor, ever. ([Source code](https://github.com/joemccann/dillinger/)) `MIT` `Nodejs`
 
 
 ## Office Suites
@@ -320,6 +321,7 @@ See also [Static Site Generators](#static-site-generators)
 
 ## Polls and Events
 
+ * [dudle](http://primelife.ercim.eu/results/opensource/63-dudle) - an online scheduling application ([demo](https://dudle.inf.tu-dresden.de/)) `AGPLv3` `Ruby`
  * [LimeSurvey](https://www.limesurvey.org) - Feature-rich Open Source web based polling software. Supports extensive survey logic. - ([Demo](https://demo.limesurvey.org))
  * [OpenSondage](https://github.com/leblanc-simon/OpenSondage) - an online service for planning an appointment or make a decision quickly and easily: Make a poll, Define dates or subjects to choose, Send the poll link to your friends or colleagues, Discuss and make a decision - ([Demo](http://framadate.org/), [Example](https://framadate.org/aqg259dth55iuhwm))
  * [Kyélà](http://kyela.net/) -  Participation polls for group events  - ([Source code](https://github.com/abienvenu/Kyela), [Demo](http://kyela.net/55232734237c8/))
@@ -355,30 +357,49 @@ See also [Static Site Generators](#static-site-generators)
   * [Red](http://redmatrix.me/) - complete decentralised publishing, sharing, and communications system ([Source code](https://github.com/friendica/red))
   * [twister](http://twister.net.co/) -  P2P microblogging platform
 
-## Software Development Platforms
-
-  * [Bamboo](https://www.atlassian.com/software/bamboo) `⊘ Proprietary` - A continuous integration server `Java`
+### Project Management
   * [Confluence](https://www.atlassian.com/software/confluence) `⊘ Proprietary` - A team collaboration software `Java`
   * [Crucible](https://www.atlassian.com/software/crucible/overview) `⊘ Proprietary` - A peer code review application `Java`
   * [Fossil](https://www.fossil-scm.org/index.html/doc/trunk/www/index.wiki) `BSD` - Distributed version control system featuring wiki and bug tracker - `C`
   * [gitbucket](http://takezoe.github.io/gitbucket/) - The easily installable GitHub clone powered by Scala - ([Source code](https://github.com/takezoe/gitbucket))
-  * [GitLab](http://gitlab.org/) - Self Hosted Git Management Application - GitLab is open source software to collaborate on code. Manage git repositories with fine grained access controls that keep your code secure. Perform code reviews and enhance collaboration with merge requests. Each project can also have an issue tracker and a wiki ([Public instance](https://git.framasoft.org/))
+  * [GitLab](http://gitlab.org/) - Self Hosted Git Management Application - GitLab is open source software to collaborate on code. Manage git repositories with fine grained access controls that keep your code secure. Perform code reviews and enhance collaboration with merge requests. Each project can also have an issue tracker and a wiki ([Public instance](https://git.framasoft.org/)
   * [Gitlist](http://gitlist.org/) - A web-based git repository browser - GitList allows you to browse repositories using your favorite browser, viewing files under different revisions, commit history and diffs. ([Source code](https://github.com/klaussilveira/gitlist))
   * [Gitprep](http://gitprep.org/) - Portable Github clone ([Source code](https://github.com/yuki-kimoto/gitprep), [Demo](http://perlcodesample.sakura.ne.jp/gitprep.cgi))
   * [Gogs](https://github.com/gogits/gogs) - a painless self-hosted Git Service written in Go. ([Demo](http://try.gogits.org))
+  * [Stash](https://www.atlassian.com/software/stash) `⊘ Proprietary` - An enterprise-level Git solution similar to GitLab `Java`
+
+### IDE/Tools
+
+  * [Codiad](http://codiad.com/) - a web-based IDE framework with a small footprint and minimal requirements. ([Source code](https://github.com/Codiad/Codiad))
+  * [Pairjam](http://pairjam.com/) -  Real-time web-based collaborative coding ([Source code](https://github.com/neerajwahi/pairjam))
   * [Regexr](http://regexr.com/) -  RegExr is a HTML/JS based tool for creating, testing, and learning about Regular Expressions. ([Source code](https://github.com/gskinner/regexr/)) `MIT` `Nodejs`
   * [Repo.js](http://darcyclarke.me/dev/repojs/) - A plugin to embed Github repos on your site ([Source code](https://github.com/darcyclarke/Repo.js))
-  * [Stash](https://www.atlassian.com/software/stash) `⊘ Proprietary` - An enterprise-level Git solution similar to GitLab `Java`
-  * [Pairjam](http://pairjam.com/) -  Real-time web-based collaborative coding ([Source code](https://github.com/neerajwahi/pairjam))
-  * [Codiad](http://codiad.com/) - a web-based IDE framework with a small footprint and minimal requirements. ([Source code](https://github.com/Codiad/Codiad))
-  * [Jenkins](https://jenkins-ci.org/) - Continuous Integration Server ([Source Code](https://github.com/jenkinsci/jenkins/)) `MIT` `Java`
 
-## Static site generators
+### Continuous Integration
 
-See https://staticsitegenrators.net/ and https://www.staticgen.com
+  * [Jenkins](https://jenkins-ci.org/) - Continuous Integration Server ([Source Code](https://github.com/jenkinsci/jenkins/) `MIT` `Java`
+  * [Bamboo](https://www.atlassian.com/software/bamboo) `⊘ Proprietary` - A continuous integration server `Java`
 
-## Text Editors
- * [dillinger](http://dillinger.io/) - The last Markdown editor, ever. ([Source code](https://github.com/joemccann/dillinger/)) `MIT` `Nodejs`
+### Bug and Task Trackers
+  * [92five](http://92fiveapp.com/) - Self hosted project management application ([Source code](https://github.com/chintanbanugaria/92five)) `CC BY-NC 4.0` `PHP`
+  * [Apache Bloodhound](https://bloodhound.apache.org/) - Manage software products, Keep track of features, tasks and bugs `Apache` `Python`
+  * [bulldog](https://github.com/infews/bulldog) - HTML5 task manager, built on todo.txt `MIT` `HTML5` 
+  * [Bumpy Booby](http://bumpy-booby.derivoile.fr/) - A simple, responsive and highly customizable PHP bug tracking system. ([Source code](https://github.com/piero-la-lune/Bumpy-Booby)) `MIT` `PHP`
+  * [Flyspray](http://www.flyspray.org/) - uncomplicated, web-based bug tracking system ([Source code](https://github.com/Flyspray/flyspray)) `GPLv2`
+  * [Gaskit](https://github.com/bkeepers/gaskit) - a git-backed issue tracker. It uses a branch in your local git database to store the tickets. `GPL`
+  * [HabitRPG](http://habitrpg.com/) - A habit tracker app which treats your goals like a Role Playing Game. ([Source code](https://github.com/lefnire/habitrpg))
+  * [Kanboard](http://kanboard.net/) - A simple and open source visual task board `AGPLv3`
+  * [JIRA](https://www.atlassian.com/software/jira) `⊘ Proprietary` - A professional and extensible issue tracker `Java`
+  * [MantisBT](https://www.mantisbt.org/) - Self hosted bug tracker, fits best for software development - ([Demo](https://www.mantisbt.org/bugs/my_view_page.php)) -  ([Source code](https://github.com/mantisbt/mantisbt)) - `GPLv2`
+  * [myTinyTodo](http://www.mytinytodo.net/) - Simple way to manage your todo list in AJAX style. Uses PHP, jQuery, SQLite/MySQL. GTD compliant. `GPL`
+  * [Phproject](http://www.phproject.org/) - A high performance full-featured project management system ([Source code](https://github.com/Alanaktion/phproject), [Demo](http://demo.phproject.org/)) `GPLv3`
+  * [Redmine](http://www.redmine.org/) - Redmine is a flexible project management web application
+  * [Taiga.io](https://taiga.io/) - Your Agile, Free and Open Source Project Management Tool ([Source code](https://github.com/taigaio))
+  * [TaskBoard](http://taskboard.matthewross.me/) - A Kanban-inspired app for keeping track of things that need to get done. ([Source code](https://github.com/kiswa/TaskBoard)) `MIT`
+  * [Taskfreak](http://www.taskfreak.com/original) - a simple but efficient web based task manager written in PHP. ([Demo](http://demo.taskfreak.com/))
+  * [tasks.php](https://github.com/RaymiiOrg/tasks.php) - A simple task/todo list manager `MIT`
+  * [Tinyissue](https://github.com/mikelbring/tinyissue) - Simple Issue Tracking for Teams `MIT`
+  * [Tracks](http://getontracks.org/) -  a web-based application to help you implement David Allen’s [Getting Things Done™](http://wikipedia.org/wiki/Getting_Things_Done) methodology. - ` GPL V2.0`
 
 ## URL Shorteners
   * [YOURLS](http://yourls.org/) - YOURLS is a set of PHP scripts that will allow you to run Your Own URL Shortener. Features include password protection, URL customization, bookmarklets, statistics, API, plugins, jsonp ([Source code](https://github.com/YOURLS/YOURLS/), [Documentation](https://github.com/YOURLS/YOURLS/wiki)) - `MIT`
@@ -408,6 +429,13 @@ See https://staticsitegenrators.net/ and https://www.staticgen.com
   * [Wikitten](https://github.com/victorstanciu/Wikitten) - Wikitten is a small, fast, PHP wiki, and the perfect place to store your notes, code snippets, ideas, and so on.
 
 -------------------------------------------------------
+
+## Self-hosting Solutions
+ * [arkOS](https://arkos.io/) - Install arkOS to a dedicated device and host your own websites, email, files and more. ([Source code](https://git.coderouge.co/groups/arkOS) [[1]](https://github.com/cznweb)) `MIT/GPL` `Nodejs/Other`
+ * [sovereign](https://github.com/sovereign/sovereign) -  A set of Ansible playbooks to build and maintain your own private cloud: email, calendar, contacts, file sync, IRC bouncer, VPN, and more. `GPLv3` `YAML/Other`
+ * [yunohost](https://yunohost.org/) - a server operating system aiming to make self-hosting accessible to everyone. ([Source code](https://github.com/YunoHost)) - `AGPL` `Python/Other`
+
+-------------------------------------------------------
 ## List of Licenses
 
  * `AGPLv3` - [GNU Affero General Public License 3.0](https://www.gnu.org/licenses/agpl-3.0)
@@ -417,7 +445,14 @@ See https://staticsitegenrators.net/ and https://www.staticgen.com
  * `GPLv2` - [GNU General Public License 2.0](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
  * `GPLv3` - [GNU General Public License 3.0](http://www.gnu.org/licenses/gpl-3.0.en.html)
  *  `MIT` - [MIT License](http://opensource.org/licenses/MIT)
- 
+
+
+-------------------------------------------------------
+## External links
+
+ * [Awesome Sysadmin](https://github.com/n1trux/awesome-sysadmin) -  A curated list of amazingly awesome open source sysadmin resources.
+ * [PRISM Break](https://prism-break.org/en/), [Privacytools.io](https://www.privacytools.io/) - Mobile, computer & server privacy-minded applications
+ * [Self-hostable software on alternativeTo.net](https://alternativeto.net/?platform=self-hosted&sort=likes)
 
 
 -------------------------------------------------------
