@@ -96,10 +96,10 @@ Table of Contents
 
 ## Calendar and Address Books
 
-    * [AgenDAV](http://agendav.org/) - Multilanguage CalDAV web client with a rich AJAX interface and shared calendars support
-    * [Baïkal](http://baikal.codr.fr/) - Lightweight CalDAV+CardDAV server
-    * [calypso](http://keithp.com/calypso/) - a python-based CalDAV/CardDAV server
-    * [Radicale](http://radicale.org/) - A Simple Calendar and Contact Server
+  * [AgenDAV](http://agendav.org/) - Multilanguage CalDAV web client with a rich AJAX interface and shared calendars support
+  * [Baïkal](http://baikal.codr.fr/) - Lightweight CalDAV+CardDAV server
+  * [calypso](http://keithp.com/calypso/) - a python-based CalDAV/CardDAV server
+  * [Radicale](http://radicale.org/) - A Simple Calendar and Contact Server
 
 ## Communication Systems
 
