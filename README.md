@@ -98,6 +98,7 @@ Table of Contents
 ## Communication Systems
 
   * [Cypht](http://cypht.org/index.html) - A feed reader for your email accounts - `GPL` 
+  * [ejabberd](http://www.ejabberd.im) - A robust, scalable, and extensible XMPP server - `GPL` `Erlang`
   * [HipChat](https://www.atlassian.com/software/hipchat) `⊘ Proprietary` - A team chat solution with 1:1 chat audio and video, third party integration and more `PHP + Python`
   * [Metronome](http://www.lightwitch.org/metronome) – XMPP server forked from Prosody. `MIT`
   * [Node-Chat](https://github.com/IgorAntun/node-chat) - A not-so-basic open-source chat with admin features. - `MIT`
