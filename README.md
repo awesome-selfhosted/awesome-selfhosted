@@ -275,7 +275,7 @@ CMS are a practical way to setup a website with many features. CMS often come wi
   * [mpd](http://www.musicpd.org/) - Daemon to remotely play music, stream music, handle and organize playlists. Many clients available. `GPLv2` `C++`
   * [Sonerezh](https://www.sonerezh.bzh/) - A self-hosted, web-based application for stream your music, everywhere. ([Demo](https://www.sonerezh.bzh/demo/), [Documentation](https://www.sonerezh.bzh/docs/), [Source code](https://github.com/sonerezh/sonerezh)) `GPLv3` `PHP`
   * [Subsonic](http://subsonic.org/) - Open-source web-based media streamer and jukebox ([Source code](https://github.com/EugeneKay/subsonic)) `GPLv3` `Java`
-
+  * [Groove Basin](http://groovebasin.com/) - A music player server with a web-based user interface inspired by Amarok 1.4 ([Source code](https://github.com/andrewrk/groovebasin)) `MIT` `Nodejs`
 
 
 
