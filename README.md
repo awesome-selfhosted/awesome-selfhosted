@@ -301,12 +301,12 @@ CMS are a practical way to setup a website with many features. CMS often come wi
 
 ## Pastebins
 
- * [0bin](https://github.com/sametmax/0bin) -  Client side encrypted pastebin `WTFPL` `Python`
-    * [cryptonote](https://cryptonote.me/) - A simple open source web application that lets users encrypt and share messages that can only be read once ([Source code](https://github.com/alainmeier/cryptonote))
-    * [hastebin](http://hastebin.com/about.md) - open source pastebin written in node.js ([Source code](https://github.com/seejohnrun/haste-server))
-    * [snipt](https://snipt.net/) -  Long-term memory for coders. Share and store code snippets  ([Source code](https://github.com/nicksergeant/snipt/))
-    * [Stikked](https://github.com/claudehohl/Stikked) - An advanced and beautiful pastebin written in PHP
-    *[tastebin](https://github.com/andreineculau/tastebin) - Updated version of hastebin plus additional features `Apache` `nodejs`
+  * [0bin](https://github.com/sametmax/0bin) -  Client side encrypted pastebin `WTFPL` `Python`
+  * [cryptonote](https://cryptonote.me/) - A simple open source web application that lets users encrypt and share messages that can only be read once ([Source code](https://github.com/alainmeier/cryptonote))
+  * [hastebin](http://hastebin.com/about.md) - open source pastebin written in node.js ([Source code](https://github.com/seejohnrun/haste-server))
+  * [snipt](https://snipt.net/) -  Long-term memory for coders. Share and store code snippets  ([Source code](https://github.com/nicksergeant/snipt/))
+  * [Stikked](https://github.com/claudehohl/Stikked) - An advanced and beautiful pastebin written in PHP
+  * [tastebin](https://github.com/andreineculau/tastebin) - Updated version of hastebin plus additional features `Apache` `nodejs`
 
 ## Photo and Video Galleries
 
