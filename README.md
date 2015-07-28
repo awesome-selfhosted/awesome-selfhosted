@@ -12,25 +12,25 @@ Table of Contents
 - [Analytics](#analytics)
 - [Automation](#automation)
 - [Blogging Platforms](#blogging-platforms)
-- [Bug and Task Trackers](#bug-and-task-trackers)
+- [Bookmarks & Link Sharing](#bookmarks--link-sharing)
 - [Calendar and Address Books](#calendar-and-address-books)
 - [Communication Systems](#communication-systems)
 - [Content Management Systems (CMS)](#content-management-systems-cms)
 - [Download Tools](#download-tools)
+- [Federated Identity/Authentication](#federated-identityauthentication)
 - [Feed Readers](#feed-readers)
 - [File Sharing and Synchronization](#file-sharing-and-synchronization)
 - [Games](#games)
 - [Gateways](#gateways)
 - [GPS tracking](#gps-tracking)
 - [Groupware](#groupware)
-- [Link Sharing](#link-sharing)
 - [Maps](#maps)
 - [Media Streaming](#media-streaming)
 - [Mind Maps](#mind-maps)
-- [Money and Budgeting](#money-and-budgeting)
+- [Money, Budgeting and Management](#money-budgeting-and-management)
 - [Monitoring and Administration](#monitoring-and-administration)
 - [Music Streaming](#music-streaming)
-- [Note-taking](#note-taking)
+- [Note-taking & Editors](#note-taking--editors)
 - [Office Suites](#office-suites)
 - [Password Managers](#password-managers)
 - [Pastebins](#pastebins)
@@ -40,12 +40,11 @@ Table of Contents
 - [Read it Later Lists](#read-it-later-lists)
 - [Search Engines](#search-engines)
 - [Social Networks](#social-networks)
-- [Software Development Platforms](#software-development-platforms)
-- [Static site generators](#static-site-generators)
-- [Text Editors](#text-editors)
 - [URL Shorteners](#url-shorteners)
 - [Wikis](#wikis)
+- [Self-hosting Solutions](#self-hosting-solutions)
 - [List of Licenses](#list-of-licenses)
+- [External links](#external-links)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -113,7 +112,8 @@ Table of Contents
   * [Tox](https://tox.im/) -  A distributed, secure messenger with audio and video chat capabilities.
   * [Kamailio](http://www.kamailio.org/w/) - Modular SIP server (registrar/proxy/router/etc)
    * [Ostel](https://dev.guardianproject.info/projects/ostel/wiki/Server_Documentation) - Secure SIP telephony setup with ZRTP encryption
-  * [Mumble](http://wiki.mumble.info/wiki/Main_Page) - low-latency, high quality voice chat software 
+  * [Mumble](http://wiki.mumble.info/wiki/Main_Page) - low-latency, high quality voice chat software
+  * [mailcow](https://github.com/andryyy/mailcow) - Mail server suite based on Dovecot, Postfix and other open source software, that provides a modern Web UI for administration. `GPL`
 
 
 
@@ -157,8 +157,7 @@ See also [Static Site Generators](#static-site-generators)
   * [Creaky Coot](https://github.com/piero-la-lune/Creaky-Coot) - Minimalist and responsive RSS reader and links saver
   * [Feedbin](https://feedbin.me) - a simple, fast and nice looking RSS reader. ([Source code](https://github.com/feedbin/feedbin))
   * [FeedHQ](https://feedhq.org/) - FeedHQ is a web-based feed reader ([Source code](https://github.com/feedhq/feedhq))
-  * [Fresh RSS](http://freshrss.org/) - A free, self-hostable RSS aggregator. - `AGPLv3`
-  * [FreshRSS](http://freshrss.org/) - A self-hostable RSS feed aggregator ([Demo](http://demo.freshrss.org/i/), [Source code](https://github.com/marienfressinaud/FreshRSS))
+  * [FreshRSS](http://freshrss.org/) - A self-hostable RSS feed aggregator ([Demo](http://demo.freshrss.org/i/), [Source code](https://github.com/marienfressinaud/FreshRSS)) - `AGPLv3`
   * [gritttt-rss](http://gritttt-rss.nicolashoening.de/) - More features for Tiny Tiny RSS [Source code](https://github.com/nhoening/gritttt-rss)
   * [Kriss Feed](http://tontof.net/kriss/feed/) - A simple and smart (or stupid) feed reader ([Demo](http://tontof.net/feed/), [Source code](https://github.com/tontof/kriss_feed/))
   * [Leed](http://projet.idleman.fr/leed/) - Leed (for Light Feed) is a Free and minimalist RSS aggregator ([Source code](https://github.com/ldleman/Leed))
@@ -170,8 +169,7 @@ See also [Static Site Generators](#static-site-generators)
   * [Reader-Self](http://readerself.com/) Self-hosted rss reader (php / mysql or sqlite) - Google Reader alternative ([Source code](https://github.com/readerself/readerself))
   * [Readr](https://github.com/pabloprieto/Readr) - A clean & simple, self-hosted RSS reader
   * [RSSminer](http://rssminer.net/) -An online rss reader written in clojure & javascript & java ([Source code](https://github.com/shenfeng/rssminer))
-  * [selfoss](http://selfoss.aditu.de/) - Basic web-based Feedreader - `AGPLv3`
-  * [Selfoss](http://selfoss.aditu.de/) - The new multipurpose rss reader, live stream, mashup, aggregation web application ([Source code](https://github.com/SSilence/selfoss))
+  * [Selfoss](http://selfoss.aditu.de/) - The new multipurpose rss reader, live stream, mashup, aggregation web application ([Source code](https://github.com/SSilence/selfoss)) - `AGPLv3`
   * [Stringer](https://github.com/swanson/stringer) - A work-in-progress self-hosted, anti-social RSS reader.
   * [Tiny Tiny RSS](https://tt-rss.org/redmine/projects/tt-rss/wiki) - Open source web-based news feed (RSS/Atom) reader and aggregator. ([Demo](http://tt-rss.org/demo/), [Public instance](http://framanews.org/)) - `GPLv3`
     * [RelatedSoftware - Tiny Tiny RSS](http://tt-rss.org/redmine/projects/tt-rss/wiki/RelatedSoftware) - (mobile applications, browser plugins...)
@@ -196,13 +194,13 @@ See also [Static Site Generators](#static-site-generators)
   * [Bittorrent Sync](https://www.getsync.com/) `⊘ Proprietary` - BitTorrent Sync by BitTorrent, Inc is a proprietary peer-to-peer file synchronisation tool.
   * [Syncthing](http://syncthing.net/) - Syncthing is an open source peer-to-peer file synchronisation tool ([Source code](https://github.com/syncthing/syncthing)) - `MPL 2.0`
   * [Git Annex](http://git-annex.branchable.com/assistant/quickstart/) - File synchronization between computers, servers, external drives...
-  * [Seafile](http://seafile.com/en/home/) - File Syncing and Collaboration for Teams
   * [SparkleShare](http://sparkleshare.org/) - Self hosted, instant, secure file sync
   * [Syncany](https://www.syncany.org/) - Secure file sync software for arbitrary storage backends - An open-source cloud storage and filesharing application. Securely synchronize your files to any kind of storage!
   * [Tahoe-LAFS](https://www.tahoe-lafs.org/trac/tahoe-lafs) - Tahoe-LAFS is a Free and Open decentralized cloud storage system. It distributes your data across multiple servers. Even if some of the servers fail or are taken over by an attacker, the entire file store continues to function correctly, preserving your privacy and security.
   * [ownCloud](https://owncloud.org/) - All-in-one solution for saving and sharing files, photos, music,... - `AGPLv3`
-  * [seafile](http://www.seafile.com/en/home/) - File hosting and sharing solution primary for teams and organizations. - `GPLv2`
+  * [Seafile](http://www.seafile.com/en/home/) - File hosting and sharing solution primary for teams and organizations. - `GPLv2`
   * [Z-Push](https://z-push.org/) - an implementation of Microsoft’s [ActiveSync](https://en.wikipedia.org/wiki/ActiveSync) protocol 
+
 
 ## Games
 
