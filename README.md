@@ -18,7 +18,7 @@ Table of Contents
 - [Content Management Systems (CMS)](#content-management-systems-cms)
 - [Download Tools](#download-tools)
 - [Feed Readers](#feed-readers)
-- [File Sharing and Synchronization](#file-sharing)
+- [File Sharing and Synchronization](#file-sharing-and-synchronization)
 - [Games](#games)
 - [Gateways](#gateways)
 - [GPS tracking](#gps-tracking)
