@@ -62,7 +62,7 @@ Table of Contents
 
 ## Blogging Platforms
 
-  * **[WeblogMatrix](http://www.weblogmatrix.org/) - Blogging platforms comparator.**
+  * **[WeblogMatrix](http://www.weblogmatrix.org/) - Blogging platforms comparator**
   * [Anchor CMS](http://anchorcms.com/) -  Anchor is a free, lightweight, faster-than-a-bullet, simple blogging system, made for art–directed posts. ([Source code](https://github.com/anchorcms/anchor-cms)) `GPLv3` `PHP`
   * [Blogotext](http://lehollandaisvolant.net/blogotext/en/) - a free blog-engine written in PHP and using SQLite. This offers you both an unmatched simplicity during installation and great performances. ([Source code](https://github.com/timovn/blogotext)) `MIT` `PHP`
   * [blosxom](http://blosxom.sourceforge.net/) -  a lightweight yet feature-packed weblog application designed from the ground up with simplicity, usability, and interoperability in mind. `MIT` `Perl`
@@ -80,7 +80,7 @@ Table of Contents
 
   * [Bookie](https://github.com/bookieio/Bookie) - Python based delicious.com replacement ([Firefox addon](https://github.com/bookieio/bookie-firefox), [Demo](http://bmark.us/), [Documentation](http://docs.bmark.us/)
   * [Firefox Accounts Server](https://docs.services.mozilla.com/howtos/run-fxa.html)
-   * [Firefox Sync Server](https://docs.services.mozilla.com/howtos/run-sync-1.5.html) - Sync Firefox bookmarks, passwords, history, tabs, preferences...
+   * [Firefox Sync Server](https://docs.services.mozilla.com/howtos/run-sync-1.5.html) - Sync Firefox bookmarks, passwords, history, tabs, preferences
   * [Lobsters](https://lobste.rs) - Run your own link aggregation site - ([Source code](https://github.com/jcs/lobsters))
   * [Pinry](http://getpinry.com/) - The tiling image board system for people who want to save, tag, and share images, videos, and webpages. ([Demo](http://demo.getpinry.com/), [Source code](https://github.com/pinry/pinry))
   * [semanticscuttle](http://semanticscuttle.sourceforge.net/) - a social bookmarking tool experimenting with features like structured tags and collaborative tag descriptions.
@@ -111,7 +111,7 @@ Table of Contents
   * [mailcow](https://github.com/andryyy/mailcow) - Mail server suite based on Dovecot, Postfix and other open source software, that provides a modern Web UI for administration. `GPL`
   * [Metronome](http://www.lightwitch.org/metronome) – XMPP server forked from Prosody. `Lua` `MIT`
   * [Mumble](http://wiki.mumble.info/wiki/Main_Page) - low-latency, high quality voice chat software `BSD` `C++`
-  * [Node-Chat](https://github.com/IgorAntun/node-chat) - A not-so-basic open-source chat with admin features. - `MIT`
+  * [Node-Chat](https://github.com/IgorAntun/node-chat) - A not-so-basic open-source chat with admin features. - `MIT` `Nodejs`
   * [OpenFire](http://www.igniterealtime.org/projects/openfire/) - instant messaging (XMPP) and groupchat server `Java` `Apache 2.0`
   * [Ostel](https://dev.guardianproject.info/projects/ostel/wiki/Server_Documentation) - Secure SIP telephony setup with ZRTP encryption `GPLv3`
   * [Prosody](http://prosody.im/) – Lightweight XMPP server `Lua` `MIT`
@@ -178,7 +178,7 @@ CMS are a practical way to setup a website with many features. CMS often come wi
   * [Selfoss](http://selfoss.aditu.de/) - The new multipurpose rss reader, live stream, mashup, aggregation web application ([Source code](https://github.com/SSilence/selfoss)) - `AGPLv3`
   * [Stringer](https://github.com/swanson/stringer) - A work-in-progress self-hosted, anti-social RSS reader.
   * [Tiny Tiny RSS](https://tt-rss.org/redmine/projects/tt-rss/wiki) - Open source web-based news feed (RSS/Atom) reader and aggregator. ([Demo](http://tt-rss.org/demo/), [Public instance](http://framanews.org/)) - `GPLv3`
-    * [RelatedSoftware - Tiny Tiny RSS](http://tt-rss.org/redmine/projects/tt-rss/wiki/RelatedSoftware) - (mobile applications, browser plugins...)
+    * [RelatedSoftware - Tiny Tiny RSS](http://tt-rss.org/redmine/projects/tt-rss/wiki/RelatedSoftware) - (mobile applications, browser plugins)
     * [ttrss-mobile](https://github.com/mboinet/ttrss-mobile) - A mobile webapp for Tiny Tiny RSS
 
 
@@ -189,15 +189,15 @@ CMS are a practical way to setup a website with many features. CMS often come wi
   * [Coquelicot](https://coquelicot.potager.org/) - Coquelicot is a “one-click” file sharing web application with a focus on protecting users’ privacy. - `AGPLv3`
   * [Dropcenter](http://projet.idleman.fr/dropcenter/) - Upload files by simple drag-n-drop.
   * [eXtplorer](http://extplorer.sourceforge.net/) - A PHP- and JavaScript- based File Manager
-  * [Git Annex](http://git-annex.branchable.com/assistant/quickstart/) - File synchronization between computers, servers, external drives...
+  * [Git Annex](http://git-annex.branchable.com/assistant/quickstart/) - File synchronization between computers, servers, external drives
   * [img.bi](https://github.com/imgbi/img.bi) - img.bi is a secure image hosting. Images are encrypted using AES-256 with random key in browser before upload.
   * [instant.io](https://github.com/feross/instant.io) - Streaming file transfer over WebTorrent ([Demo](https://instant.io)) `MIT` `Nodejs`
-  * [Jirafeau](https://gitlab.com/mojo42/Jirafeau/wikis/home) - Jirafeau is a web site permitting to upload a file in a simple way and give an unique link to it. (Demo](http://jirafeau.net/))
+  * [Jirafeau](https://gitlab.com/mojo42/Jirafeau/wikis/home) - Jirafeau is a web site permitting to upload a file in a simple way and give an unique link to it. ([Demo](http://jirafeau.net/))
   * [Jyraphe](http://home.gna.org/jyraphe/) - Jyraphe is a web application of file repository, easy to install and easy to use.
   * [lutim](https://github.com/ldidry/lutim) - Let's Upload That Image !
   * [Mediacrush](https://mediacru.sh/) - a website you can upload images, audio, and video to, and receive a link to share it with your friends ([Source code](https://github.com/MediaCrush/MediaCrush))
   * [OnionShare](https://onionshare.org/) - securely and anonymously share a file of any size.
-  * [ownCloud](https://owncloud.org/) - All-in-one solution for saving and sharing files, photos, music,... - `AGPLv3`
+  * [ownCloud](https://owncloud.org/) - All-in-one solution for saving and sharing files, photos, music- `AGPLv3`
   * [Pomf](https://github.com/nokonoko/Pomf) -  Simple file uploading and sharing, source for the now shut down site Pomf.se `MIT` `PHP/Nodejs`
   * [Pydio](https://pyd.io/) - Turn any web server into a powerful file management system and an alternative to mainstream cloud storage providers.
   * [Seafile](http://www.seafile.com/en/home/) - File hosting and sharing solution primary for teams and organizations. - `GPLv2`
@@ -297,8 +297,9 @@ CMS are a practical way to setup a website with many features. CMS often come wi
 
 ## Password Managers
 
+ * [Keepass](http://keepass.info) - Free, open source, light-weight and easy-to-use password manager. `GPLv2` `C#`
  * [Rattic](http://rattic.org/) - Password Management for Humans ([Source code](https://github.com/tildaslash/RatticWeb))
-
+ 
 ## Pastebins
 
   * [0bin](https://github.com/sametmax/0bin) -  Client side encrypted pastebin `WTFPL` `Python`
@@ -314,7 +315,7 @@ CMS are a practical way to setup a website with many features. CMS often come wi
   * [Gallery](http://galleryproject.org/) -  The simplest, most intuitive way to host your photos on your website ([Source code](https://github.com/gallery/gallery3))
   * [Lychee](http://lychee.electerious.com/) - an open source grid and album based photo-management-system ([Source code](https://github.com/electerious/Lychee)) - `MIT`
   * [Mediagoblin](http://mediagoblin.org) -  a free software media publishing platform that anyone can run. You can think of it as a decentralized alternative to Flickr, YouTube, SoundCloud, etc
-  * [MinigalNano](https://github.com/sebsauvage/MinigalNano) - MinigalNano is a very simple image gallery. It adheres to the KISS principle and is very easy to install. MinigalNano does not have a web admin interface: You just upload your images in the photo folder on your server (using FTP, SFTP...) ([Demo](http://boards.tomcanac.com/))
+  * [MinigalNano](https://github.com/sebsauvage/MinigalNano) - MinigalNano is a very simple image gallery. It adheres to the KISS principle and is very easy to install. MinigalNano does not have a web admin interface: You just upload your images in the photo folder on your server (using FTP, SFTP) ([Demo](http://boards.tomcanac.com/))
   * [phog](https://github.com/hillman/phog) - Static photo gallery generator with S3 uploader
   * [Photofloat](http://blog.zx2c4.com/567) - A Web 2.0 Photo Gallery Done Right via Static JSON & Dynamic Javascript ([Demo](http://photos.jasondonenfeld.com/))
   * [PhotoLight](https://github.com/thibaud-rohmer/PhotoLight) - The easiest photo gallery there is
@@ -370,9 +371,9 @@ CMS are a practical way to setup a website with many features. CMS often come wi
 
   * [Confluence](https://www.atlassian.com/software/confluence) `⊘ Proprietary` - A team collaboration software `Java`
   * [Crucible](https://www.atlassian.com/software/crucible/overview) `⊘ Proprietary` - A peer code review application `Java`
-  * [Fossil](https://www.fossil-scm.org/index.html/doc/trunk/www/index.wiki) `BSD` - Distributed version control system featuring wiki and bug tracker - `C`
+  * [Fossil](https://www.fossil-scm.org/index.html/doc/trunk/www/index.wiki)  - Distributed version control system featuring wiki and bug tracker - `BSD` `C`
   * [gitbucket](http://takezoe.github.io/gitbucket/) - The easily installable GitHub clone powered by Scala - ([Source code](https://github.com/takezoe/gitbucket))
-  * [GitLab](http://gitlab.org/) - Self Hosted Git Management Application - GitLab is open source software to collaborate on code. Manage git repositories with fine grained access controls that keep your code secure. Perform code reviews and enhance collaboration with merge requests. Each project can also have an issue tracker and a wiki ([Public instance](https://git.framasoft.org/)
+  * [GitLab](http://gitlab.org/) - Self Hosted Git Management Application - GitLab is open source software to collaborate on code. Manage git repositories with fine grained access controls that keep your code secure. Perform code reviews and enhance collaboration with merge requests. Each project can also have an issue tracker and a wiki ([Public instance](https://git.framasoft.org/))
   * [Gitlist](http://gitlist.org/) - A web-based git repository browser - GitList allows you to browse repositories using your favorite browser, viewing files under different revisions, commit history and diffs. ([Source code](https://github.com/klaussilveira/gitlist))
   * [Gitprep](http://gitprep.org/) - Portable Github clone ([Source code](https://github.com/yuki-kimoto/gitprep), [Demo](http://perlcodesample.sakura.ne.jp/gitprep.cgi))
   * [Gogs](https://github.com/gogits/gogs) - a painless self-hosted Git Service written in Go. ([Demo](http://try.gogits.org))
@@ -388,7 +389,7 @@ CMS are a practical way to setup a website with many features. CMS often come wi
 ### Continuous Integration
 
   * [Bamboo](https://www.atlassian.com/software/bamboo) `⊘ Proprietary` - A continuous integration server `Java`
-  * [Jenkins](https://jenkins-ci.org/) - Continuous Integration Server ([Source Code](https://github.com/jenkinsci/jenkins/) `MIT` `Java`
+  * [Jenkins](https://jenkins-ci.org/) - Continuous Integration Server ([Source Code](https://github.com/jenkinsci/jenkins/)) `MIT` `Java`
 
 ### Bug and Task Trackers
 
@@ -404,19 +405,19 @@ CMS are a practical way to setup a website with many features. CMS often come wi
   * [MantisBT](https://www.mantisbt.org/) - Self hosted bug tracker, fits best for software development - ([Demo](https://www.mantisbt.org/bugs/my_view_page.php)) -  ([Source code](https://github.com/mantisbt/mantisbt)) - `GPLv2`
   * [myTinyTodo](http://www.mytinytodo.net/) - Simple way to manage your todo list in AJAX style. Uses PHP, jQuery, SQLite/MySQL. GTD compliant. `GPL`
   * [Phproject](http://www.phproject.org/) - A high performance full-featured project management system ([Source code](https://github.com/Alanaktion/phproject), [Demo](http://demo.phproject.org/)) `GPLv3`
-  * [Redmine](http://www.redmine.org/) - Redmine is a flexible project management web application
+  * [Redmine](http://www.redmine.org/) - Redmine is a flexible project management web application `Ruby` `GPLv2`
   * [Taiga.io](https://taiga.io/) - Your Agile, Free and Open Source Project Management Tool ([Source code](https://github.com/taigaio))
   * [TaskBoard](http://taskboard.matthewross.me/) - A Kanban-inspired app for keeping track of things that need to get done. ([Source code](https://github.com/kiswa/TaskBoard)) `MIT`
   * [Taskfreak](http://www.taskfreak.com/original) - a simple but efficient web based task manager written in PHP. ([Demo](http://demo.taskfreak.com/))
   * [tasks.php](https://github.com/RaymiiOrg/tasks.php) - A simple task/todo list manager `MIT`
   * [Tinyissue](https://github.com/mikelbring/tinyissue) - Simple Issue Tracking for Teams `MIT`
-  * [Tracks](http://getontracks.org/) -  a web-based application to help you implement David Allen’s [Getting Things Done™](http://wikipedia.org/wiki/Getting_Things_Done) methodology. - ` GPL V2.0`
+  * [Tracks](http://getontracks.org/) -  a web-based application to help you implement David Allen’s [Getting Things Done™](http://wikipedia.org/wiki/Getting_Things_Done) methodology. - ` GPLV2`
 
 
 ## URL Shorteners
 
   * [Lstu](https://github.com/ldidry/lstu) - _Let's SHorten That Url_ - Lightweight URL shortener
-  * [Polr](http://project.polr.me/) - A modern, minimalist, modular, and lightweight URL shortener ([Source code](https://github.com/Cydrobolt/polr)
+  * [Polr](http://project.polr.me/) - A modern, minimalist, modular, and lightweight URL shortener ([Source code](https://github.com/Cydrobolt/polr))
   * [YOURLS](http://yourls.org/) - YOURLS is a set of PHP scripts that will allow you to run Your Own URL Shortener. Features include password protection, URL customization, bookmarklets, statistics, API, plugins, jsonp ([Source code](https://github.com/YOURLS/YOURLS/), [Documentation](https://github.com/YOURLS/YOURLS/wiki)) - `MIT`
 
 
@@ -426,15 +427,15 @@ CMS are a practical way to setup a website with many features. CMS often come wi
   * [Blazekiss](https://github.com/ldleman/blazekiss) - BlazeKiss is a KISS-based wiki (Keep It Simple, Stupid) - simplicity and functionality comes before all.
   * [Codex](http://codex.caffeinated.ninja/codex/master) - Codex is a simple file-based Markdown documentation platform built on top of Laravel. - `MIT`
   * [commonplace](https://github.com/fredoliveira/commonplace) - A server for your markdown files. Give it a directory, and Commonplace gives you a url, pretty pages, and quick editing.
-  * [daux.io](https://github.com/justinwalsh/daux.io) - Daux.io is an documentation generator that uses a simple folder structure and Markdown files to create custom documentation on the fly. It helps you create great looking documentation in a developer friendly way.
+  * [daux.io](https://github.com/justinwalsh/daux.io) - Daux.io is an documentation generator that uses a simple folder structure and Markdown files to create custom documentation on the fly. It helps you create great looking documentation in a developer friendly way. `MIT`
   * [Docstore](http://haldean.org/) - A basic site for hosting static documents - docstore is a simple way to serve Markdown files without any server-side processing, and without requiring you (as the author) to recompile every time you change an article. It consists of a very simple JS script that makes an ajax request to your server, runs a Markdown processor on what it finds, and then displays the results. Clone the repository and add articles in the text/ directory to get started. ([Source code](https://github.com/haldean/docstore))
   * [Dokuwiki](http://www.splitbrain.org/projects/dokuwiki) - An easy to use, lightweight, standards-compliant wiki engine with a simple syntax allowing reading the data outside the wiki. All data is stored in plain files, therefore no database is required. - `GPL`
-  * [Gitit](https://github.com/jgm/gitit) - A wiki program that stores pages and uploaded files in a git repository, which can then be modified using the VCS command line tools or the wiki's web interface. Supported markups include pandoc's extended version of markdown, reStructuredText, LaTeX, and HTML. Pages can be exported in a number of different formats, including LaTeX, RTF, OpenOffice ODT, and MediaWiki markup. Other features include: plugins, syntax highlighting, caching, ATOM feeds...
+  * [Gitit](https://github.com/jgm/gitit) - A wiki program that stores pages and uploaded files in a git repository, which can then be modified using the VCS command line tools or the wiki's web interface. Supported markups include pandoc's extended version of markdown, reStructuredText, LaTeX, and HTML. Pages can be exported in a number of different formats, including LaTeX, RTF, OpenOffice ODT, and MediaWiki markup. Other features include: plugins, syntax highlighting, caching, ATOM feeds
   * [Gruik](http://gruik.io/) - An open-source markdown note-taking web app ([Source code](https://github.com/grena/gruik))
   * [markdown-tree](https://github.com/mil/markdown-tree) - serve a hierarchy / tree directory of markdown files. Use intended for small sites built in markdown
   * [MdWiki](https://dynalon.github.io/mdwiki/#!index.md) - a Markdown CMS/Wiki completely built in HTML5/Javascript and runs 100% on the client ([Source code](https://github.com/Dynalon/mdwiki))
   * [Mediawiki](https://www.mediawiki.org/wiki/MediaWiki)
-  * [Olelo/Gitwiki](https://github.com/minad/olelo) - Olelo is a wiki that stores pages in a Git repository, supports many markup styles and has an extensible, hackable architecture! Features: Edit, move or delete pages; Page attribute editor; Support for hierarchical wikis (directory structure); File upload; History, commit and diff view; Locales (Czech, English, French, German); Support for many markup languages (Creole, Markdown, Textile, ...); RSS/Atom changelog for whole wiki or pages; Section editing for Creole; Embedded LaTeX formulas; Syntax highlighting; Image resizing, SVG to PNG/JPEG conversion; Auto-generated table of contents; Previews; View pages as S5 presentation; Privacy features: Access control lists, Private wiki, Read-only wiki. ([Demo](http://www.gitwiki.org/)) 
+  * [Olelo/Gitwiki](https://github.com/minad/olelo) - Olelo is a wiki that stores pages in a Git repository, supports many markup styles and has an extensible, hackable architecture! Features: Edit, move or delete pages; Page attribute editor; Support for hierarchical wikis (directory structure); File upload; History, commit and diff view; Locales (Czech, English, French, German); Support for many markup languages (Creole, Markdown, Textile); RSS/Atom changelog for whole wiki or pages; Section editing for Creole; Embedded LaTeX formulas; Syntax highlighting; Image resizing, SVG to PNG/JPEG conversion; Auto-generated table of contents; Previews; View pages as S5 presentation; Privacy features: Access control lists, Private wiki, Read-only wiki. ([Demo](http://www.gitwiki.org/)) 
   * [Raneto](http://raneto.com/) - Raneto is an open source Knowledgebase platform that uses static Markdown files to power your Knowledgebase - `MIT`
   * [Realms](https://github.com/scragg0x/realms-wiki) - a git-backed wiki inspired by Gollum
   * [Redaxscript](http://redaxscript.com/) - Ultra lightweight website engine
