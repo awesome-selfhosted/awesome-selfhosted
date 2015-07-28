@@ -103,7 +103,7 @@ Table of Contents
   * [Cypht](http://cypht.org/index.html) - A feed reader for your email accounts - `GPL` 
   * [ejabberd](http://www.ejabberd.im) - A robust, scalable, and extensible XMPP server - `GPL` `Erlang`
   * [FreeSWITCH](https://freeswitch.org/) - Scalable open source cross-platform telephony platform `MPL` `C`
-  * [HipChat](https://www.atlassian.com/software/hipchat) `⊘ Proprietary` - A team chat solution with 1:1 chat audio and video, third party integration and more `PHP + Python`
+  * [HipChat](https://www.atlassian.com/software/hipchat) `⊘ Proprietary` [⛔](https://github.com/Kickball/awesome-selfhosted/pull/36) - A team chat solution with 1:1 chat audio and video, third party integration and more `PHP + Python`
   * [Kaiwa](http://getkaiwa.com) A modern XMPP Web client ([Source code](https://github.com/digicoop/kaiwa))
   * [Kamailio](http://www.kamailio.org/w/) - Modular SIP server (registrar/proxy/router/etc)
   * [Kandan](http://getkandan.com/) – Kandan is an Open Source Alternative to HipChat. - `AGPL`
@@ -452,8 +452,12 @@ CMS are a practical way to setup a website with many features. CMS often come wi
   * [yunohost](https://yunohost.org/) - a server operating system aiming to make self-hosting accessible to everyone. ([Source code](https://github.com/YunoHost)) - `AGPL` `Python/Other`
 
 -------------------------------------------------------
+
+
+
 ## List of Licenses
 
+ * `⛔ Anti-features` -  The software has known important issues , not limited to: data loss, grave security vulnerabilities, leaks data to a third-party.
  * `AGPLv3` - [GNU Affero General Public License 3.0](https://www.gnu.org/licenses/agpl-3.0)
  * `Apache` - [Apache, Version 2.0](http://www.apache.org/licenses/)
  * `BSD` - [FreeBSD License](https://www.freebsd.org/copyright/license.html)
