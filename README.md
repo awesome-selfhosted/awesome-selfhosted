@@ -325,7 +325,7 @@ CMS are a practical way to setup a website with many features. CMS often come wi
   * [Pygmyfoto](https://github.com/dmpop/pygmyfoto) - A crude solution for publishing a photo roll on the web `PHP` 
   * [Shot.io](http://shot.io/) - Mobile optimised photo publishing platform (self-hosted Flickr alternative) ([Source code](https://github.com/AliasIO/Shot.io)) `PHP` `GPLv3`
   * [sigal](https://github.com/saimn/sigal) - yet another simple static gallery generator `Python` `MIT`
-  * [Single File PHP Gallery](http://sye.dk/sfpg/) - is a web gallery in one single PHP file. `PHP` 
+  * [Single File PHP Gallery](http://sye.dk/sfpg/) - `⊘ Proprietary` is a web gallery in one single PHP file. `PHP` 
   * [UberGallery](http://www.ubergallery.net) - UberGallery is an easy to use, simple to manage, web photo gallery. UberGallery does not require a database and supports JPEG, GIF and PNG file types. Simply upload your images and UberGallery will automatically generate thumbnails and output HTML. ([Source code](https://github.com/UberGallery/UberGallery)) `PHP` `MIT`
   * [Zenphoto](http://www.zenphoto.org/) - open-source gallery and CMS project ([Source code](https://github.com/zenphoto/zenphoto))  `PHP` `GPLv2`
 
