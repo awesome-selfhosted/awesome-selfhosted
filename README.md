@@ -318,6 +318,7 @@ CMS are a practical way to setup a website with many features. CMS often come wi
 
   * [CumulusClips](http://cumulusclips.org/) - your own video sharing website with CumulusClips video sharing script. You can build a YouTube clone where users can upload, rate, comment on videos, and much more.  `PHP` `GPLv2` ([Demo](https://tube.devosi.org/))
   * [Gallery](http://galleryproject.org/) -  The simplest, most intuitive way to host your photos on your website ([Source code](https://github.com/gallery/gallery3)) `PHP` `GPLv2`
+  * [Koken](http://koken.me/) - Content management and web site publishing for photographers `PHP` 
   * [Lychee](http://lychee.electerious.com/) - an open source grid and album based photo-management-system ([Source code](https://github.com/electerious/Lychee)) - `PHP` `MIT`
   * [Mediagoblin](http://mediagoblin.org) -  a free software media publishing platform that anyone can run. You can think of it as a decentralized alternative to Flickr, YouTube, SoundCloud, etc `Python` `AGPLv3`
   * [MinigalNano](https://github.com/sebsauvage/MinigalNano) - MinigalNano is a very simple image gallery. It adheres to the KISS principle and is very easy to install. MinigalNano does not have a web admin interface: You just upload your images in the photo folder on your server (using FTP, SFTP) ([Demo](http://boards.tomcanac.com/)) `PHP` `CC BY-SA 3.0`
