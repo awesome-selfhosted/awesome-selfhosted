@@ -319,7 +319,7 @@ CMS are a practical way to setup a website with many features. CMS often come wi
   * [MinigalNano](https://github.com/sebsauvage/MinigalNano) - MinigalNano is a very simple image gallery. It adheres to the KISS principle and is very easy to install. MinigalNano does not have a web admin interface: You just upload your images in the photo folder on your server (using FTP, SFTP) ([Demo](http://boards.tomcanac.com/)) `PHP` `CC BY-SA 3.0`
   * [phog](https://github.com/hillman/phog) - Static photo gallery generator with S3 uploader `Python`
   * [Photofloat](http://blog.zx2c4.com/567) - A Web 2.0 Photo Gallery Done Right via Static JSON & Dynamic Javascript ([Demo](http://photos.jasondonenfeld.com/)) `Javascript` `GPLv2`
-  * [PhotoLight](https://github.com/thibaud-rohmer/PhotoLight) - The easiest photo gallery there is
+  * [PhotoLight](https://github.com/thibaud-rohmer/PhotoLight) - The easiest photo gallery there is `PHP`
   * [Photoshow](http://www.photoshow-gallery.com/) - ([Source code](https://github.com/thibaud-rohmer/PhotoShow)) `Javascript`
   * [Piwigo](http://piwigo.org/) - Photo gallery software for the web, built by an active community of users and developers. - `PHP` `GPLv2`
   * [Pygmyfoto](https://github.com/dmpop/pygmyfoto) - A crude solution for publishing a photo roll on the web `PHP` 
