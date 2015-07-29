@@ -267,6 +267,8 @@ CMS are a practical way to setup a website with many features. CMS often come wi
   * [psdash](https://github.com/Jahaja/psdash) - A linux system information web dashboard using psutils and flask
   * [pyDash](https://github.com/k3oni/pydash) - Small web-based monitoring dashboard for linux ([Demo](http://pydash.hostechs.com/main/) - _admin/admin_)
   * [Reportr](http://www.reportr.io/) - Your life's personal dashboard. ([Source code](https://github.com/Reportr/dashboard))
+  * [sensu](https://sensuapp.org/) - simple monitoring "framework" , checks same as in Nagios `MIT`
+  * [uchiwa](https://uchiwa.io/) - simple dashboard for sensu
 
 
 ## Music Streaming
