@@ -361,11 +361,12 @@ CMS are a practical way to setup a website with many features. CMS often come wi
   * [Elgg](https://www.elgg.org/) - a powerful open source social networking engine - `GPLv2`
   * [Friendica](http://friendica.com/) - Social Communication Server ([Source code](https://github.com/friendica/friendica)) `AGPLv3`
   * [Gnu Social](http://gnu.io/social/) - social communication software for both public and private communications
+  * [Hubzilla](https://github.com/redmatrix/hubzilla) - Hubzilla is RedMatrix new name
   * [Isso](http://posativ.org/isso/) - a lightweight commenting server written in Python and JavaScript. It aims to be a drop-in replacement for Disqus ([Source code](https://github.com/posativ/isso)) `Python` `MIT`
   * [Jappix](https://jappix.com/) - Jappix is an open social platform, that let's you easily get or keep in touch with everyone.
   * [Movim](https://movim.eu/) - A brand new social network, full of awesome features in a modern and smart interface
   * [Pump.io](http://pump.io/) - stream server that does most of what people really want from a social network ([Source code](https://github.com/e14n/pump.io))
-  * [Red](http://redmatrix.me/) - complete decentralised publishing, sharing, and communications system ([Source code](https://github.com/friendica/red))
+  * [RedMatrix](http://redmatrix.me/) - complete decentralised publishing, sharing, and communications system ([Source code](https://github.com/redmatrix/redmatrix))
   * [twister](http://twister.net.co/) -  P2P microblogging platform
 
 ### Project Management
