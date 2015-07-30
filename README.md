@@ -164,7 +164,7 @@ CMS are a practical way to setup a website with many features. CMS often come wi
   * [Creaky Coot](https://github.com/piero-la-lune/Creaky-Coot) - Minimalist and responsive RSS reader and links saver
   * [Feedbin](https://feedbin.me) - a simple, fast and nice looking RSS reader. ([Source code](https://github.com/feedbin/feedbin))
   * [FeedHQ](https://feedhq.org/) - FeedHQ is a web-based feed reader ([Source code](https://github.com/feedhq/feedhq))
-  * [Fever](http://feedafever.com/) `⊘ Proprietary` - Self-hosted feed aggregator that can sort items by popularity
+  * [Fever](http://feedafever.com/) `⊘ Proprietary` - Self-hosted feed aggregator that can sort items by popularity `PHP`
   * [FreshRSS](http://freshrss.org/) - A self-hostable RSS feed aggregator ([Demo](http://demo.freshrss.org/i/), [Source code](https://github.com/FreshRSS/FreshRSS), [Mobile app](https://github.com/Alkarex/EasyRSS)) - `AGPLv3`
   * [gritttt-rss](http://gritttt-rss.nicolashoening.de/) - More features for Tiny Tiny RSS [Source code](https://github.com/nhoening/gritttt-rss)
   * [Kriss Feed](http://tontof.net/kriss/feed/) - A simple and smart (or stupid) feed reader ([Demo](http://tontof.net/feed/), [Source code](https://github.com/tontof/kriss_feed/))
