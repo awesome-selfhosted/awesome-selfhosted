@@ -366,6 +366,7 @@ CMS are a practical way to setup a website with many features. CMS often come wi
   * [PhotoLight](https://github.com/thibaud-rohmer/PhotoLight) - The easiest photo gallery there is `PHP` `GPLv3`
   * [Photoshow](http://www.photoshow-gallery.com/) - ([Source code](https://github.com/thibaud-rohmer/PhotoShow)) `Javascript` `GPLv3`
   * [Piwigo](http://piwigo.org/) - Photo gallery software for the web, built by an active community of users and developers. - `PHP` `GPLv2`
+  * [Plumi](http://blog.plumi.org/) - create your own sophisticated video-sharing site ([Source code](https://github.com/plumi/plumi.app)) `GPLv2` `Python`
   * [Pygmyfoto](https://github.com/dmpop/pygmyfoto) - A crude solution for publishing a photo roll on the web `PHP` 
   * [Shot.io](http://shot.io/) - Mobile optimised photo publishing platform (self-hosted Flickr alternative) ([Source code](https://github.com/AliasIO/Shot.io)) `PHP` `GPLv3`
   * [sigal](https://github.com/saimn/sigal) - yet another simple static gallery generator `Python` `MIT`
