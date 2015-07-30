@@ -14,7 +14,7 @@ Table of Contents
 - [Blogging Platforms](#blogging-platforms)
 - [Bookmarks & Link Sharing](#bookmarks--link-sharing)
 - [Calendar and Address Books](#calendar-and-address-books)
-- [Messaging](#messaging)
+- [Communication systems](#communication-systems)
   - [Email](#email)
   - [XMPP](#xmpp)
   - [VoIP](#voip)
@@ -110,7 +110,7 @@ See also [Static Site Generators](#static-site-generators) and  [Content Managem
   * [DAViCal](http://www.davical.org/) - a server for calendar sharing (CalDAV)
   * [Radicale](http://radicale.org/) - A Simple Calendar and Contact Server
 
-## Messaging
+## Communication systems
 
 ### Email
   * [Cypht](http://cypht.org/index.html) - A feed reader for your email accounts - `GPL` 
