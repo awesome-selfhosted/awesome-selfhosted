@@ -123,7 +123,7 @@ See also [Static Site Generators](#static-site-generators) and  [Content Managem
   * [Kaiwa](http://getkaiwa.com) A modern XMPP Web client ([Source code](https://github.com/digicoop/kaiwa))
   * [Kontalk](http://kontalk.org/) – Kontalk is an Open Source Messenger, similiar to WhatsApp (app for android only currently), including end-to-end encryption, server is based on Tigase XMPP Server - ([Source code](https://github.com/kontalk)) - `GPLv3`
   * [Metronome](http://www.lightwitch.org/metronome) – XMPP server forked from Prosody. `Lua` `MIT`
-  * [OpenFire](http://www.igniterealtime.org/projects/openfire/) - instant messaging (XMPP) and groupchat server `Java` `Apache 2.0`
+  * [OpenFire](http://www.igniterealtime.org/projects/openfire/) - instant messaging (XMPP) and groupchat server `Java` `Apache`
   * [Prosody](http://prosody.im/) – Lightweight XMPP server `Lua` `MIT`
 
 
@@ -137,7 +137,7 @@ See also [Static Site Generators](#static-site-generators) and  [Content Managem
 
 ### Custom
   * [GNUNet](https://gnunet.org/) - free software framework for decentralized, peer-to-peer networking `C/Java` `GPLv3`
-  * [HipChat](https://www.atlassian.com/software/hipchat) `⊘ Proprietary` **[☢](https://github.com/Kickball/awesome-selfhosted/pull/36)** - A team chat solution with 1:1 chat audio and video, third party integration and more `PHP + Python`
+  * [HipChat](https://www.atlassian.com/software/hipchat) `⊘ Proprietary` **[☢](https://github.com/Kickball/awesome-selfhosted/pull/36)** - A team chat solution with 1:1 chat audio and video, third party integration and more `PHP/Python`
   * [Kandan](http://getkandan.com/) – Kandan is an Open Source Alternative to HipChat. - `AGPL`
   * [Mumble](http://wiki.mumble.info/wiki/Main_Page) - low-latency, high quality voice/text chat software `BSD` `C++`
   * [Node-Chat](https://github.com/IgorAntun/node-chat) - A not-so-basic open-source chat with admin features. - `MIT` `Nodejs`
@@ -271,7 +271,7 @@ CMS are a practical way to setup a website with many features. CMS often come wi
 
 ## Maps & GPS
 
-  * [Traccar](https://www.traccar.org/) - Java application to track GPS positions. Supports loads of tracking devices and protocols, has an Android and iOS App. Has a web interface to view your trips -  ([Demo](http://demo.traccar.org/), [Source code](https://github.com/tananaev?tab=repositories)) - `Apache 2.0`
+  * [Traccar](https://www.traccar.org/) - Java application to track GPS positions. Supports loads of tracking devices and protocols, has an Android and iOS App. Has a web interface to view your trips -  ([Demo](http://demo.traccar.org/), [Source code](https://github.com/tananaev?tab=repositories)) - `Apache`
   * [Graphhopper](https://graphhopper.com/) -  Fast routing library and server using OpenStreetMap ([Source code](https://github.com/graphhopper/graphhopper))
   * [Openstreetmap](http://www.openstreetmap.org/) - OpenStreetMap is a map of the world, created by people like you and free to use under an open license. ([Source code](https://github.com/openstreetmap/openstreetmap-website))
 
@@ -298,11 +298,11 @@ CMS are a practical way to setup a website with many features. CMS often come wi
 
 ## Monitoring and Administration
 
-  * [Adagios](http://adagios.org/) - Web based Nagios interface for configuration, as well as monitoring (as a replacement to the standard interface), and a REST interface ([Demo](http://demo.adagios.org/), [SourceCode](https://github.com/opinkerfi/adagios), [Documentation](https://github.com/opinkerfi/adagios/wiki)) - `GPL-v3.0` `Python`
+  * [Adagios](http://adagios.org/) - Web based Nagios interface for configuration, as well as monitoring (as a replacement to the standard interface), and a REST interface ([Demo](http://demo.adagios.org/), [SourceCode](https://github.com/opinkerfi/adagios), [Documentation](https://github.com/opinkerfi/adagios/wiki)) - `GPLv3` `Python`
   * [adminer](http://www.adminer.org/) -  Database management in a single PHP file ([Source code](https://github.com/vrana/adminer))
   * [Icinga / Icinga 2](https://www.icinga.org/) - Nagios fork that has since lapped nagios several times. Comes with the possibility of clustered monitoring - ([SourceCode](https://github.com/Icinga)) - `GPLv2`
   * [linux-dash](https://github.com/afaqurk/linux-dash) - A drop-in, low-overhead monitoring web dashboard for a linux machine ([Demo](http://afaq.dreamhosters.com/linux-dash/))
-  * [LibreNMS](http://www.librenms.org/) - Community-based GPL-licensed network monitoring system - `GPL-v3.0`
+  * [LibreNMS](http://www.librenms.org/) - Community-based GPL-licensed network monitoring system - `GPLv3`
   * [Nagios](https://www.nagios.org/) - Industry standard monitoring software, which has a lot of plugins and customisation posibilities. - `GPL`
   * [phpSysInfo](https://phpsysinfo.github.io/phpsysinfo/) - a customizable PHP script that displays information about your system nicely ([Demo](http://phpsysinfo.sourceforge.net/phpsysinfo/index.php?disp=bootstrap))
   * [psdash](https://github.com/Jahaja/psdash) - A linux system information web dashboard using psutils and flask
@@ -353,7 +353,7 @@ CMS are a practical way to setup a website with many features. CMS often come wi
   * [snipt](https://snipt.net/) -  Long-term memory for coders. Share and store code snippets  ([Source code](https://github.com/nicksergeant/snipt/)) `Python` `BSD`
   * [Sticky Notes](http://sayakb.github.io/sticky-notes/) - A powerful open-source pastebin application for effortless code sharing. `PHP` 
   * [Stikked](https://github.com/claudehohl/Stikked) - An advanced and beautiful pastebin written in `PHP` `GPLv3`
-  * [tastebin](https://github.com/andreineculau/tastebin) - Updated version of hastebin plus additional features `Apache` `nodejs`
+  * [tastebin](https://github.com/andreineculau/tastebin) - Updated version of hastebin plus additional features `Apache` `Nodejs`
 
 ## Photo and Video Galleries
 
@@ -447,7 +447,7 @@ CMS are a practical way to setup a website with many features. CMS often come wi
   * [Taskfreak](http://www.taskfreak.com/original) - a simple but efficient web based task manager written in PHP. ([Demo](http://demo.taskfreak.com/))
   * [tasks.php](https://github.com/RaymiiOrg/tasks.php) - A simple task/todo list manager `MIT`
   * [Tinyissue](https://github.com/mikelbring/tinyissue) - Simple Issue Tracking for Teams `MIT`
-  * [Tracks](http://getontracks.org/) -  a web-based application to help you implement David Allen’s [Getting Things Done™](http://wikipedia.org/wiki/Getting_Things_Done) methodology. - ` GPLV2`
+  * [Tracks](http://getontracks.org/) -  a web-based application to help you implement David Allen’s [Getting Things Done™](http://wikipedia.org/wiki/Getting_Things_Done) methodology. - `GPLV2`
 
 ## Static site generators
 
@@ -525,6 +525,7 @@ See https://staticsitegenrators.net/ and https://www.staticgen.com
  * All projects should have their license and main programming language referenced.
  * Non-[free](https://en.wikipedia.org/wiki/Free_software) software must be marked `⊘ Proprietary` next to the title.
  * The syntax for links is ``[Name](http://homepage/) - Short description ([Demo](http://url.to/demo), [Source code](http://url.of/source/code)) `License` `Language` ``
+ * A list of languages and licenses can be obtained using ``egrep --only-matching  '`([^`]+)`'  README.md  | sort | uniq -c | sort -n``
  * The list of contributors can be updated with `git shortlog -sne`
 
 ## License
