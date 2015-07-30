@@ -7,14 +7,19 @@ This is a list of [network services](https://en.wikipedia.org/wiki/Network_servi
 Table of Contents
 =================
 
-<!-- MarkdownTOC -->
+<!-- MarkdownTOC depth=3 -->
 
 - [Analytics](#analytics)
 - [Automation](#automation)
 - [Blogging Platforms](#blogging-platforms)
 - [Bookmarks & Link Sharing](#bookmarks--link-sharing)
 - [Calendar and Address Books](#calendar-and-address-books)
-- [Messaging](#communication-systems)
+- [Messaging](#messaging)
+  - [Email](#email)
+  - [XMPP](#xmpp)
+  - [VoIP](#voip)
+  - [IRC](#irc)
+  - [Custom](#custom)
 - [Content Management Systems (CMS)](#content-management-systems-cms)
 - [Download Tools](#download-tools)
 - [Federated Identity/Authentication](#federated-identityauthentication)
@@ -39,6 +44,12 @@ Table of Contents
 - [Read it Later Lists](#read-it-later-lists)
 - [Search Engines](#search-engines)
 - [Social Networks](#social-networks)
+- [Software Development](#software-development)
+  - [Project Management](#project-management)
+  - [IDE/Tools](#idetools)
+  - [Continuous Integration](#continuous-integration)
+  - [Bug and Task Trackers](#bug-and-task-trackers)
+- [Static site generators](#static-site-generators)
 - [URL Shorteners](#url-shorteners)
 - [Wikis](#wikis)
 - [Self-hosting Solutions](#self-hosting-solutions)
@@ -62,16 +73,16 @@ Table of Contents
 
 ## Blogging Platforms
 
+See also [Static Site Generators](#static-site-generators) and  [Content Management Systems](#content-management-systems-cms)
+
   * **[WeblogMatrix](http://www.weblogmatrix.org/) - Blogging platforms comparator**
   * [Anchor CMS](http://anchorcms.com/) -  Anchor is a free, lightweight, faster-than-a-bullet, simple blogging system, made for art–directed posts. ([Source code](https://github.com/anchorcms/anchor-cms)) `GPLv3` `PHP`
   * [Blogotext](http://lehollandaisvolant.net/blogotext/en/) - a free blog-engine written in PHP and using SQLite. This offers you both an unmatched simplicity during installation and great performances. ([Source code](https://github.com/timovn/blogotext)) `MIT` `PHP`
-  * [blosxom](http://blosxom.sourceforge.net/) -  a lightweight yet feature-packed weblog application designed from the ground up with simplicity, usability, and interoperability in mind. `MIT` `Perl`
   * [Chyrp](http://chyrp.net/) - An extra-awesome, extra-lightweight blog engine ([Source code](https://github.com/chyrp/chyrp)) `MIT` `PHP`
   * [Dotclear](http://dotclear.org/) - Take control over your blog! ([Source code](https://hg.dotclear.org/dotclear)) `GPLv2` `PHP`
   * [Ghost](http://ghost.org/) - Just a blogging platform ([Source code](https://github.com/TryGhost/Ghost)) `MIT` `Nodejs`
   * [htmly](http://www.htmly.com/) - Databaseless Blogging Platform (Flat-File Blog) ([Source code]((https://github.com/danpros/htmly)), [Demo](http://www.htmly.com/demo/)) `GPLv2` `PHP`
   * [Noddity](http://noddity.com/) - It's a blog, it's a wiki, it's a fast CMS! ([Source code](https://github.com/TehShrike/noddity)) `WTFPL` `Nodejs`
-  * [Pelican](http://blog.getpelican.com) - Static site generator written in Python, requires no database or server-side logic ([Source code](https://github.com/getpelican/pelican)) `GPLv3` `Python`
   * [PluXml](http://www.pluxml.org/) - XML-based blog/CMS platform ([Source code](https://github.com/pluxml/PluXml)) `GPL` `PHP`
   * [Wordpress](https://wordpress.org/) - Create a beautiful website or blog. ([Source code](https://github.com/WordPress/WordPress)) `GPLv2`
  
@@ -136,7 +147,7 @@ Table of Contents
 
 ## Content Management Systems (CMS)
 
-CMS are a practical way to setup a website with many features. CMS often come with third party plugins, themes and functionality that is easy to add and customize to your needs. See also [Static Site Generators](#static-site-generators)
+CMS are a practical way to setup a website with many features. CMS often come with third party plugins, themes and functionality that is easy to add and customize to your needs. See also [Blogging Platforms](#blogging-platforms) and [Static Site Generators](#static-site-generators)
 
   * [99ko CMS](http://99ko.hellojo.fr) - 99ko allows you to create a website in minutes without knowledge of Web development. It does not use a database server but relies on simple text files (JSON format) to store your data. ([Source code](https://github.com/99ko-project/99ko-cms))
   * [Baun](http://bauncms.com/) - A modern, lightweight, extensible CMS for PHP - ([Source code](https://github.com/BaunCMS/Baun)) `MIT`
@@ -386,6 +397,8 @@ CMS are a practical way to setup a website with many features. CMS often come wi
   * [RedMatrix](http://redmatrix.me/) - complete decentralised publishing, sharing, and communications system ([Source code](https://github.com/redmatrix/redmatrix))
   * [twister](http://twister.net.co/) -  P2P microblogging platform
 
+## Software Development
+
 ### Project Management
 
   * [Confluence](https://www.atlassian.com/software/confluence) `⊘ Proprietary` - A team collaboration software `Java`
@@ -432,6 +445,9 @@ CMS are a practical way to setup a website with many features. CMS often come wi
   * [Tinyissue](https://github.com/mikelbring/tinyissue) - Simple Issue Tracking for Teams `MIT`
   * [Tracks](http://getontracks.org/) -  a web-based application to help you implement David Allen’s [Getting Things Done™](http://wikipedia.org/wiki/Getting_Things_Done) methodology. - ` GPLV2`
 
+## Static site generators
+
+See https://staticsitegenrators.net/ and https://www.staticgen.com
 
 ## URL Shorteners
 
