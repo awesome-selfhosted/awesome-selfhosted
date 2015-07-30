@@ -70,6 +70,7 @@ Table of Contents
   * [Dotclear](http://dotclear.org/) - Take control over your blog! ([Source code](https://hg.dotclear.org/dotclear)) `GPLv2` `PHP`
   * [Ghost](http://ghost.org/) - Just a blogging platform ([Source code](https://github.com/TryGhost/Ghost)) `MIT` `Nodejs`
   * [htmly](http://www.htmly.com/) - Databaseless Blogging Platform (Flat-File Blog) ([Source code]((https://github.com/danpros/htmly)), [Demo](http://www.htmly.com/demo/)) `GPLv2` `PHP`
+  * [Hugo](http://gohugo.io/) - A fast & modern static website engine ([Source code](https://github.com/spf13/hugo)) `SimPL-2.0` `Go`
   * [Noddity](http://noddity.com/) - It's a blog, it's a wiki, it's a fast CMS! ([Source code](https://github.com/TehShrike/noddity)) `WTFPL` `Nodejs`
   * [Pelican](http://blog.getpelican.com) - Static site generator written in Python, requires no database or server-side logic ([Source code](https://github.com/getpelican/pelican)) `GPLv3` `Python`
   * [PluXml](http://www.pluxml.org/) - XML-based blog/CMS platform ([Source code](https://github.com/pluxml/PluXml)) `GPL` `PHP`
