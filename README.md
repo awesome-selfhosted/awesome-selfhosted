@@ -99,26 +99,36 @@ Table of Contents
   * [DAViCal](http://www.davical.org/) - a server for calendar sharing (CalDAV)
   * [Radicale](http://radicale.org/) - A Simple Calendar and Contact Server
 
-## Communication Systems
+## Messaging
 
+### Email
   * [Cypht](http://cypht.org/index.html) - A feed reader for your email accounts - `GPL` 
-  * [ejabberd](http://www.ejabberd.im) - A robust, scalable, and extensible XMPP server - `GPL` `Erlang`
-  * [FreeSWITCH](https://freeswitch.org/) - Scalable open source cross-platform telephony platform `MPL` `C`
-  * [HipChat](https://www.atlassian.com/software/hipchat) `⊘ Proprietary` [⛔](https://github.com/Kickball/awesome-selfhosted/pull/36) - A team chat solution with 1:1 chat audio and video, third party integration and more `PHP + Python`
-  * [Kaiwa](http://getkaiwa.com) A modern XMPP Web client ([Source code](https://github.com/digicoop/kaiwa))
-  * [Kamailio](http://www.kamailio.org/w/) - Modular SIP server (registrar/proxy/router/etc)
-  * [Kandan](http://getkandan.com/) – Kandan is an Open Source Alternative to HipChat. - `AGPL`
-  * [Kontalk](http://kontalk.org/) – Kontalk is an Open Source Messenger, similiar to WhatsApp (app for android only currently), including end-to-end encryption, server is based on Tigase XMPP Server - ([Source code](https://github.com/kontalk)) - `GPLv3`
   * [mailcow](https://github.com/andryyy/mailcow) - Mail server suite based on Dovecot, Postfix and other open source software, that provides a modern Web UI for administration. `GPL`
-  * [Metronome](http://www.lightwitch.org/metronome) – XMPP server forked from Prosody. `Lua` `MIT`
-  * [Mumble](http://wiki.mumble.info/wiki/Main_Page) - low-latency, high quality voice chat software `BSD` `C++`
-  * [Node-Chat](https://github.com/IgorAntun/node-chat) - A not-so-basic open-source chat with admin features. - `MIT` `Nodejs`
-  * [OpenFire](http://www.igniterealtime.org/projects/openfire/) - instant messaging (XMPP) and groupchat server `Java` `Apache 2.0`
-  * [Ostel](https://dev.guardianproject.info/projects/ostel/wiki/Server_Documentation) - Secure SIP telephony setup with ZRTP encryption `GPLv3`
-  * [Prosody](http://prosody.im/) – Lightweight XMPP server `Lua` `MIT`
-  * [Rocket.Chat](http://rocket.chat/) – Teamchat solution similar to Gitter.im or Slack - `MIT`
   * [Roundcube](https://roundcube.net) - A web interface to act as an IMAP frontend ([Screenshots](https://roundcube.net/screens/)) ([Source code](https://github.com/roundcube/roundcubemail/)) `GPLv3` `PHP`
+
+### XMPP
+  * [ejabberd](http://www.ejabberd.im) - A robust, scalable, and extensible XMPP server - `GPL` `Erlang`
+  * [Kaiwa](http://getkaiwa.com) A modern XMPP Web client ([Source code](https://github.com/digicoop/kaiwa))
+  * [Kontalk](http://kontalk.org/) – Kontalk is an Open Source Messenger, similiar to WhatsApp (app for android only currently), including end-to-end encryption, server is based on Tigase XMPP Server - ([Source code](https://github.com/kontalk)) - `GPLv3`
+  * [Metronome](http://www.lightwitch.org/metronome) – XMPP server forked from Prosody. `Lua` `MIT`
+  * [OpenFire](http://www.igniterealtime.org/projects/openfire/) - instant messaging (XMPP) and groupchat server `Java` `Apache 2.0`
+  * [Prosody](http://prosody.im/) – Lightweight XMPP server `Lua` `MIT`
+
+
+### VoIP
+  * [FreeSWITCH](https://freeswitch.org/) - Scalable open source cross-platform telephony platform `MPL` `C`
+  * [Kamailio](http://www.kamailio.org/w/) - Modular SIP server (registrar/proxy/router/etc)
+  * [Ostel](https://dev.guardianproject.info/projects/ostel/wiki/Server_Documentation) - Secure SIP telephony setup with ZRTP encryption `GPLv3`
+
+### IRC
   * [Shout](http://shout-irc.com/) -The self-hosted web IRC client ([Demo](http://demo.shout-irc.com/), [Source code](https://github.com/erming/shout)) `MIT` `Nodejs`
+
+### Custom
+  * [HipChat](https://www.atlassian.com/software/hipchat) `⊘ Proprietary` [⛔](https://github.com/Kickball/awesome-selfhosted/pull/36) - A team chat solution with 1:1 chat audio and video, third party integration and more `PHP + Python`
+  * [Kandan](http://getkandan.com/) – Kandan is an Open Source Alternative to HipChat. - `AGPL`
+  * [Mumble](http://wiki.mumble.info/wiki/Main_Page) - low-latency, high quality voice/text chat software `BSD` `C++`
+  * [Node-Chat](https://github.com/IgorAntun/node-chat) - A not-so-basic open-source chat with admin features. - `MIT` `Nodejs`
+  * [Rocket.Chat](http://rocket.chat/) – Teamchat solution similar to Gitter.im or Slack - `MIT`
   * [Tox](https://tox.im/) -  A distributed, secure messenger with audio and video chat capabilities. `C` `GPLv3`
 
 
