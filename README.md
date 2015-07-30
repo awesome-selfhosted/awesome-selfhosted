@@ -20,6 +20,7 @@ Table of Contents
   - [VoIP](#voip)
   - [IRC](#irc)
   - [Custom](#custom)
+  - [Social Networks](#social-networks)
 - [Content Management Systems (CMS)](#content-management-systems-cms)
 - [Download Tools](#download-tools)
 - [Federated Identity/Authentication](#federated-identityauthentication)
@@ -43,7 +44,6 @@ Table of Contents
 - [Proxy](#proxy)
 - [Read it Later Lists](#read-it-later-lists)
 - [Search Engines](#search-engines)
-- [Social Networks](#social-networks)
 - [Software Development](#software-development)
   - [Project Management](#project-management)
   - [IDE/Tools](#idetools)
@@ -143,6 +143,22 @@ See also [Static Site Generators](#static-site-generators) and  [Content Managem
   * [Rocket.Chat](http://rocket.chat/) – Teamchat solution similar to Gitter.im or Slack - `MIT`
   * [Tox](https://tox.im/) -  A distributed, secure messenger with audio and video chat capabilities. `C` `GPLv3`
 
+### Social Networks
+
+  * [Bootcamp](http://trybootcamp.vitorfs.com) - An enterprise social network - [Source code](https://github.com/vitorfs/bootcamp)
+  * [BuddyPress](http://buddypress.org/about/) - A powerful plugin that takes your WordPress.org powered site beyond the blog with social-network features like user profiles, activity streams, user groups, and more.
+  * [Diaspora](https://diasporafoundation.org/) - Distributed social networking service. - `AGPLv3`
+  * [Discourse](http://www.discourse.org/) - Advanced forum / community solution based on Ruby and JS - `GPLv2`
+  * [Elgg](https://www.elgg.org/) - a powerful open source social networking engine - `GPLv2`
+  * [Friendica](http://friendica.com/) - Social Communication Server ([Source code](https://github.com/friendica/friendica)) `AGPLv3`
+  * [Gnu Social](http://gnu.io/social/) - social communication software for both public and private communications
+  * [Hubzilla](https://github.com/redmatrix/hubzilla) - Hubzilla is RedMatrix new name
+  * [Isso](http://posativ.org/isso/) - a lightweight commenting server written in Python and JavaScript. It aims to be a drop-in replacement for Disqus ([Source code](https://github.com/posativ/isso)) `Python` `MIT`
+  * [Jappix](https://jappix.com/) - Jappix is an open social platform, that let's you easily get or keep in touch with everyone.
+  * [Movim](https://movim.eu/) - A brand new social network, full of awesome features in a modern and smart interface
+  * [Pump.io](http://pump.io/) - stream server that does most of what people really want from a social network ([Source code](https://github.com/e14n/pump.io))
+  * [RedMatrix](http://redmatrix.me/) - complete decentralised publishing, sharing, and communications system ([Source code](https://github.com/redmatrix/redmatrix))
+  * [twister](http://twister.net.co/) -  P2P microblogging platform
 
 
 ## Content Management Systems (CMS)
@@ -380,22 +396,6 @@ CMS are a practical way to setup a website with many features. CMS often come wi
   * [Searx](https://github.com/asciimoo/searx) - A privacy-respecting, hackable metasearch engine ([Demo](https://searx.me/), [Public instances](https://github.com/asciimoo/searx/wiki/Searx-instances))
   * [Yacy](http://yacy.net/en/index.html) - Peer based, decentralized search engine server `GPL2` `Java`
 
-## Social Networks
-
-  * [Bootcamp](http://trybootcamp.vitorfs.com) - An enterprise social network - [Source code](https://github.com/vitorfs/bootcamp)
-  * [BuddyPress](http://buddypress.org/about/) - A powerful plugin that takes your WordPress.org powered site beyond the blog with social-network features like user profiles, activity streams, user groups, and more.
-  * [Diaspora](https://diasporafoundation.org/) - Distributed social networking service. - `AGPLv3`
-  * [Discourse](http://www.discourse.org/) - Advanced forum / community solution based on Ruby and JS - `GPLv2`
-  * [Elgg](https://www.elgg.org/) - a powerful open source social networking engine - `GPLv2`
-  * [Friendica](http://friendica.com/) - Social Communication Server ([Source code](https://github.com/friendica/friendica)) `AGPLv3`
-  * [Gnu Social](http://gnu.io/social/) - social communication software for both public and private communications
-  * [Hubzilla](https://github.com/redmatrix/hubzilla) - Hubzilla is RedMatrix new name
-  * [Isso](http://posativ.org/isso/) - a lightweight commenting server written in Python and JavaScript. It aims to be a drop-in replacement for Disqus ([Source code](https://github.com/posativ/isso)) `Python` `MIT`
-  * [Jappix](https://jappix.com/) - Jappix is an open social platform, that let's you easily get or keep in touch with everyone.
-  * [Movim](https://movim.eu/) - A brand new social network, full of awesome features in a modern and smart interface
-  * [Pump.io](http://pump.io/) - stream server that does most of what people really want from a social network ([Source code](https://github.com/e14n/pump.io))
-  * [RedMatrix](http://redmatrix.me/) - complete decentralised publishing, sharing, and communications system ([Source code](https://github.com/redmatrix/redmatrix))
-  * [twister](http://twister.net.co/) -  P2P microblogging platform
 
 ## Software Development
 
