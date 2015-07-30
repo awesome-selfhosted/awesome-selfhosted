@@ -394,6 +394,7 @@ CMS are a practical way to setup a website with many features. CMS often come wi
 ## Search Engines
 
   * [Searx](https://github.com/asciimoo/searx) - A privacy-respecting, hackable metasearch engine ([Demo](https://searx.me/), [Public instances](https://github.com/asciimoo/searx/wiki/Searx-instances))
+  * [Seeks](https://beniz.github.io/seeks/) - a websearch proxy and collaborative distributed tool for websearch. `AGPLv3` `C++`
   * [Yacy](http://yacy.net/en/index.html) - Peer based, decentralized search engine server `GPL2` `Java`
 
 
