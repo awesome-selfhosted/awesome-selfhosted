@@ -136,7 +136,7 @@ See also [Static Site Generators](#static-site-generators) and  [Content Managem
   * [Shout](http://shout-irc.com/) -The self-hosted web IRC client ([Demo](http://demo.shout-irc.com/), [Source code](https://github.com/erming/shout)) `MIT` `Nodejs`
 
 ### Custom
-  * [HipChat](https://www.atlassian.com/software/hipchat) `⊘ Proprietary` [⛔](https://github.com/Kickball/awesome-selfhosted/pull/36) - A team chat solution with 1:1 chat audio and video, third party integration and more `PHP + Python`
+  * [HipChat](https://www.atlassian.com/software/hipchat) `⊘ Proprietary` **[☢](https://github.com/Kickball/awesome-selfhosted/pull/36)** - A team chat solution with 1:1 chat audio and video, third party integration and more `PHP + Python`
   * [Kandan](http://getkandan.com/) – Kandan is an Open Source Alternative to HipChat. - `AGPL`
   * [Mumble](http://wiki.mumble.info/wiki/Main_Page) - low-latency, high quality voice/text chat software `BSD` `C++`
   * [Node-Chat](https://github.com/IgorAntun/node-chat) - A not-so-basic open-source chat with admin features. - `MIT` `Nodejs`
@@ -491,7 +491,8 @@ See https://staticsitegenrators.net/ and https://www.staticgen.com
 
 ## List of Licenses
 
- * `⛔ Anti-features` -  The software has known important issues , not limited to: data loss, grave security vulnerabilities, leaks data to a third-party.
+ * **☢** `Anti-features` -  The software has known important issues , not limited to: data loss, grave security vulnerabilities, leaks data to a third-party.
+ * `⊘ Proprietary` - The software does not allow you to run it for any purpose, study, modify or distribute the source code.
  * `AGPLv3` - [GNU Affero General Public License 3.0](https://www.gnu.org/licenses/agpl-3.0)
  * `Apache` - [Apache, Version 2.0](http://www.apache.org/licenses/)
  * `BSD` - [FreeBSD License](https://www.freebsd.org/copyright/license.html)
