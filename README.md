@@ -136,6 +136,7 @@ See also [Static Site Generators](#static-site-generators) and  [Content Managem
   * [Shout](http://shout-irc.com/) -The self-hosted web IRC client ([Demo](http://demo.shout-irc.com/), [Source code](https://github.com/erming/shout)) `MIT` `Nodejs`
 
 ### Custom
+  * [GNUNet](https://gnunet.org/) - free software framework for decentralized, peer-to-peer networking `C/Java` `GPLv3`
   * [HipChat](https://www.atlassian.com/software/hipchat) `⊘ Proprietary` **[☢](https://github.com/Kickball/awesome-selfhosted/pull/36)** - A team chat solution with 1:1 chat audio and video, third party integration and more `PHP + Python`
   * [Kandan](http://getkandan.com/) – Kandan is an Open Source Alternative to HipChat. - `AGPL`
   * [Mumble](http://wiki.mumble.info/wiki/Main_Page) - low-latency, high quality voice/text chat software `BSD` `C++`
