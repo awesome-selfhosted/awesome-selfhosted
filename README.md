@@ -256,7 +256,7 @@ CMS are a practical way to setup a website with many features. CMS often come wi
 ## Gateways
 
   * [GateOne](https://github.com/liftoff/GateOne/) - Gate One is an HTML5 web-based terminal emulator and SSH client. - `AGPLv3`
-  * [Guacamole](http://guac-dev.org/) `⊘ Proprietary` - Guacamole is a clientless remote desktop gateway. It supports standard protocols like VNC and RDP.
+  * [Guacamole](http://guac-dev.org/) - Guacamole is a clientless remote desktop gateway. It supports standard protocols like VNC and RDP. ([Source code](https://github.com/glyptodon/)) `MIT` `Java/C` 
 
 
 ## Groupware
