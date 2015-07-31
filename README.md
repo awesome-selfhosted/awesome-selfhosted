@@ -337,6 +337,7 @@ CMS are a practical way to setup a website with many features. CMS often come wi
   * [OpenNote](https://github.com/FoxUSA/OpenNote) - OpenNote was built to be an open web-based alternative to Microsoft OneNote (T) and EverNote
   * [Paperwork](http://paperwork.rocks) - OpenSource note-taking & archiving alternative to Evernote, Microsoft OneNote & Google Keep ([Source code](https://github.com/twostairs/paperwork))
   * [dillinger](http://dillinger.io/) - The last Markdown editor, ever. ([Source code](https://github.com/joemccann/dillinger/)) `MIT` `Nodejs`
+  * [Turtl](https://turtl.it/) - A totally private personal database and note taking app ([Source code](https://github.com/turtl)) `GPLv3` `CommonLisp`
 
 
 ## Office Suites
