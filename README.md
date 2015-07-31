@@ -124,6 +124,9 @@ For a list of XMPP servers, see https://github.com/n1trux/awesome-sysadmin#xmpp
   * [Converse.js](https://conversejs.org/) - A free and open-source XMPP chat client in your browser ([Source](https://github.com/jcbrand/converse.js)) `MPL` `Javascript`
   * [Kaiwa](http://getkaiwa.com) A modern XMPP Web client ([Source code](https://github.com/digicoop/kaiwa))
   * [Kontalk](http://kontalk.org/) – Kontalk is an Open Source Messenger, similiar to WhatsApp (app for android only currently), including end-to-end encryption, server is based on Tigase XMPP Server - ([Source code](https://github.com/kontalk)) - `GPLv3`
+  * [Candy](https://candy-chat.github.io/candy/) - Multi user XMPP client written in Javascript. ([Source code](https://github.com/candy-chat/candy)) `MIT` `Javascript`
+  * [Lets-Chat](https://sdelements.github.io/lets-chat/) - A Self-hosted chat app for small teams ([Source code](https://github.com/sdelements/lets-chat)) `
+
 
 ### VoIP
   * [FreeSWITCH](https://freeswitch.org/) - Scalable open source cross-platform telephony platform `MPL` `C`
