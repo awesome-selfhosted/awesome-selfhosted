@@ -51,6 +51,8 @@ Table of Contents
   - [Bug and Task Trackers](#bug-and-task-trackers)
 - [Static site generators](#static-site-generators)
 - [URL Shorteners](#url-shorteners)
+- [VPN](#vpn)
+- [Web servers](#web-servers)
 - [Wikis](#wikis)
 - [Self-hosting Solutions](#self-hosting-solutions)
 - [List of Licenses](#list-of-licenses)
@@ -62,8 +64,10 @@ Table of Contents
 
 ## Analytics
 
+  * [AWStats](http://www.awstats.org/) - Generates web, streaming, ftp or mail server statistics graphically. `GPLv3` `Perl`
   * [Open Web Analytics](http://www.openwebanalytics.com/) - Google Analytics and Piwik alternative - `GPL` `PHP`
   * [Piwik](https://piwik.org/) - Leading open-source analytics platform that gives you more than just powerful analytics. - `GPLv3` `PHP`
+  * [Webalizer](http://www.webalizer.org/) -  a fast, free web server log file analysis program producing detailed, easily configurable reports in HTML `GPLv3` `C`
 
 
 ## Automation
@@ -118,13 +122,14 @@ See also [Static Site Generators](#static-site-generators) and  [Content Managem
   * [Roundcube](https://roundcube.net) - A web interface to act as an IMAP frontend ([Screenshots](https://roundcube.net/screens/)) ([Source code](https://github.com/roundcube/roundcubemail/)) `GPLv3` `PHP`
 
 ### XMPP
+
+For a list of XMPP servers, see https://github.com/n1trux/awesome-sysadmin#xmpp
+
   * [Converse.js](https://conversejs.org/) - A free and open-source XMPP chat client in your browser ([Source](https://github.com/jcbrand/converse.js)) `MPL` `Javascript`
-  * [ejabberd](http://www.ejabberd.im) - A robust, scalable, and extensible XMPP server - `GPL` `Erlang`
   * [Kaiwa](http://getkaiwa.com) A modern XMPP Web client ([Source code](https://github.com/digicoop/kaiwa))
   * [Kontalk](http://kontalk.org/) – Kontalk is an Open Source Messenger, similiar to WhatsApp (app for android only currently), including end-to-end encryption, server is based on Tigase XMPP Server - ([Source code](https://github.com/kontalk)) - `GPLv3`
-  * [Metronome](http://www.lightwitch.org/metronome) – XMPP server forked from Prosody. `MIT` `Lua`
-  * [OpenFire](http://www.igniterealtime.org/projects/openfire/) - instant messaging (XMPP) and groupchat server `Apache` `Java`
-  * [Prosody](http://prosody.im/) – Lightweight XMPP server `Lua` `MIT`
+  * [Candy](https://candy-chat.github.io/candy/) - Multi user XMPP client written in Javascript. ([Source code](https://github.com/candy-chat/candy)) `MIT` `Javascript`
+  * [Lets-Chat](https://sdelements.github.io/lets-chat/) - A Self-hosted chat app for small teams ([Source code](https://github.com/sdelements/lets-chat)) `
 
 
 ### VoIP
@@ -409,6 +414,8 @@ CMS are a practical way to setup a website with many features. CMS often come wi
 
 ### Project Management
 
+See also https://github.com/n1trux/awesome-sysadmin#project-management
+
   * [Confluence](https://www.atlassian.com/software/confluence) `⊘ Proprietary` - A team collaboration software `Java`
   * [Crucible](https://www.atlassian.com/software/crucible/overview) `⊘ Proprietary` - A peer code review application `Java`
   * [Fossil](https://www.fossil-scm.org/index.html/doc/trunk/www/index.wiki)  - Distributed version control system featuring wiki and bug tracker - `BSD` `C`
@@ -432,6 +439,8 @@ CMS are a practical way to setup a website with many features. CMS often come wi
   * [Jenkins](https://jenkins-ci.org/) - Continuous Integration Server ([Source Code](https://github.com/jenkinsci/jenkins/)) `MIT` `Java`
 
 ### Bug and Task Trackers
+
+See also https://github.com/n1trux/awesome-sysadmin#ticketing-systems
 
   * [92five](http://92fiveapp.com/) - Self hosted project management application ([Source code](https://github.com/chintanbanugaria/92five)) `CC BY-NC 4.0` `PHP`
   * [Apache Bloodhound](https://bloodhound.apache.org/) - Manage software products, Keep track of features, tasks and bugs `Apache` `Python`
@@ -464,9 +473,19 @@ See https://staticsitegenrators.net/ and https://www.staticgen.com
   * [YOURLS](http://yourls.org/) - YOURLS is a set of PHP scripts that will allow you to run Your Own URL Shortener. Features include password protection, URL customization, bookmarklets, statistics, API, plugins, jsonp ([Source code](https://github.com/YOURLS/YOURLS/), [Documentation](https://github.com/YOURLS/YOURLS/wiki)) - `MIT`
 
 
+
+## VPN
+
+See https://github.com/n1trux/awesome-sysadmin#vpn
+
+## Web servers
+
+See https://github.com/n1trux/awesome-sysadmin#web
+
 ## Wikis
 
-  * **[Wikimatrix](http://www.wikimatrix.org/) - A wiki platforms comparator**
+See also https://github.com/n1trux/awesome-sysadmin#wiki-software and http://www.wikimatrix.org/
+
   * [Blazekiss](https://github.com/ldleman/blazekiss) - BlazeKiss is a KISS-based wiki (Keep It Simple, Stupid) - simplicity and functionality comes before all.
   * [Codex](http://codex.caffeinated.ninja/codex/master) - Codex is a simple file-based Markdown documentation platform built on top of Laravel. - `MIT`
   * [commonplace](https://github.com/fredoliveira/commonplace) - A server for your markdown files. Give it a directory, and Commonplace gives you a url, pretty pages, and quick editing.
