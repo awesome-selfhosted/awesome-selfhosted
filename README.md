@@ -456,7 +456,7 @@ CMS are a practical way to setup a website with many features. CMS often come wi
 
 ## Static site generators
 
-See https://staticsitegenrators.net/ and https://www.staticgen.com
+See https://staticsitegenerators.net and https://www.staticgen.com
 
 ## URL Shorteners
 
