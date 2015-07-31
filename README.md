@@ -170,6 +170,7 @@ CMS are a practical way to setup a website with many features. CMS often come wi
 
   * [99ko CMS](http://99ko.hellojo.fr) - 99ko allows you to create a website in minutes without knowledge of Web development. It does not use a database server but relies on simple text files (JSON format) to store your data. ([Source code](https://github.com/99ko-project/99ko-cms))
   * [Baun](http://bauncms.com/) - A modern, lightweight, extensible CMS for PHP - ([Source code](https://github.com/BaunCMS/Baun)) `MIT`
+  * [BigTree CMS](https://www.bigtreecms.org/) - straightforward, well documented, and capable written with PHP and MySQL ([Source code](https://github.com/bigtreecms/BigTree-CMS)) `LGPL`
   * [Bolt](http://bolt.cm/) - Sophisticated, lightweight & simple CMS ([Source code](https://github.com/bolt/bolt))
   * [CMS Made Simple](http://www.cmsmadesimple.org/) - open source content management system, faster and easier management of website contents, scalable for small businesses to large corporations. `GPL`
   * [Concrete 5 CMS](http://www.concrete5.org/) - an open source content management system `MIT`
