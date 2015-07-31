@@ -151,7 +151,7 @@ CMS are a practical way to setup a website with many features. CMS often come wi
 
 ## Federated Identity/Authentication
 
-* [Auth0](https://auth0.com): `⊘ Proprietary`. Identity made simple for developers  
+* [Auth0](https://auth0.com/docs/appliance): `⊘ Proprietary`. Identity made simple for developers. `NodeJS`
 * [BrowserID/Mozilla Persona](https://developer.mozilla.org/en-US/Persona/Identity_Provider_Overview)
   * [Libravatar](https://www.libravatar.org/) -  a service which delivers your avatar (profile picture) to other websites
   * [OpenCA OCSPD](https://pki.openca.org/projects/ocspd/) - [OCSP](https://en.wikipedia.org/wiki/Online_Certificate_Status_Protocol) Responder
