@@ -124,19 +124,19 @@ See also [Static Site Generators](#static-site-generators) and  [Content Managem
   * [Kontalk](http://kontalk.org/) – Kontalk is an Open Source Messenger, similiar to WhatsApp (app for android only currently), including end-to-end encryption, server is based on Tigase XMPP Server - ([Source code](https://github.com/kontalk)) - `GPLv3`
   * [Metronome](http://www.lightwitch.org/metronome) – XMPP server forked from Prosody. `MIT` `Lua`
   * [OpenFire](http://www.igniterealtime.org/projects/openfire/) - instant messaging (XMPP) and groupchat server `Apache` `Java`
-  * [Prosody](http://prosody.im/) – Lightweight XMPP server `Lua` `MIT`
+  * [Prosody](http://prosody.im/) – Lightweight XMPP server `MIT` `Lua`
 
 
 ### VoIP
   * [FreeSWITCH](https://freeswitch.org/) - Scalable open source cross-platform telephony platform `MPL` `C`
-  * [Kamailio](http://www.kamailio.org/w/) - Modular SIP server (registrar/proxy/router/etc)
-  * [Ostel](https://dev.guardianproject.info/projects/ostel/wiki/Server_Documentation) - Secure SIP telephony setup with ZRTP encryption `GPLv3`
+  * [Kamailio](http://www.kamailio.org/w/) - Modular SIP server (registrar/proxy/router/etc) `GPLv2` `C`
+  * [Ostel](https://dev.guardianproject.info/projects/ostel/wiki/Server_Documentation) - Secure SIP telephony setup with ZRTP encryption `GPLv3` `Ruby`
 
 ### IRC
   * [Shout](http://shout-irc.com/) -The self-hosted web IRC client ([Demo](http://demo.shout-irc.com/), [Source code](https://github.com/erming/shout)) `MIT` `Nodejs`
 
 ### Custom
-  * [GNUNet](https://gnunet.org/) - free software framework for decentralized, peer-to-peer networking `C/Java` `GPLv3`
+  * [GNUNet](https://gnunet.org/) - free software framework for decentralized, peer-to-peer networking `GPLv3` `C/Java`
   * [HipChat](https://www.atlassian.com/software/hipchat) `⊘ Proprietary` **[☢](https://github.com/Kickball/awesome-selfhosted/pull/36)** - A team chat solution with 1:1 chat audio and video, third party integration and more `PHP/Python`
   * [Jitsi Meet](https://jitsi.org/Projects/JitsiMeet) - Jitsi Meet is an OpenSource (MIT) WebRTC JavaScript application that uses Jitsi Videobridge to provide high quality, scalable video conferences. `MIT ` `JavaScript`
   * [Jitsi Video Bridge](https://jitsi.org/Projects/JitsiVideobridge) - WebRTC compatible Selective Forwarding Unit (SFU) that allows for multiuser video communication. `Apache` `Java`  * [Kandan](http://getkandan.com/) – Kandan is an Open Source Alternative to HipChat. - `AGPL`
@@ -234,7 +234,7 @@ CMS are a practical way to setup a website with many features. CMS often come wi
   * [Dropcenter](http://projet.idleman.fr/dropcenter/) - Upload files by simple drag-n-drop.
   * [eXtplorer](http://extplorer.sourceforge.net/) - A PHP- and JavaScript- based File Manager
   * [Git Annex](http://git-annex.branchable.com/assistant/quickstart/) - File synchronization between computers, servers, external drives
-  * [img.bi](https://github.com/imgbi/img.bi) - img.bi is a secure image hosting. Images are encrypted using AES-256 with random key in browser before upload.
+  * [img.bi](https://github.com/imgbi/img.bi) - img.bi is a secure image hosting. Images are encrypted using AES-256 with random key in browser before upload. `GPLv3` `nodejs`
   * [instant.io](https://github.com/feross/instant.io) - Streaming file transfer over WebTorrent ([Demo](https://instant.io)) `MIT` `Nodejs`
   * [Jirafeau](https://gitlab.com/mojo42/Jirafeau/wikis/home) - Jirafeau is a web site permitting to upload a file in a simple way and give an unique link to it. ([Demo](http://jirafeau.net/))
   * [Jyraphe](http://home.gna.org/jyraphe/) - Jyraphe is a web application of file repository, easy to install and easy to use.
