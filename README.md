@@ -159,7 +159,7 @@ See also [Static Site Generators](#static-site-generators) and  [Content Managem
   * [Isso](http://posativ.org/isso/) - a lightweight commenting server written in Python and JavaScript. It aims to be a drop-in replacement for Disqus ([Source code](https://github.com/posativ/isso)) `MIT` `Python`
   * [Jappix](https://jappix.com/) - Jappix is an open social platform, that let's you easily get or keep in touch with everyone.
   * [Movim](https://movim.eu/) - A brand new social network, full of awesome features in a modern and smart interface
-  * [NodeBB] (https://nodebb.org/) - Node.js based forum software built for the modern web ([Source code](https://github.com/NodeBB/NodeBB)) - `GPLv3`
+  * [NodeBB](https://nodebb.org/) - Node.js based forum software built for the modern web ([Source code](https://github.com/NodeBB/NodeBB)) - `GPLv3` `Node.js`
   * [Pump.io](http://pump.io/) - stream server that does most of what people really want from a social network ([Source code](https://github.com/e14n/pump.io))
   * [RedMatrix](http://redmatrix.me/) - complete decentralised publishing, sharing, and communications system ([Source code](https://github.com/redmatrix/redmatrix))
   * [twister](http://twister.net.co/) -  P2P microblogging platform
