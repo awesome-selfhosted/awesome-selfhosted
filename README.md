@@ -20,7 +20,7 @@ Table of Contents
   - [VoIP](#voip)
   - [IRC](#irc)
   - [Custom](#custom)
-  - [Social Networks](#social-networks)
+  - [Social Networks and Forums](#social-networks-and-forums)
 - [Content Management Systems (CMS)](#content-management-systems-cms)
 - [Download Tools](#download-tools)
 - [Federated Identity/Authentication](#federated-identityauthentication)
@@ -146,7 +146,7 @@ See also [Static Site Generators](#static-site-generators) and  [Content Managem
   * [Rocket.Chat](http://rocket.chat/) – Teamchat solution similar to Gitter.im or Slack - `MIT`
   * [Tox](https://tox.im/) -  A distributed, secure messenger with audio and video chat capabilities. `GPLv3` `C`
 
-### Social Networks
+### Social Networks and Forums
 
   * [Bootcamp](http://trybootcamp.vitorfs.com) - An enterprise social network - [Source code](https://github.com/vitorfs/bootcamp)
   * [BuddyPress](http://buddypress.org/about/) - A powerful plugin that takes your WordPress.org powered site beyond the blog with social-network features like user profiles, activity streams, user groups, and more.
