@@ -283,7 +283,7 @@ CMS are a practical way to setup a website with many features. CMS often come wi
   * [Horde](http://www.horde.org/) - The Horde Project is about creating high quality Open Source applications and libraries, based on PHP and the Horde Framework. - `GPL` + Various Free Software / Open Source Software Licenses
   * [Kolab](https://kolab.org/) - Kolab community is a unified communication and collaboration system - `Various FLOSS Licenses` ([Source](http://git.kolab.org/))
   * [Tine 2.0org](https://www.tine20.org) - Contacts, Calendar, Tasks, WebDAV, ActiveSync, VOIP, Mail-Client, CRM, Sales, Projects, Timetracker -  ([Demo](https://demo.tine20.net)) - `AGPLv3`
-
+ * [Zimbra Collaboration] (https://www.zimbra.com/downloads/) - Email, calendar, collaboration server with web interface and lots of integrations.  ([Source code]( https://www.zimbra.com/open-source)) `GPLv2/CPALv1` `Java`
 
 ## Maps & GPS
 
