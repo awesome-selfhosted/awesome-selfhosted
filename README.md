@@ -167,6 +167,7 @@ See also [Static Site Generators](#static-site-generators) and  [Content Managem
   * [Pump.io](http://pump.io/) - stream server that does most of what people really want from a social network ([Source code](https://github.com/e14n/pump.io))
   * [RedMatrix](http://redmatrix.me/) - complete decentralised publishing, sharing, and communications system ([Source code](https://github.com/redmatrix/redmatrix))
   * [twister](http://twister.net.co/) -  P2P microblogging platform
+  * [PPnet](https://github.com/pixelpark/ppnet) Create and host your own social network.
 
 
 ## Content Management Systems (CMS)
