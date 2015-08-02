@@ -83,6 +83,7 @@ See also [Static Site Generators](#static-site-generators) and  [Content Managem
   * [Dotclear](http://dotclear.org/) - Take control over your blog! ([Source code](https://hg.dotclear.org/dotclear)) `GPLv2` `PHP`
   * [Ghost](http://ghost.org/) - Just a blogging platform ([Source code](https://github.com/TryGhost/Ghost)) `MIT` `Nodejs`
   * [htmly](http://www.htmly.com/) - Databaseless Blogging Platform (Flat-File Blog) ([Source code]((https://github.com/danpros/htmly)), [Demo](http://www.htmly.com/demo/)) `GPLv2` `PHP`
+  * [Known](https://withknown.com/opensource/) - A single website for all your content `Apache` `PHP`
   * [Noddity](http://noddity.com/) - It's a blog, it's a wiki, it's a fast CMS! ([Source code](https://github.com/TehShrike/noddity)) `WTFPL` `Nodejs`
   * [PluXml](http://www.pluxml.org/) - XML-based blog/CMS platform ([Source code](https://github.com/pluxml/PluXml)) `GPL` `PHP`
   * [Wordpress](https://wordpress.org/) - Create a beautiful website or blog. ([Source code](https://github.com/WordPress/WordPress)) `GPLv2`
@@ -137,6 +138,7 @@ See also [Static Site Generators](#static-site-generators) and  [Content Managem
 ### IRC
   * [Shout](http://shout-irc.com/) -The self-hosted web IRC client ([Demo](http://demo.shout-irc.com/), [Source code](https://github.com/erming/shout)) `MIT` `Nodejs`
   * [Convos](http://convos.by/) - Always online web IRC client ([Demo](http://demo.convos.by), [Source code](http://github.com/nordaaker/convos)) `ARTv2` `Perl` 
+  * [ZNC](http://wiki.znc.in/ZNC) - An advanced IRC bouncer `Apache` `C++`
 
 ### Custom
   * [GNUNet](https://gnunet.org/) - free software framework for decentralized, peer-to-peer networking `GPLv3` `C/Java`
@@ -144,6 +146,7 @@ See also [Static Site Generators](#static-site-generators) and  [Content Managem
   * [Jitsi Meet](https://jitsi.org/Projects/JitsiMeet) - Jitsi Meet is an OpenSource (MIT) WebRTC JavaScript application that uses Jitsi Videobridge to provide high quality, scalable video conferences. `MIT ` `JavaScript`
   * [Jitsi Video Bridge](https://jitsi.org/Projects/JitsiVideobridge) - WebRTC compatible Selective Forwarding Unit (SFU) that allows for multiuser video communication. `Apache` `Java`  
   * [Kandan](http://getkandan.com/) – Kandan is an Open Source Alternative to HipChat. - `AGPL` 
+  * [Matrix](https://matrix.org) - An open standard for decentralized persistent communication (reference implementation: `Apache` `Python`)
   * [Mumble](http://wiki.mumble.info/wiki/Main_Page) - low-latency, high quality voice/text chat software `BSD` `C++`
   * [Node-Chat](https://github.com/IgorAntun/node-chat) - A not-so-basic open-source chat with admin features. - `MIT` `Nodejs`
   * [Rocket.Chat](http://rocket.chat/) – Teamchat solution similar to Gitter.im or Slack - `MIT`
@@ -209,6 +212,7 @@ CMS are a practical way to setup a website with many features. CMS often come wi
   * [Libravatar](https://www.libravatar.org/) -  a service which delivers your avatar (profile picture) to other websites
   * [OpenCA OCSPD](https://pki.openca.org/projects/ocspd/) - [OCSP](https://en.wikipedia.org/wiki/Online_Certificate_Status_Protocol) Responder
   * [OpenID/OpenID Connect](http://openid.net/developers/libraries/)
+* [IndieAuth](https://indieauth.com) - Sign in with your domain name 
 
 
 ## Feed Readers
@@ -406,6 +410,7 @@ CMS are a practical way to setup a website with many features. CMS often come wi
 ## Proxy
 
   * [Oranjeproxy](http://lehollandaisvolant.net/tout/oranjeproxy/) - Anonymizing web proxy ([Source code](https://github.com/AmauryCarrade/OranjeProxy)) `GPLv2` `PHP`
+  * [Privoxy](http://www.privoxy.org) - a non-caching web proxy with advanced filtering capabilities for enhancing privacy, modifying web page data and HTTP headers, controlling access, and removing ads and other obnoxious Internet junk `GPLv2` `C`
   * [Swiperproxy](https://swiperproxy.github.io/) - A lightning-fast, open source web proxy that is easy for you to run and customize. ([Source code](https://github.com/swiperproxy/swiperproxy), [Demo](http://proxy.donttrustrobots.nl/)) - `MIT`
 
 ## Read it Later Lists
