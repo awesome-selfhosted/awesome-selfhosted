@@ -6,7 +6,7 @@ Selfhosting is the process of locally hosting and managing applications instead 
 
 This is a list of [Free Software]((https://en.wikipedia.org/wiki/Free_software)) [network services](https://en.wikipedia.org/wiki/Network_service) and [web applications](https://en.wikipedia.org/wiki/Web_application) which can be hosted locally.
 
-Non-Free software is listed on the [Non-free](non-free.md) page.
+Non-Free software is listed on the [Non-Free](non-free.md) page.
 
 Table of Contents
 =================
@@ -144,7 +144,7 @@ See also [Static Site Generators](#static-site-generators) and  [Content Managem
   * [ZNC](http://wiki.znc.in/ZNC) - An advanced IRC bouncer `Apache` `C++`
 
 ### Custom
-  * [GNUNet](https://gnunet.org/) - free software framework for decentralized, peer-to-peer networking `GPLv3` `C/Java`
+  * [GNUNet](https://gnunet.org/) - Free software framework for decentralized, peer-to-peer networking `GPLv3` `C/Java`
   * [Jitsi Meet](https://jitsi.org/Projects/JitsiMeet) - Jitsi Meet is an OpenSource (MIT) WebRTC JavaScript application that uses Jitsi Videobridge to provide high quality, scalable video conferences. `MIT ` `JavaScript`
   * [Jitsi Video Bridge](https://jitsi.org/Projects/JitsiVideobridge) - WebRTC compatible Selective Forwarding Unit (SFU) that allows for multiuser video communication. `Apache` `Java`  
   * [Kandan](http://getkandan.com/) – Kandan is an Open Source Alternative to HipChat. - `AGPL` 
@@ -382,7 +382,7 @@ CMS are a practical way to setup a website with many features. CMS often come wi
   * [Gallery](http://galleryproject.org/) -  The simplest, most intuitive way to host your photos on your website ([Source code](https://github.com/gallery/gallery3)) `GPLv2` `PHP`
   * [Koken](http://koken.me/) - Content management and web site publishing for photographers `PHP` 
   * [Lychee](http://lychee.electerious.com/) - an open source grid and album based photo-management-system ([Source code](https://github.com/electerious/Lychee)) - `MIT` `PHP`
-  * [Mediagoblin](http://mediagoblin.org) -  a free software media publishing platform that anyone can run. You can think of it as a decentralized alternative to Flickr, YouTube, SoundCloud, etc `AGPLv3` `Python`
+  * [Mediagoblin](http://mediagoblin.org) -  a Free software media publishing platform that anyone can run. You can think of it as a decentralized alternative to Flickr, YouTube, SoundCloud, etc `AGPLv3` `Python`
   * [MinigalNano](https://github.com/sebsauvage/MinigalNano) - MinigalNano is a very simple image gallery. It adheres to the KISS principle and is very easy to install. MinigalNano does not have a web admin interface: You just upload your images in the photo folder on your server (using FTP, SFTP) ([Demo](http://boards.tomcanac.com/)) `CC BY-SA 3.0` `PHP`
   * [phog](https://github.com/hillman/phog) - Static photo gallery generator with S3 uploader `Python`
   * [Photofloat](http://blog.zx2c4.com/567) - A Web 2.0 Photo Gallery Done Right via Static JSON & Dynamic Javascript ([Demo](http://photos.jasondonenfeld.com/)) `Javascript` `GPLv2`
@@ -542,7 +542,7 @@ See https://staticsitegenerators.net and https://www.staticgen.com
  * You can help by sending Pull Requests to add more services. See [Editing files](https://help.github.com/articles/editing-files-in-another-user-s-repository/), [Creating Pull Requests](https://help.github.com/articles/creating-a-pull-request/), [Using Pull Requests](https://help.github.com/articles/using-pull-requests/)
  * Sections should be ordered alphabetically, lines inside sections should be ordered alphabetically.
  * All projects should have their license and main programming language referenced.
- * Non-[free](https://en.wikipedia.org/wiki/Free_software) software must be marked `⊘ Proprietary` next to the title, and added to [non-free.md](non-free.md)
+ * Non-[Free](https://en.wikipedia.org/wiki/Free_software) software must be marked `⊘ Proprietary` next to the title, and added to [non-free.md](non-free.md)
  * The syntax for links is ``[Name](http://homepage/) - Short description ([Demo](http://url.to/demo), [Source code](http://url.of/source/code)) `License` `Language` ``
  * The list of contributors can be updated with `git shortlog -sne`
 
