@@ -1,5 +1,7 @@
 # Awesome-Selfhosted
 
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
 Selfhosting is the process of locally hosting and managing applications instead of renting from SaaS providers.
 This is a list of [network services](https://en.wikipedia.org/wiki/Network_service) and [web applications](https://en.wikipedia.org/wiki/Web_application) which can be hosted locally.
 
