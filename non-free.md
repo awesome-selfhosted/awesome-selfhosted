@@ -34,7 +34,7 @@
 
 ## Photo and Video Galleries
 
-    * [Single File PHP Gallery](http://sye.dk/sfpg/) - `⊘ Proprietary` is a web gallery in one single PHP file. `PHP` 
+  * [Single File PHP Gallery](http://sye.dk/sfpg/) - `⊘ Proprietary` is a web gallery in one single PHP file. `PHP` 
 
 
 ## Software Developement
