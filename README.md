@@ -156,6 +156,7 @@ See also [Static Site Generators](#static-site-generators) and  [Content Managem
   * [Diaspora](https://diasporafoundation.org/) - Distributed social networking service. - `AGPLv3`
   * [Discourse](http://www.discourse.org/) - Advanced forum / community solution based on Ruby and JS - `GPLv2`
   * [Elgg](https://www.elgg.org/) - a powerful open source social networking engine - `GPLv2`
+  * [Flarum](http://flarum.org) - Delightfully simple forums. Flarum is the next-generation forum software that makes online discussion fun again. ([Source Code](https://github.com/flarum/flarum)) - `MIT` `PHP`
   * [Friendica](http://friendica.com/) - Social Communication Server ([Source code](https://github.com/friendica/friendica)) `AGPLv3`
   * [Gnu Social](http://gnu.io/social/) - social communication software for both public and private communications
   * [Hubzilla](https://github.com/redmatrix/hubzilla) - independent general-purpose websites that not only connect with their associated members and viewers, but also connect together `MIT` `PHP`
