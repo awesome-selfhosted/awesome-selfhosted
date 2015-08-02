@@ -3,8 +3,10 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 Selfhosting is the process of locally hosting and managing applications instead of renting from SaaS providers.
-This is a list of [network services](https://en.wikipedia.org/wiki/Network_service) and [web applications](https://en.wikipedia.org/wiki/Web_application) which can be hosted locally.
 
+This is a list of [Free Software]((https://en.wikipedia.org/wiki/Free_software)) [network services](https://en.wikipedia.org/wiki/Network_service) and [web applications](https://en.wikipedia.org/wiki/Web_application) which can be hosted locally.
+
+Non-Free software is listed on the [Non-free](non-free.md) page.
 
 Table of Contents
 =================
@@ -64,7 +66,6 @@ Table of Contents
 
 ## Analytics
 
-  * [Mint](http://haveamint.com/) `⊘ Proprietary` - Extensible self-hosted web analytics, license costs $30 per site. ([Demo](http://mimeoverse.com/mint/)) `PHP`
   * [Open Web Analytics](http://www.openwebanalytics.com/) - Google Analytics and Piwik alternative - `GPL` `PHP`
   * [Piwik](https://piwik.org/) - Leading open-source analytics platform that gives you more than just powerful analytics. - `GPLv3` `PHP`
   * [ThinkUp](https://www.thinkup.com/) - Insights into your social networking activity on Twitter, Facebook, Instagram, and beyond. ([Source code](https://github.com/ThinkUpLLC/ThinkUp)) - `GPL` `PHP`
@@ -144,7 +145,6 @@ See also [Static Site Generators](#static-site-generators) and  [Content Managem
 
 ### Custom
   * [GNUNet](https://gnunet.org/) - free software framework for decentralized, peer-to-peer networking `GPLv3` `C/Java`
-  * [HipChat](https://www.atlassian.com/software/hipchat) `⊘ Proprietary` **[☢](https://github.com/Kickball/awesome-selfhosted/pull/36)** - A team chat solution with 1:1 chat audio and video, third party integration and more `PHP/Python`
   * [Jitsi Meet](https://jitsi.org/Projects/JitsiMeet) - Jitsi Meet is an OpenSource (MIT) WebRTC JavaScript application that uses Jitsi Videobridge to provide high quality, scalable video conferences. `MIT ` `JavaScript`
   * [Jitsi Video Bridge](https://jitsi.org/Projects/JitsiVideobridge) - WebRTC compatible Selective Forwarding Unit (SFU) that allows for multiuser video communication. `Apache` `Java`  
   * [Kandan](http://getkandan.com/) – Kandan is an Open Source Alternative to HipChat. - `AGPL` 
@@ -210,7 +210,6 @@ CMS are a practical way to setup a website with many features. CMS often come wi
 
 ## Federated Identity/Authentication
 
-  * [Auth0](https://auth0.com/docs/appliance): `⊘ Proprietary`. Identity made simple for developers. `NodeJS`
   * [BrowserID/Mozilla Persona](https://developer.mozilla.org/en-US/Persona/Identity_Provider_Overview)
   * [IndieAuth](https://indieauth.com) - Sign in with your domain name (using the [rel-me-auth](http://microformats.org/wiki/relmeauth) protocol) `Apache` `Ruby`
   * [Libravatar](https://www.libravatar.org/) -  a service which delivers your avatar (profile picture) to other websites
@@ -225,7 +224,6 @@ CMS are a practical way to setup a website with many features. CMS often come wi
   * [Creaky Coot](https://github.com/piero-la-lune/Creaky-Coot) - Minimalist and responsive RSS reader and links saver
   * [Feedbin](https://feedbin.me) - a simple, fast and nice looking RSS reader. ([Source code](https://github.com/feedbin/feedbin))
   * [FeedHQ](https://feedhq.org/) - FeedHQ is a web-based feed reader ([Source code](https://github.com/feedhq/feedhq))
-  * [Fever](http://feedafever.com/) `⊘ Proprietary` - Self-hosted feed aggregator that can sort items by popularity `PHP`
   * [FreshRSS](http://freshrss.org/) - A self-hostable RSS feed aggregator ([Demo](http://demo.freshrss.org/i/), [Source code](https://github.com/FreshRSS/FreshRSS), [Mobile app](https://github.com/Alkarex/EasyRSS)) - `AGPLv3`
   * [gritttt-rss](http://gritttt-rss.nicolashoening.de/) - More features for Tiny Tiny RSS [Source code](https://github.com/nhoening/gritttt-rss)
   * [Kriss Feed](http://tontof.net/kriss/feed/) - A simple and smart (or stupid) feed reader ([Demo](http://tontof.net/feed/), [Source code](https://github.com/tontof/kriss_feed/))
@@ -247,7 +245,6 @@ CMS are a practical way to setup a website with many features. CMS often come wi
 
 ## File Sharing and Synchronization
 
-  * [Bittorrent Sync](https://www.getsync.com/) `⊘ Proprietary` - BitTorrent Sync by BitTorrent, Inc is a proprietary peer-to-peer file synchronisation tool.
   * [Camlistore](https://camlistore.org/) - Camlistore is a set of open source formats, protocols, and software for modeling, storing, searching, sharing and synchronizing data in the post-PC era. Data may be files or objects, tweets or 5TB videos, and you can access it via a phone, browser or FUSE filesystem. ([Source code](https://github.com/camlistore/camlistore)) `Apache` `Go`
   * [Coquelicot](https://coquelicot.potager.org/) - Coquelicot is a “one-click” file sharing web application with a focus on protecting users’ privacy. - `AGPLv3`
   * [Dropcenter](http://projet.idleman.fr/dropcenter/) - Upload files by simple drag-n-drop.
@@ -303,7 +300,6 @@ CMS are a practical way to setup a website with many features. CMS often come wi
 
   * [Emby](https://github.com/MediaBrowser/MediaBrowser) - A home media server built using other popular open source technologies. - `GPLv2`
   * [HTPC Manager](http://htpc.io/) - A fully responsive interface to manage all your favorite media on your HTPC. - `MIT`
-  * [Plex](https://plex.tv/) `⊘ Proprietary` - Plex is a centralized home media playback system with a powerful central server.
   * [Streama](https://github.com/dularion/streama) - Self-hosted Netflix alternative. - `MIT` `Java`
 
 ## Mind Maps
@@ -315,7 +311,6 @@ CMS are a practical way to setup a website with many features. CMS often come wi
 
   * [GLPI](http://www.glpi-project.org/spip.php?lang=en) - GLPI is an IT assests/resources/inventory manager ([Source code](https://forge.glpi-project.org/projects/glpi)) `GPLv2` `PHP`
   * [GRR](http://grr.devome.com/?lang=en) - Assets management and booking for small/medium companies ([demo](http://grr.devome.com/demo/week_all.php?year=2015&month=07&day=28&area=94), _administrateur/azerty_) `GPLv2` `PHP`
-  * [IHateMoney](http://ihatemoney.org/) `⊘ Proprietary` - Manage your shared expenses, easily.
   * [InvoicePlane](https://invoiceplane.com/) - Manage quotes, invoices, payments and customers for your small business. - `MIT`
 
 
@@ -398,7 +393,6 @@ CMS are a practical way to setup a website with many features. CMS often come wi
   * [Pygmyfoto](https://github.com/dmpop/pygmyfoto) - A crude solution for publishing a photo roll on the web `PHP` 
   * [Shot.io](http://shot.io/) - Mobile optimised photo publishing platform (self-hosted Flickr alternative) ([Source code](https://github.com/AliasIO/Shot.io)) `GPLv3` `PHP`
   * [sigal](https://github.com/saimn/sigal) - yet another simple static gallery generator `MIT` `Python`
-  * [Single File PHP Gallery](http://sye.dk/sfpg/) - `⊘ Proprietary` is a web gallery in one single PHP file. `PHP` 
   * [UberGallery](http://www.ubergallery.net) - UberGallery is an easy to use, simple to manage, web photo gallery. UberGallery does not require a database and supports JPEG, GIF and PNG file types. Simply upload your images and UberGallery will automatically generate thumbnails and output HTML. ([Source code](https://github.com/UberGallery/UberGallery)) `MIT` `PHP`
   * [Zenphoto](http://www.zenphoto.org/) - open-source gallery and CMS project ([Source code](https://github.com/zenphoto/zenphoto))  `GPLv2` `PHP`
 
@@ -432,15 +426,12 @@ CMS are a practical way to setup a website with many features. CMS often come wi
 
 ### Project Management
 
-  * [Confluence](https://www.atlassian.com/software/confluence) `⊘ Proprietary` - A team collaboration software `Java`
-  * [Crucible](https://www.atlassian.com/software/crucible/overview) `⊘ Proprietary` - A peer code review application `Java`
   * [Fossil](https://www.fossil-scm.org/index.html/doc/trunk/www/index.wiki)  - Distributed version control system featuring wiki and bug tracker - `BSD` `C`
   * [gitbucket](http://takezoe.github.io/gitbucket/) - The easily installable GitHub clone powered by Scala - ([Source code](https://github.com/takezoe/gitbucket))
   * [GitLab](http://gitlab.org/) - Self Hosted Git Management Application - GitLab is open source software to collaborate on code. Manage git repositories with fine grained access controls that keep your code secure. Perform code reviews and enhance collaboration with merge requests. Each project can also have an issue tracker and a wiki ([Public instance](https://git.framasoft.org/))
   * [Gitlist](http://gitlist.org/) - A web-based git repository browser - GitList allows you to browse repositories using your favorite browser, viewing files under different revisions, commit history and diffs. ([Source code](https://github.com/klaussilveira/gitlist))
   * [Gitprep](http://gitprep.org/) - Portable Github clone ([Source code](https://github.com/yuki-kimoto/gitprep), [Demo](http://perlcodesample.sakura.ne.jp/gitprep.cgi))
   * [Gogs](https://github.com/gogits/gogs) - a painless self-hosted Git Service written in Go. ([Demo](http://try.gogits.org))
-  * [Stash](https://www.atlassian.com/software/stash) `⊘ Proprietary` - An enterprise-level Git solution similar to GitLab `Java`
 
 ### IDE/Tools
 
@@ -452,7 +443,6 @@ CMS are a practical way to setup a website with many features. CMS often come wi
 
 ### Continuous Integration
 
-  * [Bamboo](https://www.atlassian.com/software/bamboo) `⊘ Proprietary` - A continuous integration server `Java`
   * [Jenkins](https://jenkins-ci.org/) - Continuous Integration Server ([Source Code](https://github.com/jenkinsci/jenkins/)) `MIT` `Java`
 
 ### Bug and Task Trackers
@@ -465,7 +455,6 @@ CMS are a practical way to setup a website with many features. CMS often come wi
   * [Flyspray](http://www.flyspray.org/) - uncomplicated, web-based bug tracking system ([Source code](https://github.com/Flyspray/flyspray)) `GPLv2`
   * [Gaskit](https://github.com/bkeepers/gaskit) - a git-backed issue tracker. It uses a branch in your local git database to store the tickets. `GPL`
   * [HabitRPG](http://habitrpg.com/) - A habit tracker app which treats your goals like a Role Playing Game. ([Source code](https://github.com/lefnire/habitrpg))
-  * [JIRA](https://www.atlassian.com/software/jira) `⊘ Proprietary` - A professional and extensible issue tracker `Java`
   * [Kanboard](http://kanboard.net/) - A simple and open source visual task board `AGPLv3`
   * [MantisBT](https://www.mantisbt.org/) - Self hosted bug tracker, fits best for software development - ([Demo](https://www.mantisbt.org/bugs/my_view_page.php)) -  ([Source code](https://github.com/mantisbt/mantisbt)) - `GPLv2`
   * [myTinyTodo](http://www.mytinytodo.net/) - Simple way to manage your todo list in AJAX style. Uses PHP, jQuery, SQLite/MySQL. GTD compliant. `GPL`
@@ -526,8 +515,6 @@ See https://staticsitegenerators.net and https://www.staticgen.com
 
 ## List of Licenses
 
- * **☢** `Anti-features` -  The software has known important issues , not limited to: data loss, grave security vulnerabilities, leaks data to a third-party.
- * `⊘ Proprietary` - The software does not allow you to run it for any purpose, study, modify or distribute the source code.
  * `AGPLv3` - [GNU Affero General Public License 3.0](https://www.gnu.org/licenses/agpl-3.0)
  * `Apache` - [Apache, Version 2.0](http://www.apache.org/licenses/)
  * `ARTv2` - [Artistic License Version 2.0](http://opensource.org/licenses/Artistic-2.0)
@@ -555,7 +542,7 @@ See https://staticsitegenerators.net and https://www.staticgen.com
  * You can help by sending Pull Requests to add more services. See [Editing files](https://help.github.com/articles/editing-files-in-another-user-s-repository/), [Creating Pull Requests](https://help.github.com/articles/creating-a-pull-request/), [Using Pull Requests](https://help.github.com/articles/using-pull-requests/)
  * Sections should be ordered alphabetically, lines inside sections should be ordered alphabetically.
  * All projects should have their license and main programming language referenced.
- * Non-[free](https://en.wikipedia.org/wiki/Free_software) software must be marked `⊘ Proprietary` next to the title.
+ * Non-[free](https://en.wikipedia.org/wiki/Free_software) software must be marked `⊘ Proprietary` next to the title, and added to [non-free.md](non-free.md)
  * The syntax for links is ``[Name](http://homepage/) - Short description ([Demo](http://url.to/demo), [Source code](http://url.of/source/code)) `License` `Language` ``
  * The list of contributors can be updated with `git shortlog -sne`
 
