@@ -64,7 +64,7 @@ Table of Contents
 
 ## Analytics
 
-  * [Countly](http://Count.ly) - Mobile analytics, crash reporting and push notifications platform - `AGPL` `Javascript`
+  * [Countly](http://Count.ly) - Real time mobile analytics, crash reporting and push notifications platform - `AGPL` `Javascript`
   * [Open Web Analytics](http://www.openwebanalytics.com/) - Google Analytics and Piwik alternative - `GPL` `PHP`
   * [Piwik](https://piwik.org/) - Leading open-source analytics platform that gives you more than just powerful analytics. - `GPLv3` `PHP`
   * [ThinkUp](https://www.thinkup.com/) - Insights into your social networking activity on Twitter, Facebook, Instagram, and beyond. ([Source code](https://github.com/ThinkUpLLC/ThinkUp)) - `GPL` `PHP`
