@@ -137,8 +137,9 @@ See also [Static Site Generators](#static-site-generators) and  [Content Managem
   * [Ostel](https://dev.guardianproject.info/projects/ostel/wiki/Server_Documentation) - Secure SIP telephony setup with ZRTP encryption `GPLv3` `Ruby`
 
 ### IRC
+  * [Convos](http://convos.by/) - Always online web IRC client ([Demo](http://demo.convos.by), [Source code](http://github.com/nordaaker/convos)) `ARTv2` `Perl`
   * [Shout](http://shout-irc.com/) -The self-hosted web IRC client ([Demo](http://demo.shout-irc.com/), [Source code](https://github.com/erming/shout)) `MIT` `Nodejs`
-  * [Convos](http://convos.by/) - Always online web IRC client ([Demo](http://demo.convos.by), [Source code](http://github.com/nordaaker/convos)) `ARTv2` `Perl` 
+  * [Weechat](https://weechat.org/) `GNUv3` `C`
   * [ZNC](http://wiki.znc.in/ZNC) - An advanced IRC bouncer `Apache` `C++`
 
 ### Custom
