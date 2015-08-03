@@ -59,6 +59,7 @@ Table of Contents
 - [Ticketing systems](#ticketing-systems)
 - [URL Shorteners](#url-shorteners)
 - [Wikis](#wikis)
+- [XMPP](#xmpp)
 - [Self-hosting Solutions](#self-hosting-solutions)
 - [List of Licenses](#list-of-licenses)
 - [External links](#external-links)
@@ -602,6 +603,22 @@ See [staticsitegenerators.net](https://staticsitegenerators.net) and [staticgen.
   * [WiKiss](http://wikiss.tuxfamily.org/) - un wiki simple à utiliser et déployer.
   * [Wikitten](https://github.com/victorstanciu/Wikitten) - Wikitten is a small, fast, PHP wiki, and the perfect place to store your notes, code snippets, ideas, and so on.
 
+
+## XMPP
+*XMPP servers.*
+
+* [ejabberd](http://www.ejabberd.im/) - XMPP instant messaging server written in Erlang/OTP.
+* [Metronome IM](http://www.lightwitch.org/metronome) - Fork of Prosody IM.
+* [MongooseIM](https://www.erlang-solutions.com/products/mongooseim-massively-scalable-ejabberd-platform) - Fork of ejabberd.
+* [Openfire](http://www.igniterealtime.org/projects/openfire/) - Real time collaboration (RTC) server.
+* [Prosody IM](http://prosody.im/) - XMPP server written in Lua.
+* [Tigase](https://projects.tigase.org/projects/tigase-server) - XMPP server implementation in Java.
+
+*XMPP Web Clients*
+
+* [Candy](http://candy-chat.github.io/candy/) - Multi user XMPP client written in Javascript.
+* [Kaiwa](http://getkaiwa.com/) - Web based chat client in the style of common paid alternatives.
+* [Lets-Chat](http://sdelements.github.io/lets-chat/) - A self hosted chat suite written in Node.
 -------------------------------------------------------
 
 ## Self-hosting Solutions
