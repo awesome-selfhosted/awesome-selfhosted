@@ -381,7 +381,6 @@ CMS are a practical way to setup a website with many features. CMS often come wi
 
  * [Keepass](http://keepass.info) - Free, open source, light-weight and easy-to-use password manager. `GPLv2` `C#`
  * [Rattic](http://rattic.org/) - Password Management for Humans ([Source code](https://github.com/tildaslash/RatticWeb))
- * [Teampass](http://www.teampass.net/) - Password manager dedicated for managing passwords in a collaborative way on any server Apache, MySQL and PHP. ([Source code](https://github.com/nilsteampassnet/TeamPass/)) `GPLv3` `PHP`
  
 ## Pastebins
 
