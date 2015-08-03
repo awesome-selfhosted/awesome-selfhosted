@@ -297,8 +297,11 @@ CMS are a practical way to setup a website with many features. CMS often come wi
 ## Media Streaming
 
   * [Emby](https://github.com/MediaBrowser/MediaBrowser) - A home media server built using other popular open source technologies. - `GPLv2`
+  * [Flumotion](http://flumotion.net/) - a streaming media server with intuitive graphical administration tools ([Source code](https://github.com/Flumotion/flumotion)) `LGPLv2` `Python`
   * [HTPC Manager](http://htpc.io/) - A fully responsive interface to manage all your favorite media on your HTPC. - `MIT`
+  * [ReadyMedia](http://sourceforge.net/projects/minidlna/) - a simple media server software, with the aim of being fully compliant with DLNA/UPnP-AV clients `GPLv2` `C`
   * [Streama](https://github.com/dularion/streama) - Self-hosted Netflix alternative. - `MIT` `Java`
+
 
 ## Mind Maps
  * [Mindmaps](https://github.com/drichard/mindmaps) - An open source, offline capable, mind mapping application ([Demo](http://drichard.org/mindmaps/))
@@ -530,7 +533,6 @@ See https://staticsitegenerators.net and https://www.staticgen.com
 
  * [Awesome Sysadmin](https://github.com/n1trux/awesome-sysadmin) -  A curated list of amazingly awesome open source sysadmin resources.
  * [PRISM Break](https://prism-break.org/en/), [Privacytools.io](https://www.privacytools.io/) - Mobile, computer & server privacy-minded applications
- * [Self-hostable software on alternativeTo.net](https://alternativeto.net/?platform=self-hosted&sort=likes)
 
 
 -------------------------------------------------------
