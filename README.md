@@ -55,6 +55,7 @@ Table of Contents
   - [Bug and Task Trackers](#bug-and-task-trackers)
   - [Documentation Generators](#documentation-generators)
 - [Static site generators](#static-site-generators)
+- [Statistics](#statistics)
 - [URL Shorteners](#url-shorteners)
 - [Wikis](#wikis)
 - [Self-hosting Solutions](#self-hosting-solutions)
@@ -549,6 +550,17 @@ Some [Groupware](#groupware) solutions also feature file sharing synchronization
 ## Static site generators
 
 See [staticsitegenerators.net](https://staticsitegenerators.net) and [staticgen.com](https://www.staticgen.com)
+
+
+
+## Statistics
+*Analytics software.*
+
+* [AWStats](http://www.awstats.org/) - Generates web, streaming, ftp or mail server statistics graphically.
+* [GoAccess](http://goaccess.io/) - Real-time web log analyzer and interactive viewer that runs in a terminal.
+* [Open Web Analytics](http://www.openwebanalytics.com/) - Add web analytics to websites using JS, PHP or REST APIs.
+* [Piwik](http://piwik.org/) - Web analytics application.
+* [Webalizer](http://www.webalizer.org/) - Fast web server log file analysis.
 
 
 ## URL Shorteners
