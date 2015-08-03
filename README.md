@@ -14,7 +14,7 @@ Table of Contents
 - [Analytics](#analytics)
 - [Automation](#automation)
 - [Blogging Platforms](#blogging-platforms)
-- [Bookmarks and Link Sharing](#bookmarks-and-link-sharing)
+- [Bookmarks & Link Sharing](#bookmarks--link-sharing)
 - [Calendar and Address Books](#calendar-and-address-books)
 - [Communication systems](#communication-systems)
   - [Email](#email)
@@ -56,7 +56,6 @@ Table of Contents
 - [URL Shorteners](#url-shorteners)
 - [Wikis](#wikis)
 - [Self-hosting Solutions](#self-hosting-solutions)
-
 - [List of Licenses](#list-of-licenses)
 - [External links](#external-links)
 - [Contributing](#contributing)
@@ -570,42 +569,59 @@ This list is under the [Creative Commons Attribution-ShareAlike 3.0 Unported](LI
 
 The list of contributors can be found below
 
-    78  nodiscc <nodiscc@gmail.com>
-    68  Edward D <ed.kickball@hotmail.com>
-    15  Kovah <mail@kovah.de>
-    13  Kickball <ed.kickball@hotmail.com>
-    12  jungle-boogie <sean@jungleboogie.me>
+    87  nodiscc <nodiscc@gmail.com>
+    70  Edward D <ed.kickball@hotmail.com>
+    15  Kickball <ed.kickball@hotmail.com>
+    13  jungle-boogie <sean@jungleboogie.me>
+     9  Kovah <mail@kovah.de>
      7  Thomas Dalichow <info@thomasdalichow.de>
      6  Thomas Dalichow <2012-02-05.github.com@thomasdalichow.de>
      5  Moti Korets <moti.kor@gmail.com>
+     4  Jean Elchinger <jinformatique@riseup.net>
+     3  Jan Vlnas <jnv@users.noreply.github.com>
+     3  Mariusz Kozakowski <11mariom+wordpress@gmail.com>
+     3  Martin Gontovnikas <martin@gon.to>
      3  Ye Lin Aung <me@yelinaung.com>
      3  jungle-boogie <sean@rastasean.net>
-     3  Martin Gontovnikas <martin@gon.to>
      3  rett gerst <rettgerst@users.noreply.github.com>
-     3  Mariusz Kozakowski <11mariom+wordpress@gmail.com>
-     3  Jan Vlnas <jnv@users.noreply.github.com>
+     2  Charles Farence III <charles@charlessite90.com>
+     2  Costin Moise <necenzurat@gmail.com>
+     2  Deryck <dhenson02@users.noreply.github.com>
+     2  Greg V <greg@unrelenting.technology>
+     2  Joseph Dykstra <josephdykstra@gmail.com>
+     2  Marien Fressinaud <dev@marienfressinaud.fr>
+     2  Mikael Peigney <Mika56@users.noreply.github.com>
+     2  Patrik Ragnarsson <patrik@starkast.net>
      2  Peter Thaleikis <spekulatius@users.noreply.github.com>
      2  Poorchop <Poorchop@users.noreply.github.com>
-     2  Costin Moise <necenzurat@gmail.com>
-     2  Joseph Dykstra <josephdykstra@gmail.com>
      2  Stefano <sabas88@gmail.com>
      2  Thomas Citharel <tcit@tcit.fr>
-     2  Greg V <greg@unrelenting.technology>
      2  cron410 <cron410@gmail.com>
      2  jimykk <JimyKK@users.noreply.github.com>
      2  phre4k <me@phre4k.at>
-     2  Charles Farence III <charles@charlessite90.com>
+     2  tomc3 <wordoftheday003@gmail.com>
      2  yuche <i@yuche.me>
-     2  Marien Fressinaud <dev@marienfressinaud.fr>
-     2  Deryck <dhenson02@users.noreply.github.com>
-     2  Mikael Peigney <Mika56@users.noreply.github.com>
-     2  Patrik Ragnarsson <patrik@starkast.net>
-     1  Stefan Bohacek <stefan@fourtonfish.com>
+     1  Alys <alice.harris@oldgods.net>
+     1  Caleb Xu <calebcenter@live.com>
      1  Calle Wolff <carl@wolff.se>
      1  Dan <rocks.in.the.cloud@gmail.com>
+     1  Dirk Krause <dirkk0@googlemail.com>
      1  Dražen Lučanin <kermit666@gmail.com>
      1  Igor Antun <IgorAntun@users.noreply.github.com>
-     1  Jean Elchinger <jinformatique@riseup.net>
      1  Jeremiah Marks <jeremiah@jlmarks.org>
      1  Joel Calado <joelcalado@gmail.com>
      1  Joshua Hamilton <joshua.hamilton@fabricut.com>
+     1  Keith Thibodeaux <kthibodeaux@peachtreebilling.com>
+     1  Marcus Ramberg <marcus@nordaaker.com>
+     1  MatFluor <MatFluor@users.noreply.github.com>
+     1  Remy Honig <remyhonig@users.noreply.github.com>
+     1  Stefan Bohacek <stefan.bohacek@gmail.com>
+     1  Stefan Bohacek <stefan@fourtonfish.com>
+     1  benmaynard11 <allowin-217941-github@vhost244.maynardnetworks.com>
+     1  bricej13 <bricej13@gmail.com>
+     1  mertinop <martin.santibanez.a@gmail.com>
+     1  skarphet <skarphet@users.noreply.github.com>
+     1  steven jacobs <stjacobs@fastmail.fm>
+     1  stevesbrain <stevesbrain@users.noreply.github.com>
+     1  ttoups <ich@timotoups.de>
+
