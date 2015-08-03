@@ -31,6 +31,7 @@ Table of Contents
 - [Games](#games)
 - [Gateways](#gateways)
 - [Groupware](#groupware)
+- [Learning and Courses](#learning-and-courses)
 - [Maps & GPS](#maps--gps)
 - [Media Streaming](#media-streaming)
 - [Mind Maps](#mind-maps)
@@ -137,8 +138,10 @@ See also [Static Site Generators](#static-site-generators) and  [Content Managem
   * [Ostel](https://dev.guardianproject.info/projects/ostel/wiki/Server_Documentation) - Secure SIP telephony setup with ZRTP encryption `GPLv3` `Ruby`
 
 ### IRC
-  * [Shout](http://shout-irc.com/) -The self-hosted web IRC client ([Demo](http://demo.shout-irc.com/), [Source code](https://github.com/erming/shout)) `MIT` `Nodejs`
+
   * [Convos](http://convos.by/) - Always online web IRC client ([Demo](http://demo.convos.by), [Source code](http://github.com/nordaaker/convos)) `ARTv2` `Perl` 
+  * [Shout](http://shout-irc.com/) - The self-hosted web IRC client ([Demo](http://demo.shout-irc.com/), [Source code](https://github.com/erming/shout)) `MIT` `Nodejs`
+  * [Weechat](https://weechat.org/) - a fast, light and extensible chat client `GPLv3` `C`
   * [ZNC](http://wiki.znc.in/ZNC) - An advanced IRC bouncer `Apache` `C++`
 
 ### Custom
@@ -169,6 +172,7 @@ See also [Static Site Generators](#static-site-generators) and  [Content Managem
   * [Jappix](https://jappix.com/) - Jappix is an open social platform, that let's you easily get or keep in touch with everyone.
   * [Movim](https://movim.eu/) - A brand new social network, full of awesome features in a modern and smart interface
   * [NodeBB](https://nodebb.org/) - Node.js based forum software built for the modern web ([Source code](https://github.com/NodeBB/NodeBB)) - `GPLv3` `Node.js`
+  * [PPnet](https://github.com/pixelpark/ppnet) Create and host your own social network. `MIT` `JavaScript`
   * [Pump.io](http://pump.io/) - stream server that does most of what people really want from a social network ([Source code](https://github.com/e14n/pump.io))
   * [Reddit](https://www.reddit.com/) - social networking and news website where registered community members can submit content. ([Demo](https://www.reddit.com/) [Source Code](https://github.com/reddit/reddit)) `CPALv1` `Python`
   * [RedMatrix](http://redmatrix.me/) - complete decentralised publishing, sharing, and communications system ([Source code](https://github.com/redmatrix/redmatrix))
@@ -192,6 +196,7 @@ CMS are a practical way to setup a website with many features. CMS often come wi
   * [ImpressPages CMS](https://www.impresspages.org/) - Easy code meets easy admin. ([Demo](https://www.impresspages.org/demo), [Source Code](https://github.com/impresspages/ImpressPages)) `GPLv3`/`MIT`  `PHP`
   * [Joomla!](http://www.joomla.fr/) - Advanced Content Management System (CMS) `GPL`
   * [KeystoneJS](http://keystonejs.com/) - Node.js CMS & Web Application Platform ([Demo](http://demo.keystonejs.com/), [Source Code](https://github.com/keystonejs/keystone)) `MIT` `Node.js`
+  * [MODX](http://modx.com/) - MODX is an advanced content management and publishing platform. The current version is called 'Revolution'. ([Source Code](https://github.com/modxcms/revolution)) `GPLv2` `PHP`
   * [Movable Type](https://movabletype.org/) - a powerful solution for the creation and management of web content.
   * [october](http://octobercms.com/) - Free, open-source, self-hosted CMS platform based on the Laravel PHP Framework. ([Source code](https://github.com/octobercms/october)) `MIT`
   * [Pagekit](http://pagekit.com/) - A new modern CMS to create and share ([Source code](https://github.com/pagekit/pagekit)) - `MIT`
@@ -244,11 +249,13 @@ CMS are a practical way to setup a website with many features. CMS often come wi
 
 ## File Sharing and Synchronization
 
+  * [BoZoN](https://github.com/broncowdd/BoZoN) - Minimalist Drag & drop file sharing app `AGPLv3` `PHP`
   * [Camlistore](https://camlistore.org/) - Camlistore is a set of open source formats, protocols, and software for modeling, storing, searching, sharing and synchronizing data in the post-PC era. Data may be files or objects, tweets or 5TB videos, and you can access it via a phone, browser or FUSE filesystem. ([Source code](https://github.com/camlistore/camlistore)) `Apache` `Go`
   * [Coquelicot](https://coquelicot.potager.org/) - Coquelicot is a “one-click” file sharing web application with a focus on protecting users’ privacy. - `AGPLv3`
   * [Dropcenter](http://projet.idleman.fr/dropcenter/) - Upload files by simple drag-n-drop.
   * [droppy](https://github.com/silverwind/droppy) - droppy is a self-hosted cloud server with an interface similar to desktop file managers and has capabilites to edit files on-the-fly as well as view and playback media directly in the browser. ([Demo](http://droppy.silverwind.io/)) `BSD` `Nodejs`
   * [eXtplorer](http://extplorer.sourceforge.net/) - A PHP- and JavaScript- based File Manager
+  * [FilePizza](http://file.pizza/) - Peer-to-peer file transfers in your browser ([Source code](https://github.com/kern/filepizza)) `BSD` `Nodejs`
   * [Git Annex](http://git-annex.branchable.com/assistant/quickstart/) - File synchronization between computers, servers, external drives
   * [img.bi](https://github.com/imgbi/img.bi) - img.bi is a secure image hosting. Images are encrypted using AES-256 with random key in browser before upload. `GPLv3` `Nodejs`
   * [instant.io](https://github.com/feross/instant.io) - Streaming file transfer over WebTorrent ([Demo](https://instant.io)) `MIT` `Nodejs`
@@ -287,31 +294,39 @@ CMS are a practical way to setup a website with many features. CMS often come wi
   * [Horde](http://www.horde.org/) - The Horde Project is about creating high quality Open Source applications and libraries, based on PHP and the Horde Framework. - `GPL` + Various Free Software / Open Source Software Licenses
   * [Kolab](https://kolab.org/) - Kolab community is a unified communication and collaboration system - `Various FLOSS Licenses` ([Source](http://git.kolab.org/))
   * [Tine 2.0org](https://www.tine20.org) - Contacts, Calendar, Tasks, WebDAV, ActiveSync, VOIP, Mail-Client, CRM, Sales, Projects, Timetracker -  ([Demo](https://demo.tine20.net)) - `AGPLv3`
- * [Zimbra Collaboration] (https://www.zimbra.com/downloads/) - Email, calendar, collaboration server with web interface and lots of integrations.  ([Source code]( https://www.zimbra.com/open-source)) `GPLv2/CPALv1` `Java`
+  * [Zimbra Collaboration] (https://www.zimbra.com/downloads/) - Email, calendar, collaboration server with web interface and lots of integrations.  ([Source code]( https://www.zimbra.com/open-source)) `GPLv2/CPALv1` `Java`
+
+## Learning and Courses
+
+  * [Chamilo LMS](https://chamilo.org/chamilo-lms/) - Chamilo LMS allows you to create a virtual campus for the provision of online or semi-online training. ([Source code](https://github.com/chamilo/chamilo-lms)) - `GPLv3` `PHP`
+  * [Moodle](https://moodle.org/) - Moodle is a learning and courses platform with one of the largest open source communities worldwide. ([Demo](https://moodle.org/demo/), [Source code](https://git.moodle.org/gw)) - `GPL` `PHP`
+  * [Sakai](https://www.sakaiproject.org/) - The Sakai project provides a flexible and feature-rich environment for teaching, learning, research and other collaboration. ([Demo](https://www.sakaiproject.org/try-sakai), [Source code](https://github.com/sakaiproject/sakai)) - `ECLv2` `Java`
 
 ## Maps & GPS
 
-  * [Traccar](https://www.traccar.org/) - Java application to track GPS positions. Supports loads of tracking devices and protocols, has an Android and iOS App. Has a web interface to view your trips -  ([Demo](http://demo.traccar.org/), [Source code](https://github.com/tananaev?tab=repositories)) - `Apache`
   * [Graphhopper](https://graphhopper.com/) -  Fast routing library and server using OpenStreetMap ([Source code](https://github.com/graphhopper/graphhopper))
   * [Openstreetmap](http://www.openstreetmap.org/) - OpenStreetMap is a map of the world, created by people like you and free to use under an open license. ([Source code](https://github.com/openstreetmap/openstreetmap-website))
+  * [Traccar](https://www.traccar.org/) - Java application to track GPS positions. Supports loads of tracking devices and protocols, has an Android and iOS App. Has a web interface to view your trips -  ([Demo](http://demo.traccar.org/), [Source code](https://github.com/tananaev?tab=repositories)) - `Apache`
 
 
 ## Media Streaming
 
   * [Emby](https://github.com/MediaBrowser/MediaBrowser) - A home media server built using other popular open source technologies. - `GPLv2`
+  * [Flumotion](http://flumotion.net/) - a streaming media server with intuitive graphical administration tools ([Source code](https://github.com/Flumotion/flumotion)) `LGPLv2` `Python`
   * [HTPC Manager](http://htpc.io/) - A fully responsive interface to manage all your favorite media on your HTPC. - `MIT`
+  * [ReadyMedia](http://sourceforge.net/projects/minidlna/) - a simple media server software, with the aim of being fully compliant with DLNA/UPnP-AV clients `GPLv2` `C`
   * [Streama](https://github.com/dularion/streama) - Self-hosted Netflix alternative. - `MIT` `Java`
 
-## Mind Maps
- * [Mindmaps](https://github.com/drichard/mindmaps) - An open source, offline capable, mind mapping application ([Demo](http://drichard.org/mindmaps/))
 
+## Mind Maps
+  * [Mindmaps](https://github.com/drichard/mindmaps) - An open source, offline capable, mind mapping application ([Demo](http://drichard.org/mindmaps/))
 
 
 ## Money, Budgeting and Management
 
   * [GLPI](http://www.glpi-project.org/spip.php?lang=en) - GLPI is an IT assests/resources/inventory manager ([Source code](https://forge.glpi-project.org/projects/glpi)) `GPLv2` `PHP`
   * [GRR](http://grr.devome.com/?lang=en) - Assets management and booking for small/medium companies ([demo](http://grr.devome.com/demo/week_all.php?year=2015&month=07&day=28&area=94), _administrateur/azerty_) `GPLv2` `PHP`
-  * [InvoicePlane](https://invoiceplane.com/) - Manage quotes, invoices, payments and customers for your small business. - `MIT`
+  * [InvoicePlane](https://invoiceplane.com/) - Manage quotes, invoices, payments and customers for your small business. ([Demo](https://demo.invoiceplane.com), [Source code](https://github.com/InvoicePlane/InvoicePlane)) - `MIT`
 
 
 ## Monitoring and Administration
@@ -319,8 +334,8 @@ CMS are a practical way to setup a website with many features. CMS often come wi
   * [Adagios](http://adagios.org/) - Web based Nagios interface for configuration, as well as monitoring (as a replacement to the standard interface), and a REST interface ([Demo](http://demo.adagios.org/), [SourceCode](https://github.com/opinkerfi/adagios), [Documentation](https://github.com/opinkerfi/adagios/wiki)) - `GPLv3` `Python`
   * [adminer](http://www.adminer.org/) -  Database management in a single PHP file ([Source code](https://github.com/vrana/adminer))
   * [Icinga / Icinga 2](https://www.icinga.org/) - Nagios fork that has since lapped nagios several times. Comes with the possibility of clustered monitoring - ([SourceCode](https://github.com/Icinga)) - `GPLv2`
-  * [linux-dash](https://github.com/afaqurk/linux-dash) - A drop-in, low-overhead monitoring web dashboard for a linux machine ([Demo](http://afaq.dreamhosters.com/linux-dash/))
   * [LibreNMS](http://www.librenms.org/) - Community-based GPL-licensed network monitoring system - `GPLv3`
+  * [linux-dash](https://github.com/afaqurk/linux-dash) - A drop-in, low-overhead monitoring web dashboard for a linux machine ([Demo](http://afaq.dreamhosters.com/linux-dash/))
   * [Nagios](https://www.nagios.org/) - Industry standard monitoring software, which has a lot of plugins and customisation posibilities. - `GPL`
   * [phpSysInfo](https://phpsysinfo.github.io/phpsysinfo/) - a customizable PHP script that displays information about your system nicely ([Demo](http://phpsysinfo.sourceforge.net/phpsysinfo/index.php?disp=bootstrap))
   * [Prometheus](http://prometheus.io/) - Monitoring system and time series database. ([Source code](https://github.com/prometheus/prometheus)) `Apache` `Go`
@@ -336,8 +351,8 @@ CMS are a practical way to setup a website with many features. CMS often come wi
   * [Ampache](http://ampache.org/) - A web based audio/video streaming application `GPLv2` `PHP`
   * [cloudtunes](https://github.com/jakubroztocil/cloudtunes) -  Web-based music player for the cloud `MIT` `Python/Javascript`
   * [Groove Basin](http://groovebasin.com/) - A music player server with a web-based user interface inspired by Amarok 1.4 ([Source code](https://github.com/andrewrk/groovebasin)) `MIT` `Nodejs`
-  * [mpd](http://www.musicpd.org/) - Daemon to remotely play music, stream music, handle and organize playlists. Many clients available. `GPLv2` `C++`
   * [Mopidy](http://mopidy.readthedocs.org/) - Extensible music server. Offers a superset of the mpd API, as well as integration with 3rd party services like Spotify, SoundCloud etc. ([Source code](https://github.com/mopidy/mopidy)) `Apache` `Python`
+  * [mpd](http://www.musicpd.org/) - Daemon to remotely play music, stream music, handle and organize playlists. Many clients available. `GPLv2` `C++`
   * [Sonerezh](https://www.sonerezh.bzh/) - A self-hosted, web-based application for stream your music, everywhere. ([Demo](https://www.sonerezh.bzh/demo/), [Documentation](https://www.sonerezh.bzh/docs/), [Source code](https://github.com/sonerezh/sonerezh)) `GPLv3` `PHP`
   * [Subsonic](http://subsonic.org/) - Open-source web-based media streamer and jukebox ([Source code](https://github.com/EugeneKay/subsonic)) `GPLv3` `Java`
 
@@ -346,12 +361,12 @@ CMS are a practical way to setup a website with many features. CMS often come wi
 
 ## Note-taking & Editors
 
+  * [dillinger](http://dillinger.io/) - The last Markdown editor, ever. ([Source code](https://github.com/joemccann/dillinger/)) `MIT` `Nodejs`
   * [Jotter](https://github.com/yosko/jotter) - Jotter is a lightweight, no database, powerful web notebook that lets you create and manage notes online safely, quickly & easily. ([Demo](http://tools.yosko.net/demos/jotter/) - `demo/demo`)
   * [Laverna](https://laverna.cc/) - Laverna is a JavaScript note taking application with Markdown editor and encryption support. Consider it like open source alternative to Evernote ([Source code](https://github.com/Laverna/laverna), [Demo](https://laverna.cc/index.html#notes))
   * [minimalist-web-notepad](https://github.com/pereorga/minimalist-web-notepad)- a minimalist http://notepad.cc clone `Apache` `PHP`
   * [OpenNote](https://github.com/FoxUSA/OpenNote) - OpenNote was built to be an open web-based alternative to Microsoft OneNote (T) and EverNote
   * [Paperwork](http://paperwork.rocks) - OpenSource note-taking & archiving alternative to Evernote, Microsoft OneNote & Google Keep ([Source code](https://github.com/twostairs/paperwork))
-  * [dillinger](http://dillinger.io/) - The last Markdown editor, ever. ([Source code](https://github.com/joemccann/dillinger/)) `MIT` `Nodejs`
   * [Turtl](https://turtl.it/) - A totally private personal database and note taking app ([Source code](https://github.com/turtl)) `GPLv3` `CommonLisp`
 
 
@@ -454,7 +469,7 @@ CMS are a practical way to setup a website with many features. CMS often come wi
   * [Crepido](https://github.com/arshad/crepido) - Create (kanban) boards to track users and projects from flat markdown files `MIT` `Javascript/Others`
   * [Flyspray](http://www.flyspray.org/) - uncomplicated, web-based bug tracking system ([Source code](https://github.com/Flyspray/flyspray)) `GPLv2`
   * [Gaskit](https://github.com/bkeepers/gaskit) - a git-backed issue tracker. It uses a branch in your local git database to store the tickets. `GPL`
-  * [HabitRPG](http://habitrpg.com/) - A habit tracker app which treats your goals like a Role Playing Game. ([Source code](https://github.com/lefnire/habitrpg))
+  * [Habitica](http://habitica.com/) - A habit tracker app which treats your goals like a Role Playing Game. Previously called HabitRPG. ([Source code](https://github.com/HabitRPG/habitrpg)) `GPLv3/Other` `Nodejs`
   * [Kanboard](http://kanboard.net/) - A simple and open source visual task board `AGPLv3`
   * [MantisBT](https://www.mantisbt.org/) - Self hosted bug tracker, fits best for software development - ([Demo](https://www.mantisbt.org/bugs/my_view_page.php)) -  ([Source code](https://github.com/mantisbt/mantisbt)) - `GPLv2`
   * [myTinyTodo](http://www.mytinytodo.net/) - Simple way to manage your todo list in AJAX style. Uses PHP, jQuery, SQLite/MySQL. GTD compliant. `GPL`
@@ -469,7 +484,8 @@ CMS are a practical way to setup a website with many features. CMS often come wi
 
 ## Static site generators
 
-See https://staticsitegenerators.net and https://www.staticgen.com
+See [staticsitegenerators.net](https://staticsitegenerators.net) and [staticgen.com](https://www.staticgen.com)
+
 
 ## URL Shorteners
 
@@ -505,6 +521,7 @@ See https://staticsitegenerators.net and https://www.staticgen.com
 ## Self-hosting Solutions
 
   * [arkOS](https://arkos.io/) - Install arkOS to a dedicated device and host your own websites, email, files and more. ([Source code](https://git.coderouge.co/groups/arkOS) [[1]](https://github.com/cznweb)) `MIT/GPL` `Nodejs/Other`
+  * [Mail-in-a-Box](https://mailinabox.email/) - Turns any Ubuntu server into a fully functional mail server with one command. `Shell/Other` `CC0`
   * [Sandstorm](https://sandstorm.io/) - Personal server for running self-hosted apps easily and securely. ([Demo](https://demo.sandstorm.io/), [Source code](https://github.com/sandstorm-io/sandstorm)) `Apache` `C++/Other`
   * [sovereign](https://github.com/sovereign/sovereign) -  A set of Ansible playbooks to build and maintain your own private cloud: email, calendar, contacts, file sync, IRC bouncer, VPN, and more. `GPLv3` `YAML/Other`
   * [yunohost](https://yunohost.org/) - a server operating system aiming to make self-hosting accessible to everyone. ([Source code](https://github.com/YunoHost)) - `AGPL` `Python/Other`
@@ -520,11 +537,12 @@ See https://staticsitegenerators.net and https://www.staticgen.com
  * `ARTv2` - [Artistic License Version 2.0](http://opensource.org/licenses/Artistic-2.0)
  * `BSD` - [FreeBSD License](https://www.freebsd.org/copyright/license.html)
  * `CPALv1` - [Common Public Attribution License Version 1.0](http://opensource.org/licenses/CPAL-1.0)
+ * `ECLv2` - [Educational Community License, Version 2.0 ](http://opensource.org/licenses/ECL-2.0)
  * `GPL` - [GNU General Public License](https://www.gnu.org/licenses/gpl-1.0)
  * `GPLv2` - [GNU General Public License 2.0](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
  * `GPLv3` - [GNU General Public License 3.0](http://www.gnu.org/licenses/gpl-3.0.en.html)
- *  `MIT` - [MIT License](http://opensource.org/licenses/MIT)
- *  `MPLv2` - [Mozilla Public License](https://www.mozilla.org/MPL/2.0/index.txt)
+ * `MIT` - [MIT License](http://opensource.org/licenses/MIT)
+ * `MPLv2` - [Mozilla Public License](https://www.mozilla.org/MPL/2.0/index.txt)
 
 
 -------------------------------------------------------
@@ -532,7 +550,6 @@ See https://staticsitegenerators.net and https://www.staticgen.com
 
  * [Awesome Sysadmin](https://github.com/n1trux/awesome-sysadmin) -  A curated list of amazingly awesome open source sysadmin resources.
  * [PRISM Break](https://prism-break.org/en/), [Privacytools.io](https://www.privacytools.io/) - Mobile, computer & server privacy-minded applications
- * [Self-hostable software on alternativeTo.net](https://alternativeto.net/?platform=self-hosted&sort=likes)
 
 
 -------------------------------------------------------
@@ -555,14 +572,15 @@ This list is under the [Creative Commons Attribution-ShareAlike 3.0 Unported](LI
 
 The list of contributors can be found below
 
-    77  nodiscc <nodiscc@gmail.com>
-    68  Edward D <ed.kickball@hotmail.com>
-    12  Kickball <ed.kickball@hotmail.com>
-    12  jungle-boogie <sean@jungleboogie.me>
+    87  nodiscc <nodiscc@gmail.com>
+    70  Edward D <ed.kickball@hotmail.com>
+    15  Kickball <ed.kickball@hotmail.com>
+    13  jungle-boogie <sean@jungleboogie.me>
+     9  Kovah <mail@kovah.de>
      7  Thomas Dalichow <info@thomasdalichow.de>
-     6  Kovah <mail@kovah.de>
      6  Thomas Dalichow <2012-02-05.github.com@thomasdalichow.de>
      5  Moti Korets <moti.kor@gmail.com>
+     4  Jean Elchinger <jinformatique@riseup.net>
      3  Jan Vlnas <jnv@users.noreply.github.com>
      3  Mariusz Kozakowski <11mariom+wordpress@gmail.com>
      3  Martin Gontovnikas <martin@gon.to>
@@ -584,13 +602,15 @@ The list of contributors can be found below
      2  cron410 <cron410@gmail.com>
      2  jimykk <JimyKK@users.noreply.github.com>
      2  phre4k <me@phre4k.at>
+     2  tomc3 <wordoftheday003@gmail.com>
      2  yuche <i@yuche.me>
+     1  Alys <alice.harris@oldgods.net>
      1  Caleb Xu <calebcenter@live.com>
      1  Calle Wolff <carl@wolff.se>
      1  Dan <rocks.in.the.cloud@gmail.com>
+     1  Dirk Krause <dirkk0@googlemail.com>
      1  Dražen Lučanin <kermit666@gmail.com>
      1  Igor Antun <IgorAntun@users.noreply.github.com>
-     1  Jean Elchinger <jinformatique@riseup.net>
      1  Jeremiah Marks <jeremiah@jlmarks.org>
      1  Joel Calado <joelcalado@gmail.com>
      1  Joshua Hamilton <joshua.hamilton@fabricut.com>
@@ -600,8 +620,11 @@ The list of contributors can be found below
      1  Remy Honig <remyhonig@users.noreply.github.com>
      1  Stefan Bohacek <stefan.bohacek@gmail.com>
      1  Stefan Bohacek <stefan@fourtonfish.com>
+     1  benmaynard11 <allowin-217941-github@vhost244.maynardnetworks.com>
      1  bricej13 <bricej13@gmail.com>
+     1  mertinop <martin.santibanez.a@gmail.com>
      1  skarphet <skarphet@users.noreply.github.com>
      1  steven jacobs <stjacobs@fastmail.fm>
      1  stevesbrain <stevesbrain@users.noreply.github.com>
      1  ttoups <ich@timotoups.de>
+
