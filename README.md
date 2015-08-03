@@ -200,7 +200,7 @@ CMS are a practical way to setup a website with many features. CMS often come wi
   * [SPIP](http://www.spip.net/fr) - Publication system for the Internet. 
   * [Wordpress](https://wordpress.org/) - The worlds most-used blogging and CMS engine. ([Source code mirror](https://github.com/WordPress/WordPress)) `GPLv2`
   
-### E-Shops
+### E-commerce
 
 * [PrestaShop](https://www.prestashop.com/) - PrestaShop offers a free, open-source and fully scalable e-commerce solution. ([Demo](http://demo.prestashop.com/), [Source Code](https://github.com/PrestaShop/PrestaShop)) `OSL 3.0` `PHP`
   
