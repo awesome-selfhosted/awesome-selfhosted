@@ -14,7 +14,7 @@ Table of Contents
 - [Analytics](#analytics)
 - [Automation](#automation)
 - [Blogging Platforms](#blogging-platforms)
-- [Bookmarks & Link Sharing](#bookmarks--link-sharing)
+- [Bookmarks and Link Sharing](#bookmarks-and-link-sharing)
 - [Calendar and Address Books](#calendar-and-address-books)
 - [Communication systems](#communication-systems)
   - [Email](#email)
@@ -31,6 +31,7 @@ Table of Contents
 - [Games](#games)
 - [Gateways](#gateways)
 - [Groupware](#groupware)
+- [Learning and Courses](#learning-and-courses)
 - [Maps & GPS](#maps--gps)
 - [Media Streaming](#media-streaming)
 - [Mind Maps](#mind-maps)
@@ -55,6 +56,7 @@ Table of Contents
 - [URL Shorteners](#url-shorteners)
 - [Wikis](#wikis)
 - [Self-hosting Solutions](#self-hosting-solutions)
+
 - [List of Licenses](#list-of-licenses)
 - [External links](#external-links)
 - [Contributing](#contributing)
@@ -292,6 +294,12 @@ CMS are a practical way to setup a website with many features. CMS often come wi
   * [Tine 2.0org](https://www.tine20.org) - Contacts, Calendar, Tasks, WebDAV, ActiveSync, VOIP, Mail-Client, CRM, Sales, Projects, Timetracker -  ([Demo](https://demo.tine20.net)) - `AGPLv3`
   * [Zimbra Collaboration] (https://www.zimbra.com/downloads/) - Email, calendar, collaboration server with web interface and lots of integrations.  ([Source code]( https://www.zimbra.com/open-source)) `GPLv2/CPALv1` `Java`
 
+## Learning and Courses
+
+  * [Chamilo LMS](https://chamilo.org/chamilo-lms/) - Chamilo LMS allows you to create a virtual campus for the provision of online or semi-online training. ([Source code](https://github.com/chamilo/chamilo-lms)) - `GPLv3` `PHP`
+  * [Moodle](https://moodle.org/) - Moodle is a learning and courses platform with one of the largest open source communities worldwide. ([Demo](https://moodle.org/demo/), [Source code](https://git.moodle.org/gw)) - `GPL` `PHP`
+  * [Sakai](https://www.sakaiproject.org/) - The Sakai project provides a flexible and feature-rich environment for teaching, learning, research and other collaboration. ([Demo](https://www.sakaiproject.org/try-sakai), [Source code](https://github.com/sakaiproject/sakai)) - `ECLv2` `Java`
+
 ## Maps & GPS
 
   * [Graphhopper](https://graphhopper.com/) -  Fast routing library and server using OpenStreetMap ([Source code](https://github.com/graphhopper/graphhopper))
@@ -523,6 +531,7 @@ See [staticsitegenerators.net](https://staticsitegenerators.net) and [staticgen.
  * `ARTv2` - [Artistic License Version 2.0](http://opensource.org/licenses/Artistic-2.0)
  * `BSD` - [FreeBSD License](https://www.freebsd.org/copyright/license.html)
  * `CPALv1` - [Common Public Attribution License Version 1.0](http://opensource.org/licenses/CPAL-1.0)
+ * `ECLv2` - [Educational Community License, Version 2.0 ](http://opensource.org/licenses/ECL-2.0)
  * `GPL` - [GNU General Public License](https://www.gnu.org/licenses/gpl-1.0)
  * `GPLv2` - [GNU General Public License 2.0](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
  * `GPLv3` - [GNU General Public License 3.0](http://www.gnu.org/licenses/gpl-3.0.en.html)
