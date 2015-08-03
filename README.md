@@ -31,7 +31,6 @@ Table of Contents
 - [Games](#games)
 - [Gateways](#gateways)
 - [Groupware](#groupware)
-- [Learning and Courses](#learning-and-courses)
 - [Maps & GPS](#maps--gps)
 - [Media Streaming](#media-streaming)
 - [Mind Maps](#mind-maps)
@@ -53,7 +52,6 @@ Table of Contents
   - [IDE/Tools](#idetools)
   - [Continuous Integration](#continuous-integration)
   - [Bug and Task Trackers](#bug-and-task-trackers)
-  - [Documentation Generators](#documentation-generators)
 - [Static site generators](#static-site-generators)
 - [Statistics](#statistics)
 - [Ticketing systems](#ticketing-systems)
@@ -152,7 +150,7 @@ Some [Groupware](#groupware) solutions also feature calendar/address book editin
   * [Ostel](https://dev.guardianproject.info/projects/ostel/wiki/Server_Documentation) - Secure SIP telephony setup with ZRTP encryption `GPLv3` `Ruby`
 
 ### IRC
-
+  * [Shout](http://shout-irc.com/) -The self-hosted web IRC client ([Demo](http://demo.shout-irc.com/), [Source code](https://github.com/erming/shout)) `MIT` `Nodejs`
   * [Convos](http://convos.by/) - Always online web IRC client ([Demo](http://demo.convos.by), [Source code](http://github.com/nordaaker/convos)) `ARTv2` `Perl` 
   * [Quassel IRC](http://quassel-irc.org/) - distributed IRC client, meaning that one (or multiple) client(s) can attach to and detach from a central core ([Source code](https://github.com/quassel/quassel)) `GPLv2` `C++`
   * [Shout](http://shout-irc.com/) - The self-hosted web IRC client ([Demo](http://demo.shout-irc.com/), [Source code](https://github.com/erming/shout)) `MIT` `Nodejs`
@@ -291,12 +289,14 @@ Some [Groupware](#groupware) solutions also feature file sharing synchronization
   * [Git Annex](http://git-annex.branchable.com/assistant/quickstart/) - File synchronization between computers, servers, external drives
   * [img.bi](https://github.com/imgbi/img.bi) - img.bi is a secure image hosting. Images are encrypted using AES-256 with random key in browser before upload. `GPLv3` `Nodejs`
   * [instant.io](https://github.com/feross/instant.io) - Streaming file transfer over WebTorrent ([Demo](https://instant.io)) `MIT` `Nodejs`
+  * [ipMagnet](https://github.com/cbdevnet/ipmagnet/) - BitTorrent client IP address check ([Demo](http://ipmagnet.services.cbcdn.com/)) `WTFPL` `PHP`
   * [Jirafeau](https://gitlab.com/mojo42/Jirafeau/wikis/home) - Jirafeau is a web site permitting to upload a file in a simple way and give an unique link to it. ([Demo](http://jirafeau.net/))
   * [Jyraphe](http://home.gna.org/jyraphe/) - Jyraphe is a web application of file repository, easy to install and easy to use.
   * [lutim](https://github.com/ldidry/lutim) - Let's Upload That Image !
   * [Mediacrush](https://mediacru.sh/) - a website you can upload images, audio, and video to, and receive a link to share it with your friends ([Source code](https://github.com/MediaCrush/MediaCrush))
   * [Nimbus](https://github.com/ethanal/nimbus) - A drag-and-drop shortlink file sharer for OS X - `MIT` `Python`
   * [OnionShare](https://onionshare.org/) - securely and anonymously share a file of any size.
+  * [ownCloud](https://owncloud.org/) - All-in-one solution for saving and sharing files, photos, music- `AGPLv3`
   * [Pomf](https://github.com/nokonoko/Pomf) -  Simple file uploading and sharing, source for the now shut down site Pomf.se `MIT` `PHP/Nodejs`
   * [Pydio](https://pyd.io/) - Turn any web server into a powerful file management system and an alternative to mainstream cloud storage providers.
   * [Seafile](http://www.seafile.com/en/home/) - File hosting and sharing solution primary for teams and organizations. ([Demo](https://seacloud.cc/demo)) `GPLv2`
@@ -338,6 +338,7 @@ Some [Groupware](#groupware) solutions also feature file sharing synchronization
 
 ## Maps & GPS
 
+  * [Traccar](https://www.traccar.org/) - Java application to track GPS positions. Supports loads of tracking devices and protocols, has an Android and iOS App. Has a web interface to view your trips -  ([Demo](http://demo.traccar.org/), [Source code](https://github.com/tananaev?tab=repositories)) - `Apache`
   * [Graphhopper](https://graphhopper.com/) -  Fast routing library and server using OpenStreetMap ([Source code](https://github.com/graphhopper/graphhopper))
   * [MapBBCodeShare](https://github.com/MapBBCode/share.mapbbcode.org) - Tool for sharing custom OSM maps. Support for annotated markers, polygons, lines, multi-format import/export, multiple layers, shortlinks... ([Demo](http://share.mapbbcode.org/)) `WTFPL/Other` `PHP/Javascript`
   * [Openstreetmap](http://www.openstreetmap.org/) - OpenStreetMap is a map of the world, created by people like you and free to use under an open license. ([Source code](https://github.com/openstreetmap/openstreetmap-website))
@@ -354,7 +355,7 @@ Some [Groupware](#groupware) solutions also feature file sharing synchronization
 
 
 ## Mind Maps
-  * [Mindmaps](https://github.com/drichard/mindmaps) - An open source, offline capable, mind mapping application ([Demo](http://drichard.org/mindmaps/))
+ * [Mindmaps](https://github.com/drichard/mindmaps) - An open source, offline capable, mind mapping application ([Demo](http://drichard.org/mindmaps/))
 
 
 ## Money, Budgeting and Management
@@ -381,15 +382,14 @@ Some [Groupware](#groupware) solutions also feature file sharing synchronization
    * [uchiwa](https://uchiwa.io/) - simple dashboard for sensu
 
 
-
 ## Music Streaming
 
   * [Ampache](http://ampache.org/) - A web based audio/video streaming application `GPLv2` `PHP`
   * [CherryMusic](http://www.fomori.org/cherrymusic/) - minimalistic Web-Mediaplayer - `GPL` `Python`
   * [cloudtunes](https://github.com/jakubroztocil/cloudtunes) -  Web-based music player for the cloud `MIT` `Python/Javascript`
   * [Groove Basin](http://groovebasin.com/) - A music player server with a web-based user interface inspired by Amarok 1.4 ([Source code](https://github.com/andrewrk/groovebasin)) `MIT` `Nodejs`
-  * [Mopidy](http://mopidy.readthedocs.org/) - Extensible music server. Offers a superset of the mpd API, as well as integration with 3rd party services like Spotify, SoundCloud etc. ([Source code](https://github.com/mopidy/mopidy)) `Apache` `Python`
   * [mpd](http://www.musicpd.org/) - Daemon to remotely play music, stream music, handle and organize playlists. Many clients available. `GPLv2` `C++`
+  * [Mopidy](http://mopidy.readthedocs.org/) - Extensible music server. Offers a superset of the mpd API, as well as integration with 3rd party services like Spotify, SoundCloud etc. ([Source code](https://github.com/mopidy/mopidy)) `Apache` `Python`
   * [Sonerezh](https://www.sonerezh.bzh/) - A self-hosted, web-based application for stream your music, everywhere. ([Demo](https://www.sonerezh.bzh/demo/), [Documentation](https://www.sonerezh.bzh/docs/), [Source code](https://github.com/sonerezh/sonerezh)) `GPLv3` `PHP`
   * [Subsonic](http://subsonic.org/) - Open-source web-based media streamer and jukebox ([Demo](http://demo.subsonic.org/login.view?user=guest4&password=guest), [Source code](https://github.com/EugeneKay/subsonic)) `GPLv3` `Java`
 
@@ -466,7 +466,6 @@ Some [Groupware](#groupware) solutions also feature file sharing synchronization
 * [GitLab](https://www.gitlab.com/) - Clone of GitHub written in Ruby.
 * [Gogs](http://gogs.io/) - Self-hosted Git service written in Go.
 * [OpenProject](https://www.openproject.org) - Project collaboration.
-* [Phabricator](http://phabricator.org/) Written in PHP.
 * [Redmine](http://www.redmine.org/) - Written in ruby on rails.
 * [Taiga](https://taiga.io/) - Agile Project Management Tool based on the Kanban and Scrum methods.
 * [The Bug Genie](http://www.thebuggenie.com/) - Written in PHP.
@@ -604,9 +603,13 @@ See [staticsitegenerators.net](https://staticsitegenerators.net) and [staticgen.
   * [commonplace](https://github.com/fredoliveira/commonplace) - A server for your markdown files. Give it a directory, and Commonplace gives you a url, pretty pages, and quick editing.
   * [Dokuwiki](http://www.splitbrain.org/projects/dokuwiki) - An easy to use, lightweight, standards-compliant wiki engine with a simple syntax allowing reading the data outside the wiki. All data is stored in plain files, therefore no database is required. - `GPL`
   * [Gitit](https://github.com/jgm/gitit) - A wiki program that stores pages and uploaded files in a git repository, which can then be modified using the VCS command line tools or the wiki's web interface. Supported markups include pandoc's extended version of markdown, reStructuredText, LaTeX, and HTML. Pages can be exported in a number of different formats, including LaTeX, RTF, OpenOffice ODT, and MediaWiki markup. Other features include: plugins, syntax highlighting, caching, ATOM feeds
+  * [Gollum](https://github.com/gollum/gollum) - A simple, Git-powered wiki with a sweet API and local frontend.
   * [Gruik](http://gruik.io/) - An open-source markdown note-taking web app ([Source code](https://github.com/grena/gruik))
+  * [ikiwiki](http://ikiwiki.info/) - A wiki compiler.
   * [Mediawiki](https://www.mediawiki.org/wiki/MediaWiki)
+  * [MoinMoin](http://moinmo.in/) - An advanced, easy to use and extensible WikiEngine with a large community of users.
   * [Olelo/Gitwiki](https://github.com/minad/olelo) - Olelo is a wiki that stores pages in a Git repository, supports many markup styles and has an extensible, hackable architecture! Features: Edit, move or delete pages; Page attribute editor; Support for hierarchical wikis (directory structure); File upload; History, commit and diff view; Locales (Czech, English, French, German); Support for many markup languages (Creole, Markdown, Textile); RSS/Atom changelog for whole wiki or pages; Section editing for Creole; Embedded LaTeX formulas; Syntax highlighting; Image resizing, SVG to PNG/JPEG conversion; Auto-generated table of contents; Previews; View pages as S5 presentation; Privacy features: Access control lists, Private wiki, Read-only wiki. ([Demo](http://www.gitwiki.org/)) 
+  * [PmWiki](http://www.pmwiki.org) - Wiki-based system for collaborative creation and maintenance of websites.
   * [Raneto](http://raneto.com/) - Raneto is an open source Knowledgebase platform that uses static Markdown files to power your Knowledgebase - `MIT`
   * [Realms](https://github.com/scragg0x/realms-wiki) - a git-backed wiki inspired by Gollum
   * [TiddlyWiki](http://tiddlywiki.com/) - a reusable non-linear personal web notebook
@@ -655,8 +658,8 @@ See [staticsitegenerators.net](https://staticsitegenerators.net) and [staticgen.
  * `GPL` - [GNU General Public License](https://www.gnu.org/licenses/gpl-1.0)
  * `GPLv2` - [GNU General Public License 2.0](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
  * `GPLv3` - [GNU General Public License 3.0](http://www.gnu.org/licenses/gpl-3.0.en.html)
- * `MIT` - [MIT License](http://opensource.org/licenses/MIT)
- * `MPLv2` - [Mozilla Public License](https://www.mozilla.org/MPL/2.0/index.txt)
+ *  `MIT` - [MIT License](http://opensource.org/licenses/MIT)
+ *  `MPLv2` - [Mozilla Public License](https://www.mozilla.org/MPL/2.0/index.txt)
 
 
 -------------------------------------------------------
@@ -686,16 +689,14 @@ This list is under the [Creative Commons Attribution-ShareAlike 3.0 Unported](LI
 
 The list of contributors can be found below
 
-    87  nodiscc <nodiscc@gmail.com>
-    70  Edward D <ed.kickball@hotmail.com>
-    15  Kickball <ed.kickball@hotmail.com>
-    13  jungle-boogie <sean@jungleboogie.me>
-     9  Kovah <mail@kovah.de>
+    77  nodiscc <nodiscc@gmail.com>
+    68  Edward D <ed.kickball@hotmail.com>
+    12  Kickball <ed.kickball@hotmail.com>
+    12  jungle-boogie <sean@jungleboogie.me>
      7  Thomas Dalichow <info@thomasdalichow.de>
+     6  Kovah <mail@kovah.de>
      6  Thomas Dalichow <2012-02-05.github.com@thomasdalichow.de>
      5  Moti Korets <moti.kor@gmail.com>
-     4  Jean Elchinger <jinformatique@riseup.net>
-     3  DrAzraelTod <spammenot.selfhosted@g33ky.de>
      3  Jan Vlnas <jnv@users.noreply.github.com>
      3  Mariusz Kozakowski <11mariom+wordpress@gmail.com>
      3  Martin Gontovnikas <martin@gon.to>
@@ -717,16 +718,13 @@ The list of contributors can be found below
      2  cron410 <cron410@gmail.com>
      2  jimykk <JimyKK@users.noreply.github.com>
      2  phre4k <me@phre4k.at>
-     2  tomc3 <wordoftheday003@gmail.com>
      2  yuche <i@yuche.me>
-     1  Alys <alice.harris@oldgods.net>
-     1  Brendan Abolivier <contact@brendanabolivier.com>
      1  Caleb Xu <calebcenter@live.com>
      1  Calle Wolff <carl@wolff.se>
      1  Dan <rocks.in.the.cloud@gmail.com>
-     1  Dirk Krause <dirkk0@googlemail.com>
      1  Dražen Lučanin <kermit666@gmail.com>
      1  Igor Antun <IgorAntun@users.noreply.github.com>
+     1  Jean Elchinger <jinformatique@riseup.net>
      1  Jeremiah Marks <jeremiah@jlmarks.org>
      1  Joel Calado <joelcalado@gmail.com>
      1  Joshua Hamilton <joshua.hamilton@fabricut.com>
@@ -736,9 +734,7 @@ The list of contributors can be found below
      1  Remy Honig <remyhonig@users.noreply.github.com>
      1  Stefan Bohacek <stefan.bohacek@gmail.com>
      1  Stefan Bohacek <stefan@fourtonfish.com>
-     1  benmaynard11 <allowin-217941-github@vhost244.maynardnetworks.com>
      1  bricej13 <bricej13@gmail.com>
-     1  mertinop <martin.santibanez.a@gmail.com>
      1  skarphet <skarphet@users.noreply.github.com>
      1  steven jacobs <stjacobs@fastmail.fm>
      1  stevesbrain <stevesbrain@users.noreply.github.com>
