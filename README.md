@@ -56,6 +56,7 @@ Table of Contents
   - [Documentation Generators](#documentation-generators)
 - [Static site generators](#static-site-generators)
 - [Statistics](#statistics)
+- [Ticketing systems](#ticketing-systems)
 - [URL Shorteners](#url-shorteners)
 - [Wikis](#wikis)
 - [Self-hosting Solutions](#self-hosting-solutions)
@@ -561,6 +562,19 @@ See [staticsitegenerators.net](https://staticsitegenerators.net) and [staticgen.
 * [Open Web Analytics](http://www.openwebanalytics.com/) - Add web analytics to websites using JS, PHP or REST APIs.
 * [Piwik](http://piwik.org/) - Web analytics application.
 * [Webalizer](http://www.webalizer.org/) - Fast web server log file analysis.
+
+
+## Ticketing systems
+*Web-based ticketing system.*
+
+* [Bugzilla](http://www.bugzilla.org/) - General-purpose bugtracker and testing tool originally developed and used by the Mozilla project.
+* [Cerb](http://www.cerberusweb.com/) - Group-based e-mail management project.
+* [Flyspray](http://flyspray.org) - Web-based bug tracking system written in PHP.
+* [MantisBT](http://www.mantisbt.org/) - Web-based bug tracking system.
+* [osTicket](http://osticket.com/) - Simple support ticket system.
+* [OTRS](http://www.otrs.com/) - Trouble ticket system for assigning tickets to incoming queries and tracking further communications.
+* [Request Tracker](http://www.bestpractical.com/rt/) - Ticket-tracking system written in Perl.
+* [TheBugGenie](http://www.thebuggenie.com) - Ticket system with extensive user rights system.
 
 
 ## URL Shorteners
