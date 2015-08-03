@@ -44,6 +44,7 @@ Table of Contents
 - [Pastebins](#pastebins)
 - [Photo and Video Galleries](#photo-and-video-galleries)
 - [Polls and Events](#polls-and-events)
+- [Project Management](#project-management)
 - [Proxy](#proxy)
 - [Read it Later Lists](#read-it-later-lists)
 - [Search Engines](#search-engines)
@@ -451,6 +452,21 @@ Some [Groupware](#groupware) solutions also feature file sharing synchronization
   * [LimeSurvey](https://www.limesurvey.org) - Feature-rich Open Source web based polling software. Supports extensive survey logic. - ([Demo](https://demo.limesurvey.org))
   * [MaterialPoll](https://github.com/nearbycoder/materialpoll) - an opensource strawpoll.me clone for creating random polls. - ([Source code](https://github.com/nearbycoder/materialpoll), [Demo](http://materialpoll.tk))
   * [OpenSondage](https://github.com/leblanc-simon/OpenSondage) - an online service for planning an appointment or make a decision quickly and easily: Make a poll, Define dates or subjects to choose, Send the poll link to your friends or colleagues, Discuss and make a decision - ([Demo](http://framadate.org/), [Example](https://framadate.org/aqg259dth55iuhwm))
+
+## Project Management
+*Web-based project management and bug tracking systems.*
+
+* [CaseBox](https://www.casebox.org) - Manage all your organisation's information in one system.
+* [ChiliProject](https://www.chiliproject.org) - Fork of Redmine.
+* [GitBucket](https://github.com/takezoe/gitbucket) Clone of GitHub written in Scala; single jar install.
+* [GitLab](https://www.gitlab.com/) - Clone of GitHub written in Ruby.
+* [Gogs](http://gogs.io/) - Self-hosted Git service written in Go.
+* [OpenProject](https://www.openproject.org) - Project collaboration.
+* [Phabricator](http://phabricator.org/) Written in PHP.
+* [Redmine](http://www.redmine.org/) - Written in ruby on rails.
+* [Taiga](https://taiga.io/) - Agile Project Management Tool based on the Kanban and Scrum methods.
+* [The Bug Genie](http://www.thebuggenie.com/) - Written in PHP.
+* [Trac](http://trac.edgewall.org/) - Written in python.
 
 ## Proxy
 
