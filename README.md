@@ -57,6 +57,7 @@ Table of Contents
 - [Ticketing systems](#ticketing-systems)
 - [URL Shorteners](#url-shorteners)
 - [Wikis](#wikis)
+- [Webmail](#webmail)
 - [XMPP](#xmpp)
 - [Self-hosting Solutions](#self-hosting-solutions)
 - [List of Licenses](#list-of-licenses)
@@ -519,6 +520,15 @@ See https://staticsitegenerators.net and https://www.staticgen.com
   * [Lstu](https://github.com/ldidry/lstu) - _Let's SHorten That Url_ - Lightweight URL shortener
   * [Polr](http://project.polr.me/) - A modern, minimalist, modular, and lightweight URL shortener ([Source code](https://github.com/Cydrobolt/polr))
   * [YOURLS](http://yourls.org/) - YOURLS is a set of PHP scripts that will allow you to run Your Own URL Shortener. Features include password protection, URL customization, bookmarklets, statistics, API, plugins, jsonp ([Source code](https://github.com/YOURLS/YOURLS/), [Documentation](https://github.com/YOURLS/YOURLS/wiki)) - `MIT`
+
+
+## Webmail
+*Webmail applications.*
+
+* [Roundcube](http://roundcube.net/) - Browser-based IMAP client with an application-like user interface.
+* [SquirrelMail](http://squirrelmail.org) - Another browser-based IMAP client.
+* [Horde](http://www.horde.org) - Webmail and groupware client
+* [Rainloop](http://www.rainloop.net) - Very nice webmail with IMAP/SMTP Support and multi accounting
 
 
 ## Wikis
