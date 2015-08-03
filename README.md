@@ -173,6 +173,7 @@ See also [Static Site Generators](#static-site-generators) and  [Content Managem
   * [Reddit](https://www.reddit.com/) - social networking and news website where registered community members can submit content. ([Demo](https://www.reddit.com/) [Source Code](https://github.com/reddit/reddit)) `CPALv1` `Python`
   * [RedMatrix](http://redmatrix.me/) - complete decentralised publishing, sharing, and communications system ([Source code](https://github.com/redmatrix/redmatrix))
   * [twister](http://twister.net.co/) -  P2P microblogging platform
+  * [PPnet](https://github.com/pixelpark/ppnet) Create and host your own social network.
 
 
 ## Content Management Systems (CMS)
