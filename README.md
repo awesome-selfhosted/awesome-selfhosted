@@ -120,10 +120,14 @@ See also [Static Site Generators](#static-site-generators) and  [Content Managem
 ## Communication systems
 
 ### Email
-  * [Cypht](http://cypht.org/index.html) - A feed reader for your email accounts - `GPL` 
-  * [mailcow](https://github.com/andryyy/mailcow) - Mail server suite based on Dovecot, Postfix and other open source software, that provides a modern Web UI for administration. `GPL`
-  * [RainLoop](http://www.rainloop.net/) - Simple, modern & fast web-based email client. ([Demo](http://demo.rainloop.net/), [Source code](https://github.com/RainLoop/rainloop-webmail)). `AGPLv3` `PHP`
-  * [Roundcube](https://roundcube.net) - A web interface to act as an IMAP frontend ([Screenshots](https://roundcube.net/screens/)) ([Source code](https://github.com/roundcube/roundcubemail/)) `GPLv3` `PHP`
+
+* [Cypht](http://cypht.org/index.html) - A feed reader for your email accounts - `GPL`
+* [Horde](http://www.horde.org) - Webmail and groupware client.
+* [mailcow](https://github.com/andryyy/mailcow) - Mail server suite based on Dovecot, Postfix and other open source software, that provides a modern Web UI for administration. `GPL`
+* [RainLoop](http://www.rainloop.net/) - Simple, modern & fast webmail with IMAP/SMTP Support and multi accounting. ([Demo](http://demo.rainloop.net/), [Source code](https://github.com/RainLoop/rainloop-webmail)). `AGPLv3` `PHP`
+* [Roundcube](https://roundcube.net) - Browser-based IMAP client with an application-like user interface. ([Screenshots](https://roundcube.net/screens/)) ([Source code](https://github.com/roundcube/roundcubemail/)) `GPLv3` `PHP`
+* [SquirrelMail](http://squirrelmail.org) - Another browser-based IMAP client.
+
 
 ### XMPP
 
@@ -530,15 +534,6 @@ See https://staticsitegenerators.net and https://www.staticgen.com
   * [Lstu](https://github.com/ldidry/lstu) - _Let's SHorten That Url_ - Lightweight URL shortener
   * [Polr](http://project.polr.me/) - A modern, minimalist, modular, and lightweight URL shortener ([Source code](https://github.com/Cydrobolt/polr))
   * [YOURLS](http://yourls.org/) - YOURLS is a set of PHP scripts that will allow you to run Your Own URL Shortener. Features include password protection, URL customization, bookmarklets, statistics, API, plugins, jsonp ([Source code](https://github.com/YOURLS/YOURLS/), [Documentation](https://github.com/YOURLS/YOURLS/wiki)) - `MIT`
-
-
-## Webmail
-*Webmail applications.*
-
-* [Roundcube](http://roundcube.net/) - Browser-based IMAP client with an application-like user interface.
-* [SquirrelMail](http://squirrelmail.org) - Another browser-based IMAP client.
-* [Horde](http://www.horde.org) - Webmail and groupware client
-* [Rainloop](http://www.rainloop.net) - Very nice webmail with IMAP/SMTP Support and multi accounting
 
 
 ## Wikis
