@@ -69,6 +69,7 @@ Table of Contents
   * [Open Web Analytics](http://www.openwebanalytics.com/) - Google Analytics and Piwik alternative - `GPL` `PHP`
   * [Piwik](https://piwik.org/) - Leading open-source analytics platform that gives you more than just powerful analytics. - `GPLv3` `PHP`
   * [ThinkUp](https://www.thinkup.com/) - Insights into your social networking activity on Twitter, Facebook, Instagram, and beyond. ([Source code](https://github.com/ThinkUpLLC/ThinkUp)) - `GPL` `PHP`
+  * [Webalizer](http://www.webalizer.org/) - `GPL` `C`
 
 ## Automation
 
@@ -89,6 +90,7 @@ See also [Static Site Generators](#static-site-generators) and  [Content Managem
   * [Known](https://withknown.com/opensource/) - A single website for all your content `Apache` `PHP`
   * [Noddity](http://noddity.com/) - It's a blog, it's a wiki, it's a fast CMS! ([Source code](https://github.com/TehShrike/noddity)) `WTFPL` `Nodejs`
   * [PluXml](http://www.pluxml.org/) - XML-based blog/CMS platform ([Source code](https://github.com/pluxml/PluXml)) `GPL` `PHP`
+  * [WebChao](https://github.com/drazraeltod/webchao) `GPLv3` `Python` `Django`
   * [Wordpress](https://wordpress.org/) - Create a beautiful website or blog. ([Source code](https://github.com/WordPress/WordPress)) `GPLv2`
  
  
@@ -243,6 +245,7 @@ CMS are a practical way to setup a website with many features. CMS often come wi
   * [NewsBlur](https://github.com/samuelclay/NewsBlur) - NewsBlur is a personal news reader that brings people together to talk about the world. A new sound of an old instrument
   * [Reader-Self](http://readerself.com/) Self-hosted rss reader (php / mysql or sqlite) - Google Reader alternative ([Source code](https://github.com/readerself/readerself))
   * [Readr](https://github.com/pabloprieto/Readr) - A clean & simple, self-hosted RSS reader
+  * [RSS2EMail](http://www.allthingsrss.com/rss2email/) - exactly what you'd expect from it's name `GPL` `Python`
   * [RSSminer](http://rssminer.net/) -An online rss reader written in clojure & javascript & java ([Source code](https://github.com/shenfeng/rssminer))
   * [Selfoss](http://selfoss.aditu.de/) - The new multipurpose rss reader, live stream, mashup, aggregation web application ([Source code](https://github.com/SSilence/selfoss)) - `AGPLv3`
   * [Stringer](https://github.com/swanson/stringer) - A work-in-progress self-hosted, anti-social RSS reader.
@@ -318,6 +321,7 @@ CMS are a practical way to setup a website with many features. CMS often come wi
   * [Emby](https://github.com/MediaBrowser/MediaBrowser) - A home media server built using other popular open source technologies. - `GPLv2`
   * [Flumotion](http://flumotion.net/) - a streaming media server with intuitive graphical administration tools ([Source code](https://github.com/Flumotion/flumotion)) `LGPLv2` `Python`
   * [HTPC Manager](http://htpc.io/) - A fully responsive interface to manage all your favorite media on your HTPC. - `MIT`
+  * [Podcatcher.sh](https://github.com/DrAzraelTod/podcatcher.sh) - gets Podcasts by wget, builds m3u-Playlist, contains m3u.js that builds html5-Player for Playlists - `GPL` `Bash` `JS`
   * [ReadyMedia](http://sourceforge.net/projects/minidlna/) - a simple media server software, with the aim of being fully compliant with DLNA/UPnP-AV clients `GPLv2` `C`
   * [Streama](https://github.com/dularion/streama) - Self-hosted Netflix alternative. - `MIT` `Java`
 
@@ -350,9 +354,11 @@ CMS are a practical way to setup a website with many features. CMS often come wi
    * [uchiwa](https://uchiwa.io/) - simple dashboard for sensu
 
 
+
 ## Music Streaming
 
   * [Ampache](http://ampache.org/) - A web based audio/video streaming application `GPLv2` `PHP`
+  * [CherryMusic](http://www.fomori.org/cherrymusic/) minimalistic Web-Mediaplayer - `GPL` `Python`
   * [cloudtunes](https://github.com/jakubroztocil/cloudtunes) -  Web-based music player for the cloud `MIT` `Python/Javascript`
   * [Groove Basin](http://groovebasin.com/) - A music player server with a web-based user interface inspired by Amarok 1.4 ([Source code](https://github.com/andrewrk/groovebasin)) `MIT` `Nodejs`
   * [Mopidy](http://mopidy.readthedocs.org/) - Extensible music server. Offers a superset of the mpd API, as well as integration with 3rd party services like Spotify, SoundCloud etc. ([Source code](https://github.com/mopidy/mopidy)) `Apache` `Python`
@@ -586,6 +592,7 @@ The list of contributors can be found below
      7  Thomas Dalichow <info@thomasdalichow.de>
      6  Thomas Dalichow <2012-02-05.github.com@thomasdalichow.de>
      5  Moti Korets <moti.kor@gmail.com>
+     5  DrAzraelTod <spammenot.selfhosted@g33ky.de>
      4  Jean Elchinger <jinformatique@riseup.net>
      3  Jan Vlnas <jnv@users.noreply.github.com>
      3  Mariusz Kozakowski <11mariom+wordpress@gmail.com>
