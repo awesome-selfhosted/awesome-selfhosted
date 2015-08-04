@@ -58,7 +58,6 @@ Table of Contents
 - [URL Shorteners](#url-shorteners)
 - [Wikis](#wikis)
 - [Webmail](#webmail)
-- [XMPP](#xmpp)
 - [Self-hosting Solutions](#self-hosting-solutions)
 - [List of Licenses](#list-of-licenses)
 - [External links](#external-links)
@@ -134,13 +133,23 @@ Some [Groupware](#groupware) solutions also feature calendar/address book editin
   * [Roundcube](https://roundcube.net) - A web interface to act as an IMAP frontend ([Screenshots](https://roundcube.net/screens/)) ([Source code](https://github.com/roundcube/roundcubemail/)) `GPLv3` `PHP`
 
 ### XMPP
-  * [Converse.js](https://conversejs.org/) - A free and open-source XMPP chat client in your browser ([Source](https://github.com/jcbrand/converse.js)) `MPLv2` `Javascript`
-  * [ejabberd](http://www.ejabberd.im) - A robust, scalable, and extensible XMPP server - `GPL` `Erlang`
-  * [Kaiwa](http://getkaiwa.com) A modern XMPP Web client ([Source code](https://github.com/digicoop/kaiwa))
-  * [Kontalk](http://kontalk.org/) – Kontalk is an Open Source Messenger, similiar to WhatsApp (app for android only currently), including end-to-end encryption, server is based on Tigase XMPP Server - ([Source code](https://github.com/kontalk)) - `GPLv3`
-  * [Metronome](http://www.lightwitch.org/metronome) – XMPP server forked from Prosody. `MIT` `Lua`
-  * [OpenFire](http://www.igniterealtime.org/projects/openfire/) - instant messaging (XMPP) and groupchat server `Apache` `Java`
-  * [Prosody](http://prosody.im/) – Lightweight XMPP server `MIT` `Lua`
+
+*XMPP servers.*
+
+* [ejabberd](http://www.ejabberd.im/) - XMPP instant messaging server. `GPL` `Erlang`
+* [Metronome IM](http://www.lightwitch.org/metronome) - Fork of Prosody IM. `MIT` `Lua`
+* [MongooseIM](https://www.erlang-solutions.com/products/mongooseim-massively-scalable-ejabberd-platform) - Fork of ejabberd.
+* [Openfire](http://www.igniterealtime.org/projects/openfire/) - Real time collaboration (RTC) server. `Apache` `Java`
+* [Prosody IM](http://prosody.im/) - Feature-rich and easy to configure XMPP server. `MIT` `Lua`
+* [Tigase](https://projects.tigase.org/projects/tigase-server) - XMPP server implementation in Java.
+
+*XMPP Web Clients*
+
+* [Candy](http://candy-chat.github.io/candy/) - Multi user XMPP client written in Javascript.
+* [Converse.js](https://conversejs.org/) - A free and open-source XMPP chat client in your browser ([Source](https://github.com/jcbrand/converse.js)) `MPLv2` `Javascript`
+* [Kaiwa](http://getkaiwa.com/) - Web based chat client in the style of common paid alternatives. ([Source code](https://github.com/digicoop/kaiwa))
+* [Kontalk](http://kontalk.org/) – Kontalk is an Open Source Messenger, similiar to WhatsApp (app for android only currently), including end-to-end encryption, server is based on Tigase XMPP Server - ([Source code](https://github.com/kontalk)) - `GPLv3`
+* [Lets-Chat](http://sdelements.github.io/lets-chat/) - A self hosted chat suite written in Node.
 
 
 ### VoIP
@@ -616,23 +625,6 @@ See [staticsitegenerators.net](https://staticsitegenerators.net) and [staticgen.
   * [TiddlyWiki](http://tiddlywiki.com/) - a reusable non-linear personal web notebook
   * [WiKiss](http://wikiss.tuxfamily.org/) - un wiki simple à utiliser et déployer.
   * [Wikitten](https://github.com/victorstanciu/Wikitten) - Wikitten is a small, fast, PHP wiki, and the perfect place to store your notes, code snippets, ideas, and so on.
-
-
-## XMPP
-*XMPP servers.*
-
-* [ejabberd](http://www.ejabberd.im/) - XMPP instant messaging server written in Erlang/OTP.
-* [Metronome IM](http://www.lightwitch.org/metronome) - Fork of Prosody IM.
-* [MongooseIM](https://www.erlang-solutions.com/products/mongooseim-massively-scalable-ejabberd-platform) - Fork of ejabberd.
-* [Openfire](http://www.igniterealtime.org/projects/openfire/) - Real time collaboration (RTC) server.
-* [Prosody IM](http://prosody.im/) - XMPP server written in Lua.
-* [Tigase](https://projects.tigase.org/projects/tigase-server) - XMPP server implementation in Java.
-
-*XMPP Web Clients*
-
-* [Candy](http://candy-chat.github.io/candy/) - Multi user XMPP client written in Javascript.
-* [Kaiwa](http://getkaiwa.com/) - Web based chat client in the style of common paid alternatives.
-* [Lets-Chat](http://sdelements.github.io/lets-chat/) - A self hosted chat suite written in Node.
 -------------------------------------------------------
 
 ## Self-hosting Solutions
