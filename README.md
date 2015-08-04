@@ -484,6 +484,7 @@ CMS are a practical way to setup a website with many features. CMS often come wi
   * [Kanboard](http://kanboard.net/) - A simple and open source visual task board `AGPLv3`
   * [MantisBT](https://www.mantisbt.org/) - Self hosted bug tracker, fits best for software development - ([Demo](https://www.mantisbt.org/bugs/my_view_page.php)) -  ([Source code](https://github.com/mantisbt/mantisbt)) - `GPLv2`
   * [myTinyTodo](http://www.mytinytodo.net/) - Simple way to manage your todo list in AJAX style. Uses PHP, jQuery, SQLite/MySQL. GTD compliant. `GPL`
+  * [Phabricator](http://phabricator.org/) - Collection of web applications that help build better software. ([Source code](https://github.com/phacility/phabricator), [Demo](https://secure.phabricator.com/)) `Apache` `PHP`
   * [Phproject](http://www.phproject.org/) - A high performance full-featured project management system ([Source code](https://github.com/Alanaktion/phproject), [Demo](http://demo.phproject.org/)) `GPLv3`
   * [Redmine](http://www.redmine.org/) - Redmine is a flexible project management web application `Ruby` `GPLv2`
   * [Taiga.io](https://taiga.io/) - Your Agile, Free and Open Source Project Management Tool ([Source code](https://github.com/taigaio))
