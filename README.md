@@ -44,6 +44,7 @@ Table of Contents
 - [Pastebins](#pastebins)
 - [Photo and Video Galleries](#photo-and-video-galleries)
 - [Polls and Events](#polls-and-events)
+- [Project Management](#project-management)
 - [Proxy](#proxy)
 - [Read it Later Lists](#read-it-later-lists)
 - [Search Engines](#search-engines)
@@ -53,8 +54,11 @@ Table of Contents
   - [Continuous Integration](#continuous-integration)
   - [Bug and Task Trackers](#bug-and-task-trackers)
 - [Static site generators](#static-site-generators)
+- [Statistics](#statistics)
+- [Ticketing systems](#ticketing-systems)
 - [URL Shorteners](#url-shorteners)
 - [Wikis](#wikis)
+- [Webmail](#webmail)
 - [Self-hosting Solutions](#self-hosting-solutions)
 - [List of Licenses](#list-of-licenses)
 - [External links](#external-links)
@@ -118,19 +122,33 @@ See also [Static Site Generators](#static-site-generators) and  [Content Managem
 ## Communication systems
 
 ### Email
-  * [Cypht](http://cypht.org/index.html) - A feed reader for your email accounts - `GPL` 
-  * [mailcow](https://github.com/andryyy/mailcow) - Mail server suite based on Dovecot, Postfix and other open source software, that provides a modern Web UI for administration. `GPL`
-  * [RainLoop](http://www.rainloop.net/) - Simple, modern & fast web-based email client. ([Demo](http://demo.rainloop.net/), [Source code](https://github.com/RainLoop/rainloop-webmail)). `AGPLv3` `PHP`
-  * [Roundcube](https://roundcube.net) - A web interface to act as an IMAP frontend ([Screenshots](https://roundcube.net/screens/)) ([Source code](https://github.com/roundcube/roundcubemail/)) `GPLv3` `PHP`
+
+* [Cypht](http://cypht.org/index.html) - A feed reader for your email accounts - `GPL`
+* [Horde](http://www.horde.org) - Webmail and groupware client.
+* [mailcow](https://github.com/andryyy/mailcow) - Mail server suite based on Dovecot, Postfix and other open source software, that provides a modern Web UI for administration. `GPL`
+* [RainLoop](http://www.rainloop.net/) - Simple, modern & fast webmail with IMAP/SMTP Support and multi accounting. ([Demo](http://demo.rainloop.net/), [Source code](https://github.com/RainLoop/rainloop-webmail)). `AGPLv3` `PHP`
+* [Roundcube](https://roundcube.net) - Browser-based IMAP client with an application-like user interface. ([Screenshots](https://roundcube.net/screens/)) ([Source code](https://github.com/roundcube/roundcubemail/)) `GPLv3` `PHP`
+* [SquirrelMail](http://squirrelmail.org) - Another browser-based IMAP client.
+
 
 ### XMPP
-  * [Converse.js](https://conversejs.org/) - A free and open-source XMPP chat client in your browser ([Source](https://github.com/jcbrand/converse.js)) `MPLv2` `Javascript`
-  * [ejabberd](http://www.ejabberd.im) - A robust, scalable, and extensible XMPP server - `GPL` `Erlang`
-  * [Kaiwa](http://getkaiwa.com) A modern XMPP Web client ([Source code](https://github.com/digicoop/kaiwa))
-  * [Kontalk](http://kontalk.org/) – Kontalk is an Open Source Messenger, similiar to WhatsApp (app for android only currently), including end-to-end encryption, server is based on Tigase XMPP Server - ([Source code](https://github.com/kontalk)) - `GPLv3`
-  * [Metronome](http://www.lightwitch.org/metronome) – XMPP server forked from Prosody. `MIT` `Lua`
-  * [OpenFire](http://www.igniterealtime.org/projects/openfire/) - instant messaging (XMPP) and groupchat server `Apache` `Java`
-  * [Prosody](http://prosody.im/) – Lightweight XMPP server `MIT` `Lua`
+
+*XMPP servers.*
+
+* [ejabberd](http://www.ejabberd.im/) - XMPP instant messaging server. `GPL` `Erlang`
+* [Metronome IM](http://www.lightwitch.org/metronome) - Fork of Prosody IM. `MIT` `Lua`
+* [MongooseIM](https://www.erlang-solutions.com/products/mongooseim-massively-scalable-ejabberd-platform) - Fork of ejabberd.
+* [Openfire](http://www.igniterealtime.org/projects/openfire/) - Real time collaboration (RTC) server. `Apache` `Java`
+* [Prosody IM](http://prosody.im/) - Feature-rich and easy to configure XMPP server. `MIT` `Lua`
+* [Tigase](https://projects.tigase.org/projects/tigase-server) - XMPP server implementation in Java.
+
+*XMPP Web Clients*
+
+* [Candy](http://candy-chat.github.io/candy/) - Multi user XMPP client written in Javascript.
+* [Converse.js](https://conversejs.org/) - A free and open-source XMPP chat client in your browser ([Source](https://github.com/jcbrand/converse.js)) `MPLv2` `Javascript`
+* [Kaiwa](http://getkaiwa.com/) - Web based chat client in the style of common paid alternatives. ([Source code](https://github.com/digicoop/kaiwa))
+* [Kontalk](http://kontalk.org/) – Kontalk is an Open Source Messenger, similiar to WhatsApp (app for android only currently), including end-to-end encryption, server is based on Tigase XMPP Server - ([Source code](https://github.com/kontalk)) - `GPLv3`
+* [Lets-Chat](http://sdelements.github.io/lets-chat/) - A self hosted chat suite written in Node.
 
 
 ### VoIP
@@ -274,6 +292,7 @@ CMS are a practical way to setup a website with many features. CMS often come wi
   * [Pydio](https://pyd.io/) - Turn any web server into a powerful file management system and an alternative to mainstream cloud storage providers.
   * [Seafile](http://www.seafile.com/en/home/) - File hosting and sharing solution primary for teams and organizations. - `GPLv2`
   * [SparkleShare](http://sparkleshare.org/) - Self hosted, instant, secure file sync
+  * [Swift](http://docs.openstack.org/developer/swift/) - A highly available, distributed, eventually consistent object/blob store.
   * [Syncany](https://www.syncany.org/) - Secure file sync software for arbitrary storage backends - An open-source cloud storage and filesharing application. Securely synchronize your files to any kind of storage!
   * [Syncthing](http://syncthing.net/) - Syncthing is an open source peer-to-peer file synchronisation tool ([Source code](https://github.com/syncthing/syncthing)) - `MPLv2`
   * [Tahoe-LAFS](https://www.tahoe-lafs.org/trac/tahoe-lafs) - Tahoe-LAFS is a Free and Open decentralized cloud storage system. It distributes your data across multiple servers. Even if some of the servers fail or are taken over by an attacker, the entire file store continues to function correctly, preserving your privacy and security.
@@ -424,6 +443,21 @@ CMS are a practical way to setup a website with many features. CMS often come wi
   * [MaterialPoll](https://github.com/nearbycoder/materialpoll) - an opensource strawpoll.me clone for creating random polls. - ([Source code](https://github.com/nearbycoder/materialpoll), [Demo](http://materialpoll.tk))
   * [OpenSondage](https://github.com/leblanc-simon/OpenSondage) - an online service for planning an appointment or make a decision quickly and easily: Make a poll, Define dates or subjects to choose, Send the poll link to your friends or colleagues, Discuss and make a decision - ([Demo](http://framadate.org/), [Example](https://framadate.org/aqg259dth55iuhwm))
 
+## Project Management
+*Web-based project management and bug tracking systems.*
+
+* [CaseBox](https://www.casebox.org) - Manage all your organisation's information in one system.
+* [ChiliProject](https://www.chiliproject.org) - Fork of Redmine.
+* [GitBucket](https://github.com/takezoe/gitbucket) Clone of GitHub written in Scala; single jar install.
+* [GitLab](https://www.gitlab.com/) - Clone of GitHub written in Ruby.
+* [Gogs](http://gogs.io/) - Self-hosted Git service written in Go.
+* [OpenProject](https://www.openproject.org) - Project collaboration.
+* [Phabricator](http://phabricator.org/) Written in PHP.
+* [Redmine](http://www.redmine.org/) - Written in ruby on rails.
+* [Taiga](https://taiga.io/) - Agile Project Management Tool based on the Kanban and Scrum methods.
+* [The Bug Genie](http://www.thebuggenie.com/) - Written in PHP.
+* [Trac](http://trac.edgewall.org/) - Written in python.
+
 ## Proxy
 
   * [Oranjeproxy](http://lehollandaisvolant.net/tout/oranjeproxy/) - Anonymizing web proxy ([Source code](https://github.com/AmauryCarrade/OranjeProxy)) `GPLv2` `PHP`
@@ -493,6 +527,30 @@ CMS are a practical way to setup a website with many features. CMS often come wi
 See [staticsitegenerators.net](https://staticsitegenerators.net) and [staticgen.com](https://www.staticgen.com)
 
 
+
+## Statistics
+*Analytics software.*
+
+* [AWStats](http://www.awstats.org/) - Generates web, streaming, ftp or mail server statistics graphically.
+* [GoAccess](http://goaccess.io/) - Real-time web log analyzer and interactive viewer that runs in a terminal.
+* [Open Web Analytics](http://www.openwebanalytics.com/) - Add web analytics to websites using JS, PHP or REST APIs.
+* [Piwik](http://piwik.org/) - Web analytics application.
+* [Webalizer](http://www.webalizer.org/) - Fast web server log file analysis.
+
+
+## Ticketing systems
+*Web-based ticketing system.*
+
+* [Bugzilla](http://www.bugzilla.org/) - General-purpose bugtracker and testing tool originally developed and used by the Mozilla project.
+* [Cerb](http://www.cerberusweb.com/) - Group-based e-mail management project.
+* [Flyspray](http://flyspray.org) - Web-based bug tracking system written in PHP.
+* [MantisBT](http://www.mantisbt.org/) - Web-based bug tracking system.
+* [osTicket](http://osticket.com/) - Simple support ticket system.
+* [OTRS](http://www.otrs.com/) - Trouble ticket system for assigning tickets to incoming queries and tracking further communications.
+* [Request Tracker](http://www.bestpractical.com/rt/) - Ticket-tracking system written in Perl.
+* [TheBugGenie](http://www.thebuggenie.com) - Ticket system with extensive user rights system.
+
+
 ## URL Shorteners
 
   * [Lstu](https://github.com/ldidry/lstu) - _Let's SHorten That Url_ - Lightweight URL shortener
@@ -510,18 +568,21 @@ See [staticsitegenerators.net](https://staticsitegenerators.net) and [staticgen.
   * [Docstore](http://haldean.org/) - A basic site for hosting static documents - docstore is a simple way to serve Markdown files without any server-side processing, and without requiring you (as the author) to recompile every time you change an article. It consists of a very simple JS script that makes an ajax request to your server, runs a Markdown processor on what it finds, and then displays the results. Clone the repository and add articles in the text/ directory to get started. ([Source code](https://github.com/haldean/docstore))
   * [Dokuwiki](http://www.splitbrain.org/projects/dokuwiki) - An easy to use, lightweight, standards-compliant wiki engine with a simple syntax allowing reading the data outside the wiki. All data is stored in plain files, therefore no database is required. - `GPL`
   * [Gitit](https://github.com/jgm/gitit) - A wiki program that stores pages and uploaded files in a git repository, which can then be modified using the VCS command line tools or the wiki's web interface. Supported markups include pandoc's extended version of markdown, reStructuredText, LaTeX, and HTML. Pages can be exported in a number of different formats, including LaTeX, RTF, OpenOffice ODT, and MediaWiki markup. Other features include: plugins, syntax highlighting, caching, ATOM feeds
+  * [Gollum](https://github.com/gollum/gollum) - A simple, Git-powered wiki with a sweet API and local frontend.
   * [Gruik](http://gruik.io/) - An open-source markdown note-taking web app ([Source code](https://github.com/grena/gruik))
+  * [ikiwiki](http://ikiwiki.info/) - A wiki compiler.
   * [markdown-tree](https://github.com/mil/markdown-tree) - serve a hierarchy / tree directory of markdown files. Use intended for small sites built in markdown
   * [MdWiki](https://dynalon.github.io/mdwiki/#!index.md) - a Markdown CMS/Wiki completely built in HTML5/Javascript and runs 100% on the client ([Source code](https://github.com/Dynalon/mdwiki))
   * [Mediawiki](https://www.mediawiki.org/wiki/MediaWiki)
+  * [MoinMoin](http://moinmo.in/) - An advanced, easy to use and extensible WikiEngine with a large community of users.
   * [Olelo/Gitwiki](https://github.com/minad/olelo) - Olelo is a wiki that stores pages in a Git repository, supports many markup styles and has an extensible, hackable architecture! Features: Edit, move or delete pages; Page attribute editor; Support for hierarchical wikis (directory structure); File upload; History, commit and diff view; Locales (Czech, English, French, German); Support for many markup languages (Creole, Markdown, Textile); RSS/Atom changelog for whole wiki or pages; Section editing for Creole; Embedded LaTeX formulas; Syntax highlighting; Image resizing, SVG to PNG/JPEG conversion; Auto-generated table of contents; Previews; View pages as S5 presentation; Privacy features: Access control lists, Private wiki, Read-only wiki. ([Demo](http://www.gitwiki.org/)) 
+  * [PmWiki](http://www.pmwiki.org) - Wiki-based system for collaborative creation and maintenance of websites.
   * [Raneto](http://raneto.com/) - Raneto is an open source Knowledgebase platform that uses static Markdown files to power your Knowledgebase - `MIT`
   * [Realms](https://github.com/scragg0x/realms-wiki) - a git-backed wiki inspired by Gollum
   * [Redaxscript](http://redaxscript.com/) - Ultra lightweight website engine
   * [TiddlyWiki](http://tiddlywiki.com/) - a reusable non-linear personal web notebook
   * [WiKiss](http://wikiss.tuxfamily.org/) - un wiki simple à utiliser et déployer.
   * [Wikitten](https://github.com/victorstanciu/Wikitten) - Wikitten is a small, fast, PHP wiki, and the perfect place to store your notes, code snippets, ideas, and so on.
-
 -------------------------------------------------------
 
 ## Self-hosting Solutions
