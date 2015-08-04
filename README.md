@@ -126,11 +126,15 @@ Some [Groupware](#groupware) solutions also feature calendar/address book editin
 ## Communication systems
 
 ### Email
-  * [Cypht](http://cypht.org/index.html) - A feed reader for your email accounts - `GPL` 
-  * [mailcow](https://github.com/andryyy/mailcow) - Mail server suite based on Dovecot, Postfix and other open source software, that provides a modern Web UI for administration. `GPL`
+
+  * [Cypht](http://cypht.org/index.html) - A feed reader for your email accounts - `GPL`
+  * [Horde](http://www.horde.org) - Webmail and groupware client.
   * [Mailpile](https://www.mailpile.is/) - Webmail client with search, filtering, encryption features and more ([Source code](https://github.com/mailpile/Mailpile)) `AGPLv3` `Python`
-  * [RainLoop](http://www.rainloop.net/) - Simple, modern & fast web-based email client. ([Demo](http://demo.rainloop.net/), [Source code](https://github.com/RainLoop/rainloop-webmail)). `AGPLv3` `PHP`
-  * [Roundcube](https://roundcube.net) - A web interface to act as an IMAP frontend ([Screenshots](https://roundcube.net/screens/)) ([Source code](https://github.com/roundcube/roundcubemail/)) `GPLv3` `PHP`
+  * [mailcow](https://github.com/andryyy/mailcow) - Mail server suite based on Dovecot, Postfix and other open source software, that provides a modern Web UI for administration. `GPL`
+  * [RainLoop](http://www.rainloop.net/) - Simple, modern & fast webmail with IMAP/SMTP Support and multi accounting. ([Demo](http://demo.rainloop.net/), [Source code](https://github.com/RainLoop/rainloop-webmail)). `AGPLv3` `PHP`
+  * [Roundcube](https://roundcube.net) - Browser-based IMAP client with an application-like user interface. ([Screenshots](https://roundcube.net/screens/)) ([Source code](https://github.com/roundcube/roundcubemail/)) `GPLv3` `PHP`
+  * [SquirrelMail](http://squirrelmail.org) - Another browser-based IMAP client.
+
 
 ### XMPP
 
@@ -594,15 +598,6 @@ See [staticsitegenerators.net](https://staticsitegenerators.net) and [staticgen.
   * [Nimbus](https://github.com/ethanal/nimbus) - A URL shortener and file sharer with a drag-and-drop OS X menu bar client and web interface  - `MIT` `Python`
   * [Polr](http://project.polr.me/) - A modern, minimalist, modular, and lightweight URL shortener ([Source code](https://github.com/Cydrobolt/polr))
   * [YOURLS](http://yourls.org/) - YOURLS is a set of PHP scripts that will allow you to run Your Own URL Shortener. Features include password protection, URL customization, bookmarklets, statistics, API, plugins, jsonp ([Source code](https://github.com/YOURLS/YOURLS/), [Documentation](https://github.com/YOURLS/YOURLS/wiki)) - `MIT`
-
-
-## Webmail
-*Webmail applications.*
-
-* [Roundcube](http://roundcube.net/) - Browser-based IMAP client with an application-like user interface.
-* [SquirrelMail](http://squirrelmail.org) - Another browser-based IMAP client.
-* [Horde](http://www.horde.org) - Webmail and groupware client
-* [Rainloop](http://www.rainloop.net) - Very nice webmail with IMAP/SMTP Support and multi accounting
 
 
 ## Wikis
