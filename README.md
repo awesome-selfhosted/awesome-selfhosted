@@ -109,7 +109,7 @@ See also [Static Site Generators](#static-site-generators) and  [Content Managem
 ## Calendar and Address Books
 
   * [AgenDAV](http://agendav.org/) - Multilanguage CalDAV web client with a rich AJAX interface and shared calendars support
-  * [Baïkal](http://baikal.codr.fr/) - Lightweight CalDAV+CardDAV server
+  * [Baïkal](http://baikal-server.com/) - Lightweight CalDAV+CardDAV server
   * [CalendarServer](http://trac.calendarserver.org/) - a standards-compliant server implementing the CalDAV and CardDAV protocols. `Apache` `Python`
   * [calypso](http://keithp.com/calypso/) - a python-based CalDAV/CardDAV server
   * [DAViCal](http://www.davical.org/) - a server for calendar sharing (CalDAV)
