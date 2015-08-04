@@ -134,6 +134,7 @@ See also [Static Site Generators](#static-site-generators) and  [Content Managem
 
 
 ### VoIP
+  * [Asterisk](http://asterisk.org/) - An easy to use but advanced IP PXB system, VoIP gateway and conference server `GPLv2` `C` 
   * [FreeSWITCH](https://freeswitch.org/) - Scalable open source cross-platform telephony platform ([Source Code](https://freeswitch.org/stash/projects/FS/repos/freeswitch/browse)) `MPLv2` `C`
   * [Kamailio](http://www.kamailio.org/w/) - Modular SIP server (registrar/proxy/router/etc) `GPLv2` `C`
   * [Ostel](https://dev.guardianproject.info/projects/ostel/wiki/Server_Documentation) - Secure SIP telephony setup with ZRTP encryption `GPLv3` `Ruby`
