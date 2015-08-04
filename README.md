@@ -590,8 +590,8 @@ The list of contributors can be found below
      7  Thomas Dalichow <info@thomasdalichow.de>
      6  Thomas Dalichow <2012-02-05.github.com@thomasdalichow.de>
      5  Moti Korets <moti.kor@gmail.com>
-     5  DrAzraelTod <spammenot.selfhosted@g33ky.de>
      4  Jean Elchinger <jinformatique@riseup.net>
+     3  DrAzraelTod <spammenot.selfhosted@g33ky.de>
      3  Jan Vlnas <jnv@users.noreply.github.com>
      3  Mariusz Kozakowski <11mariom+wordpress@gmail.com>
      3  Martin Gontovnikas <martin@gon.to>
@@ -638,4 +638,3 @@ The list of contributors can be found below
      1  steven jacobs <stjacobs@fastmail.fm>
      1  stevesbrain <stevesbrain@users.noreply.github.com>
      1  ttoups <ich@timotoups.de>
-
