@@ -206,10 +206,12 @@ CMS are a practical way to setup a website with many features. CMS often come wi
   * [october](http://octobercms.com/) - Free, open-source, self-hosted CMS platform based on the Laravel PHP Framework. ([Source code](https://github.com/octobercms/october)) `MIT`
   * [Pagekit](http://pagekit.com/) - A new modern CMS to create and share ([Source code](https://github.com/pagekit/pagekit)) - `MIT`
   * [Pico](http://picocms.org/) - A stupidly simple, blazing fast, flat file CMS. ([Source code](https://github.com/gilbitron/Pico)) `MIT`
+  * [Pimcore](http://www.pimcore.org) Multi-Channel Experience and Engagement Management Platform ([Source code](https://github.com/pimcore/pimcore))) `BSD` `PHP`
   * [Redaxscript](https://github.com/redaxmedia/redaxscript) - Ultra lightweight CMS for MySQL, SQLite and PostgreSQL `GPLv3` `PHP`
   * [SilverStripe](https://www.silverstripe.org) - easy to use CMS with powerful MVC framework underlying. ([Demo](http://demo.silverstripe.org/), [Source code](https://github.com/silverstripe)) `BSD` `PHP`
   * [SPIP](http://www.spip.net/fr) - Publication system for the Internet. 
   * [Wordpress](https://wordpress.org/) - The worlds most-used blogging and CMS engine. ([Source code mirror](https://github.com/WordPress/WordPress)) `GPLv2`
+  
   
 ### E-commerce
 
@@ -393,7 +395,6 @@ CMS are a practical way to setup a website with many features. CMS often come wi
 
 ## Password Managers
 
- * [Keepass](http://keepass.info) - Free, open source, light-weight and easy-to-use password manager. `GPLv2` `C#`
  * [Rattic](http://rattic.org/) - Password Management for Humans ([Source code](https://github.com/tildaslash/RatticWeb))
  * [Teampass](http://www.teampass.net/) - Password manager dedicated for managing passwords in a collaborative way on any server Apache, MySQL and PHP. ([Source code](https://github.com/nilsteampassnet/TeamPass/)) `GPLv3` `PHP`
  
