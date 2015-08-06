@@ -110,6 +110,8 @@ See also [Static Site Generators](#static-site-generators) and  [Content Managem
 
 ## Calendar and Address Books
 
+Some [Groupware](#groupware) solutions also feature calendar/address book editing and synchronization.
+
   * [AgenDAV](http://agendav.org/) - Multilanguage CalDAV web client with a rich AJAX interface and shared calendars support
   * [Baïkal](http://baikal-server.com/) - Lightweight CalDAV+CardDAV server
   * [CalendarServer](http://trac.calendarserver.org/) - a standards-compliant server implementing the CalDAV and CardDAV protocols. `Apache` `Python`
@@ -264,6 +266,8 @@ CMS are a practical way to setup a website with many features. CMS often come wi
 
 ## File Sharing and Synchronization
 
+Some [Groupware](#groupware) solutions also feature file sharing synchronization.
+
   * [BoZoN](https://github.com/broncowdd/BoZoN) - Minimalist Drag & drop file sharing app `AGPLv3` `PHP`
   * [Camlistore](https://camlistore.org/) - Camlistore is a set of open source formats, protocols, and software for modeling, storing, searching, sharing and synchronizing data in the post-PC era. Data may be files or objects, tweets or 5TB videos, and you can access it via a phone, browser or FUSE filesystem. ([Source code](https://github.com/camlistore/camlistore)) `Apache` `Go`
   * [Coquelicot](https://coquelicot.potager.org/) - Coquelicot is a “one-click” file sharing web application with a focus on protecting users’ privacy. - `AGPLv3`
@@ -307,7 +311,7 @@ CMS are a practical way to setup a website with many features. CMS often come wi
   * [egroupware](http://www.egroupware.org/) - Software suite including calendars, address books, notepad, project management tools, client relationship managemnt tools (CRM), knowledge management tools, a wiki and a CMS.
   * [Horde](http://www.horde.org/) - The Horde Project is about creating high quality Open Source applications and libraries, based on PHP and the Horde Framework. - `GPL` + Various Free Software / Open Source Software Licenses
   * [Kolab](https://kolab.org/) - Kolab community is a unified communication and collaboration system - `Various FLOSS Licenses` ([Source](http://git.kolab.org/))
-  * [ownCloud](https://owncloud.org/) - All-in-one solution for saving and sharing files, photos, music- `AGPLv3` `PHP`
+  * [ownCloud](https://owncloud.org/) - All-in-one solution for saving, synchronizing, viewing, editing and sharing files, calendars, address books and more - `AGPLv3` `PHP`
   * [Sogo](http://www.sogo.nu/) - SOGo offers multiple ways to access the calendaring and messaging data. CalDAV, CardDAV, GroupDAV, as well as ActiveSync, including native Outlook compatibility and web interface. ([Demo](http://www.sogo.nu/tour/online_demo.html), [Source Code](http://www.sogo.nu/development/source_code.html)) `GPLv1/LGPLv2` `Objective-C`
   * [Tine 2.0org](https://www.tine20.org) - Contacts, Calendar, Tasks, WebDAV, ActiveSync, VOIP, Mail-Client, CRM, Sales, Projects, Timetracker -  ([Demo](https://demo.tine20.net)) - `AGPLv3`
   * [Zimbra Collaboration](https://www.zimbra.com/downloads/) - Email, calendar, collaboration server with web interface and lots of integrations.  ([Source code]( https://www.zimbra.com/open-source)) `GPLv2/CPALv1` `Java`
