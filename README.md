@@ -304,7 +304,7 @@ CMS are a practical way to setup a website with many features. CMS often come wi
 
 ## Groupware
 
-  * [Cozy Cloud](https://cozy.io) - A personal cloud where you can read your emails or manage and sync your contact, files or calendars, with an app store full of community contributions - `GPLv3`
+  * [Cozy Cloud](https://cozy.io) - A personal cloud where you can read your emails or manage and sync your contact, files or calendars, with an app store full of community contributions ([Source Code](https://github.com/cozy)) - `GPLv3` `Nodejs`
   * [egroupware](http://www.egroupware.org/) - Software suite including calendars, address books, notepad, project management tools, client relationship managemnt tools (CRM), knowledge management tools, a wiki and a CMS.
   * [Horde](http://www.horde.org/) - The Horde Project is about creating high quality Open Source applications and libraries, based on PHP and the Horde Framework. - `GPL` + Various Free Software / Open Source Software Licenses
   * [Kolab](https://kolab.org/) - Kolab community is a unified communication and collaboration system - `Various FLOSS Licenses` ([Source](http://git.kolab.org/))
