@@ -507,7 +507,7 @@ CMS are a practical way to setup a website with many features. CMS often come wi
 
 ### Documentation Generators
 
-  * [Flatdoc](http://ricostacruz.com/flatdoc/) - a small JavaScript file that fetches Markdown files and renders them as full pages `MIT`
+  * [Flatdoc](http://ricostacruz.com/flatdoc/) - a small JavaScript file that fetches Markdown files and renders them as full pages `MIT` `Javascript`
 
 
 ## Static site generators
