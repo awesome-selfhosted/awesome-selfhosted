@@ -65,7 +65,7 @@ Table of Contents
 
 ## Analytics
 
-  * [Countly](http://Count.ly) - Real time mobile analytics, crash reporting and push notifications platform - `AGPL` `Javascript`
+  * [Countly](http://Count.ly) - Real time mobile analytics, crash reporting and push notifications platform ([Source code](https://github.com/countly)) `AGPL` `Javascript`
   * [Open Web Analytics](http://www.openwebanalytics.com/) - Google Analytics and Piwik alternative - `GPL` `PHP`
   * [Piwik](https://piwik.org/) - Leading open-source analytics platform that gives you more than just powerful analytics. - `GPLv3` `PHP`
   * [Snowplow](http://snowplowanalytics.com/) - Your own digital nervous system. Have every single event, from your websites, mobile apps, desktop applications and server-side systems, stored in your own data warehouse and available to action in real-time. ([Source Code](https://github.com/snowplow/)) `Apache` `Scala`
