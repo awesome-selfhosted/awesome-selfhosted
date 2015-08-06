@@ -52,7 +52,7 @@ Table of Contents
   - [IDE/Tools](#idetools)
   - [Continuous Integration](#continuous-integration)
   - [Bug and Task Trackers](#bug-and-task-trackers)
-  - [Documentation generator](#documentation-generator)
+  - [Documentation Generators](#documentation-generator)
 - [Static site generators](#static-site-generators)
 - [URL Shorteners](#url-shorteners)
 - [Wikis](#wikis)
@@ -505,7 +505,7 @@ CMS are a practical way to setup a website with many features. CMS often come wi
   * [Tinyissue](https://github.com/mikelbring/tinyissue) - Simple Issue Tracking for Teams `MIT`
   * [Tracks](http://getontracks.org/) -  a web-based application to help you implement David Allen’s [Getting Things Done™](http://wikipedia.org/wiki/Getting_Things_Done) methodology. - `GPLV2`
 
-### Documentation generator
+### Documentation Generators
 
   * [Flatdoc](http://ricostacruz.com/flatdoc/) - a small JavaScript file that fetches Markdown files and renders them as full pages `MIT`
 
