@@ -52,7 +52,7 @@ Table of Contents
   - [IDE/Tools](#idetools)
   - [Continuous Integration](#continuous-integration)
   - [Bug and Task Trackers](#bug-and-task-trackers)
-  - [Documentation Generators](#documentation-generator)
+  - [Documentation Generators](#documentation-generators)
 - [Static site generators](#static-site-generators)
 - [URL Shorteners](#url-shorteners)
 - [Wikis](#wikis)
