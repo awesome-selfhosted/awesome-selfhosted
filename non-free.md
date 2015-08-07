@@ -31,8 +31,8 @@
 ## Money, Budgeting and Management
 
   * [IHateMoney](http://ihatemoney.org/) `⊘ Proprietary` - Manage your shared expenses, easily.
-  * [Pancake](http://pancakeapp.com/) `⊘ Proprietary` - Online invoicing, project management, time tracking and proposal software.
-  * [FusionInvoice](https://www.fusioninvoice.com) `⊘ Proprietary` - FusionInvoice is an invoicing system for freelancers and small businesses.
+  * [Pancake](http://pancakeapp.com/) `⊘ Proprietary` `PHP` - Online invoicing, project management, time tracking and proposal software.
+  * [FusionInvoice](https://www.fusioninvoice.com) `⊘ Proprietary` `PHP` - FusionInvoice is an invoicing system for freelancers and small businesses.
 
 ## Photo and Video Galleries
 
