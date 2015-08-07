@@ -485,9 +485,12 @@ CMS are a practical way to setup a website with many features. CMS often come wi
 
 ### Bug and Task Trackers
 
+*Manage issues regarding your software development. See also: [Ticketing](#ticketing)*
+
   * [92five](http://92fiveapp.com/) - Self hosted project management application ([Source code](https://github.com/chintanbanugaria/92five)) `CC BY-NC 4.0` `PHP`
   * [Apache Bloodhound](https://bloodhound.apache.org/) - Manage software products, Keep track of features, tasks and bugs `Apache` `Python`
-  * [bulldog](https://github.com/infews/bulldog) - HTML5 task manager, built on todo.txt `MIT` `HTML5` 
+  * [bulldog](https://github.com/infews/bulldog) - HTML5 task manager, built on todo.txt `MIT` `HTML5`
+  * [Bugzilla](http://www.bugzilla.org/) - General-purpose bugtracker and testing tool originally developed and used by the Mozilla project.
   * [Bumpy Booby](http://bumpy-booby.derivoile.fr/) - A simple, responsive and highly customizable PHP bug tracking system. ([Source code](https://github.com/piero-la-lune/Bumpy-Booby)) `MIT` `PHP`
   * [Crepido](https://github.com/arshad/crepido) - Create (kanban) boards to track users and projects from flat markdown files `MIT` `Javascript/Others`
   * [Flyspray](http://www.flyspray.org/) - uncomplicated, web-based bug tracking system ([Source code](https://github.com/Flyspray/flyspray)) `GPLv2`
@@ -502,6 +505,7 @@ CMS are a practical way to setup a website with many features. CMS often come wi
   * [TaskBoard](http://taskboard.matthewross.me/) - A Kanban-inspired app for keeping track of things that need to get done. ([Source code](https://github.com/kiswa/TaskBoard)) `MIT`
   * [Taskfreak](http://www.taskfreak.com/original) - a simple but efficient web based task manager written in PHP. ([Demo](http://demo.taskfreak.com/))
   * [tasks.php](https://github.com/RaymiiOrg/tasks.php) - A simple task/todo list manager `MIT`
+  * [TheBugGenie](http://www.thebuggenie.com) - Ticket system with extensive user rights system.
   * [Tinyissue](https://github.com/mikelbring/tinyissue) - Simple Issue Tracking for Teams `MIT`
   * [Tracks](http://getontracks.org/) -  a web-based application to help you implement David Allen’s [Getting Things Done™](http://wikipedia.org/wiki/Getting_Things_Done) methodology. - `GPLV2`
 
@@ -511,16 +515,12 @@ See https://staticsitegenerators.net and https://www.staticgen.com
 
 
 ## Ticketing systems
-*Web-based ticketing system.*
+*Web-based ticketing systems. See also: [Bug and Task Trackers](#bug-and-task-trackers).*
 
-* [Bugzilla](http://www.bugzilla.org/) - General-purpose bugtracker and testing tool originally developed and used by the Mozilla project.
 * [Cerb](http://www.cerberusweb.com/) - Group-based e-mail management project.
-* [Flyspray](http://flyspray.org) - Web-based bug tracking system written in PHP.
-* [MantisBT](http://www.mantisbt.org/) - Web-based bug tracking system.
 * [osTicket](http://osticket.com/) - Simple support ticket system.
 * [OTRS](http://www.otrs.com/) - Trouble ticket system for assigning tickets to incoming queries and tracking further communications.
 * [Request Tracker](http://www.bestpractical.com/rt/) - Ticket-tracking system written in Perl.
-* [TheBugGenie](http://www.thebuggenie.com) - Ticket system with extensive user rights system.
 
 
 ## URL Shorteners
