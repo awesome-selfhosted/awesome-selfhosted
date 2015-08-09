@@ -30,7 +30,10 @@
 
 ## Money, Budgeting and Management
 
+  * [FusionInvoice](https://www.fusioninvoice.com) `⊘ Proprietary` - FusionInvoice is an invoicing system for freelancers and small businesses. `PHP`
   * [IHateMoney](http://ihatemoney.org/) `⊘ Proprietary` - Manage your shared expenses, easily.
+  * [Pancake](http://pancakeapp.com/) `⊘ Proprietary` - Online invoicing, project management, time tracking and proposal software. `PHP`
+
 
 ## Photo and Video Galleries
 
