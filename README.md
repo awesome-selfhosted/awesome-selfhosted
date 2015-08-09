@@ -158,6 +158,7 @@ Some [Groupware](#groupware) solutions also feature calendar/address book editin
   * [Jitsi Meet](https://jitsi.org/Projects/JitsiMeet) - Jitsi Meet is an OpenSource (MIT) WebRTC JavaScript application that uses Jitsi Videobridge to provide high quality, scalable video conferences. `MIT ` `JavaScript`
   * [Jitsi Video Bridge](https://jitsi.org/Projects/JitsiVideobridge) - WebRTC compatible Selective Forwarding Unit (SFU) that allows for multiuser video communication. `Apache` `Java`
   * [Kandan](http://getkandan.com/) – Kandan is an Open Source Alternative to HipChat. - `AGPL` 
+  * [Let's Chat](https://sdelements.github.io/lets-chat/) - A persistent messaging application that runs on Node.js and MongoDB. `MIT ` `JavaScript`
   * [Mumble](http://wiki.mumble.info/wiki/Main_Page) - low-latency, high quality voice/text chat software `BSD` `C++`
   * [Node-Chat](https://github.com/IgorAntun/node-chat) - A not-so-basic open-source chat with admin features. - `MIT` `Nodejs`
   * [Rocket.Chat](http://rocket.chat/) – Teamchat solution similar to Gitter.im or Slack - `MIT`
