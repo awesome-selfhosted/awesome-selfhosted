@@ -92,6 +92,7 @@ See also [Static Site Generators](#static-site-generators) and  [Content Managem
   * [Known](https://withknown.com/opensource/) - A single website for all your content `Apache` `PHP`
   * [Noddity](http://noddity.com/) - It's a blog, it's a wiki, it's a fast CMS! ([Source code](https://github.com/TehShrike/noddity)) `WTFPL` `Nodejs`
   * [PluXml](http://www.pluxml.org/) - XML-based blog/CMS platform ([Source code](https://github.com/pluxml/PluXml)) `GPL` `PHP`
+  * [Wagtail](http://www.wagtail.io/) - A Django content management system focused on flexibility and user experience ([Source code](https://github.com/torchbox/wagtail)) `BSD` `Python`
   * [Wordpress](https://wordpress.org/) - Create a beautiful website or blog. ([Source code](https://github.com/WordPress/WordPress)) `GPLv2`
  
  
