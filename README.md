@@ -14,7 +14,7 @@ Table of Contents
 - [Analytics](#analytics)
 - [Automation](#automation)
 - [Blogging Platforms](#blogging-platforms)
-- [Bookmarks & Link Sharing](#bookmarks--link-sharing)Pi
+- [Bookmarks & Link Sharing](#bookmarks--link-sharing)
 - [Calendar and Address Books](#calendar-and-address-books)
 - [Communication systems](#communication-systems)
   - [Email](#email)
