@@ -14,7 +14,7 @@ Table of Contents
 - [Analytics](#analytics)
 - [Automation](#automation)
 - [Blogging Platforms](#blogging-platforms)
-- [Bookmarks & Link Sharing](#bookmarks--link-sharing)
+- [Bookmarks & Link Sharing](#bookmarks--link-sharing)Pi
 - [Calendar and Address Books](#calendar-and-address-books)
 - [Communication systems](#communication-systems)
   - [Email](#email)
@@ -566,7 +566,7 @@ See [staticsitegenerators.net](https://staticsitegenerators.net) and [staticgen.
   * [Sandstorm](https://sandstorm.io/) - Personal server for running self-hosted apps easily and securely. ([Demo](https://demo.sandstorm.io/), [Source code](https://github.com/sandstorm-io/sandstorm)) `Apache` `C++/Other`
   * [sovereign](https://github.com/sovereign/sovereign) -  A set of Ansible playbooks to build and maintain your own private cloud: email, calendar, contacts, file sync, IRC bouncer, VPN, and more. `GPLv3` `YAML/Other`
   * [yunohost](https://yunohost.org/) - a server operating system aiming to make self-hosting accessible to everyone. ([Source code](https://github.com/YunoHost)) - `AGPL` `Python/Other`
-  * [Piratebox](http://piratebox.cc/start) - A DIY anonymous offline file-sharing and communications system built with free software and inexpensive off-the-shelf hardware. [Source Code Here](https://github.com/PirateBox-Dev). `GPLv3`
+  * [Piratebox](http://piratebox.cc/start) - A DIY anonymous offline file-sharing and communications system built with free software and inexpensive off-the-shelf hardware. ([Source code](https://github.com/PirateBox-Dev)). `GPLv3` `Python/Other`
 
 -------------------------------------------------------
 
