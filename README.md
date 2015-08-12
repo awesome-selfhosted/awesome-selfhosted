@@ -9,62 +9,58 @@ This is a list of [Free](https://en.wikipedia.org/wiki/Free_software) Software [
 Table of Contents
 =================
 
-<!-- MarkdownTOC depth=3 -->
+  - [Analytics](#analytics)
+  - [Automation](#automation)
+  - [Blogging Platforms](#blogging-platforms)
+  - [Bookmarks & Link Sharing](#bookmarks-&-link-sharing)
+  - [Calendar and Address Books](#calendar-and-address-books)
+  - [Communication systems](#communication-systems)
+    - [Email](#email)
+    - [XMPP](#xmpp)
+    - [VoIP](#voip)
+    - [IRC](#irc)
+    - [Custom](#custom)
+    - [Social Networks and Forums](#social-networks-and-forums)
+  - [Content Management Systems (CMS)](#content-management-systems-cms)
+    - [E-commerce](#e-commerce)
+  - [Download Tools](#download-tools)
+  - [Federated Identity/Authentication](#federated-identityauthentication)
+  - [Feed Readers](#feed-readers)
+  - [File Sharing and Synchronization](#file-sharing-and-synchronization)
+  - [Games](#games)
+  - [Gateways](#gateways)
+  - [Groupware](#groupware)
+  - [Learning and Courses](#learning-and-courses)
+  - [Maps & GPS](#maps-&-gps)
+  - [Media Streaming](#media-streaming)
+  - [Mind Maps](#mind-maps)
+  - [Money, Budgeting and Management](#money-budgeting-and-management)
+  - [Monitoring and Administration](#monitoring-and-administration)
+  - [Music Streaming](#music-streaming)
+  - [Note-taking & Editors](#note-taking-&-editors)
+  - [Office Suites](#office-suites)
+  - [Password Managers](#password-managers)
+  - [Pastebins](#pastebins)
+  - [Photo and Video Galleries](#photo-and-video-galleries)
+  - [Polls and Events](#polls-and-events)
+  - [Proxy](#proxy)
+  - [Read it Later Lists](#read-it-later-lists)
+  - [Search Engines](#search-engines)
+  - [Software Development](#software-development)
+    - [Project Management](#project-management)
+    - [IDE/Tools](#idetools)
+    - [Continuous Integration](#continuous-integration)
+    - [Bug Trackers, Task Management and Ticketing Systems](#bug-trackers-task-management-and-ticketing-systems)
+    - [Documentation Generators](#documentation-generators)
+  - [Static site generators](#static-site-generators)
+  - [URL Shorteners](#url-shorteners)
+  - [Wikis](#wikis)
+  - [Self-hosting Solutions](#self-hosting-solutions)
+  - [List of Licenses](#list-of-licenses)
+  - [External links](#external-links)
+  - [Contributing](#contributing)
+  - [License](#license)
 
-- [Analytics](#analytics)
-- [Automation](#automation)
-- [Blogging Platforms](#blogging-platforms)
-- [Bookmarks & Link Sharing](#bookmarks--link-sharing)
-- [Calendar and Address Books](#calendar-and-address-books)
-- [Communication systems](#communication-systems)
-  - [Email](#email)
-  - [XMPP](#xmpp)
-  - [VoIP](#voip)
-  - [IRC](#irc)
-  - [Custom](#custom)
-  - [Social Networks and Forums](#social-networks-and-forums)
-- [Content Management Systems (CMS)](#content-management-systems-cms)
-- [Download Tools](#download-tools)
-- [Federated Identity/Authentication](#federated-identityauthentication)
-- [Feed Readers](#feed-readers)
-- [File Sharing and Synchronization](#file-sharing-and-synchronization)
-- [Games](#games)
-- [Gateways](#gateways)
-- [Groupware](#groupware)
-- [Maps & GPS](#maps--gps)
-- [Media Streaming](#media-streaming)
-- [Mind Maps](#mind-maps)
-- [Money, Budgeting and Management](#money-budgeting-and-management)
-- [Monitoring and Administration](#monitoring-and-administration)
-- [Music Streaming](#music-streaming)
-- [Note-taking & Editors](#note-taking--editors)
-- [Office Suites](#office-suites)
-- [Password Managers](#password-managers)
-- [Pastebins](#pastebins)
-- [Photo and Video Galleries](#photo-and-video-galleries)
-- [Polls and Events](#polls-and-events)
-- [Project Management](#project-management)
-- [Proxy](#proxy)
-- [Read it Later Lists](#read-it-later-lists)
-- [Search Engines](#search-engines)
-- [Software Development](#software-development)
-  - [Project Management](#project-management)
-  - [IDE/Tools](#idetools)
-  - [Continuous Integration](#continuous-integration)
-  - [Bug and Task Trackers](#bug-and-task-trackers)
-- [Static site generators](#static-site-generators)
-- [Statistics](#statistics)
-- [Ticketing systems](#ticketing-systems)
-- [URL Shorteners](#url-shorteners)
-- [Wikis](#wikis)
-- [Webmail](#webmail)
-- [Self-hosting Solutions](#self-hosting-solutions)
-- [List of Licenses](#list-of-licenses)
-- [External links](#external-links)
-- [Contributing](#contributing)
-- [License](#license)
-
-<!-- /MarkdownTOC -->
 
 ## Analytics
 
@@ -73,8 +69,9 @@ Table of Contents
   * [GoAccess](http://goaccess.io/) - Real-time web log analyzer and interactive viewer that runs in a terminal.
   * [Open Web Analytics](http://www.openwebanalytics.com/) - Google Analytics and Piwik alternative - `GPL` `PHP`
   * [Piwik](https://piwik.org/) - Leading open-source analytics platform that gives you more than just powerful analytics. - `GPLv3` `PHP`
+  * [Snowplow](http://snowplowanalytics.com/) - Your own digital nervous system. Have every single event, from your websites, mobile apps, desktop applications and server-side systems, stored in your own data warehouse and available to action in real-time. ([Source Code](https://github.com/snowplow/)) `Apache` `Scala`
   * [ThinkUp](https://www.thinkup.com/) - Insights into your social networking activity on Twitter, Facebook, Instagram, and beyond. ([Source code](https://github.com/ThinkUpLLC/ThinkUp)) - `GPL` `PHP`
-  * [Webalizer](http://www.webalizer.org/) - Fast web server log file analysis.
+  * [Webalizer](http://www.webalizer.org/) - Fast web server log file analysis. `GPL` `C`
 
 
 ## Automation
@@ -165,7 +162,6 @@ Some [Groupware](#groupware) solutions also feature calendar/address book editin
   * [Ostel](https://dev.guardianproject.info/projects/ostel/wiki/Server_Documentation) - Secure SIP telephony setup with ZRTP encryption `GPLv3` `Ruby`
 
 ### IRC
-  * [Shout](http://shout-irc.com/) -The self-hosted web IRC client ([Demo](http://demo.shout-irc.com/), [Source code](https://github.com/erming/shout)) `MIT` `Nodejs`
   * [Convos](http://convos.by/) - Always online web IRC client ([Demo](http://demo.convos.by), [Source code](http://github.com/nordaaker/convos)) `ARTv2` `Perl` 
   * [Quassel IRC](http://quassel-irc.org/) - distributed IRC client, meaning that one (or multiple) client(s) can attach to and detach from a central core ([Source code](https://github.com/quassel/quassel)) `GPLv2` `C++`
   * [Shout](http://shout-irc.com/) - The self-hosted web IRC client ([Demo](http://demo.shout-irc.com/), [Source code](https://github.com/erming/shout)) `MIT` `Nodejs`
@@ -304,14 +300,12 @@ Some [Groupware](#groupware) solutions also feature file sharing synchronization
   * [Git Annex](http://git-annex.branchable.com/assistant/quickstart/) - File synchronization between computers, servers, external drives
   * [img.bi](https://github.com/imgbi/img.bi) - img.bi is a secure image hosting. Images are encrypted using AES-256 with random key in browser before upload. `GPLv3` `Nodejs`
   * [instant.io](https://github.com/feross/instant.io) - Streaming file transfer over WebTorrent ([Demo](https://instant.io)) `MIT` `Nodejs`
-  * [ipMagnet](https://github.com/cbdevnet/ipmagnet/) - BitTorrent client IP address check ([Demo](http://ipmagnet.services.cbcdn.com/)) `WTFPL` `PHP`
   * [Jirafeau](https://gitlab.com/mojo42/Jirafeau/wikis/home) - Jirafeau is a web site permitting to upload a file in a simple way and give an unique link to it. ([Demo](http://jirafeau.net/))
   * [Jyraphe](http://home.gna.org/jyraphe/) - Jyraphe is a web application of file repository, easy to install and easy to use.
   * [lutim](https://github.com/ldidry/lutim) - Let's Upload That Image !
   * [Mediacrush](https://mediacru.sh/) - a website you can upload images, audio, and video to, and receive a link to share it with your friends ([Source code](https://github.com/MediaCrush/MediaCrush))
   * [Nimbus](https://github.com/ethanal/nimbus) - A drag-and-drop shortlink file sharer for OS X - `MIT` `Python`
   * [OnionShare](https://onionshare.org/) - securely and anonymously share a file of any size.
-  * [ownCloud](https://owncloud.org/) - All-in-one solution for saving and sharing files, photos, music- `AGPLv3`
   * [Pomf](https://github.com/nokonoko/Pomf) -  Simple file uploading and sharing, source for the now shut down site Pomf.se `MIT` `PHP/Nodejs`
   * [Pydio](https://pyd.io/) - Turn any web server into a powerful file management system and an alternative to mainstream cloud storage providers.
   * [Seafile](http://www.seafile.com/en/home/) - File hosting and sharing solution primary for teams and organizations. ([Demo](https://seacloud.cc/demo)) `GPLv2`
@@ -403,8 +397,8 @@ Some [Groupware](#groupware) solutions also feature file sharing synchronization
   * [CherryMusic](http://www.fomori.org/cherrymusic/) - minimalistic Web-Mediaplayer - `GPL` `Python`
   * [cloudtunes](https://github.com/jakubroztocil/cloudtunes) -  Web-based music player for the cloud `MIT` `Python/Javascript`
   * [Groove Basin](http://groovebasin.com/) - A music player server with a web-based user interface inspired by Amarok 1.4 ([Source code](https://github.com/andrewrk/groovebasin)) `MIT` `Nodejs`
-  * [mpd](http://www.musicpd.org/) - Daemon to remotely play music, stream music, handle and organize playlists. Many clients available. `GPLv2` `C++`
   * [Mopidy](http://mopidy.readthedocs.org/) - Extensible music server. Offers a superset of the mpd API, as well as integration with 3rd party services like Spotify, SoundCloud etc. ([Source code](https://github.com/mopidy/mopidy)) `Apache` `Python`
+  * [mpd](http://www.musicpd.org/) - Daemon to remotely play music, stream music, handle and organize playlists. Many clients available. `GPLv2` `C++`
   * [Sonerezh](https://www.sonerezh.bzh/) - A self-hosted, web-based application for stream your music, everywhere. ([Demo](https://www.sonerezh.bzh/demo/), [Documentation](https://www.sonerezh.bzh/docs/), [Source code](https://github.com/sonerezh/sonerezh)) `GPLv3` `PHP`
   * [Subsonic](http://subsonic.org/) - Open-source web-based media streamer and jukebox ([Demo](http://demo.subsonic.org/login.view?user=guest4&password=guest), [Source code](https://github.com/EugeneKay/subsonic)) `GPLv3` `Java`
 
@@ -472,19 +466,6 @@ Some [Groupware](#groupware) solutions also feature file sharing synchronization
   * [MaterialPoll](https://github.com/nearbycoder/materialpoll) - an opensource strawpoll.me clone for creating random polls. - ([Source code](https://github.com/nearbycoder/materialpoll), [Demo](http://materialpoll.tk))
   * [OpenSondage](https://github.com/leblanc-simon/OpenSondage) - an online service for planning an appointment or make a decision quickly and easily: Make a poll, Define dates or subjects to choose, Send the poll link to your friends or colleagues, Discuss and make a decision - ([Demo](http://framadate.org/), [Example](https://framadate.org/aqg259dth55iuhwm))
 
-## Project Management
-*Web-based project management and bug tracking systems.*
-
-* [CaseBox](https://www.casebox.org) - Manage all your organisation's information in one system.
-* [ChiliProject](https://www.chiliproject.org) - Fork of Redmine.
-* [GitBucket](https://github.com/takezoe/gitbucket) Clone of GitHub written in Scala; single jar install.
-* [GitLab](https://www.gitlab.com/) - Clone of GitHub written in Ruby.
-* [Gogs](http://gogs.io/) - Self-hosted Git service written in Go.
-* [OpenProject](https://www.openproject.org) - Project collaboration.
-* [Redmine](http://www.redmine.org/) - Written in ruby on rails.
-* [Taiga](https://taiga.io/) - Agile Project Management Tool based on the Kanban and Scrum methods.
-* [The Bug Genie](http://www.thebuggenie.com/) - Written in PHP.
-* [Trac](http://trac.edgewall.org/) - Written in python.
 
 ## Proxy
 
@@ -508,13 +489,22 @@ Some [Groupware](#groupware) solutions also feature file sharing synchronization
 
 ### Project Management
 
+  * [CaseBox](https://www.casebox.org) - Manage all your organisation's information in one system.
+  * [ChiliProject](https://www.chiliproject.org) - Fork of Redmine.
   * [Fossil](https://www.fossil-scm.org/index.html/doc/trunk/www/index.wiki)  - Distributed version control system featuring wiki and bug tracker - `BSD` `C`
   * [gitbucket](http://takezoe.github.io/gitbucket/) - The easily installable GitHub clone powered by Scala - ([Source code](https://github.com/takezoe/gitbucket))
   * [GitLab](http://gitlab.org/) - Self Hosted Git Management Application - GitLab is open source software to collaborate on code. Manage git repositories with fine grained access controls that keep your code secure. Perform code reviews and enhance collaboration with merge requests. Each project can also have an issue tracker and a wiki ([Public instance](https://git.framasoft.org/))
   * [Gitlist](http://gitlist.org/) - A web-based git repository browser - GitList allows you to browse repositories using your favorite browser, viewing files under different revisions, commit history and diffs. ([Source code](https://github.com/klaussilveira/gitlist))
   * [Gitprep](http://gitprep.org/) - Portable Github clone ([Source code](https://github.com/yuki-kimoto/gitprep), [Demo](http://perlcodesample.sakura.ne.jp/gitprep.cgi))
   * [Gogs](https://github.com/gogits/gogs) - a painless self-hosted Git Service written in Go. ([Demo](https://try.gogs.io/))
+  * [OpenProject](https://www.openproject.org) - Project collaboration.
   * [Phabricator](http://phabricator.org/) - Collection of web applications that help build better software. ([Source code](https://github.com/phacility/phabricator), [Demo](https://secure.phabricator.com/)) `Apache` `PHP`
+  * [Redmine](http://www.redmine.org/) - Redmine is a flexible project management web application `Ruby` `GPLv2`
+  * [Taiga](https://taiga.io/) - Agile Project Management Tool based on the Kanban and Scrum methods.
+  * [The Bug Genie](http://www.thebuggenie.com/) - Written in PHP.
+  * [Trac](http://trac.edgewall.org/) - Written in python.
+  * [Phproject](http://www.phproject.org/) - A high performance full-featured project management system ([Source code](https://github.com/Alanaktion/phproject), [Demo](http://demo.phproject.org/)) `GPLv3`
+
 
 
 ### IDE/Tools
@@ -529,15 +519,16 @@ Some [Groupware](#groupware) solutions also feature file sharing synchronization
 
   * [Jenkins](https://jenkins-ci.org/) - Continuous Integration Server ([Source Code](https://github.com/jenkinsci/jenkins/)) `MIT` `Java`
 
-### Bug and Task Trackers
+### Bug Trackers, Task Management and Ticketing Systems
 
 *Manage issues regarding your software development. See also: [Ticketing](#ticketing)*
 
   * [92five](http://92fiveapp.com/) - Self hosted project management application ([Source code](https://github.com/chintanbanugaria/92five)) `CC BY-NC 4.0` `PHP`
   * [Apache Bloodhound](https://bloodhound.apache.org/) - Manage software products, Keep track of features, tasks and bugs `Apache` `Python`
-  * [Bugzilla](https://www.bugzilla.org/) - Bug tracking used by the Mozilla projects. `MPLv2` `Pearl`
+  * [Bugzilla](https://www.bugzilla.org/) - General-purpose bugtracker and testing tool originally developed and used by the Mozilla project. `MPLv2` `Pearl`
   * [bulldog](https://github.com/infews/bulldog) - HTML5 task manager, built on todo.txt `MIT` `HTML5` 
   * [Bumpy Booby](http://bumpy-booby.derivoile.fr/) - A simple, responsive and highly customizable PHP bug tracking system. ([Source code](https://github.com/piero-la-lune/Bumpy-Booby)) `MIT` `PHP`
+  * [Cerb](http://www.cerberusweb.com/) - Group-based e-mail management project.
   * [Crepido](https://github.com/arshad/crepido) - Create (kanban) boards to track users and projects from flat markdown files `MIT` `Javascript/Others`
   * [Flyspray](http://www.flyspray.org/) - uncomplicated, web-based bug tracking system ([Source code](https://github.com/Flyspray/flyspray)) `GPLv2`
   * [Gaskit](https://github.com/bkeepers/gaskit) - a git-backed issue tracker. It uses a branch in your local git database to store the tickets. `GPL`
@@ -546,8 +537,9 @@ Some [Groupware](#groupware) solutions also feature file sharing synchronization
   * [Kanboard](http://kanboard.net/) - A simple and open source visual task board `AGPLv3`
   * [MantisBT](https://www.mantisbt.org/) - Self hosted bug tracker, fits best for software development - ([Demo](https://www.mantisbt.org/bugs/my_view_page.php)) -  ([Source code](https://github.com/mantisbt/mantisbt)) - `GPLv2`
   * [myTinyTodo](http://www.mytinytodo.net/) - Simple way to manage your todo list in AJAX style. Uses PHP, jQuery, SQLite/MySQL. GTD compliant. `GPL`
-  * [Phproject](http://www.phproject.org/) - A high performance full-featured project management system ([Source code](https://github.com/Alanaktion/phproject), [Demo](http://demo.phproject.org/)) `GPLv3`
-  * [Redmine](http://www.redmine.org/) - Redmine is a flexible project management web application `Ruby` `GPLv2`
+  * [osTicket](http://osticket.com/) - Simple support ticket system.
+  * [OTRS](http://www.otrs.com/) - Trouble ticket system for assigning tickets to incoming queries and tracking further communications.
+  * [Request Tracker](http://www.bestpractical.com/rt/) - Ticket-tracking system written in Perl.
   * [Taiga.io](https://taiga.io/) - Your Agile, Free and Open Source Project Management Tool ([Source code](https://github.com/taigaio))
   * [TaskBoard](http://taskboard.matthewross.me/) - A Kanban-inspired app for keeping track of things that need to get done. ([Source code](https://github.com/kiswa/TaskBoard)) `MIT`
   * [Taskfreak](http://www.taskfreak.com/original) - a simple but efficient web based task manager written in PHP. ([Demo](http://demo.taskfreak.com/))
@@ -555,6 +547,7 @@ Some [Groupware](#groupware) solutions also feature file sharing synchronization
   * [TheBugGenie](http://www.thebuggenie.com) - Ticket system with extensive user rights system.
   * [Tinyissue](https://github.com/mikelbring/tinyissue) - Simple Issue Tracking for Teams `MIT`
   * [Tracks](http://getontracks.org/) -  a web-based application to help you implement David Allen’s [Getting Things Done™](http://wikipedia.org/wiki/Getting_Things_Done) methodology. - `GPLV2`
+
 
 
 ### Documentation Generators
@@ -572,19 +565,6 @@ Some [Groupware](#groupware) solutions also feature file sharing synchronization
 See https://staticsitegenerators.net and https://www.staticgen.com
 
 
-## Ticketing systems
-*Web-based ticketing systems. See also: [Bug and Task Trackers](#bug-and-task-trackers).*
-
-* [Bugzilla](http://www.bugzilla.org/) - General-purpose bugtracker and testing tool originally developed and used by the Mozilla project.
-* [Cerb](http://www.cerberusweb.com/) - Group-based e-mail management project.
-* [Flyspray](http://flyspray.org) - Web-based bug tracking system written in PHP.
-* [MantisBT](http://www.mantisbt.org/) - Web-based bug tracking system.
-* [osTicket](http://osticket.com/) - Simple support ticket system.
-* [OTRS](http://www.otrs.com/) - Trouble ticket system for assigning tickets to incoming queries and tracking further communications.
-* [Request Tracker](http://www.bestpractical.com/rt/) - Ticket-tracking system written in Perl.
-* [TheBugGenie](http://www.thebuggenie.com) - Ticket system with extensive user rights system.
-
-
 ## URL Shorteners
 
   * [Lstu](https://github.com/ldidry/lstu) - _Let's SHorten That Url_ - Lightweight URL shortener
@@ -599,26 +579,23 @@ See https://staticsitegenerators.net and https://www.staticgen.com
   * [Blazekiss](https://github.com/ldleman/blazekiss) - BlazeKiss is a KISS-based wiki (Keep It Simple, Stupid) - simplicity and functionality comes before all.
   * [Codex](http://codex.caffeinated.ninja/codex/master) - Codex is a simple file-based Markdown documentation platform built on top of Laravel. - `MIT`
   * [commonplace](https://github.com/fredoliveira/commonplace) - A server for your markdown files. Give it a directory, and Commonplace gives you a url, pretty pages, and quick editing.
-  * [daux.io](https://github.com/justinwalsh/daux.io) - Daux.io is an documentation generator that uses a simple folder structure and Markdown files to create custom documentation on the fly. It helps you create great looking documentation in a developer friendly way. `MIT`
-  * [Docstore](http://haldean.org/) - A basic site for hosting static documents - docstore is a simple way to serve Markdown files without any server-side processing, and without requiring you (as the author) to recompile every time you change an article. It consists of a very simple JS script that makes an ajax request to your server, runs a Markdown processor on what it finds, and then displays the results. Clone the repository and add articles in the text/ directory to get started. ([Source code](https://github.com/haldean/docstore))
   * [Dokuwiki](http://www.splitbrain.org/projects/dokuwiki) - An easy to use, lightweight, standards-compliant wiki engine with a simple syntax allowing reading the data outside the wiki. All data is stored in plain files, therefore no database is required. - `GPL`
   * [Gitit](https://github.com/jgm/gitit) - A wiki program that stores pages and uploaded files in a git repository, which can then be modified using the VCS command line tools or the wiki's web interface. Supported markups include pandoc's extended version of markdown, reStructuredText, LaTeX, and HTML. Pages can be exported in a number of different formats, including LaTeX, RTF, OpenOffice ODT, and MediaWiki markup. Other features include: plugins, syntax highlighting, caching, ATOM feeds
   * [Gollum](https://github.com/gollum/gollum) - A simple, Git-powered wiki with a sweet API and local frontend.
   * [Gruik](http://gruik.io/) - An open-source markdown note-taking web app ([Source code](https://github.com/grena/gruik))
   * [ikiwiki](http://ikiwiki.info/) - A wiki compiler.
   * [markdown-tree](https://github.com/mil/markdown-tree) - serve a hierarchy / tree directory of markdown files. Use intended for small sites built in markdown
-  * [MdWiki](https://dynalon.github.io/mdwiki/#!index.md) - a Markdown CMS/Wiki completely built in HTML5/Javascript and runs 100% on the client ([Source code](https://github.com/Dynalon/mdwiki))
   * [Mediawiki](https://www.mediawiki.org/wiki/MediaWiki)
   * [MoinMoin](http://moinmo.in/) - An advanced, easy to use and extensible WikiEngine with a large community of users.
   * [Olelo/Gitwiki](https://github.com/minad/olelo) - Olelo is a wiki that stores pages in a Git repository, supports many markup styles and has an extensible, hackable architecture! Features: Edit, move or delete pages; Page attribute editor; Support for hierarchical wikis (directory structure); File upload; History, commit and diff view; Locales (Czech, English, French, German); Support for many markup languages (Creole, Markdown, Textile); RSS/Atom changelog for whole wiki or pages; Section editing for Creole; Embedded LaTeX formulas; Syntax highlighting; Image resizing, SVG to PNG/JPEG conversion; Auto-generated table of contents; Previews; View pages as S5 presentation; Privacy features: Access control lists, Private wiki, Read-only wiki. ([Demo](http://www.gitwiki.org/)) 
   * [PmWiki](http://www.pmwiki.org) - Wiki-based system for collaborative creation and maintenance of websites.
   * [Raneto](http://raneto.com/) - Raneto is an open source Knowledgebase platform that uses static Markdown files to power your Knowledgebase - `MIT`
   * [Realms](https://github.com/scragg0x/realms-wiki) - a git-backed wiki inspired by Gollum
-  * [Redaxscript](http://redaxscript.com/) - Ultra lightweight website engine
   * [TiddlyWiki](http://tiddlywiki.com/) - a reusable non-linear personal web notebook
   * [WiKiss](http://wikiss.tuxfamily.org/) - un wiki simple à utiliser et déployer.
   * [Wikitten](https://github.com/victorstanciu/Wikitten) - Wikitten is a small, fast, PHP wiki, and the perfect place to store your notes, code snippets, ideas, and so on.
--------------------------------------------------------
+
+------------------------------------
 
 ## Self-hosting Solutions
 
@@ -653,7 +630,6 @@ See https://staticsitegenerators.net and https://www.staticgen.com
 
  * [Awesome Sysadmin](https://github.com/n1trux/awesome-sysadmin) -  A curated list of amazingly awesome open source sysadmin resources.
  * [PRISM Break](https://prism-break.org/en/), [Privacytools.io](https://www.privacytools.io/) - Mobile, computer & server privacy-minded applications
- * [Self-hostable software on alternativeTo.net](https://alternativeto.net/?platform=self-hosted&sort=likes)
 
 
 -------------------------------------------------------
@@ -676,25 +652,40 @@ This list is under the [Creative Commons Attribution-ShareAlike 3.0 Unported](LI
 
 The list of contributors can be found below
 
-    77  nodiscc <nodiscc@gmail.com>
-    68  Edward D <ed.kickball@hotmail.com>
-    12  Kickball <ed.kickball@hotmail.com>
-    12  jungle-boogie <sean@jungleboogie.me>
+   105  Edward D <ed.kickball@hotmail.com>
+    99  nodiscc <nodiscc@gmail.com>
+    22  Kickball <ed.kickball@hotmail.com>
+    13  jungle-boogie <sean@jungleboogie.me>
+     9  Kovah <mail@kovah.de>
      7  Thomas Dalichow <info@thomasdalichow.de>
-     6  Kovah <mail@kovah.de>
+     7  n1trux <n1trux@users.noreply.github.com>
+     7  phre4k <me@phre4k.at>
+     6  Per Guth <mail@perguth.de>
      6  Thomas Dalichow <2012-02-05.github.com@thomasdalichow.de>
      5  Moti Korets <moti.kor@gmail.com>
+     4  Cory Gibbons <hello@corygibbons.com>
+     4  Dominik Pfaffenbauer <dominik@lineofcode.at>
+     4  Jean Elchinger <jinformatique@riseup.net>
+     3  Dr. Azrael Tod <github.com@g33ky.de>
+     3  Ethan Lowman <ethanal@users.noreply.github.com>
      3  Jan Vlnas <jnv@users.noreply.github.com>
+     3  Marc Picaud <picaud.marc@gmail.com>
      3  Mariusz Kozakowski <11mariom+wordpress@gmail.com>
      3  Martin Gontovnikas <martin@gon.to>
      3  Ye Lin Aung <me@yelinaung.com>
      3  jungle-boogie <sean@rastasean.net>
      3  rett gerst <rettgerst@users.noreply.github.com>
+     2  Alexander Ryzhov <gtihub@ryzhov-al.ru>
+     2  Bartłomiej Kurzeja <B3QL@users.noreply.github.com>
+     2  Brendan Abolivier <contact@brendanabolivier.com>
      2  Charles Farence III <charles@charlessite90.com>
+     2  Chris Missal <chris.missal@gmail.com>
      2  Costin Moise <necenzurat@gmail.com>
      2  Deryck <dhenson02@users.noreply.github.com>
      2  Greg V <greg@unrelenting.technology>
+     2  Görkem Çetin <gc@count.ly>
      2  Joseph Dykstra <josephdykstra@gmail.com>
+     2  Leo Gaggl <leo@brightcookie.com.au>
      2  Marien Fressinaud <dev@marienfressinaud.fr>
      2  Mikael Peigney <Mika56@users.noreply.github.com>
      2  Patrik Ragnarsson <patrik@starkast.net>
@@ -704,25 +695,47 @@ The list of contributors can be found below
      2  Thomas Citharel <tcit@tcit.fr>
      2  cron410 <cron410@gmail.com>
      2  jimykk <JimyKK@users.noreply.github.com>
-     2  phre4k <me@phre4k.at>
+     2  tomc3 <wordoftheday003@gmail.com>
      2  yuche <i@yuche.me>
+     1  Alys <alice.harris@oldgods.net>
+     1  Andrew Murray <radarhere@gmail.com>
+     1  Angel Velasquez <angvp@archlinux.org>
      1  Caleb Xu <calebcenter@live.com>
      1  Calle Wolff <carl@wolff.se>
+     1  Chema <neo22s@gmail.com>
      1  Dan <rocks.in.the.cloud@gmail.com>
+     1  Dirk Krause <dirkk0@googlemail.com>
      1  Dražen Lučanin <kermit666@gmail.com>
+     1  Eren Hatırnaz <erenhatirnaz@hotmail.com.tr>
+     1  Florian Wilhelm <f.wilhelm@tarent.de>
+     1  Henry Ruhs <info@redaxmedia.com>
      1  Igor Antun <IgorAntun@users.noreply.github.com>
-     1  Jean Elchinger <jinformatique@riseup.net>
+     1  Ilya Sevostyanov <d3th@zeen.ru>
      1  Jeremiah Marks <jeremiah@jlmarks.org>
      1  Joel Calado <joelcalado@gmail.com>
      1  Joshua Hamilton <joshua.hamilton@fabricut.com>
+     1  Joubert RedRat <eu+github@redrat.com.br>
      1  Keith Thibodeaux <kthibodeaux@peachtreebilling.com>
+     1  Kyle Stetz <kylestetz@gmail.com>
      1  Marcus Ramberg <marcus@nordaaker.com>
      1  MatFluor <MatFluor@users.noreply.github.com>
+     1  Mike Steele <mike@steel.fm>
+     1  Morris Jobke <hey@morrisjobke.de>
+     1  Murdoc Bates <trockenasche@gmail.com>
+     1  Oliver Kopp <kopp.dev@gmail.com>
+     1  Remy Adriaanse <remy@adriaanse.it>
      1  Remy Honig <remyhonig@users.noreply.github.com>
+     1  Riddler <Iamjithin@live.com>
+     1  Ryan Halliday <ry167@ry167.com>
      1  Stefan Bohacek <stefan.bohacek@gmail.com>
      1  Stefan Bohacek <stefan@fourtonfish.com>
+     1  benmaynard11 <allowin-217941-github@vhost244.maynardnetworks.com>
      1  bricej13 <bricej13@gmail.com>
+     1  cbdev <cb@cbcdn.com>
+     1  littleguga <littleguga@users.noreply.github.com>
+     1  mertinop <martin.santibanez.a@gmail.com>
      1  skarphet <skarphet@users.noreply.github.com>
      1  steven jacobs <stjacobs@fastmail.fm>
      1  stevesbrain <stevesbrain@users.noreply.github.com>
      1  ttoups <ich@timotoups.de>
+
