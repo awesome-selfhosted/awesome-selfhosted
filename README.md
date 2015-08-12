@@ -407,6 +407,7 @@ Some [Groupware](#groupware) solutions also feature file sharing synchronization
   * [EtherCalc](https://ethercalc.org/) - Web spreadsheet. - `CPALv1`
   * [Etherpad](http://etherpad.org/) - Etherpad is a highly customizable Open Source online editor providing collaborative editing in really real-time. - `Apache`
   * [Only Office](http://onlyoffice.org/) - An office suite that enables you to manage documents, projects, team and customer relations in one place. `AGPLv3`
+  * [PHPOffice](http://phpoffice.github.io/) - PHPOffice contains libraries which permits to write and read files from most office suites. `LGPLv3` `PHP`
 
 ## Password Managers
 
