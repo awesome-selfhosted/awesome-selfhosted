@@ -585,9 +585,9 @@ See https://staticsitegenerators.net and https://www.staticgen.com
   * [Gruik](http://gruik.io/) - An open-source markdown note-taking web app ([Source code](https://github.com/grena/gruik))
   * [ikiwiki](http://ikiwiki.info/) - A wiki compiler.
   * [markdown-tree](https://github.com/mil/markdown-tree) - serve a hierarchy / tree directory of markdown files. Use intended for small sites built in markdown
-  * [Mediawiki](https://www.mediawiki.org/wiki/MediaWiki)
+  * [Mediawiki](https://www.mediawiki.org/wiki/MediaWiki) - a widely used wiki software originally developed for Wikipedia ([Demo](https://en.wikipedia.org/)) `GPLv3` `PHP`
   * [MoinMoin](http://moinmo.in/) - An advanced, easy to use and extensible WikiEngine with a large community of users.
-  * [Olelo/Gitwiki](https://github.com/minad/olelo) - Olelo is a wiki that stores pages in a Git repository, supports many markup styles and has an extensible, hackable architecture! Features: Edit, move or delete pages; Page attribute editor; Support for hierarchical wikis (directory structure); File upload; History, commit and diff view; Locales (Czech, English, French, German); Support for many markup languages (Creole, Markdown, Textile); RSS/Atom changelog for whole wiki or pages; Section editing for Creole; Embedded LaTeX formulas; Syntax highlighting; Image resizing, SVG to PNG/JPEG conversion; Auto-generated table of contents; Previews; View pages as S5 presentation; Privacy features: Access control lists, Private wiki, Read-only wiki. ([Demo](http://www.gitwiki.org/)) 
+  * [Olelo/Gitwiki](https://github.com/minad/olelo) - Olelo is a wiki that stores pages in a Git repository, supports many markup styles, has an extensible, hackable architecture, and many other features ([Demo](http://www.gitwiki.org/)) 
   * [PmWiki](http://www.pmwiki.org) - Wiki-based system for collaborative creation and maintenance of websites.
   * [Raneto](http://raneto.com/) - Raneto is an open source Knowledgebase platform that uses static Markdown files to power your Knowledgebase - `MIT`
   * [Realms](https://github.com/scragg0x/realms-wiki) - a git-backed wiki inspired by Gollum
@@ -652,7 +652,7 @@ This list is under the [Creative Commons Attribution-ShareAlike 3.0 Unported](LI
 
 The list of contributors can be found below
 
-   105  Edward D <ed.kickball@hotmail.com>
+    105  Edward D <ed.kickball@hotmail.com>
     99  nodiscc <nodiscc@gmail.com>
     22  Kickball <ed.kickball@hotmail.com>
     13  jungle-boogie <sean@jungleboogie.me>
