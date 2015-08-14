@@ -121,6 +121,7 @@ Some [Groupware](#groupware) solutions also feature calendar/address book editin
   * [calypso](http://keithp.com/calypso/) - a python-based CalDAV/CardDAV server
   * [DAViCal](http://www.davical.org/) - a server for calendar sharing (CalDAV)
   * [Radicale](http://radicale.org/) - A Simple Calendar and Contact Server
+  * [sabre/dav](http://sabre.io/) -  A open source CardDAV, CalDAV and WebDAV server.
 
 ## Communication systems
 
