@@ -132,10 +132,11 @@ Some [Groupware](#groupware) solutions also feature calendar/address book editin
 
 ### Email
 
+For preconfigured mail server solutions, see [Self-hosting Solutions](#self-hosting-solutions)
+
   * [Cypht](http://cypht.org/index.html) - A feed reader for your email accounts - `GPL`
   * [Horde](http://www.horde.org) - Webmail and groupware client.
   * [Mailpile](https://www.mailpile.is/) - Webmail client with search, filtering, encryption features and more ([Source code](https://github.com/mailpile/Mailpile)) `AGPLv3` `Python`
-  * [mailcow](https://github.com/andryyy/mailcow) - Mail server suite based on Dovecot, Postfix and other open source software, that provides a modern Web UI for administration. `GPL`
   * [RainLoop](http://www.rainloop.net/) - Simple, modern & fast webmail with IMAP/SMTP Support and multi accounting. ([Demo](http://demo.rainloop.net/), [Source code](https://github.com/RainLoop/rainloop-webmail)). `AGPLv3` `PHP`
   * [Roundcube](https://roundcube.net) - Browser-based IMAP client with an application-like user interface. ([Screenshots](https://roundcube.net/screens/)) ([Source code](https://github.com/roundcube/roundcubemail/)) `GPLv3` `PHP`
   * [SquirrelMail](http://squirrelmail.org) - Another browser-based IMAP client.
