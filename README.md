@@ -543,7 +543,6 @@ Some [Groupware](#groupware) solutions also feature file sharing synchronization
 
 *Manage issues regarding your software development. See also: [Ticketing](#ticketing)*
 
-  * [92five](http://92fiveapp.com/) - Self hosted project management application ([Source code](https://github.com/chintanbanugaria/92five)) `CC BY-NC 4.0` `PHP`
   * [Apache Bloodhound](https://bloodhound.apache.org/) - Manage software products, Keep track of features, tasks and bugs `Apache` `Python`
   * [Bugzilla](https://www.bugzilla.org/) - General-purpose bugtracker and testing tool originally developed and used by the Mozilla project. `MPLv2` `Pearl`
   * [bulldog](https://github.com/infews/bulldog) - HTML5 task manager, built on todo.txt `MIT` `HTML5` 
