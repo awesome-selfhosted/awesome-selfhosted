@@ -261,6 +261,8 @@ CMS are a practical way to setup a website with many features. CMS often come wi
   * [OpenCA OCSPD](https://pki.openca.org/projects/ocspd/) - [OCSP](https://en.wikipedia.org/wiki/Online_Certificate_Status_Protocol) Responder
   * [OpenID/OpenID Connect](http://openid.net/developers/libraries/)
   * [OSIAM](https://www.osiam.org) - Open Source Identity and Access Management implementing OAuth 2.0 and SCIMv2. ([Source code](https://github.com/osiam/osiam)) `MIT` `Java`
+  * [FreeRADIUS](http://www.freeradius.org) - open-source RADIUS server for AAA `GPLv2` `BSD`
+  * [daloRADIUS](http://www.daloradius.com) - open-source web management platform for FreeRADIUS-based deployments [daloRADIUS on Github](https://github.com/lirantal/daloradius) `GPLv2`
 
 
 ## Feed Readers
