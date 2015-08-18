@@ -581,24 +581,24 @@ See https://staticsitegenerators.net and https://www.staticgen.com
 ## Wikis
 
   * **[Wikimatrix](http://www.wikimatrix.org/) - A wiki platforms comparator**
-  * [Blazekiss](https://github.com/ldleman/blazekiss) - BlazeKiss is a KISS-based wiki (Keep It Simple, Stupid) - simplicity and functionality comes before all.
-  * [Codex](http://codex.caffeinated.ninja/codex/master) - Codex is a simple file-based Markdown documentation platform built on top of Laravel. - `MIT`
-  * [commonplace](https://github.com/fredoliveira/commonplace) - A server for your markdown files. Give it a directory, and Commonplace gives you a url, pretty pages, and quick editing.
-  * [Dokuwiki](http://www.splitbrain.org/projects/dokuwiki) - An easy to use, lightweight, standards-compliant wiki engine with a simple syntax allowing reading the data outside the wiki. All data is stored in plain files, therefore no database is required. - `GPL`
-  * [Gitit](https://github.com/jgm/gitit) - A wiki program that stores pages and uploaded files in a git repository, which can then be modified using the VCS command line tools or the wiki's web interface. Supported markups include pandoc's extended version of markdown, reStructuredText, LaTeX, and HTML. Pages can be exported in a number of different formats, including LaTeX, RTF, OpenOffice ODT, and MediaWiki markup. Other features include: plugins, syntax highlighting, caching, ATOM feeds
+  * [Blazekiss](https://github.com/ldleman/blazekiss) - BlazeKiss is a KISS-based wiki (Keep It Simple, Stupid) - simplicity and functionality comes before all. `PHP`
+  * [Codex](http://codex.caffeinated.ninja/codex/master) - Codex is a simple file-based Markdown documentation platform built on top of Laravel. - `MIT` `PHP`
+  * [commonplace](https://github.com/fredoliveira/commonplace) - A server for your markdown files. Give it a directory, and Commonplace gives you a url, pretty pages, and quick editing. `Ruby`
+  * [Dokuwiki](http://www.splitbrain.org/projects/dokuwiki) - An easy to use, lightweight, standards-compliant wiki engine with a simple syntax allowing reading the data outside the wiki. All data is stored in plain files, therefore no database is required. - `GPL` `PHP`
+  * [Gitit](https://github.com/jgm/gitit) - A wiki program that stores pages and uploaded files in a git repository, which can then be modified using the VCS command line tools or the wiki's web interface. Supported markups include pandoc's extended version of markdown, reStructuredText, LaTeX, and HTML. Pages can be exported in a number of different formats, including LaTeX, RTF, OpenOffice ODT, and MediaWiki markup. Other features include: plugins, syntax highlighting, caching, ATOM feeds `Haskell`
   * [Gollum](https://github.com/gollum/gollum) - A simple, Git-powered wiki with a sweet API and local frontend.
-  * [Gruik](http://gruik.io/) - An open-source markdown note-taking web app ([Source code](https://github.com/grena/gruik))
+  * [Gruik](http://gruik.io/) - An open-source markdown note-taking web app ([Source code](https://github.com/grena/gruik)) `PHP`
   * [ikiwiki](http://ikiwiki.info/) - A wiki compiler.
-  * [markdown-tree](https://github.com/mil/markdown-tree) - serve a hierarchy / tree directory of markdown files. Use intended for small sites built in markdown
-  * [Mediawiki](https://www.mediawiki.org/wiki/MediaWiki) - a widely used wiki software originally developed for Wikipedia ([Demo](https://en.wikipedia.org/)) `GPLv3` `PHP`
+  * [Mediawiki](https://www.mediawiki.org/wiki/MediaWiki) `PHP`
   * [MoinMoin](http://moinmo.in/) - An advanced, easy to use and extensible WikiEngine with a large community of users.
-  * [Olelo/Gitwiki](https://github.com/minad/olelo) - Olelo is a wiki that stores pages in a Git repository, supports many markup styles, has an extensible, hackable architecture, and many other features ([Demo](http://www.gitwiki.org/)) 
+  * [Olelo/Gitwiki](https://github.com/minad/olelo) - Olelo is a wiki that stores pages in a Git repository, supports many markup styles and has an extensible, hackable architecture! Features: Edit, move or delete pages; Page attribute editor; Support for hierarchical wikis (directory structure); File upload; History, commit and diff view; Locales (Czech, English, French, German); Support for many markup languages (Creole, Markdown, Textile); RSS/Atom changelog for whole wiki or pages; Section editing for Creole; Embedded LaTeX formulas; Syntax highlighting; Image resizing, SVG to PNG/JPEG conversion; Auto-generated table of contents; Previews; View pages as S5 presentation; Privacy features: Access control lists, Private wiki, Read-only wiki. ([Demo](http://www.gitwiki.org/)) `Ruby`
   * [PmWiki](http://www.pmwiki.org) - Wiki-based system for collaborative creation and maintenance of websites.
-  * [Raneto](http://raneto.com/) - Raneto is an open source Knowledgebase platform that uses static Markdown files to power your Knowledgebase - `MIT`
-  * [Realms](https://github.com/scragg0x/realms-wiki) - a git-backed wiki inspired by Gollum
-  * [TiddlyWiki](http://tiddlywiki.com/) - a reusable non-linear personal web notebook
-  * [WiKiss](http://wikiss.tuxfamily.org/) - un wiki simple à utiliser et déployer.
-  * [Wikitten](https://github.com/victorstanciu/Wikitten) - Wikitten is a small, fast, PHP wiki, and the perfect place to store your notes, code snippets, ideas, and so on.
+  * [Raneto](http://raneto.com/) - Raneto is an open source Knowledgebase platform that uses static Markdown files to power your Knowledgebase - `MIT` `NodeJS`
+  * [Realms](https://github.com/scragg0x/realms-wiki) - a git-backed wiki inspired by Gollum `Python`
+  * [Redaxscript](http://redaxscript.com/) - Ultra lightweight website engine `GPL` `PHP`
+  * [TiddlyWiki](http://tiddlywiki.com/) - a reusable non-linear personal web notebook `NodeJS`
+  * [WiKiss](http://wikiss.tuxfamily.org/) - a Wiki, simple to use and install `PHP`
+  * [Wikitten](https://github.com/victorstanciu/Wikitten) - Wikitten is a small, fast, PHP wiki, and the perfect place to store your notes, code snippets, ideas, and so on. `PHP`
 
 ------------------------------------
 
