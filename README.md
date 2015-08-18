@@ -441,6 +441,7 @@ Some [Groupware](#groupware) solutions also feature file sharing synchronization
 
   * [0bin](https://github.com/sametmax/0bin) -  Client side encrypted pastebin `WTFPL` `Python`
   * [cryptonote](https://cryptonote.me/) - A simple open source web application that lets users encrypt and share messages that can only be read once ([Source code](https://github.com/alainmeier/cryptonote)) `BSD` `Ruby`
+  * [gist](https://gitlab.deblan.org/deblan/gist) -  GIST is an open-source application to share code `PHP` `GPLv3`
   * [hastebin](http://hastebin.com/about.md) - open source pastebin written in node.js ([Source code](https://github.com/seejohnrun/haste-server)) `Nodejs` `MIT`
   * [snipt](https://snipt.net/) -  Long-term memory for coders. Share and store code snippets  ([Source code](https://github.com/nicksergeant/snipt/)) `BSD` `Python`
   * [Sticky Notes](http://sayakb.github.io/sticky-notes/) - A powerful open-source pastebin application for effortless code sharing. `PHP` 
