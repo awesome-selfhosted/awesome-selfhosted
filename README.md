@@ -256,13 +256,13 @@ CMS are a practical way to setup a website with many features. CMS often come wi
 ## Federated Identity/Authentication
 
   * [BrowserID/Mozilla Persona](https://developer.mozilla.org/en-US/Persona/Implementing_a_Persona_IdP) ([Source Code](https://github.com/mozilla/persona)) `MPLv2` `Nodejs`
+  * [FreeRADIUS](http://www.freeradius.org) - high performance and highly configurable multi-protocol policy/authentication server, supporting RADIUS, DHCPv4 and VMPS ([Source Code](https://github.com/FreeRADIUS/freeradius-server)) `GPLv2` `C`
+   * [daloRADIUS](http://www.daloradius.com) - open-source web management platform for FreeRADIUS-based deployments ([Source Code](https://github.com/lirantal/daloradius)) `GPLv2`
   * [IndieAuth](https://indieauth.com) - Sign in with your domain name (using the [rel-me-auth](http://microformats.org/wiki/relmeauth) protocol) `Apache` `Ruby`
   * [Libravatar](https://www.libravatar.org/) -  a service which delivers your avatar (profile picture) to other websites
   * [OpenCA OCSPD](https://pki.openca.org/projects/ocspd/) - [OCSP](https://en.wikipedia.org/wiki/Online_Certificate_Status_Protocol) Responder
   * [OpenID/OpenID Connect](http://openid.net/developers/libraries/)
   * [OSIAM](https://www.osiam.org) - Open Source Identity and Access Management implementing OAuth 2.0 and SCIMv2. ([Source code](https://github.com/osiam/osiam)) `MIT` `Java`
-  * [FreeRADIUS](http://www.freeradius.org) - open-source RADIUS server for AAA `GPLv2` `BSD`
-  * [daloRADIUS](http://www.daloradius.com) - open-source web management platform for FreeRADIUS-based deployments [daloRADIUS on Github](https://github.com/lirantal/daloradius) `GPLv2`
 
 
 ## Feed Readers
