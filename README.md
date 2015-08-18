@@ -441,6 +441,7 @@ Some [Groupware](#groupware) solutions also feature file sharing synchronization
   * [Sticky Notes](http://sayakb.github.io/sticky-notes/) - A powerful open-source pastebin application for effortless code sharing. `PHP` 
   * [Stikked](https://github.com/claudehohl/Stikked) - An advanced and beautiful pastebin written in `PHP` `GPLv3`
   * [tastebin](https://github.com/andreineculau/tastebin) - Updated version of hastebin plus additional features `Apache` `Nodejs`
+  * [Gist](https://gitlab.deblan.org/deblan/gist) -  GIST is an open-source application to share code `PHP` `GPLv3`
 
 ## Photo and Video Galleries
 
