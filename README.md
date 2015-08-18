@@ -9,6 +9,7 @@ This is a list of [Free](https://en.wikipedia.org/wiki/Free_software) Software [
 Table of Contents
 =================
 
+
   - [Analytics](#analytics)
   - [Automation](#automation)
   - [Blogging Platforms](#blogging-platforms)
@@ -40,6 +41,7 @@ Table of Contents
   - [Note-taking & Editors](#note-taking--editors)
   - [Office Suites](#office-suites)
   - [Password Managers](#password-managers)
+  - [Personal Dashboards](#personal-dashboards)
   - [Pastebins](#pastebins)
   - [Photo and Video Galleries](#photo-and-video-galleries)
   - [Polls and Events](#polls-and-events)
@@ -670,90 +672,101 @@ This list is under the [Creative Commons Attribution-ShareAlike 3.0 Unported](LI
 
 The list of contributors can be found below
 
-    105  Edward D <ed.kickball@hotmail.com>
-    99  nodiscc <nodiscc@gmail.com>
+    116  Edward D <ed.kickball@hotmail.com>
+    111  nodiscc <nodiscc@gmail.com>
     22  Kickball <ed.kickball@hotmail.com>
     13  jungle-boogie <sean@jungleboogie.me>
-     9  Kovah <mail@kovah.de>
-     7  Thomas Dalichow <info@thomasdalichow.de>
-     7  n1trux <n1trux@users.noreply.github.com>
-     7  phre4k <me@phre4k.at>
-     6  Per Guth <mail@perguth.de>
-     6  Thomas Dalichow <2012-02-05.github.com@thomasdalichow.de>
-     5  Moti Korets <moti.kor@gmail.com>
-     4  Cory Gibbons <hello@corygibbons.com>
-     4  Dominik Pfaffenbauer <dominik@lineofcode.at>
-     4  Jean Elchinger <jinformatique@riseup.net>
-     3  Dr. Azrael Tod <github.com@g33ky.de>
-     3  Ethan Lowman <ethanal@users.noreply.github.com>
-     3  Jan Vlnas <jnv@users.noreply.github.com>
-     3  Marc Picaud <picaud.marc@gmail.com>
-     3  Mariusz Kozakowski <11mariom+wordpress@gmail.com>
-     3  Martin Gontovnikas <martin@gon.to>
-     3  Ye Lin Aung <me@yelinaung.com>
-     3  jungle-boogie <sean@rastasean.net>
-     3  rett gerst <rettgerst@users.noreply.github.com>
-     2  Alexander Ryzhov <gtihub@ryzhov-al.ru>
-     2  Bartłomiej Kurzeja <B3QL@users.noreply.github.com>
-     2  Brendan Abolivier <contact@brendanabolivier.com>
-     2  Charles Farence III <charles@charlessite90.com>
-     2  Chris Missal <chris.missal@gmail.com>
-     2  Costin Moise <necenzurat@gmail.com>
-     2  Deryck <dhenson02@users.noreply.github.com>
-     2  Greg V <greg@unrelenting.technology>
-     2  Görkem Çetin <gc@count.ly>
-     2  Joseph Dykstra <josephdykstra@gmail.com>
-     2  Leo Gaggl <leo@brightcookie.com.au>
-     2  Marien Fressinaud <dev@marienfressinaud.fr>
-     2  Mikael Peigney <Mika56@users.noreply.github.com>
-     2  Patrik Ragnarsson <patrik@starkast.net>
-     2  Peter Thaleikis <spekulatius@users.noreply.github.com>
-     2  Poorchop <Poorchop@users.noreply.github.com>
-     2  Stefano <sabas88@gmail.com>
-     2  Thomas Citharel <tcit@tcit.fr>
-     2  cron410 <cron410@gmail.com>
-     2  jimykk <JimyKK@users.noreply.github.com>
-     2  tomc3 <wordoftheday003@gmail.com>
-     2  yuche <i@yuche.me>
-     1  Alys <alice.harris@oldgods.net>
-     1  Andrew Murray <radarhere@gmail.com>
-     1  Angel Velasquez <angvp@archlinux.org>
-     1  Caleb Xu <calebcenter@live.com>
-     1  Calle Wolff <carl@wolff.se>
-     1  Chema <neo22s@gmail.com>
-     1  Dan <rocks.in.the.cloud@gmail.com>
-     1  Dirk Krause <dirkk0@googlemail.com>
-     1  Dražen Lučanin <kermit666@gmail.com>
-     1  Eren Hatırnaz <erenhatirnaz@hotmail.com.tr>
-     1  Florian Wilhelm <f.wilhelm@tarent.de>
-     1  Henry Ruhs <info@redaxmedia.com>
-     1  Igor Antun <IgorAntun@users.noreply.github.com>
-     1  Ilya Sevostyanov <d3th@zeen.ru>
-     1  Jeremiah Marks <jeremiah@jlmarks.org>
-     1  Joel Calado <joelcalado@gmail.com>
-     1  Joshua Hamilton <joshua.hamilton@fabricut.com>
-     1  Joubert RedRat <eu+github@redrat.com.br>
-     1  Keith Thibodeaux <kthibodeaux@peachtreebilling.com>
-     1  Kyle Stetz <kylestetz@gmail.com>
-     1  Marcus Ramberg <marcus@nordaaker.com>
-     1  MatFluor <MatFluor@users.noreply.github.com>
-     1  Mike Steele <mike@steel.fm>
-     1  Morris Jobke <hey@morrisjobke.de>
-     1  Murdoc Bates <trockenasche@gmail.com>
-     1  Oliver Kopp <kopp.dev@gmail.com>
-     1  Remy Adriaanse <remy@adriaanse.it>
-     1  Remy Honig <remyhonig@users.noreply.github.com>
-     1  Riddler <Iamjithin@live.com>
-     1  Ryan Halliday <ry167@ry167.com>
-     1  Stefan Bohacek <stefan.bohacek@gmail.com>
-     1  Stefan Bohacek <stefan@fourtonfish.com>
-     1  benmaynard11 <allowin-217941-github@vhost244.maynardnetworks.com>
-     1  bricej13 <bricej13@gmail.com>
-     1  cbdev <cb@cbcdn.com>
-     1  littleguga <littleguga@users.noreply.github.com>
-     1  mertinop <martin.santibanez.a@gmail.com>
-     1  skarphet <skarphet@users.noreply.github.com>
-     1  steven jacobs <stjacobs@fastmail.fm>
-     1  stevesbrain <stevesbrain@users.noreply.github.com>
-     1  ttoups <ich@timotoups.de>
+    9  Kovah <mail@kovah.de>
+    7  Thomas Dalichow <info@thomasdalichow.de>
+    7  n1trux <n1trux@users.noreply.github.com>
+    7  phre4k <me@phre4k.at>
+    7  édouard u. <mail@edouard.us>
+    6  Per Guth <mail@perguth.de>
+    6  Thomas Dalichow <2012-02-05.github.com@thomasdalichow.de>
+    5  Joubert RedRat <eu+github@redrat.com.br>
+    5  Moti Korets <moti.kor@gmail.com>
+    4  Cory Gibbons <hello@corygibbons.com>
+    4  Dominik Pfaffenbauer <dominik@lineofcode.at>
+    4  Dr. Azrael Tod <github.com@g33ky.de>
+    4  Jean Elchinger <jinformatique@riseup.net>
+    3  Ethan Lowman <ethanal@users.noreply.github.com>
+    3  Jan Vlnas <jnv@users.noreply.github.com>
+    3  Leo Gaggl <leo@brightcookie.com.au>
+    3  Marc Picaud <picaud.marc@gmail.com>
+    3  Mariusz Kozakowski <11mariom+wordpress@gmail.com>
+    3  Martin Gontovnikas <martin@gon.to>
+    3  Tobi Schäfer <interface@p3k.org>
+    3  Ye Lin Aung <me@yelinaung.com>
+    3  jungle-boogie <sean@rastasean.net>
+    3  rett gerst <rettgerst@users.noreply.github.com>
+    2  Alexander Ryzhov <gtihub@ryzhov-al.ru>
+    2  Alexis Metaireau <alexis@notmyidea.org>
+    2  Bartłomiej Kurzeja <B3QL@users.noreply.github.com>
+    2  Brendan Abolivier <contact@brendanabolivier.com>
+    2  Charles Farence III <charles@charlessite90.com>
+    2  Chris Missal <chris.missal@gmail.com>
+    2  Costin Moise <necenzurat@gmail.com>
+    2  Deryck <dhenson02@users.noreply.github.com>
+    2  Greg V <greg@unrelenting.technology>
+    2  Görkem Çetin <gc@count.ly>
+    2  Joseph Dykstra <josephdykstra@gmail.com>
+    2  Marien Fressinaud <dev@marienfressinaud.fr>
+    2  Mikael Peigney <Mika56@users.noreply.github.com>
+    2  Patrik Ragnarsson <patrik@starkast.net>
+    2  Peter Thaleikis <spekulatius@users.noreply.github.com>
+    2  Poorchop <Poorchop@users.noreply.github.com>
+    2  Roland Geider <roland@geider.net>
+    2  Simon Vieille <simon@deblan.fr>
+    2  Stefano <sabas88@gmail.com>
+    2  Thomas Citharel <tcit@tcit.fr>
+    2  cron410 <cron410@gmail.com>
+    2  jimykk <JimyKK@users.noreply.github.com>
+    2  tomc3 <wordoftheday003@gmail.com>
+    2  yuche <i@yuche.me>
+    1  Alys <alice.harris@oldgods.net>
+    1  Andrew Murray <radarhere@gmail.com>
+    1  Angel Velasquez <angvp@archlinux.org>
+    1  Brett <brettex@hotmail.com>
+    1  Caleb Xu <calebcenter@live.com>
+    1  Calle Wolff <carl@wolff.se>
+    1  Chema <neo22s@gmail.com>
+    1  Craig Davison <craig@davison.io>
+    1  Dan <rocks.in.the.cloud@gmail.com>
+    1  Dirk Krause <dirkk0@googlemail.com>
+    1  Dražen Lučanin <kermit666@gmail.com>
+    1  Eren Hatırnaz <erenhatirnaz@hotmail.com.tr>
+    1  Florian Wilhelm <f.wilhelm@tarent.de>
+    1  Henry Ruhs <info@redaxmedia.com>
+    1  Igor Antun <IgorAntun@users.noreply.github.com>
+    1  Ilya Sevostyanov <d3th@zeen.ru>
+    1  Jeremiah Marks <jeremiah@jlmarks.org>
+    1  Joel Calado <joelcalado@gmail.com>
+    1  Joshua Hamilton <joshua.hamilton@fabricut.com>
+    1  Keith Thibodeaux <kthibodeaux@peachtreebilling.com>
+    1  Kyle Stetz <kylestetz@gmail.com>
+    1  Liran Tal <liran.tal@gmail.com>
+    1  Marcus Ramberg <marcus@nordaaker.com>
+    1  MatFluor <MatFluor@users.noreply.github.com>
+    1  Mike Steele <mike@steel.fm>
+    1  Morris Jobke <hey@morrisjobke.de>
+    1  Murdoc Bates <trockenasche@gmail.com>
+    1  Oliver Kopp <kopp.dev@gmail.com>
+    1  Remy Adriaanse <remy@adriaanse.it>
+    1  Remy Honig <remyhonig@users.noreply.github.com>
+    1  Riddler <Iamjithin@live.com>
+    1  Ryan Halliday <ry167@ry167.com>
+    1  Stefan Bohacek <stefan.bohacek@gmail.com>
+    1  Stefan Bohacek <stefan@fourtonfish.com>
+    1  Tobias Zeising <tobias.zeising@aditu.de>
+    1  benmaynard11 <allowin-217941-github@vhost244.maynardnetworks.com>
+    1  bricej13 <bricej13@gmail.com>
+    1  cbdev <cb@cbcdn.com>
+    1  florianl <florianl@users.noreply.github.com>
+    1  littleguga <littleguga@users.noreply.github.com>
+    1  mertinop <martin.santibanez.a@gmail.com>
+    1  skarphet <skarphet@users.noreply.github.com>
+    1  steven jacobs <stjacobs@fastmail.fm>
+    1  stevesbrain <stevesbrain@users.noreply.github.com>
+    1  ttoups <ich@timotoups.de>
+
 
