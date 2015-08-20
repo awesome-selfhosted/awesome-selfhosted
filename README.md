@@ -110,7 +110,7 @@ See also [Static Site Generators](#static-site-generators) and  [Content Managem
    * [Firefox Sync Server](https://docs.services.mozilla.com/howtos/run-sync-1.5.html) - Sync Firefox bookmarks, passwords, history, tabs, preferences
   * [Lobsters](https://lobste.rs) - Run your own link aggregation site - ([Source code](https://github.com/jcs/lobsters))
   * [Pinry](http://getpinry.com/) - The tiling image board system for people who want to save, tag, and share images, videos, and webpages. ([Source code](https://github.com/pinry/pinry))
-  * [semanticscuttle](http://semanticscuttle.sourceforge.net/) - a social bookmarking tool experimenting with features like structured tags and collaborative tag descriptions.
+  * [Scuttle](https://github.com/scronide/scuttle) -  Web-based social bookmarking system. Allows multiple users to store, share and tag their favourite links `GPLv2` `PHP`
   * [Shaarli](https://github.com/shaarli/Shaarli) - Personal, minimalist, super-fast, no-database bookmarking and link sharing plaform. ([Demo](http://shaarlidemo.tuxfamily.org/Shaarli) - `demo/demo`)
   * [unmark](https://github.com/plainmade/unmark) - An open source to do app for links
 
@@ -135,6 +135,7 @@ Some [Groupware](#groupware) solutions also feature calendar/address book editin
 For preconfigured mail server solutions, see [Self-hosting Solutions](#self-hosting-solutions)
 
   * [Cypht](http://cypht.org/index.html) - A feed reader for your email accounts - `GPL`
+  * [Dovecot](http://www.dovecot.org/) - IMAP and POP3 email server, written with security primarily in mind ([Source code](http://hg.dovecot.org/)) `MIT/LGPLv2` `C`
   * [Horde](http://www.horde.org) - Webmail and groupware client.
   * [Mailpile](https://www.mailpile.is/) - Webmail client with search, filtering, encryption features and more ([Source code](https://github.com/mailpile/Mailpile)) `AGPLv3` `Python`
   * [RainLoop](http://www.rainloop.net/) - Simple, modern & fast webmail with IMAP/SMTP Support and multi accounting. ([Demo](http://demo.rainloop.net/), [Source code](https://github.com/RainLoop/rainloop-webmail)). `AGPLv3` `PHP`
@@ -478,6 +479,7 @@ Some [Groupware](#groupware) solutions also feature file sharing synchronization
   * [Shot.io](http://shot.io/) - Mobile optimised photo publishing platform (self-hosted Flickr alternative) ([Source code](https://github.com/AliasIO/Shot.io)) `GPLv3` `PHP`
   * [sigal](https://github.com/saimn/sigal) - yet another simple static gallery generator `MIT` `Python`
   * [UberGallery](http://www.ubergallery.net) - UberGallery is an easy to use, simple to manage, web photo gallery. UberGallery does not require a database and supports JPEG, GIF and PNG file types. Simply upload your images and UberGallery will automatically generate thumbnails and output HTML. ([Source code](https://github.com/UberGallery/UberGallery)) `MIT` `PHP`
+  * [Videobin](http://videobin.org/code) - A simple video upload and sharing service with transcoding ([Demo](http://videobin.org/), [Source code](https://r-w-x.org/videobin.git)) `GPLv3` `Python`
   * [Zenphoto](http://www.zenphoto.org/) - open-source gallery and CMS project ([Source code](https://github.com/zenphoto/zenphoto))  `GPLv2` `PHP`
 
 ## Polls and Events
