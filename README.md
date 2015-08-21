@@ -448,7 +448,7 @@ Some [Groupware](#groupware) solutions also feature file sharing synchronization
   * [cryptonote](https://cryptonote.me/) - A simple open source web application that lets users encrypt and share messages that can only be read once ([Source code](https://github.com/alainmeier/cryptonote)) `BSD` `Ruby`
   * [gist](https://gitlab.deblan.org/deblan/gist) -  GIST is an open-source application to share code `PHP` `GPLv3`
   * [hastebin](http://hastebin.com/about.md) - open source pastebin written in node.js ([Source code](https://github.com/seejohnrun/haste-server)) `Nodejs` `MIT`
-  * [Phaste](https://pste.pw) - A Phalcon-based, MySQL pastebin application with privacy-respecting Piwik integration and syntax highlighting. ([Source code](https://github.com/FoxDev/Phaste)) `PHP` `AGPL`
+  * [Phaste](https://pste.pw) - A Phalcon-based, MySQL pastebin application with privacy-respecting Piwik integration and syntax highlighting. ([Source code](https://github.com/FoxDev/Phaste)) `PHP` `AGPLv3`
   * [snipt](https://snipt.net/) -  Long-term memory for coders. Share and store code snippets  ([Source code](https://github.com/nicksergeant/snipt/)) `BSD` `Python`
   * [Sticky Notes](http://sayakb.github.io/sticky-notes/) - A powerful open-source pastebin application for effortless code sharing. `PHP` 
   * [Stikked](https://github.com/claudehohl/Stikked) - An advanced and beautiful pastebin written in `PHP` `GPLv3`
@@ -772,5 +772,5 @@ The list of contributors can be found below
     1  steven jacobs <stjacobs@fastmail.fm>
     1  stevesbrain <stevesbrain@users.noreply.github.com>
     1  ttoups <ich@timotoups.de>
-
+    1  Lee Watson <rev@revthefox.co.uk>
 
