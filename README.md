@@ -134,6 +134,8 @@ Some [Groupware](#groupware) solutions also feature calendar/address book editin
 
 For preconfigured mail server solutions, see [Self-hosting Solutions](#self-hosting-solutions)
 
+*Webmail clients*
+
   * [Cypht](http://cypht.org/index.html) - A feed reader for your email accounts - `GPL`
   * [Dovecot](http://www.dovecot.org/) - IMAP and POP3 email server, written with security primarily in mind ([Source code](http://hg.dovecot.org/)) `MIT/LGPLv2` `C`
   * [Mailpile](https://www.mailpile.is/) - Webmail client with search, filtering, encryption features and more ([Source code](https://github.com/mailpile/Mailpile)) `AGPLv3` `Python`
@@ -141,6 +143,23 @@ For preconfigured mail server solutions, see [Self-hosting Solutions](#self-host
   * [Roundcube](https://roundcube.net) - Browser-based IMAP client with an application-like user interface. ([Screenshots](https://roundcube.net/screens/)) ([Source code](https://github.com/roundcube/roundcubemail/)) `GPLv3` `PHP`
   * [SquirrelMail](http://squirrelmail.org) - Another browser-based IMAP client.
   * [WebMail Lite](http://www.afterlogic.org/webmail-lite) - Webbased IMAP Mail client ([Source Code](https://github.com/afterlogic/webmail-lite) `GPLv3` `PHP`
+
+*MTA - Mail Transfer Agents (SMTP servers).*
+
+* [Exim](http://www.exim.org/) - Message transfer agent (MTA) developed at the University of Cambridge.
+* [Haraka](http://haraka.github.io/) - A high-performance, pluginable SMTP server written in JavaScript.
+* [MailCatcher](http://mailcatcher.me/) - Ruby gem that deploys a simply SMTP MTA gateway that accepts all mail and displays in web interface. Useful for debugging or development.
+* [Maildrop](https://github.com/m242/maildrop) - Disposable email SMTP server, also useful for development.
+* [OpenSMTPD](https://opensmtpd.org/) - Secure SMTP server implementation from the OpenBSD project.
+* [Postfix](http://www.postfix.org/) - Fast, easy to administer, and secure Sendmail replacement.
+* [Qmail](http://cr.yp.to/qmail.html) - Secure Sendmail replacement.
+* [Sendmail](http://www.sendmail.com/sm/open_source/) - Message transfer agent (MTA).
+
+*MDA - Mail Delivery Agents (IMAP/POP3 software).*
+
+* [Courier IMAP/POP3](http://www.courier-mta.org/imap/) - Fast, scalable, enterprise IMAP and POP3 server.
+* [Cyrus IMAP/POP3](http://cyrusimap.org/) - Intended to be run on sealed servers, where normal users are not permitted to log in.
+* [Dovecot](http://www.dovecot.org/) - IMAP and POP3 server written primarily with security in mind.
 
 ### XMPP
 
