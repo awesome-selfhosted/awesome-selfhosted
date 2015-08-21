@@ -161,6 +161,8 @@ For preconfigured mail server solutions, see [Self-hosting Solutions](#self-host
 * [Kaiwa](http://getkaiwa.com/) - Web based chat client in the style of common paid alternatives. ([Source code](https://github.com/digicoop/kaiwa))
 * [Kontalk](http://kontalk.org/) – Kontalk is an Open Source Messenger, similiar to WhatsApp (app for android only currently), including end-to-end encryption, server is based on Tigase XMPP Server - ([Source code](https://github.com/kontalk)) - `GPLv3`
 * [Lets-Chat](http://sdelements.github.io/lets-chat/) - A self hosted chat suite written in Node.
+* [Salut à Toi](http://www.salut-a-toi.org/) - Multipurpose, multi frontend, libre and decentralised communication tool. ([Source code](http://repos.goffi.org/sat)) `AGPLv3` `Python`
+  * [Libervia](http://wiki.goffi.org/wiki/Libervia/en) - Web frontend from Salut à Toi ([Source code](http://repos.goffi.org/libervia)) `AGPLv3` `Python`
 
 
 ### VoIP
@@ -177,6 +179,7 @@ For preconfigured mail server solutions, see [Self-hosting Solutions](#self-host
   * [ZNC](http://wiki.znc.in/ZNC) - An advanced IRC bouncer `Apache` `C++`
 
 ### Custom
+  * [Freenet](https://freenetproject.org/index.html) - anonymously share files, browse and publish "freesites" (web sites accessible only through Freenet) and chat on forums ([Source code](https://github.com/freenet/fred)) `GPLv2` `Java`
   * [GNUNet](https://gnunet.org/) - Free software framework for decentralized, peer-to-peer networking `GPLv3` `C/Java`
   * [Jitsi Meet](https://jitsi.org/Projects/JitsiMeet) - Jitsi Meet is an OpenSource (MIT) WebRTC JavaScript application that uses Jitsi Videobridge to provide high quality, scalable video conferences. `MIT ` `JavaScript`
   * [Jitsi Video Bridge](https://jitsi.org/Projects/JitsiVideobridge) - WebRTC compatible Selective Forwarding Unit (SFU) that allows for multiuser video communication. `Apache` `Java`
@@ -411,6 +414,7 @@ Some [Groupware](#groupware) solutions also feature file sharing synchronization
   * [Ampache](http://ampache.org/) - A web based audio/video streaming application `GPLv2` `PHP`
   * [CherryMusic](http://www.fomori.org/cherrymusic/) - minimalistic Web-Mediaplayer - `GPL` `Python`
   * [cloudtunes](https://github.com/jakubroztocil/cloudtunes) -  Web-based music player for the cloud `MIT` `Python/Javascript`
+  * [GNU FM](https://gnu.io/fm/) - running music community websites, alternative to last.fm ([Source code](http://git.savannah.gnu.org/cgit/librefm.git/)) `GPLv3` `PHP`
   * [Groove Basin](http://groovebasin.com/) - A music player server with a web-based user interface inspired by Amarok 1.4 ([Source code](https://github.com/andrewrk/groovebasin)) `MIT` `Nodejs`
   * [Mopidy](http://mopidy.readthedocs.org/) - Extensible music server. Offers a superset of the mpd API, as well as integration with 3rd party services like Spotify, SoundCloud etc. ([Source code](https://github.com/mopidy/mopidy)) `Apache` `Python`
   * [mpd](http://www.musicpd.org/) - Daemon to remotely play music, stream music, handle and organize playlists. Many clients available. `GPLv2` `C++`
