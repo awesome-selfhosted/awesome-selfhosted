@@ -145,7 +145,7 @@ For preconfigured mail server solutions, see [Self-hosting Solutions](#self-host
 
 ### XMPP
 
-*XMPP servers.*
+*[XMPP](https://en.wikipedia.org/wiki/XMPP) servers.*
 
 * [ejabberd](http://www.ejabberd.im/) - XMPP instant messaging server. `GPL` `Erlang`
 * [Metronome IM](http://www.lightwitch.org/metronome) - Fork of Prosody IM. `MIT` `Lua`
