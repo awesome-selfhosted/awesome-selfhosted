@@ -18,7 +18,7 @@ Table of Contents
   - [Communication systems](#communication-systems)
     - [Email](#email)
     - [XMPP](#xmpp)
-    - [VoIP](#voip)
+    - [SIP](#sip)
     - [IRC](#irc)
     - [Custom](#custom)
     - [Social Networks and Forums](#social-networks-and-forums)
@@ -165,13 +165,19 @@ For preconfigured mail server solutions, see [Self-hosting Solutions](#self-host
   * [Libervia](http://wiki.goffi.org/wiki/Libervia/en) - Web frontend from Salut à Toi ([Source code](http://repos.goffi.org/libervia)) `AGPLv3` `Python`
 
 
-### VoIP
+### SIP
+
+*[SIP](https://en.wikipedia.org/wiki/Session_Initiation_Protocol) telephony software*
+
   * [Asterisk](http://asterisk.org/) - An easy to use but advanced IP PXB system, VoIP gateway and conference server `GPLv2` `C` 
   * [FreeSWITCH](https://freeswitch.org/) - Scalable open source cross-platform telephony platform ([Source Code](https://freeswitch.org/stash/projects/FS/repos/freeswitch/browse)) `MPLv2` `C`
   * [Kamailio](http://www.kamailio.org/w/) - Modular SIP server (registrar/proxy/router/etc) `GPLv2` `C`
   * [Ostel](https://dev.guardianproject.info/projects/ostel/wiki/Server_Documentation) - Secure SIP telephony setup with ZRTP encryption `GPLv3` `Ruby`
 
 ### IRC
+
+*[IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat) communication software*
+
   * [Convos](http://convos.by/) - Always online web IRC client ([Demo](http://demo.convos.by), [Source code](http://github.com/nordaaker/convos)) `ARTv2` `Perl` 
   * [Quassel IRC](http://quassel-irc.org/) - distributed IRC client, meaning that one (or multiple) client(s) can attach to and detach from a central core ([Source code](https://github.com/quassel/quassel)) `GPLv2` `C++`
   * [Shout](http://shout-irc.com/) - The self-hosted web IRC client ([Demo](http://demo.shout-irc.com/), [Source code](https://github.com/erming/shout)) `MIT` `Nodejs`
