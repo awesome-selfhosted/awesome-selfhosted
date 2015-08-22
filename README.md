@@ -395,6 +395,7 @@ Some [Groupware](#groupware) solutions also feature file sharing synchronization
   * [LibreNMS](http://www.librenms.org/) - Community-based GPL-licensed network monitoring system - `GPLv3`
   * [linux-dash](https://github.com/afaqurk/linux-dash) - A drop-in, low-overhead monitoring web dashboard for a linux machine ([Demo](http://linuxdash.afaqtariq.com/#/system-status))
   * [Nagios](https://www.nagios.org/) - Industry standard monitoring software, which has a lot of plugins and customisation posibilities. - `GPL`
+  * [PHP Server Monitor](http://www.phpservermonitor.org/) - A simple PHP script that checks if your websites and servers are up and running. Can easily configure advanced monitoring and alerts. `AGPLv3` `PHP`
   * [phpSysInfo](https://phpsysinfo.github.io/phpsysinfo/) - a customizable PHP script that displays information about your system nicely ([Demo](http://phpsysinfo.sourceforge.net/phpsysinfo/index.php?disp=bootstrap))
   * [Prometheus](http://prometheus.io/) - Monitoring system and time series database. ([Source code](https://github.com/prometheus/prometheus)) `Apache` `Go`
   * [psdash](https://github.com/Jahaja/psdash) - A linux system information web dashboard using psutils and flask
@@ -705,6 +706,7 @@ The list of contributors can be found below
     2  Alexander Ryzhov <gtihub@ryzhov-al.ru>
     2  Alexis Metaireau <alexis@notmyidea.org>
     2  Bartłomiej Kurzeja <B3QL@users.noreply.github.com>
+    2  Benjamin Maynard <contact-ben@maynardnetworks.com>
     2  Brendan Abolivier <contact@brendanabolivier.com>
     2  Charles Farence III <charles@charlessite90.com>
     2  Chris Missal <chris.missal@gmail.com>
@@ -761,7 +763,6 @@ The list of contributors can be found below
     1  Stefan Bohacek <stefan.bohacek@gmail.com>
     1  Stefan Bohacek <stefan@fourtonfish.com>
     1  Tobias Zeising <tobias.zeising@aditu.de>
-    1  benmaynard11 <allowin-217941-github@vhost244.maynardnetworks.com>
     1  bricej13 <bricej13@gmail.com>
     1  cbdev <cb@cbcdn.com>
     1  florianl <florianl@users.noreply.github.com>
