@@ -388,9 +388,12 @@ Some [Groupware](#groupware) solutions also feature file sharing synchronization
 
 ## Monitoring and Administration
 
-  * [Adagios](http://adagios.org/) - Web based Nagios interface for configuration, as well as monitoring (as a replacement to the standard interface), and a REST interface ([Demo](http://demo.adagios.org/), [SourceCode](https://github.com/opinkerfi/adagios), [Documentation](https://github.com/opinkerfi/adagios/wiki)) - `GPLv3` `Python`
+  * [Adagios](http://adagios.org/) - Web based Nagios interface for configuration, as well as monitoring (as a replacement to the standard interface), and a REST interface ([Demo](http://demo.adagios.org/), [Source Code](https://github.com/opinkerfi/adagios), [Documentation](https://github.com/opinkerfi/adagios/wiki)) - `GPLv3` `Python`
   * [adminer](http://www.adminer.org/) -  Database management in a single PHP file ([Source code](https://github.com/vrana/adminer))
-  * [Icinga / Icinga 2](https://www.icinga.org/) - Nagios fork that has since lapped nagios several times. Comes with the possibility of clustered monitoring - ([SourceCode](https://github.com/Icinga)) - `GPLv2`
+  * [Bosun](http://bosun.org/) - Monitoring and alerting system by Stack Exchange ([Source Code](https://github.com/bosun-monitor/bosun), [Documentation](http://bosun.org/quickstart.html)) `MIT` `Go`
+  * [cadvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers ([Source Code](https://github.com/google/cadvisor)) `Apache` `Go`
+  * [Icinga / Icinga 2](https://www.icinga.org/) - Nagios fork that has since lapped nagios several times. Comes with the possibility of clustered monitoring - ([Source Code](https://github.com/Icinga)) - `GPLv2`
+  * [Kubernetes](http://kubernetes.io/) - Orchestration system for Docker containers - ([Source Code](https://github.com/kubernetes/kubernetes), [Documentation](http://kubernetes.io/v1.0/)) `Apache` `Go`
   * [LibreNMS](http://www.librenms.org/) - Community-based GPL-licensed network monitoring system - `GPLv3`
   * [linux-dash](https://github.com/afaqurk/linux-dash) - A drop-in, low-overhead monitoring web dashboard for a linux machine ([Demo](http://linuxdash.afaqtariq.com/#/system-status))
   * [Nagios](https://www.nagios.org/) - Industry standard monitoring software, which has a lot of plugins and customisation posibilities. - `GPL`
