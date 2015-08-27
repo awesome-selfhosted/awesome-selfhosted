@@ -400,7 +400,7 @@ Some [Groupware](#groupware) solutions also feature file sharing synchronization
   * [pyDash](https://github.com/k3oni/pydash) - Small web-based monitoring dashboard for linux ([Demo](http://pydash.hostechs.com/main/) - _admin/admin_)
   * [sensu](https://sensuapp.org/) - monitor servers, services, application health, and business KPIs. Get notified about failures before your users do. Collect and analyze custom metrics. `MIT`
    * [uchiwa](https://uchiwa.io/) - simple dashboard for sensu
-
+ * [Zabbix](https://www.zabbix.com/) - Highly customizable enterprize-level monitoring system for servers. `GPL`
 
 ## Music Streaming
 
@@ -770,5 +770,6 @@ The list of contributors can be found below
     1  steven jacobs <stjacobs@fastmail.fm>
     1  stevesbrain <stevesbrain@users.noreply.github.com>
     1  ttoups <ich@timotoups.de>
+    1  ekakela <ekakela@gmail.com>
 
 
