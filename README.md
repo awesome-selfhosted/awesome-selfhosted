@@ -457,6 +457,7 @@ Some [Groupware](#groupware) solutions also feature file sharing synchronization
   * [Habitica](http://habitica.com/) - A habit tracker app which treats your goals like a Role Playing Game. Previously called HabitRPG. ([Source code](https://github.com/HabitRPG/habitrpg)) `GPLv3/Other` `Nodejs`
   * [wger](https://github.com/rolandgeider/wger) - A web-based personal workout, fitness and weight logger/tracker. It can also be used as a simple gym management utility and offers a full REST API as well. ([Demo](https://wger.de)) `AGPLv3` `Python`
   * [Reportr](http://www.reportr.io/) - Your life's personal dashboard. ([Source code](https://github.com/Reportr/dashboard))
+  * [TagSpaces](http://www.tagspaces.org/) - TagSpaces is an open source personal data manager. It helps you organize files with tags on every platform. ([SourceCode](https://github.com/tagspaces/tagspaces)) `AGPLv` `Javascript`
 
 ## Photo and Video Galleries
 
