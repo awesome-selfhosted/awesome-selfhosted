@@ -9,59 +9,66 @@ This is a list of [Free](https://en.wikipedia.org/wiki/Free_software) Software [
 Table of Contents
 =================
 
+<!-- MarkdownTOC depth=3 -->
 
-  - [Analytics](#analytics)
-  - [Automation](#automation)
-  - [Blogging Platforms](#blogging-platforms)
-  - [Bookmarks & Link Sharing](#bookmarks--link-sharing)
-  - [Calendar and Address Books](#calendar-and-address-books)
-  - [Communication systems](#communication-systems)
-    - [Email](#email)
-    - [XMPP](#xmpp)
-    - [SIP](#sip)
-    - [IRC](#irc)
-    - [Custom](#custom)
-    - [Social Networks and Forums](#social-networks-and-forums)
-  - [Content Management Systems (CMS)](#content-management-systems-cms)
-    - [E-commerce](#e-commerce)
-  - [Download Tools](#download-tools)
-  - [Federated Identity/Authentication](#federated-identityauthentication)
-  - [Feed Readers](#feed-readers)
-  - [File Sharing and Synchronization](#file-sharing-and-synchronization)
-  - [Games](#games)
-  - [Gateways](#gateways)
-  - [Groupware](#groupware)
-  - [Learning and Courses](#learning-and-courses)
-  - [Maps & GPS](#maps--gps)
-  - [Media Streaming](#media-streaming)
-  - [Mind Maps](#mind-maps)
-  - [Money, Budgeting and Management](#money-budgeting-and-management)
-  - [Monitoring and Administration](#monitoring-and-administration)
-  - [Music Streaming](#music-streaming)
-  - [Note-taking & Editors](#note-taking--editors)
-  - [Office Suites](#office-suites)
-  - [Password Managers](#password-managers)
-  - [Personal Dashboards](#personal-dashboards)
-  - [Pastebins](#pastebins)
-  - [Photo and Video Galleries](#photo-and-video-galleries)
-  - [Polls and Events](#polls-and-events)
-  - [Proxy](#proxy)
-  - [Read it Later Lists](#read-it-later-lists)
-  - [Search Engines](#search-engines)
-  - [Software Development](#software-development)
-    - [Project Management](#project-management)
-    - [IDE/Tools](#idetools)
-    - [Continuous Integration](#continuous-integration)
-    - [Bug Trackers, Task Management and Ticketing Systems](#bug-trackers-task-management-and-ticketing-systems)
-    - [Documentation Generators](#documentation-generators)
-  - [Static site generators](#static-site-generators)
-  - [URL Shorteners](#url-shorteners)
-  - [Wikis](#wikis)
-  - [Self-hosting Solutions](#self-hosting-solutions)
-  - [List of Licenses](#list-of-licenses)
-  - [External links](#external-links)
-  - [Contributing](#contributing)
-  - [License](#license)
+- [Analytics](#analytics)
+- [Automation](#automation)
+- [Blogging Platforms](#blogging-platforms)
+- [Bookmarks & Link Sharing](#bookmarks--link-sharing)
+- [Calendar and Address Books](#calendar-and-address-books)
+- [Communication systems](#communication-systems)
+  - [Email](#email)
+  - [XMPP](#xmpp)
+  - [SIP](#sip)
+  - [IRC](#irc)
+  - [Custom](#custom)
+  - [Social Networks and Forums](#social-networks-and-forums)
+- [Content Management Systems (CMS)](#content-management-systems-cms)
+  - [E-commerce](#e-commerce)
+- [Download Tools](#download-tools)
+- [Federated Identity/Authentication](#federated-identityauthentication)
+- [Feed Readers](#feed-readers)
+- [File Sharing and Synchronization](#file-sharing-and-synchronization)
+- [Games](#games)
+- [Gateways](#gateways)
+- [Groupware](#groupware)
+- [Learning and Courses](#learning-and-courses)
+- [Maps & GPS](#maps--gps)
+- [Media Streaming](#media-streaming)
+- [Mind Maps](#mind-maps)
+- [Money, Budgeting and Management](#money-budgeting-and-management)
+- [Monitoring and Administration](#monitoring-and-administration)
+- [Music Streaming](#music-streaming)
+- [Note-taking & Editors](#note-taking--editors)
+- [Office Suites](#office-suites)
+- [Password Managers](#password-managers)
+- [Pastebins](#pastebins)
+- [Personal Dashboards](#personal-dashboards)
+- [Photo and Video Galleries](#photo-and-video-galleries)
+- [Polls and Events](#polls-and-events)
+- [Proxy](#proxy)
+- [Read it Later Lists](#read-it-later-lists)
+- [Search Engines](#search-engines)
+- [Software Development](#software-development)
+  - [Project Management](#project-management)
+  - [Bug Trackers](#bug-trackers)
+  - [IDE/Tools](#idetools)
+  - [Continuous Integration](#continuous-integration)
+  - [Documentation Generators](#documentation-generators)
+- [Static site generators](#static-site-generators)
+- [Task management/To-do lists](#task-managementto-do-lists)
+- [Ticketing](#ticketing)
+- [URL Shorteners](#url-shorteners)
+- [VPN](#vpn)
+- [Web servers](#web-servers)
+- [Wikis](#wikis)
+- [Self-hosting Solutions](#self-hosting-solutions)
+- [List of Licenses](#list-of-licenses)
+- [External links](#external-links)
+- [Contributing](#contributing)
+- [License](#license)
+
+<!-- /MarkdownTOC -->
 
 
 ## Analytics
@@ -549,6 +556,8 @@ Some [Groupware](#groupware) solutions also feature file sharing synchronization
 
 ### Project Management
 
+See also [Ticketing](#ticketing), [Task management/To-do lists](#task-managementto-do-lists) and [Bug Trackers](#bug-trackers)*
+
   * [Apache Bloodhound](https://bloodhound.apache.org/) - Manage software products, Keep track of features, tasks and bugs `Apache` `Python`
   * [CaseBox](https://www.casebox.org) - Manage all your organisation's information in one system.
   * [ChiliProject](https://www.chiliproject.org) - Fork of Redmine.
@@ -566,9 +575,9 @@ Some [Groupware](#groupware) solutions also feature file sharing synchronization
   * [Trac](http://trac.edgewall.org/) - Written in python.
   * [Phproject](http://www.phproject.org/) - A high performance full-featured project management system ([Source code](https://github.com/Alanaktion/phproject), [Demo](http://demo.phproject.org/)) `GPLv3`
 
-### Bug Trackers, Task Management and Ticketing Systems
+### Bug Trackers
 
-*Manage issues regarding your software development. See also [Ticketing](#ticketing) and [Task management/To-do lists](#task-management-to-do-lists)*
+*Manage issues regarding your software development. See also [Ticketing](#ticketing) and [Task management/To-do lists](#task-managementto-do-lists)*
 
   * [Bugzilla](https://www.bugzilla.org/) - General-purpose bugtracker and testing tool originally developed and used by the Mozilla project. `MPLv2` `Pearl`
   * [Bumpy Booby](http://bumpy-booby.derivoile.fr/) - A simple, responsive and highly customizable PHP bug tracking system. ([Source code](https://github.com/piero-la-lune/Bumpy-Booby)) `MIT` `PHP`
@@ -628,7 +637,7 @@ See https://staticsitegenerators.net and https://www.staticgen.com
 
 ## Ticketing
 
-*See also [Task management/To-do lists](#task-management-to-do-lists) and [Project Management](#project-management)*
+*See also [Task management/To-do lists](#task-managementto-do-lists) and [Project Management](#project-management)*
 
   * [osTicket](http://osticket.com/) - Simple support ticket system.
   * [OTRS](http://www.otrs.com/) - Trouble ticket system for assigning tickets to incoming queries and tracking further communications.
@@ -642,10 +651,21 @@ See https://staticsitegenerators.net and https://www.staticgen.com
   * [Polr](http://project.polr.me/) - A modern, minimalist, modular, and lightweight URL shortener ([Source code](https://github.com/Cydrobolt/polr))
   * [YOURLS](http://yourls.org/) - YOURLS is a set of PHP scripts that will allow you to run Your Own URL Shortener. Features include password protection, URL customization, bookmarklets, statistics, API, plugins, jsonp ([Source code](https://github.com/YOURLS/YOURLS/), [Documentation](https://github.com/YOURLS/YOURLS/wiki)) - `MIT`
 
+## VPN
+
+See https://github.com/n1trux/awesome-sysadmin#vpn
+
+
+## Web servers
+
+See https://github.com/n1trux/awesome-sysadmin#web
+
+
 
 ## Wikis
 
-  * **[Wikimatrix](http://www.wikimatrix.org/) - A wiki platforms comparator**
+See also [Documentation Generators](#documentation-generators) and [Wikimatrix](http://www.wikimatrix.org/) (a wiki platforms comparator).
+
   * [Blazekiss](https://github.com/ldleman/blazekiss) - BlazeKiss is a KISS-based wiki (Keep It Simple, Stupid) - simplicity and functionality comes before all. `PHP`
   * [Codex](http://codex.caffeinated.ninja/codex/master) - Codex is a simple file-based Markdown documentation platform built on top of Laravel. - `MIT` `PHP`
   * [commonplace](https://github.com/fredoliveira/commonplace) - A server for your markdown files. Give it a directory, and Commonplace gives you a url, pretty pages, and quick editing. `Ruby`
@@ -723,8 +743,8 @@ This list is under the [Creative Commons Attribution-ShareAlike 3.0 Unported](LI
 
 The list of contributors can be found below
 
-    116  Edward D <ed.kickball@hotmail.com>
-    111  nodiscc <nodiscc@gmail.com>
+    136  nodiscc <nodiscc@gmail.com>
+    117  Edward D <ed.kickball@hotmail.com>
     22  Kickball <ed.kickball@hotmail.com>
     13  jungle-boogie <sean@jungleboogie.me>
     9  Kovah <mail@kovah.de>
@@ -760,7 +780,9 @@ The list of contributors can be found below
     2  Deryck <dhenson02@users.noreply.github.com>
     2  Greg V <greg@unrelenting.technology>
     2  Görkem Çetin <gc@count.ly>
+    2  Jason Robinson <mail@jasonrobinson.me>
     2  Joseph Dykstra <josephdykstra@gmail.com>
+    2  Lee Watson <rev@revthefox.co.uk>
     2  Marien Fressinaud <dev@marienfressinaud.fr>
     2  Mikael Peigney <Mika56@users.noreply.github.com>
     2  Patrik Ragnarsson <patrik@starkast.net>
@@ -815,9 +837,10 @@ The list of contributors can be found below
     1  florianl <florianl@users.noreply.github.com>
     1  littleguga <littleguga@users.noreply.github.com>
     1  mertinop <martin.santibanez.a@gmail.com>
+    1  sc0repi0 <sc0repi0@gmx.de>
     1  skarphet <skarphet@users.noreply.github.com>
     1  steven jacobs <stjacobs@fastmail.fm>
     1  stevesbrain <stevesbrain@users.noreply.github.com>
     1  ttoups <ich@timotoups.de>
-    1  Lee Watson <rev@revthefox.co.uk>
+
 
