@@ -256,7 +256,7 @@ Some [Groupware](#groupware) solutions also feature calendar/address book editin
   * [Reddit](https://www.reddit.com/) - social networking and news website where registered community members can submit content. ([Demo](https://www.reddit.com/) [Source Code](https://github.com/reddit/reddit)) `CPALv1` `Python`
   * [RedMatrix](http://redmatrix.me/) - complete decentralised publishing, sharing, and communications system ([Source code](https://github.com/redmatrix/redmatrix))
   * [twister](http://twister.net.co/) -  P2P microblogging platform
-
+  * [RetroShare](http://retroshare.org) - Secured and decentralized communication system. Offers decentralized chat, forums, messaging, file transfer. ([Source code](https://github.com/RetroShare/RetroShare)) `GPLv2` `С++` 
 
 ## Content Management Systems (CMS)
 
@@ -371,7 +371,7 @@ Some [Groupware](#groupware) solutions also feature file sharing synchronization
   * [Syncthing](http://syncthing.net/) - Syncthing is an open source peer-to-peer file synchronisation tool ([Source code](https://github.com/syncthing/syncthing)) - `MPLv2` `Go`
   * [Tahoe-LAFS](https://www.tahoe-lafs.org/trac/tahoe-lafs) - Tahoe-LAFS is a Free and Open decentralized cloud storage system. It distributes your data across multiple servers. Even if some of the servers fail or are taken over by an attacker, the entire file store continues to function correctly, preserving your privacy and security.
   * [Z-Push](https://z-push.org/) - an implementation of Microsoft’s [ActiveSync](https://en.wikipedia.org/wiki/ActiveSync) protocol 
-
+  * [RetroShare](http://retroshare.org) - Secured and decentralized communication system. Offers decentralized chat, forums, messaging, file transfer. ([Source code](https://github.com/RetroShare/RetroShare)) `GPLv2` `С++` 
 
 ## Games
 
