@@ -233,6 +233,7 @@ Some [Groupware](#groupware) solutions also feature calendar/address book editin
   * [Synapse](https://matrix.org/blog/project/synapse/) - A server for [Matrix](https://matrix.org/), an open standard for decentralized persistent communication ([Source code](https://github.com/matrix-org/synapse)) `Apache` `Python`
     * [Matrix Console Web](https://matrix.org/blog/project/matrix-console-web/) - A web client meant to be a showcase of Matrix capabilities, and reference implementation of the Matrix standard ([Source code](https://github.com/matrix-org/matrix-angular-sdk)) `Apache` `Javascript`
   * [Syndie](https://www.syndie.de) - Syndie is a libre system for operating distributed forums. `Public Domain` `Java`
+  * [TextBelt](https://github.com/typpo/textbelt) - An outgoing SMS API that uses carrier-specific gateways to deliver your text messages for free, and without ads. ` ⚠ ` `MIT` `JavaScript`
   * [Tox](https://tox.chat/) -  A distributed, secure messenger with audio and video chat capabilities. `GPLv3` `C`
 
 ### Social Networks and Forums
