@@ -107,8 +107,8 @@ See also [Static Site Generators](#static-site-generators) and  [Content Managem
   * [PluXml](http://www.pluxml.org/) - XML-based blog/CMS platform ([Source code](https://github.com/pluxml/PluXml)) `GPL` `PHP`
   * [Wagtail](http://www.wagtail.io/) - A Django content management system focused on flexibility and user experience ([Source code](https://github.com/torchbox/wagtail)) `BSD` `Python`
   * [Wordpress](https://wordpress.org/) - Create a beautiful website or blog. ([Source code](https://github.com/WordPress/WordPress)) `GPLv2`
- 
- 
+
+
 
 ## Bookmarks & Link Sharing
 
@@ -204,7 +204,7 @@ Some [Groupware](#groupware) solutions also feature calendar/address book editin
 
 *[SIP](https://en.wikipedia.org/wiki/Session_Initiation_Protocol) telephony software*
 
-  * [Asterisk](http://asterisk.org/) - An easy to use but advanced IP PXB system, VoIP gateway and conference server `GPLv2` `C` 
+  * [Asterisk](http://asterisk.org/) - An easy to use but advanced IP PXB system, VoIP gateway and conference server `GPLv2` `C`
   * [FreeSWITCH](https://freeswitch.org/) - Scalable open source cross-platform telephony platform ([Source Code](https://freeswitch.org/stash/projects/FS/repos/freeswitch/browse)) `MPLv2` `C`
   * [Kamailio](http://www.kamailio.org/w/) - Modular SIP server (registrar/proxy/router/etc) `GPLv2` `C`
   * [Ostel](https://dev.guardianproject.info/projects/ostel/wiki/Server_Documentation) - Secure SIP telephony setup with ZRTP encryption `GPLv3` `Ruby`
@@ -213,7 +213,7 @@ Some [Groupware](#groupware) solutions also feature calendar/address book editin
 
 *[IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat) communication software*
 
-  * [Convos](http://convos.by/) - Always online web IRC client ([Demo](http://demo.convos.by), [Source code](http://github.com/nordaaker/convos)) `ARTv2` `Perl` 
+  * [Convos](http://convos.by/) - Always online web IRC client ([Demo](http://demo.convos.by), [Source code](http://github.com/nordaaker/convos)) `ARTv2` `Perl`
   * [Quassel IRC](http://quassel-irc.org/) - distributed IRC client, meaning that one (or multiple) client(s) can attach to and detach from a central core ([Source code](https://github.com/quassel/quassel)) `GPLv2` `C++`
   * [Shout](http://shout-irc.com/) - The self-hosted web IRC client ([Demo](http://demo.shout-irc.com/), [Source code](https://github.com/erming/shout)) `MIT` `Nodejs`
   * [Weechat](https://weechat.org/) - a fast, light and extensible chat client `GPLv3` `C`
@@ -224,14 +224,16 @@ Some [Groupware](#groupware) solutions also feature calendar/address book editin
   * [GNUNet](https://gnunet.org/) - Free software framework for decentralized, peer-to-peer networking `GPLv3` `C/Java`
   * [Jitsi Meet](https://jitsi.org/Projects/JitsiMeet) - Jitsi Meet is an OpenSource (MIT) WebRTC JavaScript application that uses Jitsi Videobridge to provide high quality, scalable video conferences. `MIT ` `JavaScript`
   * [Jitsi Video Bridge](https://jitsi.org/Projects/JitsiVideobridge) - WebRTC compatible Selective Forwarding Unit (SFU) that allows for multiuser video communication. `Apache` `Java`
-  * [Kandan](http://getkandan.com/) – Kandan is an Open Source Alternative to HipChat. - `AGPL` 
+  * [Kandan](http://getkandan.com/) – Kandan is an Open Source Alternative to HipChat. - `AGPL`
   * [Let's Chat](https://sdelements.github.io/lets-chat/) - A persistent messaging application that runs on Node.js and MongoDB. `MIT` `Nodejs`
   * [Mumble](http://wiki.mumble.info/wiki/Main_Page) - low-latency, high quality voice/text chat software `BSD` `C++`
   * [Node-Chat](https://github.com/IgorAntun/node-chat) - A not-so-basic open-source chat with admin features. - `MIT` `Nodejs`
-  * [RetroShare](http://retroshare.org) - Secured and decentralized communication system. Offers decentralized chat, forums, messaging, file transfer. ([Source code](https://github.com/RetroShare/RetroShare)) `GPLv2` `С++` 
+  * [RetroShare](http://retroshare.org) - Secured and decentralized communication system. Offers decentralized chat, forums, messaging, file transfer. ([Source code](https://github.com/RetroShare/RetroShare)) `GPLv2` `С++`
   * [Rocket.Chat](http://rocket.chat/) – Teamchat solution similar to Gitter.im or Slack - `MIT`
   * [Synapse](https://matrix.org/blog/project/synapse/) - A server for [Matrix](https://matrix.org/), an open standard for decentralized persistent communication ([Source code](https://github.com/matrix-org/synapse)) `Apache` `Python`
     * [Matrix Console Web](https://matrix.org/blog/project/matrix-console-web/) - A web client meant to be a showcase of Matrix capabilities, and reference implementation of the Matrix standard ([Source code](https://github.com/matrix-org/matrix-angular-sdk)) `Apache` `Javascript`
+  * [Syndie](https://www.syndie.de) - Syndie is a libre system for operating distributed forums. `Public Domain` `Java`
+  * [TextBelt](https://github.com/typpo/textbelt) - An outgoing SMS API that uses carrier-specific gateways to deliver your text messages for free, and without ads. ` ⚠ ` `MIT` `JavaScript`
   * [Tox](https://tox.chat/) -  A distributed, secure messenger with audio and video chat capabilities. `GPLv3` `C`
 
 ### Social Networks and Forums
@@ -284,10 +286,10 @@ CMS are a practical way to setup a website with many features. CMS often come wi
   * [Pimcore](http://www.pimcore.org) Multi-Channel Experience and Engagement Management Platform ([Source code](https://github.com/pimcore/pimcore))) `BSD` `PHP`
   * [Redaxscript](https://github.com/redaxmedia/redaxscript) - Ultra lightweight CMS for MySQL, SQLite and PostgreSQL `GPLv3` `PHP`
   * [SilverStripe](https://www.silverstripe.org) - easy to use CMS with powerful MVC framework underlying. ([Demo](http://demo.silverstripe.org/), [Source code](https://github.com/silverstripe)) `BSD` `PHP`
-  * [SPIP](http://www.spip.net/fr) - Publication system for the Internet. 
+  * [SPIP](http://www.spip.net/fr) - Publication system for the Internet.
   * [Wordpress](https://wordpress.org/) - The worlds most-used blogging and CMS engine. ([Source code mirror](https://github.com/WordPress/WordPress)) `GPLv2`
-  
-  
+
+
 ### E-commerce
 
 * [OpenCart](https://www.opencart.com) - Free open source shopping cart solution. ([Source code](https://github.com/opencart/opencart)) `GPLv3` `PHP`
@@ -296,7 +298,7 @@ CMS are a practical way to setup a website with many features. CMS often come wi
 * [PrestaShop](https://www.prestashop.com/) - PrestaShop offers a free, open-source and fully scalable e-commerce solution. ([Demo](http://demo.prestashop.com/), [Source Code](https://github.com/PrestaShop/PrestaShop)) `OSL 3.0` `PHP`
 * [Shoop](https://shoop.io) - Django powered fully customizable open source e-commerce framework for small and large sites. ([B2C demo](https://demo1.shoop.io/), [B2B demo](https://demo2.shoop.io/), [Source Code](https://github.com/shoopio/shoop)) `AGPLv3` `Python`
 * [WooCommerce](http://www.woothemes.com/woocommerce/) - WordPress based e-commerce solution ([Source Code](https://github.com/woothemes/woocommerce)) `GPL` `PHP`
-  
+
 ## Download Tools
 
  * [Alltube](https://github.com/Rudloff/alltube) - A web interface for [youtube-dl](https://github.com/rg3/youtube-dl), a program to download videos and audio from [more than 100 websites](https://rg3.github.io/youtube-dl/supportedsites.html) ([Demo](http://alltubedownload.net/)) `GPL`
@@ -371,7 +373,7 @@ Some [Groupware](#groupware) solutions also feature file sharing synchronization
   * [Syncany](https://www.syncany.org/) - Secure file sync software for arbitrary storage backends - An open-source cloud storage and filesharing application. Securely synchronize your files to any kind of storage! `GPLv3` `Java`
   * [Syncthing](http://syncthing.net/) - Syncthing is an open source peer-to-peer file synchronisation tool ([Source code](https://github.com/syncthing/syncthing)) - `MPLv2` `Go`
   * [Tahoe-LAFS](https://www.tahoe-lafs.org/trac/tahoe-lafs) - Tahoe-LAFS is a Free and Open decentralized cloud storage system. It distributes your data across multiple servers. Even if some of the servers fail or are taken over by an attacker, the entire file store continues to function correctly, preserving your privacy and security.
-  * [Z-Push](https://z-push.org/) - an implementation of Microsoft’s [ActiveSync](https://en.wikipedia.org/wiki/ActiveSync) protocol 
+  * [Z-Push](https://z-push.org/) - an implementation of Microsoft’s [ActiveSync](https://en.wikipedia.org/wiki/ActiveSync) protocol
 
 
 ## Games
@@ -383,7 +385,7 @@ Some [Groupware](#groupware) solutions also feature file sharing synchronization
 ## Gateways
 
   * [GateOne](https://github.com/liftoff/GateOne/) - Gate One is an HTML5 web-based terminal emulator and SSH client. - `AGPLv3`
-  * [Guacamole](http://guac-dev.org/) - Guacamole is a clientless remote desktop gateway. It supports standard protocols like VNC and RDP. ([Source code](https://github.com/glyptodon/)) `MIT` `Java/C` 
+  * [Guacamole](http://guac-dev.org/) - Guacamole is a clientless remote desktop gateway. It supports standard protocols like VNC and RDP. ([Source code](https://github.com/glyptodon/)) `MIT` `Java/C`
 
 
 ## Groupware
@@ -466,7 +468,7 @@ Some [Groupware](#groupware) solutions also feature file sharing synchronization
   * [Jotter](https://github.com/yosko/jotter) - Jotter is a lightweight, no database, powerful web notebook that lets you create and manage notes online safely, quickly & easily. ([Demo](http://tools.yosko.net/demos/jotter/) - `demo/demo`)
   * [Laverna](https://laverna.cc/) - Laverna is a JavaScript note taking application with Markdown editor and encryption support. Consider it like open source alternative to Evernote ([Source code](https://github.com/Laverna/laverna), [Demo](https://laverna.cc/index.html#notes))
   * [minimalist-web-notepad](https://github.com/pereorga/minimalist-web-notepad)- a minimalist http://notepad.cc clone `Apache` `PHP`
-  * [notes](https://github.com/SSilence/notes) - Simple script for personal notes with a single page with a WYSIWYG Editor `GPLv3` `PHP` 
+  * [notes](https://github.com/SSilence/notes) - Simple script for personal notes with a single page with a WYSIWYG Editor `GPLv3` `PHP`
   * [OpenNote](https://github.com/FoxUSA/OpenNote) - OpenNote was built to be an open web-based alternative to Microsoft OneNote (T) and EverNote
   * [Paperwork](http://paperwork.rocks) - OpenSource note-taking & archiving alternative to Evernote, Microsoft OneNote & Google Keep ([Source code](https://github.com/twostairs/paperwork))
   * [Turtl](https://turtl.it/) - A totally private personal database and note taking app ([Source code](https://github.com/turtl)) `GPLv3` `CommonLisp`
@@ -485,7 +487,7 @@ Some [Groupware](#groupware) solutions also feature file sharing synchronization
 
  * [Rattic](http://rattic.org/) - Password Management for Humans ([Source code](https://github.com/tildaslash/RatticWeb))
  * [Teampass](http://www.teampass.net/) - Password manager dedicated for managing passwords in a collaborative way on any server Apache, MySQL and PHP. ([Source code](https://github.com/nilsteampassnet/TeamPass/)) `GPLv3` `PHP`
- 
+
 ## Pastebins
 
   * [0bin](https://github.com/sametmax/0bin) -  Client side encrypted pastebin `WTFPL` `Python`
@@ -494,7 +496,7 @@ Some [Groupware](#groupware) solutions also feature file sharing synchronization
   * [hastebin](http://hastebin.com/about.md) - open source pastebin written in node.js ([Source code](https://github.com/seejohnrun/haste-server)) `Nodejs` `MIT`
   * [Phaste](https://pste.pw) - A Phalcon-based, MySQL pastebin application with privacy-respecting Piwik integration and syntax highlighting. ([Source code](https://github.com/FoxDev/Phaste)) `PHP` `AGPLv3`
   * [snipt](https://snipt.net/) -  Long-term memory for coders. Share and store code snippets  ([Source code](https://github.com/nicksergeant/snipt/)) `BSD` `Python`
-  * [Sticky Notes](http://sayakb.github.io/sticky-notes/) - A powerful open-source pastebin application for effortless code sharing. `PHP` 
+  * [Sticky Notes](http://sayakb.github.io/sticky-notes/) - A powerful open-source pastebin application for effortless code sharing. `PHP`
   * [Stikked](https://github.com/claudehohl/Stikked) - An advanced and beautiful pastebin written in `PHP` `GPLv3`
   * [tastebin](https://github.com/andreineculau/tastebin) - Updated version of hastebin plus additional features `Apache` `Nodejs`
 
@@ -508,7 +510,7 @@ Some [Groupware](#groupware) solutions also feature file sharing synchronization
 
   * [CumulusClips](http://cumulusclips.org/) - your own video sharing website with CumulusClips video sharing script. You can build a YouTube clone where users can upload, rate, comment on videos, and much more.  `GPLv2` `PHP` ([Demo](https://tube.devosi.org/))
   * [Gallery](http://galleryproject.org/) -  The simplest, most intuitive way to host your photos on your website ([Source code](https://github.com/gallery/gallery3)) `GPLv2` `PHP`
-  * [Koken](http://koken.me/) - Content management and web site publishing for photographers `PHP` 
+  * [Koken](http://koken.me/) - Content management and web site publishing for photographers `PHP`
   * [Lychee](http://lychee.electerious.com/) - an open source grid and album based photo-management-system ([Source code](https://github.com/electerious/Lychee)) - `MIT` `PHP`
   * [MediaDrop](http://mediadrop.net/) -  A video, audio and podcast publication platform ([Source code](https://github.com/mediadrop/mediadrop)) `GPLv3` `Python`
   * [Mediagoblin](http://mediagoblin.org) -  a Free software media publishing platform that anyone can run. You can think of it as a decentralized alternative to Flickr, YouTube, SoundCloud, etc `AGPLv3` `Python`
@@ -519,7 +521,7 @@ Some [Groupware](#groupware) solutions also feature file sharing synchronization
   * [Photoshow](http://www.photoshow-gallery.com/) - ([Source code](https://github.com/thibaud-rohmer/PhotoShow)) `Javascript` `GPLv3`
   * [Piwigo](http://piwigo.org/) - Photo gallery software for the web, built by an active community of users and developers. - `GPLv2` `PHP`
   * [Plumi](http://blog.plumi.org/) - create your own sophisticated video-sharing site ([Source code](https://github.com/plumi/plumi.app)) `GPLv2` `Python`
-  * [Pygmyfoto](https://github.com/dmpop/pygmyfoto) - A crude solution for publishing a photo roll on the web `PHP` 
+  * [Pygmyfoto](https://github.com/dmpop/pygmyfoto) - A crude solution for publishing a photo roll on the web `PHP`
   * [Shot.io](http://shot.io/) - Mobile optimised photo publishing platform (self-hosted Flickr alternative) ([Source code](https://github.com/AliasIO/Shot.io)) `GPLv3` `PHP`
   * [sigal](https://github.com/saimn/sigal) - yet another simple static gallery generator `MIT` `Python`
   * [UberGallery](http://www.ubergallery.net) - UberGallery is an easy to use, simple to manage, web photo gallery. UberGallery does not require a database and supports JPEG, GIF and PNG file types. Simply upload your images and UberGallery will automatically generate thumbnails and output HTML. ([Source code](https://github.com/UberGallery/UberGallery)) `MIT` `PHP`
@@ -843,5 +845,3 @@ The list of contributors can be found below
     1  steven jacobs <stjacobs@fastmail.fm>
     1  stevesbrain <stevesbrain@users.noreply.github.com>
     1  ttoups <ich@timotoups.de>
-
-
