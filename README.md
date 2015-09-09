@@ -493,6 +493,7 @@ Some [Groupware](#groupware) solutions also feature file sharing synchronization
 ### Continuous Integration
 
   * [Jenkins](https://jenkins-ci.org/) - Continuous Integration Server ([Source Code](https://github.com/jenkinsci/jenkins/)) `MIT` `Java`
+  * [PHPCI](https://www.phptesting.org/) - Free and open source continuous integration specifically designed for PHP ([Source Code](https://github.com/block8/phpci)) `BSD` `PHP`
 
 ### Bug and Task Trackers
 
