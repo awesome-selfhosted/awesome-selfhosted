@@ -120,7 +120,7 @@ See also [Static Site Generators](#static-site-generators) and  [Content Managem
   * [Scuttle](https://github.com/scronide/scuttle) -  Web-based social bookmarking system. Allows multiple users to store, share and tag their favourite links `GPLv2` `PHP`
   * [Shaarli](https://github.com/shaarli/Shaarli) - Personal, minimalist, super-fast, no-database bookmarking and link sharing plaform. ([Demo](http://shaarlidemo.tuxfamily.org/Shaarli) - `demo/demo`)
   * [unmark](https://github.com/plainmade/unmark) - An open source to do app for links
-
+  * [No Fuss Bookmarks](http://nofussbm.herokuapp.com/signup.html) - a very simple software and service to store bookmarks especially designed for hackers (that don't need fancy interfaces, but nice API).
 
 
 ## Calendar and Address Books
