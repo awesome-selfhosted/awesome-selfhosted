@@ -104,6 +104,7 @@ See also [Static Site Generators](#static-site-generators) and  [Content Managem
   * [htmly](http://www.htmly.com/) - Databaseless Blogging Platform (Flat-File Blog) ([Source code]((https://github.com/danpros/htmly)), [Demo](http://www.htmly.com/demo/)) `GPLv2` `PHP`
   * [Known](https://withknown.com/opensource/) - A single website for all your content `Apache` `PHP`
   * [Noddity](http://noddity.com/) - It's a blog, it's a wiki, it's a fast CMS! ([Source code](https://github.com/TehShrike/noddity)) `WTFPL` `Nodejs`
+  * [Pelican](http://docs.getpelican.com/en/3.6.3/) - It's a static site generator, written in Python. ([Source code](https://github.com/getpelican/pelican)) `GPLv3` `Python`
   * [PluXml](http://www.pluxml.org/) - XML-based blog/CMS platform ([Source code](https://github.com/pluxml/PluXml)) `GPL` `PHP`
   * [Wagtail](http://www.wagtail.io/) - A Django content management system focused on flexibility and user experience ([Source code](https://github.com/torchbox/wagtail)) `BSD` `Python`
   * [Wordpress](https://wordpress.org/) - Create a beautiful website or blog. ([Source code](https://github.com/WordPress/WordPress)) `GPLv2`
