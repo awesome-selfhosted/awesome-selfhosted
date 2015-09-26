@@ -435,7 +435,7 @@ Some [Groupware](#groupware) solutions also feature file sharing synchronization
   * [GRR](http://grr.devome.com/?lang=en) - Assets management and booking for small/medium companies ([demo](http://grr.devome.com/demo/week_all.php?year=2015&month=07&day=28&area=94), _administrateur/azerty_) `GPLv2` `PHP`
   * [InvoicePlane](https://invoiceplane.com/) - Manage quotes, invoices, payments and customers for your small business. ([Demo](https://demo.invoiceplane.com), [Source code](https://github.com/InvoicePlane/InvoicePlane)) - `MIT`
   * [IHateMoney](http://ihatemoney.org/) - Manage your shared expenses, easily. ([Source code](https://github.com/spiral-project/ihatemoney)) `BSD` `Python`
-  * [Tryton](http://www.tryton.org/) - Core base of a complete business solution (ERP). ([Demo](http://demo.tryton.org) admin/admin, [Source code](https://hg.tryton.org))
+  * [Tryton](http://www.tryton.org/) - Core base of a complete business solution (ERP). ([Demo](http://demo.tryton.org) admin/admin, [Source code](https://hg.tryton.org)) `GPLv3` `Python`
 
 
 ## Monitoring and Administration
