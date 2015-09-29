@@ -726,7 +726,8 @@ See also [Documentation Generators](#documentation-generators) and [Wikimatrix](
 ## External links
 
  * [Awesome Sysadmin](https://github.com/n1trux/awesome-sysadmin) -  A curated list of amazingly awesome open source sysadmin resources.
- * [PRISM Break](https://prism-break.org/en/), [Privacytools.io](https://www.privacytools.io/) - Mobile, computer & server privacy-minded applications
+ * [PRISM Break](https://prism-break.org/en/) - Mobile, computer & server privacy-minded applications
+ * [privacytools.io](https://www.privacytools.io/) - Knowledge and tools to protect your privacy against global mass surveillance.
 
 
 -------------------------------------------------------
