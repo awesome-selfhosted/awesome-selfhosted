@@ -601,13 +601,12 @@ See also [Ticketing](#ticketing), [Task management/To-do lists](#task-management
   * [Pairjam](http://pairjam.com/) -  Real-time web-based collaborative coding ([Source code](https://github.com/neerajwahi/pairjam))
   * [Regexr](http://regexr.com/) -  RegExr is a HTML/JS based tool for creating, testing, and learning about Regular Expressions. ([Source code](https://github.com/gskinner/regexr/)) `MIT` `Nodejs`
   * [Repo.js](http://darcyclarke.me/dev/repojs/) - A plugin to embed Github repos on your site ([Source code](https://github.com/darcyclarke/Repo.js))
+  * [RStudio Server](https://www.rstudio.com/products/rstudio/#Server) - web browser based IDE for R. ([Source code](https://github.com/rstudio/rstudio/)) `AGPLv3`
 
 ### Continuous Integration
 
   * [Jenkins](https://jenkins-ci.org/) - Continuous Integration Server ([Source Code](https://github.com/jenkinsci/jenkins/)) `MIT` `Java`
   * [PHPCI](https://www.phptesting.org/) - Free and open source continuous integration specifically designed for PHP ([Source Code](https://github.com/block8/phpci)) `BSD` `PHP`
-
-
 
 
 ### Documentation Generators
@@ -631,6 +630,7 @@ See https://staticsitegenerators.net and https://www.staticgen.com
 
   * [bulldog](https://github.com/infews/bulldog) - HTML5 task manager, built on todo.txt `MIT` `HTML5`
   * [Crepido](https://github.com/arshad/crepido) - Create (kanban) boards to track users and projects from flat markdown files `MIT` `Javascript/Others`
+  * [Restyaboard](http://restya.com/board/) - Open source Trello-like kanban board. ([Demo](http://restya.com/board/demo.html), [Source code](https://github.com/RestyaPlatform/board)) `OSL v3.0` 
   * [Kanboard](http://kanboard.net/) - A simple and open source visual task board `AGPLv3`
   * [myTinyTodo](http://www.mytinytodo.net/) - Simple way to manage your todo list in AJAX style. Uses PHP, jQuery, SQLite/MySQL. GTD compliant. `GPL`
   * [TaskBoard](http://taskboard.matthewross.me/) - A Kanban-inspired app for keeping track of things that need to get done. ([Source code](https://github.com/kiswa/TaskBoard)) `MIT`
@@ -638,6 +638,7 @@ See https://staticsitegenerators.net and https://www.staticgen.com
   * [tasks.php](https://github.com/RaymiiOrg/tasks.php) - A simple task/todo list manager `MIT`
   * [Tinyissue](https://github.com/mikelbring/tinyissue) - Simple Issue Tracking for Teams `MIT`
   * [Tracks](http://getontracks.org/) -  a web-based application to help you implement David Allen’s [Getting Things Done™](http://wikipedia.org/wiki/Getting_Things_Done) methodology. - `GPLV2`
+  * [Wekan](http://wekan.io) - An open-source Trello-like kanban. ([Demo](https://oasis.sandstorm.io/appdemo/m86q05rdvj14yvn78ghaxynqz7u2svw6rnttptxx49g1785cdv1h), [Source code](https://github.com/wekan/wekan)) `MIT` `JavaScript/Meteor`
 
 
 
