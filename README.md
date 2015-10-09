@@ -357,6 +357,7 @@ _Web based file managers_
 
   * [eXtplorer](http://extplorer.sourceforge.net/) - A PHP- and JavaScript- based File Manager
   * [Pydio](https://pyd.io/) - Turn any web server into a powerful file management system and an alternative to mainstream cloud storage providers.
+  * [h5ai](https://larsjung.de/h5ai/) - modern file indexer for HTTP web servers with focus on your files. Directories are displayed in a appealing way and browsing them is enhanced by different views, a breadcrumb and a tree overview. ([Source code](https://github.com/lrsjng/h5ai), [Demo](https://larsjung.de/h5ai/demo/)) `MIT` `PHP/Javascript`
 
 
 _File synchronization_
