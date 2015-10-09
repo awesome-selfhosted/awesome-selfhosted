@@ -766,7 +766,7 @@ See also [Documentation Generators](#documentation-generators), [Wikimatrix](htt
  * [PRISM Break](https://prism-break.org/en/) - Mobile, computer & server privacy-minded applications
  * [privacytools.io](https://www.privacytools.io/) - Knowledge and tools to protect your privacy against global mass surveillance.
  * Dynamic Domain Name services: [Afraid.org](https://freedns.afraid.org/domain/registry/), [Pagekite](https://pagekite.net/)
- * Communities: [/r/selfhosted](https://www.reddit.com/r/selfhosted), [Auto-Hébergement (FR)](http://www.auto-hebergement.fr/
+ * Communities: [/r/selfhosted](https://www.reddit.com/r/selfhosted), [Auto-Hébergement (FR)](http://www.auto-hebergement.fr/)
 
 -------------------------------------------------------
 
