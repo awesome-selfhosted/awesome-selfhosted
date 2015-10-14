@@ -81,7 +81,7 @@ _Web Analytics_
   * [Open Web Analytics](http://www.openwebanalytics.com/) - Google Analytics and Piwik alternative - `GPL` `PHP`
   * [Piwik](https://piwik.org/) - Leading open-source analytics platform that gives you more than just powerful analytics. ([Source code](https://github.com/piwik/)) `GPLv3` `PHP`
   * [Snowplow](http://snowplowanalytics.com/) - Your own digital nervous system. Have every single event, from your websites, mobile apps, desktop applications and server-side systems, stored in your own data warehouse and available to action in real-time. ([Source Code](https://github.com/snowplow/)) `Apache` `Scala`
-  * [ThinkUp](https://www.thinkup.com/) - Insights into your social networking activity on Twitter, Facebook, Instagram, and beyond. ([Source code](https://github.com/ThinkUpLLC/ThinkUp)) - `GPL` `PHP`
+  * [ThinkUp](https://www.thinkup.com/) - Insights into your social networking activity on Twitter, Facebook, Instagram, and beyond. ([Source code](https://github.com/ThinkUpLLC/ThinkUp)) `GPL` `PHP`
   * [Webalizer](http://www.webalizer.org/) - Fast web server log file analysis. `GPL` `C`
 
 
@@ -119,7 +119,7 @@ See also [Static Site Generators](#static-site-generators) and  [Content Managem
   * [No Fuss Bookmarks](http://nofussbm.herokuapp.com/signup.html) - Very simple software and service to store bookmarks especially designed for hackers (that don't need fancy interfaces, but nice API) ([Source code]( https://github.com/mapio/nofussbm)) `GPLv3` `Python`
   * [Pinry](http://getpinry.com/) - The tiling image board system for people who want to save, tag, and share images, videos, and webpages. ([Source code](https://github.com/pinry/pinry))
   * [Scuttle](https://github.com/scronide/scuttle) -  Web-based social bookmarking system. Allows multiple users to store, share and tag their favourite links `GPLv2` `PHP`
-  * [Shaarli](https://github.com/shaarli/Shaarli) - Personal, minimalist, super-fast, no-database bookmarking and link sharing plaform. ([Demo](http://shaarlidemo.tuxfamily.org/Shaarli) - `demo/demo`)
+  * [Shaarli](https://github.com/shaarli/Shaarli) - Personal, minimalist, super-fast, no-database bookmarking and link sharing plaform. ([Demo](http://shaarlidemo.tuxfamily.org/Shaarli) `demo/demo`)
   * [unmark](https://github.com/plainmade/unmark) - An open source to do app for links
 
 
@@ -195,7 +195,7 @@ Some [Groupware](#groupware) solutions also feature calendar/address book editin
 * [Candy](http://candy-chat.github.io/candy/) - Multi user XMPP client written in Javascript.
 * [Converse.js](https://conversejs.org/) - A free and open-source XMPP chat client in your browser ([Source](https://github.com/jcbrand/converse.js)) `MPLv2` `Javascript`
 * [Kaiwa](http://getkaiwa.com/) - Web based chat client in the style of common paid alternatives. ([Source code](https://github.com/digicoop/kaiwa))
-* [Kontalk](http://kontalk.org/) – Kontalk is an Open Source Messenger, similiar to WhatsApp (app for android only currently), including end-to-end encryption, server is based on Tigase XMPP Server - ([Source code](https://github.com/kontalk)) - `GPLv3`
+* [Kontalk](http://kontalk.org/) – Kontalk is an Open Source Messenger, similiar to WhatsApp (app for android only currently), including end-to-end encryption, server is based on Tigase XMPP Server - ([Source code](https://github.com/kontalk)) `GPLv3`
 * [Lets-Chat](http://sdelements.github.io/lets-chat/) - A self hosted chat suite written in Node.
 * [Salut à Toi](http://www.salut-a-toi.org/) - Multipurpose, multi frontend, libre and decentralised communication tool. ([Source code](http://repos.goffi.org/sat)) `AGPLv3` `Python`
   * [Libervia](http://wiki.goffi.org/wiki/Libervia/en) - Web frontend from Salut à Toi ([Source code](http://repos.goffi.org/libervia)) `AGPLv3` `Python`
@@ -239,14 +239,14 @@ Some [Groupware](#groupware) solutions also feature calendar/address book editin
 
 ### Social Networks and Forums
 
-  * [Anahita](https://www.getanahita.com/) Open Source Social Networking Framework & Platform. ([Source code](https://github.com/anahitasocial) - `GPLv3` `PHP`
+  * [Anahita](https://www.getanahita.com/) Open Source Social Networking Framework & Platform. ([Source code](https://github.com/anahitasocial) `GPLv3` `PHP`
   * [Bootcamp](http://trybootcamp.vitorfs.com) - An enterprise social network - [Source code](https://github.com/vitorfs/bootcamp)
   * [Buddycloud](http://buddycloud.com/) - Tools, libraries, services and a community to build user-to-user, group and social messaging into your app. Saves time. Scales up. Supports you. ([Source code](https://github.com/buddycloud)) `Apache 2.0` `Java/Javascript`
   * [BuddyPress](http://buddypress.org/about/) - A powerful plugin that takes your WordPress.org powered site beyond the blog with social-network features like user profiles, activity streams, user groups, and more.
-  * [diaspora*](https://diasporafoundation.org/) - Distributed social networking server. ([Demo](http://podupti.me/random.php), [Source Code](https://github.com/diaspora/diaspora)) - `AGPLv3` `Ruby`
+  * [diaspora*](https://diasporafoundation.org/) - Distributed social networking server. ([Demo](http://podupti.me/random.php), [Source Code](https://github.com/diaspora/diaspora)) `AGPLv3` `Ruby`
   * [Discourse](http://www.discourse.org/) - Advanced forum / community solution based on Ruby and JS - `GPLv2`
   * [Elgg](https://www.elgg.org/) - a powerful open source social networking engine - `GPLv2`
-  * [Flarum](http://flarum.org) - Delightfully simple forums. Flarum is the next-generation forum software that makes online discussion fun again. ([Source Code](https://github.com/flarum/flarum)) - `MIT` `PHP`
+  * [Flarum](http://flarum.org) - Delightfully simple forums. Flarum is the next-generation forum software that makes online discussion fun again. ([Source Code](https://github.com/flarum/flarum)) `MIT` `PHP`
   * [FluxBB](http://fluxbb.org/) - fast, light, user-friendly forum software for your website. ([Source code](https://github.com/fluxbb/fluxbb)) `GPLv2` `PHP`
   * [Friendica](http://friendica.com/) - Social Communication Server ([Source code](https://github.com/friendica/friendica)) `AGPLv3`
   * [Gnu Social](http://gnu.io/social/) - social communication software for both public and private communications
@@ -256,8 +256,8 @@ Some [Groupware](#groupware) solutions also feature calendar/address book editin
   * [Jappix](https://jappix.com/) - Jappix is an open social platform, that let's you easily get or keep in touch with everyone.
   * [Movim](https://movim.eu/) - A brand new social network, full of awesome features in a modern and smart interface
   * [Newebe](http://newebe.org/) - a Distributed Social Network ([Source code](https://github.com/gelnior/newebe)) `AGPLv3` `Python`
-  * [NodeBB](https://nodebb.org/) - Node.js based forum software built for the modern web ([Source code](https://github.com/NodeBB/NodeBB)) - `GPLv3` `Node.js`
-  * [Oxwall](http://www.oxwall.org/) Oxwall is used for a wide range of projects starting from family sites and custom social networks to collaboration tools and enterprise community solutions. ([Source code](https://bitbucket.org/oxwall/public) - `CPALv1` `PHP`
+  * [NodeBB](https://nodebb.org/) - Node.js based forum software built for the modern web ([Source code](https://github.com/NodeBB/NodeBB)) `GPLv3` `Node.js`
+  * [Oxwall](http://www.oxwall.org/) Oxwall is used for a wide range of projects starting from family sites and custom social networks to collaboration tools and enterprise community solutions. ([Source code](https://bitbucket.org/oxwall/public) `CPALv1` `PHP`
   * [phpBB](https://www.phpbb.com/) - flat-forum bulletin board software solution that can be used to stay in touch with a group of people or can power your entire website. `GPLv2` `PHP`
   * [PPnet](https://github.com/pixelpark/ppnet) Create and host your own social network. `MIT` `JavaScript`
   * [Pump.io](http://pump.io/) - stream server that does most of what people really want from a social network ([Source code](https://github.com/e14n/pump.io))
@@ -287,10 +287,10 @@ CMS are a practical way to setup a website with many features. CMS often come wi
   * [KeystoneJS](http://keystonejs.com/) - Node.js CMS & Web Application Platform ([Demo](http://demo.keystonejs.com/), [Source Code](https://github.com/keystonejs/keystone)) `MIT` `Node.js`
   * [MODX](http://modx.com/) - MODX is an advanced content management and publishing platform. The current version is called 'Revolution'. ([Source Code](https://github.com/modxcms/revolution)) `GPLv2` `PHP`
   * [october](http://octobercms.com/) - Free, open-source, self-hosted CMS platform based on the Laravel PHP Framework. ([Source code](https://github.com/octobercms/october)) `MIT`
-  * [Pagekit](http://pagekit.com/) - A new modern CMS to create and share ([Source code](https://github.com/pagekit/pagekit)) - `MIT`
+  * [Pagekit](http://pagekit.com/) - A new modern CMS to create and share ([Source code](https://github.com/pagekit/pagekit)) `MIT`
   * [Pico](http://picocms.org/) - A stupidly simple, blazing fast, flat file CMS. ([Source code](https://github.com/gilbitron/Pico)) `MIT`
-  * [Pimcore](http://www.pimcore.org) Multi-Channel Experience and Engagement Management Platform ([Source code](https://github.com/pimcore/pimcore))) `BSD` `PHP`
-  * [Redaxscript](https://github.com/redaxmedia/redaxscript) - Ultra lightweight CMS for MySQL, SQLite and PostgreSQL `GPLv3` `PHP`
+  * [Pimcore](http://www.pimcore.org) Multi-Channel Experience and Engagement Management Platform ([Source code](https://github.com/pimcore/pimcore)) `BSD` `PHP`
+  * [Redaxscript](http:/redaxscript.com) - Ultra lightweight CMS for MySQL, SQLite and PostgreSQL ([Demo](http://demo.redaxscript.com/demo/login), [Source Code](https://github.com/redaxmedia/redaxscript)) `GPLv3` `PHP`
   * [SilverStripe](https://www.silverstripe.org) - easy to use CMS with powerful MVC framework underlying. ([Demo](http://demo.silverstripe.org/), [Source code](https://github.com/silverstripe)) `BSD` `PHP`
   * [SPIP](http://www.spip.net/fr) - Publication system for the Internet.
   * [Wordpress](https://wordpress.org/) - The worlds most-used blogging and CMS engine. ([Source code mirror](https://github.com/WordPress/WordPress)) `GPLv2`
@@ -329,7 +329,7 @@ CMS are a practical way to setup a website with many features. CMS often come wi
   * [Creaky Coot](https://github.com/piero-la-lune/Creaky-Coot) - Minimalist and responsive RSS reader and links saver
   * [Feedbin](https://feedbin.me) - a simple, fast and nice looking RSS reader. ([Source code](https://github.com/feedbin/feedbin))
   * [FeedHQ](https://feedhq.org/) - FeedHQ is a web-based feed reader ([Source code](https://github.com/feedhq/feedhq))
-  * [FreshRSS](http://freshrss.org/) - A self-hostable RSS feed aggregator ([Demo](http://demo.freshrss.org/i/), [Source code](https://github.com/FreshRSS/FreshRSS), [Mobile app](https://github.com/Alkarex/EasyRSS)) - `AGPLv3`
+  * [FreshRSS](http://freshrss.org/) - A self-hostable RSS feed aggregator ([Demo](http://demo.freshrss.org/i/), [Source code](https://github.com/FreshRSS/FreshRSS), [Mobile app](https://github.com/Alkarex/EasyRSS)) `AGPLv3`
   * [Kriss Feed](http://tontof.net/kriss/feed/) - A simple and smart (or stupid) feed reader ([Demo](http://tontof.net/feed/), [Source code](https://github.com/tontof/kriss_feed/))
   * [Leed](http://projet.idleman.fr/leed/) - Leed (for Light Feed) is a Free and minimalist RSS aggregator ([Source code](https://github.com/ldleman/Leed))
   * [Leselys](https://github.com/socketubs/leselys) - your very elegant RSS reader
@@ -341,9 +341,9 @@ CMS are a practical way to setup a website with many features. CMS often come wi
   * [Readr](https://github.com/pabloprieto/Readr) - A clean & simple, self-hosted RSS reader
   * [RSS2EMail](http://www.allthingsrss.com/rss2email/) - fetches RSS/Atom-feeds and pushes new Content to any email-reciever, supports OPML `GPL` `Python`
   * [RSSminer](http://rssminer.net/) -An online rss reader written in clojure & javascript & java ([Source code](https://github.com/shenfeng/rssminer))
-  * [Selfoss](http://selfoss.aditu.de/) - The new multipurpose rss reader, live stream, mashup, aggregation web application ([Source code](https://github.com/SSilence/selfoss)) - `AGPLv3`
+  * [Selfoss](http://selfoss.aditu.de/) - The new multipurpose rss reader, live stream, mashup, aggregation web application ([Source code](https://github.com/SSilence/selfoss)) `AGPLv3`
   * [Stringer](https://github.com/swanson/stringer) - A work-in-progress self-hosted, anti-social RSS reader.
-  * [Tiny Tiny RSS](https://tt-rss.org/redmine/projects/tt-rss/wiki) - Open source web-based news feed (RSS/Atom) reader and aggregator. ([Demo](http://tt-rss.org/demo/), [Public instance](http://framanews.org/), [Applications](http://tt-rss.org/redmine/projects/tt-rss/wiki/RelatedSoftware)) - `GPLv3`
+  * [Tiny Tiny RSS](https://tt-rss.org/redmine/projects/tt-rss/wiki) - Open source web-based news feed (RSS/Atom) reader and aggregator. ([Demo](http://tt-rss.org/demo/), [Public instance](http://framanews.org/), [Applications](http://tt-rss.org/redmine/projects/tt-rss/wiki/RelatedSoftware)) `GPLv3`
     * [ttrss-mobile](https://github.com/mboinet/ttrss-mobile) - A mobile webapp for Tiny Tiny RSS
     * [gritttt-rss](http://gritttt-rss.nicolashoening.de/) - More features for Tiny Tiny RSS [Source code](https://github.com/nhoening/gritttt-rss)
 
@@ -366,7 +366,7 @@ _File synchronization_
   * [Seafile](http://www.seafile.com/en/home/) - File hosting and sharing solution primary for teams and organizations. ([Demo](https://seacloud.cc/demo)) `GPLv2`
   * [SparkleShare](http://sparkleshare.org/) - Self hosted, instant, secure file sync
   * [Syncany](https://www.syncany.org/) - Secure file sync software for arbitrary storage backends - An open-source cloud storage and filesharing application. Securely synchronize your files to any kind of storage! `GPLv3` `Java`
-  * [Syncthing](http://syncthing.net/) - Syncthing is an open source peer-to-peer file synchronisation tool ([Source code](https://github.com/syncthing/syncthing)) - `MPLv2` `Go`
+  * [Syncthing](http://syncthing.net/) - Syncthing is an open source peer-to-peer file synchronisation tool ([Source code](https://github.com/syncthing/syncthing)) `MPLv2` `Go`
   * [Z-Push](https://z-push.org/) - an implementation of Microsoft’s [ActiveSync](https://en.wikipedia.org/wiki/ActiveSync) protocol
 
 
@@ -418,30 +418,30 @@ _Distributed filesystems_
 ## Groupware
 
   * [Citadel](http://www.citadel.org/doku.php) - Groupware including email, calendar/scheduling, address books, forums, mailing lists, IM, wiki and blog engines, RSS aggregation and more ([Source code](http://www.citadel.org/doku.php/installation:source)) `GPLv3` `C`
-  * [Cozy Cloud](https://cozy.io) - A personal cloud where you can read your emails or manage and sync your contact, files or calendars, with an app store full of community contributions ([Source Code](https://github.com/cozy)) - `GPLv3` `Nodejs`
+  * [Cozy Cloud](https://cozy.io) - A personal cloud where you can read your emails or manage and sync your contact, files or calendars, with an app store full of community contributions ([Source Code](https://github.com/cozy)) `GPLv3` `Nodejs`
   * [egroupware](http://www.egroupware.org/) - Software suite including calendars, address books, notepad, project management tools, client relationship management tools (CRM), knowledge management tools, a wiki and a CMS.
   * [Horde](http://www.horde.org/) - The Horde Project is about creating high quality Open Source applications and libraries, based on PHP and the Horde Framework. - `GPL`
   * [Kolab](https://kolab.org/) - Kolab community is a unified communication and collaboration system - `Various FLOSS Licenses` ([Source](http://git.kolab.org/))
   * [Openmeetings](https://openmeetings.apache.org/index.html) - ([Source code](https://svn.apache.org/viewvc/openmeetings/trunk/singlewebapp)) -  Openmeetings provides video conferencing, instant messaging, white board, collaborative document editing and other groupware tools using API functions of the Red5 Streaming Server for Remoting and Streaming. `Apache 2.0`  `Java`
   * [ownCloud](https://owncloud.org/) - All-in-one solution for saving, synchronizing, viewing, editing and sharing files, calendars, address books and more - `AGPLv3` `PHP`
   * [Sogo](http://www.sogo.nu/) - SOGo offers multiple ways to access the calendaring and messaging data. CalDAV, CardDAV, GroupDAV, as well as ActiveSync, including native Outlook compatibility and web interface. ([Demo](http://www.sogo.nu/tour/online_demo.html), [Source Code](http://www.sogo.nu/development/source_code.html)) `GPLv1/LGPLv2` `Objective-C`
-  * [Tine 2.0org](https://www.tine20.org) - Contacts, Calendar, Tasks, WebDAV, ActiveSync, VOIP, Mail-Client, CRM, Sales, Projects, Timetracker -  ([Demo](https://demo.tine20.net)) - `AGPLv3`
+  * [Tine 2.0org](https://www.tine20.org) - Contacts, Calendar, Tasks, WebDAV, ActiveSync, VOIP, Mail-Client, CRM, Sales, Projects, Timetracker -  ([Demo](https://demo.tine20.net)) `AGPLv3`
   * [Zimbra Collaboration](https://www.zimbra.com/downloads/) - Email, calendar, collaboration server with web interface and lots of integrations.  ([Source code]( https://www.zimbra.com/open-source)) `GPLv2/CPALv1` `Java`
 
 ## Learning and Courses
 
-  * [Chamilo LMS](https://chamilo.org/chamilo-lms/) - Chamilo LMS allows you to create a virtual campus for the provision of online or semi-online training. ([Source code](https://github.com/chamilo/chamilo-lms)) - `GPLv3` `PHP`
-  * [lxHive](http://www.lxhive.com/) - Open Source ExperienceAPI compliant Learning Record Store (LRS) - previously code-named TinCanAPI. [Source code](https://github.com/Brightcookie/lxHive) - `GPLv3` `PHP`
-  * [Mahara](http://www.mahara.org/) - Open Source fully featured web application to build students electronic portfolio. [Source code](https://github.com/MaharaProject/mahara) - `GPLv3` `PHP`
-  * [Moodle](https://moodle.org/) - Moodle is a learning and courses platform with one of the largest open source communities worldwide. ([Demo](https://moodle.org/demo/), [Source code](https://git.moodle.org/gw)) - `GPL` `PHP`
-  * [Sakai](https://www.sakaiproject.org/) - The Sakai project provides a flexible and feature-rich environment for teaching, learning, research and other collaboration. ([Demo](https://www.sakaiproject.org/try-sakai), [Source code](https://github.com/sakaiproject/sakai)) - `ECLv2` `Java`
+  * [Chamilo LMS](https://chamilo.org/chamilo-lms/) - Chamilo LMS allows you to create a virtual campus for the provision of online or semi-online training. ([Source code](https://github.com/chamilo/chamilo-lms)) `GPLv3` `PHP`
+  * [lxHive](http://www.lxhive.com/) - Open Source ExperienceAPI compliant Learning Record Store (LRS) - previously code-named TinCanAPI. [Source code](https://github.com/Brightcookie/lxHive) `GPLv3` `PHP`
+  * [Mahara](http://www.mahara.org/) - Open Source fully featured web application to build students electronic portfolio. [Source code](https://github.com/MaharaProject/mahara) `GPLv3` `PHP`
+  * [Moodle](https://moodle.org/) - Moodle is a learning and courses platform with one of the largest open source communities worldwide. ([Demo](https://moodle.org/demo/), [Source code](https://git.moodle.org/gw)) `GPL` `PHP`
+  * [Sakai](https://www.sakaiproject.org/) - The Sakai project provides a flexible and feature-rich environment for teaching, learning, research and other collaboration. ([Demo](https://www.sakaiproject.org/try-sakai), [Source code](https://github.com/sakaiproject/sakai)) `ECLv2` `Java`
 
 ## Maps & GPS
 
   * [Graphhopper](https://graphhopper.com/) -  Fast routing library and server using OpenStreetMap ([Source code](https://github.com/graphhopper/graphhopper))
   * [MapBBCodeShare](https://github.com/MapBBCode/share.mapbbcode.org) - Tool for sharing custom OSM maps. Support for annotated markers, polygons, lines, multi-format import/export, multiple layers, shortlinks... ([Demo](http://share.mapbbcode.org/)) `WTFPL/Other` `PHP/Javascript`
   * [Openstreetmap](http://www.openstreetmap.org/) - OpenStreetMap is a map of the world, created by people like you and free to use under an open license. ([Source code](https://github.com/openstreetmap/openstreetmap-website))
-  * [Traccar](https://www.traccar.org/) - Java application to track GPS positions. Supports loads of tracking devices and protocols, has an Android and iOS App. Has a web interface to view your trips -  ([Demo](http://demo.traccar.org/), [Source code](https://github.com/tananaev?tab=repositories)) - `Apache`
+  * [Traccar](https://www.traccar.org/) - Java application to track GPS positions. Supports loads of tracking devices and protocols, has an Android and iOS App. Has a web interface to view your trips -  ([Demo](http://demo.traccar.org/), [Source code](https://github.com/tananaev?tab=repositories)) `Apache`
 
 
 ## Video Streaming
@@ -465,7 +465,7 @@ _Distributed filesystems_
   * [GLPI](http://www.glpi-project.org/spip.php?lang=en) - GLPI is an IT assests/resources/inventory manager ([Source code](https://forge.glpi-project.org/projects/glpi)) `GPLv2` `PHP`
   * [GRR](http://grr.devome.com/?lang=en) - Assets management and booking for small/medium companies ([demo](http://grr.devome.com/demo/week_all.php?year=2015&month=07&day=28&area=94), _administrateur/azerty_) `GPLv2` `PHP`
   * [Inventaire](https://inventaire.io/welcome) -  collaborative resources mapper project, while yet only focused on exploring books mapping with wikidata and ISBNs ([Source code](https://github.com/inventaire/inventaire)) `AGPLv3` `Nodejs`
-  * [InvoicePlane](https://invoiceplane.com/) - Manage quotes, invoices, payments and customers for your small business. ([Demo](https://demo.invoiceplane.com), [Source code](https://github.com/InvoicePlane/InvoicePlane)) - `MIT`
+  * [InvoicePlane](https://invoiceplane.com/) - Manage quotes, invoices, payments and customers for your small business. ([Demo](https://demo.invoiceplane.com), [Source code](https://github.com/InvoicePlane/InvoicePlane)) `MIT`
   * [IHateMoney](http://ihatemoney.org/) - Manage your shared expenses, easily. ([Source code](https://github.com/spiral-project/ihatemoney)) `BSD` `Python`
   * [Tryton](http://www.tryton.org/) - Core base of a complete business solution (ERP). ([Demo](http://demo.tryton.org) admin/admin, [Source code](https://hg.tryton.org)) `GPLv3` `Python`
   * [Koha](http://www.koha-community.org/) - fully featured, scalable library management system (integrated library system - ILS). ([Source code](https://github.com/Koha-Community/Koha)) `GPLv3` `Perl`
@@ -516,7 +516,7 @@ _Distributed filesystems_
   * [Infinoted](https://github.com/gobby/gobby/wiki/Dedicated%20Server) - A server for [Gobby](https://github.com/gobby/gobby/wiki), a multi-platform collaborative text editor ([Source code](https://github.com/gobby/gobby)) `MIT` `C++`
   * [Only Office](http://onlyoffice.org/) - An office suite that enables you to manage documents, projects, team and customer relations in one place. `AGPLv3`
   * [PHPOffice](http://phpoffice.github.io/) - PHPOffice contains libraries which permits to write and read files from most office suites. `LGPLv3` `PHP`
-  * [WebODF](http://webodf.org/) - Tools and libraries to view and edit Open Document Format (ODF) files.([Source code](https://github.com/kogmbh/WebODF)) `AGPLv3` `Javascript`
+  * [WebODF](http://webodf.org/) - Tools and libraries to view and edit Open Document Format (ODF) files. ([Source code](https://github.com/kogmbh/WebODF)) `AGPLv3` `Javascript`
 
 ## Password Managers
 
@@ -546,7 +546,7 @@ _Distributed filesystems_
   * [CumulusClips](http://cumulusclips.org/) - your own video sharing website with CumulusClips video sharing script. You can build a YouTube clone where users can upload, rate, comment on videos, and much more.  `GPLv2` `PHP` ([Demo](https://tube.devosi.org/))
   * [Gallery](http://galleryproject.org/) -  The simplest, most intuitive way to host your photos on your website ([Source code](https://github.com/gallery/gallery3)) `GPLv2` `PHP`
   * [Koken](http://koken.me/) - Content management and web site publishing for photographers `PHP`
-  * [Lychee](http://lychee.electerious.com/) - an open source grid and album based photo-management-system ([Source code](https://github.com/electerious/Lychee)) - `MIT` `PHP`
+  * [Lychee](http://lychee.electerious.com/) - an open source grid and album based photo-management-system ([Source code](https://github.com/electerious/Lychee)) `MIT` `PHP`
   * [MediaDrop](http://mediadrop.net/) -  A video, audio and podcast publication platform ([Source code](https://github.com/mediadrop/mediadrop)) `GPLv3` `Python`
   * [Mediagoblin](http://mediagoblin.org) -  a Free software media publishing platform that anyone can run. You can think of it as a decentralized alternative to Flickr, YouTube, SoundCloud, etc `AGPLv3` `Python`
   * [MinigalNano](https://github.com/sebsauvage/MinigalNano) - MinigalNano is a very simple image gallery. It adheres to the KISS principle and is very easy to install. MinigalNano does not have a web admin interface: You just upload your images in the photo folder on your server (using FTP, SFTP) ([Demo](http://boards.tomcanac.com/)) `CC BY-SA 3.0` `PHP`
@@ -578,7 +578,7 @@ _Distributed filesystems_
   * [Oranjeproxy](http://lehollandaisvolant.net/tout/oranjeproxy/) - Anonymizing web proxy ([Source code](https://github.com/AmauryCarrade/OranjeProxy)) `GPLv2` `PHP`
   * [Privoxy](http://www.privoxy.org) - a non-caching web proxy with advanced filtering capabilities for enhancing privacy, modifying web page data and HTTP headers, controlling access, and removing ads and other obnoxious Internet junk `GPLv2` `C`
   * [Squid](http://www.squid-cache.org/) - caching proxy for the Web supporting HTTP, HTTPS, FTP, and more. It reduces bandwidth and improves response times by caching and reusing frequently-requested web pages. ([Source code](http://bazaar.launchpad.net/~squid/squid/3-trunk/files)) `GPLv2` `C`
-  * [Swiperproxy](https://swiperproxy.github.io/) - A lightning-fast, open source web proxy that is easy for you to run and customize. ([Source code](https://github.com/swiperproxy/swiperproxy), [Demo](http://proxy.donttrustrobots.nl/)) - `MIT`
+  * [Swiperproxy](https://swiperproxy.github.io/) - A lightning-fast, open source web proxy that is easy for you to run and customize. ([Source code](https://github.com/swiperproxy/swiperproxy), [Demo](http://proxy.donttrustrobots.nl/)) `MIT`
   * [Tinyproxy](https://banu.com/tinyproxy/) - light-weight HTTP/HTTPS proxy daemon ([Source code](https://git.banu.com/tinyproxy/)) `GPLv2` `C`
 
 ## Read it Later Lists
@@ -626,7 +626,7 @@ See also [Ticketing](#ticketing), [Task management/To-do lists](#task-management
   * [Flyspray](http://www.flyspray.org/) - uncomplicated, web-based bug tracking system ([Source code](https://github.com/Flyspray/flyspray)) `GPLv2`
   * [Gaskit](https://github.com/bkeepers/gaskit) - a git-backed issue tracker. It uses a branch in your local git database to store the tickets. `GPL`
   * [HuBoard](https://github.com/rauhryan/huboard) `⚠ ` – Instant project management for your GitHub issues (Connects directly GitHub API) `MIT` `Ruby`
-  * [MantisBT](https://www.mantisbt.org/) - Self hosted bug tracker, fits best for software development - ([Demo](https://www.mantisbt.org/bugs/my_view_page.php)) -  ([Source code](https://github.com/mantisbt/mantisbt)) - `GPLv2`
+  * [MantisBT](https://www.mantisbt.org/) - Self hosted bug tracker, fits best for software development - ([Demo](https://www.mantisbt.org/bugs/my_view_page.php)) -  ([Source code](https://github.com/mantisbt/mantisbt)) `GPLv2`
   * [TheBugGenie](http://www.thebuggenie.com) - Ticket system with extensive user rights system.
 
 
@@ -691,7 +691,7 @@ See https://staticsitegenerators.net and https://www.staticgen.com
   * [Lstu](https://github.com/ldidry/lstu) - _Let's SHorten That Url_ - Lightweight URL shortener
   * [Nimbus](https://github.com/ethanal/nimbus) - A URL shortener and file sharer with a drag-and-drop OS X menu bar client and web interface  - `MIT` `Python`
   * [Polr](http://project.polr.me/) - A modern, minimalist, modular, and lightweight URL shortener ([Source code](https://github.com/Cydrobolt/polr))
-  * [YOURLS](http://yourls.org/) - YOURLS is a set of PHP scripts that will allow you to run Your Own URL Shortener. Features include password protection, URL customization, bookmarklets, statistics, API, plugins, jsonp ([Source code](https://github.com/YOURLS/YOURLS/), [Documentation](https://github.com/YOURLS/YOURLS/wiki)) - `MIT`
+  * [YOURLS](http://yourls.org/) - YOURLS is a set of PHP scripts that will allow you to run Your Own URL Shortener. Features include password protection, URL customization, bookmarklets, statistics, API, plugins, jsonp ([Source code](https://github.com/YOURLS/YOURLS/), [Documentation](https://github.com/YOURLS/YOURLS/wiki)) `MIT`
 
 ## VPN
 
@@ -736,7 +736,7 @@ See also [Documentation Generators](#documentation-generators), [Wikimatrix](htt
   * [Piratebox](http://piratebox.cc/start) - A DIY anonymous offline file-sharing and communications system built with free software and inexpensive off-the-shelf hardware. ([Source code](https://github.com/PirateBox-Dev)). `GPLv3` `Python/Other`
   * [Sandstorm](https://sandstorm.io/) - Personal server for running self-hosted apps easily and securely. ([Demo](https://demo.sandstorm.io/), [Source code](https://github.com/sandstorm-io/sandstorm)) `Apache` `C++/Other`
   * [sovereign](https://github.com/sovereign/sovereign) -  A set of Ansible playbooks to build and maintain your own private cloud: email, calendar, contacts, file sync, IRC bouncer, VPN, and more. `GPLv3` `YAML/Other`
-  * [yunohost](https://yunohost.org/) - a server operating system aiming to make self-hosting accessible to everyone. ([Source code](https://github.com/YunoHost)) - `AGPL` `Python/Other`
+  * [yunohost](https://yunohost.org/) - a server operating system aiming to make self-hosting accessible to everyone. ([Source code](https://github.com/YunoHost)) `AGPL` `Python/Other`
 
 
 -------------------------------------------------------
