@@ -197,6 +197,7 @@ Some [Groupware](#groupware) solutions also feature calendar/address book editin
 * [Kaiwa](http://getkaiwa.com/) - Web based chat client in the style of common paid alternatives. ([Source code](https://github.com/digicoop/kaiwa))
 * [Kontalk](http://kontalk.org/) – Kontalk is an Open Source Messenger, similiar to WhatsApp (app for android only currently), including end-to-end encryption, server is based on Tigase XMPP Server - ([Source code](https://github.com/kontalk)) `GPLv3`
 * [Lets-Chat](http://sdelements.github.io/lets-chat/) - A self hosted chat suite written in Node.
+* [Mattermost](https://github.com/mattermost/platform) - Open-source, on-prem Slack-alternative. It can be integrated with [Gitlab](https://about.gitlab.com/). `AGPLv3` `Apache v2` `Go` `Javascript`
 * [Salut à Toi](http://www.salut-a-toi.org/) - Multipurpose, multi frontend, libre and decentralised communication tool. ([Source code](http://repos.goffi.org/sat)) `AGPLv3` `Python`
   * [Libervia](http://wiki.goffi.org/wiki/Libervia/en) - Web frontend from Salut à Toi ([Source code](http://repos.goffi.org/libervia)) `AGPLv3` `Python`
 
