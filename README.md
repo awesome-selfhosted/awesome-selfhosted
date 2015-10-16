@@ -227,7 +227,7 @@ Some [Groupware](#groupware) solutions also feature calendar/address book editin
   * [Jitsi Video Bridge](https://jitsi.org/Projects/JitsiVideobridge) - WebRTC compatible Selective Forwarding Unit (SFU) that allows for multiuser video communication. `Apache` `Java`
   * [Kandan](http://getkandan.com/) – Kandan is an Open Source Alternative to HipChat. - `AGPL`
   * [Let's Chat](https://sdelements.github.io/lets-chat/) - A persistent messaging application that runs on Node.js and MongoDB. `MIT` `Nodejs`
-  * [Mattermost](https://github.com/mattermost/platform) - Open-source, on-prem Slack-alternative. It can be integrated with [Gitlab](https://about.gitlab.com/). `AGPLv3/Apache 2.0` `Go/Javascript`
+  * [Mattermost](http://mattermost.org/) - Open-source, on-prem Slack-alternative. It can be integrated with [Gitlab](https://about.gitlab.com/). ([Source code](https://github.com/mattermost/platform)) `AGPLv3/Apache 2.0` `Go`
   * [Mumble](http://wiki.mumble.info/wiki/Main_Page) - low-latency, high quality voice/text chat software `BSD` `C++`
   * [Node-Chat](https://github.com/IgorAntun/node-chat) - A not-so-basic open-source chat with admin features. - `MIT` `Nodejs`
   * [RetroShare](http://retroshare.org) - Secured and decentralized communication system. Offers decentralized chat, forums, messaging, file transfer. ([Source code](https://github.com/RetroShare/RetroShare)) `GPLv2` `С++`
