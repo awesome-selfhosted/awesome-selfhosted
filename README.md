@@ -779,7 +779,6 @@ See also [Documentation Generators](#documentation-generators), [Wikimatrix](htt
  * Non-[Free](https://en.wikipedia.org/wiki/Free_software) software must be marked `⊘ Proprietary` next to the title, and added to [non-free.md](non-free.md)
  * Software with no development activity for 6-12 months may be removed from the list.
  * The syntax for links is ``[Name](http://homepage/) - Short description ([Demo](http://url.to/demo), [Source code](http://url.of/source/code)) `License` `Language` ``
- * License and programming language should be written as AGPLv3/Apache 2.0 Go/Javascript
  * Please limit the short description of the project to **250 characters**.
  * The list of contributors can be updated with `git shortlog -sne`
 
