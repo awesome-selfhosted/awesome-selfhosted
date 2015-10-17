@@ -1,6 +1,6 @@
 # Awesome Selfhosted - Proprietary Software
 
-**Software listed here does not allow you to run it for any purpose, study, modify or distribute the source code.** Some of the software here may not be audited due to it's closed source nature, and can therefore contain anti-features, such as but not limited to: undisclosed security vulnerabilties, backdoors, sending personal data to a third party.
+**Software listed here does not allow you to run it for any purpose, study, modify or distribute the source code.** Some of the software here may not be audited due to it's closed source nature, and can therefore contain anti-features, such as but not limited to: undisclosed security vulnerabilties, backdoors, user lock-in, sending personal data to a third party.
 
 
 ## Analytics
@@ -23,6 +23,7 @@
 ## File Sharing and Synchronization
 
   * [Bittorrent Sync](https://www.getsync.com/) `⊘ Proprietary` - BitTorrent Sync by BitTorrent, Inc is a proprietary peer-to-peer file synchronisation tool.
+  * [Drive Virtual](http://www.drivevirtual.com/) `⊘ Proprietary` - With Drive Virtual you can sync, backup and share your files privately with your own FTP (SFTP) server or account.
 
 ## Media Streaming
 
@@ -31,7 +32,6 @@
 ## Money, Budgeting and Management
 
   * [FusionInvoice](https://www.fusioninvoice.com) `⊘ Proprietary` - FusionInvoice is an invoicing system for freelancers and small businesses. `PHP`
-  * [IHateMoney](http://ihatemoney.org/) `⊘ Proprietary` - Manage your shared expenses, easily.
   * [Pancake](http://pancakeapp.com/) `⊘ Proprietary` - Online invoicing, project management, time tracking and proposal software. `PHP`
 
 
@@ -40,9 +40,13 @@
   * [ArtVenue](http://codecanyon.net/item/artvenue-image-sharing-community-script/5771542) - `⊘ Proprietary` Start your own photography community website, platform based on the Laravel PHP Framework. ([Demo](http://codecanyon.net/item/artvenue-image-sharing-community-script/full_screen_preview/5771542)) `PHP`
   * [Single File PHP Gallery](http://sye.dk/sfpg/) - `⊘ Proprietary` is a web gallery in one single PHP file. `PHP` 
 
+## Self-hosting Solutions
+  * [Axigen](https://www.axigen.com/mail-server/free/) - `⊘ Proprietary` Great alternative to open source. It's a turnkey messaging solution, perfect for small & micro businesses, integration projects or test environments.
 
 ## Software Developement
 
+  * [92five](http://92fiveapp.com/) `⊘ Proprietary` - Self hosted project management application ([Source code](https://github.com/chintanbanugaria/92five)) `CC BY-NC 4.0` `PHP`
+  * [Cloud9](https://c9.io/) `⊘ Proprietary` - Your development environment, in the cloud ([Source code](https://github.com/c9/core)) `Nodejs`
   * [Confluence](https://www.atlassian.com/software/confluence) `⊘ Proprietary` - A team collaboration software `Java`
   * [Crucible](https://www.atlassian.com/software/crucible/overview) `⊘ Proprietary` - A peer code review application `Java`
   * [Stash](https://www.atlassian.com/software/stash) `⊘ Proprietary` - An enterprise-level Git solution similar to GitLab `Java`
