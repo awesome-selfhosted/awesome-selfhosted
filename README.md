@@ -207,7 +207,7 @@ Table of Contents
   * [Weechat](https://weechat.org/) - a fast, light and extensible chat client `GPLv3` `C`
   * [ZNC](http://wiki.znc.in/ZNC) - An advanced IRC bouncer `Apache` `C++`
 
- ### SIP
+### SIP
 
 *[SIP](https://en.wikipedia.org/wiki/Session_Initiation_Protocol) telephony software*
 
