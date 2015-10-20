@@ -202,6 +202,7 @@ Table of Contents
 *[IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat) communication software*
 
   * [Convos](http://convos.by/) - Always online web IRC client ([Demo](http://demo.convos.by), [Source code](http://github.com/nordaaker/convos)) `ARTv2` `Perl`
+  * [ngIRCd](http://ngircd.barton.de/) - Lightweight IRC daemon with all major features, designed for small hosted groups, [Source Code](https://github.com/ngircd/ngircd) `GPLv2` `C`
   * [Quassel IRC](http://quassel-irc.org/) - distributed IRC client, meaning that one (or multiple) client(s) can attach to and detach from a central core ([Source code](https://github.com/quassel/quassel)) `GPLv2` `C++`
   * [Shout](http://shout-irc.com/) - The self-hosted web IRC client ([Demo](http://demo.shout-irc.com/), [Source code](https://github.com/erming/shout)) `MIT` `Nodejs`
   * [Weechat](https://weechat.org/) - a fast, light and extensible chat client `GPLv3` `C`
