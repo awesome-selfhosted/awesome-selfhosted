@@ -287,7 +287,7 @@ CMS are a practical way to setup a website with many features. CMS often come wi
   * [Joomla!](http://www.joomla.fr/) - Advanced Content Management System (CMS) `GPL`
   * [KeystoneJS](http://keystonejs.com/) - Node.js CMS & Web Application Platform ([Demo](http://demo.keystonejs.com/), [Source Code](https://github.com/keystonejs/keystone)) `MIT` `Node.js`
   * [MODX](http://modx.com/) - MODX is an advanced content management and publishing platform. The current version is called 'Revolution'. ([Source Code](https://github.com/modxcms/revolution)) `GPLv2` `PHP`
-  * [Neos](https://www.neos.io) - Neos or TYPO3 Neos (for version 1) is a modern, open source MCS based on the Flow framework. ([License](http://typo3.org/index.php?id=782)) `TYPO3 CLA` `PHP`
+  * [Neos](https://www.neos.io) - Neos or TYPO3 Neos (for version 1) is a modern, open source CMS based on the Flow framework. ([Source Code](https://git.typo3.org/Packages/TYPO3.Neos.git)) `GPLv3` `PHP`
   * [october](http://octobercms.com/) - Free, open-source, self-hosted CMS platform based on the Laravel PHP Framework. ([Source code](https://github.com/octobercms/october)) `MIT`
   * [Pagekit](http://pagekit.com/) - A new modern CMS to create and share ([Source code](https://github.com/pagekit/pagekit)) `MIT`
   * [Pico](http://picocms.org/) - A stupidly simple, blazing fast, flat file CMS. ([Source code](https://github.com/gilbitron/Pico)) `MIT`
@@ -295,7 +295,7 @@ CMS are a practical way to setup a website with many features. CMS often come wi
   * [Redaxscript](http:/redaxscript.com) - Ultra lightweight CMS for MySQL, SQLite and PostgreSQL ([Demo](http://demo.redaxscript.com/demo/login), [Source Code](https://github.com/redaxmedia/redaxscript)) `GPLv3` `PHP`
   * [SilverStripe](https://www.silverstripe.org) - easy to use CMS with powerful MVC framework underlying. ([Demo](http://demo.silverstripe.org/), [Source code](https://github.com/silverstripe)) `BSD` `PHP`
   * [SPIP](http://www.spip.net/fr) - Publication system for the Internet.
-  * [TYPO3](http://typo3.org/) - A powerful and advanced CMS with a large community. ([License](http://typo3.org/index.php?id=782)) `GPLv2` `PHP`
+  * [TYPO3](http://typo3.org/) - A powerful and advanced CMS with a large community. ([Source Code](https://github.com/TYPO3/TYPO3.CMS)) `GPLv2` `PHP`
   * [Wordpress](https://wordpress.org/) - The worlds most-used blogging and CMS engine. ([Source code mirror](https://github.com/WordPress/WordPress)) `GPLv2`
 
 
