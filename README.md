@@ -601,17 +601,21 @@ _Distributed filesystems_
 See also [Ticketing](#ticketing), [Task management/To-do lists](#task-managementto-do-lists) and [Bug Trackers](#bug-trackers)*
 
   * [Apache Bloodhound](https://bloodhound.apache.org/) - Manage software products, Keep track of features, tasks and bugs `Apache` `Python`
+  * [Bonobo](https://bonobogitserver.com/) - An open-source, pure Java stack for managing, viewing, and serving Git repositories. ([Source code](https://github.com/jakubgarfield/Bonobo-Git-Server)) `MIT` `C#`
   * [CaseBox](https://www.casebox.org) - Manage all your organisation's information in one system.
   * [ChiliProject](https://www.chiliproject.org) - Fork of Redmine.
   * [Fossil](https://www.fossil-scm.org/index.html/doc/trunk/www/index.wiki)  - Distributed version control system featuring wiki and bug tracker - `BSD` `C`
+  * [Gitblit](http://gitblit.com/) - An open-source, pure Java stack for managing, viewing, and serving Git repositories. ([Source code](https://github.com/gitblit/gitblit)) `Apache` `Java`
   * [gitbucket](http://takezoe.github.io/gitbucket/) - The easily installable GitHub clone powered by Scala - ([Source code](https://github.com/takezoe/gitbucket))
   * [GitLab](http://gitlab.org/) - Self Hosted Git Management Application - GitLab is open source software to collaborate on code. Manage git repositories with fine grained access controls that keep your code secure. Perform code reviews and enhance collaboration with merge requests. Each project can also have an issue tracker and a wiki ([Public instance](https://git.framasoft.org/))
   * [Gitlist](http://gitlist.org/) - A web-based git repository browser - GitList allows you to browse repositories using your favorite browser, viewing files under different revisions, commit history and diffs. ([Source code](https://github.com/klaussilveira/gitlist))
-  * [Gitprep](http://gitprep.org/) - Portable Github clone ([Source code](https://github.com/yuki-kimoto/gitprep), [Demo](http://perlcodesample.sakura.ne.jp/gitprep.cgi))
+  * [GitPrep](http://perlcodesample.sakura.ne.jp/gitprep-site/) - GitPrep is Github clone. you can install portable github system into unix/linux. You can create users and repositories without limitation. This is free software. ([Demo](http://perlcodesample.sakura.ne.jp/gitprep/gitprep.cgi), [Source code](https://github.com/yuki-kimoto/gitprep)) `Other` `Perl`
   * [Gogs](https://github.com/gogits/gogs) - a painless self-hosted Git Service written in Go. ([Demo](https://try.gogs.io/))
+  * [Kallithea](https://kallithea-scm.org/) - Source code management system that supports two leading version control systems ([Demo](https://kallithea-scm.org/repos/), [Source code](https://kallithea-scm.org/repos/kallithea)) `GPLv3` `Python`
   * [OpenProject](https://www.openproject.org) - Project collaboration.
   * [Phabricator](http://phabricator.org/) - Collection of web applications that help build better software. ([Source code](https://github.com/phacility/phabricator), [Demo](https://secure.phabricator.com/)) `Apache` `PHP`
   * [Redmine](http://www.redmine.org/) - Redmine is a flexible project management web application `Ruby` `GPLv2`
+  * [SCM Manager](https://www.scm-manager.org/) - The easiest way to share and manage your Git, Mercurial and Subversion repositories over http ([Source code](https://bitbucket.org/sdorra/scm-manager/)) `Other` `Java`
   * [Taiga](https://taiga.io/) - Agile Project Management Tool based on the Kanban and Scrum methods.  ([Source code](https://github.com/taigaio))
   * [The Bug Genie](http://www.thebuggenie.com/) - Written in PHP.
   * [Trac](http://trac.edgewall.org/) - Written in python.
