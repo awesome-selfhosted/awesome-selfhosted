@@ -135,6 +135,7 @@ Some [Groupware](#groupware) solutions also feature calendar/address book editin
   * [DAViCal](http://www.davical.org/) - a server for calendar sharing (CalDAV)
   * [Radicale](http://radicale.org/) - A Simple Calendar and Contact Server
   * [sabre/dav](http://sabre.io/) -  A open source CardDAV, CalDAV and WebDAV server.
+  * [ownCloud calendar](https://doc.owncloud.org/server/7.0/user_manual/pim/calendar.html) - The ownCloud Calendar app enables you to create and edit events, synchronize to other calendars you might use, and create new, personalized calendars. ([Source code](https://github.com/owncloud/calendar)) `AGPLv3` `PHP`
 
 ## Communication systems
 
@@ -357,7 +358,6 @@ Some [Groupware](#groupware) solutions also feature file sharing and synchroniza
 _Web based file managers_
 
   * [eXtplorer](http://extplorer.sourceforge.net/) - A PHP- and JavaScript- based File Manager
-  * [Pydio](https://pyd.io/) - Turn any web server into a powerful file management system and an alternative to mainstream cloud storage providers.
   * [h5ai](https://larsjung.de/h5ai/) - modern file indexer for HTTP web servers with focus on your files. Directories are displayed in a appealing way and browsing them is enhanced by different views, a breadcrumb and a tree overview. ([Source code](https://github.com/lrsjng/h5ai), [Demo](https://larsjung.de/h5ai/demo/)) `MIT` `PHP/Javascript`
 
 
@@ -369,6 +369,8 @@ _File synchronization_
   * [Syncany](https://www.syncany.org/) - Secure file sync software for arbitrary storage backends - An open-source cloud storage and filesharing application. Securely synchronize your files to any kind of storage! `GPLv3` `Java`
   * [Syncthing](http://syncthing.net/) - Syncthing is an open source peer-to-peer file synchronisation tool ([Source code](https://github.com/syncthing/syncthing)) `MPLv2` `Go`
   * [Z-Push](https://z-push.org/) - an implementation of Microsoft’s [ActiveSync](https://en.wikipedia.org/wiki/ActiveSync) protocol
+  * [ownCloud](https://owncloud.org/) - All-in-one solution for saving, synchronizing, viewing, editing and sharing files, calendars, address books and more - `AGPLv3` `PHP`
+  * [Pydio](https://pyd.io/) - Turn any web server into a powerful file management system and an alternative to mainstream cloud storage providers.
 
 
 _Single-click/drag-n-drop upload_
@@ -424,7 +426,6 @@ _Distributed filesystems_
   * [Horde](http://www.horde.org/) - The Horde Project is about creating high quality Open Source applications and libraries, based on PHP and the Horde Framework. - `GPL`
   * [Kolab](https://kolab.org/) - Kolab community is a unified communication and collaboration system - `Various FLOSS Licenses` ([Source](http://git.kolab.org/))
   * [Openmeetings](https://openmeetings.apache.org/index.html) - ([Source code](https://svn.apache.org/viewvc/openmeetings/trunk/singlewebapp)) -  Openmeetings provides video conferencing, instant messaging, white board, collaborative document editing and other groupware tools using API functions of the Red5 Streaming Server for Remoting and Streaming. `Apache 2.0`  `Java`
-  * [ownCloud](https://owncloud.org/) - All-in-one solution for saving, synchronizing, viewing, editing and sharing files, calendars, address books and more - `AGPLv3` `PHP`
   * [Sogo](http://www.sogo.nu/) - SOGo offers multiple ways to access the calendaring and messaging data. CalDAV, CardDAV, GroupDAV, as well as ActiveSync, including native Outlook compatibility and web interface. ([Demo](http://www.sogo.nu/tour/online_demo.html), [Source Code](http://www.sogo.nu/development/source_code.html)) `GPLv1/LGPLv2` `Objective-C`
   * [Tine 2.0org](https://www.tine20.org) - Contacts, Calendar, Tasks, WebDAV, ActiveSync, VOIP, Mail-Client, CRM, Sales, Projects, Timetracker -  ([Demo](https://demo.tine20.net)) `AGPLv3`
   * [Zimbra Collaboration](https://www.zimbra.com/downloads/) - Email, calendar, collaboration server with web interface and lots of integrations.  ([Source code]( https://www.zimbra.com/open-source)) `GPLv2/CPALv1` `Java`
@@ -518,6 +519,7 @@ _Distributed filesystems_
   * [Only Office](http://onlyoffice.org/) - An office suite that enables you to manage documents, projects, team and customer relations in one place. `AGPLv3`
   * [PHPOffice](http://phpoffice.github.io/) - PHPOffice contains libraries which permits to write and read files from most office suites. `LGPLv3` `PHP`
   * [WebODF](http://webodf.org/) - Tools and libraries to view and edit Open Document Format (ODF) files. ([Source code](https://github.com/kogmbh/WebODF)) `AGPLv3` `Javascript`
+  * [ownCloud documents](https://doc.owncloud.org/server/8.2/user_manual/documents.html) - collaborative editing and sharing of rich-text documents ([Source code](https://github.com/owncloud/documents)) `AGPLv3` `PHP`
 
 ## Password Managers
 
