@@ -771,8 +771,7 @@ See also [Documentation Generators](#documentation-generators), [Wikimatrix](htt
 ## External links
 
  * [Awesome Sysadmin](https://github.com/n1trux/awesome-sysadmin) -  A curated list of amazingly awesome open source sysadmin resources.
- * [PRISM Break](https://prism-break.org/en/) - Mobile, computer & server privacy-minded applications
- * [privacytools.io](https://www.privacytools.io/) - Knowledge and tools to protect your privacy against global mass surveillance.
+ * [PRISM Break](https://prism-break.org/en/), [privacytools.io](https://www.privacytools.io/) -  Mobile, computer & server privacy-conscious applications.
  * Dynamic Domain Name services: [Afraid.org](https://freedns.afraid.org/domain/registry/), [Pagekite](https://pagekite.net/)
  * Communities: [/r/selfhosted](https://www.reddit.com/r/selfhosted), [Auto-Hébergement (FR)](http://www.auto-hebergement.fr/)
 
@@ -781,12 +780,12 @@ See also [Documentation Generators](#documentation-generators), [Wikimatrix](htt
 ## Contributing
 
  * You can help by sending Pull Requests to add more services. See [Editing files](https://help.github.com/articles/editing-files-in-another-user-s-repository/), [Creating Pull Requests](https://help.github.com/articles/creating-a-pull-request/), [Using Pull Requests](https://help.github.com/articles/using-pull-requests/)
- * Sections should be ordered alphabetically, lines inside sections should be ordered alphabetically.
- * All projects should have their license and main programming language referenced.
  * Non-[Free](https://en.wikipedia.org/wiki/Free_software) software must be marked `⊘ Proprietary` next to the title, and added to [non-free.md](non-free.md)
- * Software with no development activity for 6-12 months may be removed from the list.
- * The syntax for links is ``[Name](http://homepage/) - Short description ([Demo](http://url.to/demo), [Source code](http://url.of/source/code)) `License` `Language` ``
+ * [This form](https://joubertredrat.github.io/awesome-selfhosted-form/) will help you formatting your new software entry. The syntax for links is ``[Name](http://homepage/) - Short description ([Demo](http://url.to/demo), [Source code](http://url.of/source/code)) `License` `Language` ``
+ * All projects should have their license and main programming language/platform referenced.
  * Please limit the short description of the project to **250 characters**.
+ * Software with no development activity for 6-12 months may be removed from the list.
+ * Sections should be ordered alphabetically, lines inside sections should be ordered alphabetically.
  * The list of contributors can be updated with `git shortlog -sne`
 
 ## License
