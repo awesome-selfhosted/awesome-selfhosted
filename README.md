@@ -453,6 +453,7 @@ _Distributed filesystems_
   * [ReadyMedia](http://sourceforge.net/projects/minidlna/) - a simple media server software, with the aim of being fully compliant with DLNA/UPnP-AV clients `GPLv2` `C`
   * [Rygel](https://wiki.gnome.org/action/show/Projects/Rygel) - Rygel is a home media solution (UPnP AV MediaServer) that allows you to easily share audio, video and pictures to other devices. Additionally, media player software may use Rygel to become a MediaRenderer that may be controlled remotely by a UPnP or DLNA Controller. `GPLv3` `C`
   * [Streama](https://github.com/dularion/streama) - Self-hosted Netflix alternative. - `MIT` `Java`
+  * [Zoneminder](https://github.com/ZoneMinder/ZoneMinder) -ZoneMinder is a free, open source Closed-circuit television software application developed for Linux which supports IP, USB and Analog cameras `GPLv2` `php`
 
 ## Mind Maps
 
