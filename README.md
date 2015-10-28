@@ -120,8 +120,8 @@ See also [Static Site Generators](#static-site-generators) and  [Content Managem
   * [Pinry](http://getpinry.com/) - The tiling image board system for people who want to save, tag, and share images, videos, and webpages. ([Source code](https://github.com/pinry/pinry))
   * [Scuttle](https://github.com/scronide/scuttle) -  Web-based social bookmarking system. Allows multiple users to store, share and tag their favourite links `GPLv2` `PHP`
   * [Shaarli](https://github.com/shaarli/Shaarli) - Personal, minimalist, super-fast, no-database bookmarking and link sharing plaform. ([Demo](http://shaarlidemo.tuxfamily.org/Shaarli) `demo/demo`)
-  * [SemanticScuttle] (http://semanticscuttle.sourceforge.net/) - Self-hosted and web-based social bookmark manager ([Demo](http://semanticscuttle.sourceforge.net/demo/))  ([Source code](http://sourceforge.net/p/semanticscuttle/code/ci/master/tree/)) `GPL` `PHP`
-  * [unmark](https://github.com/plainmade/unmark) - An open source to do app for link
+  * [SemanticScuttle](http://semanticscuttle.sourceforge.net/) - Self-hosted and web-based social bookmark manager ([Demo](http://semanticscuttle.sourceforge.net/demo/)) ([Source code](http://sourceforge.net/p/semanticscuttle/code/ci/master/tree/)) `GPL` `PHP`
+  * [unmark](https://github.com/plainmade/unmark) - An open source to do app for links
 
 
 ## Calendar and Address Books
