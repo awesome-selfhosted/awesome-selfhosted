@@ -92,9 +92,8 @@ _Web Analytics_
 
 ## Blogging Platforms
 
-See also [Static Site Generators](#static-site-generators) and  [Content Management Systems](#content-management-systems-cms)
+See also [Static Site Generators](#static-site-generators), [Content Management Systems](#content-management-systems-cms) and [WeblogMatrix](http://www.weblogmatrix.org/)
 
-  * **[WeblogMatrix](http://www.weblogmatrix.org/) - Blogging platforms comparator**
   * [Anchor CMS](http://anchorcms.com/) -  Anchor is a free, lightweight, faster-than-a-bullet, simple blogging system, made for art–directed posts. ([Source code](https://github.com/anchorcms/anchor-cms)) `GPLv3` `PHP`
   * [Antville](https://antville.org) - Antville is a free, open source project aimed at the development of a high performance, feature rich weblog hosting software. ([Source code](https://github.com/antville/antville)) `Apache` `JavaScript`
   * [Blogotext](http://lehollandaisvolant.net/blogotext/en/) - a free blog-engine written in PHP and using SQLite. This offers you both an unmatched simplicity during installation and great performances. ([Source code](https://github.com/timovn/blogotext)) `MIT` `PHP`
