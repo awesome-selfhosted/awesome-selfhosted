@@ -89,6 +89,7 @@ _Web Analytics_
 
   * [Huginn](https://github.com/cantino/huginn) - Allows you to build agents that monitor and act on your behalf. Built in Ruby - `MIT` `Ruby`
   * [Http2pic](https://http2pic.haschek.at/) - website screenshots/renderer. It uses the wkhtmltox to render websites with various options. ([Source code](https://github.com/chrisiaut/http2pic)) `Apache 2.0` `PHP/Javascript`
+  * [RSS-Bridge](https://github.com/sebsauvage/rss-bridge) - rss-bridge is a PHP project capable of generating ATOM feeds for websites which don't have one. `Public domain` `PHP`
 
 ## Blogging Platforms
 
