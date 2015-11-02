@@ -359,6 +359,7 @@ Some [Groupware](#groupware) solutions also feature file sharing and synchroniza
 
 _Web based file managers_
 
+  * [Apaxy](http://adamwhitcroft.com/apaxy/) - Theme built to enhance the experience of browsing web directories, using the mod_autoindex Apache module and some CSS to override the default style of a directory listing. ([Source code](https://github.com/AdamWhitcroft/Apaxy) `Public domain` `CSS`
   * [eXtplorer](http://extplorer.sourceforge.net/) - A PHP- and JavaScript- based File Manager
   * [h5ai](https://larsjung.de/h5ai/) - modern file indexer for HTTP web servers with focus on your files. Directories are displayed in a appealing way and browsing them is enhanced by different views, a breadcrumb and a tree overview. ([Source code](https://github.com/lrsjng/h5ai), [Demo](https://larsjung.de/h5ai/demo/)) `MIT` `PHP/Javascript`
 
