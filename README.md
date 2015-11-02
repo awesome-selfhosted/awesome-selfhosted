@@ -9,66 +9,75 @@ This is a list of [Free](https://en.wikipedia.org/wiki/Free_software) Software [
 Table of Contents
 =================
 
-<!-- MarkdownTOC depth=3 -->
+  - [Analytics](#analytics)
+  - [Automation](#automation)
+  - [Blogging Platforms](#blogging-platforms)
+  - [Bookmarks & Link Sharing](#bookmarks--link-sharing)
+  - [Calendar and Address Books](#calendar-and-address-books)
+  - [Communication systems](#communication-systems)
+    - [Email](#email)
+      - [Webmail clients](#webmail-clients)
+      - [Mail Transfer Agents](#mail-transfer-agents)
+      - [Mail Delivery Agents](#mail-delivery-agents)
+      - [Complete solutions](#complete-solutions)
+    - [XMPP](#xmpp)
+      - [XMPP Servers](#xmpp-servers)
+      - [XMPP Web Clients](#xmpp-web-clients)
+    - [SIP](#sip)
+    - [IRC](#irc)
+    - [Custom](#custom)
+    - [Social Networks and Forums](#social-networks-and-forums)
+  - [Content Management Systems (CMS)](#content-management-systems-cms)
+    - [E-commerce](#e-commerce)
+  - [Federated Identity/Authentication](#federated-identityauthentication)
+  - [Feed Readers](#feed-readers)
+  - [File Sharing and Synchronization](#file-sharing-and-synchronization)
+      - [Web based file managers](#web-based-file-managers)
+      - [File synchronization](#file-synchronization)
+      - [Single-click/drag-n-drop upload](#single-clickdrag-n-drop-upload)
+      - [Peer-to-peer filesharing](#peer-to-peer-filesharing)
+      - [Distributed filesystems](#distributed-filesystems)
+  - [Games](#games)
+  - [Gateways](#gateways)
+  - [Groupware](#groupware)
+  - [Learning and Courses](#learning-and-courses)
+  - [Maps & GPS](#maps--gps)
+  - [Video Streaming](#video-streaming)
+  - [Mind Maps](#mind-maps)
+  - [Money, Budgeting and Management](#money-budgeting-and-management)
+  - [Monitoring and Administration](#monitoring-and-administration)
+  - [Music Streaming](#music-streaming)
+  - [Note-taking & Editors](#note-taking--editors)
+  - [Office Suites](#office-suites)
+  - [Password Managers](#password-managers)
+  - [Pastebins](#pastebins)
+  - [Personal Dashboards](#personal-dashboards)
+  - [Photo and Video Galleries](#photo-and-video-galleries)
+  - [Polls and Events](#polls-and-events)
+  - [Proxy](#proxy)
+  - [Read it Later Lists](#read-it-later-lists)
+  - [Search Engines](#search-engines)
+  - [Software Development](#software-development)
+    - [Project Management](#project-management)
+    - [Bug Trackers](#bug-trackers)
+    - [IDE/Tools](#idetools)
+    - [Continuous Integration](#continuous-integration)
+    - [Documentation Generators](#documentation-generators)
+  - [Static site generators](#static-site-generators)
+  - [Task management/To-do lists](#task-managementto-do-lists)
+  - [Ticketing](#ticketing)
+  - [URL Shorteners](#url-shorteners)
+  - [VPN](#vpn)
+  - [Web servers](#web-servers)
+  - [Wikis](#wikis)
+  - [Self-hosting Solutions](#self-hosting-solutions)
+  - [List of Licenses](#list-of-licenses)
+  - [External links](#external-links)
+  - [Contributing](#contributing)
+  - [License](#license)
 
-- [Analytics](#analytics)
-- [Automation](#automation)
-- [Blogging Platforms](#blogging-platforms)
-- [Bookmarks & Link Sharing](#bookmarks--link-sharing)
-- [Calendar and Address Books](#calendar-and-address-books)
-- [Communication systems](#communication-systems)
-  - [Email](#email)
-  - [XMPP](#xmpp)
-  - [SIP](#sip)
-  - [IRC](#irc)
-  - [Custom](#custom)
-  - [Social Networks and Forums](#social-networks-and-forums)
-- [Content Management Systems (CMS)](#content-management-systems-cms)
-  - [E-commerce](#e-commerce)
-- [Federated Identity/Authentication](#federated-identityauthentication)
-- [Feed Readers](#feed-readers)
-- [File Sharing and Synchronization](#file-sharing-and-synchronization)
-- [Games](#games)
-- [Gateways](#gateways)
-- [Groupware](#groupware)
-- [Learning and Courses](#learning-and-courses)
-- [Maps & GPS](#maps--gps)
-- [Video Streaming](#video-streaming)
-- [Mind Maps](#mind-maps)
-- [Money, Budgeting and Management](#money-budgeting-and-management)
-- [Monitoring and Administration](#monitoring-and-administration)
-- [Music Streaming](#music-streaming)
-- [Note-taking & Editors](#note-taking--editors)
-- [Office Suites](#office-suites)
-- [Password Managers](#password-managers)
-- [Pastebins](#pastebins)
-- [Personal Dashboards](#personal-dashboards)
-- [Photo and Video Galleries](#photo-and-video-galleries)
-- [Polls and Events](#polls-and-events)
-- [Proxy](#proxy)
-- [Read it Later Lists](#read-it-later-lists)
-- [Search Engines](#search-engines)
-- [Software Development](#software-development)
-  - [Project Management](#project-management)
-  - [Bug Trackers](#bug-trackers)
-  - [IDE/Tools](#idetools)
-  - [Continuous Integration](#continuous-integration)
-  - [Documentation Generators](#documentation-generators)
-- [Static site generators](#static-site-generators)
-- [Task management/To-do lists](#task-managementto-do-lists)
-- [Ticketing](#ticketing)
-- [URL Shorteners](#url-shorteners)
-- [VPN](#vpn)
-- [Web servers](#web-servers)
-- [Wikis](#wikis)
-- [Self-hosting Solutions](#self-hosting-solutions)
-- [List of Licenses](#list-of-licenses)
-- [External links](#external-links)
-- [Contributing](#contributing)
-- [License](#license)
 
-<!-- /MarkdownTOC -->
-
+-----------------------------------------------------------------------------
 
 ## Analytics
 
@@ -110,7 +119,6 @@ See also [Static Site Generators](#static-site-generators), [Content Management 
   * [Wordpress](https://wordpress.org/) - Create a beautiful website or blog. ([Source code](https://github.com/WordPress/WordPress)) `GPLv2`
 
 
-
 ## Bookmarks & Link Sharing
 
   * [Bookie](https://github.com/bookieio/Bookie) - Python based delicious.com replacement ([Firefox addon](https://github.com/bookieio/bookie-firefox), [Demo](http://bmark.us/), [Documentation](http://docs.bmark.us/)
@@ -122,7 +130,6 @@ See also [Static Site Generators](#static-site-generators), [Content Management 
   * [Scuttle](https://github.com/scronide/scuttle) -  Web-based social bookmarking system. Allows multiple users to store, share and tag their favourite links `GPLv2` `PHP`
   * [Shaarli](https://github.com/shaarli/Shaarli) - Personal, minimalist, super-fast, no-database bookmarking and link sharing plaform. ([Demo](http://shaarlidemo.tuxfamily.org/Shaarli) `demo/demo`)
   * [unmark](https://github.com/plainmade/unmark) - An open source to do app for links
-
 
 
 ## Calendar and Address Books
@@ -142,8 +149,7 @@ Some [Groupware](#groupware) solutions also feature calendar/address book editin
 
 ### Email
 
-
-*Webmail clients*
+#### Webmail clients
 
   * [Cypht](http://cypht.org/index.html) - A feed reader for your email accounts - `GPL`
   * [Dovecot](http://www.dovecot.org/) - IMAP and POP3 email server, written with security primarily in mind ([Source code](http://hg.dovecot.org/)) `MIT/LGPLv2` `C`
@@ -153,7 +159,10 @@ Some [Groupware](#groupware) solutions also feature calendar/address book editin
   * [SquirrelMail](http://squirrelmail.org) - Another browser-based IMAP client.
   * [WebMail Lite](http://www.afterlogic.org/webmail-lite) - Webbased IMAP Mail client ([Source Code](https://github.com/afterlogic/webmail-lite) `GPLv3` `PHP`
 
-*MTA - Mail Transfer Agents (SMTP servers).*
+
+#### Mail Transfer Agents
+
+_MTAs / SMTP servers_
 
 * [Courier MTA](http://www.courier-mta.org/) - Fast, scalable, enterprise mail/groupware server providing ESMTP, IMAP, POP3, webmail, mailing list, basic web-based calendaring and scheduling services. ([Source Code](http://www.courier-mta.org/repo.html) `GPLv3` `C`
 * [Exim](http://www.exim.org/) - Message transfer agent (MTA) developed at the University of Cambridge.
@@ -165,13 +174,18 @@ Some [Groupware](#groupware) solutions also feature calendar/address book editin
 * [Qmail](http://cr.yp.to/qmail.html) - Secure Sendmail replacement.
 * [Sendmail](http://www.sendmail.com/sm/open_source/) - Message transfer agent (MTA).
 
-*MDA - Mail Delivery Agents (IMAP/POP3 software).*
+
+#### Mail Delivery Agents
+
+_MDAs - IMAP/POP3 software_
 
 * [Cyrus IMAP/POP3](http://cyrusimap.org/) - Intended to be run on sealed servers, where normal users are not permitted to log in.
 * [Dovecot](http://www.dovecot.org/) - IMAP and POP3 server written primarily with security in mind.
 
 
-*Complete solutions - simple deployment of a mail server, e.g. for inexperienced or impatient admins.*
+#### Complete solutions
+
+_simple deployment of a mail server, e.g. for inexperienced or impatient admins._
 
   * [hMailServer](https://www.hmailserver.com) - Open source e-mail server for Microsoft Windows
   * [Mailcow](https://github.com/andryyy/mailcow) - Mail server suite based on Dovecot, Postfix and other open source software, that provides a modern Web UI for administration. `PHP/Shell/Other` `GPLv2`
@@ -181,26 +195,30 @@ Some [Groupware](#groupware) solutions also feature calendar/address book editin
   * [Modoboa](http://modoboa.org/en/) - Modoboa is a mail hosting and management platform including a modern and simplified Web User Interface. `Python` `MIT`
   * [Fufix](https://www.debinux.de/fufix/) - Fufix is a mailserver installer based on Dovecot, Postfix, Postfixadmin, Nginx, PHP, MySQL and Fail2ban.
 
+
 ### XMPP
 
-*[XMPP](https://en.wikipedia.org/wiki/XMPP) servers.*
+_[Extensible Messaging and Presence Protocol](https://en.wikipedia.org/wiki/XMPP) software_
 
-* [ejabberd](http://www.ejabberd.im/) - XMPP instant messaging server. `GPL` `Erlang`
-* [Metronome IM](http://www.lightwitch.org/metronome) - Fork of Prosody IM. `MIT` `Lua`
-* [MongooseIM](https://www.erlang-solutions.com/products/mongooseim-massively-scalable-ejabberd-platform) - Fork of ejabberd.
-* [Openfire](http://www.igniterealtime.org/projects/openfire/) - Real time collaboration (RTC) server. `Apache` `Java`
-* [Prosody IM](http://prosody.im/) - Feature-rich and easy to configure XMPP server. `MIT` `Lua`
-* [Tigase](https://projects.tigase.org/projects/tigase-server) - XMPP server implementation in Java.
 
-*XMPP Web Clients*
+#### XMPP Servers
 
-* [Candy](http://candy-chat.github.io/candy/) - Multi user XMPP client written in Javascript.
-* [Converse.js](https://conversejs.org/) - A free and open-source XMPP chat client in your browser ([Source](https://github.com/jcbrand/converse.js)) `MPLv2` `Javascript`
-* [Kaiwa](http://getkaiwa.com/) - Web based chat client in the style of common paid alternatives. ([Source code](https://github.com/digicoop/kaiwa))
-* [Kontalk](http://kontalk.org/) – Kontalk is an Open Source Messenger, similiar to WhatsApp (app for android only currently), including end-to-end encryption, server is based on Tigase XMPP Server - ([Source code](https://github.com/kontalk)) `GPLv3`
-* [Lets-Chat](http://sdelements.github.io/lets-chat/) - A self hosted chat suite written in Node.
-* [Salut à Toi](http://www.salut-a-toi.org/) - Multipurpose, multi frontend, libre and decentralised communication tool. ([Source code](http://repos.goffi.org/sat)) `AGPLv3` `Python`
-  * [Libervia](http://wiki.goffi.org/wiki/Libervia/en) - Web frontend from Salut à Toi ([Source code](http://repos.goffi.org/libervia)) `AGPLv3` `Python`
+  * [ejabberd](http://www.ejabberd.im/) - XMPP instant messaging server. `GPL` `Erlang`
+  * [Metronome IM](http://www.lightwitch.org/metronome) - Fork of Prosody IM. `MIT` `Lua`
+  * [MongooseIM](https://www.erlang-solutions.com/products/mongooseim-massively-scalable-ejabberd-platform) - Fork of ejabberd.
+  * [Openfire](http://www.igniterealtime.org/projects/openfire/) - Real time collaboration (RTC) server. `Apache` `Java`
+  * [Prosody IM](http://prosody.im/) - Feature-rich and easy to configure XMPP server. `MIT` `Lua`
+  * [Tigase](https://projects.tigase.org/projects/tigase-server) - XMPP server implementation in Java.
+
+#### XMPP Web Clients
+
+  * [Candy](http://candy-chat.github.io/candy/) - Multi user XMPP client written in Javascript.
+  * [Converse.js](https://conversejs.org/) - A free and open-source XMPP chat client in your browser ([Source](https://github.com/jcbrand/converse.js)) `MPLv2` `Javascript`
+  * [Kaiwa](http://getkaiwa.com/) - Web based chat client in the style of common paid alternatives. ([Source code](https://github.com/digicoop/kaiwa))
+  * [Kontalk](http://kontalk.org/) – Kontalk is an Open Source Messenger, similiar to WhatsApp (app for android only currently), including end-to-end encryption, server is based on Tigase XMPP Server - ([Source code](https://github.com/kontalk)) `GPLv3`
+  * [Lets-Chat](http://sdelements.github.io/lets-chat/) - A self hosted chat suite written in Node.
+  * [Salut à Toi](http://www.salut-a-toi.org/) - Multipurpose, multi frontend, libre and decentralised communication tool. ([Source code](http://repos.goffi.org/sat)) `AGPLv3` `Python`
+    * [Libervia](http://wiki.goffi.org/wiki/Libervia/en) - Web frontend from Salut à Toi ([Source code](http://repos.goffi.org/libervia)) `AGPLv3` `Python`
 
 
 ### SIP
@@ -212,6 +230,7 @@ Some [Groupware](#groupware) solutions also feature calendar/address book editin
   * [Kamailio](http://www.kamailio.org/w/) - Modular SIP server (registrar/proxy/router/etc) `GPLv2` `C`
   * [Ostel](https://dev.guardianproject.info/projects/ostel/wiki/Server_Documentation) - Secure SIP telephony setup with ZRTP encryption `GPLv3` `Ruby`
 
+
 ### IRC
 
 *[IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat) communication software*
@@ -222,7 +241,9 @@ Some [Groupware](#groupware) solutions also feature calendar/address book editin
   * [Weechat](https://weechat.org/) - a fast, light and extensible chat client `GPLv3` `C`
   * [ZNC](http://wiki.znc.in/ZNC) - An advanced IRC bouncer `Apache` `C++`
 
+
 ### Custom
+
   * [Freenet](https://freenetproject.org/index.html) - anonymously share files, browse and publish "freesites" (web sites accessible only through Freenet) and chat on forums ([Source code](https://github.com/freenet/fred)) `GPLv2` `Java`
   * [GNUNet](https://gnunet.org/) - Free software framework for decentralized, peer-to-peer networking `GPLv3` `C/Java`
   * [Jitsi Meet](https://jitsi.org/Projects/JitsiMeet) - Jitsi Meet is an OpenSource (MIT) WebRTC JavaScript application that uses Jitsi Videobridge to provide high quality, scalable video conferences. `MIT ` `JavaScript`
@@ -239,6 +260,7 @@ Some [Groupware](#groupware) solutions also feature calendar/address book editin
   * [Syndie](https://www.syndie.de) - Syndie is a libre system for operating distributed forums. `Public Domain` `Java`
   * [TextBelt](https://github.com/typpo/textbelt) - An outgoing SMS API that uses carrier-specific gateways to deliver your text messages for free, and without ads. ` ⚠ ` `MIT` `JavaScript`
   * [Tox](https://tox.chat/) -  A distributed, secure messenger with audio and video chat capabilities. `GPLv3` `C`
+
 
 ### Social Networks and Forums
 
@@ -304,6 +326,7 @@ _Recipe management_
 
   * [OpenEats](http://www.openeats.org/) - a recipe management site that allows users to create, store, share and rate recipes, create grocery lists, and more. ([Source code](https://github.com/qgriffith/OpenEats) `Python/Django` `BSD`
 
+
 ### E-commerce
 
 * [OpenCart](https://www.opencart.com) - Free open source shopping cart solution. ([Source code](https://github.com/opencart/opencart)) `GPLv3` `PHP`
@@ -357,14 +380,15 @@ _Recipe management_
 
 Some [Groupware](#groupware) solutions also feature file sharing and synchronization.
 
-_Web based file managers_
+
+#### Web based file managers
 
   * [Apaxy](http://adamwhitcroft.com/apaxy/) - Theme built to enhance the experience of browsing web directories, using the mod_autoindex Apache module and some CSS to override the default style of a directory listing. ([Source code](https://github.com/AdamWhitcroft/Apaxy) `Public domain` `CSS`
   * [eXtplorer](http://extplorer.sourceforge.net/) - A PHP- and JavaScript- based File Manager
   * [h5ai](https://larsjung.de/h5ai/) - modern file indexer for HTTP web servers with focus on your files. Directories are displayed in a appealing way and browsing them is enhanced by different views, a breadcrumb and a tree overview. ([Source code](https://github.com/lrsjng/h5ai), [Demo](https://larsjung.de/h5ai/demo/)) `MIT` `PHP/Javascript`
 
 
-_File synchronization_
+#### File synchronization
 
   * [Git Annex](http://git-annex.branchable.com/assistant/quickstart/) - File synchronization between computers, servers, external drives
   * [Seafile](http://www.seafile.com/en/home/) - File hosting and sharing solution primary for teams and organizations. ([Demo](https://seacloud.cc/demo)) `GPLv2`
@@ -376,7 +400,7 @@ _File synchronization_
   * [Pydio](https://pyd.io/) - Turn any web server into a powerful file management system and an alternative to mainstream cloud storage providers.
 
 
-_Single-click/drag-n-drop upload_
+#### Single-click/drag-n-drop upload
 
   * [BoZoN](https://github.com/broncowdd/BoZoN) - Minimalist Drag & drop file sharing app `AGPLv3` `PHP`
   * [Coquelicot](https://coquelicot.potager.org/) - Coquelicot is a “one-click” file sharing web application with a focus on protecting users’ privacy. - `AGPLv3`
@@ -394,7 +418,7 @@ _Single-click/drag-n-drop upload_
   * [YouTransfer](http://www.youtransfer.io) - YouTransfer is a simple but elegant self-hosted file transfer & sharing solution. ([Demo](http://demo.youtransfer.io/), [Source code](https://github.com/remie/YouTransfer)) `Apache` `Nodejs`
 
 
-_Peer-to-peer filesharing_
+#### Peer-to-peer filesharing
 
   * [FilePizza](http://file.pizza/) - Peer-to-peer file transfers in your browser ([Source code](https://github.com/kern/filepizza)) `BSD` `Nodejs`
   * [FileTea](https://filetea.me/) - Anonymous, volatile file sharing: does not store any file on server. Bridges a download to the recipient’s browser with an upload from the source’s browser. ([Source code](https://github.com/elima/FileTea) `AGPLv3` `C`
@@ -403,7 +427,8 @@ _Peer-to-peer filesharing_
   * [ShareFest](https://github.com/peer5/sharefest) -  Web based p2p file sharing built on WebRTC Data Channels API ([Demo](https://www.sharefest.me/)) `Apache 2.0` `Nodejs`
 
 
-_Distributed filesystems_
+#### Distributed filesystems
+
   * [Camlistore](https://camlistore.org/) - Camlistore is a set of open source formats, protocols, and software for modeling, storing, searching, sharing and synchronizing data in the post-PC era. Data may be files or objects, tweets or 5TB videos, and you can access it via a phone, browser or FUSE filesystem. ([Source code](https://github.com/camlistore/camlistore)) `Apache` `Go`
   * [Go IPFS](https://github.com/ipfs/go-ipfs) - Implementation of [IPFS](http://ipfs.io/), a global, versioned, peer-to-peer filesystem that seeks to connect all computing devices with the same system of files. It combines good ideas from Git, BitTorrent, Kademlia, SFS, and the Web. It is like a single bittorrent swarm, exchanging git objects.
   * [Ori Filesystem](http://ori.scs.stanford.edu/) - A Secure Distributed File System built for offline operation ([Source code](https://bitbucket.org/orifs/ori/wiki/Home)) `MIT` `C++`
@@ -416,6 +441,7 @@ _Distributed filesystems_
   * [20euros](https://github.com/jatekos101/20euros) - Clone of 2048 game with euros. - Unlicensed
   * [Agar.IO Clone](https://github.com/huytd/agar.io-clone) - Agar.io clone written with Socket.IO and HTML5 canvas - `MIT`
   * [Cubiks-2048](https://github.com/Kshitij-Banerjee/Cubiks-2048) - Clone of 2048 game in 3D. - `CCANC 4.0`
+
 
 ## Gateways
 
@@ -435,6 +461,7 @@ _Distributed filesystems_
   * [Tine 2.0org](https://www.tine20.org) - Contacts, Calendar, Tasks, WebDAV, ActiveSync, VOIP, Mail-Client, CRM, Sales, Projects, Timetracker -  ([Demo](https://demo.tine20.net)) `AGPLv3`
   * [Zimbra Collaboration](https://www.zimbra.com/downloads/) - Email, calendar, collaboration server with web interface and lots of integrations.  ([Source code]( https://www.zimbra.com/open-source)) `GPLv2/CPALv1` `Java`
 
+
 ## Learning and Courses
 
   * [Chamilo LMS](https://chamilo.org/chamilo-lms/) - Chamilo LMS allows you to create a virtual campus for the provision of online or semi-online training. ([Source code](https://github.com/chamilo/chamilo-lms)) `GPLv3` `PHP`
@@ -442,6 +469,7 @@ _Distributed filesystems_
   * [Mahara](http://www.mahara.org/) - Open Source fully featured web application to build students electronic portfolio. [Source code](https://github.com/MaharaProject/mahara) `GPLv3` `PHP`
   * [Moodle](https://moodle.org/) - Moodle is a learning and courses platform with one of the largest open source communities worldwide. ([Demo](https://moodle.org/demo/), [Source code](https://git.moodle.org/gw)) `GPL` `PHP`
   * [Sakai](https://www.sakaiproject.org/) - The Sakai project provides a flexible and feature-rich environment for teaching, learning, research and other collaboration. ([Demo](https://www.sakaiproject.org/try-sakai), [Source code](https://github.com/sakaiproject/sakai)) `ECLv2` `Java`
+
 
 ## Maps & GPS
 
@@ -461,13 +489,13 @@ _Distributed filesystems_
   * [Streama](https://github.com/dularion/streama) - Self-hosted Netflix alternative. - `MIT` `Java`
   * [Zoneminder](https://github.com/ZoneMinder/ZoneMinder) - Closed-circuit television (CCTV) software application which supports IP, USB and Analog cameras `GPLv2` `PHP`
 
+
 ## Mind Maps
 
  * [Mindmaps](https://github.com/drichard/mindmaps) - An open source, offline capable, mind mapping application ([Demo](http://drichard.org/mindmaps/))
 
 
 ## Money, Budgeting and Management
-
 
   * [Galette](http://galette.eu/dc/) - Galette is a membership management web application towards non profit organizations ([Source code](http://git.tuxfamily.org/galette/galette.git/)) `GPLv3` `PHP`
   * [GLPI](http://www.glpi-project.org/spip.php?lang=en) - GLPI is an IT assests/resources/inventory manager ([Source code](https://forge.glpi-project.org/projects/glpi)) `GPLv2` `PHP`
@@ -481,7 +509,6 @@ _Distributed filesystems_
 
 
 ## Monitoring and Administration
-
 
   * [Prometheus](http://prometheus.io/) - Monitoring system and time series database. ([Source code](https://github.com/prometheus/prometheus)) `Apache` `Go`
   * [psdash](https://github.com/Jahaja/psdash) - A linux system information web dashboard using psutils and flask
@@ -501,8 +528,6 @@ _Distributed filesystems_
   * [mpd](http://www.musicpd.org/) - Daemon to remotely play music, stream music, handle and organize playlists. Many clients available. `GPLv2` `C++`
   * [Sonerezh](https://www.sonerezh.bzh/) - A self-hosted, web-based application for stream your music, everywhere. ([Demo](https://www.sonerezh.bzh/demo/), [Documentation](https://www.sonerezh.bzh/docs/), [Source code](https://github.com/sonerezh/sonerezh)) `GPLv3` `PHP`
   * [Subsonic](http://subsonic.org/) - Open-source web-based media streamer and jukebox ([Demo](http://demo.subsonic.org/login.view?user=guest4&password=guest), [Source code](https://github.com/EugeneKay/subsonic)) `GPLv3` `Java`
-
-
 
 
 ## Note-taking & Editors
@@ -527,10 +552,12 @@ _Distributed filesystems_
   * [WebODF](http://webodf.org/) - Tools and libraries to view and edit Open Document Format (ODF) files. ([Source code](https://github.com/kogmbh/WebODF)) `AGPLv3` `Javascript`
   * [ownCloud documents](https://doc.owncloud.org/server/8.2/user_manual/documents.html) - collaborative editing and sharing of rich-text documents ([Source code](https://github.com/owncloud/documents)) `AGPLv3` `PHP`
 
+
 ## Password Managers
 
  * [RatticDB](http://rattic.org/) - Password Management for Humans ([Source code](https://github.com/tildaslash/RatticWeb), [Demo](https://demo.rattic.org/cred/list/))
  * [Teampass](http://www.teampass.net/) - Password manager dedicated for managing passwords in a collaborative way on any server Apache, MySQL and PHP. ([Source code](https://github.com/nilsteampassnet/TeamPass/)) `GPLv3` `PHP`
+
 
 ## Pastebins
 
@@ -545,11 +572,13 @@ _Distributed filesystems_
   * [Stikked](https://github.com/claudehohl/Stikked) - An advanced and beautiful pastebin written in `PHP` `GPLv3`
   * [tastebin](https://github.com/andreineculau/tastebin) - Updated version of hastebin plus additional features `Apache` `Nodejs`
 
+
 ## Personal Dashboards
 
   * [Habitica](http://habitica.com/) - A habit tracker app which treats your goals like a Role Playing Game. Previously called HabitRPG. ([Source code](https://github.com/HabitRPG/habitrpg)) `GPLv3/Other` `Nodejs`
   * [wger](https://github.com/rolandgeider/wger) - A web-based personal workout, fitness and weight logger/tracker. It can also be used as a simple gym management utility and offers a full REST API as well. ([Demo](https://wger.de)) `AGPLv3` `Python`
   * [Reportr](http://www.reportr.io/) - Your life's personal dashboard. ([Source code](https://github.com/Reportr/dashboard))
+
 
 ## Photo and Video Galleries
 
@@ -573,6 +602,7 @@ _Distributed filesystems_
   * [Videobin](http://videobin.org/code) - A simple video upload and sharing service with transcoding ([Demo](http://videobin.org/), [Source code](https://r-w-x.org/videobin.git)) `GPLv3` `Python`
   * [Zenphoto](http://www.zenphoto.org/) - open-source gallery and CMS project ([Source code](https://github.com/zenphoto/zenphoto))  `GPLv2` `PHP`
 
+
 ## Polls and Events
 
   * [dudle](http://primelife.ercim.eu/results/opensource/63-dudle) - an online scheduling application ([demo](https://dudle.inf.tu-dresden.de/)) `AGPLv3` `Ruby`
@@ -581,6 +611,7 @@ _Distributed filesystems_
   * [MaterialPoll](https://github.com/nearbycoder/materialpoll) - an opensource strawpoll.me clone for creating random polls. - ([Source code](https://github.com/nearbycoder/materialpoll), [Demo](http://materialpoll.tk))
   * [Nuages](https://nuages.domainepublic.net/) -  collaborative meeting poll system, similar to doodle or rdvz ([Source code](http://git.domainepublic.net/?p=nuages.git;a=tree)) `GPLv3` `Python/Django`
   * [OpenSondage](https://github.com/leblanc-simon/OpenSondage) - an online service for planning an appointment or make a decision quickly and easily: Make a poll, Define dates or subjects to choose, Send the poll link to your friends or colleagues, Discuss and make a decision - ([Demo](http://framadate.org/), [Example](https://framadate.org/aqg259dth55iuhwm))
+
 
 ## Proxy
 
@@ -591,10 +622,12 @@ _Distributed filesystems_
   * [Swiperproxy](https://swiperproxy.github.io/) - A lightning-fast, open source web proxy that is easy for you to run and customize. ([Source code](https://github.com/swiperproxy/swiperproxy), [Demo](http://proxy.donttrustrobots.nl/)) `MIT`
   * [Tinyproxy](https://banu.com/tinyproxy/) - light-weight HTTP/HTTPS proxy daemon ([Source code](https://git.banu.com/tinyproxy/)) `GPLv2` `C`
 
+
 ## Read it Later Lists
 
   * [Readityourself](https://github.com/memiks/readityourself) - read the web without ads, comments, or tweets ([Demo](http://www.readityourself.net/)) `MIT` `PHP`
   * [Wallabag](http://www.wallabag.org/?lang=fr_fr) - Wallabag, formerly Poche, is a web application allowing you to save articles to read them later with improved readability. ([Demo](http://demo.wallabag.org/), [Public instance](http://www.framabag.org/), [Source code](https://github.com/wallabag/wallabag) `MIT` `PHP`
+
 
 ## Search Engines
 
@@ -626,6 +659,7 @@ See also [Ticketing](#ticketing), [Task management/To-do lists](#task-management
   * [Trac](http://trac.edgewall.org/) - Written in python.
   * [Phproject](http://www.phproject.org/) - A high performance full-featured project management system ([Source code](https://github.com/Alanaktion/phproject), [Demo](http://demo.phproject.org/)) `GPLv3`
 
+
 ### Bug Trackers
 
 *Manage issues regarding your software development. See also [Ticketing](#ticketing) and [Task management/To-do lists](#task-managementto-do-lists)*
@@ -647,6 +681,7 @@ See also [Ticketing](#ticketing), [Task management/To-do lists](#task-management
   * [Pairjam](http://pairjam.com/) -  Real-time web-based collaborative coding ([Source code](https://github.com/neerajwahi/pairjam))
   * [Regexr](http://regexr.com/) -  RegExr is a HTML/JS based tool for creating, testing, and learning about Regular Expressions. ([Source code](https://github.com/gskinner/regexr/)) `MIT` `Nodejs`
   * [RStudio Server](https://www.rstudio.com/products/rstudio/#Server) - web browser based IDE for R. ([Source code](https://github.com/rstudio/rstudio/)) `AGPLv3` `Java/C++`
+
 
 ### Continuous Integration
 
@@ -713,7 +748,6 @@ See https://github.com/n1trux/awesome-sysadmin#vpn
 See https://github.com/n1trux/awesome-sysadmin#web
 
 
-
 ## Wikis
 
 See also [Documentation Generators](#documentation-generators), [Wikimatrix](http://www.wikimatrix.org/), [Wiki Engines on WikiIndex](http://wikiindex.org/Category:Wiki_Engine), [List of wiki software on wikipedia](https://en.wikipedia.org/wiki/List_of_wiki_software), [Comparison of wiki software on wikipedia](https://en.wikipedia.org/wiki/Comparison_of_wiki_software).
@@ -737,6 +771,7 @@ See also [Documentation Generators](#documentation-generators), [Wikimatrix](htt
   * [WiKiss](http://wikiss.tuxfamily.org/) - a Wiki, simple to use and install `PHP`
   * [Wikitten](https://github.com/victorstanciu/Wikitten) - Wikitten is a small, fast, PHP wiki, and the perfect place to store your notes, code snippets, ideas, and so on. `PHP`
 
+
 ------------------------------------
 
 ## Self-hosting Solutions
@@ -750,8 +785,6 @@ See also [Documentation Generators](#documentation-generators), [Wikimatrix](htt
 
 
 -------------------------------------------------------
-
-
 
 ## List of Licenses
 
@@ -770,6 +803,7 @@ See also [Documentation Generators](#documentation-generators), [Wikimatrix](htt
 
 
 -------------------------------------------------------
+
 ## External links
 
  * [Awesome Sysadmin](https://github.com/n1trux/awesome-sysadmin) -  A curated list of amazingly awesome open source sysadmin resources.
@@ -790,6 +824,7 @@ See also [Documentation Generators](#documentation-generators), [Wikimatrix](htt
  * Sections should be ordered alphabetically, lines inside sections should be ordered alphabetically.
  * The list of contributors can be updated with `git shortlog -sne`
 
+
 ## License
 
 This list is under the [Creative Commons Attribution-ShareAlike 3.0 Unported](LICENSE) License.
@@ -797,114 +832,120 @@ This list is under the [Creative Commons Attribution-ShareAlike 3.0 Unported](LI
 
 The list of contributors can be found below
 
-	159	nodiscc <nodiscc@gmail.com>
-	121	Edward D <ed.kickball@hotmail.com>
-	22	Kickball <ed.kickball@hotmail.com>
-	13	jungle-boogie <sean@jungleboogie.me>
-	 9	Kovah <mail@kovah.de>
-	 7	Thomas Dalichow <info@thomasdalichow.de>
-	 7	n1trux <n1trux@users.noreply.github.com>
-	 7	phre4k <me@phre4k.at>
-	 7	édouard u. <mail@edouard.us>
-	 6	Per Guth <mail@perguth.de>
-	 6	Thomas Dalichow <2012-02-05.github.com@thomasdalichow.de>
-	 5	Joubert RedRat <eu+github@redrat.com.br>
-	 5	Moti Korets <moti.kor@gmail.com>
-	 4	Cory Gibbons <hello@corygibbons.com>
-	 4	Dominik Pfaffenbauer <dominik@lineofcode.at>
-	 4	Dr. Azrael Tod <github.com@g33ky.de>
-	 4	Ilya Sevostyanov <d3th@zeen.ru>
-	 4	Jean Elchinger <jinformatique@riseup.net>
-	 3	Ethan Lowman <ethanal@users.noreply.github.com>
-	 3	Jan Vlnas <jnv@users.noreply.github.com>
-	 3	Leo Gaggl <leo@brightcookie.com.au>
-	 3	Marc Picaud <picaud.marc@gmail.com>
-	 3	Mariusz Kozakowski <11mariom+wordpress@gmail.com>
-	 3	Martin Gontovnikas <martin@gon.to>
-	 3	Tobi Schäfer <interface@p3k.org>
-	 3	Ye Lin Aung <me@yelinaung.com>
-	 3	jungle-boogie <sean@rastasean.net>
-	 3	rett gerst <rettgerst@users.noreply.github.com>
-	 2	Albert Cervera i Areny <albert@nan-tic.com>
-	 2	Alexander Ryzhov <gtihub@ryzhov-al.ru>
-	 2	Alexis Metaireau <alexis@notmyidea.org>
-	 2	Bartłomiej Kurzeja <B3QL@users.noreply.github.com>
-	 2	Brendan Abolivier <contact@brendanabolivier.com>
-	 2	Charles Farence III <charles@charlessite90.com>
-	 2	Chris Missal <chris.missal@gmail.com>
-	 2	Costin Moise <necenzurat@gmail.com>
-	 2	David Leonard <david@appliedtrust.com>
-	 2	Deryck <dhenson02@users.noreply.github.com>
-	 2	Greg V <greg@unrelenting.technology>
-	 2	Görkem Çetin <gc@count.ly>
-	 2	Henry Ruhs <info@redaxmedia.com>
-	 2	Jason Robinson <mail@jasonrobinson.me>
-	 2	Joseph Dykstra <josephdykstra@gmail.com>
-	 2	Julien Bisconti <veggiemonk@users.noreply.github.com>
-	 2	Lee Watson <rev@revthefox.co.uk>
-	 2	Marien Fressinaud <dev@marienfressinaud.fr>
-	 2	Massimo Santini <massimo.santini@gmail.com>
-	 2	Matthieu Aubry <matt@piwik.org>
-	 2	Mikael Peigney <Mika56@users.noreply.github.com>
-	 2	Patrik Ragnarsson <patrik@starkast.net>
-	 2	Peter Thaleikis <spekulatius@users.noreply.github.com>
-	 2	Poorchop <Poorchop@users.noreply.github.com>
-	 2	Roland Geider <roland@geider.net>
-	 2	Simon Vieille <simon@deblan.fr>
-	 2	Stefano <sabas88@gmail.com>
-	 2	Thomas Citharel <tcit@tcit.fr>
-	 2	cron410 <cron410@gmail.com>
-	 2	jimykk <JimyKK@users.noreply.github.com>
-	 2	tomc3 <wordoftheday003@gmail.com>
-	 2	yuche <i@yuche.me>
-	 1	Alys <alice.harris@oldgods.net>
-	 1	Andrew Murray <radarhere@gmail.com>
-	 1	Angel Velasquez <angvp@archlinux.org>
-	 1	Brett <brettex@hotmail.com>
-	 1	Burung Hantu <privacytoolsIO@users.noreply.github.com>
-	 1	Caleb Xu <calebcenter@live.com>
-	 1	Calle Wolff <carl@wolff.se>
-	 1	Chema <neo22s@gmail.com>
-	 1	Craig Davison <craig@davison.io>
-	 1	Dan <rocks.in.the.cloud@gmail.com>
-	 1	Dirk Krause <dirkk0@googlemail.com>
-	 1	Dražen Lučanin <kermit666@gmail.com>
-	 1	Eren Hatırnaz <erenhatirnaz@hotmail.com.tr>
-	 1	Florian Wilhelm <f.wilhelm@tarent.de>
-	 1	Igor Antun <IgorAntun@users.noreply.github.com>
-	 1	Jeremiah Marks <jeremiah@jlmarks.org>
-	 1	Joel Calado <joelcalado@gmail.com>
-	 1	Joshua Hamilton <joshua.hamilton@fabricut.com>
-	 1	Julien Bisconti <julien.bisconti@gmail.com>
-	 1	Keith Thibodeaux <kthibodeaux@peachtreebilling.com>
-	 1	Kevin Vandenborne <kevin.vandenborne@gmail.com>
-	 1	Kyle Stetz <kylestetz@gmail.com>
-	 1	Liran Tal <liran.tal@gmail.com>
-	 1	Marcin Karpezo <m.karpezo@nencki.gov.pl>
-	 1	Marcus Ramberg <marcus@nordaaker.com>
-	 1	MatFluor <MatFluor@users.noreply.github.com>
-	 1	Mike Steele <mike@steel.fm>
-	 1	Morris Jobke <hey@morrisjobke.de>
-	 1	Murdoc Bates <trockenasche@gmail.com>
-	 1	Oliver Kopp <kopp.dev@gmail.com>
-	 1	Remy Adriaanse <remy@adriaanse.it>
-	 1	Remy Honig <remyhonig@users.noreply.github.com>
-	 1	Riddler <Iamjithin@live.com>
-	 1	Ryan Halliday <ry167@ry167.com>
-	 1	Stefan Bohacek <stefan.bohacek@gmail.com>
-	 1	Stefan Bohacek <stefan@fourtonfish.com>
-	 1	Tobias Zeising <tobias.zeising@aditu.de>
-	 1	benmaynard11 <allowin-217941-github@vhost244.maynardnetworks.com>
-	 1	bricej13 <bricej13@gmail.com>
-	 1	cbdev <cb@cbcdn.com>
-	 1	dimqua <dimqua@lavabit.com>
-	 1	florianl <florianl@users.noreply.github.com>
-	 1	littleguga <littleguga@users.noreply.github.com>
-	 1	mertinop <martin.santibanez.a@gmail.com>
-	 1	sc0repi0 <sc0repi0@gmx.de>
-	 1	skarphet <skarphet@users.noreply.github.com>
-	 1	steven jacobs <stjacobs@fastmail.fm>
-	 1	stevesbrain <stevesbrain@users.noreply.github.com>
-	 1	ttoups <ich@timotoups.de>
+    180	nodiscc <nodiscc@gmail.com>
+    121	Edward D <ed.kickball@hotmail.com>
+    22	Kickball <ed.kickball@hotmail.com>
+    13	jungle-boogie <sean@jungleboogie.me>
+    9	Kovah <mail@kovah.de>
+    7	Thomas Dalichow <info@thomasdalichow.de>
+    7	n1trux <n1trux@users.noreply.github.com>
+    7	phre4k <me@phre4k.at>
+    7	édouard u. <mail@edouard.us>
+    6	Per Guth <mail@perguth.de>
+    6	Thomas Dalichow <2012-02-05.github.com@thomasdalichow.de>
+    5	Joubert RedRat <eu+github@redrat.com.br>
+    5	Moti Korets <moti.kor@gmail.com>
+    4	Cory Gibbons <hello@corygibbons.com>
+    4	Dominik Pfaffenbauer <dominik@lineofcode.at>
+    4	Dr. Azrael Tod <github.com@g33ky.de>
+    4	Ilya Sevostyanov <d3th@zeen.ru>
+    4	Jean Elchinger <jinformatique@riseup.net>
+    4	Joshua Westerheide <dev@jdoubleu.de>
+    3	Ethan Lowman <ethanal@users.noreply.github.com>
+    3	Jan Vlnas <jnv@users.noreply.github.com>
+    3	Leo Gaggl <leo@brightcookie.com.au>
+    3	Marc Picaud <picaud.marc@gmail.com>
+    3	Mariusz Kozakowski <11mariom+wordpress@gmail.com>
+    3	Martin Gontovnikas <martin@gon.to>
+    3	Tobi Schäfer <interface@p3k.org>
+    3	Ye Lin Aung <me@yelinaung.com>
+    3	jungle-boogie <sean@rastasean.net>
+    3	rett gerst <rettgerst@users.noreply.github.com>
+    2	Albert Cervera i Areny <albert@nan-tic.com>
+    2	Alexander Ryzhov <gtihub@ryzhov-al.ru>
+    2	Alexis Metaireau <alexis@notmyidea.org>
+    2	Bartłomiej Kurzeja <B3QL@users.noreply.github.com>
+    2	Brendan Abolivier <contact@brendanabolivier.com>
+    2	Charles Farence III <charles@charlessite90.com>
+    2	Chris Missal <chris.missal@gmail.com>
+    2	Costin Moise <necenzurat@gmail.com>
+    2	David Leonard <david@appliedtrust.com>
+    2	Deryck <dhenson02@users.noreply.github.com>
+    2	Greg V <greg@unrelenting.technology>
+    2	Görkem Çetin <gc@count.ly>
+    2	Henry Ruhs <info@redaxmedia.com>
+    2	Jason Robinson <mail@jasonrobinson.me>
+    2	Joseph Dykstra <josephdykstra@gmail.com>
+    2	Julien Bisconti <veggiemonk@users.noreply.github.com>
+    2	Lee Watson <rev@revthefox.co.uk>
+    2	Marien Fressinaud <dev@marienfressinaud.fr>
+    2	Massimo Santini <massimo.santini@gmail.com>
+    2	Matthieu Aubry <matt@piwik.org>
+    2	Mikael Peigney <Mika56@users.noreply.github.com>
+    2	Patrik Ragnarsson <patrik@starkast.net>
+    2	Peter Thaleikis <spekulatius@users.noreply.github.com>
+    2	Poorchop <Poorchop@users.noreply.github.com>
+    2	Roland Geider <roland@geider.net>
+    2	Simon Vieille <simon@deblan.fr>
+    2	Stefano <sabas88@gmail.com>
+    2	Thomas Citharel <tcit@tcit.fr>
+    2	cron410 <cron410@gmail.com>
+    2	jimykk <JimyKK@users.noreply.github.com>
+    2	tomc3 <wordoftheday003@gmail.com>
+    2	yuche <i@yuche.me>
+    1	Alys <alice.harris@oldgods.net>
+    1	Andrew Murray <radarhere@gmail.com>
+    1	Angel Velasquez <angvp@archlinux.org>
+    1	Brett <brettex@hotmail.com>
+    1	Burung Hantu <privacytoolsIO@users.noreply.github.com>
+    1	Caleb Xu <calebcenter@live.com>
+    1	Calle Wolff <carl@wolff.se>
+    1	Chema <neo22s@gmail.com>
+    1	Craig Davison <craig@davison.io>
+    1	Dan <rocks.in.the.cloud@gmail.com>
+    1	Dirk Krause <dirkk0@googlemail.com>
+    1	Dražen Lučanin <kermit666@gmail.com>
+    1	Eren Hatırnaz <erenhatirnaz@hotmail.com.tr>
+    1	Florian Wilhelm <f.wilhelm@tarent.de>
+    1	Igor Antun <IgorAntun@users.noreply.github.com>
+    1	Jeremiah Marks <jeremiah@jlmarks.org>
+    1	Joel Calado <joelcalado@gmail.com>
+    1	Joshua Hamilton <joshua.hamilton@fabricut.com>
+    1	Julien Bisconti <julien.bisconti@gmail.com>
+    1	Keith Thibodeaux <kthibodeaux@peachtreebilling.com>
+    1	Kevin Vandenborne <kevin.vandenborne@gmail.com>
+    1	Kyle Stetz <kylestetz@gmail.com>
+    1	Liran Tal <liran.tal@gmail.com>
+    1	Marcin Karpezo <m.karpezo@nencki.gov.pl>
+    1	Marcus Ramberg <marcus@nordaaker.com>
+    1	MatFluor <MatFluor@users.noreply.github.com>
+    1	Matt Hazinski <matt@matthazinski.com>
+    1	Mike Steele <mike@steel.fm>
+    1	Morris Jobke <hey@morrisjobke.de>
+    1	Murdoc Bates <trockenasche@gmail.com>
+    1	Oliver Kopp <kopp.dev@gmail.com>
+    1	Phill <phill@formbet.co.uk>
+    1	Remy Adriaanse <remy@adriaanse.it>
+    1	Remy Honig <remyhonig@users.noreply.github.com>
+    1	Riddler <Iamjithin@live.com>
+    1	Ryan Halliday <ry167@ry167.com>
+    1	Stefan Bohacek <stefan.bohacek@gmail.com>
+    1	Stefan Bohacek <stefan@fourtonfish.com>
+    1	Tobias Zeising <tobias.zeising@aditu.de>
+    1	benmaynard11 <allowin-217941-github@vhost244.maynardnetworks.com>
+    1	bricej13 <bricej13@gmail.com>
+    1	cbdev <cb@cbcdn.com>
+    1	dimqua <dimqua@lavabit.com>
+    1	florianl <florianl@users.noreply.github.com>
+    1	lachlan-00 <lachlan.00@gmail.com>
+    1	littleguga <littleguga@users.noreply.github.com>
+    1	memorex258 <phillip.a.brown@live.com>
+    1	mertinop <martin.santibanez.a@gmail.com>
+    1	sc0repi0 <sc0repi0@gmx.de>
+    1	skarphet <skarphet@users.noreply.github.com>
+    1	steven jacobs <stjacobs@fastmail.fm>
+    1	stevesbrain <stevesbrain@users.noreply.github.com>
+    1	ttoups <ich@timotoups.de>
+
 
 
