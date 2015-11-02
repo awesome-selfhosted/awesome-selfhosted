@@ -399,6 +399,7 @@ _Peer-to-peer filesharing_
   * [FilePizza](http://file.pizza/) - Peer-to-peer file transfers in your browser ([Source code](https://github.com/kern/filepizza)) `BSD` `Nodejs`
   * [FileTea](https://filetea.me/) - Anonymous, volatile file sharing: does not store any file on server. Bridges a download to the recipient’s browser with an upload from the source’s browser. ([Source code](https://github.com/elima/FileTea) `AGPLv3` `C`
   * [instant.io](https://github.com/feross/instant.io) - Streaming file transfer over WebTorrent ([Demo](https://instant.io)) `MIT` `Nodejs`
+  * [Opentracker](http://erdgeist.org/arts/software/opentracker/) - open and free bittorrent tracker. It aims for minimal resource usage and is intended to run at your wlan router ([Source code](http://erdgeist.org/gitweb/opentracker/) `Public domain` `C`
   * [ShareFest](https://github.com/peer5/sharefest) -  Web based p2p file sharing built on WebRTC Data Channels API ([Demo](https://www.sharefest.me/)) `Apache 2.0` `Nodejs`
 
 
