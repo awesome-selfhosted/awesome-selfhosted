@@ -537,6 +537,7 @@ _Distributed filesystems_
   * [cryptonote](https://cryptonote.me/) - A simple open source web application that lets users encrypt and share messages that can only be read once ([Source code](https://github.com/alainmeier/cryptonote)) `BSD` `Ruby`
   * [gist](https://gitlab.deblan.org/deblan/gist) -  GIST is an open-source application to share code `PHP` `GPLv3`
   * [hastebin](http://hastebin.com/about.md) - open source pastebin written in node.js ([Source code](https://github.com/seejohnrun/haste-server)) `Nodejs` `MIT`
+  * [Pastedown](http://pastedown.ctrl-c.us/) - self-hosted pastebin server. It is meant to handle Markdown well, but it also works with code snippets (and does syntax highlighting). ([Source code](https://github.com/cespare/pastedown)) `MIT` `Go`
   * [Phaste](https://pste.pw) - A Phalcon-based, MySQL pastebin application with privacy-respecting Piwik integration and syntax highlighting. ([Source code](https://github.com/FoxDev/Phaste)) `PHP` `AGPLv3`
   * [snipt](https://snipt.net/) -  Long-term memory for coders. Share and store code snippets  ([Source code](https://github.com/nicksergeant/snipt/)) `BSD` `Python`
   * [Sticky Notes](http://sayakb.github.io/sticky-notes/) - A powerful open-source pastebin application for effortless code sharing. `PHP`
