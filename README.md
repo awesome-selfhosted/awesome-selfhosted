@@ -300,6 +300,9 @@ CMS are a practical way to setup a website with many features. CMS often come wi
   * [TYPO3](http://typo3.org/) - A powerful and advanced CMS with a large community. ([Source Code](https://github.com/TYPO3/TYPO3.CMS)) `GPLv2` `PHP`
   * [Wordpress](https://wordpress.org/) - The worlds most-used blogging and CMS engine. ([Source code mirror](https://github.com/WordPress/WordPress)) `GPLv2`
 
+_Recipe management_
+
+  * [OpenEats](http://www.openeats.org/) - a recipe management site that allows users to create, store, share and rate recipes, create grocery lists, and more. ([Source code](https://github.com/qgriffith/OpenEats) `Python/Django` `BSD`
 
 ### E-commerce
 
