@@ -251,6 +251,7 @@ _[Extensible Messaging and Presence Protocol](https://en.wikipedia.org/wiki/XMPP
   * [Kandan](http://getkandan.com/) – Kandan is an Open Source Alternative to HipChat. - `AGPL`
   * [Let's Chat](https://sdelements.github.io/lets-chat/) - A persistent messaging application that runs on Node.js and MongoDB. `MIT` `Nodejs`
   * [Mattermost](http://mattermost.org/) - Open-source, on-prem Slack-alternative. It can be integrated with [Gitlab](https://about.gitlab.com/). ([Source code](https://github.com/mattermost/platform)) `AGPLv3/Apache 2.0` `Go`
+  * [Mibew](https://mibew.org) - Mibew Messenger is an open-source live support application written in PHP and MySQL. It enables one-on-one chat assistance in real-time directly from your website. ([Demo](https://mibew.org/demo2), [Source code](https://github.com/Mibew/mibew)) `Apache` `PHP, Javascript`
   * [Mumble](http://wiki.mumble.info/wiki/Main_Page) - low-latency, high quality voice/text chat software `BSD` `C++`
   * [Node-Chat](https://github.com/IgorAntun/node-chat) - A not-so-basic open-source chat with admin features. - `MIT` `Nodejs`
   * [RetroShare](http://retroshare.org) - Secured and decentralized communication system. Offers decentralized chat, forums, messaging, file transfer. ([Source code](https://github.com/RetroShare/RetroShare)) `GPLv2` `С++`
