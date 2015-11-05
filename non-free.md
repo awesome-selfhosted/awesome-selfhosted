@@ -7,7 +7,6 @@
 
   * [Mint](http://haveamint.com/) `⊘ Proprietary` - Extensible self-hosted web analytics, license costs $30 per site. ([Demo](http://mimeoverse.com/mint/)) `PHP`
 
-
 ## Communication Systems
 
   * [HipChat](https://www.atlassian.com/software/hipchat) `⊘ Proprietary` - A team chat solution with 1:1 chat audio and video, third party integration and more `PHP/Python`
@@ -34,7 +33,6 @@
   * [FusionInvoice](https://www.fusioninvoice.com) `⊘ Proprietary` - FusionInvoice is an invoicing system for freelancers and small businesses. `PHP`
   * [Pancake](http://pancakeapp.com/) `⊘ Proprietary` - Online invoicing, project management, time tracking and proposal software. `PHP`
 
-
 ## Photo and Video Galleries
 
   * [ArtVenue](http://codecanyon.net/item/artvenue-image-sharing-community-script/5771542) - `⊘ Proprietary` Start your own photography community website, platform based on the Laravel PHP Framework. ([Demo](http://codecanyon.net/item/artvenue-image-sharing-community-script/full_screen_preview/5771542)) `PHP`
@@ -46,9 +44,10 @@
 ## Software Developement
 
   * [92five](http://92fiveapp.com/) `⊘ Proprietary` - Self hosted project management application ([Source code](https://github.com/chintanbanugaria/92five)) `CC BY-NC 4.0` `PHP`
+  * [Bamboo](https://www.atlassian.com/software/bamboo) `⊘ Proprietary` - A continuous integration server `Java`
   * [Cloud9](https://c9.io/) `⊘ Proprietary` - Your development environment, in the cloud ([Source code](https://github.com/c9/core)) `Nodejs`
   * [Confluence](https://www.atlassian.com/software/confluence) `⊘ Proprietary` - A team collaboration software `Java`
   * [Crucible](https://www.atlassian.com/software/crucible/overview) `⊘ Proprietary` - A peer code review application `Java`
-  * [Stash](https://www.atlassian.com/software/stash) `⊘ Proprietary` - An enterprise-level Git solution similar to GitLab `Java`
-  * [Bamboo](https://www.atlassian.com/software/bamboo) `⊘ Proprietary` - A continuous integration server `Java`
   * [JIRA](https://www.atlassian.com/software/jira) `⊘ Proprietary` - A professional and extensible issue tracker `Java`
+  * [RhodeCode](https://rhodecode.com) `⊘ Proprietary` - On-premise Source Code Management for Mercurial, Git & Subversion. `Python`
+  * [Stash](https://www.atlassian.com/software/stash) `⊘ Proprietary` - An enterprise-level Git solution similar to GitLab `Java`
