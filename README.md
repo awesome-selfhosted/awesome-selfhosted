@@ -68,6 +68,7 @@ Table of Contents
   - [Ticketing](#ticketing)
   - [URL Shorteners](#url-shorteners)
   - [VPN](#vpn)
+  - [Web desktop (WebOS)](#web-desktop)
   - [Web servers](#web-servers)
   - [Wikis](#wikis)
   - [Self-hosting Solutions](#self-hosting-solutions)
@@ -741,6 +742,14 @@ See https://staticsitegenerators.net and https://www.staticgen.com
 ## VPN
 
 See https://github.com/n1trux/awesome-sysadmin#vpn
+
+
+## Web desktop (WebOS)
+
+  * [CorneliOS](http://www.cornelios.org) - CorneliOS is an experimental multi-user and cross-browser "Web Desktop Environment", "Web Operating System" or "Web Office". It is also a powerful development framework for web apps and social networking platforms written in Perl. ([Source code](http://sourceforge.net/projects/cornelios)) `GPL` `Perl`
+  * [ExtDesk](http://extdesk.net) - ExtDesk is an open source desktop to the web, coded with the developer in mind. ([Demo](http://demo.extdesk.net), [Source code](https://github.com/franciscoluiz/ExtDesk)) `GPLv3` `Javascript, PHP`
+  * [OS.js](http://os.js.org) - OS.js is a JavaScript web desktop implementation for your browser with a fully-fledged window manager, Application APIs, GUI toolkits and filesystem abstraction. ([Demo](http://osjsv2.0o.no), [Source code](https://github.com/andersevenrud/OS.js-v2)) `BSD` `Javascript`
+  * [Symbiose](http://symbiose.fr.cr) - Symbiose, a free and flexible webos. ([Demo](http://webos.symbiose.fr.cr), [Source code](https://github.com/symbiose/symbiose)) `MIT` `Javascript`
 
 
 ## Web servers
