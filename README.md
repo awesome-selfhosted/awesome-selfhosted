@@ -368,6 +368,7 @@ _Recipe management_
   * [Readr](https://github.com/pabloprieto/Readr) - A clean & simple, self-hosted RSS reader
   * [RSS2EMail](http://www.allthingsrss.com/rss2email/) - fetches RSS/Atom-feeds and pushes new Content to any email-reciever, supports OPML `GPL` `Python`
   * [RSSminer](http://rssminer.net/) -An online rss reader written in clojure & javascript & java ([Source code](https://github.com/shenfeng/rssminer))
+  * [RSS Monster](https://github.com/pietheinstrengholt/rssmonster) - RSS Monster is an easy to use web-based RSS aggregator and reader compatible with the Fever API, created as an alternative for Google Reader. ([Source code](https://github.com/pietheinstrengholt/rssmonster)) `MIT` `PHP`
   * [Selfoss](http://selfoss.aditu.de/) - The new multipurpose rss reader, live stream, mashup, aggregation web application ([Source code](https://github.com/SSilence/selfoss)) `AGPLv3`
   * [Stringer](https://github.com/swanson/stringer) - A work-in-progress self-hosted, anti-social RSS reader.
   * [Tiny Tiny RSS](https://tt-rss.org/redmine/projects/tt-rss/wiki) - Open source web-based news feed (RSS/Atom) reader and aggregator. ([Demo](http://tt-rss.org/demo/), [Public instance](http://framanews.org/), [Applications](http://tt-rss.org/redmine/projects/tt-rss/wiki/RelatedSoftware)) `GPLv3`
