@@ -260,7 +260,7 @@ _[Extensible Messaging and Presence Protocol](https://en.wikipedia.org/wiki/XMPP
   * [Syndie](https://www.syndie.de) - Syndie is a libre system for operating distributed forums. `Public Domain` `Java`
   * [TextBelt](https://github.com/typpo/textbelt) - An outgoing SMS API that uses carrier-specific gateways to deliver your text messages for free, and without ads. ` ⚠ ` `MIT` `JavaScript`
   * [Tox](https://tox.chat/) -  A distributed, secure messenger with audio and video chat capabilities. `GPLv3` `C`
-
+  * [Zulip](https://zulip.org) - Zulip is a powerful, open source group chat application. ([Source code](https://github.com/zulip/zulip))`Apache 2.0/Other` `Python/Django`
 
 ### Social Networks and Forums
 
