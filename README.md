@@ -407,6 +407,7 @@ Some [Groupware](#groupware) solutions also feature file sharing and synchroniza
   * [Dropcenter](http://projet.idleman.fr/dropcenter/) - Upload files by simple drag-n-drop.
   * [droppy](https://github.com/silverwind/droppy) - droppy is a self-hosted cloud server with an interface similar to desktop file managers and has capabilites to edit files on-the-fly as well as view and playback media directly in the browser. ([Demo](http://droppy.silverwind.io/)) `BSD` `Nodejs`
   * [img.bi](https://github.com/imgbi/img.bi) - img.bi is a secure image hosting. Images are encrypted using AES-256 with random key in browser before upload. `GPLv3` `Nodejs`
+  * [ipfs.pics](https://github.com/ipfspics/server) - ipfs.pics is a open-source and distributed image hosting website. It aims to be an alternative to non-libre image hosting websites such as imgur, flickr and others. ([Demo](http://ipfs.pics), [Source code](https://github.com/ipfspics/server)) `GPLv3` `PHP`
   * [Jirafeau](https://gitlab.com/mojo42/Jirafeau/wikis/home) - Jirafeau is a web site permitting to upload a file in a simple way and give an unique link to it. ([Demo](http://jirafeau.net/))
   * [Jyraphe](http://home.gna.org/jyraphe/) - Jyraphe is a web application of file repository, easy to install and easy to use.
   * [linx](https://github.com/andreimarcu/linx-server) - File sharing application and pastebin with API, auto-expiry, deletion keys, and web seed support ([Demo](https://linx.li/)) `GPLv3` `Go`
