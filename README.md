@@ -84,7 +84,7 @@ Table of Contents
 _Web Analytics_
 
   * [AWStats](http://www.awstats.org/) - Generates web, streaming, ftp or mail server statistics graphically.
-  * [Countly](http://Count.ly) - Real time mobile analytics, crash reporting and push notifications platform ([Source code](https://github.com/countly)) `AGPL` `Javascript`
+  * [Countly](http://Count.ly) - Real time mobile & web analytics, crash reporting and push notifications platform ([Source code](https://github.com/countly)) `AGPL` `Javascript`
   * [GoAccess](http://goaccess.io/) - Real-time web log analyzer and interactive viewer that runs in a terminal.
   * [Open Web Analytics](http://www.openwebanalytics.com/) - Google Analytics and Piwik alternative - `GPL` `PHP`
   * [Piwik](https://piwik.org/) - Leading open-source analytics platform that gives you more than just powerful analytics. ([Source code](https://github.com/piwik/)) `GPLv3` `PHP`
