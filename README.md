@@ -129,7 +129,6 @@ See also [Static Site Generators](#static-site-generators), [Content Management 
   * [Pinry](http://getpinry.com/) - The tiling image board system for people who want to save, tag, and share images, videos, and webpages. ([Source code](https://github.com/pinry/pinry))
   * [Scuttle](https://github.com/scronide/scuttle) -  Web-based social bookmarking system. Allows multiple users to store, share and tag their favourite links `GPLv2` `PHP`
   * [Shaarli](https://github.com/shaarli/Shaarli) - Personal, minimalist, super-fast, no-database bookmarking and link sharing plaform. ([Demo](http://shaarlidemo.tuxfamily.org/Shaarli) `demo/demo`)
-  * [SemanticScuttle](http://semanticscuttle.sourceforge.net/) - Self-hosted and web-based social bookmark manager ([Demo](http://semanticscuttle.sourceforge.net/demo/)) ([Source code](http://sourceforge.net/p/semanticscuttle/code/ci/master/tree/)) `GPL` `PHP`
   * [unmark](https://github.com/plainmade/unmark) - An open source to do app for links
 
 
@@ -409,7 +408,7 @@ Some [Groupware](#groupware) solutions also feature file sharing and synchroniza
   * [Dropcenter](http://projet.idleman.fr/dropcenter/) - Upload files by simple drag-n-drop.
   * [droppy](https://github.com/silverwind/droppy) - droppy is a self-hosted cloud server with an interface similar to desktop file managers and has capabilites to edit files on-the-fly as well as view and playback media directly in the browser. ([Demo](http://droppy.silverwind.io/)) `BSD` `Nodejs`
   * [img.bi](https://github.com/imgbi/img.bi) - img.bi is a secure image hosting. Images are encrypted using AES-256 with random key in browser before upload. `GPLv3` `Nodejs`
-  * [ipfs.pics](http://ipfs.pics/) - ipfs.pics is a o distributed image hosting website. ([Source code](https://github.com/ipfspics)) `AGPL` `PHP`
+  * [ipfs.pics](http://ipfs.pics/) - ipfs.pics is a o distributed image hosting website. ([Source code](https://github.com/ipfspics/server)) `AGPL` `PHP`
   * [Jirafeau](https://gitlab.com/mojo42/Jirafeau/wikis/home) - Jirafeau is a web site permitting to upload a file in a simple way and give an unique link to it. ([Demo](http://jirafeau.net/))
   * [Jyraphe](http://home.gna.org/jyraphe/) - Jyraphe is a web application of file repository, easy to install and easy to use.
   * [linx](https://github.com/andreimarcu/linx-server) - File sharing application and pastebin with API, auto-expiry, deletion keys, and web seed support ([Demo](https://linx.li/)) `GPLv3` `Go`
