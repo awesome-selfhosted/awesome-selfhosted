@@ -834,10 +834,11 @@ This list is under the [Creative Commons Attribution-ShareAlike 3.0 Unported](LI
 
 The list of contributors can be found below
 
-    180	nodiscc <nodiscc@gmail.com>
-    121	Edward D <ed.kickball@hotmail.com>
+    191	nodiscc <nodiscc@gmail.com>
+    123	Edward D <ed.kickball@hotmail.com>
     22	Kickball <ed.kickball@hotmail.com>
     13	jungle-boogie <sean@jungleboogie.me>
+    9	Joubert RedRat <eu+github@redrat.com.br>
     9	Kovah <mail@kovah.de>
     7	Thomas Dalichow <info@thomasdalichow.de>
     7	n1trux <n1trux@users.noreply.github.com>
@@ -845,7 +846,6 @@ The list of contributors can be found below
     7	édouard u. <mail@edouard.us>
     6	Per Guth <mail@perguth.de>
     6	Thomas Dalichow <2012-02-05.github.com@thomasdalichow.de>
-    5	Joubert RedRat <eu+github@redrat.com.br>
     5	Moti Korets <moti.kor@gmail.com>
     4	Cory Gibbons <hello@corygibbons.com>
     4	Dominik Pfaffenbauer <dominik@lineofcode.at>
@@ -853,7 +853,9 @@ The list of contributors can be found below
     4	Ilya Sevostyanov <d3th@zeen.ru>
     4	Jean Elchinger <jinformatique@riseup.net>
     4	Joshua Westerheide <dev@jdoubleu.de>
+    4	dattaz <taz@dattaz.fr>
     3	Ethan Lowman <ethanal@users.noreply.github.com>
+    3	Görkem Çetin <gc@count.ly>
     3	Jan Vlnas <jnv@users.noreply.github.com>
     3	Leo Gaggl <leo@brightcookie.com.au>
     3	Marc Picaud <picaud.marc@gmail.com>
@@ -872,13 +874,14 @@ The list of contributors can be found below
     2	Chris Missal <chris.missal@gmail.com>
     2	Costin Moise <necenzurat@gmail.com>
     2	David Leonard <david@appliedtrust.com>
+    2	David Wayne Baxter <dbxt@users.noreply.github.com>
     2	Deryck <dhenson02@users.noreply.github.com>
     2	Greg V <greg@unrelenting.technology>
-    2	Görkem Çetin <gc@count.ly>
     2	Henry Ruhs <info@redaxmedia.com>
     2	Jason Robinson <mail@jasonrobinson.me>
     2	Joseph Dykstra <josephdykstra@gmail.com>
     2	Julien Bisconti <veggiemonk@users.noreply.github.com>
+    2	Kevin Vandenborne <kevin.vandenborne@gmail.com>
     2	Lee Watson <rev@revthefox.co.uk>
     2	Marien Fressinaud <dev@marienfressinaud.fr>
     2	Massimo Santini <massimo.santini@gmail.com>
@@ -906,6 +909,7 @@ The list of contributors can be found below
     1	Craig Davison <craig@davison.io>
     1	Dan <rocks.in.the.cloud@gmail.com>
     1	Dirk Krause <dirkk0@googlemail.com>
+    1	Dmitriy Volkov <wldhx+vcs+github_com@wldhx.me>
     1	Dražen Lučanin <kermit666@gmail.com>
     1	Eren Hatırnaz <erenhatirnaz@hotmail.com.tr>
     1	Florian Wilhelm <f.wilhelm@tarent.de>
@@ -914,8 +918,9 @@ The list of contributors can be found below
     1	Joel Calado <joelcalado@gmail.com>
     1	Joshua Hamilton <joshua.hamilton@fabricut.com>
     1	Julien Bisconti <julien.bisconti@gmail.com>
+    1	Justin O'Reilly <justin@oreilly.me>
+    1	Keith Thibodeaux <kthib89+github@gmail.com>
     1	Keith Thibodeaux <kthibodeaux@peachtreebilling.com>
-    1	Kevin Vandenborne <kevin.vandenborne@gmail.com>
     1	Kyle Stetz <kylestetz@gmail.com>
     1	Liran Tal <liran.tal@gmail.com>
     1	Marcin Karpezo <m.karpezo@nencki.gov.pl>
@@ -927,6 +932,7 @@ The list of contributors can be found below
     1	Murdoc Bates <trockenasche@gmail.com>
     1	Oliver Kopp <kopp.dev@gmail.com>
     1	Phill <phill@formbet.co.uk>
+    1	ReadmeCritic <frankensteinbot@gmail.com>
     1	Remy Adriaanse <remy@adriaanse.it>
     1	Remy Honig <remyhonig@users.noreply.github.com>
     1	Riddler <Iamjithin@live.com>
@@ -948,6 +954,7 @@ The list of contributors can be found below
     1	steven jacobs <stjacobs@fastmail.fm>
     1	stevesbrain <stevesbrain@users.noreply.github.com>
     1	ttoups <ich@timotoups.de>
+
 
 
 
