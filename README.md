@@ -643,7 +643,7 @@ Some [Groupware](#groupware) solutions also feature file sharing and synchroniza
 
 ### Project Management
 
-See also [Ticketing](#ticketing), [Task management/To-do lists](#task-managementto-do-lists) and [Bug Trackers](#bug-trackers)*
+See also [Ticketing](#ticketing), [Task management/To-do lists](#task-managementto-do-lists)*
 
   * [Apache Bloodhound](https://bloodhound.apache.org/) - Manage software products, Keep track of features, tasks and bugs `Apache` `Python`
   * [CaseBox](https://www.casebox.org) - Manage all your organisation's information in one system.
@@ -664,16 +664,7 @@ See also [Ticketing](#ticketing), [Task management/To-do lists](#task-management
 
 ### Bug Trackers
 
-*Manage issues regarding your software development. See also [Ticketing](#ticketing) and [Task management/To-do lists](#task-managementto-do-lists)*
-
-  * [Bugzilla](https://www.bugzilla.org/) - General-purpose bugtracker and testing tool originally developed and used by the Mozilla project. `MPLv2` `Pearl`
-  * [Bumpy Booby](http://bumpy-booby.derivoile.fr/) - A simple, responsive and highly customizable PHP bug tracking system. ([Source code](https://github.com/piero-la-lune/Bumpy-Booby)) `MIT` `PHP`
-  * [Cerb](http://www.cerberusweb.com/) - Group-based e-mail management project.
-  * [Flyspray](http://www.flyspray.org/) - uncomplicated, web-based bug tracking system ([Source code](https://github.com/Flyspray/flyspray)) `GPLv2`
-  * [Gaskit](https://github.com/bkeepers/gaskit) - a git-backed issue tracker. It uses a branch in your local git database to store the tickets. `GPL`
-  * [HuBoard](https://github.com/rauhryan/huboard) `⚠ ` – Instant project management for your GitHub issues (Connects directly GitHub API) `MIT` `Ruby`
-  * [MantisBT](https://www.mantisbt.org/) - Self hosted bug tracker, fits best for software development - ([Demo](https://www.mantisbt.org/bugs/my_view_page.php)) -  ([Source code](https://github.com/mantisbt/mantisbt)) `GPLv2`
-  * [TheBugGenie](http://www.thebuggenie.com) - Ticket system with extensive user rights system.
+See **[Ticketing](#ticketing)**
 
 
 ### IDE/Tools
@@ -731,7 +722,14 @@ See https://staticsitegenerators.net and https://www.staticgen.com
   * [osTicket](http://osticket.com/) - Simple support ticket system.
   * [OTRS](http://www.otrs.com/) - Trouble ticket system for assigning tickets to incoming queries and tracking further communications.
   * [Request Tracker](https://www.bestpractical.com/rt/) - Ticket-tracking system written in Perl.
-
+  * [Bugzilla](https://www.bugzilla.org/) - General-purpose bugtracker and testing tool originally developed and used by the Mozilla project. `MPLv2` `Pearl`
+  * [Bumpy Booby](http://bumpy-booby.derivoile.fr/) - A simple, responsive and highly customizable PHP bug tracking system. ([Source code](https://github.com/piero-la-lune/Bumpy-Booby)) `MIT` `PHP`
+  * [Cerb](http://www.cerberusweb.com/) - Group-based e-mail management project.
+  * [Flyspray](http://www.flyspray.org/) - uncomplicated, web-based bug tracking system ([Source code](https://github.com/Flyspray/flyspray)) `GPLv2`
+  * [Gaskit](https://github.com/bkeepers/gaskit) - a git-backed issue tracker. It uses a branch in your local git database to store the tickets. `GPL`
+  * [HuBoard](https://github.com/rauhryan/huboard) `⚠ ` – Instant project management for your GitHub issues (Connects directly GitHub API) `MIT` `Ruby`
+  * [MantisBT](https://www.mantisbt.org/) - Self hosted bug tracker, fits best for software development - ([Demo](https://www.mantisbt.org/bugs/my_view_page.php)) -  ([Source code](https://github.com/mantisbt/mantisbt)) `GPLv2`
+  * [TheBugGenie](http://www.thebuggenie.com) - Ticket system with extensive user rights system.
 
 ## URL Shorteners
 
