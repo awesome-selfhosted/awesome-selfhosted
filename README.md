@@ -43,6 +43,7 @@ Table of Contents
   - [Learning and Courses](#learning-and-courses)
   - [Maps & GPS](#maps--gps)
   - [Video Streaming](#video-streaming)
+  - [Micro services](#micro-services)
   - [Mind Maps](#mind-maps)
   - [Money, Budgeting and Management](#money-budgeting-and-management)
   - [Monitoring and Administration](#monitoring-and-administration)
@@ -492,6 +493,9 @@ Some [Groupware](#groupware) solutions also feature file sharing and synchroniza
   * [Streama](https://github.com/dularion/streama) - Self-hosted Netflix alternative. - `MIT` `Java`
   * [Zoneminder](https://github.com/ZoneMinder/ZoneMinder) - Closed-circuit television (CCTV) software application which supports IP, USB and Analog cameras `GPLv2` `PHP`
 
+## Micro Services
+
+ * [TriggerHappy](https://github.com/foxmask/django-th) - an opensource clone of IFTTT - a bridge between your internet services `BSD` `Python`
 
 ## Mind Maps
 
