@@ -513,6 +513,7 @@ Some [Groupware](#groupware) solutions also feature file sharing and synchroniza
 
 ## Monitoring and Administration
 
+  * [Bloonix](https://bloonix.org/) - Bloonix is a monitoring solution that helps businesses to ensure high availability and performance. ([Demo](http://demo.bloonix.org/), [Source code](https://github.com/bloonix/bloonix)) `GPLv3` `Perl`
   * [Prometheus](http://prometheus.io/) - Monitoring system and time series database. ([Source code](https://github.com/prometheus/prometheus)) `Apache` `Go`
   * [psdash](https://github.com/Jahaja/psdash) - A linux system information web dashboard using psutils and flask
   * [pyDash](https://github.com/k3oni/pydash) - Small web-based monitoring dashboard for linux ([Demo](http://pydash.hostechs.com/main/) - _admin/admin_)
