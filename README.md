@@ -366,6 +366,7 @@ _Recipe management_
   * [Lite-Reader](http://cubny.com/lite-reader/) - Read your feeds on your own machine with a simple and lite application. ([Source code](https://github.com/cubny/lite-reader))
   * [Miniflux](https://miniflux.net/) - Miniflux is a minimalist and open source news reader. ([Source code](https://github.com/miniflux/miniflux))
   * [NewsBlur](https://github.com/samuelclay/NewsBlur) - NewsBlur is a personal news reader that brings people together to talk about the world. A new sound of an old instrument
+  * [Nunux Reader](http://reader.nunux.org/) - A simple, fast and reactive RSS reader. ([Source code](https://github.com/ncarlier/nunux-reader)) `GPLv3` `Nodejs`
   * [Reader-Self](http://readerself.com/) Self-hosted rss reader (php / mysql or sqlite) - Google Reader alternative ([Source code](https://github.com/readerself/readerself))
   * [Readr](https://github.com/pabloprieto/Readr) - A clean & simple, self-hosted RSS reader
   * [RSS2EMail](http://www.allthingsrss.com/rss2email/) - fetches RSS/Atom-feeds and pushes new Content to any email-reciever, supports OPML `GPL` `Python`
