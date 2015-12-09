@@ -43,7 +43,6 @@ Table of Contents
   - [Learning and Courses](#learning-and-courses)
   - [Maps & GPS](#maps--gps)
   - [Video Streaming](#video-streaming)
-  - [Micro services](#micro-services)
   - [Mind Maps](#mind-maps)
   - [Money, Budgeting and Management](#money-budgeting-and-management)
   - [Monitoring and Administration](#monitoring-and-administration)
@@ -100,6 +99,7 @@ _Web Analytics_
   * [Huginn](https://github.com/cantino/huginn) - Allows you to build agents that monitor and act on your behalf - `MIT` `Ruby`
   * [Http2pic](https://http2pic.haschek.at/) - website screenshots/renderer. It uses the wkhtmltox to render websites with various options. ([Source code](https://github.com/chrisiaut/http2pic)) `Apache 2.0` `PHP/Javascript`
   * [RSS-Bridge](https://github.com/sebsauvage/rss-bridge) - rss-bridge is a PHP project capable of generating ATOM feeds for websites which don't have one. `Public domain` `PHP`
+  * [TriggerHappy](https://github.com/foxmask/django-th) - an opensource clone of IFTTT - a bridge between your internet services `BSD` `Python`
 
 
 ## Blogging Platforms
@@ -492,10 +492,6 @@ Some [Groupware](#groupware) solutions also feature file sharing and synchroniza
   * [Rygel](https://wiki.gnome.org/action/show/Projects/Rygel) - Rygel is a home media solution (UPnP AV MediaServer) that allows you to easily share audio, video and pictures to other devices. Additionally, media player software may use Rygel to become a MediaRenderer that may be controlled remotely by a UPnP or DLNA Controller. `GPLv3` `C`
   * [Streama](https://github.com/dularion/streama) - Self-hosted Netflix alternative. - `MIT` `Java`
   * [Zoneminder](https://github.com/ZoneMinder/ZoneMinder) - Closed-circuit television (CCTV) software application which supports IP, USB and Analog cameras `GPLv2` `PHP`
-
-## Micro Services
-
- * [TriggerHappy](https://github.com/foxmask/django-th) - an opensource clone of IFTTT - a bridge between your internet services `BSD` `Python`
 
 ## Mind Maps
 
