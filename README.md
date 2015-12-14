@@ -19,7 +19,7 @@ Table of Contents
       - [Webmail clients](#webmail-clients)
       - [Mail Transfer Agents](#mail-transfer-agents)
       - [Mail Delivery Agents](#mail-delivery-agents)
-      - [Complete solutions](#complete-solutions)c
+      - [Complete solutions](#complete-solutions)
     - [XMPP](#xmpp)
       - [XMPP Servers](#xmpp-servers)
       - [XMPP Web Clients](#xmpp-web-clients)
