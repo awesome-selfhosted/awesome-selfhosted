@@ -194,7 +194,6 @@ _simple deployment of a mail server, e.g. for inexperienced or impatient admins.
   * [iRedMail](http://www.iredmail.org/) - Full-featured mail server solution based on Postfix and Dovecot.
   * [Citadel](http://www.citadel.org/) - Feature packed, easy, versatile, and powerful mail server, thanks to exclusive "rooms" based architecture.
   * [Modoboa](http://modoboa.org/en/) - Modoboa is a mail hosting and management platform including a modern and simplified Web User Interface. `Python` `MIT`
-  * [Fufix](https://www.debinux.de/fufix/) - Fufix is a mailserver installer based on Dovecot, Postfix, Postfixadmin, Nginx, PHP, MySQL and Fail2ban.
 
 
 ### XMPP
