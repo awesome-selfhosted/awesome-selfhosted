@@ -530,6 +530,7 @@ Some [Groupware](#groupware) solutions also feature file sharing and synchroniza
   * [cloudtunes](https://github.com/jkbrzt/cloudtunes) -  Web-based music player for the cloud `MIT` `Python/Javascript`
   * [GNU FM](https://gnu.io/fm/) - running music community websites, alternative to last.fm ([Source code](http://git.savannah.gnu.org/cgit/librefm.git/)) `GPLv3` `PHP`
   * [Groove Basin](http://groovebasin.com/) - A music player server with a web-based user interface inspired by Amarok 1.4 ([Source code](https://github.com/andrewrk/groovebasin)) `MIT` `Nodejs`
+  * [koel](http://koel.phanan.net/) - A personal music streaming server that works. ([Source code](https://github.com/phanan/koel)) `MIT` `PHP`
   * [Mopidy](http://mopidy.readthedocs.org/) - Extensible music server. Offers a superset of the mpd API, as well as integration with 3rd party services like Spotify, SoundCloud etc. ([Source code](https://github.com/mopidy/mopidy)) `Apache` `Python`
   * [mpd](http://www.musicpd.org/) - Daemon to remotely play music, stream music, handle and organize playlists. Many clients available. `GPLv2` `C++`
   * [Sonerezh](https://www.sonerezh.bzh/) - A self-hosted, web-based application for stream your music, everywhere. ([Demo](https://www.sonerezh.bzh/demo/), [Documentation](https://www.sonerezh.bzh/docs/), [Source code](https://github.com/sonerezh/sonerezh)) `GPLv3` `PHP`
