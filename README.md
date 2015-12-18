@@ -775,6 +775,7 @@ See also [Documentation Generators](#documentation-generators), [Wikimatrix](htt
   * [TiddlyWiki](http://tiddlywiki.com/) - a reusable non-linear personal web notebook `NodeJS`
   * [WiKiss](http://wikiss.tuxfamily.org/) - a Wiki, simple to use and install `PHP`
   * [Wikitten](https://github.com/victorstanciu/Wikitten) - Wikitten is a small, fast, PHP wiki, and the perfect place to store your notes, code snippets, ideas, and so on. `PHP`
+  * [jingo](https://github.com/claudioc/jingo) - A git based wiki engine written for node.js, with a decent design, a search capability and a good typography. [Demo](http://jingo.cica.li:6067/wiki/home) `MIT`  `NodeJS`
 
 
 ------------------------------------
