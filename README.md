@@ -565,6 +565,7 @@ Some [Groupware](#groupware) solutions also feature file sharing and synchroniza
 
  * [RatticDB](http://rattic.org/) - Password Management for Humans ([Source code](https://github.com/tildaslash/RatticWeb), [Demo](https://demo.rattic.org/cred/list/))
  * [Teampass](http://teampass.net/) - Password manager dedicated for managing passwords in a collaborative way on any server Apache, MySQL and PHP. ([Source code](https://github.com/nilsteampassnet/TeamPass/)) `GPLv3` `PHP`
+ * [keeweb](https://antelle.github.io/keeweb/) - This webapp is a browser and desktop password manager compatible with KeePass databases. ([Source code](https://github.com/antelle/keeweb)) `MIT` `JavaScript`
 
 
 ## Pastebins
