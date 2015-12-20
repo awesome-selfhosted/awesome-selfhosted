@@ -765,6 +765,7 @@ See also [Documentation Generators](#documentation-generators), [Wikimatrix](htt
   * [Gollum](https://github.com/gollum/gollum) - A simple, Git-powered wiki with a sweet API and local frontend.
   * [Gruik](http://gruik.io/) - An open-source markdown note-taking web app ([Source code](https://github.com/grena/gruik)) `PHP`
   * [ikiwiki](http://ikiwiki.info/) - A wiki compiler.
+  * [jingo](https://github.com/claudioc/jingo) - A git based wiki engine written for node.js, with a decent design, a search capability and a good typography. ([Source code](https://github.com/claudioc/jingo), [Demo](http://jingo.cica.li:6067/wiki/home)) `MIT`  `NodeJS`
   * [Mediawiki](https://www.mediawiki.org/wiki/MediaWiki) `PHP`
   * [MoinMoin](https://moinmo.in/) - An advanced, easy to use and extensible WikiEngine with a large community of users.
   * [Olelo/Gitwiki](https://github.com/minad/olelo) - Olelo is a wiki that stores pages in a Git repository, supports many markup styles and has an extensible, hackable architecture! Features: Edit, move or delete pages; Page attribute editor; Support for hierarchical wikis (directory structure); File upload; History, commit and diff view; Locales (Czech, English, French, German); Support for many markup languages (Creole, Markdown, Textile); RSS/Atom changelog for whole wiki or pages; Section editing for Creole; Embedded LaTeX formulas; Syntax highlighting; Image resizing, SVG to PNG/JPEG conversion; Auto-generated table of contents; Previews; View pages as S5 presentation; Privacy features: Access control lists, Private wiki, Read-only wiki. ([Demo](http://gitwiki.org/)) `Ruby`
@@ -775,7 +776,6 @@ See also [Documentation Generators](#documentation-generators), [Wikimatrix](htt
   * [TiddlyWiki](http://tiddlywiki.com/) - a reusable non-linear personal web notebook `NodeJS`
   * [WiKiss](http://wikiss.tuxfamily.org/) - a Wiki, simple to use and install `PHP`
   * [Wikitten](https://github.com/victorstanciu/Wikitten) - Wikitten is a small, fast, PHP wiki, and the perfect place to store your notes, code snippets, ideas, and so on. `PHP`
-  * [jingo](https://github.com/claudioc/jingo) - A git based wiki engine written for node.js, with a decent design, a search capability and a good typography. ([Source code](https://github.com/claudioc/jingo), [Demo](http://jingo.cica.li:6067/wiki/home)) `MIT`  `NodeJS`
 
 
 ------------------------------------
