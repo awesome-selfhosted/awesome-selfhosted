@@ -423,6 +423,7 @@ Some [Groupware](#groupware) solutions also feature file sharing and synchroniza
   * [Nimbus](https://github.com/ethanal/nimbus) - A drag-and-drop shortlink file sharer for OS X - `MIT` `Python`
   * [OnionShare](https://onionshare.org/) - securely and anonymously share a file of any size.
   * [Pomf](https://github.com/nokonoko/Pomf) -  Simple file uploading and sharing, source for the now shut down site Pomf.se `MIT` `PHP/Nodejs`
+  * [uPste](https://u.pste.pw) - A private file hosting application with an emphasis on serving technology communities. ([Source code](https://github.com/TheReverend403/uPste)) `AGPLv3` `PHP`
   * [YouTransfer](http://www.youtransfer.io) - YouTransfer is a simple but elegant self-hosted file transfer & sharing solution. ([Demo](http://demo.youtransfer.io/), [Source code](https://github.com/remie/YouTransfer)) `Apache` `Nodejs`
 
 
@@ -872,6 +873,7 @@ The list of contributors can be found below
     3	Ye Lin Aung <me@yelinaung.com>
     3	jungle-boogie <sean@rastasean.net>
     3	rett gerst <rettgerst@users.noreply.github.com>
+    3	Lee Watson <rev@revthefox.co.uk>
     2	Albert Cervera i Areny <albert@nan-tic.com>
     2	Alexander Ryzhov <gtihub@ryzhov-al.ru>
     2	Alexis Metaireau <alexis@notmyidea.org>
@@ -889,7 +891,6 @@ The list of contributors can be found below
     2	Joseph Dykstra <josephdykstra@gmail.com>
     2	Julien Bisconti <veggiemonk@users.noreply.github.com>
     2	Kevin Vandenborne <kevin.vandenborne@gmail.com>
-    2	Lee Watson <rev@revthefox.co.uk>
     2	Marien Fressinaud <dev@marienfressinaud.fr>
     2	Massimo Santini <massimo.santini@gmail.com>
     2	Matthieu Aubry <matt@piwik.org>
