@@ -393,6 +393,7 @@ Some [Groupware](#groupware) solutions also feature file sharing and synchroniza
   * [Apaxy](http://adamwhitcroft.com/apaxy/) - Theme built to enhance the experience of browsing web directories, using the mod_autoindex Apache module and some CSS to override the default style of a directory listing. ([Source code](https://github.com/AdamWhitcroft/Apaxy) `Public domain` `CSS`
   * [eXtplorer](http://extplorer.sourceforge.net/) - A PHP- and JavaScript- based File Manager
   * [h5ai](https://larsjung.de/h5ai/) - modern file indexer for HTTP web servers with focus on your files. Directories are displayed in a appealing way and browsing them is enhanced by different views, a breadcrumb and a tree overview. ([Source code](https://github.com/lrsjng/h5ai), [Demo](https://larsjung.de/h5ai/demo/)) `MIT` `PHP/Javascript`
+  * [TagSpaces](http://www.tagspaces.org/) - Cross-platform file tagging, file finding, note taking, file browsing. ([Source code](https://github.com/tagspaces/tagspaces),[Demo](http://www.tagspaces.org/demo/)) `AGPLv3` `JavaScript`
 
 
 #### File synchronization
@@ -425,6 +426,9 @@ Some [Groupware](#groupware) solutions also feature file sharing and synchroniza
   * [Pomf](https://github.com/nokonoko/Pomf) -  Simple file uploading and sharing, source for the now shut down site Pomf.se `MIT` `PHP/Nodejs`
   * [uPste](https://u.pste.pw) - A private file hosting application with an emphasis on serving technology communities. ([Source code](https://github.com/TheReverend403/uPste)) `AGPLv3` `PHP`
   * [YouTransfer](http://www.youtransfer.io) - YouTransfer is a simple but elegant self-hosted file transfer & sharing solution. ([Demo](http://demo.youtransfer.io/), [Source code](https://github.com/remie/YouTransfer)) `Apache` `Nodejs`
+  * [Magic Wormhole](https://github.com/warner/magic-wormhole) -Get things from one computer to another, safely. `MIT` `Python`
+
+ 
 
 
 #### Peer-to-peer filesharing
@@ -537,6 +541,7 @@ Some [Groupware](#groupware) solutions also feature file sharing and synchroniza
   * [mpd](http://www.musicpd.org/) - Daemon to remotely play music, stream music, handle and organize playlists. Many clients available. `GPLv2` `C++`
   * [Sonerezh](https://www.sonerezh.bzh/) - A self-hosted, web-based application for stream your music, everywhere. ([Demo](https://www.sonerezh.bzh/demo/), [Documentation](https://www.sonerezh.bzh/docs/), [Source code](https://github.com/sonerezh/sonerezh)) `GPLv3` `PHP`
   * [Subsonic](http://subsonic.org/) - Open-source web-based media streamer and jukebox ([Demo](http://demo.subsonic.org/login.view?user=guest4&password=guest), [Source code](https://github.com/EugeneKay/subsonic)) `GPLv3` `Java`
+  * [Tomahawk](https://www.tomahawk-player.org/) - A free multi-source and cross-platform music player, streamer and jukebox. ([Source code](https://github.com/tomahawk-player/tomahawk)) `GPLv3` `C++` 
 
 
 ## Note-taking & Editors
@@ -819,7 +824,7 @@ See also [Documentation Generators](#documentation-generators), [Wikimatrix](htt
 ## External links
 
  * [Awesome Sysadmin](https://github.com/n1trux/awesome-sysadmin) -  A curated list of amazingly awesome open source sysadmin resources.
- * [PRISM Break](https://prism-break.org/en/), [privacytools.io](https://www.privacytools.io/), [Alternative Internet](https://redecentralize.github.io/alternative-internet/) - Lists of software aimed at privacy and decentralization (in some form).
+ * [PRISM Break](https://prism-break.org/en/), [privacytools.io](https://www.privacytools.io/), [Alternative Internet](https://redecentralize.github.io/alternative-internet/),[Leaving The Cloud](https://wiki.debian.org/FreedomBox/LeavingTheCloud) - Lists of software aimed at privacy and decentralization (in some form).
  * Dynamic Domain Name services: [Afraid.org](https://freedns.afraid.org/domain/registry/), [Pagekite](https://pagekite.net/)
  * Communities/forums: [/r/selfhosted](https://www.reddit.com/r/selfhosted), [Auto-Hébergement (FR)](http://www.auto-hebergement.fr/)
 
