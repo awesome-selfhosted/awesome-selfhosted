@@ -789,6 +789,7 @@ See also [Documentation Generators](#documentation-generators), [Wikimatrix](htt
 ## Self-hosting Solutions
 
   * [arkOS](https://arkos.io/) - Install arkOS to a dedicated device and host your own websites, email, files and more. ([Source code](https://git.coderouge.co/groups/arkOS) [[1]](https://github.com/cznweb)) `MIT/GPL` `Nodejs/Other`
+  * [FreedomBone](http://github.com/bashrc/freedombone) - Home server configuration based on Debian. `GPLv3` `Shell`
   * [FreedomBox](https://wiki.debian.org/FreedomBox) - a community project to develop, design and promote personal servers running free software for private, personal, communications. `GPLv3` `Python/Other`
   * [Piratebox](https://piratebox.cc/start) - A DIY anonymous offline file-sharing and communications system built with free software and inexpensive off-the-shelf hardware. ([Source code](https://github.com/PirateBox-Dev)). `GPLv3` `Python/Other`
   * [Sandstorm](https://sandstorm.io/) - Personal server for running self-hosted apps easily and securely. ([Demo](https://demo.sandstorm.io/), [Source code](https://github.com/sandstorm-io/sandstorm)) `Apache` `C++/Other`
@@ -964,7 +965,3 @@ The list of contributors can be found below
     1	steven jacobs <stjacobs@fastmail.fm>
     1	stevesbrain <stevesbrain@users.noreply.github.com>
     1	ttoups <ich@timotoups.de>
-
-
-
-
