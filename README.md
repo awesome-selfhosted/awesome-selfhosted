@@ -589,9 +589,8 @@ Some [Groupware](#groupware) solutions also feature file sharing and synchroniza
 ## Personal Dashboards
 
   * [Habitica](http://habitica.com/) - A habit tracker app which treats your goals like a Role Playing Game. Previously called HabitRPG. ([Source code](https://github.com/HabitRPG/habitrpg)) `GPLv3/Other` `Nodejs`
+  * [Reportr](https://github.com/Reportr/dashboard) - Your life's personal dashboard. ([Source code](https://github.com/Reportr/dashboard))
   * [wger](https://github.com/rolandgeider/wger) - A web-based personal workout, fitness and weight logger/tracker. It can also be used as a simple gym management utility and offers a full REST API as well. ([Demo](https://wger.de)) `AGPLv3` `Python`
-  * [Reportr](http://www.reportr.io/) - Your life's personal dashboard. ([Source code](https://github.com/Reportr/dashboard))
-
 
 ## Photo and Video Galleries
 
