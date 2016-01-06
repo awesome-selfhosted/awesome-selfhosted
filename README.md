@@ -367,7 +367,6 @@ _Recipe management_
   * [Kriss Feed](http://tontof.net/kriss/feed/) - A simple and smart (or stupid) feed reader ([Demo](http://tontof.net/feed/), [Source code](https://github.com/tontof/kriss_feed/))
   * [Leed](http://leed.idleman.fr) - Leed (for Light Feed) is a Free and minimalist RSS aggregator ([Source code](https://github.com/ldleman/Leed))
   * [Leselys](https://github.com/socketubs/leselys) - your very elegant RSS reader
-  * [Liled](https://github.com/ypo/liled) - Liled is an aggregator, capable of reading Atom and RSS feeds ([Demo](http://liled.alwaysdata.net/app/index.php) - _guest/guest_)
   * [Lite-Reader](http://cubny.com/lite-reader/) - Read your feeds on your own machine with a simple and lite application. ([Source code](https://github.com/cubny/lite-reader))
   * [Miniflux](https://miniflux.net/) - Miniflux is a minimalist and open source news reader. ([Source code](https://github.com/miniflux/miniflux))
   * [NewsBlur](https://github.com/samuelclay/NewsBlur) - NewsBlur is a personal news reader that brings people together to talk about the world. A new sound of an old instrument
