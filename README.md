@@ -539,6 +539,7 @@ Some [Groupware](#groupware) solutions also feature file sharing and synchroniza
   * [mpd](http://www.musicpd.org/) - Daemon to remotely play music, stream music, handle and organize playlists. Many clients available. `GPLv2` `C++`
   * [Sonerezh](https://www.sonerezh.bzh/) - A self-hosted, web-based application for stream your music, everywhere. ([Demo](https://www.sonerezh.bzh/demo/), [Documentation](https://www.sonerezh.bzh/docs/), [Source code](https://github.com/sonerezh/sonerezh)) `GPLv3` `PHP`
   * [Subsonic](http://subsonic.org/) - Open-source web-based media streamer and jukebox ([Demo](http://demo.subsonic.org/login.view?user=guest4&password=guest), [Source code](https://github.com/EugeneKay/subsonic)) `GPLv3` `Java`
+  * [Madsonic](http://madsonic.org/) - Madsonic is a web-based media streamer and jukebox fork of Subsonic ([Demo](http://demo.madsonic.org/index.view), [Source code](https://github.com/MadMarty/madsonic-server-5.1)) `GPLv3` `Java`
 
 
 ## Note-taking & Editors
