@@ -27,6 +27,7 @@ Table of Contents
     - [IRC](#irc)
     - [Custom](#custom)
     - [Social Networks and Forums](#social-networks-and-forums)
+      - [Social Networks Tools](#social-networks-tools)
   - [Content Management Systems (CMS)](#content-management-systems-cms)
     - [E-commerce](#e-commerce)
   - [Federated Identity/Authentication](#federated-identityauthentication)
@@ -296,6 +297,9 @@ _[Extensible Messaging and Presence Protocol](https://en.wikipedia.org/wiki/XMPP
   * [twister](http://twister.net.co/) -  P2P microblogging platform
   * [Vanilla Forums](http://vanillaforums.org/) - Simple and flexible forum software ([Source code](https://github.com/vanilla/vanilla)) `GPLv2` `PHP`
 
+#### Social Networks tools
+
+  * [WTFDYUM](https://github.com/jchampemont/WTFDYUM) a.k.a Why The Fuck Did You Unfollow Me - find out who stops following you on Twitter. ([Demo](https://www.wtfdyu.me/) [Source Code](https://github.com/jchampemont/WTFDYUM)) `Apache`
 
 ## Content Management Systems (CMS)
 
