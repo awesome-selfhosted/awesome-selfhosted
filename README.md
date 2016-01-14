@@ -299,7 +299,7 @@ _[Extensible Messaging and Presence Protocol](https://en.wikipedia.org/wiki/XMPP
 
 #### Social Networks tools
 
-  * [WTFDYUM](https://github.com/jchampemont/WTFDYUM) a.k.a Why The Fuck Did You Unfollow Me - find out who stops following you on Twitter. ([Demo](https://www.wtfdyu.me/) [Source Code](https://github.com/jchampemont/WTFDYUM)) `Apache`
+  * [WTFDYUM](https://github.com/jchampemont/WTFDYUM) a.k.a Why The Fuck Did You Unfollow Me - find out who stops following you on Twitter. ([Demo](https://www.wtfdyu.me/), [Source Code](https://github.com/jchampemont/WTFDYUM)) `Apache` `Java`
 
 ## Content Management Systems (CMS)
 
