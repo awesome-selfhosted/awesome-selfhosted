@@ -524,11 +524,12 @@ Some [Groupware](#groupware) solutions also feature file sharing and synchroniza
 
 ## Monitoring and Administration
 
+  * [Dj Diabetes](https://github.com/foxmask/dj-diabetes) - My Glucose Manager - follow your daily health
   * [Prometheus](http://prometheus.io/) - Monitoring system and time series database. ([Source code](https://github.com/prometheus/prometheus)) `Apache` `Go`
   * [psdash](https://github.com/Jahaja/psdash) - A linux system information web dashboard using psutils and flask
   * [pyDash](https://github.com/k3oni/pydash) - Small web-based monitoring dashboard for linux ([Demo](http://pydash.hostechs.com/main/) - _admin/admin_)
   * [sensu](https://sensuapp.org/) - monitor servers, services, application health, and business KPIs. Get notified about failures before your users do. Collect and analyze custom metrics. `MIT`
-   * [uchiwa](https://uchiwa.io/) - simple dashboard for sensu
+  * [uchiwa](https://uchiwa.io/) - simple dashboard for sensu
 
 
 ## Music Streaming
@@ -895,6 +896,7 @@ The list of contributors can be found below
     2	David Leonard <david@appliedtrust.com>
     2	David Wayne Baxter <dbxt@users.noreply.github.com>
     2	Deryck <dhenson02@users.noreply.github.com>
+    2   FoxMaSk <foxmask@trigger-happy.eu>
     2	Greg V <greg@unrelenting.technology>
     2	Henry Ruhs <info@redaxmedia.com>
     2	Jason Robinson <mail@jasonrobinson.me>
