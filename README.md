@@ -524,11 +524,10 @@ Some [Groupware](#groupware) solutions also feature file sharing and synchroniza
 
 ## Monitoring and Administration
 
-  * [Dj Diabetes](https://github.com/foxmask/dj-diabetes) - My Glucose Manager - follow your daily health  `BSD` `Python`
   * [Prometheus](http://prometheus.io/) - Monitoring system and time series database. ([Source code](https://github.com/prometheus/prometheus)) `Apache` `Go`
   * [psdash](https://github.com/Jahaja/psdash) - A linux system information web dashboard using psutils and flask
   * [pyDash](https://github.com/k3oni/pydash) - Small web-based monitoring dashboard for linux ([Demo](http://pydash.hostechs.com/main/) - _admin/admin_)
-  * [sensu](https://sensuapp.org/) - monitor servers, services, application health, and business KPIs. Get notified about failures before your users do. Collect and analyze custom metrics. `MIT`
+   * [sensu](https://sensuapp.org/) - monitor servers, services, application health, and business KPIs. Get notified about failures before your users do. Collect and analyze custom metrics. `MIT`
   * [uchiwa](https://uchiwa.io/) - simple dashboard for sensu
 
 
@@ -593,6 +592,7 @@ Some [Groupware](#groupware) solutions also feature file sharing and synchroniza
 
 ## Personal Dashboards
 
+  * [Dj Diabetes](https://github.com/foxmask/dj-diabetes) - My Glucose Manager - follow your daily health  `BSD` `Python`  
   * [Habitica](http://habitica.com/) - A habit tracker app which treats your goals like a Role Playing Game. Previously called HabitRPG. ([Source code](https://github.com/HabitRPG/habitrpg)) `GPLv3/Other` `Nodejs`
   * [Reportr](https://github.com/Reportr/dashboard) - Your life's personal dashboard. ([Source code](https://github.com/Reportr/dashboard))
   * [wger](https://github.com/rolandgeider/wger) - A web-based personal workout, fitness and weight logger/tracker. It can also be used as a simple gym management utility and offers a full REST API as well. ([Demo](https://wger.de)) `AGPLv3` `Python`
