@@ -479,6 +479,7 @@ Some [Groupware](#groupware) solutions also feature file sharing and synchroniza
 ## Learning and Courses
 
   * [Chamilo LMS](https://chamilo.org/chamilo-lms/) - Chamilo LMS allows you to create a virtual campus for the provision of online or semi-online training. ([Source code](https://github.com/chamilo/chamilo-lms)) `GPLv3` `PHP`
+  * [edX](https://edX.org) - The Open edX platform is open-source code that powers [edX.org](https://edx.org). ([Source code](https://github.com/edx/)) `AGPLv3` `Python`
   * [lxHive](http://www.lxhive.com/) - Open Source ExperienceAPI compliant Learning Record Store (LRS) - previously code-named TinCanAPI. [Source code](https://github.com/Brightcookie/lxHive) `GPLv3` `PHP`
   * [Mahara](https://mahara.org/) - Open Source fully featured web application to build students electronic portfolio. [Source code](https://github.com/MaharaProject/mahara) `GPLv3` `PHP`
   * [Moodle](https://moodle.org/) - Moodle is a learning and courses platform with one of the largest open source communities worldwide. ([Demo](https://moodle.org/demo/), [Source code](https://git.moodle.org/gw)) `GPL` `PHP`
