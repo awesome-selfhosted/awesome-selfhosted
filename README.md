@@ -348,7 +348,6 @@ _Recipe management_
 
 ## Federated Identity/Authentication
 
-  * [BrowserID/Mozilla Persona](https://developer.mozilla.org/en-US/Persona/Implementing_a_Persona_IdP) ([Source Code](https://github.com/mozilla/persona)) `MPLv2` `Nodejs`
   * [FreeRADIUS](http://freeradius.org/) - high performance and highly configurable multi-protocol policy/authentication server, supporting RADIUS, DHCPv4 and VMPS ([Source Code](https://github.com/FreeRADIUS/freeradius-server)) `GPLv2` `C`
    * [daloRADIUS](http://www.daloradius.com) - open-source web management platform for FreeRADIUS-based deployments ([Source Code](https://github.com/lirantal/daloradius)) `GPLv2`
   * [IndieAuth](https://indieauth.com) - Sign in with your domain name (using the [rel-me-auth](http://microformats.org/wiki/relmeauth) protocol) `Apache` `Ruby`
