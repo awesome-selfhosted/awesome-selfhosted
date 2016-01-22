@@ -813,6 +813,7 @@ See also [Documentation Generators](#documentation-generators), [Wikimatrix](htt
 ## List of Licenses
 
  * ` ⚠ ` - Depends on a third party network service
+ * `AAL` - [Attribution Assurance License](https://opensource.org/licenses/AAL)
  * `AGPLv3` - [GNU Affero General Public License 3.0](https://www.gnu.org/licenses/agpl-3.0)
  * `Apache` - [Apache, Version 2.0](http://www.apache.org/licenses/)
  * `ARTv2` - [Artistic License Version 2.0](http://opensource.org/licenses/Artistic-2.0)
