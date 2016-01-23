@@ -100,16 +100,16 @@ _Web Analytics_
   * [Http2pic](https://http2pic.haschek.at/) - website screenshots/renderer. It uses the wkhtmltox to render websites with various options. ([Source code](https://github.com/chrisiaut/http2pic)) `Apache 2.0` `PHP/Javascript`
   * [RSS-Bridge](https://github.com/sebsauvage/rss-bridge) - rss-bridge is a PHP project capable of generating ATOM feeds for websites which don't have one. `Public domain` `PHP`
   * [TriggerHappy](https://github.com/foxmask/django-th) - an opensource clone of IFTTT - a bridge between your internet services `BSD` `Python`
-  * [WTFDYUM](https://github.com/jchampemont/WTFDYUM) a.k.a Why The Fuck Did You Unfollow Me - find out who stops following you on Twitter. ([Demo](https://www.wtfdyu.me/), [Source Code](https://github.com/jchampemont/WTFDYUM)) `Apache` `Java`
+  * [WTFDYUM](https://github.com/jchampemont/WTFDYUM) a.k.a Why The Fuck Did You Unfollow Me - Find out who stops following you on Twitter. ([Demo](https://www.wtfdyu.me/), [Source Code](https://github.com/jchampemont/WTFDYUM)) `Apache` `Java`
 
 
 ## Blogging Platforms
 
 See also [Static Site Generators](#static-site-generators), [Content Management Systems](#content-management-systems-cms) and [WeblogMatrix](http://www.weblogmatrix.org/)
 
-  * [Anchor CMS](https://anchorcms.com/) -  Anchor is a free, lightweight, faster-than-a-bullet, simple blogging system, made for art–directed posts. ([Source code](https://github.com/anchorcms/anchor-cms)) `GPLv3` `PHP`
+  * [Anchor CMS](https://anchorcms.com/) - Anchor is a free, lightweight, faster-than-a-bullet, simple blogging system, made for art–directed posts. ([Source code](https://github.com/anchorcms/anchor-cms)) `GPLv3` `PHP`
   * [Antville](https://antville.org) - Antville is a free, open source project aimed at the development of a high performance, feature rich weblog hosting software. ([Source code](https://github.com/antville/antville)) `Apache` `JavaScript`
-  * [Blogotext](http://lehollandaisvolant.net/blogotext/en/) - a free blog-engine written in PHP and using SQLite. This offers you both an unmatched simplicity during installation and great performances. ([Source code](https://github.com/timovn/blogotext)) `MIT` `PHP`
+  * [Blogotext](http://lehollandaisvolant.net/blogotext/en/) - A free blog-engine written in PHP and using SQLite. This offers you both an unmatched simplicity during installation and great performances. ([Source code](https://github.com/timovn/blogotext)) `MIT` `PHP`
   * [Chyrp](https://github.com/chyrp/chyrp) - An extra-awesome, extra-lightweight blog engine `MIT` `PHP`
   * [Dotclear](http://dotclear.org/) - Take control over your blog! ([Source code](https://hg.dotclear.org/dotclear)) `GPLv2` `PHP`
   * [Ghost](https://ghost.org/) - Just a blogging platform ([Source code](https://github.com/TryGhost/Ghost)) `MIT` `Nodejs`
@@ -130,7 +130,7 @@ See also [Static Site Generators](#static-site-generators), [Content Management 
   * [Myyna](http://www.myyna.com/) - Open source alternative to Pinterest ([Demo](http://demo.myyna.com/), [Source code](https://github.com/cubettech/myyna)) `MIT` `Nodejs`
   * [No Fuss Bookmarks](http://nofussbm.herokuapp.com/signup.html) - Very simple software and service to store bookmarks especially designed for hackers (that don't need fancy interfaces, but nice API) ([Source code]( https://github.com/mapio/nofussbm)) `GPLv3` `Python`
   * [Pinry](http://getpinry.com/) - The tiling image board system for people who want to save, tag, and share images, videos, and webpages. ([Source code](https://github.com/pinry/pinry))
-  * [Scuttle](https://github.com/scronide/scuttle) -  Web-based social bookmarking system. Allows multiple users to store, share and tag their favourite links `GPLv2` `PHP`
+  * [Scuttle](https://github.com/scronide/scuttle) - Web-based social bookmarking system. Allows multiple users to store, share and tag their favourite links `GPLv2` `PHP`
   * [Shaarli](https://github.com/shaarli/Shaarli) - Personal, minimalist, super-fast, no-database bookmarking and link sharing plaform. ([Demo](http://shaarlidemo.tuxfamily.org/Shaarli/) `demo/demo`)
   * [unmark](https://github.com/plainmade/unmark) - An open source to do app for links
 
@@ -141,11 +141,11 @@ Some [Groupware](#groupware) solutions also feature calendar/address book editin
 
   * [AgenDAV](http://agendav.org/) - Multilanguage CalDAV web client with a rich AJAX interface and shared calendars support
   * [Baïkal](http://baikal-server.com/) - Lightweight CalDAV+CardDAV server
-  * [CalendarServer](http://trac.calendarserver.org/) - a standards-compliant server implementing the CalDAV and CardDAV protocols. `Apache` `Python`
-  * [calypso](http://keithp.com/calypso/) - a python-based CalDAV/CardDAV server
-  * [DAViCal](http://www.davical.org/) - a server for calendar sharing (CalDAV)
+  * [CalendarServer](http://trac.calendarserver.org/) - A standards-compliant server implementing the CalDAV and CardDAV protocols. `Apache` `Python`
+  * [calypso](http://keithp.com/calypso/) - A python-based CalDAV/CardDAV server
+  * [DAViCal](http://www.davical.org/) - A server for calendar sharing (CalDAV)
   * [Radicale](http://radicale.org/) - A Simple Calendar and Contact Server
-  * [sabre/dav](http://sabre.io/) -  A open source CardDAV, CalDAV and WebDAV server.
+  * [sabre/dav](http://sabre.io/) - A open source CardDAV, CalDAV and WebDAV server.
   * [ownCloud calendar](https://doc.owncloud.org/server/7.0/user_manual/pim/calendar.html) - The ownCloud Calendar app enables you to create and edit events, synchronize to other calendars you might use, and create new, personalized calendars. ([Source code](https://github.com/owncloud/calendar)) `AGPLv3` `PHP`
 
 ## Communication systems
@@ -264,12 +264,12 @@ _[Extensible Messaging and Presence Protocol](https://en.wikipedia.org/wiki/XMPP
     * [Matrix Console Web](https://matrix.org/blog/project/matrix-console-web/) - A web client meant to be a showcase of Matrix capabilities, and reference implementation of the Matrix standard ([Source code](https://github.com/matrix-org/matrix-angular-sdk)) `Apache` `Javascript`
   * [Syndie](https://www.syndie.de) - Syndie is a libre system for operating distributed forums. `Public Domain` `Java`
   * [TextBelt](https://github.com/typpo/textbelt) - An outgoing SMS API that uses carrier-specific gateways to deliver your text messages for free, and without ads. ` ⚠ ` `MIT` `JavaScript`
-  * [Tox](https://tox.chat/) -  A distributed, secure messenger with audio and video chat capabilities. `GPLv3` `C`
+  * [Tox](https://tox.chat/) - A distributed, secure messenger with audio and video chat capabilities. `GPLv3` `C`
   * [Zulip](https://zulip.org) - Zulip is a powerful, open source group chat application. ([Source code](https://github.com/zulip/zulip))`Apache 2.0/Other` `Python/Django`
 
 ### Social Networks and Forums
 
-  * [Anahita](https://www.getanahita.com/) Open Source Social Networking Framework & Platform. ([Source code](https://github.com/anahitasocial) `GPLv3` `PHP`
+  * [Anahita](https://www.getanahita.com/) - Open Source Social Networking Framework & Platform. ([Source code](https://github.com/anahitasocial) `GPLv3` `PHP`
   * [Bootcamp](http://trybootcamp.vitorfs.com) - An enterprise social network - [Source code](https://github.com/vitorfs/bootcamp)
   * [Buddycloud](http://buddycloud.com/) - Tools, libraries, services and a community to build user-to-user, group and social messaging into your app. Saves time. Scales up. Supports you. ([Source code](https://github.com/buddycloud)) `Apache 2.0` `Java/Javascript`
   * [BuddyPress](https://buddypress.org/about/) - A powerful plugin that takes your WordPress.org powered site beyond the blog with social-network features like user profiles, activity streams, user groups, and more.
@@ -295,7 +295,7 @@ _[Extensible Messaging and Presence Protocol](https://en.wikipedia.org/wiki/XMPP
   * [Pump.io](http://pump.io/) - stream server that does most of what people really want from a social network ([Source code](https://github.com/e14n/pump.io))
   * [Reddit](https://www.reddit.com/) - social networking and news website where registered community members can submit content. ([Demo](https://www.reddit.com/) [Source Code](https://github.com/reddit/reddit)) `CPALv1` `Python`
   * [RedMatrix](http://redmatrix.me/) - complete decentralised publishing, sharing, and communications system ([Source code](https://github.com/redmatrix/redmatrix))
-  * [twister](http://twister.net.co/) -  P2P microblogging platform
+  * [twister](http://twister.net.co/) - P2P microblogging platform
   * [Vanilla Forums](http://vanillaforums.org/) - Simple and flexible forum software ([Source code](https://github.com/vanilla/vanilla)) `GPLv2` `PHP`
 
 
@@ -312,7 +312,7 @@ CMS are a practical way to setup a website with many features. CMS often come wi
   * [Concrete 5 CMS](http://www.concrete5.org/) - an open source content management system `MIT`
   * [Drupal](https://www.drupal.org/) - Advanced open source content management platform `GPL`
   * [Gazelle](https://github.com/WhatCD/Gazelle) - Gazelle is a web framework geared towards private BitTorrent trackers. Although naturally focusing on music, it can be modified for most needs. `PHP`
-  * [Grav](http://getgrav.org/) -  Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS  ([Source code](https://github.com/getgrav/grav)) `MIT` `PHP`
+  * [Grav](http://getgrav.org/) - Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS  ([Source code](https://github.com/getgrav/grav)) `MIT` `PHP`
   * [GetSimple CMS](http://get-simple.info/) - The Simplest Content Management System. Ever. `GPLv3`
   * [ImpressPages CMS](https://www.impresspages.org/) - Easy code meets easy admin. ([Demo](https://www.impresspages.org/demo), [Source Code](https://github.com/impresspages/ImpressPages)) `GPLv3`/`MIT`  `PHP`
   * [Joomla!](http://www.joomla.fr/) - Advanced Content Management System (CMS) `GPL`
@@ -322,8 +322,8 @@ CMS are a practical way to setup a website with many features. CMS often come wi
   * [october](http://octobercms.com/) - Free, open-source, self-hosted CMS platform based on the Laravel PHP Framework. ([Source code](https://github.com/octobercms/october)) `MIT`
   * [Pagekit](http://pagekit.com/) - A new modern CMS to create and share ([Source code](https://github.com/pagekit/pagekit)) `MIT`
   * [Pico](http://picocms.org/) - A stupidly simple, blazing fast, flat file CMS. ([Source code](https://github.com/picocms/Pico)) `MIT`
-  * [Pimcore](https://www.pimcore.org/) Multi-Channel Experience and Engagement Management Platform ([Source code](https://github.com/pimcore/pimcore)) `BSD` `PHP`
-  * [Plone](https://plone.org/) Powerful open-source CMS system ([Source code](https://github.com/plone)) `Python` `Zope`
+  * [Pimcore](https://www.pimcore.org/) - Multi-Channel Experience and Engagement Management Platform ([Source code](https://github.com/pimcore/pimcore)) `BSD` `PHP`
+  * [Plone](https://plone.org/) - Powerful open-source CMS system ([Source code](https://github.com/plone)) `Python` `Zope`
   * [Publify](http://publify.co/) - A simple but full featured web publishing software. ([Demo](http://demo.publify.co/), [Source code](https://github.com/publify/publify)) `MIT` `Ruby`
   * [Redaxscript](http:/redaxscript.com) - Ultra lightweight CMS for MySQL, SQLite and PostgreSQL ([Demo](http://demo.redaxscript.com/demo/login), [Source Code](https://github.com/redaxmedia/redaxscript)) `GPLv3` `PHP`
   * [SilverStripe](https://www.silverstripe.org) - easy to use CMS with powerful MVC framework underlying. ([Demo](http://demo.silverstripe.org/), [Source code](https://github.com/silverstripe)) `BSD` `PHP`
@@ -393,7 +393,7 @@ Some [Groupware](#groupware) solutions also feature file sharing and synchroniza
 #### Web based file managers
 
   * [Apaxy](http://adamwhitcroft.com/apaxy/) - Theme built to enhance the experience of browsing web directories, using the mod_autoindex Apache module and some CSS to override the default style of a directory listing. ([Source code](https://github.com/AdamWhitcroft/Apaxy) `Public domain` `CSS`
-  * [eXtplorer](http://extplorer.sourceforge.net/) - A PHP- and JavaScript- based File Manager
+  * [eXtplorer](http://extplorer.sourceforge.net/) - A PHP and JavaScript based File Manager
   * [h5ai](https://larsjung.de/h5ai/) - modern file indexer for HTTP web servers with focus on your files. Directories are displayed in a appealing way and browsing them is enhanced by different views, a breadcrumb and a tree overview. ([Source code](https://github.com/lrsjng/h5ai), [Demo](https://larsjung.de/h5ai/demo/)) `MIT` `PHP/Javascript`
 
 
@@ -424,7 +424,7 @@ Some [Groupware](#groupware) solutions also feature file sharing and synchroniza
   * [Mediacrush](https://mediacru.sh/) - a website you can upload images, audio, and video to, and receive a link to share it with your friends ([Source code](https://github.com/MediaCrush/MediaCrush))
   * [Nimbus](https://github.com/ethanal/nimbus) - A drag-and-drop shortlink file sharer for OS X - `MIT` `Python`
   * [OnionShare](https://onionshare.org/) - securely and anonymously share a file of any size.
-  * [Pomf](https://github.com/nokonoko/Pomf) -  Simple file uploading and sharing, source for the now shut down site Pomf.se `MIT` `PHP/Nodejs`
+  * [Pomf](https://github.com/nokonoko/Pomf) - Simple file uploading and sharing, source for the now shut down site Pomf.se `MIT` `PHP/Nodejs`
   * [uPste](https://u.pste.pw) - A private file hosting application with an emphasis on serving technology communities. ([Source code](https://github.com/TheReverend403/uPste)) `AGPLv3` `PHP`
   * [YouTransfer](http://www.youtransfer.io) - YouTransfer is a simple but elegant self-hosted file transfer & sharing solution. ([Demo](http://demo.youtransfer.io/), [Source code](https://github.com/remie/YouTransfer)) `Apache` `Nodejs`
 
@@ -437,7 +437,7 @@ Some [Groupware](#groupware) solutions also feature file sharing and synchroniza
   * [FileTea](https://filetea.me/) - Anonymous, volatile file sharing: does not store any file on server. Bridges a download to the recipient’s browser with an upload from the source’s browser. ([Source code](https://github.com/elima/FileTea) `AGPLv3` `C`
   * [instant.io](https://github.com/feross/instant.io) - Streaming file transfer over WebTorrent ([Demo](https://instant.io)) `MIT` `Nodejs`
   * [Opentracker](http://erdgeist.org/arts/software/opentracker/) - open and free bittorrent tracker. It aims for minimal resource usage and is intended to run at your wlan router ([Source code](http://erdgeist.org/gitweb/opentracker/) `Public domain` `C`
-  * [ShareFest](https://github.com/peer5/sharefest) -  Web based p2p file sharing built on WebRTC Data Channels API ([Demo](https://www.sharefest.me/)) `Apache 2.0` `Nodejs`
+  * [ShareFest](https://github.com/peer5/sharefest) - Web based p2p file sharing built on WebRTC Data Channels API ([Demo](https://www.sharefest.me/)) `Apache 2.0` `Nodejs`
 
 
 #### Distributed filesystems
@@ -470,9 +470,9 @@ Some [Groupware](#groupware) solutions also feature file sharing and synchroniza
   * [egroupware](http://www.egroupware.org/) - Software suite including calendars, address books, notepad, project management tools, client relationship management tools (CRM), knowledge management tools, a wiki and a CMS.
   * [Horde](http://www.horde.org/) - The Horde Project is about creating high quality Open Source applications and libraries, based on PHP and the Horde Framework. - `GPL`
   * [Kolab](https://kolab.org/) - Kolab community is a unified communication and collaboration system - `Various FLOSS Licenses` ([Source](https://git.kolab.org/))
-  * [Openmeetings](https://openmeetings.apache.org/index.html) - ([Source code](https://svn.apache.org/viewvc/openmeetings/trunk/singlewebapp/)) -  Openmeetings provides video conferencing, instant messaging, white board, collaborative document editing and other groupware tools using API functions of the Red5 Streaming Server for Remoting and Streaming. `Apache 2.0`  `Java`
+  * [Openmeetings](https://openmeetings.apache.org/index.html) - ([Source code](https://svn.apache.org/viewvc/openmeetings/trunk/singlewebapp/)) - Openmeetings provides video conferencing, instant messaging, white board, collaborative document editing and other groupware tools using API functions of the Red5 Streaming Server for Remoting and Streaming. `Apache 2.0`  `Java`
   * [Sogo](http://www.sogo.nu/) - SOGo offers multiple ways to access the calendaring and messaging data. CalDAV, CardDAV, GroupDAV, as well as ActiveSync, including native Outlook compatibility and web interface. ([Demo](http://www.sogo.nu/tour/online_demo.html), [Source Code](http://www.sogo.nu/development/source_code.html)) `GPLv1/LGPLv2` `Objective-C`
-  * [Tine 2.0org](https://www.tine20.org) - Contacts, Calendar, Tasks, WebDAV, ActiveSync, VOIP, Mail-Client, CRM, Sales, Projects, Timetracker -  ([Demo](https://demo.tine20.net)) `AGPLv3`
+  * [Tine 2.0org](https://www.tine20.org) - Contacts, Calendar, Tasks, WebDAV, ActiveSync, VOIP, Mail-Client, CRM, Sales, Projects, Timetracker - ([Demo](https://demo.tine20.net)) `AGPLv3`
   * [Zimbra Collaboration](https://www.zimbra.com/downloads/) - Email, calendar, collaboration server with web interface and lots of integrations.  ([Source code]( https://www.zimbra.com/open-source)) `GPLv2/CPALv1` `Java`
 
 
@@ -488,10 +488,10 @@ Some [Groupware](#groupware) solutions also feature file sharing and synchroniza
 
 ## Maps & GPS
 
-  * [Graphhopper](https://graphhopper.com/) -  Fast routing library and server using OpenStreetMap ([Source code](https://github.com/graphhopper/graphhopper))
+  * [Graphhopper](https://graphhopper.com/) - Fast routing library and server using OpenStreetMap ([Source code](https://github.com/graphhopper/graphhopper))
   * [MapBBCodeShare](https://github.com/MapBBCode/share.mapbbcode.org) - Tool for sharing custom OSM maps. Support for annotated markers, polygons, lines, multi-format import/export, multiple layers, shortlinks... ([Demo](http://share.mapbbcode.org/)) `WTFPL/Other` `PHP/Javascript`
   * [Openstreetmap](http://www.openstreetmap.org/) - OpenStreetMap is a map of the world, created by people like you and free to use under an open license. ([Source code](https://github.com/openstreetmap/openstreetmap-website))
-  * [Traccar](https://www.traccar.org/) - Java application to track GPS positions. Supports loads of tracking devices and protocols, has an Android and iOS App. Has a web interface to view your trips -  ([Demo](http://demo.traccar.org/), [Source code](https://github.com/tananaev?tab=repositories)) `Apache`
+  * [Traccar](https://www.traccar.org/) - Java application to track GPS positions. Supports loads of tracking devices and protocols, has an Android and iOS App. Has a web interface to view your trips - ([Demo](http://demo.traccar.org/), [Source code](https://github.com/tananaev?tab=repositories)) `Apache`
   * [uMap](https://umap.openstreetmap.fr/en/) - create maps with OpenStreetMap layers in a minute and embed them in your site ([Source code](https://github.com/umap-project/umap)) `WTFPL` `Python/Django`
 
 ## Video Streaming
@@ -515,7 +515,7 @@ Some [Groupware](#groupware) solutions also feature file sharing and synchroniza
   * [Galette](http://galette.eu/dc/) - Galette is a membership management web application towards non profit organizations ([Source code](http://git.tuxfamily.org/galette/galette.git/)) `GPLv3` `PHP`
   * [GLPI](http://www.glpi-project.org/spip.php?lang=en) - GLPI is an IT assests/resources/inventory manager ([Source code](https://forge.glpi-project.org/projects/glpi)) `GPLv2` `PHP`
   * [GRR](http://grr.devome.com/?lang=en) - Assets management and booking for small/medium companies ([demo](http://grr.devome.com/demo/week_all.php?year=2015&month=07&day=28&area=94), _administrateur/azerty_) `GPLv2` `PHP`
-  * [Inventaire](https://inventaire.io/welcome) -  collaborative resources mapper project, while yet only focused on exploring books mapping with wikidata and ISBNs ([Source code](https://github.com/inventaire/inventaire)) `AGPLv3` `Nodejs`
+  * [Inventaire](https://inventaire.io/welcome) - collaborative resources mapper project, while yet only focused on exploring books mapping with wikidata and ISBNs ([Source code](https://github.com/inventaire/inventaire)) `AGPLv3` `Nodejs`
   * [Invoice Ninja](https://www.invoiceninja.com/) - A powerful tool to invoice clients online. ([Demo](https://app.invoiceninja.com/invoices/create), [Source code](https://github.com/invoiceninja/invoiceninja)) `AAL` `PHP`
   * [InvoicePlane](https://invoiceplane.com/) - Manage quotes, invoices, payments and customers for your small business. ([Demo](https://demo.invoiceplane.com), [Source code](https://github.com/InvoicePlane/InvoicePlane)) `MIT`
   * [IHateMoney](http://ihatemoney.org/) - Manage your shared expenses, easily. ([Source code](https://github.com/spiral-project/ihatemoney)) `BSD` `Python`
@@ -537,7 +537,7 @@ Some [Groupware](#groupware) solutions also feature file sharing and synchroniza
 
   * [Ampache](http://ampache.org/) - A web based audio/video streaming application `GPLv2` `PHP`
   * [CherryMusic](http://www.fomori.org/cherrymusic/) - minimalistic Web-Mediaplayer - `GPL` `Python`
-  * [cloudtunes](https://github.com/jkbrzt/cloudtunes) -  Web-based music player for the cloud `MIT` `Python/Javascript`
+  * [cloudtunes](https://github.com/jkbrzt/cloudtunes) - Web-based music player for the cloud `MIT` `Python/Javascript`
   * [GNU FM](https://gnu.io/fm/) - running music community websites, alternative to last.fm ([Source code](http://git.savannah.gnu.org/cgit/librefm.git/)) `GPLv3` `PHP`
   * [Groove Basin](http://groovebasin.com/) - A music player server with a web-based user interface inspired by Amarok 1.4 ([Source code](https://github.com/andrewrk/groovebasin)) `MIT` `Nodejs`
   * [koel](http://koel.phanan.net/) - A personal music streaming server that works. ([Source code](https://github.com/phanan/koel)) `MIT` `PHP`
@@ -552,7 +552,7 @@ Some [Groupware](#groupware) solutions also feature file sharing and synchroniza
   * [dillinger](http://dillinger.io/) - The last Markdown editor, ever. ([Source code](https://github.com/joemccann/dillinger/)) `MIT` `Nodejs`
   * [Jotter](https://github.com/yosko/jotter) - Jotter is a lightweight, no database, powerful web notebook that lets you create and manage notes online safely, quickly & easily. ([Demo](http://tools.yosko.net/demos/jotter/) - `demo/demo`)
   * [Laverna](https://laverna.cc/) - Laverna is a JavaScript note taking application with Markdown editor and encryption support. Consider it like open source alternative to Evernote ([Source code](https://github.com/Laverna/laverna), [Demo](https://laverna.cc/index.html#notes))
-  * [minimalist-web-notepad](https://github.com/pereorga/minimalist-web-notepad)- a minimalist http://notepad.cc clone `Apache` `PHP`
+  * [minimalist-web-notepad](https://github.com/pereorga/minimalist-web-notepad) - a minimalist http://notepad.cc clone `Apache` `PHP`
   * [notes](https://github.com/SSilence/notes) - Simple script for personal notes with a single page with a WYSIWYG Editor `GPLv3` `PHP`
   * [OpenNote](https://github.com/FoxUSA/OpenNote) - OpenNote was built to be an open web-based alternative to Microsoft OneNote (T) and EverNote
   * [Paperwork](http://paperwork.rocks) - OpenSource note-taking & archiving alternative to Evernote, Microsoft OneNote & Google Keep ([Source code](https://github.com/twostairs/paperwork))
@@ -579,14 +579,14 @@ Some [Groupware](#groupware) solutions also feature file sharing and synchroniza
 
 ## Pastebins
 
-  * [0bin](https://github.com/sametmax/0bin) -  Client side encrypted pastebin `WTFPL` `Python`
+  * [0bin](https://github.com/sametmax/0bin) - Client side encrypted pastebin `WTFPL` `Python`
   * [cryptonote](https://cryptonote.me/) - A simple open source web application that lets users encrypt and share messages that can only be read once ([Source code](https://github.com/alainmeier/cryptonote)) `BSD` `Ruby`
-  * [gist](https://gitlab.deblan.org/deblan/gist) -  GIST is an open-source application to share code `PHP` `GPLv3`
+  * [gist](https://gitlab.deblan.org/deblan/gist) - GIST is an open-source application to share code `PHP` `GPLv3`
   * [hastebin](http://hastebin.com/about.md) - open source pastebin written in node.js ([Source code](https://github.com/seejohnrun/haste-server), [Demo](http://hastebin.com/)) `Nodejs` `MIT`
   * [Pastedown](http://pastedown.ctrl-c.us/) - self-hosted pastebin server. It is meant to handle Markdown well, but it also works with code snippets (and does syntax highlighting). ([Source code](https://github.com/cespare/pastedown)) `MIT` `Go`
   * [pb](https://github.com/ptpb/pb) - lightweight pastebin (and url shortener) built using flask ([Demo](https://ptpb.pw/)) `GPLv3` `Python/Flask`
   * [Phaste](https://pste.pw) - A Phalcon-based, MySQL pastebin application with privacy-respecting Piwik integration and syntax highlighting. ([Source code](https://github.com/FoxDev/Phaste)) `PHP` `AGPLv3`
-  * [snipt](https://snipt.net/) -  Long-term memory for coders. Share and store code snippets  ([Source code](https://github.com/nicksergeant/snipt/)) `BSD` `Python`
+  * [snipt](https://snipt.net/) - Long-term memory for coders. Share and store code snippets  ([Source code](https://github.com/nicksergeant/snipt/)) `BSD` `Python`
   * [Sticky Notes](http://sayakb.github.io/sticky-notes/) - A powerful open-source pastebin application for effortless code sharing. `PHP`
   * [Stikked](https://github.com/claudehohl/Stikked) - An advanced and beautiful pastebin written in `PHP` `GPLv3`
   * [tastebin](https://github.com/andreineculau/tastebin) - Updated version of hastebin plus additional features `Apache` `Nodejs`
@@ -602,11 +602,11 @@ Some [Groupware](#groupware) solutions also feature file sharing and synchroniza
 ## Photo and Video Galleries
 
   * [CumulusClips](http://cumulusclips.org/) - your own video sharing website with CumulusClips video sharing script. You can build a YouTube clone where users can upload, rate, comment on videos, and much more.  `GPLv2` `PHP` ([Demo](https://tube.devosi.org/))
-  * [Gallery](http://galleryproject.org/) -  The simplest, most intuitive way to host your photos on your website ([Source code](https://github.com/gallery/gallery3)) `GPLv2` `PHP`
+  * [Gallery](http://galleryproject.org/) - The simplest, most intuitive way to host your photos on your website ([Source code](https://github.com/gallery/gallery3)) `GPLv2` `PHP`
   * [Koken](http://koken.me/) - Content management and web site publishing for photographers `PHP`
   * [Lychee](http://lychee.electerious.com/) - an open source grid and album based photo-management-system ([Source code](https://github.com/electerious/Lychee)) `MIT` `PHP`
-  * [MediaDrop](http://mediadrop.net/) -  A video, audio and podcast publication platform ([Source code](https://github.com/mediadrop/mediadrop)) `GPLv3` `Python`
-  * [Mediagoblin](http://mediagoblin.org) -  a Free software media publishing platform that anyone can run. You can think of it as a decentralized alternative to Flickr, YouTube, SoundCloud, etc `AGPLv3` `Python`
+  * [MediaDrop](http://mediadrop.net/) - A video, audio and podcast publication platform ([Source code](https://github.com/mediadrop/mediadrop)) `GPLv3` `Python`
+  * [Mediagoblin](http://mediagoblin.org) - a Free software media publishing platform that anyone can run. You can think of it as a decentralized alternative to Flickr, YouTube, SoundCloud, etc `AGPLv3` `Python`
   * [MinigalNano](https://github.com/sebsauvage/MinigalNano) - MinigalNano is a very simple image gallery. It adheres to the KISS principle and is very easy to install. MinigalNano does not have a web admin interface: You just upload your images in the photo folder on your server (using FTP, SFTP) ([Demo](http://boards.tomcanac.com/)) `CC BY-SA 3.0` `PHP`
   * [phog](https://github.com/hillman/phog) - Static photo gallery generator with S3 uploader `Python`
   * [Photofloat](http://blog.zx2c4.com/567) - A Web 2.0 Photo Gallery Done Right via Static JSON & Dynamic Javascript ([Demo](http://photos.jasondonenfeld.com/)) `Javascript` `GPLv2`
@@ -625,10 +625,10 @@ Some [Groupware](#groupware) solutions also feature file sharing and synchroniza
 ## Polls and Events
 
   * [dudle](http://primelife.ercim.eu/results/opensource/63-dudle) - an online scheduling application ([demo](https://dudle.inf.tu-dresden.de/)) `AGPLv3` `Ruby`
-  * [Kyélà](http://kyela.net/) -  Participation polls for group events  - ([Source code](https://github.com/abienvenu/Kyela), [Demo](http://kyela.net/55232734237c8/))
+  * [Kyélà](http://kyela.net/) - Participation polls for group events - ([Source code](https://github.com/abienvenu/Kyela), [Demo](http://kyela.net/55232734237c8/))
   * [LimeSurvey](https://www.limesurvey.org) - Feature-rich Open Source web based polling software. Supports extensive survey logic. - ([Demo](https://demo.limesurvey.org))
   * [MaterialPoll](https://github.com/nearbycoder/materialpoll) - an opensource strawpoll.me clone for creating random polls. - ([Source code](https://github.com/nearbycoder/materialpoll), [Demo](http://materialpoll.tk))
-  * [Nuages](https://nuages.domainepublic.net/) -  collaborative meeting poll system, similar to doodle or rdvz ([Source code](http://git.domainepublic.net/?p=nuages.git;a=tree)) `GPLv3` `Python/Django`
+  * [Nuages](https://nuages.domainepublic.net/) - collaborative meeting poll system, similar to doodle or rdvz ([Source code](http://git.domainepublic.net/?p=nuages.git;a=tree)) `GPLv3` `Python/Django`
   * [OpenSondage](https://github.com/leblanc-simon/OpenSondage) - an online service for planning an appointment or make a decision quickly and easily: Make a poll, Define dates or subjects to choose, Send the poll link to your friends or colleagues, Discuss and make a decision - ([Demo](http://framadate.org/), [Example](https://framadate.org/aqg259dth55iuhwm))
 
 
@@ -664,7 +664,7 @@ See also [Ticketing](#ticketing), [Task management/To-do lists](#task-management
 
   * [Apache Bloodhound](https://bloodhound.apache.org/) - Manage software products, Keep track of features, tasks and bugs `Apache` `Python`
   * [CaseBox](https://www.casebox.org) - Manage all your organisation's information in one system.
-  * [Fossil](https://www.fossil-scm.org/index.html/doc/trunk/www/index.wiki)  - Distributed version control system featuring wiki and bug tracker - `BSD` `C`
+  * [Fossil](https://www.fossil-scm.org/index.html/doc/trunk/www/index.wiki) - Distributed version control system featuring wiki and bug tracker - `BSD` `C`
   * [gitbucket](http://takezoe.github.io/gitbucket/) - The easily installable GitHub clone powered by Scala - ([Source code](https://github.com/gitbucket/gitbucket))
   * [GitLab](http://gitlab.org/) - Self Hosted Git Management Application - GitLab is open source software to collaborate on code. Manage git repositories with fine grained access controls that keep your code secure. Perform code reviews and enhance collaboration with merge requests. Each project can also have an issue tracker and a wiki ([Public instance](https://git.framasoft.org/))
   * [Gitlist](http://gitlist.org/) - A web-based git repository browser - GitList allows you to browse repositories using your favorite browser, viewing files under different revisions, commit history and diffs. ([Source code](https://github.com/klaussilveira/gitlist))
@@ -688,8 +688,8 @@ See **[Ticketing](#ticketing)**
 
   * [Codiad](http://codiad.com/) - a web-based IDE framework with a small footprint and minimal requirements. ([Source code](https://github.com/Codiad/Codiad))
   * [JS Bin](http://jsbin.com/) - open source collaborative web development debugging tool ([Source Code](https://github.com/jsbin/jsbin)) `MIT` `Nodejs`
-  * [Pairjam](http://pairjam.com/) -  Real-time web-based collaborative coding ([Source code](https://github.com/neerajwahi/pairjam))
-  * [Regexr](http://regexr.com/) -  RegExr is a HTML/JS based tool for creating, testing, and learning about Regular Expressions. ([Source code](https://github.com/gskinner/regexr/)) `MIT` `Nodejs`
+  * [Pairjam](http://pairjam.com/) - Real-time web-based collaborative coding ([Source code](https://github.com/neerajwahi/pairjam))
+  * [Regexr](http://regexr.com/) - RegExr is a HTML/JS based tool for creating, testing, and learning about Regular Expressions. ([Source code](https://github.com/gskinner/regexr/)) `MIT` `Nodejs`
   * [RStudio Server](https://www.rstudio.com/products/rstudio/#Server) - web browser based IDE for R. ([Source code](https://github.com/rstudio/rstudio/)) `AGPLv3` `Java/C++`
 
 
@@ -730,7 +730,7 @@ See https://staticsitegenerators.net and https://www.staticgen.com
   * [tasks.php](https://github.com/RaymiiOrg/tasks.php) - A simple task/todo list manager `MIT`
   * [Taskwarrior](https://taskwarrior.org/) - Taskwarrior is Free and Open Source Software that manages your TODO list from your command line. It is flexible, fast, efficient, and unobtrusive. It does its job then gets out of your way. ([Source code](https://taskwarrior.org/download/#git)) `MIT` `C++`
   * [Tinyissue](https://github.com/mikelbring/tinyissue) - Simple Issue Tracking for Teams `MIT`
-  * [Tracks](http://www.getontracks.org/) -  a web-based application to help you implement David Allen’s [Getting Things Done™](https://en.wikipedia.org/wiki/Getting_Things_Done) methodology. - `GPLV2`
+  * [Tracks](http://www.getontracks.org/) - a web-based application to help you implement David Allen’s [Getting Things Done™](https://en.wikipedia.org/wiki/Getting_Things_Done) methodology. - `GPLV2`
   * [Wekan](https://wekan.io/) - An open-source Trello-like kanban. ([Demo](https://oasis.sandstorm.io/appdemo/m86q05rdvj14yvn78ghaxynqz7u2svw6rnttptxx49g1785cdv1h), [Source code](https://github.com/wekan/wekan)) `MIT` `JavaScript/Meteor`
 
 
@@ -748,13 +748,13 @@ See https://staticsitegenerators.net and https://www.staticgen.com
   * [Flyspray](http://www.flyspray.org/) - uncomplicated, web-based bug tracking system ([Source code](https://github.com/Flyspray/flyspray)) `GPLv2`
   * [Gaskit](https://github.com/bkeepers/gaskit) - a git-backed issue tracker. It uses a branch in your local git database to store the tickets. `GPL`
   * [HuBoard](https://github.com/rauhryan/huboard) `⚠ ` – Instant project management for your GitHub issues (Connects directly GitHub API) `MIT` `Ruby`
-  * [MantisBT](https://www.mantisbt.org/) - Self hosted bug tracker, fits best for software development - ([Demo](https://www.mantisbt.org/bugs/my_view_page.php)) -  ([Source code](https://github.com/mantisbt/mantisbt)) `GPLv2`
+  * [MantisBT](https://www.mantisbt.org/) - Self hosted bug tracker, fits best for software development - ([Demo](https://www.mantisbt.org/bugs/my_view_page.php)) - ([Source code](https://github.com/mantisbt/mantisbt)) `GPLv2`
   * [TheBugGenie](http://www.thebuggenie.com) - Ticket system with extensive user rights system.
 
 ## URL Shorteners
 
   * [Lstu](https://github.com/ldidry/lstu) - _Let's SHorten That Url_ - Lightweight URL shortener
-  * [Nimbus](https://github.com/ethanal/nimbus) - A URL shortener and file sharer with a drag-and-drop OS X menu bar client and web interface  - `MIT` `Python`
+  * [Nimbus](https://github.com/ethanal/nimbus) - A URL shortener and file sharer with a drag-and-drop OS X menu bar client and web interface - `MIT` `Python`
   * [Polr](https://project.polr.me/) - A modern, minimalist, modular, and lightweight URL shortener ([Source code](https://github.com/Cydrobolt/polr))
   * [YOURLS](http://yourls.org/) - YOURLS is a set of PHP scripts that will allow you to run Your Own URL Shortener. Features include password protection, URL customization, bookmarklets, statistics, API, plugins, jsonp ([Source code](https://github.com/YOURLS/YOURLS/), [Documentation](https://github.com/YOURLS/YOURLS/wiki)) `MIT`
 
@@ -803,7 +803,7 @@ See also [Documentation Generators](#documentation-generators), [Wikimatrix](htt
   * [FreedomBox](https://wiki.debian.org/FreedomBox) - a community project to develop, design and promote personal servers running free software for private, personal, communications. `GPLv3` `Python/Other`
   * [Piratebox](https://piratebox.cc/start) - A DIY anonymous offline file-sharing and communications system built with free software and inexpensive off-the-shelf hardware. ([Source code](https://github.com/PirateBox-Dev)). `GPLv3` `Python/Other`
   * [Sandstorm](https://sandstorm.io/) - Personal server for running self-hosted apps easily and securely. ([Demo](https://demo.sandstorm.io/), [Source code](https://github.com/sandstorm-io/sandstorm)) `Apache` `C++/Other`
-  * [sovereign](https://github.com/sovereign/sovereign) -  A set of Ansible playbooks to build and maintain your own private cloud: email, calendar, contacts, file sync, IRC bouncer, VPN, and more. `GPLv3` `YAML/Other`
+  * [sovereign](https://github.com/sovereign/sovereign) - A set of Ansible playbooks to build and maintain your own private cloud: email, calendar, contacts, file sync, IRC bouncer, VPN, and more. `GPLv3` `YAML/Other`
   * [UBOS](http://ubos.net/) - Linux distro that runs on indie boxes (personal servers and IoT devices). Single-command installation and management of apps - Jenkins, Mediawiki, Owncloud, Wordpress, etc., - and other [features](http://ubos.net/about/).`GPLv3` `Perl/Other` 
   * [yunohost](https://yunohost.org/) - a server operating system aiming to make self-hosting accessible to everyone. ([Source code](https://github.com/YunoHost)) `AGPL` `Python/Other`
 
@@ -832,7 +832,7 @@ See also [Documentation Generators](#documentation-generators), [Wikimatrix](htt
 
 ## External links
 
- * [Awesome Sysadmin](https://github.com/n1trux/awesome-sysadmin) -  A curated list of amazingly awesome open source sysadmin resources.
+ * [Awesome Sysadmin](https://github.com/n1trux/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources.
  * [PRISM Break](https://prism-break.org/en/), [privacytools.io](https://www.privacytools.io/), [Alternative Internet](https://redecentralize.github.io/alternative-internet/) - Lists of software aimed at privacy and decentralization (in some form).
  * Dynamic Domain Name services: [Afraid.org](https://freedns.afraid.org/domain/registry/), [Pagekite](https://pagekite.net/)
  * Communities/forums: [/r/selfhosted](https://www.reddit.com/r/selfhosted), [Auto-Hébergement (FR)](http://www.auto-hebergement.fr/)
