@@ -206,7 +206,7 @@ _[Extensible Messaging and Presence Protocol](https://en.wikipedia.org/wiki/XMPP
 #### XMPP Servers
 
   * [ejabberd](https://www.ejabberd.im/) - XMPP instant messaging server. `GPL` `Erlang`
-  * [Metronome IM](http://www.lightwitch.org/metronome) - Fork of Prosody IM. `MIT` `Lua`
+  * [Metronome IM](https://lightwitch.org/metronome) - Fork of Prosody IM. `MIT` `Lua`
   * [MongooseIM](https://www.erlang-solutions.com/products/mongooseim-massively-scalable-ejabberd-platform) - Fork of ejabberd.
   * [Openfire](http://www.igniterealtime.org/projects/openfire/) - Real time collaboration (RTC) server. `Apache` `Java`
   * [Prosody IM](http://prosody.im/) - Feature-rich and easy to configure XMPP server. `MIT` `Lua`
@@ -286,7 +286,7 @@ _[Extensible Messaging and Presence Protocol](https://en.wikipedia.org/wiki/XMPP
   * [Jappix](https://jappix.com/) - Jappix is an open social platform, that let's you easily get or keep in touch with everyone.
   * [Loomio](https://www.loomio.org/) - Loomio is a collaborative decision-making tool that makes it easy for anyone to participate in decisions which affect them.  ([Source code](https://github.com/loomio/loomio)) `AGPLv3` `Ruby`
   * [Movim](https://movim.eu/) - A brand new social network, full of awesome features in a modern and smart interface
-  * [MyBB](http://mybb.com) - Free, extensible forum software package. ([Source Code](https://github.com/mybb/mybb)) `LGPLv3` `PHP` 
+  * [MyBB](http://www.mybb.com/) - Free, extensible forum software package. ([Source Code](https://github.com/mybb/mybb)) `LGPLv3` `PHP` 
   * [Newebe](http://newebe.org/) - A Distributed Social Network ([Source code](https://github.com/gelnior/newebe)) `AGPLv3` `Python`
   * [NodeBB](https://nodebb.org/) - Node.js based forum software built for the modern web ([Source code](https://github.com/NodeBB/NodeBB)) `GPLv3` `Node.js`
   * [Oxwall](http://www.oxwall.org/) Oxwall is used for a wide range of projects starting from family sites and custom social networks to collaboration tools and enterprise community solutions. ([Source code](https://bitbucket.org/oxwall/public) `CPALv1` `PHP`
@@ -294,9 +294,9 @@ _[Extensible Messaging and Presence Protocol](https://en.wikipedia.org/wiki/XMPP
   * [PPnet](https://github.com/pixelpark/ppnet) Create and host your own social network. `MIT` `JavaScript`
   * [Pump.io](http://pump.io/) - Stream server that does most of what people really want from a social network ([Source code](https://github.com/e14n/pump.io))
   * [Reddit](https://www.reddit.com/) - Social networking and news website where registered community members can submit content. ([Demo](https://www.reddit.com/) [Source Code](https://github.com/reddit/reddit)) `CPALv1` `Python`
-  * [RedMatrix](http://redmatrix.me/) - Complete decentralised publishing, sharing, and communications system ([Source code](https://github.com/redmatrix/redmatrix))
+  * [RedMatrix](http://www.redmatrix.me/) - Complete decentralised publishing, sharing, and communications system ([Source code](https://github.com/redmatrix/redmatrix))
   * [twister](http://twister.net.co/) - P2P microblogging platform
-  * [Vanilla Forums](http://vanillaforums.org/) - Simple and flexible forum software ([Source code](https://github.com/vanilla/vanilla)) `GPLv2` `PHP`
+  * [Vanilla Forums](https://vanillaforums.org/) - Simple and flexible forum software ([Source code](https://github.com/vanilla/vanilla)) `GPLv2` `PHP`
 
 
 ## Content Management Systems (CMS)
@@ -312,7 +312,7 @@ CMS are a practical way to setup a website with many features. CMS often come wi
   * [Concrete 5 CMS](http://www.concrete5.org/) - An open source content management system `MIT`
   * [Drupal](https://www.drupal.org/) - Advanced open source content management platform `GPL`
   * [Gazelle](https://github.com/WhatCD/Gazelle) - Gazelle is a web framework geared towards private BitTorrent trackers. Although naturally focusing on music, it can be modified for most needs. `PHP`
-  * [Grav](http://getgrav.org/) - Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS  ([Source code](https://github.com/getgrav/grav)) `MIT` `PHP`
+  * [Grav](https://getgrav.org/) - Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS  ([Source code](https://github.com/getgrav/grav)) `MIT` `PHP`
   * [GetSimple CMS](http://get-simple.info/) - The Simplest Content Management System. Ever. `GPLv3`
   * [ImpressPages CMS](https://www.impresspages.org/) - Easy code meets easy admin. ([Demo](https://www.impresspages.org/demo), [Source Code](https://github.com/impresspages/ImpressPages)) `GPLv3`/`MIT`  `PHP`
   * [Joomla!](http://www.joomla.fr/) - Advanced Content Management System (CMS) `GPL`
@@ -320,7 +320,7 @@ CMS are a practical way to setup a website with many features. CMS often come wi
   * [MODX](http://modx.com/) - MODX is an advanced content management and publishing platform. The current version is called 'Revolution'. ([Source Code](https://github.com/modxcms/revolution)) `GPLv2` `PHP`
   * [Neos](https://www.neos.io) - Neos or TYPO3 Neos (for version 1) is a modern, open source CMS based on the Flow framework. ([Source Code](https://git.typo3.org/Packages/TYPO3.Neos.git)) `GPLv3` `PHP`
   * [october](http://octobercms.com/) - Free, open-source, self-hosted CMS platform based on the Laravel PHP Framework. ([Source code](https://github.com/octobercms/october)) `MIT`
-  * [Pagekit](http://pagekit.com/) - A new modern CMS to create and share ([Source code](https://github.com/pagekit/pagekit)) `MIT`
+  * [Pagekit](https://pagekit.com/) - A new modern CMS to create and share ([Source code](https://github.com/pagekit/pagekit)) `MIT`
   * [Pico](http://picocms.org/) - A stupidly simple, blazing fast, flat file CMS. ([Source code](https://github.com/picocms/Pico)) `MIT`
   * [Pimcore](https://www.pimcore.org/) - Multi-Channel Experience and Engagement Management Platform ([Source code](https://github.com/pimcore/pimcore)) `BSD` `PHP`
   * [Plone](https://plone.org/) - Powerful open-source CMS system ([Source code](https://github.com/plone)) `Python` `Zope`
@@ -329,7 +329,7 @@ CMS are a practical way to setup a website with many features. CMS often come wi
   * [SilverStripe](https://www.silverstripe.org) - Easy to use CMS with powerful MVC framework underlying. ([Demo](http://demo.silverstripe.org/), [Source code](https://github.com/silverstripe)) `BSD` `PHP`
   * [SPIP](http://www.spip.net/fr) - Publication system for the Internet aimed at collaborative work, multilingual environments, and simplicity of use for web authors. ([Source code](https://core.spip.net/projects/spip/repository)) `GPLv2` `PHP`
   * [Textpattern](http://textpattern.com/) - A flexible, elegant and easy-to-use CMS. ([Demo](http://textpattern.co/demo), [Source code](https://github.com/textpattern/textpattern)) `GPLv2` `PHP`
-  * [TYPO3](http://typo3.org/) - A powerful and advanced CMS with a large community. ([Source Code](https://github.com/TYPO3/TYPO3.CMS)) `GPLv2` `PHP`
+  * [TYPO3](https://typo3.org/) - A powerful and advanced CMS with a large community. ([Source Code](https://github.com/TYPO3/TYPO3.CMS)) `GPLv2` `PHP`
   * [Wordpress](https://wordpress.org/) - The worlds most-used blogging and CMS engine. ([Source code mirror](https://github.com/WordPress/WordPress)) `GPLv2`
 
 _Recipe management_
@@ -341,10 +341,10 @@ _Recipe management_
 
 * [OpenCart](https://www.opencart.com) - Free open source shopping cart solution. ([Source code](https://github.com/opencart/opencart)) `GPLv3` `PHP`
 * [Open Classifieds](http://open-classifieds.com/) - Free open-source, self-hosted CMS for classifieds sites. ([Source code](https://github.com/open-classifieds/openclassifieds2))  `GPL` `PHP`
-* [Open eShop](http://open-eshop.com/) - Sell your digital goods with licenses and provide support. ([Source code](https://github.com/open-classifieds/open-eshop))  `GPL` `PHP`
+* [Open eShop](https://open-eshop.com/) - Sell your digital goods with licenses and provide support. ([Source code](https://github.com/open-classifieds/open-eshop))  `GPL` `PHP`
 * [PrestaShop](https://www.prestashop.com/) - PrestaShop offers a free, open-source and fully scalable e-commerce solution. ([Demo](http://demo.prestashop.com/), [Source Code](https://github.com/PrestaShop/PrestaShop)) `OSL 3.0` `PHP`
 * [Shoop](https://www.shoop.io/) - Django powered fully customizable open source e-commerce framework for small and large sites. ([B2C demo](https://demo1.shoop.io/), [B2B demo](https://demo2.shoop.io/), [Source Code](https://github.com/shoopio/shoop)) `AGPLv3` `Python`
-* [WooCommerce](http://www.woothemes.com/woocommerce/) - WordPress based e-commerce solution ([Source Code](https://github.com/woothemes/woocommerce)) `GPL` `PHP`
+* [WooCommerce](https://www.woothemes.com/woocommerce/) - WordPress based e-commerce solution ([Source Code](https://github.com/woothemes/woocommerce)) `GPL` `PHP`
 
 
 ## Federated Identity/Authentication
@@ -379,7 +379,7 @@ _Recipe management_
   * [RSSminer](http://www.rssminer.net/) -An online rss reader written in clojure & javascript & java ([Source code](https://github.com/shenfeng/rssminer))
   * [Selfoss](http://selfoss.aditu.de/) - The new multipurpose rss reader, live stream, mashup, aggregation web application ([Source code](https://github.com/SSilence/selfoss)) `AGPLv3`
   * [Stringer](https://github.com/swanson/stringer) - A work-in-progress self-hosted, anti-social RSS reader.
-  * [Tiny Tiny RSS](https://tt-rss.org/redmine/projects/tt-rss/wiki) - Open source web-based news feed (RSS/Atom) reader and aggregator. ([Demo](http://tt-rss.org/demo/), [Public instance](http://framanews.org/), [Applications](http://tt-rss.org/redmine/projects/tt-rss/wiki/RelatedSoftware)) `GPLv3`
+  * [Tiny Tiny RSS](https://tt-rss.org/redmine/projects/tt-rss/wiki) - Open source web-based news feed (RSS/Atom) reader and aggregator. ([Demo](https://tt-rss.org/demo/), [Public instance](https://framanews.org/), [Applications](http://tt-rss.org/redmine/projects/tt-rss/wiki/RelatedSoftware)) `GPLv3`
     * [ttrss-mobile](https://github.com/mboinet/ttrss-mobile) - A mobile webapp for Tiny Tiny RSS
     * [gritttt-rss](http://gritttt-rss.nicolashoening.de/) - More features for Tiny Tiny RSS [Source code](https://github.com/nhoening/gritttt-rss)
 
@@ -416,7 +416,7 @@ Some [Groupware](#groupware) solutions also feature file sharing and synchroniza
   * [Dropcenter](http://projet.idleman.fr/dropcenter/) - Upload files by simple drag-n-drop.
   * [droppy](https://github.com/silverwind/droppy) - droppy is a self-hosted cloud server with an interface similar to desktop file managers and has capabilites to edit files on-the-fly as well as view and playback media directly in the browser. ([Demo](http://droppy.silverwind.io/)) `BSD` `Nodejs`
   * [img.bi](https://github.com/imgbi/img.bi) - img.bi is a secure image hosting. Images are encrypted using AES-256 with random key in browser before upload. `GPLv3` `Nodejs`
-  * [ipfs.pics](http://ipfs.pics/) - ipfs.pics is a o distributed image hosting website. ([Source code](https://github.com/ipfspics/server)) `AGPL` `PHP`
+  * [ipfs.pics](https://ipfs.pics/) - ipfs.pics is a o distributed image hosting website. ([Source code](https://github.com/ipfspics/server)) `AGPL` `PHP`
   * [Jirafeau](https://gitlab.com/mojo42/Jirafeau/wikis/home) - Jirafeau is a web site permitting to upload a file in a simple way and give an unique link to it. ([Demo](http://jirafeau.net/))
   * [Jyraphe](http://home.gna.org/jyraphe/) - Jyraphe is a web application of file repository, easy to install and easy to use.
   * [linx](https://github.com/andreimarcu/linx-server) - File sharing application and pastebin with API, auto-expiry, deletion keys, and web seed support ([Demo](https://linx.li/)) `GPLv3` `Go`
@@ -473,13 +473,13 @@ Some [Groupware](#groupware) solutions also feature file sharing and synchroniza
   * [Openmeetings](https://openmeetings.apache.org/index.html) - ([Source code](https://svn.apache.org/viewvc/openmeetings/trunk/singlewebapp/)) - Openmeetings provides video conferencing, instant messaging, white board, collaborative document editing and other groupware tools using API functions of the Red5 Streaming Server for Remoting and Streaming. `Apache 2.0`  `Java`
   * [Sogo](http://www.sogo.nu/) - SOGo offers multiple ways to access the calendaring and messaging data. CalDAV, CardDAV, GroupDAV, as well as ActiveSync, including native Outlook compatibility and web interface. ([Demo](http://www.sogo.nu/tour/online_demo.html), [Source Code](http://www.sogo.nu/development/source_code.html)) `GPLv1/LGPLv2` `Objective-C`
   * [Tine 2.0org](https://www.tine20.org) - Contacts, Calendar, Tasks, WebDAV, ActiveSync, VOIP, Mail-Client, CRM, Sales, Projects, Timetracker - ([Demo](https://demo.tine20.net)) `AGPLv3`
-  * [Zimbra Collaboration](https://www.zimbra.com/downloads/) - Email, calendar, collaboration server with web interface and lots of integrations.  ([Source code]( https://www.zimbra.com/open-source)) `GPLv2/CPALv1` `Java`
+  * [Zimbra Collaboration](https://www.zimbra.com/downloads/) - Email, calendar, collaboration server with web interface and lots of integrations.  ([Source code]( https://www.zimbra.com/open-source-email-overview/)) `GPLv2/CPALv1` `Java`
 
 
 ## Learning and Courses
 
   * [Chamilo LMS](https://chamilo.org/chamilo-lms/) - Chamilo LMS allows you to create a virtual campus for the provision of online or semi-online training. ([Source code](https://github.com/chamilo/chamilo-lms)) `GPLv3` `PHP`
-  * [edX](https://edX.org) - The Open edX platform is open-source code that powers [edX.org](https://edx.org). ([Source code](https://github.com/edx/)) `AGPLv3` `Python`
+  * [edX](https://www.edx.org/) - The Open edX platform is open-source code that powers [edX.org](https://www.edx.org/). ([Source code](https://github.com/edx/)) `AGPLv3` `Python`
   * [lxHive](http://www.lxhive.com/) - Open Source ExperienceAPI compliant Learning Record Store (LRS) - previously code-named TinCanAPI. [Source code](https://github.com/Brightcookie/lxHive) `GPLv3` `PHP`
   * [Mahara](https://mahara.org/) - Open Source fully featured web application to build students electronic portfolio. [Source code](https://github.com/MaharaProject/mahara) `GPLv3` `PHP`
   * [Moodle](https://moodle.org/) - Moodle is a learning and courses platform with one of the largest open source communities worldwide. ([Demo](https://moodle.org/demo/), [Source code](https://git.moodle.org/gw)) `GPL` `PHP`
@@ -520,7 +520,7 @@ Some [Groupware](#groupware) solutions also feature file sharing and synchroniza
   * [InvoicePlane](https://invoiceplane.com/) - Manage quotes, invoices, payments and customers for your small business. ([Demo](https://demo.invoiceplane.com), [Source code](https://github.com/InvoicePlane/InvoicePlane)) `MIT`
   * [IHateMoney](http://ihatemoney.org/) - Manage your shared expenses, easily. ([Source code](https://github.com/spiral-project/ihatemoney)) `BSD` `Python`
   * [Tryton](http://www.tryton.org/) - Core base of a complete business solution (ERP). ([Demo](http://demo.tryton.org) admin/admin, [Source code](https://hg.tryton.org)) `GPLv3` `Python`
-  * [Koha](http://www.koha-community.org/) - Fully featured, scalable library management system (integrated library system - ILS). ([Source code](https://github.com/Koha-Community/Koha)) `GPLv3` `Perl`
+  * [Koha](https://koha-community.org/) - Fully featured, scalable library management system (integrated library system - ILS). ([Source code](https://github.com/Koha-Community/Koha)) `GPLv3` `Perl`
 
 
 
@@ -629,7 +629,7 @@ Some [Groupware](#groupware) solutions also feature file sharing and synchroniza
   * [LimeSurvey](https://www.limesurvey.org) - Feature-rich Open Source web based polling software. Supports extensive survey logic. - ([Demo](https://demo.limesurvey.org))
   * [MaterialPoll](https://github.com/nearbycoder/materialpoll) - An opensource strawpoll.me clone for creating random polls. - ([Source code](https://github.com/nearbycoder/materialpoll), [Demo](http://materialpoll.tk))
   * [Nuages](https://nuages.domainepublic.net/) - Collaborative meeting poll system, similar to doodle or rdvz ([Source code](http://git.domainepublic.net/?p=nuages.git;a=tree)) `GPLv3` `Python/Django`
-  * [OpenSondage](https://github.com/leblanc-simon/OpenSondage) - An online service for planning an appointment or make a decision quickly and easily: Make a poll, Define dates or subjects to choose, Send the poll link to your friends or colleagues, Discuss and make a decision - ([Demo](http://framadate.org/), [Example](https://framadate.org/aqg259dth55iuhwm))
+  * [OpenSondage](https://github.com/leblanc-simon/OpenSondage) - An online service for planning an appointment or make a decision quickly and easily: Make a poll, Define dates or subjects to choose, Send the poll link to your friends or colleagues, Discuss and make a decision - ([Demo](https://framadate.org/), [Example](https://framadate.org/aqg259dth55iuhwm))
 
 
 ## Proxy
@@ -748,7 +748,7 @@ See https://staticsitegenerators.net and https://www.staticgen.com
   * [Cerb](http://www.cerberusweb.com/) - Group-based e-mail management project.
   * [Flyspray](http://www.flyspray.org/) - Uncomplicated, web-based bug tracking system ([Source code](https://github.com/Flyspray/flyspray)) `GPLv2`
   * [Gaskit](https://github.com/bkeepers/gaskit) - A git-backed issue tracker. It uses a branch in your local git database to store the tickets. `GPL`
-  * [HuBoard](https://github.com/rauhryan/huboard) `⚠ ` – Instant project management for your GitHub issues (Connects directly GitHub API) `MIT` `Ruby`
+  * [HuBoard](https://github.com/huboard/huboard) `⚠ ` – Instant project management for your GitHub issues (Connects directly GitHub API) `MIT` `Ruby`
   * [MantisBT](https://www.mantisbt.org/) - Self hosted bug tracker, fits best for software development - ([Demo](https://www.mantisbt.org/bugs/my_view_page.php)) - ([Source code](https://github.com/mantisbt/mantisbt)) `GPLv2`
   * [TheBugGenie](http://www.thebuggenie.com) - Ticket system with extensive user rights system.
 
