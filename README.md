@@ -625,11 +625,11 @@ Some [Groupware](#groupware) solutions also feature file sharing and synchroniza
 ## Polls and Events
 
   * [dudle](http://primelife.ercim.eu/results/opensource/63-dudle) - An online scheduling application ([demo](https://dudle.inf.tu-dresden.de/)) `AGPLv3` `Ruby`
+  * [Framadate](https://git.framasoft.org/framasoft/framadate) - An online service for planning an appointment or make a decision quickly and easily: Make a poll, Define dates or subjects to choose, Send the poll link to your friends or colleagues, Discuss and make a decision - ([Demo](https://framadate.org/), [Example](https://framadate.org/aqg259dth55iuhwm))
   * [Kyélà](http://kyela.net/) - Participation polls for group events - ([Source code](https://github.com/abienvenu/Kyela), [Demo](http://kyela.net/55232734237c8/))
   * [LimeSurvey](https://www.limesurvey.org) - Feature-rich Open Source web based polling software. Supports extensive survey logic. - ([Demo](https://demo.limesurvey.org))
   * [MaterialPoll](https://github.com/nearbycoder/materialpoll) - An opensource strawpoll.me clone for creating random polls. - ([Source code](https://github.com/nearbycoder/materialpoll), [Demo](http://materialpoll.tk))
   * [Nuages](https://nuages.domainepublic.net/) - Collaborative meeting poll system, similar to doodle or rdvz ([Source code](http://git.domainepublic.net/?p=nuages.git;a=tree)) `GPLv3` `Python/Django`
-  * [OpenSondage](https://github.com/leblanc-simon/OpenSondage) - An online service for planning an appointment or make a decision quickly and easily: Make a poll, Define dates or subjects to choose, Send the poll link to your friends or colleagues, Discuss and make a decision - ([Demo](https://framadate.org/), [Example](https://framadate.org/aqg259dth55iuhwm))
 
 
 ## Proxy
