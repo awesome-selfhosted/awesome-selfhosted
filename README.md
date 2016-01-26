@@ -155,7 +155,6 @@ Some [Groupware](#groupware) solutions also feature calendar/address book editin
 #### Webmail clients
 
   * [Cypht](http://cypht.org/index.html) - A feed reader for your email accounts - `GPL`
-  * [Dovecot](http://www.dovecot.org/) - IMAP and POP3 email server, written with security primarily in mind ([Source code](http://hg.dovecot.org/)) `MIT/LGPLv2` `C`
   * [Mailpile](https://www.mailpile.is/) - Webmail client with search, filtering, encryption features and more ([Source code](https://github.com/mailpile/Mailpile)) `AGPLv3` `Python`
   * [RainLoop](http://www.rainloop.net/) - Simple, modern & fast webmail with IMAP/SMTP Support and multi accounting. ([Demo](http://demo.rainloop.net/), [Source code](https://github.com/RainLoop/rainloop-webmail)). `AGPLv3` `PHP`
   * [Roundcube](https://roundcube.net) - Browser-based IMAP client with an application-like user interface. ([Screenshots](https://roundcube.net/screens/)) ([Source code](https://github.com/roundcube/roundcubemail/)) `GPLv3` `PHP`
