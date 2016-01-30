@@ -50,7 +50,7 @@
   * [Axigen](https://www.axigen.com/mail-server/free/) - `⊘ Proprietary` Great alternative to open source. It's a turnkey messaging solution, perfect for small & micro businesses, integration projects or test environments.
 
 
-## Software Developement
+## Software Development
 
   * [92five](http://92fiveapp.com/) `⊘ Proprietary` - Self hosted project management application ([Source code](https://github.com/chintanbanugaria/92five)) `CC BY-NC 4.0` `PHP`
   * [Bamboo](https://www.atlassian.com/software/bamboo) `⊘ Proprietary` - A continuous integration server `Java`
