@@ -833,6 +833,7 @@ See also [Documentation Generators](#documentation-generators), [Wikimatrix](htt
  * `LGPLv3` - [Lesser General Public License 3.0](http://opensource.org/licenses/LGPL-3.0)
  * `MIT` - [MIT License](http://opensource.org/licenses/MIT)
  * `MPLv2` - [Mozilla Public License](https://www.mozilla.org/MPL/2.0/index.txt)
+ * `Zope` - [Zope Public License 2.0](http://opensource.org/licenses/ZPL-2.0)
 
 
 -------------------------------------------------------
