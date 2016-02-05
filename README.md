@@ -600,6 +600,7 @@ Some [Groupware](#groupware) solutions also feature file sharing and synchroniza
   * [Freeboard](https://freeboard.io) - An open source real-time dashboard builder for IOT and other web mashups. ([Source code](https://github.com/freeboard/freeboard)) `MIT` `Nodejs`
   * [Habitica](http://habitica.com/) - A habit tracker app which treats your goals like a Role Playing Game. Previously called HabitRPG. ([Source code](https://github.com/HabitRPG/habitrpg)) `GPLv3/Other` `Nodejs`
   * [Reportr](https://github.com/Reportr/dashboard) - Your life's personal dashboard. ([Source code](https://github.com/Reportr/dashboard))
+  * [Tipboard](http://allegro.tech/tipboard/) - in-house, tasty, local dashboarding system ([Source code](https://github.com/allegro/tipboard)) `Apache`
   * [wger](https://github.com/rolandgeider/wger) - A web-based personal workout, fitness and weight logger/tracker. It can also be used as a simple gym management utility and offers a full REST API as well. ([Demo](https://wger.de)) `AGPLv3` `Python`
 
 ## Photo and Video Galleries
