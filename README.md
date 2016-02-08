@@ -31,12 +31,12 @@ Table of Contents
     - [E-commerce](#e-commerce)
   - [Federated Identity/Authentication](#federated-identityauthentication)
   - [Feed Readers](#feed-readers)
-  - [File Sharing and Synchronization](#file-sharing-and-synchronization)
-      - [Web based file managers](#web-based-file-managers)
-      - [File synchronization](#file-synchronization)
-      - [Single-click/drag-n-drop upload](#single-clickdrag-n-drop-upload)
-      - [Peer-to-peer filesharing](#peer-to-peer-filesharing)
+  - [File Sharing, Synchronization and Archiving](#file-sharing-and-synchronization)
       - [Distributed filesystems](#distributed-filesystems)
+      - [File synchronization](#file-synchronization)
+      - [Peer-to-peer filesharing](#peer-to-peer-filesharing)
+      - [Single-click/drag-n-drop upload](#single-clickdrag-n-drop-upload)
+      - [Web based file managers](#web-based-file-managers)
   - [Games](#games)
   - [Gateways](#gateways)
   - [Groupware](#groupware)
@@ -387,16 +387,23 @@ _Recipe management_
 
 
 
-## File Sharing and Synchronization
+## File Sharing, Synchronization and Archiving
 
 Some [Groupware](#groupware) solutions also feature file sharing and synchronization.
 
 
-#### Web based file managers
+#### Distributed filesystems
 
-  * [Apaxy](http://adamwhitcroft.com/apaxy/) - Theme built to enhance the experience of browsing web directories, using the mod_autoindex Apache module and some CSS to override the default style of a directory listing. ([Source code](https://github.com/AdamWhitcroft/Apaxy) `Public domain` `CSS`
-  * [eXtplorer](http://extplorer.sourceforge.net/) - A PHP and JavaScript based File Manager
-  * [h5ai](https://larsjung.de/h5ai/) - Modern file indexer for HTTP web servers with focus on your files. Directories are displayed in a appealing way and browsing them is enhanced by different views, a breadcrumb and a tree overview. ([Source code](https://github.com/lrsjng/h5ai), [Demo](https://larsjung.de/h5ai/demo/)) `MIT` `PHP/Javascript`
+  * [Camlistore](https://camlistore.org/) - Camlistore is a set of open source formats, protocols, and software for modeling, storing, searching, sharing and synchronizing data in the post-PC era. Data may be files or objects, tweets or 5TB videos, and you can access it via a phone, browser or FUSE filesystem. ([Source code](https://github.com/camlistore/camlistore)) `Apache` `Go`
+  * [Go IPFS](https://github.com/ipfs/go-ipfs) - Implementation of [IPFS](http://ipfs.io/), a global, versioned, peer-to-peer filesystem that seeks to connect all computing devices with the same system of files. It combines good ideas from Git, BitTorrent, Kademlia, SFS, and the Web. It is like a single bittorrent swarm, exchanging git objects.
+  * [Ori Filesystem](http://ori.scs.stanford.edu/) - A Secure Distributed File System built for offline operation ([Source code](https://bitbucket.org/orifs/ori/wiki/Home)) `MIT` `C++`
+  * [Swift](http://docs.openstack.org/developer/swift/) - A highly available, distributed, eventually consistent object/blob store.
+  * [Tahoe-LAFS](https://www.tahoe-lafs.org/trac/tahoe-lafs) - Tahoe-LAFS is a Free and Open decentralized cloud storage system. It distributes your data across multiple servers. Even if some of the servers fail or are taken over by an attacker, the entire file store continues to function correctly, preserving your privacy and security.
+
+
+#### File / document archiving
+
+  * [Paperless](https://github.com/danielquinn/paperless) - Scan, index, and archive all of your paper documents. `GPLv3` `Python`
 
 
 #### File synchronization
@@ -409,6 +416,15 @@ Some [Groupware](#groupware) solutions also feature file sharing and synchroniza
   * [Z-Push](https://z-push.org/) - An implementation of Microsoft’s [ActiveSync](https://en.wikipedia.org/wiki/ActiveSync) protocol
   * [ownCloud](https://owncloud.org/) - All-in-one solution for saving, synchronizing, viewing, editing and sharing files, calendars, address books and more - `AGPLv3` `PHP`
   * [Pydio](https://pyd.io/) - Turn any web server into a powerful file management system and an alternative to mainstream cloud storage providers.
+
+
+#### Peer-to-peer filesharing
+
+  * [FilePizza](http://file.pizza/) - Peer-to-peer file transfers in your browser ([Source code](https://github.com/kern/filepizza)) `BSD` `Nodejs`
+  * [FileTea](https://filetea.me/) - Anonymous, volatile file sharing: does not store any file on server. Bridges a download to the recipient’s browser with an upload from the source’s browser. ([Source code](https://github.com/elima/FileTea) `AGPLv3` `C`
+  * [instant.io](https://github.com/feross/instant.io) - Streaming file transfer over WebTorrent ([Demo](https://instant.io)) `MIT` `Nodejs`
+  * [Opentracker](http://erdgeist.org/arts/software/opentracker/) - Open and free bittorrent tracker. It aims for minimal resource usage and is intended to run at your wlan router ([Source code](http://erdgeist.org/gitweb/opentracker/) `Public domain` `C`
+  * [ShareFest](https://github.com/peer5/sharefest) - Web based p2p file sharing built on WebRTC Data Channels API ([Demo](https://www.sharefest.me/)) `Apache 2.0` `Nodejs`
 
 
 #### Single-click/drag-n-drop upload
@@ -430,25 +446,12 @@ Some [Groupware](#groupware) solutions also feature file sharing and synchroniza
   * [uPste](https://u.pste.pw) - A private file hosting application with an emphasis on serving technology communities. ([Source code](https://github.com/TheReverend403/uPste)) `AGPLv3` `PHP`
   * [YouTransfer](http://www.youtransfer.io) - YouTransfer is a simple but elegant self-hosted file transfer & sharing solution. ([Demo](http://demo.youtransfer.io/), [Source code](https://github.com/remie/YouTransfer)) `Apache` `Nodejs`
 
- 
 
+#### Web based file managers
 
-#### Peer-to-peer filesharing
-
-  * [FilePizza](http://file.pizza/) - Peer-to-peer file transfers in your browser ([Source code](https://github.com/kern/filepizza)) `BSD` `Nodejs`
-  * [FileTea](https://filetea.me/) - Anonymous, volatile file sharing: does not store any file on server. Bridges a download to the recipient’s browser with an upload from the source’s browser. ([Source code](https://github.com/elima/FileTea) `AGPLv3` `C`
-  * [instant.io](https://github.com/feross/instant.io) - Streaming file transfer over WebTorrent ([Demo](https://instant.io)) `MIT` `Nodejs`
-  * [Opentracker](http://erdgeist.org/arts/software/opentracker/) - Open and free bittorrent tracker. It aims for minimal resource usage and is intended to run at your wlan router ([Source code](http://erdgeist.org/gitweb/opentracker/) `Public domain` `C`
-  * [ShareFest](https://github.com/peer5/sharefest) - Web based p2p file sharing built on WebRTC Data Channels API ([Demo](https://www.sharefest.me/)) `Apache 2.0` `Nodejs`
-
-
-#### Distributed filesystems
-
-  * [Camlistore](https://camlistore.org/) - Camlistore is a set of open source formats, protocols, and software for modeling, storing, searching, sharing and synchronizing data in the post-PC era. Data may be files or objects, tweets or 5TB videos, and you can access it via a phone, browser or FUSE filesystem. ([Source code](https://github.com/camlistore/camlistore)) `Apache` `Go`
-  * [Go IPFS](https://github.com/ipfs/go-ipfs) - Implementation of [IPFS](http://ipfs.io/), a global, versioned, peer-to-peer filesystem that seeks to connect all computing devices with the same system of files. It combines good ideas from Git, BitTorrent, Kademlia, SFS, and the Web. It is like a single bittorrent swarm, exchanging git objects.
-  * [Ori Filesystem](http://ori.scs.stanford.edu/) - A Secure Distributed File System built for offline operation ([Source code](https://bitbucket.org/orifs/ori/wiki/Home)) `MIT` `C++`
-  * [Swift](http://docs.openstack.org/developer/swift/) - A highly available, distributed, eventually consistent object/blob store.
-  * [Tahoe-LAFS](https://www.tahoe-lafs.org/trac/tahoe-lafs) - Tahoe-LAFS is a Free and Open decentralized cloud storage system. It distributes your data across multiple servers. Even if some of the servers fail or are taken over by an attacker, the entire file store continues to function correctly, preserving your privacy and security.
+  * [Apaxy](http://adamwhitcroft.com/apaxy/) - Theme built to enhance the experience of browsing web directories, using the mod_autoindex Apache module and some CSS to override the default style of a directory listing. ([Source code](https://github.com/AdamWhitcroft/Apaxy) `Public domain` `CSS`
+  * [eXtplorer](http://extplorer.sourceforge.net/) - A PHP and JavaScript based File Manager
+  * [h5ai](https://larsjung.de/h5ai/) - Modern file indexer for HTTP web servers with focus on your files. Directories are displayed in a appealing way and browsing them is enhanced by different views, a breadcrumb and a tree overview. ([Source code](https://github.com/lrsjng/h5ai), [Demo](https://larsjung.de/h5ai/demo/)) `MIT` `PHP/Javascript`
 
 
 ## Games
