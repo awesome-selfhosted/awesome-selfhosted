@@ -29,6 +29,7 @@ Table of Contents
     - [Social Networks and Forums](#social-networks-and-forums)
   - [Content Management Systems (CMS)](#content-management-systems-cms)
     - [E-commerce](#e-commerce)
+  - [Document Archiving](#document-archiving)
   - [Federated Identity/Authentication](#federated-identityauthentication)
   - [Feed Readers](#feed-readers)
   - [File Sharing, Synchronization and Archiving](#file-sharing-and-synchronization)
@@ -347,6 +348,11 @@ _Recipe management_
 * [WooCommerce](https://www.woothemes.com/woocommerce/) - WordPress based e-commerce solution ([Source Code](https://github.com/woothemes/woocommerce)) `GPL` `PHP`
 
 
+## Document Archiving
+
+  * [Paperless](https://github.com/danielquinn/paperless) - Scan, index, and archive all of your paper documents. `GPLv3` `Python`
+
+
 ## Federated Identity/Authentication
 
   * [FreeRADIUS](http://freeradius.org/) - High performance and highly configurable multi-protocol policy/authentication server, supporting RADIUS, DHCPv4 and VMPS ([Source Code](https://github.com/FreeRADIUS/freeradius-server)) `GPLv2` `C`
@@ -399,11 +405,6 @@ Some [Groupware](#groupware) solutions also feature file sharing and synchroniza
   * [Ori Filesystem](http://ori.scs.stanford.edu/) - A Secure Distributed File System built for offline operation ([Source code](https://bitbucket.org/orifs/ori/wiki/Home)) `MIT` `C++`
   * [Swift](http://docs.openstack.org/developer/swift/) - A highly available, distributed, eventually consistent object/blob store.
   * [Tahoe-LAFS](https://www.tahoe-lafs.org/trac/tahoe-lafs) - Tahoe-LAFS is a Free and Open decentralized cloud storage system. It distributes your data across multiple servers. Even if some of the servers fail or are taken over by an attacker, the entire file store continues to function correctly, preserving your privacy and security.
-
-
-#### File / document archiving
-
-  * [Paperless](https://github.com/danielquinn/paperless) - Scan, index, and archive all of your paper documents. `GPLv3` `Python`
 
 
 #### File synchronization
