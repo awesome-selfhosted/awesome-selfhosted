@@ -32,7 +32,7 @@ Table of Contents
   - [Document Archiving](#document-archiving)
   - [Federated Identity/Authentication](#federated-identityauthentication)
   - [Feed Readers](#feed-readers)
-  - [File Sharing, Synchronization and Archiving](#file-sharing-and-synchronization)
+  - [File Sharing and Synchronization](#file-sharing-and-synchronization)
       - [Distributed filesystems](#distributed-filesystems)
       - [File synchronization](#file-synchronization)
       - [Peer-to-peer filesharing](#peer-to-peer-filesharing)
