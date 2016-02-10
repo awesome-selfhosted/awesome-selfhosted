@@ -695,6 +695,7 @@ See **[Ticketing](#ticketing)**
 
   * [Codiad](http://codiad.com/) - A web-based IDE framework with a small footprint and minimal requirements. ([Source code](https://github.com/Codiad/Codiad))
   * [JS Bin](http://jsbin.com/) - Open source collaborative web development debugging tool ([Source Code](https://github.com/jsbin/jsbin)) `MIT` `Nodejs`
+  * [Microglark](http://micro.glark.io) - A hacky minimalistic remote pair programming editor. ([Demo](http://micro.glark.io), [Source Code](https://github.com/Bluefinch/microglark)) `AGPLv3` `Javascript`
   * [Pairjam](http://pairjam.com/) - Real-time web-based collaborative coding ([Source code](https://github.com/neerajwahi/pairjam))
   * [Regexr](http://regexr.com/) - RegExr is a HTML/JS based tool for creating, testing, and learning about Regular Expressions. ([Source code](https://github.com/gskinner/regexr/)) `MIT` `Nodejs`
   * [RStudio Server](https://www.rstudio.com/products/rstudio/#Server) - Web browser based IDE for R. ([Source code](https://github.com/rstudio/rstudio/)) `AGPLv3` `Java/C++`
