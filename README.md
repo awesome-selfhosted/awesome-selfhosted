@@ -393,7 +393,7 @@ _Recipe management_
 
 
 
-## File Sharing, Synchronization and Archiving
+## File Sharing and Synchronization
 
 Some [Groupware](#groupware) solutions also feature file sharing and synchronization.
 
