@@ -630,7 +630,7 @@ Some [Groupware](#groupware) solutions also feature file sharing and synchroniza
 ## Polls and Events
 
   * [dudle](http://primelife.ercim.eu/results/opensource/63-dudle) - An online scheduling application ([demo](https://dudle.inf.tu-dresden.de/)) `AGPLv3` `Ruby`
-  * [Framadate](https://git.framasoft.org/framasoft/framadate) - An online service for planning an appointment or make a decision quickly and easily: Make a poll, Define dates or subjects to choose, Send the poll link to your friends or colleagues, Discuss and make a decision. ([Demo](https://framadate.org/), [Example](https://framadate.org/aqg259dth55iuhwm))
+  * [Framadate](https://framadate.org/) - An online service for planning an appointment or make a decision quickly and easily: Make a poll, Define dates or subjects to choose, Send the poll link to your friends or colleagues, Discuss and make a decision. ([Demo](https://framadate.org/aqg259dth55iuhwm), [Source Code](https://git.framasoft.org/framasoft/framadate)) `CeCILL-B` `PHP`
   * [Kyélà](http://kyela.net/) - Participation polls for group events - ([Source code](https://github.com/abienvenu/Kyela), [Demo](http://kyela.net/55232734237c8/))
   * [LimeSurvey](https://www.limesurvey.org) - Feature-rich Open Source web based polling software. Supports extensive survey logic. - ([Demo](https://demo.limesurvey.org))
   * [MaterialPoll](https://github.com/nearbycoder/materialpoll) - An opensource strawpoll.me clone for creating random polls. - ([Source code](https://github.com/nearbycoder/materialpoll), [Demo](http://materialpoll.tk))
@@ -825,6 +825,7 @@ See also [Documentation Generators](#documentation-generators), [Wikimatrix](htt
  * `Apache` - [Apache, Version 2.0](http://www.apache.org/licenses/)
  * `ARTv2` - [Artistic License Version 2.0](http://opensource.org/licenses/Artistic-2.0)
  * `BSD` - [FreeBSD License](https://www.freebsd.org/copyright/license.html)
+ * `CeCILL-B` - [CEA CNRS INRIA Logiciel Libre](http://www.cecill.info/licences/Licence_CeCILL-B_V1-en.txt)
  * `CPALv1` - [Common Public Attribution License Version 1.0](http://opensource.org/licenses/CPAL-1.0)
  * `ECLv2` - [Educational Community License, Version 2.0 ](http://opensource.org/licenses/ECL-2.0)
  * `GPL` - [GNU General Public License](https://www.gnu.org/licenses/gpl-1.0)
