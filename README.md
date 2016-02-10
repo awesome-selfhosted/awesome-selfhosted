@@ -505,7 +505,7 @@ Some [Groupware](#groupware) solutions also feature file sharing and synchroniza
   * [Flumotion](http://flumotion.net/) - A streaming media server with intuitive graphical administration tools ([Source code](https://github.com/Flumotion/flumotion)) `LGPLv2` `Python`
   * [HTPC Manager](http://htpc.io/) - A fully responsive interface to manage all your favorite media on your HTPC. - `MIT`
   * [ReadyMedia](http://sourceforge.net/projects/minidlna/) - A simple media server software, with the aim of being fully compliant with DLNA/UPnP-AV clients `GPLv2` `C`
-  * [Restreamer](https://datarhei.github.io/restreamer/) - Restreamer allows you to do h.264 real-time video streaming on your website without a streaming provider. ([Source code](https://github.com/datarhei/restreamer)) `Apache` `Nodejs`
+  * [Restreamer](https://datarhei.github.io/restreamer/) - Restreamer allows you to do h.264 real-time video streaming on your website without a streaming provider. ([Source Code](https://github.com/datarhei/restreamer)) `Apache` `Nodejs`
   * [Rygel](https://wiki.gnome.org/action/show/Projects/Rygel) - Rygel is a home media solution (UPnP AV MediaServer) that allows you to easily share audio, video and pictures to other devices. Additionally, media player software may use Rygel to become a MediaRenderer that may be controlled remotely by a UPnP or DLNA Controller. `GPLv3` `C`
   * [Streama](https://github.com/dularion/streama) - Self-hosted Netflix alternative. - `MIT` `Java`
   * [Zoneminder](https://github.com/ZoneMinder/ZoneMinder) - Closed-circuit television (CCTV) software application which supports IP, USB and Analog cameras `GPLv2` `PHP`
