@@ -96,6 +96,7 @@ _Web Analytics_
 ## Automation
 
   * [Alltube](https://github.com/Rudloff/alltube) - A web interface for [youtube-dl](https://github.com/rg3/youtube-dl), a program to download videos and audio from [more than 100 websites](https://rg3.github.io/youtube-dl/supportedsites.html) ([Demo](http://www.alltubedownload.net)) `GPL`
+  * [Healthchecks](https://healthchecks.io/) - Django app which listens for pings and sends alerts when pings are late. ([Source Code](https://github.com/healthchecks/healthchecks)) `Unknown` `Python`
   * [Huginn](https://github.com/cantino/huginn) - Allows you to build agents that monitor and act on your behalf - `MIT` `Ruby`
   * [Http2pic](https://http2pic.haschek.at/) - Website screenshots/renderer. It uses the wkhtmltox to render websites with various options. ([Source code](https://github.com/chrisiaut/http2pic)) `Apache 2.0` `PHP/Javascript`
   * [RSS-Bridge](https://github.com/sebsauvage/rss-bridge) - rss-bridge is a PHP project capable of generating ATOM feeds for websites which don't have one. `Public domain` `PHP`
