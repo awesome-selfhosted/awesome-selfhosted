@@ -855,7 +855,7 @@ See also [Documentation Generators](#documentation-generators), [Wikimatrix](htt
 
  * You can help by sending Pull Requests to add more services. See [Editing files](https://help.github.com/articles/editing-files-in-another-user-s-repository/), [Creating Pull Requests](https://help.github.com/articles/creating-a-pull-request/), [Using Pull Requests](https://help.github.com/articles/using-pull-requests/)
  * Non-[Free](https://en.wikipedia.org/wiki/Free_software) software must be marked `⊘ Proprietary` next to the title, and added to [non-free.md](non-free.md)
- * [This form](https://joubertredrat.github.io/awesome-selfhosted-form/) will help you formatting your new software entry. The syntax for links is ``[Name](http://homepage/) - Short description. ([Demo](http://url.to/demo), [Example](http://url.to/example), [Source Code](http://url.of/source/code)) `License` `Language` ``
+ * [This form](https://joubertredrat.github.io/awesome-selfhosted-form/) will help you formatting your new software entry. The syntax for links is ``[Name](http://homepage/) - Short description. ([Demo](http://url.to/demo), [Source Code](http://url.of/source/code)) `License` `Language` ``
  * All projects should have their license and main programming language/platform referenced.
  * Please limit the short description of the project to **250 characters**.
  * Software with no development activity for 6-12 months may be removed from the list.
