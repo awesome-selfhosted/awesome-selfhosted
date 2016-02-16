@@ -140,7 +140,7 @@ See also [Static Site Generators](#static-site-generators), [Content Management 
 
 Some [Groupware](#groupware) solutions also feature calendar/address book editing and synchronization.
 
-  * [AgenDAV](http://agendav.org/) - Multilanguage CalDAV web client with a rich AJAX interface and shared calendars support
+  * [AgenDAV](http://agendav.org/) - Multilanguage CalDAV web client with a rich AJAX interface and shared calendars support [Source Code](https://github.com/adobo/agendav) `GPLv3` `JavaScript` `PHP`
   * [Baïkal](http://baikal-server.com/) - Lightweight CalDAV+CardDAV server
   * [CalendarServer](http://trac.calendarserver.org/) - A standards-compliant server implementing the CalDAV and CardDAV protocols. `Apache` `Python`
   * [calypso](http://keithp.com/calypso/) - A python-based CalDAV/CardDAV server
