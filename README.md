@@ -141,7 +141,7 @@ See also [Static Site Generators](#static-site-generators), [Content Management 
 
 Some [Groupware](#groupware) solutions also feature calendar/address book editing and synchronization.
 
-  * [AgenDAV](http://agendav.org/) - Multilanguage CalDAV web client with a rich AJAX interface and shared calendars support
+  * [AgenDAV](http://agendav.org/) - Multilanguage CalDAV web client with a rich AJAX interface and shared calendars support. [Source Code](https://github.com/adobo/agendav) `GPLv3` `PHP`
   * [Baïkal](http://baikal-server.com/) - Lightweight CalDAV+CardDAV server. [Source Code](https://github.com/fruux/Baikal) `GPLv3` `PHP`
   * [CalendarServer](http://trac.calendarserver.org/) - A standards-compliant server implementing the CalDAV and CardDAV protocols. `Apache` `Python`
   * [calypso](http://keithp.com/calypso/) - A python-based CalDAV/CardDAV server
@@ -534,7 +534,7 @@ Some [Groupware](#groupware) solutions also feature file sharing and synchroniza
   * [IHateMoney](http://ihatemoney.org/) - Manage your shared expenses, easily. ([Source Code](https://github.com/spiral-project/ihatemoney)) `BSD` `Python`
   * [Tryton](http://www.tryton.org/) - Core base of a complete business solution (ERP). ([Demo](http://demo.tryton.org) admin/admin, [Source Code](https://hg.tryton.org)) `GPLv3` `Python`
   * [Koha](https://koha-community.org/) - Fully featured, scalable library management system (integrated library system - ILS). ([Source Code](https://github.com/Koha-Community/Koha)) `GPLv3` `Perl`
-  * [StockazNG](https://dev.sigpipe.me/dashie/StockazNG) - Asset Management System `MIT` `Python`
+  * [StockazNG](https://dev.sigpipe.me/dashie/StockazNG) - Asset Management System. `MIT` `Python`
 
 
 ## Monitoring and Administration
