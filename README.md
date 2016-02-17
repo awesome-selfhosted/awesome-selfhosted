@@ -639,7 +639,7 @@ Some [Groupware](#groupware) solutions also feature file sharing and synchroniza
 ## Polls and Events
 
   * [dudle](http://primelife.ercim.eu/results/opensource/63-dudle) - An online scheduling application ([demo](https://dudle.inf.tu-dresden.de/)) `AGPLv3` `Ruby`
-  * [Framadate](https://git.framasoft.org/framasoft/framadate) - An online service for planning an appointment or make a decision quickly and easily: Make a poll, Define dates or subjects to choose, Send the poll link to your friends or colleagues, Discuss and make a decision. ([Demo](https://framadate.org/), [Example](https://framadate.org/aqg259dth55iuhwm))
+  * [Framadate](https://framadate.org/) - An online service for planning an appointment or make a decision quickly and easily: Make a poll, Define dates or subjects to choose, Send the poll link to your friends or colleagues, Discuss and make a decision. ([Demo](https://framadate.org/aqg259dth55iuhwm), [Source Code](https://git.framasoft.org/framasoft/framadate)) `CeCILL-B` `PHP`
   * [Kyélà](http://kyela.net/) - Participation polls for group events - ([Source Code](https://github.com/abienvenu/Kyela), [Demo](http://kyela.net/55232734237c8/))
   * [LimeSurvey](https://www.limesurvey.org) - Feature-rich Open Source web based polling software. Supports extensive survey logic. - ([Demo](https://demo.limesurvey.org))
   * [MaterialPoll](https://github.com/nearbycoder/materialpoll) - An opensource strawpoll.me clone for creating random polls. - ([Source Code](https://github.com/nearbycoder/materialpoll), [Demo](http://materialpoll.tk))
@@ -835,6 +835,7 @@ See also [Documentation Generators](#documentation-generators), [Wikimatrix](htt
  * `Apache` - [Apache, Version 2.0](http://www.apache.org/licenses/)
  * `ARTv2` - [Artistic License Version 2.0](http://opensource.org/licenses/Artistic-2.0)
  * `BSD` - [FreeBSD License](https://www.freebsd.org/copyright/license.html)
+ * `CeCILL-B` - [CEA CNRS INRIA Logiciel Libre](http://www.cecill.info/licences/Licence_CeCILL-B_V1-en.txt)
  * `CPALv1` - [Common Public Attribution License Version 1.0](http://opensource.org/licenses/CPAL-1.0)
  * `ECLv2` - [Educational Community License, Version 2.0 ](http://opensource.org/licenses/ECL-2.0)
  * `GPL` - [GNU General Public License](https://www.gnu.org/licenses/gpl-1.0)
@@ -864,7 +865,7 @@ See also [Documentation Generators](#documentation-generators), [Wikimatrix](htt
 
  * You can help by sending Pull Requests to add more services. See [Editing files](https://help.github.com/articles/editing-files-in-another-user-s-repository/), [Creating Pull Requests](https://help.github.com/articles/creating-a-pull-request/), [Using Pull Requests](https://help.github.com/articles/using-pull-requests/)
  * Non-[Free](https://en.wikipedia.org/wiki/Free_software) software must be marked `⊘ Proprietary` next to the title, and added to [non-free.md](non-free.md)
- * [This form](https://joubertredrat.github.io/awesome-selfhosted-form/) will help you formatting your new software entry. The syntax for links is ``[Name](http://homepage/) - Short description ([Demo](http://url.to/demo), [Source Code](http://url.of/source/code)) `License` `Language` ``
+ * [This form](https://joubertredrat.github.io/awesome-selfhosted-form/) will help you formatting your new software entry. The syntax for links is ``[Name](http://homepage/) - Short description. ([Demo](http://url.to/demo), [Source Code](http://url.of/source/code)) `License` `Language` ``
  * All projects should have their license and main programming language/platform referenced.
  * Please limit the short description of the project to **250 characters**.
  * Software with no development activity for 6-12 months may be removed from the list.
