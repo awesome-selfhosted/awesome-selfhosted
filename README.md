@@ -34,7 +34,7 @@ Table of Contents
   - [Feed Readers](#feed-readers)
   - [File Sharing and Synchronization](#file-sharing-and-synchronization)
       - [Distributed filesystems](#distributed-filesystems)
-      - [File synchronization](#file-synchronization)
+      - [File transfer/synchronization](#file-transfersynchronization)
       - [Peer-to-peer filesharing](#peer-to-peer-filesharing)
       - [Single-click/drag-n-drop upload](#single-clickdrag-n-drop-upload)
       - [Web based file managers](#web-based-file-managers)
@@ -411,9 +411,10 @@ Some [Groupware](#groupware) solutions also feature file sharing and synchroniza
   * [Tahoe-LAFS](https://www.tahoe-lafs.org/trac/tahoe-lafs) - Tahoe-LAFS is a Free and Open decentralized cloud storage system. It distributes your data across multiple servers. Even if some of the servers fail or are taken over by an attacker, the entire file store continues to function correctly, preserving your privacy and security.
 
 
-#### File synchronization
+#### File transfer/synchronization
 
   * [Git Annex](http://git-annex.branchable.com/assistant/quickstart/) - File synchronization between computers, servers, external drives
+  * [OpenSSH/SFTP] - Secure File Transfer Program. ([Source Code](http://www.openssh.com/)) `BSD` `C`
   * [Seafile](https://www.seafile.com/en/home/) - File hosting and sharing solution primary for teams and organizations. ([Demo](https://seacloud.cc/demo)) `GPLv2`
   * [SparkleShare](http://sparkleshare.org/) - Self hosted, instant, secure file sync
   * [Syncany](https://www.syncany.org/) - Secure file sync software for arbitrary storage backends - An open-source cloud storage and filesharing application. Securely synchronize your files to any kind of storage! `GPLv3` `Java`
