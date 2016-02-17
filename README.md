@@ -186,6 +186,7 @@ _MDAs - IMAP/POP3 software_
 
 * [Cyrus IMAP/POP3](http://cyrusimap.org/) - Intended to be run on sealed servers, where normal users are not permitted to log in.
 * [Dovecot](http://www.dovecot.org/) - IMAP and POP3 server written primarily with security in mind.
+* [Piler](http://www.mailpiler.org/wiki/start) - feature rich open source email archiving solution. ([Source Code](https://bitbucket.org/jsuto/piler)) `GPLv3` `C`
 
 
 #### Complete solutions
