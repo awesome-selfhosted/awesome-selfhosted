@@ -815,7 +815,7 @@ See also [Documentation Generators](#documentation-generators), [Wikimatrix](htt
   * [Raneto](http://raneto.com/) - Raneto is an open source Knowledgebase platform that uses static Markdown files to power your Knowledgebase - `MIT` `NodeJS`
   * [Realms](https://github.com/scragg0x/realms-wiki) - A git-backed wiki inspired by Gollum `Python`
   * [Redaxscript](http://redaxscript.com/) - Ultra lightweight website engine `GPL` `PHP`
-  * [TiddlyWiki](http://tiddlywiki.com/) - A reusable non-linear personal web notebook `NodeJS`
+  * [TiddlyWiki](http://tiddlywiki.com/) - A reusable non-linear personal web notebook. ([Source Code](https://github.com/Jermolene/TiddlyWiki5)) `BSD` `Javascript/Nodejs`
   * [WiKiss](http://wikiss.tuxfamily.org/) - A Wiki, simple to use and install `PHP`
   * [Wikitten](https://github.com/victorstanciu/Wikitten) - Wikitten is a small, fast, PHP wiki, and the perfect place to store your notes, code snippets, ideas, and so on. `PHP`
 
