@@ -162,7 +162,7 @@ Some [Groupware](#groupware) solutions also feature calendar/address book editin
   * [RainLoop](http://www.rainloop.net/) - Simple, modern & fast webmail with IMAP/SMTP Support and multi accounting. ([Demo](http://demo.rainloop.net/), [Source Code](https://github.com/RainLoop/rainloop-webmail)). `AGPLv3` `PHP`
   * [Roundcube](https://roundcube.net) - Browser-based IMAP client with an application-like user interface. ([Screenshots](https://roundcube.net/screens/)) ([Source Code](https://github.com/roundcube/roundcubemail/)) `GPLv3` `PHP`
   * [SquirrelMail](http://squirrelmail.org) - Another browser-based IMAP client.
-  * [WebMail Lite](http://www.afterlogic.org/webmail-lite) - Webbased IMAP Mail client ([Source Code](https://github.com/afterlogic/webmail-lite) `GPLv3` `PHP`
+  * [WebMail Lite](http://www.afterlogic.org/webmail-lite) - Webbased IMAP Mail client ([Source Code](https://github.com/afterlogic/webmail-lite)) `GPLv3` `PHP`
 
 
 #### Mail Transfer Agents
@@ -194,7 +194,7 @@ _MDAs - IMAP/POP3 software_
 _simple deployment of a mail server, e.g. for inexperienced or impatient admins._
 
   * [hMailServer](https://www.hmailserver.com) - Open source e-mail server for Microsoft Windows
-  * [Mailcow](https://github.com/andryyy/mailcow) - Mail server suite based on Dovecot, Postfix and other open source software, that provides a modern Web UI for administration. `PHP/Shell/Other` `GPLv2`
+  * [Mailcow](https://mailcow.email/) - Mail server suite based on Dovecot, Postfix and other open source software, that provides a modern Web UI for administration. ([Source Code](https://github.com/andryyy/mailcow)) `GPLv2` `PHP` `Shell`  
   * [Mail-in-a-Box](https://mailinabox.email/) - Turns any Ubuntu server into a fully functional mail server with one command. `Shell/Other` `CC0`
   * [iRedMail](http://www.iredmail.org/) - Full-featured mail server solution based on Postfix and Dovecot.
   * [Citadel](http://www.citadel.org/) - Feature packed, easy, versatile, and powerful mail server, thanks to exclusive "rooms" based architecture.
