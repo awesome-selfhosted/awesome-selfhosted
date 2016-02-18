@@ -206,6 +206,7 @@ _simple deployment of a mail server, e.g. for inexperienced or impatient admins.
 _Mailing lists servers._
 
   * [Mailman](https://www.gnu.org/software/mailman/) - The Gnu mailing list server. `Python` `GPL`
+  * [Sympa](https://www.sympa.org/) - A mailing list manager. `Perl` `GPL`
 
 
 ### XMPP
