@@ -618,6 +618,7 @@ Some [Groupware](#groupware) solutions also feature file sharing and synchroniza
   * [Dj Diabetes](https://github.com/foxmask/dj-diabetes) - My Glucose Manager - follow your daily health  `BSD` `Python`
   * [Freeboard](https://freeboard.io) - An open source real-time dashboard builder for IOT and other web mashups. ([Source Code](https://github.com/freeboard/freeboard)) `MIT` `Nodejs`
   * [Habitica](http://habitica.com/) - A habit tracker app which treats your goals like a Role Playing Game. Previously called HabitRPG. ([Source Code](https://github.com/HabitRPG/habitrpg)) `GPLv3/Other` `Nodejs`
+  * [Phant](http://phant.io/) - Phant is a modular data logging tool for collecting data from the Internet of Things. ([Demo](https://data.sparkfun.com/), [Source Code](https://github.com/sparkfun/phant)) `GPLv3` `Nodejs`
   * [Reportr](https://github.com/Reportr/dashboard) - Your life's personal dashboard. ([Source Code](https://github.com/Reportr/dashboard))
   * [Tipboard](http://allegro.tech/tipboard/) - In-house, tasty, local dashboarding system. ([Source Code](https://github.com/allegro/tipboard)) `Apache` `Python`
   * [wger](https://github.com/rolandgeider/wger) - A web-based personal workout, fitness and weight logger/tracker. It can also be used as a simple gym management utility and offers a full REST API as well. ([Demo](https://wger.de)) `AGPLv3` `Python`
