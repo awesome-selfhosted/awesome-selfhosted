@@ -555,7 +555,7 @@ Some [Groupware](#groupware) solutions also feature file sharing and synchroniza
 
 ## Music Streaming
 
-  * [Ampache](http://ampache.org/) - A web based audio/video streaming application `GPLv2` `PHP`
+  * [Ampache](http://ampache.org/) - A web based audio/video streaming application. ([Demo](http://play.dogmazic.net/), [Source Code](https://github.com/ampache/ampache)) `AGPLv3` `PHP`
   * [CherryMusic](http://www.fomori.org/cherrymusic/) - Minimalistic Web-Mediaplayer - `GPL` `Python`
   * [cloudtunes](https://github.com/jkbrzt/cloudtunes) - Web-based music player for the cloud `MIT` `Python/Javascript`
   * [GNU FM](https://gnu.io/fm/) - Running music community websites, alternative to last.fm ([Source Code](http://git.savannah.gnu.org/cgit/librefm.git/)) `GPLv3` `PHP`
