@@ -343,7 +343,7 @@ _Recipe management_
   * [OpenEats](http://www.openeats.org/) - A recipe management site that allows users to create, store, share and rate recipes, create grocery lists, and more. ([Source Code](https://github.com/qgriffith/OpenEats) `Python/Django` `BSD`
 
 ### Enterprise Resource Planning
-* [Odoo](http://odoo.com) - Free open source ERP system. ([Source Code](https://github.com/odoo/odoo)) ([Docker Container](https://github.com/docker-library/docs/tree/master/odoo)) `GPLv3` `PYTHON`
+* [Odoo](http://odoo.com) - Free open source ERP system. ([Source Code](https://github.com/odoo/odoo)), ([Demo](https://demo.odoo.com/)) `LGPLv3` `Python`
 
 ### E-commerce
 
