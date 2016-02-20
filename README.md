@@ -20,6 +20,7 @@ Table of Contents
       - [Mail Transfer Agents](#mail-transfer-agents)
       - [Mail Delivery Agents](#mail-delivery-agents)
       - [Complete solutions](#complete-solutions)
+      - [Mailing lists](#mailing-lists)
     - [XMPP](#xmpp)
       - [XMPP Servers](#xmpp-servers)
       - [XMPP Web Clients](#xmpp-web-clients)
@@ -200,6 +201,13 @@ _simple deployment of a mail server, e.g. for inexperienced or impatient admins.
   * [iRedMail](http://www.iredmail.org/) - Full-featured mail server solution based on Postfix and Dovecot.
   * [Citadel](http://www.citadel.org/) - Feature packed, easy, versatile, and powerful mail server, thanks to exclusive "rooms" based architecture.
   * [Modoboa](http://modoboa.org/en/) - Modoboa is a mail hosting and management platform including a modern and simplified Web User Interface. `Python` `MIT`
+
+#### Mailing lists
+
+_Mailing lists servers._
+
+  * [Mailman](https://www.gnu.org/software/mailman/) - The Gnu mailing list server. `Python` `GPL`
+  * [Sympa](https://www.sympa.org/) - A mailing list manager. `Perl` `GPL`
 
 
 ### XMPP
