@@ -30,6 +30,7 @@ Table of Contents
   - [Content Management Systems (CMS)](#content-management-systems-cms)
     - [E-commerce](#e-commerce)
   - [Document Archiving](#document-archiving)
+  - [eBook Libraries](#ebook-libraries)
   - [Federated Identity/Authentication](#federated-identityauthentication)
   - [Feed Readers](#feed-readers)
   - [File Sharing and Synchronization](#file-sharing-and-synchronization)
@@ -359,6 +360,9 @@ _Recipe management_
   * [Paperless](https://github.com/danielquinn/paperless) - Scan, index, and archive all of your paper documents. `GPLv3` `Python`
   * [SANE Network Scanning](http://sane-project.org/) - allow remote clients to access image acquisition devices (scanners) available on the local host. ([Source Code](http://www.sane-project.org/cvs.html)) `GPLv2` `C`
 
+## eBook Libraries
+
+* [Calibre](https://calibre-ebook.com/) - Calibre is a free and open source e-book library management application developed by users of e-books for users of e-books. ([Demo](https://calibre-ebook.com/demo), [Source code](https://github.com/kovidgoyal/calibre)) `GPLv3` `Python`
 
 ## Federated Identity/Authentication
 
