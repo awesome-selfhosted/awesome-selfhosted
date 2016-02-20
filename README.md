@@ -30,6 +30,7 @@ Table of Contents
   - [Content Management Systems (CMS)](#content-management-systems-cms)
     - [E-commerce](#e-commerce)
   - [Document Archiving](#document-archiving)
+  - [Enterprise Resource Planning](#enterprise-resource-planning)
   - [Federated Identity/Authentication](#federated-identityauthentication)
   - [Feed Readers](#feed-readers)
   - [File Sharing and Synchronization](#file-sharing-and-synchronization)
@@ -342,9 +343,6 @@ _Recipe management_
 
   * [OpenEats](http://www.openeats.org/) - A recipe management site that allows users to create, store, share and rate recipes, create grocery lists, and more. ([Source Code](https://github.com/qgriffith/OpenEats) `Python/Django` `BSD`
 
-### Enterprise Resource Planning
-* [Odoo](http://odoo.com) - Free open source ERP system. ([Source Code](https://github.com/odoo/odoo)), ([Demo](https://demo.odoo.com/)) `LGPLv3` `Python`
-
 ### E-commerce
 
 * [OpenCart](https://www.opencart.com) - Free open source shopping cart solution. ([Source Code](https://github.com/opencart/opencart)) `GPLv3` `PHP`
@@ -360,6 +358,11 @@ _Recipe management_
   * [CUPS](https://www.cups.org/) - The Common Unix Print System uses Internet Printing Protocol (IPP) to support printing to local and network printers. ([Source Code](https://www.cups.org/software.php)) `GPLv2` `C`
   * [Paperless](https://github.com/danielquinn/paperless) - Scan, index, and archive all of your paper documents. `GPLv3` `Python`
   * [SANE Network Scanning](http://sane-project.org/) - allow remote clients to access image acquisition devices (scanners) available on the local host. ([Source Code](http://www.sane-project.org/cvs.html)) `GPLv2` `C`
+
+
+## Enterprise Resource Planning
+
+* [Odoo](http://odoo.com) - Free open source ERP system. ([Source Code](https://github.com/odoo/odoo)), ([Demo](https://demo.odoo.com/)) `LGPLv3` `Python`
 
 
 ## Federated Identity/Authentication
