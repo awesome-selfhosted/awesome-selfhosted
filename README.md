@@ -14,20 +14,20 @@ Table of Contents
   - [Blogging Platforms](#blogging-platforms)
   - [Bookmarks & Link Sharing](#bookmarks--link-sharing)
   - [Calendar and Address Books](#calendar-and-address-books)
-  - [Communication systems](#communication-systems)
+  - [Communication Systems](#communication-systems)
+    - [Custom](#custom)
     - [Email](#email)
-      - [Webmail clients](#webmail-clients)
-      - [Mail Transfer Agents](#mail-transfer-agents)
+      - [Complete Solutions](#complete-solutions)
+      - [Mailing Lists](#mailing-lists)
       - [Mail Delivery Agents](#mail-delivery-agents)
-      - [Complete solutions](#complete-solutions)
-      - [Mailing lists](#mailing-lists)
+      - [Mail Transfer Agents](#mail-transfer-agents)
+      - [Webmail Clients](#webmail-clients)
+    - [IRC](#irc)
+    - [SIP](#sip)
+    - [Social Networks and Forums](#social-networks-and-forums)
     - [XMPP](#xmpp)
       - [XMPP Servers](#xmpp-servers)
       - [XMPP Web Clients](#xmpp-web-clients)
-    - [SIP](#sip)
-    - [IRC](#irc)
-    - [Custom](#custom)
-    - [Social Networks and Forums](#social-networks-and-forums)
   - [Content Management Systems (CMS)](#content-management-systems-cms)
     - [E-commerce](#e-commerce)
   - [Document Archiving](#document-archiving)
@@ -147,24 +147,70 @@ Some [Groupware](#groupware) solutions also feature calendar/address book editin
   * [AgenDAV](http://agendav.org/) - Multilanguage CalDAV web client with a rich AJAX interface and shared calendars support. [Source Code](https://github.com/adobo/agendav) `GPLv3` `PHP`
   * [Baïkal](http://baikal-server.com/) - Lightweight CalDAV+CardDAV server. [Source Code](https://github.com/fruux/Baikal) `GPLv3` `PHP`
   * [CalendarServer](http://trac.calendarserver.org/) - A standards-compliant server implementing the CalDAV and CardDAV protocols. `Apache` `Python`
-  * [calypso](http://keithp.com/calypso/) - A python-based CalDAV/CardDAV server
-  * [DAViCal](http://www.davical.org/) - A server for calendar sharing (CalDAV)
-  * [Radicale](http://radicale.org/) - A Simple Calendar and Contact Server
+  * [calypso](http://keithp.com/calypso/) - A python-based CalDAV/CardDAV server.
+  * [DAViCal](http://www.davical.org/) - A server for calendar sharing (CalDAV).
+  * [Radicale](http://radicale.org/) - A Simple Calendar and Contact Server.
   * [sabre/dav](http://sabre.io/) - A open source CardDAV, CalDAV and WebDAV server.
   * [ownCloud calendar](https://doc.owncloud.org/server/7.0/user_manual/pim/calendar.html) - The ownCloud Calendar app enables you to create and edit events, synchronize to other calendars you might use, and create new, personalized calendars. ([Source Code](https://github.com/owncloud/calendar)) `AGPLv3` `PHP`
 
 ## Communication systems
 
+
+### Custom
+
+  * [Freenet](https://freenetproject.org/index.html) - Anonymously share files, browse and publish "freesites" (web sites accessible only through Freenet) and chat on forums. ([Source Code](https://github.com/freenet/fred)) `GPLv2` `Java`
+  * [Friends](http://moose-team.github.io/friends/) - P2P chat powered by the web. ([Source Code](https://github.com/moose-team/friends)) `MIT` `Nodejs`
+  * [GNUNet](https://gnunet.org/) - Free software framework for decentralized, peer-to-peer networking. `GPLv3` `C/Java`
+  * [Jitsi Meet](https://jitsi.org/Projects/JitsiMeet) - Jitsi Meet is an OpenSource (MIT) WebRTC JavaScript application that uses Jitsi Videobridge to provide high quality, scalable video conferences. `MIT ` `JavaScript`
+  * [Jitsi Video Bridge](https://jitsi.org/Projects/JitsiVideobridge) - WebRTC compatible Selective Forwarding Unit (SFU) that allows for multiuser video communication. `Apache` `Java`
+  * [Kandan](http://getkandan.com/) – Kandan is an Open Source Alternative to HipChat. - `AGPL`
+  * [Let's Chat](https://sdelements.github.io/lets-chat/) - A persistent messaging application that runs on Node.js and MongoDB. `MIT` `Nodejs`
+  * [Mattermost](http://www.mattermost.org/) - Open-source, on-prem Slack-alternative. It can be integrated with [Gitlab](https://about.gitlab.com/). ([Source Code](https://github.com/mattermost/platform)) `AGPLv3/Apache 2.0` `Go`
+  * [Mibew](https://mibew.org) - Mibew Messenger is an open-source live support application written in PHP and MySQL. It enables one-on-one chat assistance in real-time directly from your website. ([Demo](https://mibew.org/demo2), [Source Code](https://github.com/Mibew/mibew)) `Apache` `PHP/Javascript`
+  * [Mumble](http://wiki.mumble.info/wiki/Main_Page) - Low-latency, high quality voice/text chat software. `BSD` `C++`
+    * [Mumblecop](https://bitbucket.org/Flandoo/mumblecop) - Stream audio from youtube and soundcloud, simulate dice rolls, or write your own commands with a simple plugin format. `MIT` `Ruby`
+  * [Node-Chat](https://github.com/IgorAntun/node-chat) - A not-so-basic open-source chat with admin features. - `MIT` `Nodejs`
+  * [RetroShare](http://retroshare.org) - Secured and decentralized communication system. Offers decentralized chat, forums, messaging, file transfer. ([Source Code](https://github.com/RetroShare/RetroShare)) `GPLv2` `С++`
+  * [Rocket.Chat](https://rocket.chat/) – Teamchat solution similar to Gitter.im or Slack. - `MIT`
+  * [Synapse](https://matrix.org/blog/project/synapse/) - A server for [Matrix](https://matrix.org/), an open standard for decentralized persistent communication. ([Source Code](https://github.com/matrix-org/synapse)) `Apache` `Python`
+    * [Vector](https://matrix.org/blog/project/vector/) - A glossy Matrix web client with an emphasis on performance and usability. ([Source Code](https://github.com/vector-im/vector-web)) `Apache` `Javascript`
+    * [Matrix Console Web](https://matrix.org/blog/project/matrix-console-web/) - A web client meant to be a showcase of Matrix capabilities, and reference implementation of the Matrix standard. ([Source Code](https://github.com/matrix-org/matrix-angular-sdk)) `Apache` `Javascript`
+  * [Syndie](https://www.syndie.de) - Syndie is a libre system for operating distributed forums. `Public Domain` `Java`
+  * [TextBelt](https://github.com/typpo/textbelt) - An outgoing SMS API that uses carrier-specific gateways to deliver your text messages for free, and without ads. ` ⚠ ` `MIT` `JavaScript`
+  * [Tox](https://tox.chat/) - A distributed, secure messenger with audio and video chat capabilities. `GPLv3` `C`
+  * [Zulip](https://zulip.org) - Zulip is a powerful, open source group chat application. ([Source Code](https://github.com/zulip/zulip))`Apache 2.0/Other` `Python/Django`
+
+
 ### Email
 
-#### Webmail clients
 
-  * [Cypht](http://cypht.org/index.html) - A feed reader for your email accounts - `GPL`
-  * [Mailpile](https://www.mailpile.is/) - Webmail client with search, filtering, encryption features and more ([Source Code](https://github.com/mailpile/Mailpile)) `AGPLv3` `Python`
-  * [RainLoop](http://www.rainloop.net/) - Simple, modern & fast webmail with IMAP/SMTP Support and multi accounting. ([Demo](http://demo.rainloop.net/), [Source Code](https://github.com/RainLoop/rainloop-webmail)). `AGPLv3` `PHP`
-  * [Roundcube](https://roundcube.net) - Browser-based IMAP client with an application-like user interface. ([Screenshots](https://roundcube.net/screens/)) ([Source Code](https://github.com/roundcube/roundcubemail/)) `GPLv3` `PHP`
-  * [SquirrelMail](http://squirrelmail.org) - Another browser-based IMAP client.
-  * [WebMail Lite](http://www.afterlogic.org/webmail-lite) - Webbased IMAP Mail client ([Source Code](https://github.com/afterlogic/webmail-lite) `GPLv3` `PHP`
+#### Complete Solutions
+
+_simple deployment of a mail server, e.g. for inexperienced or impatient admins._
+
+  * [hMailServer](https://www.hmailserver.com) - Open source e-mail server for Microsoft Windows.
+  * [Mailcow](https://github.com/andryyy/mailcow) - Mail server suite based on Dovecot, Postfix and other open source software, that provides a modern Web UI for administration. `PHP/Shell/Other` `GPLv2`
+  * [Mail-in-a-Box](https://mailinabox.email/) - Turns any Ubuntu server into a fully functional mail server with one command. `Shell/Other` `CC0`
+  * [iRedMail](http://www.iredmail.org/) - Full-featured mail server solution based on Postfix and Dovecot.
+  * [Citadel](http://www.citadel.org/) - Feature packed, easy, versatile, and powerful mail server, thanks to exclusive "rooms" based architecture.
+  * [Modoboa](http://modoboa.org/en/) - Modoboa is a mail hosting and management platform including a modern and simplified Web User Interface. `Python` `MIT`
+
+
+#### Mailing Lists
+
+_Mailing lists servers._
+
+  * [Mailman](https://www.gnu.org/software/mailman/) - The Gnu mailing list server. `Python` `GPL`
+  * [Sympa](https://www.sympa.org/) - A mailing list manager. `Perl` `GPL`
+
+
+#### Mail Delivery Agents
+
+_MDAs - IMAP/POP3 software_
+
+* [Cyrus IMAP/POP3](http://cyrusimap.org/) - Intended to be run on sealed servers, where normal users are not permitted to log in.
+* [Dovecot](http://www.dovecot.org/) - IMAP and POP3 server written primarily with security in mind.
+* [Piler](http://www.mailpiler.org/wiki/start) - feature rich open source email archiving solution. ([Source Code](https://bitbucket.org/jsuto/piler)) `GPLv3` `C`
 
 
 #### Mail Transfer Agents
@@ -182,32 +228,68 @@ _MTAs / SMTP servers_
 * [Sendmail](http://www.sendmail.com/sm/open_source/) - Message transfer agent (MTA).
 
 
-#### Mail Delivery Agents
+#### Webmail Clients
 
-_MDAs - IMAP/POP3 software_
+  * [Cypht](http://cypht.org/index.html) - A feed reader for your email accounts. `GPL`
+  * [Mailpile](https://www.mailpile.is/) - Webmail client with search, filtering, encryption features and more. ([Source Code](https://github.com/mailpile/Mailpile)) `AGPLv3` `Python`
+  * [RainLoop](http://www.rainloop.net/) - Simple, modern & fast webmail with IMAP/SMTP Support and multi accounting. ([Demo](http://demo.rainloop.net/), [Source Code](https://github.com/RainLoop/rainloop-webmail)). `AGPLv3` `PHP`
+  * [Roundcube](https://roundcube.net) - Browser-based IMAP client with an application-like user interface. ([Screenshots](https://roundcube.net/screens/)) ([Source Code](https://github.com/roundcube/roundcubemail/)) `GPLv3` `PHP`
+  * [SquirrelMail](http://squirrelmail.org) - Another browser-based IMAP client.
+  * [WebMail Lite](http://www.afterlogic.org/webmail-lite) - Webbased IMAP Mail client. ([Source Code](https://github.com/afterlogic/webmail-lite) `GPLv3` `PHP`
 
-* [Cyrus IMAP/POP3](http://cyrusimap.org/) - Intended to be run on sealed servers, where normal users are not permitted to log in.
-* [Dovecot](http://www.dovecot.org/) - IMAP and POP3 server written primarily with security in mind.
-* [Piler](http://www.mailpiler.org/wiki/start) - feature rich open source email archiving solution. ([Source Code](https://bitbucket.org/jsuto/piler)) `GPLv3` `C`
+
+### IRC
+
+*[IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat) communication software*
+
+  * [Convos](http://convos.by/) - Always online web IRC client. ([Demo](http://demo.convos.by), [Source Code](http://github.com/nordaaker/convos)) `ARTv2` `Perl`
+  * [IRCAnywhere](http://ircanywhere.com/) - Open-source self-hosted alternative to IRCCloud. ([Source](https://github.com/ircanywhere/ircanywhere)) `JavaScript` `Nodejs`
+  * [Quassel IRC](http://quassel-irc.org/) - distributed IRC client, meaning that one (or multiple) client(s) can attach to and detach from a central core. ([Source Code](https://github.com/quassel/quassel)) `GPLv2` `C++`
+  * [Shout](http://shout-irc.com/) - The self-hosted web IRC client. ([Demo](http://demo.shout-irc.com/), [Source Code](https://github.com/erming/shout)) `MIT` `Nodejs`
+  * [Weechat](https://weechat.org/) - A fast, light and extensible chat client. `GPLv3` `C`
+  * [ZNC](http://wiki.znc.in/ZNC) - An advanced IRC bouncer. `Apache` `C++`
 
 
-#### Complete solutions
+### SIP
 
-_simple deployment of a mail server, e.g. for inexperienced or impatient admins._
+*[SIP](https://en.wikipedia.org/wiki/Session_Initiation_Protocol) telephony software*
 
-  * [hMailServer](https://www.hmailserver.com) - Open source e-mail server for Microsoft Windows
-  * [Mailcow](https://github.com/andryyy/mailcow) - Mail server suite based on Dovecot, Postfix and other open source software, that provides a modern Web UI for administration. `PHP/Shell/Other` `GPLv2`
-  * [Mail-in-a-Box](https://mailinabox.email/) - Turns any Ubuntu server into a fully functional mail server with one command. `Shell/Other` `CC0`
-  * [iRedMail](http://www.iredmail.org/) - Full-featured mail server solution based on Postfix and Dovecot.
-  * [Citadel](http://www.citadel.org/) - Feature packed, easy, versatile, and powerful mail server, thanks to exclusive "rooms" based architecture.
-  * [Modoboa](http://modoboa.org/en/) - Modoboa is a mail hosting and management platform including a modern and simplified Web User Interface. `Python` `MIT`
+  * [Asterisk](http://www.asterisk.org/) - An easy to use but advanced IP PXB system, VoIP gateway and conference server. `GPLv2` `C`
+  * [FreeSWITCH](https://freeswitch.org/) - Scalable open source cross-platform telephony platform. ([Source Code](https://freeswitch.org/stash/projects/FS/repos/freeswitch/browse)) `MPLv2` `C`
+  * [Kamailio](http://www.kamailio.org/w/) - Modular SIP server (registrar/proxy/router/etc). `GPLv2` `C`
+  * [Ostel](https://dev.guardianproject.info/projects/ostel/wiki/Server_Documentation) - Secure SIP telephony setup with ZRTP encryption. `GPLv3` `Ruby`
 
-#### Mailing lists
 
-_Mailing lists servers._
+### Social Networks and Forums
 
-  * [Mailman](https://www.gnu.org/software/mailman/) - The Gnu mailing list server. `Python` `GPL`
-  * [Sympa](https://www.sympa.org/) - A mailing list manager. `Perl` `GPL`
+  * [Anahita](https://www.getanahita.com/) - Open Source Social Networking Framework & Platform. ([Source Code](https://github.com/anahitasocial) `GPLv3` `PHP`
+  * [Bootcamp](http://trybootcamp.vitorfs.com) - An enterprise social network. - [Source Code](https://github.com/vitorfs/bootcamp)
+  * [Buddycloud](http://buddycloud.com/) - Tools, libraries, services and a community to build user-to-user, group and social messaging into your app. Saves time. Scales up. Supports you. ([Source Code](https://github.com/buddycloud)) `Apache 2.0` `Java/Javascript`
+  * [BuddyPress](https://buddypress.org/about/) - A powerful plugin that takes your WordPress.org powered site beyond the blog with social-network features like user profiles, activity streams, user groups, and more.
+  * [diaspora*](https://diasporafoundation.org/) - Distributed social networking server. ([Demo](http://podupti.me/random.php), [Source Code](https://github.com/diaspora/diaspora)) `AGPLv3` `Ruby`
+  * [Discourse](http://www.discourse.org/) - Advanced forum / community solution based on Ruby and JS. - `GPLv2`
+  * [Elgg](https://elgg.org/) - A powerful open source social networking engine. - `GPLv2`
+  * [Flarum](http://flarum.org) - Delightfully simple forums. Flarum is the next-generation forum software that makes online discussion fun again. ([Source Code](https://github.com/flarum/flarum)) `MIT` `PHP`
+  * [FluxBB](http://fluxbb.org/) - Fast, light, user-friendly forum software for your website. ([Source Code](https://github.com/fluxbb/fluxbb)) `GPLv2` `PHP`
+  * [Friendica](http://friendica.com/) - Social Communication Server. ([Source Code](https://github.com/friendica/friendica)) `AGPLv3`
+  * [Gnu Social](https://gnu.io/social/) - Social communication software for both public and private communications.
+  * [Hubzilla](https://github.com/redmatrix/hubzilla) - Independent general-purpose websites that not only connect with their associated members and viewers, but also connect together. `MIT` `PHP`
+  * [HumHub](https://www.humhub.org/) - A flexible kit for private social networks. ([Source Code](https://github.com/humhub/humhub)) `AGPLv3` `PHP`
+  * [Isso](http://posativ.org/isso/) - A lightweight commenting server written in Python and JavaScript. It aims to be a drop-in replacement for Disqus. ([Source Code](https://github.com/posativ/isso)) `MIT` `Python`
+  * [Jappix](https://jappix.com/) - Jappix is an open social platform, that let's you easily get or keep in touch with everyone.
+  * [Loomio](https://www.loomio.org/) - Loomio is a collaborative decision-making tool that makes it easy for anyone to participate in decisions which affect them.  ([Source Code](https://github.com/loomio/loomio)) `AGPLv3` `Ruby`
+  * [Movim](https://movim.eu/) - A brand new social network, full of awesome features in a modern and smart interface.
+  * [MyBB](http://www.mybb.com/) - Free, extensible forum software package. ([Source Code](https://github.com/mybb/mybb)) `LGPLv3` `PHP` 
+  * [Newebe](http://newebe.org/) - A Distributed Social Network. ([Source Code](https://github.com/gelnior/newebe)) `AGPLv3` `Python`
+  * [NodeBB](https://nodebb.org/) - Node.js based forum software built for the modern web. ([Source Code](https://github.com/NodeBB/NodeBB)) `GPLv3` `Nodejs`
+  * [Oxwall](http://www.oxwall.org/) Oxwall is used for a wide range of projects starting from family sites and custom social networks to collaboration tools and enterprise community solutions. ([Source Code](https://bitbucket.org/oxwall/public) `CPALv1` `PHP`
+  * [phpBB](https://www.phpbb.com/) - Flat-forum bulletin board software solution that can be used to stay in touch with a group of people or can power your entire website. `GPLv2` `PHP`
+  * [PPnet](https://github.com/pixelpark/ppnet) Create and host your own social network. `MIT` `JavaScript`
+  * [Pump.io](http://pump.io/) - Stream server that does most of what people really want from a social network. ([Source Code](https://github.com/e14n/pump.io))
+  * [Reddit](https://www.reddit.com/) - Social networking and news website where registered community members can submit content. ([Demo](https://www.reddit.com/) [Source Code](https://github.com/reddit/reddit)) `CPALv1` `Python`
+  * [RedMatrix](http://www.redmatrix.me/) - Complete decentralised publishing, sharing, and communications system. ([Source Code](https://github.com/redmatrix/redmatrix))
+  * [twister](http://twister.net.co/) - P2P microblogging platform.
+  * [Vanilla Forums](https://vanillaforums.org/) - Simple and flexible forum software. ([Source Code](https://github.com/vanilla/vanilla)) `GPLv2` `PHP`
 
 
 ### XMPP
@@ -224,93 +306,16 @@ _[Extensible Messaging and Presence Protocol](https://en.wikipedia.org/wiki/XMPP
   * [Prosody IM](http://prosody.im/) - Feature-rich and easy to configure XMPP server. `MIT` `Lua`
   * [Tigase](https://projects.tigase.org/projects/tigase-server) - XMPP server implementation in Java.
 
+
 #### XMPP Web Clients
 
   * [Candy](http://candy-chat.github.io/candy/) - Multi user XMPP client written in Javascript.
-  * [Converse.js](https://conversejs.org/) - A free and open-source XMPP chat client in your browser ([Source](https://github.com/jcbrand/converse.js)) `MPLv2` `Javascript`
+  * [Converse.js](https://conversejs.org/) - A free and open-source XMPP chat client in your browser. ([Source](https://github.com/jcbrand/converse.js)) `MPLv2` `Javascript`
   * [Kaiwa](http://getkaiwa.com/) - Web based chat client in the style of common paid alternatives. ([Source Code](https://github.com/digicoop/kaiwa))
-  * [Kontalk](http://kontalk.org/) – Kontalk is an Open Source Messenger, similiar to WhatsApp (app for android only currently), including end-to-end encryption, server is based on Tigase XMPP Server - ([Source Code](https://github.com/kontalk)) `GPLv3`
+  * [Kontalk](http://kontalk.org/) – Kontalk is an Open Source Messenger, similiar to WhatsApp (app for android only currently), including end-to-end encryption, server is based on Tigase XMPP Server. - ([Source Code](https://github.com/kontalk)) `GPLv3`
   * [Lets-Chat](http://sdelements.github.io/lets-chat/) - A self hosted chat suite written in Node.
   * [Salut à Toi](http://www.salut-a-toi.org/) - Multipurpose, multi frontend, libre and decentralised communication tool. ([Source Code](http://repos.goffi.org/sat)) `AGPLv3` `Python`
-    * [Libervia](http://wiki.goffi.org/wiki/Libervia/en) - Web frontend from Salut à Toi ([Source Code](http://repos.goffi.org/libervia)) `AGPLv3` `Python`
-
-
-### SIP
-
-*[SIP](https://en.wikipedia.org/wiki/Session_Initiation_Protocol) telephony software*
-
-  * [Asterisk](http://www.asterisk.org/) - An easy to use but advanced IP PXB system, VoIP gateway and conference server `GPLv2` `C`
-  * [FreeSWITCH](https://freeswitch.org/) - Scalable open source cross-platform telephony platform ([Source Code](https://freeswitch.org/stash/projects/FS/repos/freeswitch/browse)) `MPLv2` `C`
-  * [Kamailio](http://www.kamailio.org/w/) - Modular SIP server (registrar/proxy/router/etc) `GPLv2` `C`
-  * [Ostel](https://dev.guardianproject.info/projects/ostel/wiki/Server_Documentation) - Secure SIP telephony setup with ZRTP encryption `GPLv3` `Ruby`
-
-
-### IRC
-
-*[IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat) communication software*
-
-  * [Convos](http://convos.by/) - Always online web IRC client. ([Demo](http://demo.convos.by), [Source Code](http://github.com/nordaaker/convos)) `ARTv2` `Perl`
-  * [IRCAnywhere](http://ircanywhere.com/) - Open-source self-hosted alternative to IRCCloud. ([Source](https://github.com/ircanywhere/ircanywhere)) `JavaScript` `Nodejs`
-  * [Quassel IRC](http://quassel-irc.org/) - distributed IRC client, meaning that one (or multiple) client(s) can attach to and detach from a central core. ([Source Code](https://github.com/quassel/quassel)) `GPLv2` `C++`
-  * [Shout](http://shout-irc.com/) - The self-hosted web IRC client. ([Demo](http://demo.shout-irc.com/), [Source Code](https://github.com/erming/shout)) `MIT` `Nodejs`
-  * [Weechat](https://weechat.org/) - A fast, light and extensible chat client. `GPLv3` `C`
-  * [ZNC](http://wiki.znc.in/ZNC) - An advanced IRC bouncer. `Apache` `C++`
-
-
-### Custom
-
-  * [Freenet](https://freenetproject.org/index.html) - Anonymously share files, browse and publish "freesites" (web sites accessible only through Freenet) and chat on forums ([Source Code](https://github.com/freenet/fred)) `GPLv2` `Java`
-  * [Friends](http://moose-team.github.io/friends/) - P2P chat powered by the web. ([Source Code](https://github.com/moose-team/friends)) `MIT` `Nodejs`
-  * [GNUNet](https://gnunet.org/) - Free software framework for decentralized, peer-to-peer networking `GPLv3` `C/Java`
-  * [Jitsi Meet](https://jitsi.org/Projects/JitsiMeet) - Jitsi Meet is an OpenSource (MIT) WebRTC JavaScript application that uses Jitsi Videobridge to provide high quality, scalable video conferences. `MIT ` `JavaScript`
-  * [Jitsi Video Bridge](https://jitsi.org/Projects/JitsiVideobridge) - WebRTC compatible Selective Forwarding Unit (SFU) that allows for multiuser video communication. `Apache` `Java`
-  * [Kandan](http://getkandan.com/) – Kandan is an Open Source Alternative to HipChat. - `AGPL`
-  * [Let's Chat](https://sdelements.github.io/lets-chat/) - A persistent messaging application that runs on Node.js and MongoDB. `MIT` `Nodejs`
-  * [Mattermost](http://www.mattermost.org/) - Open-source, on-prem Slack-alternative. It can be integrated with [Gitlab](https://about.gitlab.com/). ([Source Code](https://github.com/mattermost/platform)) `AGPLv3/Apache 2.0` `Go`
-  * [Mibew](https://mibew.org) - Mibew Messenger is an open-source live support application written in PHP and MySQL. It enables one-on-one chat assistance in real-time directly from your website. ([Demo](https://mibew.org/demo2), [Source Code](https://github.com/Mibew/mibew)) `Apache` `PHP/Javascript`
-  * [Mumble](http://wiki.mumble.info/wiki/Main_Page) - Low-latency, high quality voice/text chat software `BSD` `C++`
-    * [Mumblecop](https://bitbucket.org/Flandoo/mumblecop) - Stream audio from youtube and soundcloud, simulate dice rolls, or write your own commands with a simple plugin format. `MIT` `Ruby`
-  * [Node-Chat](https://github.com/IgorAntun/node-chat) - A not-so-basic open-source chat with admin features. - `MIT` `Nodejs`
-  * [RetroShare](http://retroshare.org) - Secured and decentralized communication system. Offers decentralized chat, forums, messaging, file transfer. ([Source Code](https://github.com/RetroShare/RetroShare)) `GPLv2` `С++`
-  * [Rocket.Chat](https://rocket.chat/) – Teamchat solution similar to Gitter.im or Slack - `MIT`
-  * [Synapse](https://matrix.org/blog/project/synapse/) - A server for [Matrix](https://matrix.org/), an open standard for decentralized persistent communication ([Source Code](https://github.com/matrix-org/synapse)) `Apache` `Python`
-    * [Vector](https://matrix.org/blog/project/vector/) - A glossy Matrix web client with an emphasis on performance and usability ([Source Code](https://github.com/vector-im/vector-web)) `Apache` `Javascript`
-    * [Matrix Console Web](https://matrix.org/blog/project/matrix-console-web/) - A web client meant to be a showcase of Matrix capabilities, and reference implementation of the Matrix standard ([Source Code](https://github.com/matrix-org/matrix-angular-sdk)) `Apache` `Javascript`
-  * [Syndie](https://www.syndie.de) - Syndie is a libre system for operating distributed forums. `Public Domain` `Java`
-  * [TextBelt](https://github.com/typpo/textbelt) - An outgoing SMS API that uses carrier-specific gateways to deliver your text messages for free, and without ads. ` ⚠ ` `MIT` `JavaScript`
-  * [Tox](https://tox.chat/) - A distributed, secure messenger with audio and video chat capabilities. `GPLv3` `C`
-  * [Zulip](https://zulip.org) - Zulip is a powerful, open source group chat application. ([Source Code](https://github.com/zulip/zulip))`Apache 2.0/Other` `Python/Django`
-
-### Social Networks and Forums
-
-  * [Anahita](https://www.getanahita.com/) - Open Source Social Networking Framework & Platform. ([Source Code](https://github.com/anahitasocial) `GPLv3` `PHP`
-  * [Bootcamp](http://trybootcamp.vitorfs.com) - An enterprise social network - [Source Code](https://github.com/vitorfs/bootcamp)
-  * [Buddycloud](http://buddycloud.com/) - Tools, libraries, services and a community to build user-to-user, group and social messaging into your app. Saves time. Scales up. Supports you. ([Source Code](https://github.com/buddycloud)) `Apache 2.0` `Java/Javascript`
-  * [BuddyPress](https://buddypress.org/about/) - A powerful plugin that takes your WordPress.org powered site beyond the blog with social-network features like user profiles, activity streams, user groups, and more.
-  * [diaspora*](https://diasporafoundation.org/) - Distributed social networking server. ([Demo](http://podupti.me/random.php), [Source Code](https://github.com/diaspora/diaspora)) `AGPLv3` `Ruby`
-  * [Discourse](http://www.discourse.org/) - Advanced forum / community solution based on Ruby and JS - `GPLv2`
-  * [Elgg](https://elgg.org/) - A powerful open source social networking engine - `GPLv2`
-  * [Flarum](http://flarum.org) - Delightfully simple forums. Flarum is the next-generation forum software that makes online discussion fun again. ([Source Code](https://github.com/flarum/flarum)) `MIT` `PHP`
-  * [FluxBB](http://fluxbb.org/) - Fast, light, user-friendly forum software for your website. ([Source Code](https://github.com/fluxbb/fluxbb)) `GPLv2` `PHP`
-  * [Friendica](http://friendica.com/) - Social Communication Server ([Source Code](https://github.com/friendica/friendica)) `AGPLv3`
-  * [Gnu Social](https://gnu.io/social/) - Social communication software for both public and private communications
-  * [Hubzilla](https://github.com/redmatrix/hubzilla) - Independent general-purpose websites that not only connect with their associated members and viewers, but also connect together `MIT` `PHP`
-  * [HumHub](https://www.humhub.org/) - A flexible kit for private social networks ([Source Code](https://github.com/humhub/humhub)) `AGPLv3` `PHP`
-  * [Isso](http://posativ.org/isso/) - A lightweight commenting server written in Python and JavaScript. It aims to be a drop-in replacement for Disqus ([Source Code](https://github.com/posativ/isso)) `MIT` `Python`
-  * [Jappix](https://jappix.com/) - Jappix is an open social platform, that let's you easily get or keep in touch with everyone.
-  * [Loomio](https://www.loomio.org/) - Loomio is a collaborative decision-making tool that makes it easy for anyone to participate in decisions which affect them.  ([Source Code](https://github.com/loomio/loomio)) `AGPLv3` `Ruby`
-  * [Movim](https://movim.eu/) - A brand new social network, full of awesome features in a modern and smart interface
-  * [MyBB](http://www.mybb.com/) - Free, extensible forum software package. ([Source Code](https://github.com/mybb/mybb)) `LGPLv3` `PHP` 
-  * [Newebe](http://newebe.org/) - A Distributed Social Network. ([Source Code](https://github.com/gelnior/newebe)) `AGPLv3` `Python`
-  * [NodeBB](https://nodebb.org/) - Node.js based forum software built for the modern web. ([Source Code](https://github.com/NodeBB/NodeBB)) `GPLv3` `Nodejs`
-  * [Oxwall](http://www.oxwall.org/) Oxwall is used for a wide range of projects starting from family sites and custom social networks to collaboration tools and enterprise community solutions. ([Source Code](https://bitbucket.org/oxwall/public) `CPALv1` `PHP`
-  * [phpBB](https://www.phpbb.com/) - Flat-forum bulletin board software solution that can be used to stay in touch with a group of people or can power your entire website. `GPLv2` `PHP`
-  * [PPnet](https://github.com/pixelpark/ppnet) Create and host your own social network. `MIT` `JavaScript`
-  * [Pump.io](http://pump.io/) - Stream server that does most of what people really want from a social network ([Source Code](https://github.com/e14n/pump.io))
-  * [Reddit](https://www.reddit.com/) - Social networking and news website where registered community members can submit content. ([Demo](https://www.reddit.com/) [Source Code](https://github.com/reddit/reddit)) `CPALv1` `Python`
-  * [RedMatrix](http://www.redmatrix.me/) - Complete decentralised publishing, sharing, and communications system ([Source Code](https://github.com/redmatrix/redmatrix))
-  * [twister](http://twister.net.co/) - P2P microblogging platform
-  * [Vanilla Forums](https://vanillaforums.org/) - Simple and flexible forum software ([Source Code](https://github.com/vanilla/vanilla)) `GPLv2` `PHP`
+    * [Libervia](http://wiki.goffi.org/wiki/Libervia/en) - Web frontend from Salut à Toi. ([Source Code](http://repos.goffi.org/libervia)) `AGPLv3` `Python`
 
 
 ## Content Management Systems (CMS)
