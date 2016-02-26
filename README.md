@@ -128,16 +128,16 @@ See also [Static Site Generators](#static-site-generators), [Content Management 
 
 ## Bookmarks & Link Sharing
 
-  * [Bookie](https://github.com/bookieio/Bookie) - Python based delicious.com replacement ([Firefox addon](https://github.com/bookieio/bookie-firefox), [Demo](http://bmark.us/), [Documentation](http://docs.bmark.us/)
+  * [Bookie](https://github.com/bookieio/Bookie) - Python based delicious.com replacement. ([Firefox addon](https://github.com/bookieio/bookie-firefox), [Demo](http://bmark.us/), [Documentation](http://docs.bmark.us/) `unlicensed` `Python`
   * [Firefox Accounts Server](https://docs.services.mozilla.com/howtos/run-fxa.html)
-   * [Firefox Sync Server](https://docs.services.mozilla.com/howtos/run-sync-1.5.html) - Sync Firefox bookmarks, passwords, history, tabs, preferences
-  * [Lobsters](https://lobste.rs) - Run your own link aggregation site - ([Source Code](https://github.com/jcs/lobsters))
-  * [Myyna](http://www.myyna.com/) - Open source alternative to Pinterest ([Demo](http://demo.myyna.com/), [Source Code](https://github.com/cubettech/myyna)) `MIT` `Nodejs`
-  * [No Fuss Bookmarks](http://nofussbm.herokuapp.com/signup.html) - Very simple software and service to store bookmarks especially designed for hackers (that don't need fancy interfaces, but nice API) ([Source Code]( https://github.com/mapio/nofussbm)) `GPLv3` `Python`
-  * [Pinry](http://getpinry.com/) - The tiling image board system for people who want to save, tag, and share images, videos, and webpages. ([Source Code](https://github.com/pinry/pinry))
-  * [Scuttle](https://github.com/scronide/scuttle) - Web-based social bookmarking system. Allows multiple users to store, share and tag their favourite links `GPLv2` `PHP`
-  * [Shaarli](https://github.com/shaarli/Shaarli) - Personal, minimalist, super-fast, no-database bookmarking and link sharing plaform. ([Demo](http://shaarlidemo.tuxfamily.org/Shaarli/) `demo/demo`)
-  * [unmark](https://github.com/plainmade/unmark) - An open source to do app for links
+   * [Firefox Sync Server](https://docs.services.mozilla.com/howtos/run-sync-1.5.html) - Sync Firefox bookmarks, passwords, history, tabs, preferences. ([Source Code](https://github.com/mozilla-services/syncserver)) `unlicensed` `Python`
+  * [Lobsters](https://lobste.rs) - Run your own link aggregation site. ([Source Code](https://github.com/jcs/lobsters))
+  * [Myyna](http://www.myyna.com/) - Open source alternative to Pinterest. ([Demo](http://demo.myyna.com/), [Source Code](https://github.com/cubettech/myyna)) `MIT` `Nodejs`
+  * [No Fuss Bookmarks](http://nofussbm.herokuapp.com/signup.html) - Very simple software and service to store bookmarks especially designed for hackers (that don't need fancy interfaces, but nice API). ([Source Code]( https://github.com/mapio/nofussbm)) `GPLv3` `Python`
+  * [Pinry](http://getpinry.com/) - The tiling image board system for people who want to save, tag, and share images, videos, and webpages. ([Source Code](https://github.com/pinry/pinry)) `FREE` `Python`
+  * [Scuttle](https://github.com/scronide/scuttle) - Web-based social bookmarking system. Allows multiple users to store, share and tag their favourite links. `GPLv2` `PHP`
+  * [Shaarli](https://github.com/shaarli/Shaarli) - Personal, minimalist, super-fast, no-database bookmarking and link sharing plaform. ([Demo](http://shaarlidemo.tuxfamily.org/Shaarli/) `demo/demo`) `FREE` `PHP`
+  * [unmark](https://unmark.it/) - An open source to do app for links. ([Source Code](https://github.com/plainmade/unmark)) `MIT` `PHP`
 
 
 ## Calendar and Address Books
@@ -864,6 +864,7 @@ See also [Documentation Generators](#documentation-generators), [Wikimatrix](htt
  * `CeCILL-B` - [CEA CNRS INRIA Logiciel Libre](http://www.cecill.info/licences/Licence_CeCILL-B_V1-en.txt)
  * `CPALv1` - [Common Public Attribution License Version 1.0](http://opensource.org/licenses/CPAL-1.0)
  * `ECLv2` - [Educational Community License, Version 2.0 ](http://opensource.org/licenses/ECL-2.0)
+ * `FREE` - [Free Software](https://en.wikipedia.org/wiki/Free_software)
  * `GPL` - [GNU General Public License](https://www.gnu.org/licenses/gpl-1.0)
  * `GPLv2` - [GNU General Public License 2.0](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
  * `GPLv3` - [GNU General Public License 3.0](http://www.gnu.org/licenses/gpl-3.0.en.html)
