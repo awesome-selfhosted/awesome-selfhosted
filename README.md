@@ -115,14 +115,14 @@ See also [Static Site Generators](#static-site-generators), [Content Management 
   * [Anchor CMS](https://anchorcms.com/) - Anchor is a free, lightweight, faster-than-a-bullet, simple blogging system, made for art–directed posts. ([Source Code](https://github.com/anchorcms/anchor-cms)) `GPLv3` `PHP`
   * [Antville](https://antville.org) - Antville is a free, open source project aimed at the development of a high performance, feature rich weblog hosting software. ([Source Code](https://github.com/antville/antville)) `Apache` `JavaScript`
   * [Blogotext](http://lehollandaisvolant.net/blogotext/en/) - A free blog-engine written in PHP and using SQLite. This offers you both an unmatched simplicity during installation and great performances. ([Source Code](https://github.com/timovn/blogotext)) `MIT` `PHP`
-  * [Chyrp](https://github.com/chyrp/chyrp) - An extra-awesome, extra-lightweight blog engine `MIT` `PHP`
+  * [Chyrp](https://github.com/chyrp/chyrp) - An extra-awesome, extra-lightweight blog engine. `MIT` `PHP`
   * [Dotclear](http://dotclear.org/) - Take control over your blog! ([Source Code](https://hg.dotclear.org/dotclear)) `GPLv2` `PHP`
-  * [Ghost](https://ghost.org/) - Just a blogging platform ([Source Code](https://github.com/TryGhost/Ghost)) `MIT` `Nodejs`
-  * [htmly](https://www.htmly.com/) - Databaseless Blogging Platform (Flat-File Blog) ([Source Code]((https://github.com/danpros/htmly)), [Demo](https://www.htmly.com/demo/)) `GPLv2` `PHP`
-  * [Known](https://withknown.com/opensource/) - A single website for all your content `Apache` `PHP`
+  * [Ghost](https://ghost.org/) - Just a blogging platform. ([Source Code](https://github.com/TryGhost/Ghost)) `MIT` `Nodejs`
+  * [htmly](https://www.htmly.com/) - Databaseless Blogging Platform (Flat-File Blog). ([Source Code]((https://github.com/danpros/htmly)), [Demo](https://www.htmly.com/demo/)) `GPLv2` `PHP`
+  * [Known](https://withknown.com/) - A single website for all your content. ([Source Code](https://github.com/idno/idno)) `Apache` `PHP`
   * [Noddity](http://noddity.com/) - It's a blog, it's a wiki, it's a fast CMS! ([Source Code](https://github.com/TehShrike/noddity)) `WTFPL` `Nodejs`
-  * [PluXml](http://www.pluxml.org/) - XML-based blog/CMS platform ([Source Code](https://github.com/pluxml/PluXml)) `GPL` `PHP`
-  * [Wagtail](https://wagtail.io/) - A Django content management system focused on flexibility and user experience ([Source Code](https://github.com/torchbox/wagtail)) `BSD` `Python`
+  * [PluXml](http://www.pluxml.org/) - XML-based blog/CMS platform. ([Source Code](https://github.com/pluxml/PluXml)) `GPL` `PHP`
+  * [Wagtail](https://wagtail.io/) - A Django content management system focused on flexibility and user experience. ([Source Code](https://github.com/torchbox/wagtail)) `BSD` `Python`
   * [Wordpress](https://wordpress.org/) - Create a beautiful website or blog. ([Source Code](https://github.com/WordPress/WordPress)) `GPLv2`
 
 
