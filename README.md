@@ -217,20 +217,20 @@ _[Extensible Messaging and Presence Protocol](https://en.wikipedia.org/wiki/XMPP
 
 #### XMPP Servers
 
-  * [ejabberd](https://www.ejabberd.im/) - XMPP instant messaging server. `GPL` `Erlang`
-  * [Metronome IM](https://lightwitch.org/metronome) - Fork of Prosody IM. `MIT` `Lua`
-  * [MongooseIM](https://www.erlang-solutions.com/products/mongooseim-massively-scalable-ejabberd-platform) - Fork of ejabberd.
-  * [Openfire](http://www.igniterealtime.org/projects/openfire/) - Real time collaboration (RTC) server. `Apache` `Java`
-  * [Prosody IM](http://prosody.im/) - Feature-rich and easy to configure XMPP server. `MIT` `Lua`
-  * [Tigase](https://projects.tigase.org/projects/tigase-server) - XMPP server implementation in Java.
+  * [ejabberd](https://www.ejabberd.im/) - XMPP instant messaging server. ([Source](https://github.com/processone/ejabberd)) `GPL` `Erlang`
+  * [Metronome IM](https://lightwitch.org/metronome) - Fork of Prosody IM. ([Source](http://code.lightwitch.org/)) `MIT` `Lua`
+  * [MongooseIM](https://www.erlang-solutions.com/products/mongooseim.html) - Fork of ejabberd. ([Source](https://github.com/esl/MongooseIM)) `MIT` `Erlang`
+  * [Openfire](http://www.igniterealtime.org/projects/openfire/) - Real time collaboration (RTC) server. ([Source](https://github.com/igniterealtime/Openfire)) `Apache` `Java`
+  * [Prosody IM](http://prosody.im/) - Feature-rich and easy to configure XMPP server. ([Source](http://hg.prosody.im/)) `MIT` `Lua`
+  * [Tigase](http://www.tigase.net/content/tigase-xmpp-server) - XMPP server implementation in Java. `Java`
 
 #### XMPP Web Clients
 
-  * [Candy](http://candy-chat.github.io/candy/) - Multi user XMPP client written in Javascript.
+  * [Candy](http://candy-chat.github.io/candy/) - Multi user XMPP client written in Javascript. ([Source](https://github.com/candy-chat/candy)) `MIT` `JavaScript`
   * [Converse.js](https://conversejs.org/) - A free and open-source XMPP chat client in your browser ([Source](https://github.com/jcbrand/converse.js)) `MPLv2` `Javascript`
-  * [Kaiwa](http://getkaiwa.com/) - Web based chat client in the style of common paid alternatives. ([Source Code](https://github.com/digicoop/kaiwa))
+  * [Kaiwa](http://getkaiwa.com/) - Web based chat client in the style of common paid alternatives. ([Source Code](https://github.com/digicoop/kaiwa)) `MIT` `Javascript, NodeJS`
   * [Kontalk](http://kontalk.org/) – Kontalk is an Open Source Messenger, similiar to WhatsApp (app for android only currently), including end-to-end encryption, server is based on Tigase XMPP Server - ([Source Code](https://github.com/kontalk)) `GPLv3`
-  * [Lets-Chat](http://sdelements.github.io/lets-chat/) - A self hosted chat suite written in Node.
+  * [Lets-Chat](http://sdelements.github.io/lets-chat/) - A self hosted chat suite written in Node. ([Source](https://github.com/sdelements/lets-chat)) `MIT` `JavaScript, NodeJS`
   * [Salut à Toi](http://www.salut-a-toi.org/) - Multipurpose, multi frontend, libre and decentralised communication tool. ([Source Code](http://repos.goffi.org/sat)) `AGPLv3` `Python`
     * [Libervia](http://wiki.goffi.org/wiki/Libervia/en) - Web frontend from Salut à Toi ([Source Code](http://repos.goffi.org/libervia)) `AGPLv3` `Python`
 
