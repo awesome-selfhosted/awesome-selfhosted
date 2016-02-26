@@ -145,13 +145,13 @@ See also [Static Site Generators](#static-site-generators), [Content Management 
 Some [Groupware](#groupware) solutions also feature calendar/address book editing and synchronization.
 
   * [AgenDAV](http://agendav.org/) - Multilanguage CalDAV web client with a rich AJAX interface and shared calendars support. [Source Code](https://github.com/adobo/agendav) `GPLv3` `PHP`
-  * [Baïkal](http://baikal-server.com/) - Lightweight CalDAV+CardDAV server. [Source Code](https://github.com/fruux/Baikal) `GPLv3` `PHP`
+  * [Baïkal](http://baikal-server.com/) - Lightweight CalDAV+CardDAV server. ([Source Code](https://github.com/fruux/Baikal)) `GPLv3` `PHP`
   * [CalendarServer](http://trac.calendarserver.org/) - A standards-compliant server implementing the CalDAV and CardDAV protocols. `Apache` `Python`
-  * [calypso](http://keithp.com/calypso/) - A python-based CalDAV/CardDAV server
-  * [DAViCal](http://www.davical.org/) - A server for calendar sharing (CalDAV)
-  * [Radicale](http://radicale.org/) - A Simple Calendar and Contact Server
-  * [sabre/dav](http://sabre.io/) - A open source CardDAV, CalDAV and WebDAV server.
-  * [ownCloud calendar](https://doc.owncloud.org/server/7.0/user_manual/pim/calendar.html) - The ownCloud Calendar app enables you to create and edit events, synchronize to other calendars you might use, and create new, personalized calendars. ([Source Code](https://github.com/owncloud/calendar)) `AGPLv3` `PHP`
+  * [calypso](http://keithp.com/calypso/) - A python-based CalDAV/CardDAV server. `unlicensed`
+  * [DAViCal](http://www.davical.org/) - A server for calendar sharing (CalDAV). ([Source Code](https://gitlab.com/davical-project/davical)) `MIT`
+  * [Radicale](http://radicale.org/) - A Simple Calendar and Contact Server. ([Source Code](https://github.com/Kozea/Radicale)) `unlicensed` `Python`
+  * [sabre/dav](http://sabre.io/) - A open source CardDAV, CalDAV and WebDAV server. ([Source Code](https://github.com/fruux/sabre-dav)) `MIT` `PHP`
+  * [ownCloud calendar](https://doc.owncloud.org/server/7.0/user_manual/pim/calendar.html) - The ownCloud Calendar app enables you to create and edit events, synchronize to other calendars you might use, and create new, personalized calendars. ([Source Code ownCloud < 9](https://github.com/owncloud/calendar), [Source Code ownCloud 9+](https://github.com/owncloud/calendar-rework)) `AGPLv3` `PHP`
 
 ## Communication systems
 
