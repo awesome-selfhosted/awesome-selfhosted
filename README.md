@@ -171,14 +171,14 @@ Some [Groupware](#groupware) solutions also feature calendar/address book editin
 
 _MTAs / SMTP servers_
 
-* [Courier MTA](http://www.courier-mta.org/) - Fast, scalable, enterprise mail/groupware server providing ESMTP, IMAP, POP3, webmail, mailing list, basic web-based calendaring and scheduling services. ([Source Code](http://www.courier-mta.org/repo.html) `GPLv3` `C`
-* [Exim](http://www.exim.org/) - Message transfer agent (MTA) developed at the University of Cambridge.
-* [Haraka](http://haraka.github.io/) - A high-performance, pluginable SMTP server written in JavaScript.
-* [MailCatcher](http://mailcatcher.me/) - Ruby gem that deploys a simply SMTP MTA gateway that accepts all mail and displays in web interface. Useful for debugging or development.
-* [Maildrop](https://github.com/m242/maildrop) - Disposable email SMTP server, also useful for development.
-* [OpenSMTPD](https://opensmtpd.org/) - Secure SMTP server implementation from the OpenBSD project.
-* [Postfix](http://www.postfix.org/) - Fast, easy to administer, and secure Sendmail replacement.
-* [Qmail](http://cr.yp.to/qmail.html) - Secure Sendmail replacement.
+* [Courier MTA](http://www.courier-mta.org/) - Fast, scalable, enterprise mail/groupware server providing ESMTP, IMAP, POP3, webmail, mailing list, basic web-based calendaring and scheduling services. ([Source Code](http://www.courier-mta.org/repo.html)) `GPLv3` `C`
+* [Exim](http://www.exim.org/) - Message transfer agent (MTA) developed at the University of Cambridge. `GPL`
+* [Haraka](http://haraka.github.io/) - A high-performance, pluginable SMTP server written in JavaScript. ([Source Code](https://github.com/haraka/Haraka)) `MIT` `Javascript`
+* [MailCatcher](http://mailcatcher.me/) - Ruby gem that deploys a simply SMTP MTA gateway that accepts all mail and displays in web interface. Useful for debugging or development. ([Source Code](https://github.com/sj26/mailcatcher)) `MIT` `Ruby`
+* [Maildrop](https://github.com/m242/maildrop) - Disposable email SMTP server, also useful for development. `MIT` `Scala`
+* [OpenSMTPD](https://opensmtpd.org/) - Secure SMTP server implementation from the OpenBSD project. `ISC`
+* [Postfix](http://www.postfix.org/) - Fast, easy to administer, and secure Sendmail replacement. `IPL` `C`
+* [Qmail](http://www.qmail.org/top.html) - Secure Sendmail replacement. `CC0`
 * [Sendmail](http://www.sendmail.com/sm/open_source/) - Message transfer agent (MTA).
 
 
@@ -861,6 +861,7 @@ See also [Documentation Generators](#documentation-generators), [Wikimatrix](htt
  * `Apache` - [Apache, Version 2.0](http://www.apache.org/licenses/)
  * `ARTv2` - [Artistic License Version 2.0](http://opensource.org/licenses/Artistic-2.0)
  * `BSD` - [FreeBSD License](https://www.freebsd.org/copyright/license.html)
+ * `CC0` - [Public Domain](https://creativecommons.org/about/cc0/)
  * `CeCILL-B` - [CEA CNRS INRIA Logiciel Libre](http://www.cecill.info/licences/Licence_CeCILL-B_V1-en.txt)
  * `CPALv1` - [Common Public Attribution License Version 1.0](http://opensource.org/licenses/CPAL-1.0)
  * `ECLv2` - [Educational Community License, Version 2.0 ](http://opensource.org/licenses/ECL-2.0)
@@ -868,6 +869,7 @@ See also [Documentation Generators](#documentation-generators), [Wikimatrix](htt
  * `GPL` - [GNU General Public License](https://www.gnu.org/licenses/gpl-1.0)
  * `GPLv2` - [GNU General Public License 2.0](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
  * `GPLv3` - [GNU General Public License 3.0](http://www.gnu.org/licenses/gpl-3.0.en.html)
+ * `IPL` - [IBM Public License](https://opensource.org/licenses/IPL-1.0)
  * `ISC` - [Internet Software Consortium License](https://www.isc.org/downloads/software-support-policy/isc-license/)
  * `LGPLv2.1` - [Lesser General Public License 2.1](http://opensource.org/licenses/LGPL-2.1)
  * `LGPLv3` - [Lesser General Public License 3.0](http://opensource.org/licenses/LGPL-3.0)
