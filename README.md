@@ -284,34 +284,34 @@ _[Extensible Messaging and Presence Protocol](https://en.wikipedia.org/wiki/XMPP
 
 ### Social Networks and Forums
 
-  * [Anahita](https://www.getanahita.com/) - Open Source Social Networking Framework & Platform. ([Source Code](https://github.com/anahitasocial) `GPLv3` `PHP`
-  * [Bootcamp](http://trybootcamp.vitorfs.com) - An enterprise social network - [Source Code](https://github.com/vitorfs/bootcamp)
+  * [Anahita](https://www.getanahita.com/) - Open Source Social Networking Framework & Platform. ([Source Code](https://github.com/anahitasocial)) `GPLv3` `PHP`
+  * [Bootcamp](http://trybootcamp.vitorfs.com) - An enterprise social network. ([Source Code](https://github.com/vitorfs/bootcamp)) `MIT` `Python`
   * [Buddycloud](http://buddycloud.com/) - Tools, libraries, services and a community to build user-to-user, group and social messaging into your app. Saves time. Scales up. Supports you. ([Source Code](https://github.com/buddycloud)) `Apache 2.0` `Java/Javascript`
-  * [BuddyPress](https://buddypress.org/about/) - A powerful plugin that takes your WordPress.org powered site beyond the blog with social-network features like user profiles, activity streams, user groups, and more.
+  * [BuddyPress](https://buddypress.org/about/) - A powerful plugin that takes your WordPress.org powered site beyond the blog with social-network features like user profiles, activity streams, user groups, and more. ([Source Code](https://buddypress.svn.wordpress.org/trunk/)) `GPLv2` `PHP`
   * [diaspora*](https://diasporafoundation.org/) - Distributed social networking server. ([Demo](http://podupti.me/random.php), [Source Code](https://github.com/diaspora/diaspora)) `AGPLv3` `Ruby`
-  * [Discourse](http://www.discourse.org/) - Advanced forum / community solution based on Ruby and JS - `GPLv2`
-  * [Elgg](https://elgg.org/) - A powerful open source social networking engine - `GPLv2`
+  * [Discourse](http://www.discourse.org/) - Advanced forum / community solution based on Ruby and JS. ([Source Code](https://github.com/discourse/discourse)) `GPLv2` `Ruby`
+  * [Elgg](https://elgg.org/) - A powerful open source social networking engine. ([Source Code](https://github.com/Elgg/Elgg)) `GPLv2` `PHP`
   * [Flarum](http://flarum.org) - Delightfully simple forums. Flarum is the next-generation forum software that makes online discussion fun again. ([Source Code](https://github.com/flarum/flarum)) `MIT` `PHP`
   * [FluxBB](http://fluxbb.org/) - Fast, light, user-friendly forum software for your website. ([Source Code](https://github.com/fluxbb/fluxbb)) `GPLv2` `PHP`
-  * [Friendica](http://friendica.com/) - Social Communication Server ([Source Code](https://github.com/friendica/friendica)) `AGPLv3`
-  * [Gnu Social](https://gnu.io/social/) - Social communication software for both public and private communications
-  * [Hubzilla](https://github.com/redmatrix/hubzilla) - Independent general-purpose websites that not only connect with their associated members and viewers, but also connect together `MIT` `PHP`
-  * [HumHub](https://www.humhub.org/) - A flexible kit for private social networks ([Source Code](https://github.com/humhub/humhub)) `AGPLv3` `PHP`
-  * [Isso](http://posativ.org/isso/) - A lightweight commenting server written in Python and JavaScript. It aims to be a drop-in replacement for Disqus ([Source Code](https://github.com/posativ/isso)) `MIT` `Python`
-  * [Jappix](https://jappix.com/) - Jappix is an open social platform, that let's you easily get or keep in touch with everyone.
+  * [Friendica](http://friendica.com/) - Social Communication Server. ([Source Code](https://github.com/friendica/friendica)) `AGPLv3`
+  * [Gnu Social](https://gnu.io/social/) - Social communication software for both public and private communications. ([Source Code](https://git.gnu.io/gnu/gnu-social)) `AGPLv3` `PHP`
+  * [Hubzilla](https://github.com/redmatrix/hubzilla) - Independent general-purpose websites that not only connect with their associated members and viewers, but also connect together. `MIT` `PHP`
+  * [HumHub](https://www.humhub.org/) - A flexible kit for private social networks. ([Source Code](https://github.com/humhub/humhub)) `AGPLv3` `PHP`
+  * [Isso](http://posativ.org/isso/) - A lightweight commenting server written in Python and JavaScript. It aims to be a drop-in replacement for Disqus. ([Source Code](https://github.com/posativ/isso)) `MIT` `Python`
+  * [Jappix](https://jappix.com/) - Jappix is an open social platform, that let's you easily get or keep in touch with everyone. ([Source Code](https://github.com/jappix/jappix)) `AGPLv3`
   * [Loomio](https://www.loomio.org/) - Loomio is a collaborative decision-making tool that makes it easy for anyone to participate in decisions which affect them.  ([Source Code](https://github.com/loomio/loomio)) `AGPLv3` `Ruby`
-  * [Movim](https://movim.eu/) - A brand new social network, full of awesome features in a modern and smart interface
+  * [Movim](https://movim.eu/) - A brand new social network, full of awesome features in a modern and smart interface. ([Source Code](https://github.com/movim/movim)) `AGPLv3` `PHP` 
   * [MyBB](http://www.mybb.com/) - Free, extensible forum software package. ([Source Code](https://github.com/mybb/mybb)) `LGPLv3` `PHP` 
   * [Newebe](http://newebe.org/) - A Distributed Social Network. ([Source Code](https://github.com/gelnior/newebe)) `AGPLv3` `Python`
   * [NodeBB](https://nodebb.org/) - Node.js based forum software built for the modern web. ([Source Code](https://github.com/NodeBB/NodeBB)) `GPLv3` `Nodejs`
   * [Oxwall](http://www.oxwall.org/) Oxwall is used for a wide range of projects starting from family sites and custom social networks to collaboration tools and enterprise community solutions. ([Source Code](https://bitbucket.org/oxwall/public) `CPALv1` `PHP`
-  * [phpBB](https://www.phpbb.com/) - Flat-forum bulletin board software solution that can be used to stay in touch with a group of people or can power your entire website. `GPLv2` `PHP`
+  * [phpBB](https://www.phpbb.com/) - Flat-forum bulletin board software solution that can be used to stay in touch with a group of people or can power your entire website. ([Source Code](https://github.com/phpbb/phpbb)) `GPLv2` `PHP`
   * [PPnet](https://github.com/pixelpark/ppnet) Create and host your own social network. `MIT` `JavaScript`
-  * [Pump.io](http://pump.io/) - Stream server that does most of what people really want from a social network ([Source Code](https://github.com/e14n/pump.io))
+  * [Pump.io](http://pump.io/) - Stream server that does most of what people really want from a social network. ([Source Code](https://github.com/e14n/pump.io)) `Apache` `JavaScript, NodeJS`
   * [Reddit](https://www.reddit.com/) - Social networking and news website where registered community members can submit content. ([Demo](https://www.reddit.com/) [Source Code](https://github.com/reddit/reddit)) `CPALv1` `Python`
-  * [RedMatrix](http://www.redmatrix.me/) - Complete decentralised publishing, sharing, and communications system ([Source Code](https://github.com/redmatrix/redmatrix))
-  * [twister](http://twister.net.co/) - P2P microblogging platform
-  * [Vanilla Forums](https://vanillaforums.org/) - Simple and flexible forum software ([Source Code](https://github.com/vanilla/vanilla)) `GPLv2` `PHP`
+  * [RedMatrix](https://github.com/redmatrix/redmatrix) - Complete decentralised publishing, sharing, and communications system. `MIT` `PHP`
+  * [twister](http://twister.net.co/) - P2P microblogging platform. ([Source Code](https://github.com/miguelfreitas/twister-core)) `GPLv2` `PHP`
+  * [Vanilla Forums](https://vanillaforums.org/) - Simple and flexible forum software. ([Source Code](https://github.com/vanilla/vanilla)) `GPLv2` `PHP`
 
 
 ## Content Management Systems (CMS)
