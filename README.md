@@ -159,12 +159,12 @@ Some [Groupware](#groupware) solutions also feature calendar/address book editin
 
 #### Webmail clients
 
-  * [Cypht](http://cypht.org/index.html) - A feed reader for your email accounts - `GPL`
-  * [Mailpile](https://www.mailpile.is/) - Webmail client with search, filtering, encryption features and more ([Source Code](https://github.com/mailpile/Mailpile)) `AGPLv3` `Python`
+  * [Cypht](http://cypht.org/index.html) - A feed reader for your email accounts. ([Source Code](https://github.com/jasonmunro/hm3)) `GPLv2` `PHP`
+  * [Mailpile](https://www.mailpile.is/) - Webmail client with search, filtering, encryption features and more. ([Source Code](https://github.com/mailpile/Mailpile)) `AGPLv3` `Python`
   * [RainLoop](http://www.rainloop.net/) - Simple, modern & fast webmail with IMAP/SMTP Support and multi accounting. ([Demo](http://demo.rainloop.net/), [Source Code](https://github.com/RainLoop/rainloop-webmail)). `AGPLv3` `PHP`
   * [Roundcube](https://roundcube.net) - Browser-based IMAP client with an application-like user interface. ([Screenshots](https://roundcube.net/screens/)) ([Source Code](https://github.com/roundcube/roundcubemail/)) `GPLv3` `PHP`
-  * [SquirrelMail](http://squirrelmail.org) - Another browser-based IMAP client.
-  * [WebMail Lite](http://www.afterlogic.org/webmail-lite) - Webbased IMAP Mail client ([Source Code](https://github.com/afterlogic/webmail-lite)) `GPLv3` `PHP`
+  * [SquirrelMail](http://squirrelmail.org) - Another browser-based IMAP client. ([Source Code](https://sourceforge.net/p/squirrelmail/code/HEAD/tree/)) `GPLv2` `PHP`
+  * [WebMail Lite](http://www.afterlogic.org/webmail-lite) - Web-based IMAP Mail client. ([Source Code](https://github.com/afterlogic/webmail-lite)) `GPLv3` `PHP`
 
 
 #### Mail Transfer Agents
