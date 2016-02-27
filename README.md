@@ -456,7 +456,7 @@ Some [Groupware](#groupware) solutions also feature file sharing and synchroniza
 
 #### Single-click/drag-n-drop upload
 
-  * [Up1](https://github.com/Upload/Up1) - A Client-side Encrypted Image Host - `MIT`
+  * [Up1](https://github.com/Upload/Up1) - A Client-side Encrypted Image Host - `MIT` `NodeJS`
   * [BoZoN](https://github.com/broncowdd/BoZoN) - Minimalist Drag & drop file sharing app `AGPLv3` `PHP`
   * [Coquelicot](https://coquelicot.potager.org/) - Coquelicot is a “one-click” file sharing web application with a focus on protecting users’ privacy. - `AGPLv3`
   * [Dropcenter](http://projet.idleman.fr/dropcenter/) - Upload files by simple drag-n-drop.
