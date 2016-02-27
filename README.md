@@ -6,6 +6,8 @@ Selfhosting is the process of locally hosting and managing applications instead 
 
 This is a list of [Free](https://en.wikipedia.org/wiki/Free_software) Software [network services](https://en.wikipedia.org/wiki/Network_service) and [web applications](https://en.wikipedia.org/wiki/Web_application) which can be hosted locally. Non-Free software is listed on the [Non-Free](non-free.md) page.
 
+See [Contributing](#contributing).
+
 Table of Contents
 =================
 
@@ -81,6 +83,8 @@ Table of Contents
 
 
 -----------------------------------------------------------------------------
+
+<!-- BEGIN SOFTWARE LIST -->
 
 ## Analytics
 
@@ -849,7 +853,7 @@ See also [Documentation Generators](#documentation-generators), [Wikimatrix](htt
   * [UBOS](http://ubos.net/) - Linux distro that runs on indie boxes (personal servers and IoT devices). Single-command installation and management of apps - Jenkins, Mediawiki, Owncloud, Wordpress, etc., - and other [features](http://ubos.net/about/).`GPLv3` `Perl/Other` 
   * [yunohost](https://yunohost.org/) - A server operating system aiming to make self-hosting accessible to everyone. ([Source Code](https://github.com/YunoHost)) `AGPL` `Python/Other`
 
-
+<!-- END SOFTWARE LIST -->
 
 -------------------------------------------------------
 
@@ -891,14 +895,12 @@ See also [Documentation Generators](#documentation-generators), [Wikimatrix](htt
 
 ## Contributing
 
- * You can help by sending Pull Requests to add more services. See [Editing files](https://help.github.com/articles/editing-files-in-another-user-s-repository/), [Creating Pull Requests](https://help.github.com/articles/creating-a-pull-request/), [Using Pull Requests](https://help.github.com/articles/using-pull-requests/)
+ * To **add an entry**: clone/[download](https://github.com/Kickball/awesome-selfhosted/archive/master.zip) and enter the repository, run `make add` and follow the instructions; or [edit the README.md file](https://github.com/Kickball/awesome-selfhosted/edit/master/README.md) directly. See [Editing files in another user's repository](https://help.github.com/articles/editing-files-in-another-user-s-repository/), [Creating Pull Requests](https://help.github.com/articles/creating-a-pull-request/), [Using Pull Requests](https://help.github.com/articles/using-pull-requests/) for help on sending your patch.
+ * The **syntax** for links is ``[Name](http://homepage/) - Short description. ([Demo](http://url.to/demo), [Source Code](http://url.of/source/code)) `License` `Language` ``. All projects should have their **license** and main server-side **language**/platform/requirement listed, and a description at most 250 characters long.
  * Non-[Free](https://en.wikipedia.org/wiki/Free_software) software must be marked `⊘ Proprietary` next to the title, and added to [non-free.md](non-free.md)
- * [This form](https://joubertredrat.github.io/awesome-selfhosted-form/) will help you formatting your new software entry. The syntax for links is ``[Name](http://homepage/) - Short description. ([Demo](http://url.to/demo), [Source Code](http://url.of/source/code)) `License` `Language` ``
- * All projects should have their license and main programming language/platform referenced.
- * Please limit the short description of the project to **250 characters**.
  * Software with no development activity for 6-12 months may be removed from the list.
- * Sections should be ordered alphabetically, lines inside sections should be ordered alphabetically.
- * The list of contributors can be updated with `git shortlog -sne`
+ * Check current [issues](https://github.com/Kickball/awesome-selfhosted/issues) and [Pull Requests](https://github.com/Kickball/awesome-selfhosted/pulls), as well as [closed issues/PRs](https://github.com/Kickball/awesome-selfhosted/pulls?utf8=%E2%9C%93&q=is%3Aclosed+)
+ * The list of contributors can be updated with `make contrib`. Several checks are available: `make noexternallink; make missinglicenselanguage`
 
 
 ## License
