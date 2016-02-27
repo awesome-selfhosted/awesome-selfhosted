@@ -900,7 +900,7 @@ See also [Documentation Generators](#documentation-generators), [Wikimatrix](htt
  * Non-[Free](https://en.wikipedia.org/wiki/Free_software) software must be marked `⊘ Proprietary` next to the title, and added to [non-free.md](non-free.md)
  * Software with no development activity for 6-12 months may be removed from the list.
  * Check current [issues](https://github.com/Kickball/awesome-selfhosted/issues) and [Pull Requests](https://github.com/Kickball/awesome-selfhosted/pulls), as well as [closed issues/PRs](https://github.com/Kickball/awesome-selfhosted/pulls?utf8=%E2%9C%93&q=is%3Aclosed+)
- * The list of contributors can be updated with `make contrib`. Several checks are available: `make noexternallink; make missinglicenselanguage`
+ * The list of contributors can be updated with `make contrib`. Several checks are available: `make noexternallink; make missinglicenselanguage; make nofullstop`
 
 
 ## License
