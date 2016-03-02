@@ -50,7 +50,7 @@ Table of Contents
   - [Video Streaming](#video-streaming)
   - [Mind Maps](#mind-maps)
   - [Money, Budgeting and Management](#money-budgeting-and-management)
-  - [Monitoring and Administration](#monitoring-and-administration)
+  - [Monitoring](#monitoring)
   - [Music Streaming](#music-streaming)
   - [Note-taking & Editors](#note-taking--editors)
   - [Office Suites](#office-suites)
@@ -564,13 +564,9 @@ Some [Groupware](#groupware) solutions also feature file sharing and synchroniza
   * [StockazNG](https://dev.sigpipe.me/dashie/StockazNG) - Asset Management System. `MIT` `Python`
 
 
-## Monitoring and Administration
+## Monitoring
 
-  * [Prometheus](http://prometheus.io/) - Monitoring system and time series database. ([Source Code](https://github.com/prometheus/prometheus)) `Apache` `Go`
-  * [psdash](https://github.com/Jahaja/psdash) - A linux system information web dashboard using psutils and flask
-  * [pyDash](https://github.com/k3oni/pydash) - Small web-based monitoring dashboard for linux. ([Demo](http://pydash.hostechs.com/main/) - _admin/admin_)
-  * [sensu](https://sensuapp.org/) - Monitor servers, services, application health, and business KPIs. Get notified about failures before your users do. Collect and analyze custom metrics. `MIT`
-   * [uchiwa](https://uchiwa.io/) - Simple dashboard for sensu
+See https://github.com/n1trux/awesome-sysadmin#monitoring and https://github.com/n1trux/awesome-sysadmin#metric--metric-collection
 
 
 ## Music Streaming
