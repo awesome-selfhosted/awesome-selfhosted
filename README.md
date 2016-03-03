@@ -596,6 +596,7 @@ Some [Groupware](#groupware) solutions also feature file sharing and synchroniza
   * [notes](https://github.com/SSilence/notes) - Simple script for personal notes with a single page with a WYSIWYG Editor. `GPLv3` `PHP`
   * [OpenNote](https://github.com/FoxUSA/OpenNote) - OpenNote was built to be an open web-based alternative to Microsoft OneNote (T) and EverNote.
   * [Paperwork](http://paperwork.rocks) - OpenSource note-taking & archiving alternative to Evernote, Microsoft OneNote & Google Keep. ([Source Code](https://github.com/twostairs/paperwork))
+  * [ShareLaTex](https://www.sharelatex.com/) - A web-based collaborative LaTeX editor. [Source Code](https://github.com/sharelatex/sharelatex) `AGPLv3` `Ruby`
   * [Turtl](https://turtl.it/) - A totally private personal database and note taking app. ([Source Code](https://github.com/turtl)) `GPLv3` `CommonLisp`
 
 
