@@ -17,6 +17,9 @@
 
   * [Auth0](https://auth0.com/docs/appliance): `⊘ Proprietary`. Identity made simple for developers. `NodeJS`
 
+## Content Management Systems (CMS)
+
+  * [Kirby](https://getkirby.com/): `⊘ Proprietary` File-based CMS. Easy to setup. Easy to use. Flexible as hell. `PHP` ([Source Code](https://github.com/getkirby/kirby))
 
 ## Feed Readers
 
