@@ -47,11 +47,12 @@ Table of Contents
   - [Groupware](#groupware)
   - [Learning and Courses](#learning-and-courses)
   - [Maps & GPS](#maps--gps)
-  - [Video Streaming](#video-streaming)
+  - [Media Streaming](#media-streaming)
+      - [Video Streaming](#video-streaming)
+      - [Music Streaming](#music-streaming)
   - [Mind Maps](#mind-maps)
   - [Money, Budgeting and Management](#money-budgeting-and-management)
-  - [Monitoring](#monitoring)
-  - [Music Streaming](#music-streaming)
+  - [Monitoring and Administration](#monitoring-and-administration)
   - [Note-taking & Editors](#note-taking--editors)
   - [Office Suites](#office-suites)
   - [Password Managers](#password-managers)
@@ -334,7 +335,7 @@ CMS are a practical way to setup a website with many features. CMS often come wi
   * [Gazelle](https://github.com/WhatCD/Gazelle) - Gazelle is a web framework geared towards private BitTorrent trackers. Although naturally focusing on music, it can be modified for most needs. `unlicensed` `PHP`
   * [Grav](https://getgrav.org/) - Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS. ([Source Code](https://github.com/getgrav/grav)) `MIT` `PHP`
   * [GetSimple CMS](http://get-simple.info/) - The Simplest Content Management System. Ever. `GPLv3`
-  * [ImpressPages CMS](https://www.impresspages.org/) - Easy code meets easy admin. ([Demo](https://www.impresspages.org/demo), [Source Code](https://github.com/impresspages/ImpressPages)) `GPLv3`/`MIT`  `PHP`
+  * [ImpressPages CMS](https://www.impresspages.org/) - Easy code meets easy admin. ([Demo](https://www.impresspages.org/demo), [Source Code](https://github.com/impresspages/ImpressPages)) `GPLv3`/`MIT` `PHP`
   * [Joomla!](https://www.joomla.org/) - Advanced Content Management System (CMS). ([Source Code](http://joomlacode.org/gf/project/joomla/scmsvn/)) `GPL` `PHP`
   * [KeystoneJS](http://keystonejs.com/) - Node.js CMS & Web Application Platform. ([Demo](http://demo.keystonejs.com/), [Source Code](https://github.com/keystonejs/keystone)) `MIT` `NodeJS`
   * [MODX](http://modx.com/) - MODX is an advanced content management and publishing platform. The current version is called 'Revolution'. ([Source Code](https://github.com/modxcms/revolution)) `GPLv2` `PHP`
@@ -386,7 +387,7 @@ _Recipe management_
   * [IndieAuth](https://indieauth.com) - Sign in with your domain name (using the [rel-me-auth](http://microformats.org/wiki/relmeauth) protocol). `Apache` `Ruby`
   * [Libravatar](https://www.libravatar.org/) - Libravatar is a service which delivers your avatar (profile picture) to other websites. ([Demo](https://www.libravatar.org/account/new/), [Source Code](https://github.com/libravatar/libravatar)) `AGPLv3` `Python`
   * [OpenCA OCSPD](https://pki.openca.org/projects/ocspd/) - An [OCSP](https://en.wikipedia.org/wiki/Online_Certificate_Status_Protocol) Responder.
-  * [OpenID/OpenID Connect](http://openid.net/developers/libraries/) - A Simple Identity layer on top of OAuth 2.0
+  * [OpenID/OpenID Connect](http://openid.net/developers/libraries/) - A Simple Identity layer on top of OAuth 2.0.
   * [OSIAM](https://www.osiam.org) - Open Source Identity and Access Management implementing OAuth 2.0 and SCIMv2. ([Source Code](https://github.com/osiam/osiam)) `MIT` `Java`
 
 
@@ -532,8 +533,9 @@ Some [Groupware](#groupware) solutions also feature file sharing and synchroniza
   * [Openstreetmap](http://www.openstreetmap.org/) - OpenStreetMap is a map of the world, created by people like you and free to use under an open license. ([Source Code](https://github.com/openstreetmap/openstreetmap-website))
   * [Traccar](https://www.traccar.org/) - Java application to track GPS positions. Supports loads of tracking devices and protocols, has an Android and iOS App. Has a web interface to view your trips. ([Demo](http://demo.traccar.org/), [Source Code](https://github.com/tananaev?tab=repositories)) `Apache`
   * [uMap](https://umap.openstreetmap.fr/en/) - Create maps with OpenStreetMap layers in a minute and embed them in your site. ([Source Code](https://github.com/umap-project/umap)) `WTFPL` `Python/Django`
+## Media Streaming
 
-## Video Streaming
+### Video Streaming
 
   * [CyTube](https://github.com/calzoneman/sync) - CyTube is a web application providing media synchronization, chat, and more for an arbitrary number of channels. ([Demo](http://cytu.be)) `MIT` `Nodejs`
   * [Emby](https://github.com/MediaBrowser/Emby) - A home media server built using other popular open source technologies. - `GPLv2`
@@ -544,6 +546,19 @@ Some [Groupware](#groupware) solutions also feature file sharing and synchroniza
   * [Rygel](https://wiki.gnome.org/action/show/Projects/Rygel) - Rygel is a home media solution (UPnP AV MediaServer) that allows you to easily share audio, video and pictures to other devices. Additionally, media player software may use Rygel to become a MediaRenderer that may be controlled remotely by a UPnP or DLNA Controller. `GPLv3` `C`
   * [Streama](https://github.com/dularion/streama) - Self-hosted Netflix alternative. - `MIT` `Java`
   * [Zoneminder](https://github.com/ZoneMinder/ZoneMinder) - Closed-circuit television (CCTV) software application which supports IP, USB and Analog cameras. `GPLv2` `PHP`
+
+### Music Streaming
+
+  * [Ampache](http://ampache.org/) - A web based audio/video streaming application. ([Demo](http://play.dogmazic.net/), [Source Code](https://github.com/ampache/ampache)) `AGPLv3` `PHP`
+  * [CherryMusic](http://www.fomori.org/cherrymusic/) - Minimalistic Web-Mediaplayer. ([Source Code](https://github.com/devsnd/cherrymusic)) `GPLv3` `Python`
+  * [cloudtunes](https://github.com/jkbrzt/cloudtunes) - Web-based music player for the cloud. `MIT` `Python/Javascript`
+  * [GNU FM](https://gnu.io/fm/) - Running music community websites, alternative to last.fm. ([Source Code](http://git.savannah.gnu.org/cgit/librefm.git/)) `GPLv3` `PHP`
+  * [Groove Basin](http://groovebasin.com/) - A music player server with a web-based user interface inspired by Amarok 1.4 ([Source Code](https://github.com/andrewrk/groovebasin)) `MIT` `Nodejs`
+  * [koel](http://koel.phanan.net/) - A personal music streaming server that works. ([Source Code](https://github.com/phanan/koel)) `MIT` `PHP`
+  * [Mopidy](http://mopidy.readthedocs.org/) - Extensible music server. Offers a superset of the mpd API, as well as integration with 3rd party services like Spotify, SoundCloud etc. ([Source Code](https://github.com/mopidy/mopidy)) `Apache` `Python`
+  * [mpd](http://www.musicpd.org/) - Daemon to remotely play music, stream music, handle and organize playlists. Many clients available. `GPLv2` `C++`
+  * [Sonerezh](https://www.sonerezh.bzh/) - A self-hosted, web-based application for stream your music, everywhere. ([Demo](https://www.sonerezh.bzh/demo/), [Documentation](https://www.sonerezh.bzh/docs/), [Source Code](https://github.com/sonerezh/sonerezh)) `GPLv3` `PHP`
+  * [Subsonic](http://subsonic.org/) - Open-source web-based media streamer and jukebox. ([Demo](http://demo.subsonic.org/login.view?user=guest4&password=guest), [Source Code](https://github.com/EugeneKay/subsonic)) `GPLv3` `Java`
 
 ## Mind Maps
 
@@ -567,20 +582,6 @@ Some [Groupware](#groupware) solutions also feature file sharing and synchroniza
 ## Monitoring
 
 See https://github.com/n1trux/awesome-sysadmin#monitoring and https://github.com/n1trux/awesome-sysadmin#metric--metric-collection
-
-
-## Music Streaming
-
-  * [Ampache](http://ampache.org/) - A web based audio/video streaming application. ([Demo](http://play.dogmazic.net/), [Source Code](https://github.com/ampache/ampache)) `AGPLv3` `PHP`
-  * [CherryMusic](http://www.fomori.org/cherrymusic/) - Minimalistic Web-Mediaplayer. ([Source Code](https://github.com/devsnd/cherrymusic)) `GPLv3` `Python`
-  * [cloudtunes](https://github.com/jkbrzt/cloudtunes) - Web-based music player for the cloud. `MIT` `Python/Javascript`
-  * [GNU FM](https://gnu.io/fm/) - Running music community websites, alternative to last.fm. ([Source Code](http://git.savannah.gnu.org/cgit/librefm.git/)) `GPLv3` `PHP`
-  * [Groove Basin](http://groovebasin.com/) - A music player server with a web-based user interface inspired by Amarok 1.4 ([Source Code](https://github.com/andrewrk/groovebasin)) `MIT` `Nodejs`
-  * [koel](http://koel.phanan.net/) - A personal music streaming server that works. ([Source Code](https://github.com/phanan/koel)) `MIT` `PHP`
-  * [Mopidy](http://mopidy.readthedocs.org/) - Extensible music server. Offers a superset of the mpd API, as well as integration with 3rd party services like Spotify, SoundCloud etc. ([Source Code](https://github.com/mopidy/mopidy)) `Apache` `Python`
-  * [mpd](http://www.musicpd.org/) - Daemon to remotely play music, stream music, handle and organize playlists. Many clients available. `GPLv2` `C++`
-  * [Sonerezh](https://www.sonerezh.bzh/) - A self-hosted, web-based application for stream your music, everywhere. ([Demo](https://www.sonerezh.bzh/demo/), [Documentation](https://www.sonerezh.bzh/docs/), [Source Code](https://github.com/sonerezh/sonerezh)) `GPLv3` `PHP`
-  * [Subsonic](http://subsonic.org/) - Open-source web-based media streamer and jukebox. ([Demo](http://demo.subsonic.org/login.view?user=guest4&password=guest), [Source Code](https://github.com/EugeneKay/subsonic)) `GPLv3` `Java`
 
 
 ## Note-taking & Editors
