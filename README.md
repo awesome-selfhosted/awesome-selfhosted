@@ -52,7 +52,7 @@ Table of Contents
       - [Video Streaming](#video-streaming)
   - [Mind Maps](#mind-maps)
   - [Money, Budgeting and Management](#money-budgeting-and-management)
-  - [Monitoring and Administration](#monitoring-and-administration)
+  - [Monitoring](#monitoring)
   - [Note-taking & Editors](#note-taking--editors)
   - [Office Suites](#office-suites)
   - [Password Managers](#password-managers)
