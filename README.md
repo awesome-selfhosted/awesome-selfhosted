@@ -752,6 +752,7 @@ See **[Ticketing](#ticketing)**
   * [Flatdoc](http://ricostacruz.com/flatdoc/) - A small JavaScript file that fetches Markdown files and renders them as full pages. `MIT` `Javascript`
   * [markdown-tree](https://github.com/mil/markdown-tree) - Serve a hierarchy / tree directory of markdown files. Use intended for small sites built in markdown
   * [MdWiki](https://dynalon.github.io/mdwiki/#!index.md) - A Markdown CMS/Wiki completely built in HTML5/Javascript and runs 100% on the client. ([Source Code](https://github.com/Dynalon/mdwiki))
+  * [MkDocs](http://www.mkdocs.org) - A fast, simple and downright gorgeous static site generator that's geared towards building project documentation. ([Source Code](https://github.com/mkdocs/mkdocs)) `BSD` `Python`'
   * [Read the Docs](https://docs.readthedocs.org/en/latest/install.html) - Host documentation, making it fully searchable and easy to find; import your docs using any major version control system, including Mercurial, Git, Subversion, and Bazaar. ([Demo](https://readthedocs.org/projects/), [Source Code](https://github.com/rtfd/readthedocs.org)) `MIT` `Python`
 
 
