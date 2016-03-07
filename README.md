@@ -265,6 +265,7 @@ _Mailing lists servers._
 
 ### Social Networks and Forums
 
+  * [Abilian SBE](https://github.com/abilian/abilian-sbe) - Open Source Collaboration and Social Networking framework & platform `LGPL` `Python`
   * [Anahita](https://www.getanahita.com/) - Open Source Social Networking Framework & Platform. ([Source Code](https://github.com/anahitasocial)) `GPLv3` `PHP`
   * [Bootcamp](http://trybootcamp.vitorfs.com) - An enterprise social network. ([Source Code](https://github.com/vitorfs/bootcamp)) `MIT` `Python`
   * [Buddycloud](http://buddycloud.com/) - Tools, libraries, services and a community to build user-to-user, group and social messaging into your app. Saves time. Scales up. Supports you. ([Source Code](https://github.com/buddycloud)) `Apache 2.0` `Java/Javascript`
