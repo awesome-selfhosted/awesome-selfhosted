@@ -378,6 +378,7 @@ _Recipe management_
 
 ## Enterprise Resource Planning
 
+* [ERPNext](https://erpnext.com) - Free open source ERP system. ([Source Code](https://github.com/frappe/erpnext)), ([Demo](https://demo.erpnext.com)) `GPLv3` `Python`
 * [Odoo](http://odoo.com) - Free open source ERP system. ([Source Code](https://github.com/odoo/odoo)), ([Demo](https://demo.odoo.com/)) `LGPLv3` `Python`
 
 
