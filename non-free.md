@@ -40,7 +40,7 @@
 ## Money, Budgeting and Management
 
   * [FusionInvoice](https://www.fusioninvoice.com) `⊘ Proprietary` - FusionInvoice is an invoicing system for freelancers and small businesses. `PHP`
-  * [Manager](http://manager.io/) `⊘ Proprietary` - Online accounting software for small businesses. `Mono`
+  * [Manager](http://manager.io/server) `⊘ Proprietary` - Online accounting software for small businesses. `Mono`
   * [Pancake](http://pancakeapp.com/) `⊘ Proprietary` - Online invoicing, project management, time tracking and proposal software. `PHP`
 
 
