@@ -23,6 +23,7 @@ Table of Contents
       - [Mail Transfer Agents](#mail-transfer-agents)
       - [Mail Delivery Agents](#mail-delivery-agents)
       - [Mailing lists](#mailing-lists)
+      - [Newsletter management](#newsletter-management)
       - [Webmail clients](#webmail-clients)
     - [IRC](#irc)
     - [SIP](#sip)
@@ -230,6 +231,12 @@ _Mailing lists servers._
 
   * [Mailman](https://www.gnu.org/software/mailman/) - The Gnu mailing list server. `Python` `GPL`
   * [Sympa](https://www.sympa.org/) - A mailing list manager. `Perl` `GPL`
+
+#### Newsletter management
+
+_Mass mailing software - one message to many recipients_
+
+  * [phpList](https://phplist.org) - Newsletter and email marketing with advanced management of subscribers, bounces, and plugins. ([Source Code](https://github.com/phpList/)) `AGPLv3` `PHP`
 
 
 #### Webmail clients
@@ -1073,4 +1080,5 @@ The list of contributors can be found below
     1	stevesbrain <stevesbrain@users.noreply.github.com>
     1	ttoups <ich@timotoups.de>
     1	wxcafé <wxcafe@wxcafe.net>
+    1	Sam Tuke <mail@samtuke.com>
 
