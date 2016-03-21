@@ -996,6 +996,7 @@ The list of contributors can be found below
     2	David Wayne Baxter <dbxt@users.noreply.github.com>
     2	Deryck <dhenson02@users.noreply.github.com>
     2	Greg V <greg@unrelenting.technology>
+    2	Hammy Havoc <hammy@splitanatom.com>
     2	Henry Ruhs <info@redaxmedia.com>
     2	Jason Robinson <mail@jasonrobinson.me>
     2	Joseph Dykstra <josephdykstra@gmail.com>
