@@ -35,6 +35,7 @@ Table of Contents
     - [E-commerce](#e-commerce)
   - [Document Archiving](#document-archiving)
   - [Enterprise Resource Planning](#enterprise-resource-planning)
+  - [Event Management](#event-management)
   - [Federated Identity/Authentication](#federated-identityauthentication)
   - [Feed Readers](#feed-readers)
   - [File Sharing and Synchronization](#file-sharing-and-synchronization)
@@ -250,7 +251,6 @@ _Mass mailing software - one message to many recipients_
   * [SquirrelMail](http://squirrelmail.org) - Another browser-based IMAP client. ([Source Code](https://sourceforge.net/p/squirrelmail/code/HEAD/tree/)) `GPLv2` `PHP`
   * [WebMail Lite](http://www.afterlogic.org/webmail-lite) - Web-based IMAP Mail client. ([Source Code](https://github.com/afterlogic/webmail-lite)) `GPLv3` `PHP`
 
-
 ### IRC
 
 *[IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat) communication software*
@@ -392,6 +392,11 @@ _Recipe management_
 
 * [ERPNext](https://erpnext.com) - Free open source ERP system. ([Demo](https://demo.erpnext.com), [Source Code](https://github.com/frappe/erpnext)) `GPLv3` `Python`
 * [Odoo](http://odoo.com) - Free open source ERP system. ([Demo](https://demo.odoo.com/), [Source Code](https://github.com/odoo/odoo)) `LGPLv3` `Python`
+
+
+## Event Management
+
+  * [Attendize]( https://www.attendize.com) - Attendize is a free & open-source ticket selling and event management platform. ([Source Code](https://github.com/attendize/attendize)) `AAL` `PHP`
 
 
 ## Federated Identity/Authentication
