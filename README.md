@@ -662,6 +662,7 @@ See https://github.com/n1trux/awesome-sysadmin#monitoring and https://github.com
   * [Dashing](http://shopify.github.io/dashing/) - Sinatra based, open sourced dashboard builder from Shopify. ([Demo](http://dashingdemo.herokuapp.com/sample), [Source Code](https://github.com/Shopify/dashing)) `MIT` `Ruby`
   * [Dj Diabetes](https://github.com/foxmask/dj-diabetes) - My Glucose Manager - follow your daily health  `BSD` `Python`
   * [Freeboard](https://freeboard.io) - An open source real-time dashboard builder for IOT and other web mashups. ([Source Code](https://github.com/freeboard/freeboard)) `MIT` `Nodejs`
+  * [Grafana](http://grafana.org/) - An open source dashboard for data visualization. ([Source Code](https://github.com/grafana)) `Apache` `Go`
   * [Habitica](http://habitica.com/) - A habit tracker app which treats your goals like a Role Playing Game. Previously called HabitRPG. ([Source Code](https://github.com/HabitRPG/habitrpg)) `GPLv3/Other` `Nodejs`
   * [Phant](http://phant.io/) - Phant is a modular data logging tool for collecting data from the Internet of Things. ([Demo](https://data.sparkfun.com/), [Source Code](https://github.com/sparkfun/phant)) `GPLv3` `Nodejs`
   * [Reportr](https://github.com/Reportr/dashboard) - Your life's personal dashboard. ([Source Code](https://github.com/Reportr/dashboard))
@@ -995,6 +996,7 @@ The list of contributors can be found below
     2	David Wayne Baxter <dbxt@users.noreply.github.com>
     2	Deryck <dhenson02@users.noreply.github.com>
     2	Greg V <greg@unrelenting.technology>
+    2	Hammy Havoc <hammy@splitanatom.com>
     2	Henry Ruhs <info@redaxmedia.com>
     2	Jason Robinson <mail@jasonrobinson.me>
     2	Joseph Dykstra <josephdykstra@gmail.com>
