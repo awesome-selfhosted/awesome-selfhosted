@@ -259,6 +259,7 @@ _Mass mailing software - one message to many recipients_
 *[IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat) communication software*
 
   * [Convos](http://convos.by/) - Always online web IRC client. ([Demo](http://demo.convos.by), [Source Code](http://github.com/nordaaker/convos)) `ARTv2` `Perl`
+  * [Hexchat](https://hexchat.github.io/) - GTK+ IRC Client. Originally forked from the now-defunct XChat. ([Source Code](https://github.com/hexchat/hexchat)) `GPLv2` `C`
   * [IRCAnywhere](http://ircanywhere.com/) - Open-source self-hosted alternative to IRCCloud. ([Source Code](https://github.com/ircanywhere/ircanywhere)) `JavaScript` `Nodejs`
   * [Quassel IRC](http://quassel-irc.org/) - distributed IRC client, meaning that one (or multiple) client(s) can attach to and detach from a central core. ([Source Code](https://github.com/quassel/quassel)) `GPLv2` `C++`
   * [Shout](http://shout-irc.com/) - The self-hosted web IRC client. ([Demo](http://demo.shout-irc.com/), [Source Code](https://github.com/erming/shout)) `MIT` `Nodejs`
