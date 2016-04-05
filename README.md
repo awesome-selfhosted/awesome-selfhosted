@@ -242,6 +242,8 @@ _Mailing lists servers._
 _Mass mailing software - one message to many recipients_
 
   * [phpList](https://phplist.org) - Newsletter and email marketing with advanced management of subscribers, bounces, and plugins. ([Source Code](https://github.com/phpList/)) `AGPLv3` `PHP`
+  * [Mautic](https://www.mautic.org/) - Mautic is marketing automation software (email, social & more). Download on your own site or create a free hosted account. ([Source Code](https://github.com/mautic/mautic)) `GPLv3` `PHP`
+  * [Mailtrain](http://mailtrain.org/) - Self hosted newsletter app built on top of Nodemailer. ([Source Code](https://github.com/andris9/mailtrain)) `GPLv3` `Javascript`
 
 
 #### Webmail clients
