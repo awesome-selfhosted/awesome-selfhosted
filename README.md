@@ -219,7 +219,7 @@ _MTAs / SMTP servers_
 * [Postfix](http://www.postfix.org/) - Fast, easy to administer, and secure Sendmail replacement. `IPL` `C`
 * [Qmail](http://www.qmail.org/top.html) - Secure Sendmail replacement. `CC0`
 * [Sendmail](http://www.sendmail.com/sm/open_source/) - Message transfer agent (MTA).
- * [Slimta](http://slimta.org) - Mail Transfer Library built on Python. ([Source Code](https://github.com/slimta/python-slimta)) `MIT License` `Python`
+* [Slimta](http://slimta.org) - Mail Transfer Library built on Python. ([Source Code](https://github.com/slimta/python-slimta)) `MIT License` `Python`
 
 
 #### Mail Delivery Agents
