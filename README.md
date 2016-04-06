@@ -278,7 +278,7 @@ _Mass mailing software - one message to many recipients_
 
 ### IPBX
 
- *[IPBX] (https://en.wikipedia.org/wiki/IP_PBX) telephony software*
+ *[IPBX](https://en.wikipedia.org/wiki/IP_PBX) telephony software*
  
   * [Elastix](http://www.elastix.org) - Unified communications server software based on Asterisk [(Source Code](https://svn.code.sf.net/p/elastix/code/trunk/)) `GPLv2` `PHP`
   * [Freepbx](http://www.freepbx.org) - Web-based open source GUI (graphical user interface) that controls and manages Asterisk [(Source Code](http://git.freepbx.org/projects/FREEPBX)) `GPLv2` `PHP`
