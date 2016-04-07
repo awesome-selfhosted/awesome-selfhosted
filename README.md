@@ -598,6 +598,7 @@ See also <https://en.wikipedia.org/wiki/List_of_streaming_media_systems>, <https
 ## Money, Budgeting and Management
 
   * [Benedetto](https://github.com/arecker/bennedetto) - Bennedetto is a simple, turn-based budget management app. `GPLv3` `Python`
+  * [Economizzer](http://www.economizzer.org/) - Economizzer is a simple and open source personal finance manager system, available in English, Brazilian, Portuguese and Russian. ([Source Code](https://github.com/gugoan/economizzer)) `MIT` `PHP`
   * [Galette](http://galette.eu/dc/) - Galette is a membership management web application towards non profit organizations. ([Source Code](http://git.tuxfamily.org/galette/galette.git/)) `GPLv3` `PHP`
   * [GLPI](http://www.glpi-project.org/spip.php?lang=en) - GLPI is an IT assests/resources/inventory manager. ([Source Code](https://forge.glpi-project.org/projects/glpi)) `GPLv2` `PHP`
   * [GRR](http://grr.devome.com/?lang=en) - Assets management and booking for small/medium companies. ([demo](http://grr.devome.com/demo/week_all.php?year=2015&month=07&day=28&area=94), _administrateur/azerty_) `GPLv2` `PHP`
