@@ -244,6 +244,7 @@ _Mailing lists servers._
 _Mass mailing software - one message to many recipients_
 
   * [Mailtrain](https://mailtrain.org/) - self hosted newsletter application built on Node.js (v5+) and MySQL (v5.5+ or MariaDB). ([Source Code](https://github.com/andris9/mailtrain)) `GPL-V3.0` `Node.js`
+  * [Mautic](https://www.mautic.org/) - Mautic is marketing automation software (email, social & more). Download on your own site or create a free hosted account. ([Source Code](https://github.com/mautic/mautic)) `GPLv3` `PHP`
   * [phpList](https://phplist.org) - Newsletter and email marketing with advanced management of subscribers, bounces, and plugins. ([Source Code](https://github.com/phpList/)) `AGPLv3` `PHP`
 
 
