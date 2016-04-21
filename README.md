@@ -523,6 +523,7 @@ Some [Groupware](#groupware) solutions also feature file sharing and synchroniza
   * [20euros](https://github.com/jatekos101/20euros) - Clone of 2048 game with euros. - Unlicensed
   * [Agar.IO Clone](https://github.com/huytd/agar.io-clone) - Agar.io clone written with Socket.IO and HTML5 canvas - `MIT`
   * [Cubiks-2048](https://github.com/Kshitij-Banerjee/Cubiks-2048) - Clone of 2048 game in 3D. - `CCANC 4.0`
+  * [Game Server Managers](https://gameservermanagers.com/) - Server Managers for various [Steam](http://store.steampowered.com/) games, as well as Mumble and Teamspeak. `MIT`
   * [TournamentMango](http://tournamentmango.com/) - TournamentMango is an open source tournament bracket and user management system. You can build an archive of players and keep track of all their scores over time as well as their regular characters, games, and aliases. ([Source Code](https://github.com/seiyria/tournamentmango)) `MIT` `Javascript`
 
 
@@ -1109,4 +1110,5 @@ The list of contributors can be found below
     1	ttoups <ich@timotoups.de>
     1	wxcafé <wxcafe@wxcafe.net>
     1	Sam Tuke <mail@samtuke.com>
+    1 R0cknfire <r0cknfire@users.noreply.github.com>
 
