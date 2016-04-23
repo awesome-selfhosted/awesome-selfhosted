@@ -499,6 +499,7 @@ Some [Groupware](#groupware) solutions also feature file sharing and synchroniza
   * [Jirafeau](https://gitlab.com/mojo42/Jirafeau/wikis/home) - Jirafeau is a web site permitting to upload a file in a simple way and give an unique link to it. ([Demo](http://jirafeau.net/))
   * [Jyraphe](http://home.gna.org/jyraphe/) - Jyraphe is a web application of file repository, easy to install and easy to use.
   * [linx](https://github.com/andreimarcu/linx-server) - File sharing application and pastebin with API, auto-expiry, deletion keys, and web seed support. ([Demo](https://linx.li/)) `GPLv3` `Go`
+  * [lufi](https://git.framasoft.org/luc/lufi) - Let's Upload that FIle, client-side encrypted. ([Demo](https://demo.lufi.io), [Source Code](https://git.framasoft.org/luc/lufi/tree/master)) `AGPLv3` `Perl`
   * [lutim](https://github.com/ldidry/lutim) - Let's Upload That Image !
   * [Mediacrush](https://mediacru.sh/) - A website you can upload images, audio, and video to, and receive a link to share it with your friends. ([Source Code](https://github.com/MediaCrush/MediaCrush))
   * [Nimbus](https://github.com/ethanal/nimbus) - A drag-and-drop shortlink file sharer for OS X - `MIT` `Python`
