@@ -904,6 +904,7 @@ See also [Documentation Generators](#documentation-generators), [Wikimatrix](htt
   * [sovereign](https://github.com/sovereign/sovereign) - A set of Ansible playbooks to build and maintain your own private cloud: email, calendar, contacts, file sync, IRC bouncer, VPN, and more. `GPLv3` `YAML/Other`
   * [UBOS](http://ubos.net/) - Linux distro that runs on indie boxes (personal servers and IoT devices). Single-command installation and management of apps - Jenkins, Mediawiki, Owncloud, Wordpress, etc., - and other [features](http://ubos.net/about/).`GPLv3` `Perl/Other`
   * [yunohost](https://yunohost.org/) - A server operating system aiming to make self-hosting accessible to everyone. ([Source Code](https://github.com/YunoHost)) `AGPL` `Python/Other`
+  * [Puffin](http://puffin.rocks/) - Lightweight webapp catalog based on containers, with user interface à la mobile app store. ([Demo](http://puffin.rocks/), [Source Code](https://github.com/puffinrocks/puffin)) `AGPL` `Python/Docker`
 
 <!-- END SOFTWARE LIST -->
 
@@ -1084,6 +1085,7 @@ The list of contributors can be found below
     1	Igor Antun <IgorAntun@users.noreply.github.com>
     1	Izac Lorimer <izaclorimer@users.noreply.github.com>
     1	Jan <jayphizzle@users.noreply.github.com>
+    1	Jarek Lipski <loomchild@loomchild.net>
     1	Jean Menezes da Rocha <jean@menezesdarocha.info>
     1	Jeremiah Marks <jeremiah@jlmarks.org>
     1	Joel Calado <joelcalado@gmail.com>
