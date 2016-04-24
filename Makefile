@@ -38,7 +38,7 @@ add:
 	read Source; if [ -z "$$Source" ]; then CSource="" ; else CSource="[Source Code]($$Source)" ; fi ;\
 	if [[ "$$CSource" == "" && "$$Demo" == "" ]]; \
 	then Moreinfo="";\ printf "debug" ;\
-	else Moreinfo=$$(echo "($$CSource$$CDemo)" | sed 's|)\[|\], [|g') ;\
+	else Moreinfo=$$(echo "($$CDemo$$CSource)" | sed 's|)\[|), [|g') ;\
 	fi ;\
 	echo -e "Copy this entry to your clipboard, paste it in the appropriate category:\n\n" ;\
 	echo " * [$$Name]($$Url) - $${Description}. $$Moreinfo \`$$License\` \`$$Language\`"
