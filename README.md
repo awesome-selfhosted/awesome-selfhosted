@@ -900,6 +900,7 @@ See also [Documentation Generators](#documentation-generators), [Wikimatrix](htt
   * [FreedomBone](https://github.com/bashrc/freedombone) - Home server configuration based on Debian. `GPLv3` `Shell`
   * [FreedomBox](https://wiki.debian.org/FreedomBox) - A community project to develop, design and promote personal servers running free software for private, personal, communications. `GPLv3` `Python/Other`
   * [Piratebox](https://piratebox.cc/start) - A DIY anonymous offline file-sharing and communications system built with free software and inexpensive off-the-shelf hardware. ([Source Code](https://github.com/PirateBox-Dev)). `GPLv3` `Python/Other`
+  * [Puffin](http://puffin.rocks/) - Lightweight webapp catalog based on containers, with user interface à la mobile app store. ([Demo](http://puffin.rocks/), [Source Code](https://github.com/puffinrocks/puffin)) `AGPL` `Python/Docker`
   * [Sandstorm](https://sandstorm.io/) - Personal server for running self-hosted apps easily and securely. ([Demo](https://demo.sandstorm.io/), [Source Code](https://github.com/sandstorm-io/sandstorm)) `Apache` `C++/Other`
   * [sovereign](https://github.com/sovereign/sovereign) - A set of Ansible playbooks to build and maintain your own private cloud: email, calendar, contacts, file sync, IRC bouncer, VPN, and more. `GPLv3` `YAML/Other`
   * [UBOS](http://ubos.net/) - Linux distro that runs on indie boxes (personal servers and IoT devices). Single-command installation and management of apps - Jenkins, Mediawiki, Owncloud, Wordpress, etc., - and other [features](http://ubos.net/about/).`GPLv3` `Perl/Other`
@@ -1084,6 +1085,7 @@ The list of contributors can be found below
     1	Igor Antun <IgorAntun@users.noreply.github.com>
     1	Izac Lorimer <izaclorimer@users.noreply.github.com>
     1	Jan <jayphizzle@users.noreply.github.com>
+    1	Jarek Lipski <loomchild@loomchild.net>
     1	Jean Menezes da Rocha <jean@menezesdarocha.info>
     1	Jeremiah Marks <jeremiah@jlmarks.org>
     1	Joel Calado <joelcalado@gmail.com>
