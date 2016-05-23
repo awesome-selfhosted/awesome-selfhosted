@@ -35,6 +35,7 @@ See [Contributing](#contributing).
     - [E-commerce](#e-commerce)
   - [Document Archiving](#document-archiving)
   - [Enterprise Resource Planning](#enterprise-resource-planning)
+  - [Enterprise Suites](#enterprise-suites)
   - [Federated Identity/Authentication](#federated-identityauthentication)
   - [Feed Readers](#feed-readers)
   - [File Sharing and Synchronization](#file-sharing-and-synchronization)
@@ -409,6 +410,8 @@ _Recipe management_
 * [Odoo](http://odoo.com) - Free open source ERP system. ([Demo](https://demo.odoo.com/), [Source Code](https://github.com/odoo/odoo)) `LGPLv3` `Python`
 * [Tryton](http://www.tryton.org/) - Free open source business solution. ([Demo](http://demo.tryton.org/), [Source Code](https://hg.tryton.org/)) `GPLv3` `Python/Javascript`
 
+## Enterprise Suites]
+ * [WikiSuite](http://WikiSuite.org) - The most comprehensive and integrated Free / Libre / Open Source software suite ever developed.. ([Source Code](http://wikisuite.org/Source)) `Various` `Various`
 
 ## Federated Identity/Authentication
 
