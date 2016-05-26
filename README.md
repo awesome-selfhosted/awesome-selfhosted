@@ -33,6 +33,7 @@ See [Contributing](#contributing).
       - [XMPP Web Clients](#xmpp-web-clients)
   - [Content Management Systems (CMS)](#content-management-systems-cms)
     - [E-commerce](#e-commerce)
+  - [DNS](#dns)
   - [Document Archiving](#document-archiving)
   - [Enterprise Resource Planning](#enterprise-resource-planning)
   - [Federated Identity/Authentication](#federated-identityauthentication)
@@ -396,6 +397,10 @@ _Recipe management_
 * [Shoop](https://www.shoop.io/) - Django powered fully customizable open source e-commerce framework for small and large sites. ([B2C demo](https://demo1.shoop.io/), [B2B demo](https://demo2.shoop.io/), [Source Code](https://github.com/shoopio/shoop)) `AGPLv3` `Python`
 * [WooCommerce](https://www.woothemes.com/woocommerce/) - WordPress based e-commerce solution. ([Source Code](https://github.com/woothemes/woocommerce)) `GPL` `PHP`
 
+
+## DNS
+
+See https://github.com/n1trux/awesome-sysadmin#dns
 
 ## Document Archiving
 
