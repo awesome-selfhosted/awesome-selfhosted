@@ -35,7 +35,7 @@
 ## Media Streaming
 
   * [Plex](https://plex.tv/) `⊘ Proprietary` - Plex is a centralized home media playback system with a powerful central server.
-
+  * [Subsonic](http://subsonic.org/) - Web-based media streamer and jukebox. ([Demo](http://demo.subsonic.org/login.view?user=guest4&password=guest))
 
 ## Money, Budgeting and Management
 
