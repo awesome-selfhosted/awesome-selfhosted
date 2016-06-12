@@ -525,6 +525,7 @@ Some [Groupware](#groupware) solutions also feature file sharing and synchroniza
   * [eXtplorer](http://extplorer.sourceforge.net/) - A PHP and JavaScript based File Manager
   * [h5ai](https://larsjung.de/h5ai/) - Modern file indexer for HTTP web servers with focus on your files. Directories are displayed in a appealing way and browsing them is enhanced by different views, a breadcrumb and a tree overview. ([Demo](https://larsjung.de/h5ai/demo/), [Source Code](https://github.com/lrsjng/h5ai)) `MIT` `PHP/Javascript`
   * [Sprut.io](https://sprut.io) - 2 panel file manager with drag and drop features, code editor, text search, hotkeys. ([Demo](https://demo.sprut.io:9443), [Source Code](https://github.com/LTD-Beget/sprutio)) `GPLv3` `Python`
+  * [Encode Explorer](http://encode-explorer.siineiolekala.net/) - Encode Explorer is a file browser which requires only the index.php. ([Demo](http://encode-explorer.siineiolekala.net/explorer/index.php), [Source Code](https://github.com/marekrei/encode-explorer)) `MIT` `PHP`
 
 
 ## Games
