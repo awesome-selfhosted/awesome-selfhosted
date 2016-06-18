@@ -652,7 +652,7 @@ See https://github.com/n1trux/awesome-sysadmin#monitoring and https://github.com
 
 ## Office Suites
 
-  * [EtherCalc](https://ethercalc.org/) - Web spreadsheet. - `CPALv1`
+  * [EtherCalc](https://ethercalc.org/) - Web spreadsheet. ([Source code](https://github.com/audreyt/ethercalc) `CPALv1/Other` `Nodejs`
   * [Etherpad](http://etherpad.org/) - Etherpad is a highly customizable Open Source online editor providing collaborative editing in really real-time. - `Apache`
   * [Infinoted](https://github.com/gobby/gobby/wiki/Dedicated%20Server) - A server for [Gobby](https://github.com/gobby/gobby/wiki), a multi-platform collaborative text editor. ([Source Code](https://github.com/gobby/gobby)) `MIT` `C++`
   * [ONLYOFFICE](http://onlyoffice.org/) - An office suite that enables you to manage documents, projects, team and customer relations in one place. ([Source Code](https://github.com/ONLYOFFICE/DocumentServer)) `AGPLv3` `Nodejs`
