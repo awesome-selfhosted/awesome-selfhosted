@@ -13,7 +13,7 @@ See [Contributing](#contributing).
   - [Analytics](#analytics)
   - [Automation](#automation)
   - [Blogging Platforms](#blogging-platforms)
-  - [Bookmarks & Link Sharing](#booksickmarks--link-sharing)
+  - [Bookmarks & Link Sharing](#bookmarks--link-sharing)
   - [Calendar and Address Books](#calendar-and-address-books)
   - [Communication systems](#communication-systems)
     - [Custom](#custom)
