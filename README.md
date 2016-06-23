@@ -116,7 +116,7 @@ _Business Intelligence_
   * [Huginn](https://github.com/cantino/huginn) - Allows you to build agents that monitor and act on your behalf - `MIT` `Ruby`
   * [Http2pic](https://http2pic.haschek.at/) - Website screenshots/renderer. It uses the wkhtmltox to render websites with various options. ([Source Code](https://github.com/chrisiaut/http2pic)) `Apache 2.0` `PHP/Javascript`
   * [RSS-Bridge](https://github.com/sebsauvage/rss-bridge) - rss-bridge is a PHP project capable of generating ATOM feeds for websites which don't have one. `Public domain` `PHP`
-  * [TriggerHappy](http://trigger-happy.eu/) - An opensource clone of IFTTT, a bridge between your internet services. ([Source Code](https://github.com/foxmask/django-th)) `BSD` `Python`
+  * [TriggerHappy](http://trigger-happy.eu/) - An opensource clone of IFTTT, a bridge between your internet services. ([Sourcep Code](https://github.com/foxmask/django-th)) `BSD` `Python`
   * [WTFDYUM](https://github.com/jchampemont/WTFDYUM) a.k.a Why The Fuck Did You Unfollow Me - Find out who stops following you on Twitter. ([Demo](https://www.wtfdyu.me/), [Source Code](https://github.com/jchampemont/WTFDYUM)) `Apache` `Java`
 
 
@@ -620,6 +620,7 @@ See also <https://en.wikipedia.org/wiki/List_of_streaming_media_systems>, <https
 
 ## Money, Budgeting and Management
 
+  * [Anchor](http://theanchorapp.com/) - Anchor is invoicing software that you host on your own server and is free to use forever ([Demo](http://theanchorapp.com/demo/admin-login)), `PHP`
   * [Benedetto](https://github.com/arecker/bennedetto) - Bennedetto is a simple, turn-based budget management app. `GPLv3` `Python`
   * [Economizzer](http://www.economizzer.org/) - Economizzer is a simple and open source personal finance manager system, available in English, Brazilian, Portuguese and Russian. ([Source Code](https://github.com/gugoan/economizzer)) `MIT` `PHP`
   * [Galette](http://galette.eu/dc/) - Galette is a membership management web application towards non profit organizations. ([Source Code](http://git.tuxfamily.org/galette/galette.git/)) `GPLv3` `PHP`
@@ -783,6 +784,7 @@ See also [Ticketing](#ticketing), [Task management/To-do lists](#task-management
   * [OpenProject](https://www.openproject.org) - Project collaboration.
   * [Phabricator](http://phabricator.org/) - Collection of web applications that help build better software. ([Demo](https://secure.phabricator.com/), [Source Code](https://github.com/phacility/phabricator)) `Apache` `PHP`
   * [Redmine](http://www.redmine.org/) - Redmine is a flexible project management web application. `Ruby` `GPLv2`
+  * [Solo](http://www.getsoloapp.com/) - Solo is a free project management app created for freelancers. Create contacts, manage tasks, upload files, track project progress, and keep notes. ([Demo](http://www.getsoloapp.com/demo/)), `PHP`
   * [Taiga](https://taiga.io/) - Agile Project Management Tool based on the Kanban and Scrum methods.  ([Source Code](https://github.com/taigaio))
   * [The Bug Genie](http://www.thebuggenie.com/) - Written in PHP.
   * [Trac](http://trac.edgewall.org/) - Written in python.
@@ -1018,6 +1020,7 @@ The list of contributors can be found below
     3	Chris McCormick <chris@mccormick.cx>
     3	Conor O'Callaghan <brioscaibriste@users.noreply.github.com>
     3	Cédric Krier <cedk@users.noreply.github.com>
+    3 Edreih Aldana <admin@ealdana.com>
     3	Ethan Lowman <ethanal@users.noreply.github.com>
     3	FoxMaSk <foxmask@users.noreply.github.com>
     3	George C. Privon <privong@users.noreply.github.com>
