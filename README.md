@@ -94,7 +94,7 @@ See [Contributing](#contributing).
 _Web Analytics_
 
   * [AWStats](http://www.awstats.org/) - Generates web, streaming, ftp or mail server statistics graphically. ([Source Code](https://github.com/eldy/awstats)) `GPLv3` `Perl`
-  * [Countly](https://count.ly) - Real time mobile & web analytics, crash reporting and push notifications platform. ([Source Code](https://github.com/countly)) `AGPL` `Javascript`
+  * [Countly](https://count.ly) - Real time mobile & web analytics, crash reporting and push notifications platform. ([Source Code](https://github.com/countly)) `AGPLv3` `Javascript`
   * [Druid](http://druid.io/) - A distributed, column-oriented, real-time analytics data store. ([Source Code](https://github.com/druid-io/druid/)) `Apache` `Java`
   * [GoAccess](http://goaccess.io/) - Real-time web log analyzer and interactive viewer that runs in a terminal. ([Source Code](https://github.com/allinurl/goaccess)) `GPLv2` `C`
   * [Open Web Analytics](http://www.openwebanalytics.com/) - Google Analytics and Piwik alternative. ([Source Code](https://github.com/padams/Open-Web-Analytics/)) `GPL` `PHP`
@@ -105,7 +105,7 @@ _Web Analytics_
 
 _Business Intelligence_
 
-  * [Metabase](http://www.metabase.com/) - Simple Dashboarding and GUI Query tool, Nightly Emails and Slack Integration w/ PostgreSQL, MySQL, Redshift and other DBs. ([Source Code](https://github.com/metabase/metabase)) `AGPL` `Clojure`
+  * [Metabase](http://www.metabase.com/) - Simple Dashboarding and GUI Query tool, Nightly Emails and Slack Integration w/ PostgreSQL, MySQL, Redshift and other DBs. ([Source Code](https://github.com/metabase/metabase)) `AGPLv3` `Clojure`
 
 ## Automation
 
@@ -373,7 +373,7 @@ CMS are a practical way to setup a website with many features. CMS often come wi
   * [MODX](http://modx.com/) - MODX is an advanced content management and publishing platform. The current version is called 'Revolution'. ([Source Code](https://github.com/modxcms/revolution)) `GPLv2` `PHP`
   * [Neos](https://www.neos.io) - Neos or TYPO3 Neos (for version 1) is a modern, open source CMS based on the Flow framework. ([Source Code](https://git.typo3.org/Packages/TYPO3.Neos.git)) `GPLv3` `PHP`
   * [october](http://octobercms.com/) - Free, open-source, self-hosted CMS platform based on the Laravel PHP Framework. ([Source Code](https://github.com/octobercms/october)) `MIT` `PHP`
-  * [Omeka](http://omeka.org) - Create complex narratives and share rich collections, adhering to Dublin Core standards with Omeka on your server, designed for scholars, museums, libraries, archives, and enthusiasts.. ([Demo](http://omeka.org/showcase/), [Source Code](https://github.com/omeka/Omeka)) `GPLv3` `PHP`  
+  * [Omeka](http://omeka.org) - Create complex narratives and share rich collections, adhering to Dublin Core standards with Omeka on your server, designed for scholars, museums, libraries, archives, and enthusiasts. ([Demo](http://omeka.org/showcase/), [Source Code](https://github.com/omeka/Omeka)) `GPLv3` `PHP`  
   * [Pagekit](https://pagekit.com/) - A new modern CMS to create and share. ([Source Code](https://github.com/pagekit/pagekit)) `MIT` `PHP`
   * [Pico](http://picocms.org/) - A stupidly simple, blazing fast, flat file CMS. ([Source Code](https://github.com/picocms/Pico)) `MIT` `PHP`
   * [Pimcore](https://www.pimcore.org/) - Multi-Channel Experience and Engagement Management Platform. ([Source Code](https://github.com/pimcore/pimcore)) `BSD` `PHP`
@@ -510,7 +510,7 @@ Some [Groupware](#groupware) solutions also feature file sharing and synchroniza
   * [Dropcenter](http://projet.idleman.fr/dropcenter/) - Upload files by simple drag-n-drop.
   * [droppy](https://github.com/silverwind/droppy) - droppy is a self-hosted cloud server with an interface similar to desktop file managers and has capabilites to edit files on-the-fly as well as view and playback media directly in the browser. ([Demo](http://droppy.silverwind.io/)) `BSD` `Nodejs`
   * [img.bi](https://github.com/imgbi/img.bi) - img.bi is a secure image hosting. Images are encrypted using AES-256 with random key in browser before upload. `GPLv3` `Nodejs`
-  * [ipfs.pics](https://ipfs.pics/) - ipfs.pics is a o distributed image hosting website. ([Source Code](https://github.com/ipfspics/server)) `AGPL` `PHP`
+  * [ipfs.pics](https://ipfs.pics/) - ipfs.pics is a o distributed image hosting website. ([Source Code](https://github.com/ipfspics/server)) `AGPLv3` `PHP`
   * [Jirafeau](https://gitlab.com/mojo42/Jirafeau/wikis/home) - Jirafeau is a web site permitting to upload a file in a simple way and give an unique link to it. ([Demo](http://jirafeau.net/))
   * [Jyraphe](http://home.gna.org/jyraphe/) - Jyraphe is a web application of file repository, easy to install and easy to use.
   * [linx](https://github.com/andreimarcu/linx-server) - File sharing application and pastebin with API, auto-expiry, deletion keys, and web seed support. ([Demo](https://linx.li/)) `GPLv3` `Go`
@@ -559,7 +559,7 @@ Some [Groupware](#groupware) solutions also feature file sharing and synchroniza
   * [egroupware](http://www.egroupware.org/) - Software suite including calendars, address books, notepad, project management tools, client relationship management tools (CRM), knowledge management tools, a wiki and a CMS.
   * [Horde](http://www.horde.org/) - The Horde Project is about creating high quality Open Source applications and libraries, based on PHP and the Horde Framework. - `GPL`
   * [Kolab](https://kolab.org/) - Kolab community is a unified communication and collaboration system - `Various FLOSS Licenses` ([Source Code](https://git.kolab.org/))
-  * [Kopano](https://kopano.com/) - Groupware suite including e-mail, calendars, tasks, todos and notes. Featuring a modern WebApp, DeskApp and mobile access over Z-Push/ActiveSync.. ([Demo](demo.kopano.com), [Source Code](https://stash.kopano.io)) `AGPL` `C/Python/PHP`
+  * [Kopano](https://kopano.com/) - Groupware suite including e-mail, calendars, tasks, todos and notes. Featuring a modern WebApp, DeskApp and mobile access over Z-Push/ActiveSync. ([Demo](demo.kopano.com), [Source Code](https://stash.kopano.io)) `AGPLv3` `C/Python/PHP`
   * [Mayan EDMS](http://www.mayan-edms.com) - Free Open Source Electronic Document Management System. An electronic vault for your documents with preview generation, OCR, and automatic categorization among other features. ([Demo](http://demo.mayan-edms.com), [Source Code](https://gitlab.com/mayan-edms/mayan-edms)) `Apache` `Python/Django`
   * [Openmeetings](https://openmeetings.apache.org/index.html). ([Source Code](https://svn.apache.org/viewvc/openmeetings/trunk/singlewebapp/)) - Openmeetings provides video conferencing, instant messaging, white board, collaborative document editing and other groupware tools using API functions of the Red5 Streaming Server for Remoting and Streaming. `Apache 2.0`  `Java`
   * [Sogo](http://www.sogo.nu/) - SOGo offers multiple ways to access the calendaring and messaging data. CalDAV, CardDAV, GroupDAV, as well as ActiveSync, including native Outlook compatibility and web interface. ([Demo](http://www.sogo.nu/tour/online_demo.html), [Source Code](http://www.sogo.nu/development/source_code.html)) `GPLv1/LGPLv2` `Objective-C`
@@ -753,7 +753,7 @@ See https://github.com/n1trux/awesome-sysadmin#monitoring and https://github.com
   * [Squid](http://www.squid-cache.org/) - Caching proxy for the Web supporting HTTP, HTTPS, FTP, and more. It reduces bandwidth and improves response times by caching and reusing frequently-requested web pages. ([Source Code](http://bazaar.launchpad.net/~squid/squid/3-trunk/files)) `GPLv2` `C`
   * [Swiperproxy](https://swiperproxy.github.io/) - A lightning-fast, open source web proxy that is easy for you to run and customize. ([Demo](http://proxy.donttrustrobots.nl/), [Source Code](https://github.com/swiperproxy/swiperproxy)) `MIT`
   * [Tinyproxy](https://banu.com/tinyproxy/) - Light-weight HTTP/HTTPS proxy daemon. ([Source Code](https://git.banu.com/tinyproxy/)) `GPLv2` `C`
-  * [Traefik](https://traefik.io/) - Træfɪk is a modern HTTP reverse proxy and load balancer made to deploy microservices with ease. It supports several backends (Docker, Swarm, Mesos/Marathon, …) to manage its configuration automatically and dynamically. ([Source Code](https://github.com/containous/traefik)) `MIT` `Golang`
+  * [Traefik](https://traefik.io/) - Træfɪk is a modern HTTP reverse proxy and load balancer made to deploy microservices with ease. It supports several backends (Docker, Swarm, Mesos/Marathon, …) to manage its configuration automatically and dynamically. ([Source Code](https://github.com/containous/traefik)) `MIT` `Go`
   * [Pound](http://www.apsis.ch/pound/) - Light-weight reverse proxy and load balancer for HTTP/HTTPS. ([Source Code](http://www.apsis.ch/pound/)) `GPLv2` `C`
 
 ## Read it Later Lists
@@ -925,11 +925,11 @@ See also [Documentation Generators](#documentation-generators), [Wikimatrix](htt
   * [FreedomBone](https://github.com/bashrc/freedombone) - Home server configuration based on Debian. `GPLv3` `Shell`
   * [FreedomBox](https://wiki.debian.org/FreedomBox) - A community project to develop, design and promote personal servers running free software for private, personal, communications. `GPLv3` `Python/Other`
   * [Piratebox](https://piratebox.cc/start) - A DIY anonymous offline file-sharing and communications system built with free software and inexpensive off-the-shelf hardware. ([Source Code](https://github.com/PirateBox-Dev)). `GPLv3` `Python/Other`
-  * [Puffin](http://puffin.rocks/) - Lightweight webapp catalog based on containers, with user interface à la mobile app store. ([Demo](http://puffin.rocks/), [Source Code](https://github.com/puffinrocks/puffin)) `AGPL` `Python/Docker`
+  * [Puffin](http://puffin.rocks/) - Lightweight webapp catalog based on containers, with user interface à la mobile app store. ([Demo](http://puffin.rocks/), [Source Code](https://github.com/puffinrocks/puffin)) `AGPLv3` `Python/Docker`
   * [Sandstorm](https://sandstorm.io/) - Personal server for running self-hosted apps easily and securely. ([Demo](https://demo.sandstorm.io/), [Source Code](https://github.com/sandstorm-io/sandstorm)) `Apache` `C++/Other`
   * [sovereign](https://github.com/sovereign/sovereign) - A set of Ansible playbooks to build and maintain your own private cloud: email, calendar, contacts, file sync, IRC bouncer, VPN, and more. `GPLv3` `YAML/Other`
   * [UBOS](http://ubos.net/) - Linux distro that runs on indie boxes (personal servers and IoT devices). Single-command installation and management of apps - Jenkins, Mediawiki, Owncloud, Wordpress, etc., - and other [features](http://ubos.net/about/).`GPLv3` `Perl/Other`
-  * [yunohost](https://yunohost.org/) - A server operating system aiming to make self-hosting accessible to everyone. ([Source Code](https://github.com/YunoHost)) `AGPL` `Python/Other`
+  * [yunohost](https://yunohost.org/) - A server operating system aiming to make self-hosting accessible to everyone. ([Source Code](https://github.com/YunoHost)) `AGPLv3` `Python/Other`
 
 <!-- END SOFTWARE LIST -->
 
@@ -989,8 +989,8 @@ This list is under the [Creative Commons Attribution-ShareAlike 3.0 Unported](LI
 
 The list of contributors can be found below
 
-    245	nodiscc <nodiscc@gmail.com>
-    222	Edward D <ed.kickball@hotmail.com>
+    264	nodiscc <nodiscc@gmail.com>
+    223	Edward D <ed.kickball@hotmail.com>
     42	Andrew <AndyR207@users.noreply.github.com>
     31	Kovah <mail@kovah.de>
     22	Kickball <ed.kickball@hotmail.com>
@@ -998,7 +998,9 @@ The list of contributors can be found below
     10	Thomas Dalichow <2012-02-05.github.com@thomasdalichow.de>
     10	cave beat <cave@cavebeat.org>
     9	Joubert RedRat <eu+github@redrat.com.br>
+    8	CooperBarrett <anthony.lhuissier@openmailbox.org>
     7	Andrew Peng <pengc99@gmail.com>
+    7	Andrew Rylatt <AndyR207@users.noreply.github.com>
     7	Hammy Havoc <hammy@splitanatom.com>
     7	Thomas Dalichow <info@thomasdalichow.de>
     7	n1trux <n1trux@users.noreply.github.com>
@@ -1009,7 +1011,6 @@ The list of contributors can be found below
     5	Moti Korets <moti.kor@gmail.com>
     5	cave <cavebeat@users.noreply.github.com>
     4	Andrew <andrew@rylatt.me>
-    4	Andrew Rylatt <AndyR207@users.noreply.github.com>
     4	AndrewCz <smacz42@users.noreply.github.com>
     4	Cory Gibbons <hello@corygibbons.com>
     4	Dominik Pfaffenbauer <dominik@lineofcode.at>
@@ -1021,6 +1022,7 @@ The list of contributors can be found below
     4	Valmik <mail@valmik.in>
     4	dattaz <taz@dattaz.fr>
     4	paddo <mail@patrickrichter.net>
+    3	Aguay <baraise.valentin@gmail.com>
     3	Akhyar Amarullah <akhyrul@gmail.com>
     3	Chris McCormick <chris@mccormick.cx>
     3	Conor O'Callaghan <brioscaibriste@users.noreply.github.com>
@@ -1053,6 +1055,7 @@ The list of contributors can be found below
     2	Costin Moise <necenzurat@gmail.com>
     2	David Leonard <david@appliedtrust.com>
     2	David Wayne Baxter <dbxt@users.noreply.github.com>
+    2	Derek Viera <ma.dmviera01@gmail.com>
     2	Deryck <dhenson02@users.noreply.github.com>
     2	Greg V <greg@unrelenting.technology>
     2	Henry Ruhs <info@redaxmedia.com>
@@ -1069,12 +1072,15 @@ The list of contributors can be found below
     2	Patrik Ragnarsson <patrik@starkast.net>
     2	Peter Ivanov <peter@microweber.com>
     2	Peter Thaleikis <spekulatius@users.noreply.github.com>
+    2	Pierre Ozoux <pierre@ozoux.net>
     2	Poorchop <Poorchop@users.noreply.github.com>
     2	ReadmeCritic <frankensteinbot@gmail.com>
     2	Ricardo Torres <ricardo@rictorres.com.br>
     2	Roland Geider <roland@geider.net>
+    2	Ryan Mulligan <ryan@ryantm.com>
     2	Sam Tuke <mail@samtuke.com>
     2	Sameer Al-Sakran <salsakran@users.noreply.github.com>
+    2	Shane Cooke <shanecooke@mac.com>
     2	Simon Vieille <simon@deblan.fr>
     2	Stefane Fermigier <sf@fermigier.com>
     2	Stefano <sabas88@gmail.com>
@@ -1083,11 +1089,14 @@ The list of contributors can be found below
     2	cornerot <cornerot@gmail.com>
     2	cron410 <cron410@gmail.com>
     2	jimykk <JimyKK@users.noreply.github.com>
+    2	markkrj <markkrj@users.noreply.github.com>
     2	rafael-santiago <voidbrainvoid@gmail.com>
     2	thomasfrivold <thomas.frivold@gmail.com>
     2	tillarnold <throwable42@gmail.com>
     2	tomc3 <wordoftheday003@gmail.com>
     2	yuche <i@yuche.me>
+    1	Alashov Berkeli <yunus.alashow@gmail.com>
+    1	Alex Fornuto <alex@fornuto.com>
     1	Alys <alice.harris@oldgods.net>
     1	Andrew Murray <radarhere@gmail.com>
     1	Angel Velasquez <angvp@archlinux.org>
@@ -1100,18 +1109,21 @@ The list of contributors can be found below
     1	Chema <neo22s@gmail.com>
     1	Craig Davison <craig@davison.io>
     1	Dan <rocks.in.the.cloud@gmail.com>
+    1	David Baldwynn <whitef0x0@users.noreply.github.com>
     1	Dirk Krause <dirkk0@googlemail.com>
     1	Dmitriy Volkov <wldhx+vcs+github_com@wldhx.me>
     1	Doğan Çelik <dogancelik@users.noreply.github.com>
     1	Dražen Lučanin <kermit666@gmail.com>
     1	Eren Hatırnaz <erenhatirnaz@hotmail.com.tr>
+    1	Ethan Madden <crazeh.monkeh@gmail.com>
+    1	Felix Bartels <felix@host-consultants.de>
     1	Florian Kaiser <florian.kaiser@fnkr.net>
     1	Florian Wilhelm <f.wilhelm@tarent.de>
     1	Gabriel Cossette <gabriel.cossette@gmail.com>
     1	Igor Antun <IgorAntun@users.noreply.github.com>
     1	Izac Lorimer <izaclorimer@users.noreply.github.com>
     1	Jan <jayphizzle@users.noreply.github.com>
-    1	Jarek Lipski <loomchild@loomchild.net>
+    1	Jarek Lipski <pub@loomchild.net>
     1	Jean Menezes da Rocha <jean@menezesdarocha.info>
     1	Jeremiah Marks <jeremiah@jlmarks.org>
     1	Joel Calado <joelcalado@gmail.com>
@@ -1119,7 +1131,9 @@ The list of contributors can be found below
     1	Joshua Hamilton <joshua.hamilton@fabricut.com>
     1	José Castro <cogurov@gmail.com>
     1	Julien Bisconti <julien.bisconti@gmail.com>
+    1	Julien Reichardt <jul.reich43@opmbx.org>
     1	Justin O'Reilly <justin@oreilly.me>
+    1	Jérémie Astori <jeremie@astori.fr>
     1	Keith Thibodeaux <kthib89+github@gmail.com>
     1	Keith Thibodeaux <kthibodeaux@peachtreebilling.com>
     1	Keyhaku <jones@bious.fr>
@@ -1127,11 +1141,14 @@ The list of contributors can be found below
     1	Liran Tal <liran.tal@gmail.com>
     1	Madhu GB <github@madhugb.com>
     1	Madhu GB <me@madhugb.com>
+    1	Marc Laporte <marc@laporte.name>
     1	Marcin Karpezo <m.karpezo@nencki.gov.pl>
     1	Marcus Ramberg <marcus@nordaaker.com>
     1	Mark Ide <mark@cranstonide.com>
     1	MatFluor <MatFluor@users.noreply.github.com>
     1	Matt Hazinski <matt@matthazinski.com>
+    1	Matt Lee <mattl@users.noreply.github.com>
+    1	Matteo Piccina <matteo@beiphone.it>
     1	Michael Burns <michael@mirwin.net>
     1	Mike Steele <mike@steel.fm>
     1	Morris Jobke <hey@morrisjobke.de>
@@ -1149,10 +1166,12 @@ The list of contributors can be found below
     1	Riddler <Iamjithin@live.com>
     1	Roberto Rosario <roberto.rosario.gonzalez@gmail.com>
     1	Ryan Halliday <ry167@ry167.com>
+    1	Starbeamrainbowlabs <sbrl@starbeamrainbowlabs.com>
     1	Stefan Bohacek <stefan.bohacek@gmail.com>
     1	Stefan Bohacek <stefan@fourtonfish.com>
     1	Stefan Weil <sw@weilnetz.de>
     1	Sylvain Boily <sylvainboilydroid@gmail.com>
+    1	The Scorpion <tehscorpion@users.noreply.github.com>
     1	Tobias Zeising <tobias.zeising@aditu.de>
     1	benmaynard11 <allowin-217941-github@vhost244.maynardnetworks.com>
     1	bricej13 <bricej13@gmail.com>
@@ -1170,5 +1189,3 @@ The list of contributors can be found below
     1	stevesbrain <stevesbrain@users.noreply.github.com>
     1	ttoups <ich@timotoups.de>
     1	wxcafé <wxcafe@wxcafe.net>
-
-
