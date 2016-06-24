@@ -111,11 +111,13 @@ _Business Intelligence_
 
   * [Alltube](http://www.alltubedownload.net) - A web interface for [youtube-dl](https://github.com/rg3/youtube-dl), a program to download videos and audio from [more than 100 websites](https://rg3.github.io/youtube-dl/supportedsites.html). ([Demo](http://www.alltubedownload.net), [Source Code](https://github.com/Rudloff/alltube)) `GPL` `PHP`
   * [AmIUnique](https://amiunique.org/) - Learn how identifiable you are on the Internet (browser fingerprinting tool). ([Source code](https://github.com/DIVERSIFY-project/amiunique) `MIT` `Java`
+  * [CouchPotato](https://couchpota.to/) - CouchPotato is an automatic Video Library Manager for Movies. Automatic torrent/nzb searching, downloading, and processing at the qualities you want. ([Source Code](https://github.com/CouchPotato/CouchPotatoServer/)) `GPLv3` `Python`
   * [Headphones](https://github.com/rembo10/headphones) - An automated music downloader for NZB and Torrent, written in Python. It supports SABnzbd, NZBget, Transmission, µTorrent, Deluge and Blackhole. `GPLv3` `Python`
   * [Healthchecks](https://healthchecks.io/) - Django app which listens for pings and sends alerts when pings are late. ([Source Code](https://github.com/healthchecks/healthchecks)) `BSD` `Python`
   * [Huginn](https://github.com/cantino/huginn) - Allows you to build agents that monitor and act on your behalf - `MIT` `Ruby`
   * [Http2pic](https://http2pic.haschek.at/) - Website screenshots/renderer. It uses the wkhtmltox to render websites with various options. ([Source Code](https://github.com/chrisiaut/http2pic)) `Apache 2.0` `PHP/Javascript`
   * [RSS-Bridge](https://github.com/sebsauvage/rss-bridge) - rss-bridge is a PHP project capable of generating ATOM feeds for websites which don't have one. `Public domain` `PHP`
+  * [SickRage](http://sickrage.github.io/) - SickRage is an automatic Video Library Manager for TV Shows. Automatic torrent/nzb searching, downloading, and processing at the qualities you want. ([Source Code](https://github.com/SickRage/SickRage/)) `GPLv3` `Python`
   * [TriggerHappy](http://trigger-happy.eu/) - An opensource clone of IFTTT, a bridge between your internet services. ([Source Code](https://github.com/foxmask/django-th)) `BSD` `Python`
   * [WTFDYUM](https://github.com/jchampemont/WTFDYUM) a.k.a Why The Fuck Did You Unfollow Me - Find out who stops following you on Twitter. ([Demo](https://www.wtfdyu.me/), [Source Code](https://github.com/jchampemont/WTFDYUM)) `Apache` `Java`
 
@@ -478,6 +480,7 @@ Some [Groupware](#groupware) solutions also feature file sharing and synchroniza
 
   * [Git Annex](http://git-annex.branchable.com/assistant/quickstart/) - File synchronization between computers, servers, external drives
   * [Kinto](https://kinto.readthedocs.org) - Kinto is a minimalist JSON storage service with synchronisation and sharing abilities. ([Source Code](https://github.com/Kinto)) `Apache 2.0` `Python`
+  * [Nextcloud](https://nextcloud.com/) - Access & share your files, calendars, contacts, mail & more from any device, on your terms. ([Source Code](https://github.com/nextcloud/server)) `MIT` `PHP`
   * [OpenSSH/SFTP](http://www.openssh.com/) - Secure File Transfer Program. ([Source Code](http://cvsweb.openbsd.org/cgi-bin/cvsweb/src/usr.bin/ssh)) `BSD` `C`
   * [Samba](https://www.samba.org/) - Samba is the standard Windows interoperability suite of programs for Linux and Unix. It provides secure, stable and fast file and print services for all clients using the SMB/CIFS protocol. ([Source Code](https://git.samba.org/samba.git/)) `GPLv3` `C`
   * [Seafile](https://www.seafile.com/en/home/) - File hosting and sharing solution primary for teams and organizations. ([Demo](https://seacloud.cc/demo)) `GPLv2`
@@ -527,6 +530,8 @@ Some [Groupware](#groupware) solutions also feature file sharing and synchroniza
 
   * [Apaxy](http://adamwhitcroft.com/apaxy/) - Theme built to enhance the experience of browsing web directories, using the mod_autoindex Apache module and some CSS to override the default style of a directory listing. ([Source Code](https://github.com/AdamWhitcroft/Apaxy) `Public domain` `CSS`
   * [eXtplorer](http://extplorer.sourceforge.net/) - A PHP and JavaScript based File Manager
+  * [explorer](https://github.com/soyuka/explorer) - Highly-configurable directory listing made with nodejs. ([Source Code](https://github.com/soyuka/explorer))`MIT` `Nodejs`
+  * [goBrowser](https://github.com/xataz/gobrowser) Simple http file browser. ([Source Code](https://github.com/xataz/gobrowser)) `GPLv3` `Go`
   * [h5ai](https://larsjung.de/h5ai/) - Modern file indexer for HTTP web servers with focus on your files. Directories are displayed in a appealing way and browsing them is enhanced by different views, a breadcrumb and a tree overview. ([Demo](https://larsjung.de/h5ai/demo/), [Source Code](https://github.com/lrsjng/h5ai)) `MIT` `PHP/Javascript`
   * [ResourceSpace](http://www.resourcespace.org) - ResourceSpace open source digital asset management software is the simple, fast, & free way to organise your digital assets. ([Demo](http://www.resourcespace.org/trial), [Source Code](http://www.resourcespace.org/svn)) `BSD/Other` `PHP`
   * [Sprut.io](https://sprut.io) - 2 panel file manager with drag and drop features, code editor, text search, hotkeys. ([Demo](https://demo.sprut.io:9443), [Source Code](https://github.com/LTD-Beget/sprutio)) `GPLv3` `Python`
