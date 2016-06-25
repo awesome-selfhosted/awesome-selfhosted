@@ -52,6 +52,7 @@
 ## Project Management
   * [Active Collab](https://www.activecollab.com/) - Project management  - `⊘ Proprietary` `PHP`
   * [Duet](https://duetapp.com/) - `⊘ Proprietary` Invoicing and project management with an integrated client portal. ([Demo](https://duetapp.com/demo/#dashboard)) `PHP`
+  * [Solo](http://www.getsoloapp.com/) - Solo is a free project management app created for freelancers. Create contacts, manage tasks, upload files, track project progress, and keep notes. ([Demo](http://www.getsoloapp.com/demo/)) `PHP`
 
 ## Self-hosting Solutions
   * [Axigen](https://www.axigen.com/mail-server/free/) - `⊘ Proprietary` Great alternative to open source. It's a turnkey messaging solution, perfect for small & micro businesses, integration projects or test environments.
