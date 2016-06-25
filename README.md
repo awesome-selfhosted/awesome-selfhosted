@@ -223,7 +223,7 @@ _MTAs / SMTP servers_
 * [Maildrop](https://github.com/m242/maildrop) - Disposable email SMTP server, also useful for development. `MIT` `Scala`
 * [OpenSMTPD](https://opensmtpd.org/) - Secure SMTP server implementation from the OpenBSD project. `ISC`
 * [Postfix](http://www.postfix.org/) - Fast, easy to administer, and secure Sendmail replacement. `IPL` `C`
-* [Qmail](http://www.qmail.org/top.html) - Secure Sendmail replacement. `CC0` `C`
+* [Qmail](http://www.qmail.org/top.html) - Secure Sendmail replacement. ([Source Code](https://sources.debian.net/src/netqmail/1.06-5/)) `CC0` `C`
 * [Sendmail](http://www.sendmail.com/sm/open_source/) - Message transfer agent (MTA).
 * [Slimta](http://slimta.org) - Mail Transfer Library built on Python. ([Source Code](https://github.com/slimta/python-slimta)) `MIT License` `Python`
 
