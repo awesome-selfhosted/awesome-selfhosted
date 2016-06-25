@@ -51,6 +51,7 @@
 
 ## Project Management
   * [Active Collab](https://www.activecollab.com/) - Project management  - `⊘ Proprietary` `PHP`
+  * [Duet](https://duetapp.com/) `⊘ Proprietary`  - Invoicing and project management with an integrated client portal   ([Demo](https://duetapp.com/demo/#dashboard)) `PHP`
 
 ## Self-hosting Solutions
   * [Axigen](https://www.axigen.com/mail-server/free/) - `⊘ Proprietary` Great alternative to open source. It's a turnkey messaging solution, perfect for small & micro businesses, integration projects or test environments.
