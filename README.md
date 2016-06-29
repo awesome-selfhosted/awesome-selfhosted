@@ -870,6 +870,7 @@ See https://staticsitegenerators.net and https://www.staticgen.com
   * [HuBoard](https://github.com/huboard/huboard) `⚠ ` – Instant project management for your GitHub issues (Connects directly GitHub API) `MIT` `Ruby`
   * [MantisBT](https://www.mantisbt.org/) - Self hosted bug tracker, fits best for software development. ([Demo](https://www.mantisbt.org/bugs/my_view_page.php)), ([Source Code](https://github.com/mantisbt/mantisbt)) `GPLv2`
   * [TheBugGenie](http://www.thebuggenie.com) - Ticket system with extensive user rights system.
+  * [iTop](http://www.combodo.com/itop) - Open Source ITSM Ticketing and CMDB management tools.. ([Demo](http://www.combodo.com/itop-access-to-the-demonstration), [Source Code](https://sourceforge.net/projects/itop/files/)) `AGPL (v3)` `PHP + MySQL`
 
 ## URL Shorteners
 
