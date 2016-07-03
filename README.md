@@ -525,6 +525,8 @@ Some [Groupware](#groupware) solutions also feature file sharing and synchroniza
   * [Up1](https://github.com/Upload/Up1) - A Client-side Encrypted Image Host. ([Demo](https://up1.ca/)) `MIT` `Nodejs`
   * [uPste](https://u.pste.pw) - A private file hosting application with an emphasis on serving technology communities. ([Source Code](https://github.com/TheReverend403/uPste)) `AGPLv3` `PHP`
   * [YouTransfer](http://www.youtransfer.io) - YouTransfer is a simple but elegant self-hosted file transfer & sharing solution. ([Demo](http://demo.youtransfer.io/), [Source Code](https://github.com/remie/YouTransfer)) `Apache` `Nodejs`
+  * [transfer.sh](https://transfer.sh) - Easy file sharing from the command line. ([Demo](https://transfer.sh), [Source Code](https://github.com/dutchcoders/transfer.sh)) `MIT` `Go`
+  * [Jirafeau](http://www.jirafeau.net) - Jirafeau is a web site permitting to upload a file in a simple way and give an unique link to it.. ([Source Code](https://gitlab.com/mojo42/Jirafeau)) `AGPLv3` `PHP`
 
 
 #### Web based file managers
