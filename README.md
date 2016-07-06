@@ -555,6 +555,7 @@ Some [Groupware](#groupware) solutions also feature file sharing and synchroniza
 
   * [GateOne](https://github.com/liftoff/GateOne/) - Gate One is an HTML5 web-based terminal emulator and SSH client. - `AGPLv3`
   * [Guacamole](http://guac-dev.org/) - Guacamole is a clientless remote desktop gateway. It supports standard protocols like VNC and RDP. ([Source Code](https://github.com/glyptodon/)) `MIT` `Java/C`
+  * [KeyBox](http://sshkeybox.com/) - KeyBox is an open-source web-based SSH console that centrally manages administrative access to systems. - `Apache v2` `Java`
 
 
 ## Groupware
