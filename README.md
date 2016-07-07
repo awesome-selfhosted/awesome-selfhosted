@@ -117,6 +117,7 @@ _Business Intelligence_
   * [Healthchecks](https://healthchecks.io/) - Django app which listens for pings and sends alerts when pings are late. ([Source Code](https://github.com/healthchecks/healthchecks)) `BSD` `Python`
   * [Huginn](https://github.com/cantino/huginn) - Allows you to build agents that monitor and act on your behalf - `MIT` `Ruby`
   * [Http2pic](https://http2pic.haschek.at/) - Website screenshots/renderer. It uses the wkhtmltox to render websites with various options. ([Source Code](https://github.com/chrisiaut/http2pic)) `Apache 2.0` `PHP/Javascript`
+  * [openHAB](http://www.openhab.org) - Vendor and technology agnostic open source software for home automation. ([Source Code](https://github.com/openhab/openhab)) `EPLv1` `Java`
   * [RSS-Bridge](https://github.com/sebsauvage/rss-bridge) - rss-bridge is a PHP project capable of generating ATOM feeds for websites which don't have one. `Public domain` `PHP`
   * [SickRage](http://sickrage.github.io/) - SickRage is an automatic Video Library Manager for TV Shows. Automatic torrent/nzb searching, downloading, and processing at the qualities you want. ([Source Code](https://github.com/SickRage/SickRage/)) `GPLv3` `Python`
   * [TriggerHappy](http://trigger-happy.eu/) - An opensource clone of IFTTT, a bridge between your internet services. ([Source Code](https://github.com/foxmask/django-th)) `BSD` `Python`
@@ -1123,6 +1124,7 @@ The list of contributors can be found below
     1	Felix Bartels <felix@host-consultants.de>
     1	Florian Kaiser <florian.kaiser@fnkr.net>
     1	Florian Wilhelm <f.wilhelm@tarent.de>
+    1	FortressBuilder <FortressBuilder@users.noreply.github.com>
     1	Gabriel Cossette <gabriel.cossette@gmail.com>
     1	Igor Antun <IgorAntun@users.noreply.github.com>
     1	Izac Lorimer <izaclorimer@users.noreply.github.com>
