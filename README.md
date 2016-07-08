@@ -1167,7 +1167,7 @@ The list of contributors can be found below
     1	Paul <paul@rosanbo.com>
     1	Pavel Lobashov <ShockwaveNN@gmail.com>
     1	Pavel Lobashov <shockwavenn@gmail.com>
-    1 Peter Limbach <peter.limbach@gmail.com>
+    1	Peter Limbach <peter.limbach@gmail.com>
     1	Peter van den Hurk <runical1991@gmail.com>
     1	Phill <phill@formbet.co.uk>
     1	Remy Adriaanse <remy@adriaanse.it>
