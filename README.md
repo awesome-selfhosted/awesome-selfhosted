@@ -95,6 +95,7 @@ _Web Analytics_
 
   * [AWStats](http://www.awstats.org/) - Generates web, streaming, ftp or mail server statistics graphically. ([Source Code](https://github.com/eldy/awstats)) `GPLv3` `Perl`
   * [Countly](https://count.ly) - Real time mobile & web analytics, crash reporting and push notifications platform. ([Source Code](https://github.com/countly)) `AGPLv3` `Javascript`
+  * [ClickHouse](https://clickhouse.yandex/) - An open-source column-oriented database management system that allows generating analytical data reports in real time. ([Source Code](https://github.com/yandex/ClickHouse)) `Apache` `C++` 
   * [Druid](http://druid.io/) - A distributed, column-oriented, real-time analytics data store. ([Source Code](https://github.com/druid-io/druid/)) `Apache` `Java`
   * [GoAccess](http://goaccess.io/) - Real-time web log analyzer and interactive viewer that runs in a terminal. ([Source Code](https://github.com/allinurl/goaccess)) `GPLv2` `C`
   * [Open Web Analytics](http://www.openwebanalytics.com/) - Google Analytics and Piwik alternative. ([Source Code](https://github.com/padams/Open-Web-Analytics/)) `GPL` `PHP`
@@ -1077,6 +1078,7 @@ The list of contributors can be found below
     2	Nicolas Carlier <n.carlier@nunux.org>
     2	Patrik Ragnarsson <patrik@starkast.net>
     2	Peter Ivanov <peter@microweber.com>
+    2	Peter Limbach <peter.limbach@gmail.com>
     2	Peter Thaleikis <spekulatius@users.noreply.github.com>
     2	Pierre Ozoux <pierre@ozoux.net>
     2	Poorchop <Poorchop@users.noreply.github.com>
