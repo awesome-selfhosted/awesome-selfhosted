@@ -94,11 +94,13 @@ See [Contributing](#contributing).
 _Web Analytics_
 
   * [AWStats](http://www.awstats.org/) - Generates web, streaming, ftp or mail server statistics graphically. ([Source Code](https://github.com/eldy/awstats)) `GPLv3` `Perl`
+  * [ClickHouse](https://clickhouse.yandex/) - An open-source column-oriented database management system that allows generating analytical data reports in real time. ([Source Code](https://github.com/yandex/ClickHouse)) `Apache` `C++` 
   * [Countly](https://count.ly) - Real time mobile & web analytics, crash reporting and push notifications platform. ([Source Code](https://github.com/countly)) `AGPLv3` `Javascript`
   * [Druid](http://druid.io/) - A distributed, column-oriented, real-time analytics data store. ([Source Code](https://github.com/druid-io/druid/)) `Apache` `Java`
   * [GoAccess](http://goaccess.io/) - Real-time web log analyzer and interactive viewer that runs in a terminal. ([Source Code](https://github.com/allinurl/goaccess)) `GPLv2` `C`
   * [Open Web Analytics](http://www.openwebanalytics.com/) - Google Analytics and Piwik alternative. ([Source Code](https://github.com/padams/Open-Web-Analytics/)) `GPL` `PHP`
   * [Piwik](https://piwik.org/) - Leading open-source analytics platform that gives you more than just powerful analytics. ([Source Code](https://github.com/piwik/)) `GPLv3` `PHP`
+  * [Sentry] (https://getsentry.com/) - A modern error logging and aggregation platform. ([Source Code] (https://github.com/getsentry/sentry)) `BSD` `Python`
   * [Snowplow](http://snowplowanalytics.com/) - Have every single event, from your websites, mobile apps, desktop applications and server-side systems, stored in your own data warehouse and available to action in real-time. ([Source Code](https://github.com/snowplow/)) `Apache` `Scala`
   * [ThinkUp](https://www.thinkup.com/) - Insights into your social networking activity on Twitter, Facebook, Instagram, and beyond. ([Source Code](https://github.com/ThinkUpLLC/ThinkUp)) `GPL` `PHP`
   * [Webalizer](http://www.webalizer.org/) - Fast web server log file analysis. `GPL` `C`
@@ -1077,6 +1079,7 @@ The list of contributors can be found below
     2	Nicolas Carlier <n.carlier@nunux.org>
     2	Patrik Ragnarsson <patrik@starkast.net>
     2	Peter Ivanov <peter@microweber.com>
+    2	Peter Limbach <peter.limbach@gmail.com>
     2	Peter Thaleikis <spekulatius@users.noreply.github.com>
     2	Pierre Ozoux <pierre@ozoux.net>
     2	Poorchop <Poorchop@users.noreply.github.com>
