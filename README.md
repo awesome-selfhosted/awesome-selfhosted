@@ -99,6 +99,7 @@ _Web Analytics_
   * [GoAccess](http://goaccess.io/) - Real-time web log analyzer and interactive viewer that runs in a terminal. ([Source Code](https://github.com/allinurl/goaccess)) `GPLv2` `C`
   * [Open Web Analytics](http://www.openwebanalytics.com/) - Google Analytics and Piwik alternative. ([Source Code](https://github.com/padams/Open-Web-Analytics/)) `GPL` `PHP`
   * [Piwik](https://piwik.org/) - Leading open-source analytics platform that gives you more than just powerful analytics. ([Source Code](https://github.com/piwik/)) `GPLv3` `PHP`
+  * [Sentry] (https://getsentry.com/) - A modern error logging and aggregation platform. ([Source Code] (https://github.com/getsentry/sentry)) `BSD` `Python`
   * [Snowplow](http://snowplowanalytics.com/) - Have every single event, from your websites, mobile apps, desktop applications and server-side systems, stored in your own data warehouse and available to action in real-time. ([Source Code](https://github.com/snowplow/)) `Apache` `Scala`
   * [ThinkUp](https://www.thinkup.com/) - Insights into your social networking activity on Twitter, Facebook, Instagram, and beyond. ([Source Code](https://github.com/ThinkUpLLC/ThinkUp)) `GPL` `PHP`
   * [Webalizer](http://www.webalizer.org/) - Fast web server log file analysis. `GPL` `C`
@@ -1167,6 +1168,7 @@ The list of contributors can be found below
     1	Pavel Lobashov <ShockwaveNN@gmail.com>
     1	Pavel Lobashov <shockwavenn@gmail.com>
     1	Peter van den Hurk <runical1991@gmail.com>
+    1	Peter Limbach <peter.limbach@gmail.com>
     1	Phill <phill@formbet.co.uk>
     1	Remy Adriaanse <remy@adriaanse.it>
     1	Remy Honig <remyhonig@users.noreply.github.com>
