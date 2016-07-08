@@ -94,6 +94,7 @@ See [Contributing](#contributing).
 _Web Analytics_
 
   * [AWStats](http://www.awstats.org/) - Generates web, streaming, ftp or mail server statistics graphically. ([Source Code](https://github.com/eldy/awstats)) `GPLv3` `Perl`
+  * [ClickHouse](https://clickhouse.yandex/) - An open-source column-oriented database management system that allows generating analytical data reports in real time. ([Source Code](https://github.com/yandex/ClickHouse)) `Apache` `C++` 
   * [Countly](https://count.ly) - Real time mobile & web analytics, crash reporting and push notifications platform. ([Source Code](https://github.com/countly)) `AGPLv3` `Javascript`
   * [Druid](http://druid.io/) - A distributed, column-oriented, real-time analytics data store. ([Source Code](https://github.com/druid-io/druid/)) `Apache` `Java`
   * [GoAccess](http://goaccess.io/) - Real-time web log analyzer and interactive viewer that runs in a terminal. ([Source Code](https://github.com/allinurl/goaccess)) `GPLv2` `C`
@@ -1078,6 +1079,7 @@ The list of contributors can be found below
     2	Nicolas Carlier <n.carlier@nunux.org>
     2	Patrik Ragnarsson <patrik@starkast.net>
     2	Peter Ivanov <peter@microweber.com>
+    2	Peter Limbach <peter.limbach@gmail.com>
     2	Peter Thaleikis <spekulatius@users.noreply.github.com>
     2	Pierre Ozoux <pierre@ozoux.net>
     2	Poorchop <Poorchop@users.noreply.github.com>
@@ -1167,7 +1169,6 @@ The list of contributors can be found below
     1	Paul <paul@rosanbo.com>
     1	Pavel Lobashov <ShockwaveNN@gmail.com>
     1	Pavel Lobashov <shockwavenn@gmail.com>
-    1	Peter Limbach <peter.limbach@gmail.com>
     1	Peter van den Hurk <runical1991@gmail.com>
     1	Phill <phill@formbet.co.uk>
     1	Remy Adriaanse <remy@adriaanse.it>
