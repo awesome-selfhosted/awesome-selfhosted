@@ -291,7 +291,7 @@ _Mass mailing software - one message to many recipients_
 ### IPBX
 
  *[IPBX](https://en.wikipedia.org/wiki/IP_PBX) telephony software*
- 
+
   * [Elastix](http://www.elastix.org) - Unified communications server software based on Asterisk. ([Source Code](https://svn.code.sf.net/p/elastix/code/trunk/)) `GPLv2` `PHP`
   * [Freepbx](http://www.freepbx.org) - Web-based open source GUI that controls and manages Asterisk. ([Source Code](http://git.freepbx.org/projects/FREEPBX)) `GPLv2` `PHP`
   * [XiVO](http://www.xivo.io) - Unified communications server software based on Asterisk. ([Source Code](https://github.com/xivo-pbx)) `GPLv3` `Python`
@@ -541,7 +541,7 @@ Some [Groupware](#groupware) solutions also feature file sharing and synchroniza
   * [h5ai](https://larsjung.de/h5ai/) - Modern file indexer for HTTP web servers with focus on your files. Directories are displayed in a appealing way and browsing them is enhanced by different views, a breadcrumb and a tree overview. ([Demo](https://larsjung.de/h5ai/demo/), [Source Code](https://github.com/lrsjng/h5ai)) `MIT` `PHP/Javascript`
   * [ResourceSpace](http://www.resourcespace.org) - ResourceSpace open source digital asset management software is the simple, fast, & free way to organise your digital assets. ([Demo](http://www.resourcespace.org/trial), [Source Code](http://www.resourcespace.org/svn)) `BSD/Other` `PHP`
   * [Sprut.io](https://sprut.io) - 2 panel file manager with drag and drop features, code editor, text search, hotkeys. ([Demo](https://demo.sprut.io:9443), [Source Code](https://github.com/LTD-Beget/sprutio)) `GPLv3` `Python`
-  
+
 
 
 ## Games
@@ -827,11 +827,11 @@ See **[Ticketing](#ticketing)**
 
 ### Documentation Generators
 
-  * [daux.io](https://github.com/justinwalsh/daux.io) - Daux.io is an documentation generator that uses a simple folder structure and Markdown files to create custom documentation on the fly. It helps you create great looking documentation in a developer friendly way. `MIT`
+See also [Static site generators](#static-site-generators)
+
   * [Docstore](http://haldean.org/) - A basic site for hosting static documents - docstore is a simple way to serve Markdown files without any server-side processing, and without requiring you (as the author) to recompile every time you change an article. It consists of a very simple JS script that makes an ajax request to your server, runs a Markdown processor on what it finds, and then displays the results. Clone the repository and add articles in the text/ directory to get started. ([Source Code](https://github.com/haldean/docstore))
   * [Flatdoc](http://ricostacruz.com/flatdoc/) - A small JavaScript file that fetches Markdown files and renders them as full pages. `MIT` `Javascript`
   * [markdown-tree](https://github.com/mil/markdown-tree) - Serve a hierarchy / tree directory of markdown files. Use intended for small sites built in markdown
-  * [MdWiki](https://dynalon.github.io/mdwiki/#!index.md) - A Markdown CMS/Wiki completely built in HTML5/Javascript and runs 100% on the client. ([Source Code](https://github.com/Dynalon/mdwiki))
   * [Read the Docs](https://docs.readthedocs.org/en/latest/install.html) - Host documentation, making it fully searchable and easy to find; import your docs using any major version control system, including Mercurial, Git, Subversion, and Bazaar. ([Demo](https://readthedocs.org/projects/), [Source Code](https://github.com/rtfd/readthedocs.org)) `MIT` `Python`
 
 
