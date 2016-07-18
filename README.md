@@ -102,7 +102,7 @@ _Web Analytics_
   * [Snowplow](http://snowplowanalytics.com/) - Have every single event, from your websites, mobile apps, desktop applications and server-side systems, stored in your own data warehouse and available to action in real-time. ([Source Code](https://github.com/snowplow/)) `Apache` `Scala`
   * [ThinkUp](https://www.thinkup.com/) - Insights into your social networking activity on Twitter, Facebook, Instagram, and beyond. ([Source Code](https://github.com/ThinkUpLLC/ThinkUp)) `GPL` `PHP`
   * [Webalizer](http://www.webalizer.org/) - Fast web server log file analysis. `GPL` `C`
-  * [netdata](https://github.com/firehol/netdata) Real-time performance monitoring, done right! ([Demo](http://my-netdata.io/)
+  * [netdata](https://github.com/firehol/netdata) Real-time performance monitoring, done right! ([Demo](http://my-netdata.io/))
 
 _Business Intelligence_
 
