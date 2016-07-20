@@ -289,7 +289,7 @@ _Mass mailing software - one message to many recipients_
 ### IPBX
 
  *[IPBX](https://en.wikipedia.org/wiki/IP_PBX) telephony software*
- 
+
   * [Elastix](http://www.elastix.org) - Unified communications server software based on Asterisk. ([Source Code](https://svn.code.sf.net/p/elastix/code/trunk/)) `GPLv2` `PHP`
   * [Freepbx](http://www.freepbx.org) - Web-based open source GUI. (graphical user interface) that controls and manages Asterisk. ([Source Code](http://git.freepbx.org/projects/FREEPBX)) `GPLv2` `PHP`
   * [XiVO](http://www.xivo.io) - Unified communications server software based on Asterisk. ([Source Code](https://github.com/xivo-pbx)) `GPLv3` `Python`
@@ -552,10 +552,9 @@ Some [Groupware](#groupware) solutions also feature file sharing and synchroniza
 
 
 ## Gateways
-
+  * [KeyBox](http://sshkeybox.com/) - KeyBox is an open-source web-based SSH console that centrally manages administrative access to systems. - `Apache v2` `Java`
   * [GateOne](https://github.com/liftoff/GateOne/) - Gate One is an HTML5 web-based terminal emulator and SSH client. - `AGPLv3`
   * [Guacamole](http://guac-dev.org/) - Guacamole is a clientless remote desktop gateway. It supports standard protocols like VNC and RDP. ([Source Code](https://github.com/glyptodon/)) `MIT` `Java/C`
-  * [KeyBox](http://sshkeybox.com/) - KeyBox is an open-source web-based SSH console that centrally manages administrative access to systems. - `Apache v2` `Java`
 
 
 ## Groupware
