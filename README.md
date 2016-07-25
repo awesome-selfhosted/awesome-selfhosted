@@ -549,6 +549,7 @@ Some [Groupware](#groupware) solutions also feature file sharing and synchroniza
   * [20euros](https://github.com/jatekos101/20euros) - Clone of 2048 game with euros. - Unlicensed
   * [Agar.IO Clone](https://github.com/huytd/agar.io-clone) - Agar.io clone written with Socket.IO and HTML5 canvas - `MIT`
   * [Cubiks-2048](https://github.com/Kshitij-Banerjee/Cubiks-2048) - Clone of 2048 game in 3D. - `CCANC 4.0`
+  * [PokémonGo Map](https://jz6.github.io/PoGoMap/) `⚠` - Visualizes Pokémons, Gyms and Pokéstops from the mobile game *Pokémon Go* on a map.  ([Source Code](https://github.com/AHAAAAAAA/PokemonGo-Map)) `AGPLv3` `Python`
   * [TournamentMango](http://tournamentmango.com/) - TournamentMango is an open source tournament bracket and user management system. You can build an archive of players and keep track of all their scores over time as well as their regular characters, games, and aliases. ([Source Code](https://github.com/seiyria/tournamentmango)) `MIT` `Javascript`
 
 
@@ -589,7 +590,6 @@ Some [Groupware](#groupware) solutions also feature file sharing and synchroniza
   * [Graphhopper](https://graphhopper.com/) - Fast routing library and server using OpenStreetMap. ([Source Code](https://github.com/graphhopper/graphhopper))
   * [MapBBCodeShare](https://github.com/MapBBCode/share.mapbbcode.org) - Tool for sharing custom OSM maps. Support for annotated markers, polygons, lines, multi-format import/export, multiple layers, shortlinks... ([Demo](http://share.mapbbcode.org/)) `WTFPL/Other` `PHP/Javascript`
   * [Openstreetmap](http://www.openstreetmap.org/) - OpenStreetMap is a map of the world, created by people like you and free to use under an open license. ([Source Code](https://github.com/openstreetmap/openstreetmap-website))
-  * [PokémonGo Map](https://jz6.github.io/PoGoMap/) - Visualizes Pokémons, Gyms and Pokéstops from the mobile game *Pokémon Go* on a map.  ([Source Code](https://github.com/AHAAAAAAA/PokemonGo-Map)) `AGPLv3` `Python`
   * [Traccar](https://www.traccar.org/) - Java application to track GPS positions. Supports loads of tracking devices and protocols, has an Android and iOS App. Has a web interface to view your trips. ([Demo](http://demo.traccar.org/), [Source Code](https://github.com/tananaev?tab=repositories)) `Apache`
   * [uMap](https://umap.openstreetmap.fr/en/) - Create maps with OpenStreetMap layers in a minute and embed them in your site. ([Source Code](https://github.com/umap-project/umap)) `WTFPL` `Python/Django`
 
