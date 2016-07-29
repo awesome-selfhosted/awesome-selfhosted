@@ -33,6 +33,7 @@ See [Contributing](#contributing).
       - [XMPP Web Clients](#xmpp-web-clients)
   - [Content Management Systems (CMS)](#content-management-systems-cms)
     - [E-commerce](#e-commerce)
+    - [Digital Signage](#digital-signage)
   - [DNS](#dns)
   - [Document Archiving](#document-archiving)
   - [Enterprise Resource Planning](#enterprise-resource-planning)
@@ -406,6 +407,10 @@ _Recipe management_
 * [WooCommerce](https://www.woothemes.com/woocommerce/) - WordPress based e-commerce solution. ([Source Code](https://github.com/woothemes/woocommerce)) `GPL` `PHP`
 
 
+### digital-signage
+* [Xibo](http://xibo.org.uk/) - Xibo is a complete digital signage solution ([Source Code](https://github.com/xibosignage/xibo)) `AGPLv3` `PHP`
+
+
 ## DNS
 
 See https://github.com/n1trux/awesome-sysadmin#dns
@@ -556,6 +561,7 @@ Some [Groupware](#groupware) solutions also feature file sharing and synchroniza
 
   * [GateOne](https://github.com/liftoff/GateOne/) - Gate One is an HTML5 web-based terminal emulator and SSH client. - `AGPLv3`
   * [Guacamole](http://guac-dev.org/) - Guacamole is a clientless remote desktop gateway. It supports standard protocols like VNC and RDP. ([Source Code](https://github.com/glyptodon/)) `MIT` `Java/C`
+  * [KeyBox](http://sshkeybox.com/) - KeyBox is an open-source web-based SSH console that centrally manages administrative access to systems. - `Apache v2` `Java`
 
 
 ## Groupware
