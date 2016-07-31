@@ -874,16 +874,17 @@ See https://staticsitegenerators.net and https://www.staticgen.com
 
 *See also [Task management/To-do lists](#task-managementto-do-lists) and [Project Management](#project-management)*
 
-  * [osTicket](http://osticket.com/) - Simple support ticket system.
-  * [OTRS](http://www.otrs.com/) - Trouble ticket system for assigning tickets to incoming queries and tracking further communications.
-  * [Request Tracker](https://www.bestpractical.com/rt/) - Ticket-tracking system written in Perl.
   * [Bugzilla](https://www.bugzilla.org/) - General-purpose bugtracker and testing tool originally developed and used by the Mozilla project. `MPLv2` `Perl`
   * [Bumpy Booby](http://bumpy-booby.derivoile.fr/) - A simple, responsive and highly customizable PHP bug tracking system. ([Source Code](https://github.com/piero-la-lune/Bumpy-Booby)) `MIT` `PHP`
   * [Cerb](http://www.cerberusweb.com/) - Group-based e-mail management project.
+  * [DiamanteDesk](http://diamantedesk.com/) - DiamanteDesk is FREE Open Source easy-to-use help-desk solution. ([Demo](http://diamantedesk.com/demo/), [Source Code](https://github.com/eltrino/diamantedesk-application)) `OSLv3` `PHP`
   * [Flyspray](http://www.flyspray.org/) - Uncomplicated, web-based bug tracking system. ([Source Code](https://github.com/Flyspray/flyspray)) `GPLv2`
   * [Gaskit](https://github.com/bkeepers/gaskit) - A git-backed issue tracker. It uses a branch in your local git database to store the tickets. `GPL`
   * [HuBoard](https://github.com/huboard/huboard) `⚠ ` – Instant project management for your GitHub issues (Connects directly GitHub API) `MIT` `Ruby`
   * [MantisBT](https://www.mantisbt.org/) - Self hosted bug tracker, fits best for software development. ([Demo](https://www.mantisbt.org/bugs/my_view_page.php)), ([Source Code](https://github.com/mantisbt/mantisbt)) `GPLv2`
+  * [osTicket](http://osticket.com/) - Simple support ticket system.
+  * [OTRS](http://www.otrs.com/) - Trouble ticket system for assigning tickets to incoming queries and tracking further communications.
+  * [Request Tracker](https://www.bestpractical.com/rt/) - Ticket-tracking system written in Perl.
   * [TheBugGenie](http://www.thebuggenie.com) - Ticket system with extensive user rights system.
 
 ## URL Shorteners
@@ -974,6 +975,7 @@ See also [Documentation Generators](#documentation-generators), [Wikimatrix](htt
  * `LGPLv3` - [Lesser General Public License 3.0](http://opensource.org/licenses/LGPL-3.0)
  * `MIT` - [MIT License](http://opensource.org/licenses/MIT)
  * `MPLv2` - [Mozilla Public License](https://www.mozilla.org/MPL/2.0/index.txt)
+ * `OSLv3` - [Open Software License 3.0](https://opensource.org/licenses/osl-3.0.php)
  * `Zope` - [Zope Public License 2.0](http://opensource.org/licenses/ZPL-2.0)
 
 
