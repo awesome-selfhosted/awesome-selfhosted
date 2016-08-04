@@ -555,6 +555,7 @@ Some [Groupware](#groupware) solutions also feature file sharing and synchroniza
   * [A Dark Room](https://github.com/doublespeakgames/adarkroom) - A minimalist text adventure game for your browser. ([Demo](http://adarkroom.doublespeakgames.com/)) `MPLv2` `HTML5`
   * [Hextris](https://github.com/Hextris/hextris) - Fast paced HTML5 puzzle game inspired by Tetris! ([Demo](https://github.com/Hextris/hextris)) `GPLv3` `HTML5`
   * [TournamentMango](http://tournamentmango.com/) - TournamentMango is an open source tournament bracket and user management system. You can build an archive of players and keep track of all their scores over time as well as their regular characters, games, and aliases. ([Source Code](https://github.com/seiyria/tournamentmango)) `MIT` `Javascript`
+  * [untrusted](https://github.com/AlexNisnevich/untrusted) - A meta-JavaScript adventure game by Alex Nisnevich and Greg Shuflin. ([Demo](http://alex.nisnevich.com/untrusted/)) `CCANCSAv3/Custom` `Nodejs`
 
 
 ## Gateways
