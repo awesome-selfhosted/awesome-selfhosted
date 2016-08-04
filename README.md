@@ -46,6 +46,7 @@ See [Contributing](#contributing).
       - [Web based file managers](#web-based-file-managers)
   - [Games](#games)
   - [Gateways](#gateways)
+  - [Geneaology](#geneaology)
   - [Groupware](#groupware)
   - [Learning and Courses](#learning-and-courses)
   - [Maps & GPS](#maps--gps)
@@ -557,6 +558,11 @@ Some [Groupware](#groupware) solutions also feature file sharing and synchroniza
 
   * [GateOne](https://github.com/liftoff/GateOne/) - Gate One is an HTML5 web-based terminal emulator and SSH client. - `AGPLv3`
   * [Guacamole](http://guac-dev.org/) - Guacamole is a clientless remote desktop gateway. It supports standard protocols like VNC and RDP. ([Source Code](https://github.com/glyptodon/)) `MIT` `Java/C`
+
+
+## Geneaology
+
+  * [webtrees](https://www.webtrees.net) - webtrees is the web's leading on-line collaborative genealogy application. ([Demo](https://dev.webtrees.net/demo-stable/index.php?ctype=gedcom&ged=demo), [Source Code](https://github.com/fisharebest/webtrees)) `GPLv3` `PHP`
 
 
 ## Groupware
