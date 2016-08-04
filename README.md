@@ -958,6 +958,7 @@ See also [Documentation Generators](#documentation-generators), [Wikimatrix](htt
  * `Apache` - [Apache, Version 2.0](http://www.apache.org/licenses/)
  * `ARTv2` - [Artistic License Version 2.0](http://opensource.org/licenses/Artistic-2.0)
  * `BSD` - [FreeBSD License](https://www.freebsd.org/copyright/license.html)
+ * `CCANCSAv3` [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported](https://creativecommons.org/licenses/by-nc-sa/3.0/)
  * `CC0` - [Public Domain](https://creativecommons.org/about/cc0/)
  * `CeCILL-B` - [CEA CNRS INRIA Logiciel Libre](http://www.cecill.info/licences/Licence_CeCILL-B_V1-en.txt)
  * `CPALv1` - [Common Public Attribution License Version 1.0](http://opensource.org/licenses/CPAL-1.0)
