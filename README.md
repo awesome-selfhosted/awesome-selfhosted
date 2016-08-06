@@ -151,6 +151,7 @@ See also [Static Site Generators](#static-site-generators), [Content Management 
   * [Lobsters](https://lobste.rs) - Run your own link aggregation site. ([Source Code](https://github.com/jcs/lobsters)) `BSD` `Ruby`
   * [Myyna](http://www.myyna.com/) - Open source alternative to Pinterest. ([Demo](http://demo.myyna.com/), [Source Code](https://github.com/cubettech/myyna)) `MIT` `Nodejs`
   * [No Fuss Bookmarks](http://nofussbm.herokuapp.com/signup.html) - Very simple software and service to store bookmarks especially designed for hackers (that don't need fancy interfaces, but nice API). ([Source Code](https://github.com/mapio/nofussbm)) `GPLv3` `Python`
+  * [PHP QR Code](http://phpqrcode.sourceforge.net/) - PHP QR Code is open source (LGPL) library for generating QR Code, 2-dimensional barcode. ([Demo](http://phpqrcode.sourceforge.net/#demo), [Source Code](https://sourceforge.net/projects/phpqrcode/)) `LGPLv3` `PHP`
   * [Pinry](http://getpinry.com/) - The tiling image board system for people who want to save, tag, and share images, videos, and webpages. ([Source Code](https://github.com/pinry/pinry)) `BSD` `Python`
   * [Scuttle](https://github.com/scronide/scuttle) - Web-based social bookmarking system. Allows multiple users to store, share and tag their favourite links. `GPLv2` `PHP`
   * [Shaarli](https://github.com/shaarli/Shaarli) - Personal, minimalist, super-fast, no-database bookmarking and link sharing plaform. ([Demo](http://shaarlidemo.tuxfamily.org/Shaarli/) `demo/demo`) `Zlib` `PHP`
