@@ -99,6 +99,7 @@ _Web Analytics_
   * [GoAccess](http://goaccess.io/) - Real-time web log analyzer and interactive viewer that runs in a terminal. ([Source Code](https://github.com/allinurl/goaccess)) `GPLv2` `C`
   * [Open Web Analytics](http://www.openwebanalytics.com/) - Google Analytics and Piwik alternative. ([Source Code](https://github.com/padams/Open-Web-Analytics/)) `GPL` `PHP`
   * [Piwik](https://piwik.org/) - Leading open-source analytics platform that gives you more than just powerful analytics. ([Source Code](https://github.com/piwik/)) `GPLv3` `PHP`
+  * [Serposcope](https://serposcope.serphacker.com/) - Serposcope is a free and open-source rank tracker to monitor websites ranking in Google and improve your SEO performances. ([Source Code](https://github.com/serphacker/serposcope)) `MIT` `Java`
   * [Snowplow](http://snowplowanalytics.com/) - Have every single event, from your websites, mobile apps, desktop applications and server-side systems, stored in your own data warehouse and available to action in real-time. ([Source Code](https://github.com/snowplow/)) `Apache` `Scala`
   * [ThinkUp](https://www.thinkup.com/) - Insights into your social networking activity on Twitter, Facebook, Instagram, and beyond. ([Source Code](https://github.com/ThinkUpLLC/ThinkUp)) `GPL` `PHP`
   * [Webalizer](http://www.webalizer.org/) - Fast web server log file analysis. `GPL` `C`
@@ -120,6 +121,7 @@ _Business Intelligence_
   * [openHAB](http://www.openhab.org) - Vendor and technology agnostic open source software for home automation. ([Source Code](https://github.com/openhab/openhab)) `EPLv1` `Java`
   * [RSS-Bridge](https://github.com/sebsauvage/rss-bridge) - rss-bridge is a PHP project capable of generating ATOM feeds for websites which don't have one. `Public domain` `PHP`
   * [SickRage](http://sickrage.github.io/) - SickRage is an automatic Video Library Manager for TV Shows. Automatic torrent/nzb searching, downloading, and processing at the qualities you want. ([Source Code](https://github.com/SickRage/SickRage/)) `GPLv3` `Python`
+  * [Sonarr](https://sonarr.tv/) - An automatic TV Shows downloader and manager for Usenet and BitTorrent. It can grab, sort and rename new episodes and automatically upgrade the quality of files already downloaded when a better quality format becomes available. ([Source Code](https://github.com/Sonarr/Sonarr)) `GPLv3` `C#`
   * [TriggerHappy](http://trigger-happy.eu/) - An opensource clone of IFTTT, a bridge between your internet services. ([Source Code](https://github.com/foxmask/django-th)) `BSD` `Python`
   * [WTFDYUM](https://github.com/jchampemont/WTFDYUM) a.k.a Why The Fuck Did You Unfollow Me - Find out who stops following you on Twitter. ([Demo](https://www.wtfdyu.me/), [Source Code](https://github.com/jchampemont/WTFDYUM)) `Apache` `Java`
 
@@ -148,10 +150,9 @@ See also [Static Site Generators](#static-site-generators), [Content Management 
   * [Firefox Accounts Server](https://docs.services.mozilla.com/howtos/run-fxa.html)
    * [Firefox Sync Server](https://docs.services.mozilla.com/howtos/run-sync-1.5.html) - Sync Firefox bookmarks, passwords, history, tabs, preferences. ([Source Code](https://github.com/mozilla-services/syncserver)) `MPLv2` `Python`
   * [Lobsters](https://lobste.rs) - Run your own link aggregation site. ([Source Code](https://github.com/jcs/lobsters)) `BSD` `Ruby`
-  * [Myyna](http://www.myyna.com/) - Open source alternative to Pinterest. ([Demo](http://demo.myyna.com/), [Source Code](https://github.com/cubettech/myyna)) `MIT` `Nodejs`
   * [No Fuss Bookmarks](http://nofussbm.herokuapp.com/signup.html) - Very simple software and service to store bookmarks especially designed for hackers (that don't need fancy interfaces, but nice API). ([Source Code](https://github.com/mapio/nofussbm)) `GPLv3` `Python`
+  * [PHP QR Code](http://phpqrcode.sourceforge.net/) - PHP QR Code is open source (LGPL) library for generating QR Code, 2-dimensional barcode. ([Demo](http://phpqrcode.sourceforge.net/#demo), [Source Code](https://sourceforge.net/projects/phpqrcode/)) `LGPLv3` `PHP`
   * [Pinry](http://getpinry.com/) - The tiling image board system for people who want to save, tag, and share images, videos, and webpages. ([Source Code](https://github.com/pinry/pinry)) `BSD` `Python`
-  * [Scuttle](https://github.com/scronide/scuttle) - Web-based social bookmarking system. Allows multiple users to store, share and tag their favourite links. `GPLv2` `PHP`
   * [Shaarli](https://github.com/shaarli/Shaarli) - Personal, minimalist, super-fast, no-database bookmarking and link sharing plaform. ([Demo](http://shaarlidemo.tuxfamily.org/Shaarli/) `demo/demo`) `Zlib` `PHP`
   * [unmark](https://unmark.it/) - An open source to do app for links. ([Source Code](https://github.com/plainmade/unmark)) `MIT` `PHP`
 
@@ -160,7 +161,7 @@ See also [Static Site Generators](#static-site-generators), [Content Management 
 
 Some [Groupware](#groupware) solutions also feature calendar/address book editing and synchronization.
 
-  * [AgenDAV](http://agendav.org/) - Multilanguage CalDAV web client with a rich AJAX interface and shared calendars support. [Source Code](https://github.com/adobo/agendav) `GPLv3` `PHP`
+  * [AgenDAV](http://agendav.org/) - Multilanguage CalDAV web client with a rich AJAX interface and shared calendars support. ([Source Code](https://github.com/adobo/agendav)) `GPLv3` `PHP`
   * [Baïkal](http://baikal-server.com/) - Lightweight CalDAV+CardDAV server. ([Source Code](https://github.com/fruux/Baikal)) `GPLv3` `PHP`
   * [CalendarServer](http://trac.calendarserver.org/) - A standards-compliant server implementing the CalDAV and CardDAV protocols. `Apache` `Python`
   * [calypso](http://keithp.com/calypso/) - A python-based CalDAV/CardDAV server. ([Source Code](http://keithp.com/cgi-bin/gitweb.cgi?p=calypso.git;a=tree)) `GPLv3` `Python`
@@ -386,6 +387,7 @@ CMS are a practical way to setup a website with many features. CMS often come wi
   * [SilverStripe](https://www.silverstripe.org) - Easy to use CMS with powerful MVC framework underlying. ([Demo](http://demo.silverstripe.org/), [Source Code](https://github.com/silverstripe)) `BSD` `PHP`
   * [Sphido](http://www.sphido.org/) - A fast, lightweight, flat file CMS for PHP. ([Source Code](https://github.com/sphido/cms)) `MIT` `PHP`
   * [SPIP](http://www.spip.net/fr) - Publication system for the Internet aimed at collaborative work, multilingual environments, and simplicity of use for web authors. ([Source Code](https://core.spip.net/projects/spip/repository)) `GPLv2` `PHP`
+  * [Subrion](http://www.subrion.org) - Subrion is a free open source content management system that allows you to build websites for any purpose. Yes, from blog to corporate mega portal. ([Demo](http://demos.subrion.com), [Source Code](https://github.com/intelliants/subrion)) `GPLv3` `PHP`
   * [Textpattern](http://textpattern.com/) - A flexible, elegant and easy-to-use CMS. ([Demo](http://textpattern.co/demo), [Source Code](https://github.com/textpattern/textpattern)) `GPLv2` `PHP`
   * [TYPO3](https://typo3.org/) - A powerful and advanced CMS with a large community. ([Source Code](https://github.com/TYPO3/TYPO3.CMS)) `GPLv2` `PHP`
   * [Wordpress](https://wordpress.org/) - The worlds most-used blogging and CMS engine. ([Source code mirror](https://github.com/WordPress/WordPress)) `GPLv2`
@@ -437,7 +439,6 @@ See https://github.com/n1trux/awesome-sysadmin#dns
 
 ## Feed Readers
 
-  * [Cacocloud](https://github.com/Cacodaimon/CacoCloud) - A simple, fast and secure PHP/AngularJS based feed and mail reader, password and bookmark manager.
   * [CommaFeed](https://www.commafeed.com/) - Google Reader inspired self-hosted RSS reader. ([Source Code](https://github.com/Athou/commafeed))
   * [Creaky Coot](https://github.com/piero-la-lune/Creaky-Coot) - Minimalist and responsive RSS reader and links saver
   * [Feedbin](https://feedbin.com/) - A simple, fast and nice looking RSS reader. ([Source Code](https://github.com/feedbin/feedbin))
@@ -726,7 +727,6 @@ See https://github.com/n1trux/awesome-sysadmin#monitoring and https://github.com
 ## Photo and Video Galleries
 
   * [CumulusClips](http://cumulusclips.org/) - Your own video sharing website with CumulusClips video sharing script. You can build a YouTube clone where users can upload, rate, comment on videos, and much more.  `GPLv2` `PHP` ([Demo](https://tube.devosi.org/))
-  * [Gallery](http://galleryproject.org/) - The simplest, most intuitive way to host your photos on your website. ([Source Code](https://github.com/gallery/gallery3)) `GPLv2` `PHP`
   * [Koken](http://koken.me/) - Content management and web site publishing for photographers. `PHP`
   * [Lychee](http://lychee.electerious.com/) - An open source grid and album based photo-management-system. ([Source Code](https://github.com/electerious/Lychee)) `MIT` `PHP`
   * [MediaDrop](http://mediadrop.net/) - A video, audio and podcast publication platform. ([Source Code](https://github.com/mediadrop/mediadrop)) `GPLv3` `Python`
@@ -856,7 +856,7 @@ See https://staticsitegenerators.net and https://www.staticgen.com
 
   * [bulldog](https://github.com/infews/bulldog) - HTML5 task manager, built on todo.txt. `MIT` `HTML5`
   * [Crepido](https://github.com/arshad/crepido) - Create (kanban) boards to track users and projects from flat markdown files. `MIT` `Javascript/Others`
-  * [Kanboard](http://kanboard.net/) - A simple and open source visual task board. `AGPLv3`
+  * [Kanboard](http://kanboard.net/) - A simple and open source visual task board. `MIT`
   * [myTinyTodo](http://www.mytinytodo.net/) - Simple way to manage your todo list in AJAX style. Uses PHP, jQuery, SQLite/MySQL. GTD compliant. `GPL`
   * [omgnata](https://github.com/chr15m/omgnata) - Mobile friendly zero-feature TODO list web app. Unix philosophy. ([Demo](https://chr15m.github.io/omgnata/)) `GPLv3` `ClojureScript`
   * [Restyaboard](http://restya.com/board/) - Open source Trello-like kanban board. ([Demo](http://restya.com/board/demo.html), [Source Code](https://github.com/RestyaPlatform/board)) `OSL v3.0` `PHP`
@@ -1209,3 +1209,4 @@ The list of contributors can be found below
     1	stevesbrain <stevesbrain@users.noreply.github.com>
     1	ttoups <ich@timotoups.de>
     1	wxcafé <wxcafe@wxcafe.net>
+
