@@ -52,7 +52,7 @@ See [Contributing](#contributing).
   - [Media Streaming](#media-streaming)
       - [Audio Streaming](#audio-streaming)
       - [Video Streaming](#video-streaming)
-  - [Mind Maps](#mind-maps)
+  - [Misc/Other](#misc-other)
   - [Money, Budgeting and Management](#money-budgeting-and-management)
   - [Monitoring](#monitoring)
   - [Note-taking & Editors](#note-taking--editors)
@@ -628,9 +628,11 @@ See also <https://en.wikipedia.org/wiki/List_of_streaming_media_systems>, <https
   * [Zoneminder](https://github.com/ZoneMinder/ZoneMinder) - Closed-circuit television (CCTV) software application which supports IP, USB and Analog cameras. `GPLv2` `PHP`
 
 
-## Mind Maps
+## Misc/Other
 
- * [Mindmaps](https://github.com/drichard/mindmaps) - An open source, offline capable, mind mapping application. ([Demo](http://drichard.org/mindmaps/))
+  * [GeneWeb](https://geneweb.tuxfamily.org/wiki/GeneWeb) - GeneWeb is an open source genealogy software written in OCaml. It comes with a Web interface and can be used off-line or as a Web service. ([Demo](https://demo.geneweb.tuxfamily.org/gw7/), [Source Code](https://github.com/geneweb/geneweb)) `GPLv2` `OCAML`
+  * [Mindmaps](https://github.com/drichard/mindmaps) - An open source, offline capable, mind mapping application. ([Demo](http://drichard.org/mindmaps/)) `AGPLv3` `HTML5`
+  * [webtrees](https://www.webtrees.net) - webtrees is the web's leading on-line collaborative genealogy application. ([Demo](https://dev.webtrees.net/demo-stable/index.php?ctype=gedcom&ged=demo), [Source Code](https://github.com/fisharebest/webtrees)) `GPLv3` `PHP`
 
 
 ## Money, Budgeting and Management
@@ -985,6 +987,7 @@ See also [Documentation Generators](#documentation-generators), [Wikimatrix](htt
 ## Contributing
 
  * To **add an entry**: clone/[download](https://github.com/Kickball/awesome-selfhosted/archive/master.zip) and enter the repository, run `make add` and follow the instructions; or [edit the README.md file](https://github.com/Kickball/awesome-selfhosted/edit/master/README.md) directly. See [Editing files in another user's repository](https://help.github.com/articles/editing-files-in-another-user-s-repository/), [Creating Pull Requests](https://help.github.com/articles/creating-a-pull-request/), [Using Pull Requests](https://help.github.com/articles/using-pull-requests/) for help on sending your patch.
+ * Minimum of 3 entries to start a new category.  Otherwise add to the Misc/Other category.
  * The **syntax** for links is ``[Name](http://homepage/) - Short description. ([Demo](http://url.to/demo), [Source Code](http://url.of/source/code)) `License` `Language` ``. All projects should have their **license** and main server-side **language**/platform/requirement listed, and a description at most 250 characters long.
  * Non-[Free](https://en.wikipedia.org/wiki/Free_software) software must be marked `⊘ Proprietary` next to the title, and added to [non-free.md](non-free.md)
  * Software with no development activity for 6-12 months may be removed from the list.
