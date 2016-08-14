@@ -891,6 +891,7 @@ See https://staticsitegenerators.net and https://www.staticgen.com
   * [OTRS](http://www.otrs.com/) - Trouble ticket system for assigning tickets to incoming queries and tracking further communications.
   * [Request Tracker](https://www.bestpractical.com/rt/) - Ticket-tracking system written in Perl.
   * [TheBugGenie](http://www.thebuggenie.com) - Ticket system with extensive user rights system.
+  * [iTop](http://www.combodo.com/itop) - Open Source ITSM Ticketing and CMDB management tools.. ([Demo](http://www.combodo.com/itop-access-to-the-demonstration), [Source Code](https://sourceforge.net/projects/itop/files/)) `AGPL (v3)` `PHP + MySQL`
 
 ## URL Shorteners
 
