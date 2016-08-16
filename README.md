@@ -52,7 +52,7 @@ See [Contributing](#contributing).
   - [Media Streaming](#media-streaming)
       - [Audio Streaming](#audio-streaming)
       - [Video Streaming](#video-streaming)
-  - [Misc/Other](#misc-other)
+  - [Misc/Other](#miscother)
   - [Money, Budgeting and Management](#money-budgeting-and-management)
   - [Monitoring](#monitoring)
   - [Note-taking & Editors](#note-taking--editors)
