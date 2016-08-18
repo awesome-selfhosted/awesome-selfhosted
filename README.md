@@ -108,6 +108,7 @@ _Business Intelligence_
 
   * [Metabase](http://www.metabase.com/) - Simple Dashboarding and GUI Query tool, Nightly Emails and Slack Integration w/ PostgreSQL, MySQL, Redshift and other DBs. ([Source Code](https://github.com/metabase/metabase)) `AGPLv3` `Clojure`
 
+
 ## Automation
 
   * [Alltube](http://www.alltubedownload.net) - A web interface for [youtube-dl](https://github.com/rg3/youtube-dl), a program to download videos and audio from [more than 100 websites](https://rg3.github.io/youtube-dl/supportedsites.html). ([Demo](http://www.alltubedownload.net), [Source Code](https://github.com/Rudloff/alltube)) `GPL` `PHP`
@@ -201,7 +202,6 @@ Some [Groupware](#groupware) solutions also feature calendar/address book editin
   * [Tuber](https://blog.trailofbits.com/2015/12/15/self-hosted-video-chat-with-tuber/) - Peer-to-peer video chat that works. ([Source Code](https://github.com/trailofbits/tubertc)) `MIT` `JavaScript`
   * [Zulip](https://zulip.org) - Zulip is a powerful, open source group chat application. ([Source Code](https://github.com/zulip/zulip)) `Apache 2.0/Other` `Python/Django`
 
-
 ### Email
 
 #### Complete solutions
@@ -213,7 +213,6 @@ _simple deployment of a mail server, e.g. for inexperienced or impatient admins.
   * [iRedMail](http://www.iredmail.org/) - Full-featured mail server solution based on Postfix and Dovecot. ([Source Code](https://bitbucket.org/zhb/iredmail/commits/)) `GPLv3` `Shell`
   * [Citadel](http://www.citadel.org/) - Feature packed, easy, versatile, and powerful mail server, thanks to exclusive "rooms" based architecture. ([Source Code](http://code.citadel.org/?p=citadel.git;a=summary)) `GPLv3` `C`
   * [Modoboa](http://modoboa.org/en/) - Modoboa is a mail hosting and management platform including a modern and simplified Web User Interface. ([Source Code](https://github.com/tonioo/modoboa)) `MIT` `Python`
-
 
 #### Mail Transfer Agents
 
@@ -230,7 +229,6 @@ _MTAs / SMTP servers_
 * [Sendmail](http://www.sendmail.com/sm/open_source/) - Message transfer agent (MTA).
 * [Slimta](http://slimta.org) - Mail Transfer Library built on Python. ([Source Code](https://github.com/slimta/python-slimta)) `MIT License` `Python`
 
-
 #### Mail Delivery Agents
 
 _MDAs - IMAP/POP3 software_
@@ -238,7 +236,6 @@ _MDAs - IMAP/POP3 software_
 * [Cyrus IMAP/POP3](http://cyrusimap.org/) - Intended to be run on sealed servers, where normal users are not permitted to log in.
 * [Dovecot](http://www.dovecot.org/) - IMAP and POP3 server written primarily with security in mind. ([Source Code](https://github.com/dovecot/core)) `MIT / LGPLv2` `C`
 * [Piler](http://www.mailpiler.org/wiki/start) - feature rich open source email archiving solution. ([Source Code](https://bitbucket.org/jsuto/piler)) `GPLv3` `C`
-
 
 #### Mailing lists
 
@@ -255,7 +252,6 @@ _Mass mailing software - one message to many recipients_
   * [Mautic](https://www.mautic.org/) - Mautic is marketing automation software (email, social & more). ([Source Code](https://github.com/mautic/mautic)) `GPLv3` `PHP`
   * [phpList](https://phplist.org) - Newsletter and email marketing with advanced management of subscribers, bounces, and plugins. ([Source Code](https://github.com/phpList/)) `AGPLv3` `PHP`
 
-
 #### Webmail clients
 
   * [Cypht](http://cypht.org/index.html) - A feed reader for your email accounts. ([Source Code](https://github.com/jasonmunro/hm3)) `GPLv2` `PHP`
@@ -264,7 +260,6 @@ _Mass mailing software - one message to many recipients_
   * [Roundcube](https://roundcube.net) - Browser-based IMAP client with an application-like user interface. ([Screenshots](https://roundcube.net/screens/)) ([Source Code](https://github.com/roundcube/roundcubemail/)) `GPLv3` `PHP`
   * [SquirrelMail](http://squirrelmail.org) - Another browser-based IMAP client. ([Source Code](https://sourceforge.net/p/squirrelmail/code/HEAD/tree/)) `GPLv2` `PHP`
   * [WebMail Lite](http://www.afterlogic.org/webmail-lite) - Web-based IMAP Mail client. ([Source Code](https://github.com/afterlogic/webmail-lite)) `GPLv3` `PHP`
-
 
 ### IRC
 
@@ -277,7 +272,6 @@ _Mass mailing software - one message to many recipients_
   * [The Lounge](https://thelounge.github.io/) - The self-hosted web IRC client. ([Demo](https://avatar.playat.ch:1000/), [Source Code](https://github.com/thelounge/lounge)) `MIT` `Nodejs`
   * [Weechat](https://weechat.org/) - A fast, light and extensible chat client. `GPLv3` `C`
   * [ZNC](http://wiki.znc.in/ZNC) - An advanced IRC bouncer. ([Source Code](https://github.com/znc/znc)) `Apache` `C++`
-
 
 ### SIP
 
@@ -329,7 +323,6 @@ _Mass mailing software - one message to many recipients_
   * [twister](http://twister.net.co/) - Fully decentralized P2P microblogging platform leveraging  the free software implementations of Bitcoin and BitTorrent protocols. ([Source Code](https://github.com/miguelfreitas/twister-core)) `BSD/MIT` `C++`
   * [Vanilla Forums](https://vanillaforums.org/) - Simple and flexible forum software. ([Source Code](https://github.com/vanilla/vanilla)) `GPLv2` `PHP`
 
-
 ### XMPP
 
 _[Extensible Messaging and Presence Protocol](https://en.wikipedia.org/wiki/XMPP) software_
@@ -342,7 +335,6 @@ _[Extensible Messaging and Presence Protocol](https://en.wikipedia.org/wiki/XMPP
   * [Openfire](http://www.igniterealtime.org/projects/openfire/) - Real time collaboration (RTC) server. ([Source Code](https://github.com/igniterealtime/Openfire)) `Apache` `Java`
   * [Prosody IM](http://prosody.im/) - Feature-rich and easy to configure XMPP server. ([Source Code](http://hg.prosody.im/)) `MIT` `Lua`
   * [Tigase](http://www.tigase.net/content/tigase-xmpp-server) - XMPP server implementation in Java. `Java`
-
 
 #### XMPP Web Clients
 
@@ -413,6 +405,7 @@ _Recipe management_
 
 See https://github.com/n1trux/awesome-sysadmin#dns
 
+
 ## Document Archiving
 
   * [CUPS](https://www.cups.org/) - The Common Unix Print System uses Internet Printing Protocol (IPP) to support printing to local and network printers. ([Source Code](https://www.cups.org/software.php)) `GPLv2` `C`
@@ -468,11 +461,9 @@ See https://github.com/n1trux/awesome-sysadmin#dns
     * [ttrss-reader](https://github.com/kucrut/ttrss-reader) - Light and responsive client for TTRSS. `GPLv2` `Javascript`
 
 
-
 ## File Sharing and Synchronization
 
 Some [Groupware](#groupware) solutions also feature file sharing and synchronization.
-
 
 #### Distributed filesystems
 
@@ -482,7 +473,6 @@ Some [Groupware](#groupware) solutions also feature file sharing and synchroniza
   * [Ori Filesystem](http://ori.scs.stanford.edu/) - A Secure Distributed File System built for offline operation. ([Source Code](https://bitbucket.org/orifs/ori/wiki/Home)) `MIT` `C++`
   * [Swift](http://docs.openstack.org/developer/swift/) - A highly available, distributed, eventually consistent object/blob store.
   * [Tahoe-LAFS](https://www.tahoe-lafs.org/trac/tahoe-lafs) - Tahoe-LAFS is a Free and Open decentralized cloud storage system. It distributes your data across multiple servers. Even if some of the servers fail or are taken over by an attacker, the entire file store continues to function correctly, preserving your privacy and security.
-
 
 #### File transfer/synchronization
 
@@ -500,7 +490,6 @@ Some [Groupware](#groupware) solutions also feature file sharing and synchroniza
   * [Pydio](https://pydio.com/) - Turn any web server into a powerful file management system and an alternative to mainstream cloud storage providers.
   * [Unison](https://www.cis.upenn.edu/~bcpierce/unison/) - Unison is a file-synchronization tool for OSX, Unix, and Windows. `GPLv3` `OCaml`
 
-
 #### Peer-to-peer filesharing
 
   * [FilePizza](http://file.pizza/) - Peer-to-peer file transfers in your browser. ([Source Code](https://github.com/kern/filepizza)) `BSD` `Nodejs`
@@ -508,7 +497,6 @@ Some [Groupware](#groupware) solutions also feature file sharing and synchroniza
   * [instant.io](https://github.com/feross/instant.io) - Streaming file transfer over WebTorrent. ([Demo](https://instant.io)) `MIT` `Nodejs`
   * [Opentracker](http://erdgeist.org/arts/software/opentracker/) - Open and free bittorrent tracker. It aims for minimal resource usage and is intended to run at your wlan router. ([Source Code](http://erdgeist.org/gitweb/opentracker/) `Public domain` `C`
   * [ShareFest](https://github.com/peer5/sharefest) - Web based p2p file sharing built on WebRTC Data Channels API. ([Demo](https://www.sharefest.me/)) `Apache 2.0` `Nodejs`
-
 
 #### Single-click/drag-n-drop upload
 
@@ -535,7 +523,6 @@ Some [Groupware](#groupware) solutions also feature file sharing and synchroniza
   * [uPste](https://u.pste.pw) - A private file hosting application with an emphasis on serving technology communities. ([Source Code](https://github.com/TheReverend403/uPste)) `AGPLv3` `PHP`
   * [YouTransfer](http://www.youtransfer.io) - YouTransfer is a simple but elegant self-hosted file transfer & sharing solution. ([Demo](http://demo.youtransfer.io/), [Source Code](https://github.com/remie/YouTransfer)) `Apache` `Nodejs`
 
-
 #### Web based file managers
 
   * [Apaxy](http://adamwhitcroft.com/apaxy/) - Theme built to enhance the experience of browsing web directories, using the mod_autoindex Apache module and some CSS to override the default style of a directory listing. ([Source Code](https://github.com/AdamWhitcroft/Apaxy) `Public domain` `CSS`
@@ -548,7 +535,6 @@ Some [Groupware](#groupware) solutions also feature file sharing and synchroniza
   * [Monsta FTP](http://www.monstaftp.com/) - Open source PHP/Ajax cloudware that puts FTP file management right in your browser, anywhere, any time. ([Demo](http://mftp.live/), [Source Code](https://github.com/MonstaApps/Monsta-FTP)) `GPLv3` `PHP`
   * [ResourceSpace](http://www.resourcespace.org) - ResourceSpace open source digital asset management software is the simple, fast, & free way to organise your digital assets. ([Demo](http://www.resourcespace.org/trial), [Source Code](http://www.resourcespace.org/svn)) `BSD/Other` `PHP`
   * [Sprut.io](https://sprut.io) - 2 panel file manager with drag and drop features, code editor, text search, hotkeys. ([Demo](https://demo.sprut.io:9443), [Source Code](https://github.com/LTD-Beget/sprutio)) `GPLv3` `Python`
-
 
 
 ## Games
@@ -608,7 +594,6 @@ Some [Groupware](#groupware) solutions also feature file sharing and synchroniza
 ## Media Streaming
 
 See also <https://en.wikipedia.org/wiki/List_of_streaming_media_systems>, <https://en.wikipedia.org/wiki/Comparison_of_streaming_media_systems>
-
 
 ### Audio Streaming
 
@@ -701,6 +686,7 @@ See https://github.com/n1trux/awesome-sysadmin#monitoring and https://github.com
  * [RatticDB](http://rattic.org/) - Password Management for Humans. ([Source Code](https://github.com/tildaslash/RatticWeb), [Demo](https://demo.rattic.org/cred/list/))
  * [Teampass](http://teampass.net/) - Password manager dedicated for managing passwords in a collaborative way on any server Apache, MySQL and PHP. ([Source Code](https://github.com/nilsteampassnet/TeamPass/)) `GPLv3` `PHP`
 
+
 ## Pastebins
 
   * [0bin](https://github.com/sametmax/0bin) - Client side encrypted pastebin. `WTFPL` `Python`
@@ -733,6 +719,7 @@ See https://github.com/n1trux/awesome-sysadmin#monitoring and https://github.com
   * [Thingspeak](https://thingspeak.com/) - An open source “Internet of Things” application and API to store and retrieve data from things using HTTP. ([Demo](https://thingspeak.com/channels/public), [Source Code](https://github.com/iobridge/thingspeak)) `GPL` `Ruby`
   * [Tipboard](http://allegro.tech/tipboard/) - In-house, tasty, local dashboarding system. ([Source Code](https://github.com/allegro/tipboard)) `Apache` `Python`
   * [wger](https://github.com/rolandgeider/wger) - A web-based personal workout, fitness and weight logger/tracker. It can also be used as a simple gym management utility and offers a full REST API as well. ([Demo](https://wger.de)) `AGPLv3` `Python`
+
 
 ## Photo and Video Galleries
 
@@ -881,7 +868,6 @@ See https://staticsitegenerators.net and https://www.staticgen.com
   * [Wekan](https://wekan.io/) - An open-source Trello-like kanban. ([Demo](https://oasis.sandstorm.io/appdemo/m86q05rdvj14yvn78ghaxynqz7u2svw6rnttptxx49g1785cdv1h), [Source Code](https://github.com/wekan/wekan)) `MIT` `JavaScript/Meteor`
 
 
-
 ## Ticketing
 
 *See also [Task management/To-do lists](#task-managementto-do-lists) and [Project Management](#project-management)*
@@ -899,12 +885,14 @@ See https://staticsitegenerators.net and https://www.staticgen.com
   * [Request Tracker](https://www.bestpractical.com/rt/) - Ticket-tracking system written in Perl.
   * [TheBugGenie](http://www.thebuggenie.com) - Ticket system with extensive user rights system.
 
+
 ## URL Shorteners
 
   * [Lstu](https://github.com/ldidry/lstu) - _Let's SHorten That Url_ - Lightweight URL shortener
   * [Nimbus](https://github.com/ethanal/nimbus) - A URL shortener and file sharer with a drag-and-drop OS X menu bar client and web interface - `MIT` `Python`
   * [Polr](https://project.polr.me/) - A modern, minimalist, modular, and lightweight URL shortener. ([Source Code](https://github.com/Cydrobolt/polr))
   * [YOURLS](http://yourls.org/) - YOURLS is a set of PHP scripts that will allow you to run Your Own URL Shortener. Features include password protection, URL customization, bookmarklets, statistics, API, plugins, jsonp. ([Source Code](https://github.com/YOURLS/YOURLS/), [Documentation](https://github.com/YOURLS/YOURLS/wiki)) `MIT`
+
 
 ## VPN
 
@@ -945,8 +933,6 @@ See also [Documentation Generators](#documentation-generators), [Wikimatrix](htt
   * [Wikitten](http://wikitten.vizuina.com/) - Wikitten is a small, fast, PHP wiki, and the perfect place to store your notes, code snippets, ideas, and so on. ([Source Code](https://github.com/victorstanciu/Wikitten)) `MIT` `PHP`
 
 
-------------------------------------
-
 ## Self-hosting Solutions
 
   * [arkOS](https://arkos.io/) - Install arkOS to a dedicated device and host your own websites, email, files and more. ([Source Code](https://git.coderouge.co/groups/arkOS) [[1]](https://github.com/cznweb)) `MIT/GPL` `Nodejs/Other`
@@ -960,6 +946,7 @@ See also [Documentation Generators](#documentation-generators), [Wikimatrix](htt
   * [UBOS](http://ubos.net/) - Linux distro that runs on indie boxes (personal servers and IoT devices). Single-command installation and management of apps - Jenkins, Mediawiki, Owncloud, Wordpress, etc., - and other [features](http://ubos.net/about/).`GPLv3` `Perl/Other`
   * [WikiSuite](http://WikiSuite.org) - The most comprehensive and integrated Free / Libre / Open Source software suite ever developed. ([Source Code](http://wikisuite.org/Source)) `Various` `ClearOS`
   * [yunohost](https://yunohost.org/) - A server operating system aiming to make self-hosting accessible to everyone. ([Source Code](https://github.com/YunoHost)) `AGPLv3` `Python/Other`
+
 
 <!-- END SOFTWARE LIST -->
 
