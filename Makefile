@@ -2,7 +2,7 @@
 SHELL = /bin/bash
 all: checks
 
-checks: nolicenselanguage nofullstop
+checks: nolicenselanguage nofullstop longdescriptions syntaxerrors
 
 noexternallink:
 	@echo -e "\nLines with no source/demo/other link:"
@@ -22,8 +22,12 @@ longdescriptions:
 	@sed -n -e '/BEGIN SOFTWARE LIST/,/END SOFTWARE LIST/ p' README.md | egrep --only-matching '\) - [Aa-Zz|.|\(|\)|/| |,|-]*\s\(\[' README.md | grep  '.\{257\}'
 
 listlicenses:
-	@echo -e "\n List of licenses:"
+	@echo -e "\nList of licenses:"
 	@sed -n -e '/BEGIN SOFTWARE LIST/,/END SOFTWARE LIST/ p' README.md | egrep --only-matching '([Aa0-Zz9]|\s|\.|-)*` `' README.md | sort --unique
+
+syntaxerrors:
+	@echo -e "\n Syntax errors:" 
+	@sed -n -e '/BEGIN SOFTWARE LIST/,/END SOFTWARE LIST/ p' README.md | egrep  '\)\(|``'
 
 contrib:
 	@git shortlog -sne
