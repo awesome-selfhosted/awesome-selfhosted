@@ -286,6 +286,7 @@ _Mass mailing software - one message to many recipients_
 
  *[IPBX](https://en.wikipedia.org/wiki/IP_PBX) telephony software*
 
+  * [Kazoo](http://2600hz.org/) - KAZOO is an open-source, highly scalable software platform designed to provide carrier-grade VoIP switch functions and features.  ([Source Code](https://github.com/2600hz/KAZOO)) `MPLv1.1` `Erlang`
   * [Elastix](http://www.elastix.org) - Unified communications server software based on Asterisk. ([Source Code](https://svn.code.sf.net/p/elastix/code/trunk/)) `GPLv2` `PHP`
   * [Freepbx](http://www.freepbx.org) - Web-based open source GUI that controls and manages Asterisk. ([Source Code](http://git.freepbx.org/projects/FREEPBX)) `GPLv2` `PHP`
   * [XiVO](http://www.xivo.io) - Unified communications server software based on Asterisk. ([Source Code](https://github.com/xivo-pbx)) `GPLv3` `Python`
