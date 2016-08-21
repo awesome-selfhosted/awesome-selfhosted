@@ -19,11 +19,11 @@ nofullstop:
 
 longdescriptions:
 	@echo -e "\nDescriptions exceeding 250 chars:"
-	@egrep --only-matching '\) - [Aa-Zz|.|\(|\)|/| |,|-]*\s\(\[' README.md | grep  '.\{257\}'
+	@sed -n -e '/BEGIN SOFTWARE LIST/,/END SOFTWARE LIST/ p' README.md | egrep --only-matching '\) - [Aa-Zz|.|\(|\)|/| |,|-]*\s\(\[' README.md | grep  '.\{257\}'
 
 listlicenses:
 	@echo -e "\n List of licenses:"
-	@egrep --only-matching '([Aa0-Zz9]|\s|\.|-)*` `' README.md | sort --unique
+	@sed -n -e '/BEGIN SOFTWARE LIST/,/END SOFTWARE LIST/ p' README.md | egrep --only-matching '([Aa0-Zz9]|\s|\.|-)*` `' README.md | sort --unique
 
 contrib:
 	@git shortlog -sne
