@@ -2,20 +2,25 @@
 SHELL = /bin/bash
 all: checks
 
-checks: missinglicenselanguage nofullstop
+checks: nolicenselanguage nofullstop
 
 noexternallink:
-	@echo "Lines with no source/demo/other link:"
+	@echo -e "\nLines with no source/demo/other link:"
 	@sed -n -e '/BEGIN SOFTWARE LIST/,/END SOFTWARE LIST/ p' README.md | egrep '^ *\* ' | egrep --color=always '[a-z\.] `'
 
-missinglicenselanguage:
-	@echo "Lines with only 1 or no language/license entry:"
+nolicenselanguage:
+	@echo -e "\nLines with only 1 or no language/license entry:"
 	@sed -n -e '/BEGIN SOFTWARE LIST/,/END SOFTWARE LIST/ p' README.md | egrep '^ *\* ' | egrep -v '` `'
 
 nofullstop:
-	@echo "Lines without a full stop after description:"
+	@echo -e "\nLines without a full stop after description:"
 	-@sed -n -e '/BEGIN SOFTWARE LIST/,/END SOFTWARE LIST/ p' README.md | egrep '[a-z] \(\['
 	-@sed -n -e '/BEGIN SOFTWARE LIST/,/END SOFTWARE LIST/ p' README.md | egrep '[a-z] `'
+
+
+listlicenses:
+	@echo -e "\n List of licenses:"
+	@egrep --only-matching '([Aa0-Zz9]|\s|\.|-)*` `' README.md | sort --unique
 
 contrib:
 	@git shortlog -sne
