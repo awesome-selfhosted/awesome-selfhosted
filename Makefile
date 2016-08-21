@@ -17,6 +17,9 @@ nofullstop:
 	-@sed -n -e '/BEGIN SOFTWARE LIST/,/END SOFTWARE LIST/ p' README.md | egrep '[a-z] \(\['
 	-@sed -n -e '/BEGIN SOFTWARE LIST/,/END SOFTWARE LIST/ p' README.md | egrep '[a-z] `'
 
+longdescriptions:
+	@echo -e "\nDescriptions exceeding 250 chars:"
+	@egrep --only-matching '\) - [Aa-Zz|.|\(|\)|/| |,|-]*\s\(\[' README.md | grep  '.\{257\}'
 
 listlicenses:
 	@echo -e "\n List of licenses:"
