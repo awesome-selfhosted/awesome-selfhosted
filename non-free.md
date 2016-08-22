@@ -8,6 +8,11 @@
   * [Mint](http://haveamint.com/) `⊘ Proprietary` - Extensible self-hosted web analytics, license costs $30 per site. ([Demo](http://mimeoverse.com/mint/)) `PHP`
 
 
+## Content Management Systems (CMS)
+
+  * [Gazelle](https://github.com/WhatCD/Gazelle) - Gazelle is a web framework geared towards private BitTorrent trackers. Although naturally focusing on music, it can be modified for most needs. `unlicensed` `PHP`
+
+
 ## Communication Systems
 
   * [HipChat](https://www.atlassian.com/software/hipchat) `⊘ Proprietary` - A team chat solution with 1:1 chat audio and video, third party integration and more `PHP/Python`
@@ -30,6 +35,11 @@
 
   * [Bittorrent Sync](https://www.getsync.com/) `⊘ Proprietary` - BitTorrent Sync by BitTorrent, Inc is a proprietary peer-to-peer file synchronisation tool.
   * [Drive Virtual](http://www.drivevirtual.com/) `⊘ Proprietary` - With Drive Virtual you can sync, backup and share your files privately with your own FTP (SFTP) server or account.
+
+
+## Games
+
+  * [untrusted](https://github.com/AlexNisnevich/untrusted) - Untrusted is a unique puzzle game designed for geeks and developers, where you solve the puzzles in the game by reading and writing Javascript. ([Demo](http://alex.nisnevich.com/untrusted/)) `CCBYNCSAv3/Custom` `Nodejs`
 
 
 ## Media Streaming
