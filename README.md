@@ -445,6 +445,7 @@ See https://github.com/n1trux/awesome-sysadmin#dns
   * [Kriss Feed](http://tontof.net/kriss/feed/) - A simple and smart (or stupid) feed reader. ([Demo](http://tontof.net/feed/), [Source Code](https://github.com/tontof/kriss_feed/))
   * [Leed](http://leed.idleman.fr) - Leed (for Light Feed) is a Free and minimalist RSS aggregator. ([Source Code](https://github.com/ldleman/Leed))
   * [Leselys](https://github.com/socketubs/leselys) - Your very elegant RSS reader
+  * [Liferea](https://lzone.de/liferea/) - The free news aggregator on your Linux desktop ([Source Code](https://github.com/lwindolf/liferea)) `GPLv2` `C`
   * [Lite-Reader](http://cubny.com/lite-reader/) - Read your feeds on your own machine with a simple and lite application. ([Source Code](https://github.com/cubny/lite-reader))
   * [Moonmoon](http://moonmoon.org/) - simple feed agregator (planet like): it only aggregates feeds and spits them out in one single page. ([Source Code](https://github.com/mauricesvay/moonmoon)) `BSD` `PHP`
   * [Miniflux](https://miniflux.net/) - Miniflux is a minimalist and open source news reader. ([Source Code](https://github.com/miniflux/miniflux))
