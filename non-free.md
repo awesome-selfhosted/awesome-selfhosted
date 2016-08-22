@@ -37,6 +37,11 @@
   * [Drive Virtual](http://www.drivevirtual.com/) `⊘ Proprietary` - With Drive Virtual you can sync, backup and share your files privately with your own FTP (SFTP) server or account.
 
 
+## Games
+
+  * [untrusted](https://github.com/AlexNisnevich/untrusted) - Untrusted is a unique puzzle game designed for geeks and developers, where you solve the puzzles in the game by reading and writing Javascript. ([Demo](http://alex.nisnevich.com/untrusted/)) `CCBYNCSAv3/Custom` `Nodejs`
+
+
 ## Media Streaming
 
   * [Plex](https://plex.tv/) `⊘ Proprietary` - Plex is a centralized home media playback system with a powerful central server.
