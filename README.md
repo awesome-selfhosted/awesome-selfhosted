@@ -12,6 +12,7 @@ See [Contributing](#contributing).
 
   - [Analytics](#analytics)
   - [Automation](#automation)
+  - [Backend/API servers](#backendapi-servers)
   - [Blogging Platforms](#blogging-platforms)
   - [Bookmarks & Link Sharing](#bookmarks--link-sharing)
   - [Calendar and Address Books](#calendar-and-address-books)
@@ -126,6 +127,9 @@ _Business Intelligence_
   * [WTFDYUM](https://github.com/jchampemont/WTFDYUM) a.k.a Why The Fuck Did You Unfollow Me - Find out who stops following you on Twitter. ([Demo](https://www.wtfdyu.me/), [Source Code](https://github.com/jchampemont/WTFDYUM)) `Apache` `Java`
   * [Zenbot 3](https://s8f.org/zenbot.html) - Zenbot is a lightweight, extendable, artificially intelligent trading bot for Bitcoin, Ether, Litecoin, and more. ([Demo](https://zenbot.s8f.org/), [Source Code](https://github.com/carlos8f/zenbot)) `MIT` `Node.js`
 
+## Backend/API servers
+
+  * [Para](http://www.paraio.org) - Para is a flexible and modular backend framework/server for object persistence, API development and authentication. ([Source Code](https://github.com/erudika/para)) `Apache` `Java`
 
 ## Blogging Platforms
 
