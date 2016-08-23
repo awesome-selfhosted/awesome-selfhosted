@@ -643,6 +643,7 @@ See also <https://en.wikipedia.org/wiki/List_of_streaming_media_systems>, <https
 
   * [Benedetto](https://github.com/arecker/bennedetto) - Bennedetto is a simple, turn-based budget management app. `GPLv3` `Python`
   * [Economizzer](http://www.economizzer.org/) - Economizzer is a simple and open source personal finance manager system, available in English, Brazilian, Portuguese and Russian. ([Source Code](https://github.com/gugoan/economizzer)) `MIT` `PHP`
+  * [ExMoney](https://github.com/gaynetdinov/ex_money) - A [work-in-progress] self-hosted personal finance app. `ISC` `Elixir`
   * [Firefly III](https://jc5.github.io/firefly-iii/) - Firefly III is a financial manager. It helps you keeping track of your money and make budget forecasts. It supports credit cards, shared household accounts and savings accounts. Very modern, it's powered by Laravel and requires PHP7. `MIT` `PHP`
   * [Galette](http://galette.eu/dc/) - Galette is a membership management web application towards non profit organizations. ([Source Code](http://git.tuxfamily.org/galette/galette.git/)) `GPLv3` `PHP`
   * [GLPI](http://www.glpi-project.org/spip.php?lang=en) - GLPI is an IT assests/resources/inventory manager. ([Source Code](https://forge.glpi-project.org/projects/glpi)) `GPLv2` `PHP`
