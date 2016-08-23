@@ -434,6 +434,7 @@ See https://github.com/n1trux/awesome-sysadmin#dns
   * [OpenCA OCSPD](https://pki.openca.org/projects/ocspd/) - An [OCSP](https://en.wikipedia.org/wiki/Online_Certificate_Status_Protocol) Responder.
   * [OpenID/OpenID Connect](http://openid.net/developers/libraries/) - A Simple Identity layer on top of OAuth 2.0.
   * [OSIAM](https://www.osiam.org) - Open Source Identity and Access Management implementing OAuth 2.0 and SCIMv2. ([Source Code](https://github.com/osiam/osiam)) `MIT` `Java`
+  * [Authentic](https://github.com/davidguttman/authentic) - Authentication for microservices using JWT. ([Demo](http://dry.ly/authentic)) `MIT` `node.js`
 
 
 ## Feed Readers
