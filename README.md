@@ -106,6 +106,7 @@ _Web Analytics_
 _Business Intelligence_
 
   * [Metabase](http://www.metabase.com/) - Simple Dashboarding and GUI Query tool, Nightly Emails and Slack Integration w/ PostgreSQL, MySQL, Redshift and other DBs. ([Source Code](https://github.com/metabase/metabase)) `AGPLv3` `Clojure`
+  * [re:dash](http://redash.io/) - Query your data from multiple data sources, create and share rich visualizations, make alerts for important changes. ([Demo](http://demo.redash.io/), [Source Code](https://github.com/getredash/redash)) `BSD` `Python`
 
 
 ## Automation
