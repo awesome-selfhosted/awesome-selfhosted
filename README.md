@@ -518,6 +518,7 @@ Some [Groupware](#groupware) solutions also feature file sharing and synchroniza
   * [lufi](https://git.framasoft.org/luc/lufi) - Let's Upload that FIle, client-side encrypted. ([Demo](https://demo.lufi.io), [Source Code](https://git.framasoft.org/luc/lufi/tree/master)) `AGPLv3` `Perl`
   * [lutim](https://github.com/ldidry/lutim) - Let's Upload That Image !
   * [Mediacrush](https://mediacru.sh/) - A website you can upload images, audio, and video to, and receive a link to share it with your friends. ([Source Code](https://github.com/MediaCrush/MediaCrush))
+  * [Minio](https://minio.io/) - Store photos, videos, VMs, containers, log files, or any blob of data as objects. ([Source Code](https://github.com/minio/minio)) `Apache` `Go`
   * [Nimbus](https://github.com/ethanal/nimbus) - A drag-and-drop shortlink file sharer for OS X - `MIT` `Python`
   * [OnionShare](https://onionshare.org/) - Securely and anonymously share a file of any size.
   * [PictShare](https://www.pictshare.net/) - PictShare is a multi lingual, open source image hosting service with a simple resizing and upload API. ([Demo](https://www.pictshare.net/), [Source Code](https://github.com/chrisiaut/pictshare)) `Apache` `PHP/Javascript`
