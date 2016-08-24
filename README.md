@@ -846,6 +846,7 @@ See **[Ticketing](#ticketing)**
 
 ### Continuous Integration
 
+  * [Concourse](https://concourse.ci/) - Concourse is a CI tool that treats pipelines as first class objects and containerizes every step along the way. ([Demo](https://ci.concourse.ci/), [Source Code](https://github.com/concourse/concourse)) `Apache` `Go`
   * [drone](https://drone.io/) - Drone is a Continuous Delivery platform built on Docker, written in Go. ([Source Code](https://github.com/drone/drone)) `Apache` `Go`
   * [Factor.io](https://factor.io/) - It's like IFTTT (if-this-then-that) for Dev and DevOps. ([Source Code](https://github.com/factor-io/factor)) `MIT` `Ruby`
   * [Jenkins](https://jenkins-ci.org/) - Continuous Integration Server. ([Source Code](https://github.com/jenkinsci/jenkins/)) `MIT` `Java`
@@ -1145,6 +1146,7 @@ The list of contributors can be found below
     1	Bob Mottram <bob@robotics.uk.to>
     1	Brett <brettex@hotmail.com>
     1	Burung Hantu <privacytoolsIO@users.noreply.github.com>
+    1	C.J. Jameson <cjcjameson@gmail.com>
     1	Caleb Xu <calebcenter@live.com>
     1	Calle Wolff <carl@wolff.se>
     1	Chanchal Kumar Ghosh <chanchal_ghosh1987@yahoo.co.in>
