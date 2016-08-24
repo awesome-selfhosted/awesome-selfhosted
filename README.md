@@ -21,8 +21,7 @@ See [Contributing](#contributing).
       - [Complete solutions](#complete-solutions)
       - [Mail Transfer Agents](#mail-transfer-agents)
       - [Mail Delivery Agents](#mail-delivery-agents)
-      - [Mailing lists](#mailing-lists)
-      - [Newsletter management](#newsletter-management)
+      - [Mailing lists and newsletter management](#mailing-lists)
       - [Webmail clients](#webmail-clients)
     - [IRC](#irc)
     - [SIP](#sip)
@@ -238,21 +237,16 @@ _MDAs - IMAP/POP3 software_
 * [Dovecot](http://www.dovecot.org/) - IMAP and POP3 server written primarily with security in mind. ([Source Code](https://github.com/dovecot/core)) `MIT/LGPLv2` `C`
 * [Piler](http://www.mailpiler.org/wiki/start) - feature rich open source email archiving solution. ([Source Code](https://bitbucket.org/jsuto/piler)) `GPLv3` `C`
 
-#### Mailing lists
+#### Mailing lists and Newsletters
 
-_Mailing lists servers._
+_Mailing lists servers and mass mailing software - one message to many recipients._
 
   * [Dada Mail](http://dadamailproject.com/) - A web-based list management system that can be used for announcement lists and/or discussion lists. (Also has a "Pro" version which allows for more/larger mailing lists and branding removal.) ([Source Code](https://github.com/justingit/dada-mail)) `GPLv2` `Perl`
   * [Mailman](https://www.gnu.org/software/mailman/) - The Gnu mailing list server. `GPL` `Python`
-  * [Sympa](https://www.sympa.org/) - A mailing list manager. `GPLv2` `Perl`
-
-#### Newsletter management
-
-_Mass mailing software - one message to many recipients_
-
   * [Mailtrain](https://mailtrain.org/) - self hosted newsletter application built on Node.js (v5+) and MySQL (v5.5+ or MariaDB). ([Source Code](https://github.com/andris9/mailtrain)) `GPLv3` `Node.js`
   * [Mautic](https://www.mautic.org/) - Mautic is marketing automation software (email, social & more). ([Source Code](https://github.com/mautic/mautic)) `GPLv3` `PHP`
   * [phpList](https://phplist.org) - Newsletter and email marketing with advanced management of subscribers, bounces, and plugins. ([Source Code](https://github.com/phpList/)) `AGPLv3` `PHP`
+  * [Sympa](https://www.sympa.org/) - A mailing list manager. `GPLv2` `Perl`
 
 #### Webmail clients
 
