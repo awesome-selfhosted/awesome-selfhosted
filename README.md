@@ -241,7 +241,7 @@ _MDAs - IMAP/POP3 software_
 
 _Mailing lists servers and mass mailing software - one message to many recipients._
 
-  * [Dada Mail](http://dadamailproject.com/) - A web-based list management system that can be used for announcement lists and/or discussion lists. (Also has a "Pro" version which allows for more/larger mailing lists and branding removal.) ([Source Code](https://github.com/justingit/dada-mail)) `GPLv2` `Perl`
+  * [Dada Mail](http://dadamailproject.com/) - A web-based list management system that can be used for announcement lists and/or discussion lists. ([Source Code](https://github.com/justingit/dada-mail)) `GPLv2` `Perl`
   * [Mailman](https://www.gnu.org/software/mailman/) - The Gnu mailing list server. `GPL` `Python`
   * [Mailtrain](https://mailtrain.org/) - self hosted newsletter application built on Node.js (v5+) and MySQL (v5.5+ or MariaDB). ([Source Code](https://github.com/andris9/mailtrain)) `GPLv3` `Node.js`
   * [Mautic](https://www.mautic.org/) - Mautic is marketing automation software (email, social & more). ([Source Code](https://github.com/mautic/mautic)) `GPLv3` `PHP`
