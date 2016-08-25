@@ -21,7 +21,7 @@ See [Contributing](#contributing).
       - [Complete solutions](#complete-solutions)
       - [Mail Transfer Agents](#mail-transfer-agents)
       - [Mail Delivery Agents](#mail-delivery-agents)
-      - [Mailing lists and newsletter management](#mailing-lists)
+      - [Mailing lists and newsletters](#mailing-lists-and-newsletters)
       - [Webmail clients](#webmail-clients)
     - [IRC](#irc)
     - [SIP](#sip)
