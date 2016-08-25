@@ -1018,7 +1018,7 @@ Contributing guidelines can be found [here](CONTRIBUTING.md).
 
 ## Authors
 
-The list of contributors can be found [here](AUTHORS).
+The list of authors can be found [here](AUTHORS).
 
 ## License
 
