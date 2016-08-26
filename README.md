@@ -1015,7 +1015,7 @@ See also [Documentation Generators](#documentation-generators), [Wikimatrix](htt
 
 ## Contributing
 
-Contributing guidelines can be found [here](CONTRIBUTING.md).
+Contributing guidelines can be found [here](.github/CONTRIBUTING.md).
 
 ## Authors
 
