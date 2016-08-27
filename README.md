@@ -149,14 +149,15 @@ See also [Static Site Generators](#static-site-generators), [Content Management 
 
 ## Bookmarks & Link Sharing
 
-  * [Bookie](https://github.com/bookieio/Bookie) - Python based delicious.com replacement. ([Demo](http://bmark.us/)) `AGPLv3` `Python`
-  * [Firefox Accounts Server](https://docs.services.mozilla.com/howtos/run-fxa.html)
+  * [Bookie](https://github.com/bookieio/Bookie) - Python based delicious.com replacement. `AGPLv3` `Python`
+  * [Firefox Auth Server](https://docs.services.mozilla.com/howtos/run-fxa.html) - This project implements the core server-side API for Firefox Accounts. ([Source Code](https://github.com/mozilla/fxa-auth-server/)) `MPLv2` `Nodejs`
+   * [Firefox Content Server](https://docs.services.mozilla.com/howtos/run-fxa.html) - Static server that hosts Firefox Account sign up, sign in, email verification, etc. flows. ([Source Code](https://github.com/mozilla/fxa-content-server/)) `MPLv2` `Java`
    * [Firefox Sync Server](https://docs.services.mozilla.com/howtos/run-sync-1.5.html) - Sync Firefox bookmarks, passwords, history, tabs, preferences. ([Source Code](https://github.com/mozilla-services/syncserver)) `MPLv2` `Python`
   * [Lobsters](https://lobste.rs) - Run your own link aggregation site. ([Source Code](https://github.com/jcs/lobsters)) `BSD` `Ruby`
   * [No Fuss Bookmarks](http://nofussbm.herokuapp.com/signup.html) - Very simple software and service to store bookmarks especially designed for hackers (that don't need fancy interfaces, but nice API). ([Source Code](https://github.com/mapio/nofussbm)) `GPLv3` `Python`
   * [Pinry](http://getpinry.com/) - The tiling image board system for people who want to save, tag, and share images, videos, and webpages. ([Source Code](https://github.com/pinry/pinry)) `BSD` `Python`
   * [saveto.co](https://saveto.co/) - An open source, home for the best links on the web. ([Source Code](https://github.com/saveto-co/saveto)) `MIT` `Nodejs`
-  * [Shaarli](https://github.com/shaarli/Shaarli) - Personal, minimalist, super-fast, no-database bookmarking and link sharing plaform. ([Demo](http://shaarlidemo.tuxfamily.org/Shaarli/) `demo/demo`) `Zlib` `PHP`
+  * [Shaarli](https://github.com/shaarli/Shaarli) - Personal, minimalist, super-fast, no-database bookmarking and link sharing plaform. ([Demo](http://shaarlidemo.tuxfamily.org/#demo)) `Zlib` `PHP`
   * [unmark](https://unmark.it/) - An open source to do app for links. ([Source Code](https://github.com/plainmade/unmark)) `MIT` `PHP`
 
 ## Calendar and Address Books
@@ -354,14 +355,12 @@ CMS are a practical way to setup a website with many features. CMS often come wi
   * [Apostrophe 2](http://apostrophenow.org/) - A node.js CMS with a focus on extensible in-context editing tools. ([Demo](http://demo.apostrophenow.com/), [Source Code](https://github.com/punkave/apostrophe)) `MIT` `NodeJS`
   * [Baun](http://bauncms.com/) - A modern, lightweight, extensible CMS for PHP. ([Source Code](https://github.com/BaunCMS/Baun)) `MIT` `PHP`
   * [BigTree CMS](https://www.bigtreecms.org/) - Straightforward, well documented, and capable written with PHP and MySQL. ([Source Code](https://github.com/bigtreecms/BigTree-CMS)) `LGPLv2` `PHP`
-  * [Bolt](https://bolt.cm/) - Sophisticated, lightweight & simple CMS. ([Source Code](https://github.com/bolt/bolt)) `MIT` `PHP`
   * [CMS Made Simple](http://www.cmsmadesimple.org/) - Open source content management system, faster and easier management of website contents, scalable for small businesses to large corporations. ([Source Code](http://svn.cmsmadesimple.org/svn/cmsmadesimple/trunk/)) `GPL` `PHP`
   * [Concrete 5 CMS](http://www.concrete5.org/) - An open source content management system. ([Source Code](https://github.com/concrete5/concrete5)) `MIT` `PHP`
   * [CouchCMS](http://www.couchcms.com/) - Simple Open-Source CMS for designers. ([Source Code](https://github.com/CouchCMS/CouchCMS)) `CPALv1` `PHP`
   * [Directus](http://getdirectus.com/) - Directus is a powerful and intuitive headless CMS for managing SQL databases with custom architectures. Built around a robust and extensible API, this decoupled content management framework is perfect for websites, apps, or multi-client projects. ([Source Code](https://github.com/directus/directus)) `GPL` `PHP`
   * [Drupal](https://www.drupal.org/) - Advanced open source content management platform. ([Source Code](http://cgit.drupalcode.org/drupal)) `GPL` `PHP`
   * [eLabFTW](http://www.elabftw.net) - An online lab notebook for research labs. Store experiments, use a database to find reagents or protocols, use trusted timestamping to legally timestamp an experiment, export as pdf or zip archive, share with collaborators…. ([Source Code](https://github.com/elabftw/elabftw), [Demo](https://demo.elabftw.net)) `AGPLv3` `PHP`
-  * [Grav](https://getgrav.org/) - Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS. ([Source Code](https://github.com/getgrav/grav)) `MIT` `PHP`
   * [GetSimple CMS](http://get-simple.info/) - The Simplest Content Management System. Ever. `GPLv3`
   * [ImpressPages CMS](https://www.impresspages.org/) - Easy code meets easy admin. ([Demo](https://www.impresspages.org/demo), [Source Code](https://github.com/impresspages/ImpressPages)) `GPLv3`/`MIT` `PHP`
   * [Joomla!](https://www.joomla.org/) - Advanced Content Management System (CMS). ([Source Code](http://joomlacode.org/gf/project/joomla/scmsvn/)) `GPL` `PHP`
@@ -645,6 +644,7 @@ See also <https://en.wikipedia.org/wiki/List_of_streaming_media_systems>, <https
   * [King Phisher](https://github.com/securestate/king-phisher) - King Phisher is a tool for testing and promoting user awareness by simulating real world phishing attacks. `BSD` `Python`
   * [Mindmaps](https://github.com/drichard/mindmaps) - An open source, offline capable, mind mapping application. ([Demo](http://drichard.org/mindmaps/)) `AGPLv3` `HTML5`
   * [Para](http://www.paraio.org) - Para is a flexible and modular backend framework/server for object persistence, API development and authentication. ([Source Code](https://github.com/erudika/para)) `Apache` `Java`
+  * [Skygear](https://skygear.io) - A complete backend server for web, mobile and iOT applcations. ([Demo](https://portal.skygear.io), [Source Code](https://github.com/SkygearIO/skygear-server)) `Apache` `Go`
   * [webtrees](https://www.webtrees.net) - webtrees is the web's leading on-line collaborative genealogy application. ([Demo](https://dev.webtrees.net/demo-stable/index.php?ctype=gedcom&ged=demo), [Source Code](https://github.com/fisharebest/webtrees)) `GPLv3` `PHP`
 
 ## Money, Budgeting and Management
@@ -742,7 +742,7 @@ See https://github.com/n1trux/awesome-sysadmin#monitoring and https://github.com
 
 
 ## Photo and Video Galleries
-
+  * [Chevereto 2.X](https://github.com/Chevereto/Chevereto-2.X) - Open source one-click image hosting script. ([Source Code](https://github.com/Chevereto/Chevereto-2.X)) `MIT` `PHP`
   * [CumulusClips](http://cumulusclips.org/) - Your own video sharing website with CumulusClips video sharing script. You can build a YouTube clone where users can upload, rate, comment on videos, and much more.  ([Demo](https://tube.devosi.org/)) `GPLv2` `PHP`
   * [Koken](http://koken.me/) - Content management and web site publishing for photographers. `PHP`
   * [Lychee](http://lychee.electerious.com/) - An open source grid and album based photo-management-system. ([Source Code](https://github.com/electerious/Lychee)) `MIT` `PHP`
@@ -934,7 +934,6 @@ See also [Documentation Generators](#documentation-generators), [Wikimatrix](htt
 
   * [Blazekiss](http://projet.idleman.fr/blazekiss/) - BlazeKiss is a KISS-based wiki (Keep It Simple, Stupid) - simplicity and functionality comes before all. ([Source Code](https://github.com/ldleman/blazekiss))`GPLv3` `PHP`
   * [BookStack](https://www.bookstackapp.com/) - BookStack is a simple, self-hosted, easy-to-use platform for organizing and storing information. It allows for documentation to be stored in a book like fashion. ([Demo](https://www.bookstackapp.com/#demo), [Source Code](https://github.com/ssddanbrown/BookStack)) `MIT` `PHP`
-  * [Codex](http://codex-project.ninja/codex) - Codex is a simple file-based Markdown documentation platform built on top of Laravel. ([Source Code](https://github.com/codex-project/codex)) `MIT` `PHP`
   * [commonplace](https://github.com/fredoliveira/commonplace) - A server for your markdown files. Give it a directory, and Commonplace gives you a url, pretty pages, and quick editing. `Ruby`
   * [Dokuwiki](https://www.dokuwiki.org/DokuWiki) - An easy to use, lightweight, standards-compliant wiki engine with a simple syntax allowing reading the data outside the wiki. All data is stored in plain files, therefore no database is required. `GPL` `PHP`
   * [Gitit](https://github.com/jgm/gitit) - A wiki program that stores pages and uploaded files in a git repository, which can then be modified using the VCS command line tools or the wiki's web interface. ([Demo](http://gitit.johnmacfarlane.net/)) `GPLv2` `Haskell`
@@ -959,6 +958,7 @@ See also [Documentation Generators](#documentation-generators), [Wikimatrix](htt
 ## Self-hosting Solutions
 
   * [arkOS](https://arkos.io/) - Install arkOS to a dedicated device and host your own websites, email, files and more. ([Source Code](https://git.coderouge.co/groups/arkOS) [[1]](https://github.com/cznweb)) `MIT/GPL` `Nodejs/Other`
+  * [Cloudron](https://cloudron.io) - Effortlessly self-host web apps on your server. ([Source Code](https://git.cloudron.io/groups/cloudron)) `AGPLv3` `Nodejs/Docker`
   * [DPlatform](https://dfabric.github.io/DPlatform-ShellCore/) - Deploy self-hosted apps easily: simple, bloat-free, independent installation. ([Source code](https://github.com/j8r/DPlatform)) `MIT` `Shell`
   * [FreedomBone](https://github.com/bashrc/freedombone) - Home server configuration based on Debian. `GPLv3` `Shell`
   * [FreedomBox](https://wiki.debian.org/FreedomBox) - A community project to develop, design and promote personal servers running free software for private, personal, communications. `GPLv3` `Python/Other`
@@ -1000,6 +1000,7 @@ See also [Documentation Generators](#documentation-generators), [Wikimatrix](htt
  * `MIT` - [MIT License](http://opensource.org/licenses/MIT)
  * `MPLv2` - [Mozilla Public License](https://www.mozilla.org/MPL/2.0/index.txt)
  * `OSLv3` - [Open Software License 3.0](https://opensource.org/licenses/osl-3.0.php)
+ * `Zlib` - [Zlib/libpng License](https://opensource.org/licenses/Zlib)
  * `Zope` - [Zope Public License 2.0](http://opensource.org/licenses/ZPL-2.0)
 
 
@@ -1017,222 +1018,12 @@ See also [Documentation Generators](#documentation-generators), [Wikimatrix](htt
 
 ## Contributing
 
- * To **add an entry**: clone/[download](https://github.com/Kickball/awesome-selfhosted/archive/master.zip) and enter the repository, run `make add` and follow the instructions; or [edit the README.md file](https://github.com/Kickball/awesome-selfhosted/edit/master/README.md) directly. See [Editing files in another user's repository](https://help.github.com/articles/editing-files-in-another-user-s-repository/), [Creating Pull Requests](https://help.github.com/articles/creating-a-pull-request/), [Using Pull Requests](https://help.github.com/articles/using-pull-requests/) for help on sending your patch.
- * Minimum of 3 entries to start a new category.  Otherwise add to the Misc/Other category.
- * The **syntax** for links is ``[Name](http://homepage/) - Short description. ([Demo](http://url.to/demo), [Source Code](http://url.of/source/code)) `License` `Language` ``. All projects should have their **license** and main server-side **language**/platform/requirement listed, and a description at most 250 characters long.
- * Entries should be ordered alphabetically.
- * Non-[Free](https://en.wikipedia.org/wiki/Free_software) software must be marked `⊘ Proprietary` next to the title, and added to [non-free.md](non-free.md)
- * Software with no development activity for 6-12 months may be removed from the list.
- * Check current [issues](https://github.com/Kickball/awesome-selfhosted/issues) and [Pull Requests](https://github.com/Kickball/awesome-selfhosted/pulls), as well as [closed issues/PRs](https://github.com/Kickball/awesome-selfhosted/pulls?utf8=%E2%9C%93&q=is%3Aclosed+)
- * The list of contributors can be updated with `make contrib`. Several checks are available: `make noexternallink; make missinglicenselanguage; make nofullstop`
+Contributing guidelines can be found [here](.github/CONTRIBUTING.md).
 
+## Authors
+
+The list of authors can be found [here](AUTHORS).
 
 ## License
 
 This list is under the [Creative Commons Attribution-ShareAlike 3.0 Unported](LICENSE) License.
-
-
-The list of contributors can be found below
-
-    264	nodiscc <nodiscc@gmail.com>
-    223	Edward D <ed.kickball@hotmail.com>
-    42	Andrew <AndyR207@users.noreply.github.com>
-    31	Kovah <mail@kovah.de>
-    22	Kickball <ed.kickball@hotmail.com>
-    13	jungle-boogie <sean@jungleboogie.me>
-    10	Thomas Dalichow <2012-02-05.github.com@thomasdalichow.de>
-    10	cave beat <cave@cavebeat.org>
-    9	Joubert RedRat <eu+github@redrat.com.br>
-    8	CooperBarrett <anthony.lhuissier@openmailbox.org>
-    7	Andrew Peng <pengc99@gmail.com>
-    7	Andrew Rylatt <AndyR207@users.noreply.github.com>
-    7	Hammy Havoc <hammy@splitanatom.com>
-    7	Thomas Dalichow <info@thomasdalichow.de>
-    7	n1trux <n1trux@users.noreply.github.com>
-    7	phre4k <me@phre4k.at>
-    7	édouard u. <mail@edouard.us>
-    6	Per Guth <mail@perguth.de>
-    5	Jean Champémont <jchampemont@users.noreply.github.com>
-    5	Moti Korets <moti.kor@gmail.com>
-    5	cave <cavebeat@users.noreply.github.com>
-    4	Andrew <andrew@rylatt.me>
-    4	AndrewCz <smacz42@users.noreply.github.com>
-    4	Cory Gibbons <hello@corygibbons.com>
-    4	Dominik Pfaffenbauer <dominik@lineofcode.at>
-    4	Dr. Azrael Tod <github.com@g33ky.de>
-    4	Ilya Sevostyanov <d3th@zeen.ru>
-    4	Jean Elchinger <jinformatique@riseup.net>
-    4	Joshua Westerheide <dev@jdoubleu.de>
-    4	Marius Voila <marius.voila@gmail.com>
-    4	Valmik <mail@valmik.in>
-    4	dattaz <taz@dattaz.fr>
-    4	paddo <mail@patrickrichter.net>
-    3	Aguay <baraise.valentin@gmail.com>
-    3	Akhyar Amarullah <akhyrul@gmail.com>
-    3	Chris McCormick <chris@mccormick.cx>
-    3	Conor O'Callaghan <brioscaibriste@users.noreply.github.com>
-    3	Cédric Krier <cedk@users.noreply.github.com>
-    3	Ethan Lowman <ethanal@users.noreply.github.com>
-    3	FoxMaSk <foxmask@users.noreply.github.com>
-    3	George C. Privon <privong@users.noreply.github.com>
-    3	Görkem Çetin <gc@count.ly>
-    3	Jan Vlnas <jnv@users.noreply.github.com>
-    3	Lee Watson <rev@revthefox.co.uk>
-    3	Leo Gaggl <leo@brightcookie.com.au>
-    3	Marc Picaud <picaud.marc@gmail.com>
-    3	Mariusz Kozakowski <11mariom+wordpress@gmail.com>
-    3	Martin Gontovnikas <martin@gon.to>
-    3	Mathieu Leplatre <mathieu@leplat.re>
-    3	Pavan Yara <yarapavan@gmail.com>
-    3	Tobi Schäfer <interface@p3k.org>
-    3	Ye Lin Aung <me@yelinaung.com>
-    3	jungle-boogie <sean@rastasean.net>
-    3	rett gerst <rettgerst@users.noreply.github.com>
-    2	Adminrezo (Nico Dewaele) <nico@adminrezo.fr>
-    2	Albert Cervera i Areny <albert@nan-tic.com>
-    2	Alexander Ryzhov <gtihub@ryzhov-al.ru>
-    2	Alexis Metaireau <alexis@notmyidea.org>
-    2	Andrew Hayworth <hayworth@meraki.net>
-    2	Bartłomiej Kurzeja <B3QL@users.noreply.github.com>
-    2	Brendan Abolivier <contact@brendanabolivier.com>
-    2	Charles Farence III <charles@charlessite90.com>
-    2	Chris Missal <chris.missal@gmail.com>
-    2	Costin Moise <necenzurat@gmail.com>
-    2	David Leonard <david@appliedtrust.com>
-    2	David Wayne Baxter <dbxt@users.noreply.github.com>
-    2	Derek Viera <ma.dmviera01@gmail.com>
-    2	Deryck <dhenson02@users.noreply.github.com>
-    2	Greg V <greg@unrelenting.technology>
-    2	Henry Ruhs <info@redaxmedia.com>
-    2	Jason Robinson <mail@jasonrobinson.me>
-    2	Joseph Dykstra <josephdykstra@gmail.com>
-    2	Julien Bisconti <veggiemonk@users.noreply.github.com>
-    2	Kevin Vandenborne <kevin.vandenborne@gmail.com>
-    2	Marien Fressinaud <dev@marienfressinaud.fr>
-    2	Massimo Santini <massimo.santini@gmail.com>
-    2	Matthieu Aubry <matt@piwik.org>
-    2	Michael Tunnell <MichaelTunnell@users.noreply.github.com>
-    2	Mikael Peigney <Mika56@users.noreply.github.com>
-    2	Nicolas Carlier <n.carlier@nunux.org>
-    2	Patrik Ragnarsson <patrik@starkast.net>
-    2	Peter Ivanov <peter@microweber.com>
-    2	Peter Thaleikis <spekulatius@users.noreply.github.com>
-    2	Pierre Ozoux <pierre@ozoux.net>
-    2	Poorchop <Poorchop@users.noreply.github.com>
-    2	ReadmeCritic <frankensteinbot@gmail.com>
-    2	Ricardo Torres <ricardo@rictorres.com.br>
-    2	Roland Geider <roland@geider.net>
-    2	Ryan Mulligan <ryan@ryantm.com>
-    2	Sam Tuke <mail@samtuke.com>
-    2	Sameer Al-Sakran <salsakran@users.noreply.github.com>
-    2	Shane Cooke <shanecooke@mac.com>
-    2	Simon Vieille <simon@deblan.fr>
-    2	Stefane Fermigier <sf@fermigier.com>
-    2	Stefano <sabas88@gmail.com>
-    2	Thomas Citharel <tcit@tcit.fr>
-    2	Vadim Rutkovsky <vrutkovs@redhat.com>
-    2	cornerot <cornerot@gmail.com>
-    2	cron410 <cron410@gmail.com>
-    2	jimykk <JimyKK@users.noreply.github.com>
-    2	markkrj <markkrj@users.noreply.github.com>
-    2	rafael-santiago <voidbrainvoid@gmail.com>
-    2	thomasfrivold <thomas.frivold@gmail.com>
-    2	tillarnold <throwable42@gmail.com>
-    2	tomc3 <wordoftheday003@gmail.com>
-    2	yuche <i@yuche.me>
-    1	Alashov Berkeli <yunus.alashow@gmail.com>
-    1	Alex Fornuto <alex@fornuto.com>
-    1	Alys <alice.harris@oldgods.net>
-    1	Andrew Murray <radarhere@gmail.com>
-    1	Angel Velasquez <angvp@archlinux.org>
-    1	Bob Mottram <bob@robotics.uk.to>
-    1	Brett <brettex@hotmail.com>
-    1	Burung Hantu <privacytoolsIO@users.noreply.github.com>
-    1	C.J. Jameson <cjcjameson@gmail.com>
-    1	Caleb Xu <calebcenter@live.com>
-    1	Calle Wolff <carl@wolff.se>
-    1	Chanchal Kumar Ghosh <chanchal_ghosh1987@yahoo.co.in>
-    1	Chema <neo22s@gmail.com>
-    1	Craig Davison <craig@davison.io>
-    1	Dan <rocks.in.the.cloud@gmail.com>
-    1	David Baldwynn <whitef0x0@users.noreply.github.com>
-    1	Dirk Krause <dirkk0@googlemail.com>
-    1	Dmitriy Volkov <wldhx+vcs+github_com@wldhx.me>
-    1	Doğan Çelik <dogancelik@users.noreply.github.com>
-    1	Dražen Lučanin <kermit666@gmail.com>
-    1	Eren Hatırnaz <erenhatirnaz@hotmail.com.tr>
-    1	Ethan Madden <crazeh.monkeh@gmail.com>
-    1	Felix Bartels <felix@host-consultants.de>
-    1	Florian Kaiser <florian.kaiser@fnkr.net>
-    1	Florian Wilhelm <f.wilhelm@tarent.de>
-    1	FortressBuilder <FortressBuilder@users.noreply.github.com>
-    1	Gabriel Cossette <gabriel.cossette@gmail.com>
-    1	Igor Antun <IgorAntun@users.noreply.github.com>
-    1	Izac Lorimer <izaclorimer@users.noreply.github.com>
-    1	Jan <jayphizzle@users.noreply.github.com>
-    1	Jarek Lipski <pub@loomchild.net>
-    1	Jean Menezes da Rocha <jean@menezesdarocha.info>
-    1	Jeremiah Marks <jeremiah@jlmarks.org>
-    1	Joel Calado <joelcalado@gmail.com>
-    1	Josh Harmon <me@joshharmon.me>
-    1	Joshua Hamilton <joshua.hamilton@fabricut.com>
-    1	José Castro <cogurov@gmail.com>
-    1	Julien Bisconti <julien.bisconti@gmail.com>
-    1	Julien Reichardt <jul.reich43@opmbx.org>
-    1	Justin O'Reilly <justin@oreilly.me>
-    1	Jérémie Astori <jeremie@astori.fr>
-    1	Keith Thibodeaux <kthib89+github@gmail.com>
-    1	Keith Thibodeaux <kthibodeaux@peachtreebilling.com>
-    1	Keyhaku <jones@bious.fr>
-    1	Kyle Stetz <kylestetz@gmail.com>
-    1	Liran Tal <liran.tal@gmail.com>
-    1	Madhu GB <github@madhugb.com>
-    1	Madhu GB <me@madhugb.com>
-    1	Marc Laporte <marc@laporte.name>
-    1	Marcin Karpezo <m.karpezo@nencki.gov.pl>
-    1	Marcus Ramberg <marcus@nordaaker.com>
-    1	Mark Ide <mark@cranstonide.com>
-    1	MatFluor <MatFluor@users.noreply.github.com>
-    1	Matt Hazinski <matt@matthazinski.com>
-    1	Matt Lee <mattl@users.noreply.github.com>
-    1	Matteo Piccina <matteo@beiphone.it>
-    1	Michael Burns <michael@mirwin.net>
-    1	Mike Steele <mike@steel.fm>
-    1	Morris Jobke <hey@morrisjobke.de>
-    1	Murdoc Bates <trockenasche@gmail.com>
-    1	NicolasCARPi <nicolas.carpi@curie.fr>
-    1	Norman Xu <im@norm.im>
-    1	Oliver Kopp <kopp.dev@gmail.com>
-    1	Paul <paul@rosanbo.com>
-    1	Pavel Lobashov <ShockwaveNN@gmail.com>
-    1	Pavel Lobashov <shockwavenn@gmail.com>
-    1	Peter van den Hurk <runical1991@gmail.com>
-    1	Phill <phill@formbet.co.uk>
-    1	Remy Adriaanse <remy@adriaanse.it>
-    1	Remy Honig <remyhonig@users.noreply.github.com>
-    1	Riddler <Iamjithin@live.com>
-    1	Roberto Rosario <roberto.rosario.gonzalez@gmail.com>
-    1	Ryan Halliday <ry167@ry167.com>
-    1	Starbeamrainbowlabs <sbrl@starbeamrainbowlabs.com>
-    1	Stefan Bohacek <stefan.bohacek@gmail.com>
-    1	Stefan Bohacek <stefan@fourtonfish.com>
-    1	Stefan Weil <sw@weilnetz.de>
-    1	Sylvain Boily <sylvainboilydroid@gmail.com>
-    1	The Scorpion <tehscorpion@users.noreply.github.com>
-    1	Tobias Zeising <tobias.zeising@aditu.de>
-    1	benmaynard11 <allowin-217941-github@vhost244.maynardnetworks.com>
-    1	bricej13 <bricej13@gmail.com>
-    1	cbdev <cb@cbcdn.com>
-    1	dimqua <dimqua@lavabit.com>
-    1	florianl <florianl@users.noreply.github.com>
-    1	hebbet <pascal.herbert@gmail.com>
-    1	lachlan-00 <lachlan.00@gmail.com>
-    1	littleguga <littleguga@users.noreply.github.com>
-    1	memorex258 <phillip.a.brown@live.com>
-    1	mertinop <martin.santibanez.a@gmail.com>
-    1	sc0repi0 <sc0repi0@gmx.de>
-    1	skarphet <skarphet@users.noreply.github.com>
-    1	steven jacobs <stjacobs@fastmail.fm>
-    1	stevesbrain <stevesbrain@users.noreply.github.com>
-    1	ttoups <ich@timotoups.de>
-    1	wxcafé <wxcafe@wxcafe.net>
