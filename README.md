@@ -229,7 +229,7 @@ _MTAs / SMTP servers_
 * [OpenSMTPD](https://opensmtpd.org/) - Secure SMTP server implementation from the OpenBSD project. ([Source Code](http://cvsweb.openbsd.org/cgi-bin/cvsweb/src/usr.sbin/smtpd/)) `ISC` `C`
 * [Postfix](http://www.postfix.org/) - Fast, easy to administer, and secure Sendmail replacement. `IPL` `C`
 * [Qmail](http://www.qmail.org/top.html) - Secure Sendmail replacement. ([Source Code](https://sources.debian.net/src/netqmail/1.06-5/)) `CC0` `C`
-* [Sendmail](http://www.sendmail.com/sm/open_source/) - Message transfer agent (MTA).
+* [Sendmail](http://www.sendmail.com/sm/open_source/) - Message transfer agent (MTA). `SENDMAIL` `C`
 * [Slimta](http://slimta.org) - Mail Transfer Library built on Python. ([Source Code](https://github.com/slimta/python-slimta)) `MIT` `Python`
 
 #### Mail Delivery Agents
@@ -998,6 +998,7 @@ See also [Documentation Generators](#documentation-generators), [Wikimatrix](htt
  * `MIT` - [MIT License](http://opensource.org/licenses/MIT)
  * `MPLv2` - [Mozilla Public License](https://www.mozilla.org/MPL/2.0/index.txt)
  * `OSLv3` - [Open Software License 3.0](https://opensource.org/licenses/osl-3.0.php)
+ * `SENDMAIL` - [Sendmail License](https://www.sendmail.com/pdfs/open_source/sendmail_license.pdf)
  * `Zope` - [Zope Public License 2.0](http://opensource.org/licenses/ZPL-2.0)
 
 
