@@ -999,6 +999,7 @@ See also [Documentation Generators](#documentation-generators), [Wikimatrix](htt
  * `MIT` - [MIT License](http://opensource.org/licenses/MIT)
  * `MPLv2` - [Mozilla Public License](https://www.mozilla.org/MPL/2.0/index.txt)
  * `OSLv3` - [Open Software License 3.0](https://opensource.org/licenses/osl-3.0.php)
+ * `Zlib` - [Zlib/libpng License](https://opensource.org/licenses/Zlib)
  * `Zope` - [Zope Public License 2.0](http://opensource.org/licenses/ZPL-2.0)
 
 
