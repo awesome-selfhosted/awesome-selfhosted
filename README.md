@@ -149,14 +149,15 @@ See also [Static Site Generators](#static-site-generators), [Content Management 
 
 ## Bookmarks & Link Sharing
 
-  * [Bookie](https://github.com/bookieio/Bookie) - Python based delicious.com replacement. ([Demo](http://bmark.us/)) `AGPLv3` `Python`
-  * [Firefox Accounts Server](https://docs.services.mozilla.com/howtos/run-fxa.html)
+  * [Bookie](https://github.com/bookieio/Bookie) - Python based delicious.com replacement. `AGPLv3` `Python`
+  * [Firefox Auth Server](https://docs.services.mozilla.com/howtos/run-fxa.html) - This project implements the core server-side API for Firefox Accounts. ([Source Code](https://github.com/mozilla/fxa-auth-server/)) `MPLv2` `Nodejs`
+   * [Firefox Content Server](https://docs.services.mozilla.com/howtos/run-fxa.html) - Static server that hosts Firefox Account sign up, sign in, email verification, etc. flows. ([Source Code](https://github.com/mozilla/fxa-content-server/)) `MPLv2` `Java`
    * [Firefox Sync Server](https://docs.services.mozilla.com/howtos/run-sync-1.5.html) - Sync Firefox bookmarks, passwords, history, tabs, preferences. ([Source Code](https://github.com/mozilla-services/syncserver)) `MPLv2` `Python`
   * [Lobsters](https://lobste.rs) - Run your own link aggregation site. ([Source Code](https://github.com/jcs/lobsters)) `BSD` `Ruby`
   * [No Fuss Bookmarks](http://nofussbm.herokuapp.com/signup.html) - Very simple software and service to store bookmarks especially designed for hackers (that don't need fancy interfaces, but nice API). ([Source Code](https://github.com/mapio/nofussbm)) `GPLv3` `Python`
   * [Pinry](http://getpinry.com/) - The tiling image board system for people who want to save, tag, and share images, videos, and webpages. ([Source Code](https://github.com/pinry/pinry)) `BSD` `Python`
   * [saveto.co](https://saveto.co/) - An open source, home for the best links on the web. ([Source Code](https://github.com/saveto-co/saveto)) `MIT` `Nodejs`
-  * [Shaarli](https://github.com/shaarli/Shaarli) - Personal, minimalist, super-fast, no-database bookmarking and link sharing plaform. ([Demo](http://shaarlidemo.tuxfamily.org/Shaarli/) `demo/demo`) `Zlib` `PHP`
+  * [Shaarli](https://github.com/shaarli/Shaarli) - Personal, minimalist, super-fast, no-database bookmarking and link sharing plaform. ([Demo](http://shaarlidemo.tuxfamily.org/#demo)) `Zlib` `PHP`
   * [unmark](https://unmark.it/) - An open source to do app for links. ([Source Code](https://github.com/plainmade/unmark)) `MIT` `PHP`
 
 ## Calendar and Address Books
@@ -998,6 +999,7 @@ See also [Documentation Generators](#documentation-generators), [Wikimatrix](htt
  * `MIT` - [MIT License](http://opensource.org/licenses/MIT)
  * `MPLv2` - [Mozilla Public License](https://www.mozilla.org/MPL/2.0/index.txt)
  * `OSLv3` - [Open Software License 3.0](https://opensource.org/licenses/osl-3.0.php)
+ * `Zlib` - [Zlib/libpng License](https://opensource.org/licenses/Zlib)
  * `Zope` - [Zope Public License 2.0](http://opensource.org/licenses/ZPL-2.0)
 
 
