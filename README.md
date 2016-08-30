@@ -1017,6 +1017,7 @@ See also [Documentation Generators](#documentation-generators), [Wikimatrix](htt
  * [PRISM Break](https://prism-break.org/en/), [privacytools.io](https://www.privacytools.io/), [Alternative Internet](https://redecentralize.github.io/alternative-internet/) - Lists of software aimed at privacy and decentralization (in some form).
  * Dynamic Domain Name services: [Afraid.org](https://freedns.afraid.org/domain/registry/), [Pagekite](https://pagekite.net/)
  * Communities/forums: [/r/selfhosted](https://www.reddit.com/r/selfhosted), [Auto-Hébergement (FR)](http://www.auto-hebergement.fr/)
+ * [100+ self-hosted alternatives to popular online services](https://www.rosehosting.com/blog/self-hosted-alternatives/) - a curated list of more than 100 free and open source apps as alternatives to online services.
 
 -------------------------------------------------------
 
