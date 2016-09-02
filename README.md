@@ -745,7 +745,6 @@ See https://github.com/n1trux/awesome-sysadmin#monitoring and https://github.com
 ## Photo and Video Galleries
   * [Chevereto 2.X](https://github.com/Chevereto/Chevereto-2.X) - Open source one-click image hosting script. ([Source Code](https://github.com/Chevereto/Chevereto-2.X)) `MIT` `PHP`
   * [CumulusClips](http://cumulusclips.org/) - Your own video sharing website with CumulusClips video sharing script. You can build a YouTube clone where users can upload, rate, comment on videos, and much more.  ([Demo](https://tube.devosi.org/)) `GPLv2` `PHP`
-  * [Koken](http://koken.me/) - Content management and web site publishing for photographers. `PHP`
   * [Lychee](http://lychee.electerious.com/) - An open source grid and album based photo-management-system. ([Source Code](https://github.com/electerious/Lychee)) `MIT` `PHP`
   * [MediaDrop](http://mediadrop.net/) - A video, audio and podcast publication platform. ([Source Code](https://github.com/mediadrop/mediadrop)) `GPLv3` `Python`
   * [Mediagoblin](http://mediagoblin.org) - A Free software media publishing platform that anyone can run. You can think of it as a decentralized alternative to Flickr, YouTube, SoundCloud, etc. `AGPLv3` `Python`
