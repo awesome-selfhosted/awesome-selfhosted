@@ -794,7 +794,7 @@ See https://github.com/n1trux/awesome-sysadmin#monitoring and https://github.com
 
   * [Nunux Keeper](http://keeper.nunux.org/) - Your personal content curation service. ([Source Code](https://github.com/ncarlier/nunux-keeper)) `GPLv3` `Nodejs`
   * [Readityourself](https://github.com/memiks/readityourself) - Read the web without ads, comments, or tweets. ([Demo](http://www.readityourself.net/)) `MIT` `PHP`
-  * [Wallabag](https://www.wallabag.org/?lang=fr_fr) - Wallabag, formerly Poche, is a web application allowing you to save articles to read them later with improved readability. ([Demo](http://demo.wallabag.org/), [Public instance](http://www.framabag.org/), [Source Code](https://github.com/wallabag/wallabag) `MIT` `PHP`
+  * [Wallabag](https://www.wallabag.org) - Wallabag, formerly Poche, is a web application allowing you to save articles to read them later with improved readability. ([Demo](http://demo.wallabag.org/), [Source Code](https://github.com/wallabag/wallabag)) `MIT` `PHP`
 
 
 ## Search Engines
