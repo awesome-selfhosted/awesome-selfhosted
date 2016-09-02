@@ -748,19 +748,17 @@ See https://github.com/n1trux/awesome-sysadmin#monitoring and https://github.com
   * [Lychee](http://lychee.electerious.com/) - An open source grid and album based photo-management-system. ([Source Code](https://github.com/electerious/Lychee)) `MIT` `PHP`
   * [MediaDrop](http://mediadrop.net/) - A video, audio and podcast publication platform. ([Source Code](https://github.com/mediadrop/mediadrop)) `GPLv3` `Python`
   * [Mediagoblin](http://mediagoblin.org) - A Free software media publishing platform that anyone can run. You can think of it as a decentralized alternative to Flickr, YouTube, SoundCloud, etc. `AGPLv3` `Python`
-  * [MinigalNano](https://github.com/sebsauvage/MinigalNano) - MinigalNano is a very simple image gallery. It adheres to the KISS principle and is very easy to install. MinigalNano does not have a web admin interface: You just upload your images in the photo folder on your server (using FTP, SFTP) ([Demo](http://boards.tomcanac.com/)) `CC BY-SA 3.0` `PHP`
-  * [phog](https://github.com/hillman/phog) - Static photo gallery generator with S3 uploader. `Python`
-  * [Photofloat](http://blog.zx2c4.com/567) - A Web 2.0 Photo Gallery Done Right via Static JSON & Dynamic Javascript. ([Demo](http://photos.jasondonenfeld.com/)) `GPLv2` `Javascript`
-  * [PhotoLight](https://github.com/thibaud-rohmer/PhotoLight) - The easiest photo gallery there is.  `GPLv3` `PHP`
-  * [Photoshow](http://www.photoshow-gallery.com/) - Responsive Web Gallery. ([Source Code](https://github.com/thibaud-rohmer/PhotoShow)) `Javascript` `GPLv3`
-  * [Piwigo](http://piwigo.org/) - Photo gallery software for the web, built by an active community of users and developers. - `GPLv2` `PHP`
+  * [MinigalNano](https://github.com/sebsauvage/MinigalNano) - MinigalNano is a very simple image gallery. It adheres to the KISS principle and is very easy to install. MinigalNano does not have a web admin interface: You just upload your images in the photo folder on your server (using FTP, SFTP). ([Demo](http://boards.tomcanac.com/)) `GPLv3/CCBYNCNDv4` `PHP`
+  * [Photofloat](http://blog.zx2c4.com/567) - A Web 2.0 Photo Gallery Done Right via Static JSON & Dynamic Javascript. ([Demo](http://photos.jasondonenfeld.com/)) `GPLv2` `Python`
+  * [PhotoLight](https://github.com/thibaud-rohmer/PhotoLight) - The easiest photo gallery there is. `GPLv3` `PHP`
+  * [Photoshow](http://www.photoshow-gallery.com/) - Responsive Web Gallery. ([Source Code](https://github.com/thibaud-rohmer/PhotoShow)) `GPLv3` `PHP`
+  * [Piwigo](http://piwigo.org/) - Photo gallery software for the web, built by an active community of users and developers. `GPLv2` `PHP`
   * [Plumi](http://blog.plumi.org/) - Create your own sophisticated video-sharing site. ([Source Code](https://github.com/plumi/plumi.app)) `GPLv2` `Python`
-  * [Pygmyfoto](https://github.com/dmpop/pygmyfoto) - A crude solution for publishing a photo roll on the web. `PHP`
-  * [Shot.io](http://shot.io/) - Mobile optimised photo publishing platform (self-hosted Flickr alternative) ([Source Code](https://github.com/AliasIO/Shot.io)) `GPLv3` `PHP`
+  * [Shot.io](http://shot.io/) - Mobile optimised photo publishing platform (self-hosted Flickr alternative). ([Source Code](https://github.com/AliasIO/Shot.io)) `GPLv3` `PHP`
   * [sigal](https://github.com/saimn/sigal) - Yet another simple static gallery generator. `MIT` `Python`
   * [UberGallery](http://www.ubergallery.net) - UberGallery is an easy to use, simple to manage, web photo gallery. UberGallery does not require a database and supports JPEG, GIF and PNG file types. Simply upload your images and UberGallery will automatically generate thumbnails and output HTML. ([Source Code](https://github.com/UberGallery/UberGallery)) `MIT` `PHP`
   * [Videobin](http://videobin.org/code) - A simple video upload and sharing service with transcoding. ([Demo](http://videobin.org/), [Source Code](https://r-w-x.org/videobin.git)) `GPLv3` `Python`
-  * [Zenphoto](http://www.zenphoto.org/) - Open-source gallery and CMS project. ([Source Code](https://github.com/zenphoto/zenphoto))  `GPLv2` `PHP`
+  * [Zenphoto](http://www.zenphoto.org/) - Open-source gallery and CMS project. ([Source Code](https://github.com/zenphoto/zenphoto)) `GPLv2` `PHP`
 
 
 ## Polls and Events
@@ -986,6 +984,7 @@ See also [Documentation Generators](#documentation-generators), [Wikimatrix](htt
  * `ARTv2` - [Artistic License Version 2.0](http://opensource.org/licenses/Artistic-2.0)
  * `Beerware` - [Beerware License](https://spdx.org/licenses/Beerware.html)
  * `BSD` - [FreeBSD License](https://www.freebsd.org/copyright/license.html)
+ * `CCBYNCNDv4` - [Attribution-NonCommercial-NoDerivatives 4.0 International](https://creativecommons.org/licenses/by-nc-nd/4.0/)
  * `CCBYNCSAv2` - [Creative Commons Attribution-NonCommercial-ShareAlike 2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/)
  * `CCBYNCSAv3` - [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported](https://creativecommons.org/licenses/by-nc-sa/3.0/)
  * `CCBYNCv4` - [Creative Commons Attribution-NonCommercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/)
