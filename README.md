@@ -976,7 +976,6 @@ See also [Documentation Generators](#documentation-generators), [Wikimatrix](htt
  * `AAL` - [Attribution Assurance License](https://opensource.org/licenses/AAL)
  * `AGPLv3` - [GNU Affero General Public License 3.0](https://www.gnu.org/licenses/agpl-3.0)
  * `Apache` - [Apache, Version 2.0](http://www.apache.org/licenses/)
- * `Apachev1` - [Apache, Version 1.0](http://www.apache.org/licenses/LICENSE-1.0)
  * `ARTv2` - [Artistic License Version 2.0](http://opensource.org/licenses/Artistic-2.0)
  * `BSD` - [FreeBSD License](https://www.freebsd.org/copyright/license.html)
  * `CCBYNCSAv2` - [Creative Commons Attribution-NonCommercial-ShareAlike 2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/)
