@@ -27,7 +27,7 @@ listlicenses:
 
 syntaxerrors:
 	@echo -e "\n Syntax errors:" 
-	@! sed -n -e '/BEGIN SOFTWARE LIST/,/END SOFTWARE LIST/ p' README.md | egrep  '\)\(|``'
+	@! sed -n -e '/BEGIN SOFTWARE LIST/,/END SOFTWARE LIST/ p' README.md | egrep  '\)\(|``|\)`'
 
 contrib:
 	@git shortlog -sne
