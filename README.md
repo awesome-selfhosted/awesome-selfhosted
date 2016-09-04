@@ -265,7 +265,7 @@ _Mailing lists servers and mass mailing software - one message to many recipient
 
 ### IRC
 
-*[IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat) communication software*
+_[IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat) communication software_
 
   * [Convos](http://convos.by/) - Always online web IRC client. ([Demo](http://demo.convos.by), [Source Code](http://github.com/nordaaker/convos)) `ARTv2` `Perl`
   * [IRCAnywhere](http://ircanywhere.com/) - Open-source self-hosted alternative to IRCCloud. ([Source Code](https://github.com/ircanywhere/ircanywhere)) `GPLv2` `Nodejs`
@@ -277,7 +277,7 @@ _Mailing lists servers and mass mailing software - one message to many recipient
 
 ### SIP
 
-*[SIP](https://en.wikipedia.org/wiki/Session_Initiation_Protocol) telephony software*
+_[SIP](https://en.wikipedia.org/wiki/Session_Initiation_Protocol) telephony software_
 
   * [Asterisk](http://www.asterisk.org/) - An easy to use but advanced IP PBX system, VoIP gateway and conference server. `GPLv2` `C`
   * [FreeSWITCH](https://freeswitch.org/) - Scalable open source cross-platform telephony platform. ([Source Code](https://freeswitch.org/stash/projects/FS/repos/freeswitch/browse)) `MPLv2` `C`
@@ -286,7 +286,7 @@ _Mailing lists servers and mass mailing software - one message to many recipient
 
 ### IPBX
 
- *[IPBX](https://en.wikipedia.org/wiki/IP_PBX) telephony software*
+_[IPBX](https://en.wikipedia.org/wiki/IP_PBX) telephony software_
 
   * [Elastix](http://www.elastix.org) - Unified communications server software based on Asterisk. ([Source Code](https://svn.code.sf.net/p/elastix/code/trunk/)) `GPLv2` `PHP`
   * [Freepbx](http://www.freepbx.org) - Web-based open source GUI that controls and manages Asterisk. ([Source Code](http://git.freepbx.org/projects/FREEPBX)) `GPLv2` `PHP`
