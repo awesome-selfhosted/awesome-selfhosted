@@ -10,7 +10,10 @@
 
 ## Content Management Systems (CMS)
 
+  * [CraftCMS](https://craftcms.com/) `⊘ Proprietary` - Craft is a content-first CMS that aims to make life enjoyable for developers and content managers alike. ([Demo](https://demo.craftcms.com/)) `PHP`
   * [Gazelle](https://github.com/WhatCD/Gazelle) - Gazelle is a web framework geared towards private BitTorrent trackers. Although naturally focusing on music, it can be modified for most needs. `unlicensed` `PHP`
+  * [Kirby](https://getkirby.com/) `⊘ Proprietary` - File-based CMS. Easy to setup. Easy to use. Flexible as hell. ([Source Code](https://github.com/getkirby/kirby)) `PHP` 
+
 
 
 ## Communication Systems
@@ -21,10 +24,6 @@
 ## Federated Identity/Authentication
 
   * [Auth0](https://auth0.com/docs/appliance): `⊘ Proprietary`. Identity made simple for developers. `NodeJS`
-
-## Content Management Systems (CMS)
-
-  * [Kirby](https://getkirby.com/): `⊘ Proprietary` File-based CMS. Easy to setup. Easy to use. Flexible as hell. `PHP` ([Source Code](https://github.com/getkirby/kirby))
 
 ## Feed Readers
 
