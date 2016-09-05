@@ -987,6 +987,7 @@ See also [Documentation Generators](#documentation-generators), [Wikimatrix](htt
  * `DPL` - [Devblocks Public License 1.0](http://www.cerberusweb.com/license)
  * `ECLv2` - [Educational Community License, Version 2.0 ](http://opensource.org/licenses/ECL-2.0)
  * `EPLv1` - [Eclipse Public License, Version 1.0](https://www.eclipse.org/legal/epl-v10.html)
+ * `Fair` - [Fair License](http://fairlicense.org/)
  * `GPL` - [GNU General Public License](https://www.gnu.org/licenses/gpl-1.0)
  * `GPLv2` - [GNU General Public License 2.0](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
  * `GPLv3` - [GNU General Public License 3.0](http://www.gnu.org/licenses/gpl-3.0.en.html)
