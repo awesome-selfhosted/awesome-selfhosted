@@ -423,19 +423,12 @@ See https://github.com/n1trux/awesome-sysadmin#dns
 
 * [ERPNext](https://erpnext.com) - Free open source ERP system. ([Demo](https://demo.erpnext.com), [Source Code](https://github.com/frappe/erpnext)) `GPLv3` `Python`
 * [Odoo](http://odoo.com) - Free open source ERP system. ([Demo](https://demo.odoo.com/), [Source Code](https://github.com/odoo/odoo)) `LGPLv3` `Python`
-* [Tryton](http://www.tryton.org/) - Free open source business solution. ([Demo](http://demo.tryton.org/), [Source Code](https://hg.tryton.org/)) `GPLv3` `Python/Javascript`
+* [Tryton](http://www.tryton.org/) - Free open source business solution. ([Demo](http://demo.tryton.org/), [Source Code](https://hg.tryton.org/)) `GPLv3` `Python`
 
 
 ## Federated Identity/Authentication
 
-  * [FreeRADIUS](http://freeradius.org/) - High performance and highly configurable multi-protocol policy/authentication server, supporting RADIUS, DHCPv4 and VMPS. ([Source Code](https://github.com/FreeRADIUS/freeradius-server)) `GPLv2` `C`
-   * [daloRADIUS](http://www.daloradius.com) - Open-source web management platform for FreeRADIUS-based deployments. ([Source Code](https://github.com/lirantal/daloradius)) `GPLv2` `PHP`
-  * [FreeIPA](https://www.freeipa.org/) - an integrated Identity and Authentication solution for Linux/UNIX networked environments. A FreeIPA server provides centralized authentication, authorization and account information by storing data about user, groups, hosts. `Multiple` `C`
-  * [IndieAuth](https://indieauth.com) - Sign in with your domain name (using the [rel-me-auth](http://microformats.org/wiki/relmeauth) protocol). `Apache` `Ruby`
-  * [Libravatar](https://www.libravatar.org/) - Libravatar is a service which delivers your avatar (profile picture) to other websites. ([Demo](https://www.libravatar.org/account/new/), [Source Code](https://github.com/libravatar/libravatar)) `AGPLv3` `Python`
-  * [OpenCA OCSPD](https://pki.openca.org/projects/ocspd/) - An [OCSP](https://en.wikipedia.org/wiki/Online_Certificate_Status_Protocol) Responder.
-  * [OpenID/OpenID Connect](http://openid.net/developers/libraries/) - A Simple Identity layer on top of OAuth 2.0. 
-  * [OSIAM](https://www.osiam.org) - Open Source Identity and Access Management implementing OAuth 2.0 and SCIMv2. ([Source Code](https://github.com/osiam/osiam)) `MIT` `Java`
+See https://github.com/n1trux/awesome-sysadmin#identity-management
 
 
 ## Feed Readers
