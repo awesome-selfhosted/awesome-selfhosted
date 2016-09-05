@@ -136,6 +136,7 @@ See also [Static Site Generators](#static-site-generators), [Content Management 
 
   * [Anchor CMS](https://anchorcms.com/) - Anchor is a free, lightweight, faster-than-a-bullet, simple blogging system, made for art–directed posts. ([Source Code](https://github.com/anchorcms/anchor-cms)) `GPLv3` `PHP`
   * [Antville](https://antville.org) - Antville is a free, open source project aimed at the development of a high performance, feature rich weblog hosting software. ([Source Code](https://github.com/antville/antville)) `Apache` `Javascript`
+  * [BlogEngine.NET](http://dotnetblogengine.net/) - A free and open source blogging platform built with .NET that is focused on simplicity, ease of use and extendibility. ([Source Code](https://github.com/rxtur/BlogEngine.NET)) `Ms-RL` `ASP.NET`
   * [Blogotext](http://lehollandaisvolant.net/blogotext/en/) - A free blog-engine written in PHP and using SQLite. This offers you both an unmatched simplicity during installation and great performances. ([Source Code](https://github.com/timovn/blogotext)) `MIT` `PHP`
   * [Chyrp](https://github.com/chyrp/chyrp) - An extra-awesome, extra-lightweight blog engine. `MIT` `PHP`
   * [Dotclear](http://dotclear.org/) - Take control over your blog! ([Source Code](https://hg.dotclear.org/dotclear)) `GPLv2` `PHP`
@@ -822,10 +823,11 @@ See also [Ticketing](#ticketing), [Task management/To-do lists](#task-management
   * [Phabricator](http://phabricator.org/) - Collection of web applications that help build better software. ([Demo](https://secure.phabricator.com/), [Source Code](https://github.com/phacility/phabricator)) `Apache` `PHP`
   * [Redmine](http://www.redmine.org/) - Redmine is a flexible project management web application. ([Demo](http://demo.redmine.org/), [Source Code](https://svn.redmine.org/redmine/)) `GPLv2` `Ruby`
   * [Taiga](https://taiga.io/) - Agile Project Management Tool based on the Kanban and Scrum methods.  ([Source Code](https://github.com/taigaio))
+  * [TFS 2016](https://www.visualstudio.com/downloads/download-visual-studio-vs) - Team Foundation Server (TFS) Express 2015 Update 3 is a free, source code-control (powered by Git or TFVC) project management and team collaboration platform for individual developers and small teams of five or less.
   * [The Bug Genie](http://www.thebuggenie.com/) - Written in PHP.
   * [Trac](http://trac.edgewall.org/) - Written in python.
   * [Phproject](http://www.phproject.org/) - A high performance full-featured project management system. ([Demo](http://demo.phproject.org/), [Source Code](https://github.com/Alanaktion/phproject)) `GPLv3`
-
+  
 
 ### Bug Trackers
 
@@ -842,6 +844,9 @@ See **[Ticketing](#ticketing)**
   * [Microglark](http://micro.glark.io) - A hacky minimalistic remote pair programming editor. ([Demo](http://micro.glark.io), [Source Code](https://github.com/Bluefinch/microglark)) `AGPLv3` `Javascript`
   * [Regexr](http://regexr.com/) - RegExr is a HTML/JS based tool for creating, testing, and learning about Regular Expressions. ([Source Code](https://github.com/gskinner/regexr/)) `MIT` `Nodejs`
   * [RStudio Server](https://www.rstudio.com/products/rstudio/#Server) - Web browser based IDE for R. ([Source Code](https://github.com/rstudio/rstudio/)) `AGPLv3` `Java/C++`
+  * [Visual Studio Community 2016](https://www.visualstudio.com/vs/community/) - A free, fully-featured and extensible Windows-based IDE for building applications that can target Windows, Android, and iOS,
+as well as web and cloud services. 
+  * [Visual Studio Code](https://code.visualstudio.com/) - A free, extensible and open source lightweight source code editor with many powerful features, and is available for Windows, OS X and Linux. ([Source Code](https://github.com/microsoft/vscode)) `MIT`  
   * [Wide](https://github.com/b3log/wide) - A Web-based IDE for Teams using Go programming language/Golang. ([Demo](http://wide.b3log.org/signup)) `Apache` `Go`
 
 
