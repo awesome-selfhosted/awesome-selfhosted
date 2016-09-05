@@ -1,4 +1,4 @@
-Thank you for taking the time to work on a PR for Awesome-selfhosted!
+Thank you for taking the time to work on a PR for Awesome-Selfhosted!
 
 To ensure your PR is dealt with swiftly please check the following:
 
