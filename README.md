@@ -841,6 +841,7 @@ See **[Ticketing](#ticketing)**
 
 ### Continuous Integration
 
+  * [Buddy GO](https://buddy.works/) - The Git and Continous Integration / Delivery Platform. `Fair` `Nodejs/Java`
   * [Concourse](https://concourse.ci/) - Concourse is a CI tool that treats pipelines as first class objects and containerizes every step along the way. ([Demo](https://ci.concourse.ci/), [Source Code](https://github.com/concourse/concourse)) `Apache` `Go`
   * [drone](https://drone.io/) - Drone is a Continuous Delivery platform built on Docker, written in Go. ([Source Code](https://github.com/drone/drone)) `Apache` `Go`
   * [Factor.io](https://factor.io/) - It's like IFTTT (if-this-then-that) for Dev and DevOps. ([Source Code](https://github.com/factor-io/factor)) `MIT` `Ruby`
@@ -986,6 +987,7 @@ See also [Documentation Generators](#documentation-generators), [Wikimatrix](htt
  * `DPL` - [Devblocks Public License 1.0](http://www.cerberusweb.com/license)
  * `ECLv2` - [Educational Community License, Version 2.0 ](http://opensource.org/licenses/ECL-2.0)
  * `EPLv1` - [Eclipse Public License, Version 1.0](https://www.eclipse.org/legal/epl-v10.html)
+ * `Fair` - [Fair License](http://fairlicense.org/)
  * `GPL` - [GNU General Public License](https://www.gnu.org/licenses/gpl-1.0)
  * `GPLv2` - [GNU General Public License 2.0](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
  * `GPLv3` - [GNU General Public License 3.0](http://www.gnu.org/licenses/gpl-3.0.en.html)
