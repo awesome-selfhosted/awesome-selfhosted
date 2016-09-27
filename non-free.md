@@ -20,7 +20,12 @@
 
   * [HipChat](https://www.atlassian.com/software/hipchat) `⊘ Proprietary` - A team chat solution with 1:1 chat audio and video, third party integration and more `PHP/Python`
 
+  
+## Decentralized Network
 
+  * [Synereo](https://www.synereo.com/) - Decentralized network system based on blockchain that allows fast speed and great trust level. ([Source Code](https://github.com/synereo/synereo)) `Scala`  
+
+  
 ## Federated Identity/Authentication
 
   * [Auth0](https://auth0.com/docs/appliance): `⊘ Proprietary`. Identity made simple for developers. `NodeJS`
