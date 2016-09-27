@@ -15,7 +15,6 @@
   * [Kirby](https://getkirby.com/) `⊘ Proprietary` - File-based CMS. Easy to setup. Easy to use. Flexible as hell. ([Source Code](https://github.com/getkirby/kirby)) `PHP` 
 
 
-
 ## Communication Systems
 
   * [HipChat](https://www.atlassian.com/software/hipchat) `⊘ Proprietary` - A team chat solution with 1:1 chat audio and video, third party integration and more `PHP/Python`
@@ -30,6 +29,7 @@
 
   * [Auth0](https://auth0.com/docs/appliance): `⊘ Proprietary`. Identity made simple for developers. `NodeJS`
 
+  
 ## Feed Readers
 
   * [Fever](http://feedafever.com/) `⊘ Proprietary` - Self-hosted feed aggregator that can sort items by popularity `PHP`
@@ -52,6 +52,7 @@
   * [Plex](https://plex.tv/) `⊘ Proprietary` - Plex is a centralized home media playback system with a powerful central server.
   * [Subsonic](http://subsonic.org/) - Web-based media streamer and jukebox. ([Demo](http://demo.subsonic.org/login.view?user=guest4&password=guest))
 
+  
 ## Money, Budgeting and Management
 
   * [Anchor](http://theanchorapp.com/) - Anchor is an invoicing system that integrates with Stripe and Paypal. Includes features such as: reporting, dashboard and no client limit. ([Demo](http://theanchorapp.com/demo/admin-login)) `PHP`
@@ -62,14 +63,15 @@
 
 ## Photo and Video Galleries
 
-  * [ArtVenue](http://codecanyon.net/item/artvenue-image-sharing-community-script/5771542) - `⊘ Proprietary` Start your own photography community website, platform based on the Laravel PHP Framework. ([Demo](http://codecanyon.net/item/artvenue-image-sharing-community-script/full_screen_preview/5771542)) `PHP`
-  * [Chevereto](https://chevereto.com/) - `⊘ Proprietary`  A powerful and fast image hosting script that allows you to create your very own full featured image hosting website in just minutes. ([Demo](http://demo.chevereto.com/)) `PHP`
-  * [Koken](http://koken.me/) - `⊘ Proprietary` Content management and web site publishing for photographers. `PHP`
-  * [Single File PHP Gallery](http://sye.dk/sfpg/) - `⊘ Proprietary` is a web gallery in one single PHP file. `PHP` 
+  * [ArtVenue](http://codecanyon.net/item/artvenue-image-sharing-community-script/5771542) `⊘ Proprietary` - Start your own photography community website, platform based on the Laravel PHP Framework. ([Demo](http://codecanyon.net/item/artvenue-image-sharing-community-script/full_screen_preview/5771542)) `PHP`
+  * [Chevereto](https://chevereto.com/) `⊘ Proprietary` - A powerful and fast image hosting script that allows you to create your very own full featured image hosting website in just minutes. ([Demo](http://demo.chevereto.com/)) `PHP`
+  * [Koken](http://koken.me/) `⊘ Proprietary` - Content management and web site publishing for photographers. `PHP`
+  * [Single File PHP Gallery](http://sye.dk/sfpg/) `⊘ Proprietary` - is a web gallery in one single PHP file. `PHP` 
 
+  
 ## Project Management
-  * [Active Collab](https://www.activecollab.com/) - Project management  - `⊘ Proprietary` `PHP`
-  * [Duet](https://duetapp.com/) - `⊘ Proprietary` Invoicing and project management with an integrated client portal. ([Demo](https://duetapp.com/demo/#dashboard)) `PHP`
+  * [Active Collab](https://www.activecollab.com/) `⊘ Proprietary` - Project management - `PHP`
+  * [Duet](https://duetapp.com/) `⊘ Proprietary` - Invoicing and project management with an integrated client portal. ([Demo](https://duetapp.com/demo/#dashboard)) `PHP`
   * [Solo](http://www.getsoloapp.com/) - Solo is a free project management app created for freelancers. Create contacts, manage tasks, upload files, track project progress, and keep notes. ([Demo](http://www.getsoloapp.com/demo/)) `PHP`
 
   
@@ -78,9 +80,10 @@
   
   
 ## Self-hosting Solutions
-  * [Axigen](https://www.axigen.com/mail-server/free/) - `⊘ Proprietary` Great alternative to open source. It's a turnkey messaging solution, perfect for small & micro businesses, integration projects or test environments.
-  * [hMailServer](https://www.hmailserver.com) - `⊘ Proprietary` Open source e-mail server for Microsoft Windows. ([Source Code](https://github.com/hmailserver/hmailserver)) `C++`
+  * [Axigen](https://www.axigen.com/mail-server/free/) `⊘ Proprietary` -  Great alternative to open source. It's a turnkey messaging solution, perfect for small & micro businesses, integration projects or test environments.
+  * [hMailServer](https://www.hmailserver.com) `⊘ Proprietary` - Open source e-mail server for Microsoft Windows. ([Source Code](https://github.com/hmailserver/hmailserver)) `C++`
 
+  
 ## Software Development
 
   * [92five](http://92fiveapp.com/) `⊘ Proprietary` - Self hosted project management application ([Source code](https://github.com/chintanbanugaria/92five)) `CC BY-NC 4.0` `PHP`
@@ -92,5 +95,6 @@
   * [RhodeCode](https://rhodecode.com) `⊘ Proprietary` - On-premise Source Code Management for Mercurial, Git & Subversion. `Python`
   * [Stash](https://www.atlassian.com/software/stash) `⊘ Proprietary` - An enterprise-level Git solution similar to GitLab `Java`
 
+  
 ## Ticketing
   * [SupportPal](https://www.supportpal.com/) `⊘ Proprietary` - Powerful help desk software - easy, fast and intuitive. ([Demo](http://demo.supportpal.com/)) `PHP`
