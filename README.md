@@ -511,12 +511,9 @@ Some [Groupware](#groupware) solutions also feature file sharing and synchroniza
 
 #### Distributed filesystems
 
-  * [Camlistore](https://camlistore.org/) - Camlistore is a set of open source formats, protocols, and software for modeling, storing, searching, sharing and synchronizing data in the post-PC era. Data may be files, objects, tweets, or 5TB videos. ([Source Code](https://github.com/camlistore/camlistore)) `Apache` `Go`
-  * [GlusterFS](https://www.gluster.org) - GlusterFS is a scalable network filesystem. Using common off-the-shelf hardware, you can create large, distributed storage solutions for media streaming, data analysis, and other data- and bandwidth-intensive tasks. ([Source Code](https://github.com/gluster/glusterfs)) `LGPLv3/GPLv2` `C`
-  * [Go IPFS](https://github.com/ipfs/go-ipfs) - Implementation of [IPFS](http://ipfs.io/), a global, versioned, peer-to-peer filesystem that seeks to connect all computing devices with the same system of files. `MIT` `Go`
-  * [Ori Filesystem](http://ori.scs.stanford.edu/) - A Secure Distributed File System built for offline operation. ([Source Code](https://bitbucket.org/orifs/ori/wiki/Home)) `MIT` `C++`
-  * [Swift](http://docs.openstack.org/developer/swift/) - A highly available, distributed, eventually consistent object/blob store. ([Source Code](https://github.com/openstack/swift)) `Apache` `Python`
-  * [Tahoe-LAFS](https://www.tahoe-lafs.org/trac/tahoe-lafs) - Tahoe-LAFS is a Free and Open decentralized cloud storage system. It distributes your data across multiple servers. If some of the servers fail or are taken over, the entire file store continues to function correctly, preserving privacy and security. ([Source Code](https://github.com/tahoe-lafs/tahoe-lafs)) `GPLv2` `Python`
+**[`^        back to top        ^`](#)**
+
+See https://github.com/n1trux/awesome-sysadmin#distributed-filesystems
 
 #### File transfer/synchronization
 
