@@ -611,6 +611,8 @@ See https://github.com/n1trux/awesome-sysadmin#distributed-filesystems
 
   * [GateOne](http://liftoffsoftware.com/Products/GateOne) - Gate One is an HTML5 web-based terminal emulator and SSH client. ([Source Code](https://github.com/liftoff/GateOne/)) `AGPLv3` `Python`
   * [Guacamole](http://guac-dev.org/) - Guacamole is a clientless remote desktop gateway. It supports standard protocols like VNC and RDP. ([Source Code](https://github.com/glyptodon/)) `Apache` `Java/C`
+  * [oneye](https://oneye-project.org/) - Cloud software to access your data from everywhere with any browser. ([Demo](https://wiki.oneye-project.org/0.9:demo), [Source Code](https://github.com/oneye/oneye)) `AGPLv3` `PHP`
+  * [OS.js](https://os.js.org/) - A desktop implementation for your browser with a fully-fledged window manager, Application APIs, GUI toolkits and filesystem abstraction. ([Demo](https://osjsv2.0o.no/), [Source Code](https://github.com/os-js/OS.js)) `BSD` `Nodejs`
 
 
 ## Groupware
