@@ -703,8 +703,8 @@ See also <https://en.wikipedia.org/wiki/List_of_streaming_media_systems>, <https
 
 **[`^        back to top        ^`](#)**
 
-  * [COPS](https://blog.slucas.fr/en/oss/calibre-opds-php-server) - Calibre OPDS PHP Server, a web-based light alternative to Calibre content server or Calibre2OPDS, to serve ebooks. ([Demo](http://cops-demo.slucas.fr/index.php), [Source Code](https://github.com/seblucas/cops)) `GPLv2` `PHP`
-  * [CrushPaper](https://www.crushpaper.com/) - CrushPaper is for students, writers and anyone who writes papers, essays or articles and quotes their sources. ([Source Code](https://github.com/ZapBlasterson/crushpaper)) `AGPLv3` `Java`
+  * [COPS](https://blog.slucas.fr/en/oss/calibre-opds-php-server) - A lightweight e-book server alternative to Calibre content server or Calibre2OPDS. ([Demo](http://cops-demo.slucas.fr/index.php), [Source Code](https://github.com/seblucas/cops)) `GPLv2` `PHP`
+  * [CrushPaper](https://www.crushpaper.com/) - Research the web for relevant sources, save quotations from them to CrushPaper and then combine them with your own insights into a paper.  ([Source Code](https://github.com/ZapBlasterson/crushpaper)) `AGPLv3` `Java`
   * [EasyBook Project](http://easybook-project.org/) - Book publishing as easy as it should be. ([Source Code](https://github.com/javiereguiluz/easybook)) `MIT` `PHP`
   * [Flox](https://github.com/devfake/flox) `⚠` - Self hosted movie watch list with a rating based on a 3-point system for good, medium and bad. ([Demo](http://80.240.132.120/flox-demo/public/)) `MIT` `PHP`
   * [GeneWeb](https://geneweb.tuxfamily.org/wiki/GeneWeb) - GeneWeb is an open source genealogy software written in OCaml. It comes with a Web interface and can be used off-line or as a Web service. ([Demo](https://demo.geneweb.tuxfamily.org/gw7/), [Source Code](https://github.com/geneweb/geneweb)) `GPLv2` `OCAML`
