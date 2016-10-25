@@ -27,8 +27,8 @@ function entryErrorCheck(md) {
             if (entryArray[i].pass == true) {
                 totalPass += 1;
                 //console.log(i + 1 + ". Pass: " + entryArray[i].name);
-            } else {
-                console.log("Line #" + i + 1 + ". Fail: " + entryArray[i].name);
+            } else {    
+                console.log("Line #" + (i + 1) + ". Fail: " + entryArray[i].name);
                 //console.log(entries[i]);
                 totalFail += 1;
             }
