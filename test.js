@@ -27,22 +27,19 @@ function entryErrorCheck(md) {
             if (entryArray[i].pass == true) {
                 totalPass += 1;
                 //console.log(i + 1 + ". Pass: " + entryArray[i].name);
-                process.exit(0);
             } else {
                 console.log("Line #" + i + 1 + ". Fail: " + entryArray[i].name);
                 //console.log(entries[i]);
                 totalFail += 1;
-                process.exit(1);
             }
         }
     }
             if (totalFail > 0) {
                 console.log(totalFail + " Failed, " + totalPass + " Passed, of " + total);
-
-                testStatus = 1;
+                process.exit(1);
             } else {
                 console.log(totalFail + " Failed, " + totalPass + " Passed, of " + total);
-                testStatus = 0;        
+                process.exit(0);      
             }
         //console.log(entries[i])
         //console.log(totalPass + "|" + totalFail);
