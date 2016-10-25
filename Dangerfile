@@ -12,4 +12,12 @@ j = JSON.parse results
 if j['error']==true
   fail j['title']
   markdown j['message']
+
+# Check syntx
+require 'json'
+results = File.read 'syntaxcheck.json'
+j = JSON.parse results
+if j['error']==true
+  fail j['title']
+  markdown j['message']
 end 

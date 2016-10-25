@@ -1,5 +1,7 @@
 const fs = require('fs');
 var testStatus;
+var log = "{\n";
+var issuelog = '"message": "Line | Entry\\n----|----------------------\\n';
 
 var file = fs.readFileSync('README.md', 'utf8')
 entryErrorCheck(file);
@@ -28,17 +30,22 @@ function entryErrorCheck(md) {
                 totalPass += 1;
                 //console.log(i + 1 + ". Pass: " + entryArray[i].name);
             } else {    
-                console.log("Line #" + (i + 1) + ". Fail: " + entryArray[i].name);
+                console.log("Line #" + (i + 1) + ". Fail: " + entryArray[i].name + "\\n");
                 //console.log(entries[i]);
                 totalFail += 1;
+                issuelog += (i + 1) + " | " + entryArray[i].name;
             }
         }
     }
             if (totalFail > 0) {
                 console.log(totalFail + " Failed, " + totalPass + " Passed, of " + total);
+                log += '"error": "true",\n"title": "Found ' + totalFail + ' syntax error(s).",\n';
+                fs.writeFileSync('syntaxcheck.json', log + issuelog + '"\n}');
                 process.exit(1);
             } else {
-                console.log(totalFail + " Failed, " + totalPass + " Passed, of " + total);
+                console.log(totalFail + " Failed, " + totalPass + " Passed, of " + total + "\n");
+                log += '"error": false,\n"title": "No errors found!"\n}';
+                fs.writeFileSync('syntaxcheck.json', log);
                 process.exit(0);      
             }
         //console.log(entries[i])
