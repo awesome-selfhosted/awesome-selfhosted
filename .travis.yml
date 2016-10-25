@@ -6,9 +6,11 @@ node_js:
 before_install:
   - rvm install 2.2
   - gem install awesome_bot
+  - gem install danger
 script:
   - node test.js
   - awesome_bot README.md --allow-dupe --allow-redirect --allow-ssl -w notepad.cc,www.invoiceplane.com,proxy.donttrustrobots.nl,demo.phproject.org,dev.webtrees.net
+  - danger
   #Whitelisted              Reason
   #www.invoiceplane.com     awesome_bot receives error 500, works fine from browser
   #notepad.cc               not an actual link, mentioned in description
