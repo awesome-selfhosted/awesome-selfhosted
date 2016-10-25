@@ -3,5 +3,9 @@ language: node_js
 node_js:
   - "node"
 
+before_install:
+  - rvm install 2.2
+  - gem install awesome_bot
 script:
   - node test.js
+  - awesome_bot README.md --allow-dupe --allow-redirect
