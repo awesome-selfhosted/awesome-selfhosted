@@ -8,4 +8,11 @@ before_install:
   - gem install awesome_bot
 script:
   - node test.js
-  - awesome_bot README.md --allow-dupe --allow-redirect
+  - awesome_bot README.md --allow-dupe --allow-redirect -w scrollback.io,dev.sigpipe.me,svn.redmine.org,notepad.cc,www.invoiceplane.com
+  #Whitelisted              Reason
+  #scrollback.io            certificate issue
+  #dev.sigpipe.me           certificate issue
+  #svn.redmine.org          certificate error
+  #www.invoiceplane.com     awesome_bot receives error 500, works fine from browser
+  #notepad.cc               not an actual link, mentioned in description
+  #proxy.donttrustrobots.nl site down issue submitted: https://github.com/swiperproxy/swiperproxy/issues/27
