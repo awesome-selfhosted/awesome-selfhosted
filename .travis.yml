@@ -8,7 +8,7 @@ before_install:
   - gem install awesome_bot
 script:
   - node test.js
-  - awesome_bot README.md --allow-dupe --allow-redirect -w scrollback.io,dev.sigpipe.me,svn.redmine.org,notepad.cc,www.invoiceplane.com
+  - awesome_bot README.md --allow-dupe --allow-redirect -w scrollback.io,dev.sigpipe.me,svn.redmine.org,notepad.cc,www.invoiceplane.com,proxy.donttrustrobots.nl
   #Whitelisted              Reason
   #scrollback.io            certificate issue
   #dev.sigpipe.me           certificate issue
