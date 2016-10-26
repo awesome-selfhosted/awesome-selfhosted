@@ -761,7 +761,7 @@ See https://github.com/n1trux/awesome-sysadmin#monitoring and https://github.com
   * [OpenNote](https://github.com/FoxUSA/OpenNote) - OpenNote was built to be an open web-based alternative to Microsoft OneNote (T) and EverNote. ([Demo](https://foxusa.github.io/OpenNote/OpenNote/#/folder)) `MIT` `HTML5`
   * [Paperwork](http://paperwork.rocks) - OpenSource note-taking & archiving alternative to Evernote, Microsoft OneNote & Google Keep. ([Source Code](https://github.com/twostairs/paperwork)) `MIT` `PHP`
   * [ShareLaTex](https://www.sharelatex.com/) - A web-based collaborative LaTeX editor. ([Source Code](https://github.com/sharelatex/sharelatex)) `AGPLv3` `Ruby`
-  * [TagSpaces](https://www.tagspaces.org/) - TagSpaces is an offline, cross-platform file manager and organiser that also can function as a note taking app, providing an open-source alternative to Evernote. ([Demo](http://demo.tagspaces.org), ([Source Code](https://github.com/tagspaces/tagspaces)) `AGPLv3` `Javascript`  
+  * [TagSpaces](https://www.tagspaces.org/) - TagSpaces is an offline, cross-platform file manager and organiser that also can function as a note taking app, providing an open-source alternative to Evernote. ([Demo](http://demo.tagspaces.org)), ([Source Code](https://github.com/tagspaces/tagspaces)) `AGPLv3` `Javascript`  
   * [Turtl](https://turtl.it/) - A totally private personal database and note taking app. ([Source Code](https://github.com/turtl)) `GPLv3` `CommonLisp`
 
 
