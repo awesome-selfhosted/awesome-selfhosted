@@ -8,14 +8,10 @@ before_install:
   - gem install awesome_bot
   - gem install danger
 script:
-  - '[ "$TRAVIS_PULL_REQUEST" != "false" ]; && git diff master.. -U0 README.md | grep -Po "(?<=^\+).*" >> temp.md && (node test.js temp.md) && awesome_bot temp.md --allow-redirect'
-  - '[ "$TRAVIS_PULL_REQUEST" = "false" ]; && (node test.js README.md) && awesome_bot README.md --allow-dupe --allow-redirect --allow-ssl -w notepad.cc,www.invoiceplane.com,proxy.donttrustrobots.nl,demo.phproject.org,dev.webtrees.net'
-
-
-
-  - node test.js
-  - awesome_bot README.md --allow-dupe --allow-redirect --allow-ssl -w notepad.cc,www.invoiceplane.com,proxy.donttrustrobots.nl,demo.phproject.org,dev.webtrees.net
+  - '[ "${TRAVIS_PULL_REQUEST}" != "false" ] && git diff master.. -U0 README.md | grep -Po "(?<=^\+).*" >> temp.md && (node test.js temp.md) && awesome_bot temp.md --allow-redirect'
+  - '[ "${TRAVIS_PULL_REQUEST}" = "false" ] && (node test.js README.md) && awesome_bot README.md --allow-dupe --allow-redirect --allow-ssl -w notepad.cc,www.invoiceplane.com,proxy.donttrustrobots.nl,demo.phproject.org,dev.webtrees.net'
   - danger
+  #####awesome_bot#####
   #Whitelisted              Reason
   #www.invoiceplane.com     awesome_bot receives error 500, works fine from browser
   #notepad.cc               not an actual link, mentioned in description
