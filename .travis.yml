@@ -7,10 +7,10 @@ before_install:
   - rvm install 2.2
   - gem install awesome_bot
   - gem install danger
-  - echo $TRAVIS_PULL_REQUEST
 script:
+  - echo $TRAVIS_PULL_REQUEST
   - |
-    if [ $TRAVIS_PULL_REQUEST != "false" ]; then
+    if [ $TRAVIS_PULL_REQUEST = 'false' ]; then
       node test.js README.md
       awesome_bot README.md --allow-dupe --allow-redirect --allow-ssl -w notepad.cc,www.invoiceplane.com,proxy.donttrustrobots.nl,demo.phproject.org,dev.webtrees.net
     else
