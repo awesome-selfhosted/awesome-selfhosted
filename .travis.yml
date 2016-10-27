@@ -7,9 +7,17 @@ before_install:
   - rvm install 2.2
   - gem install awesome_bot
   - gem install danger
+  - echo $TRAVIS_PULL_REQUEST
 script:
-  - '[ "${TRAVIS_PULL_REQUEST}" != "false" ] && git diff master.. -U0 README.md | grep -Po "(?<=^\+).*" >> temp.md && (node test.js temp.md) && awesome_bot temp.md --allow-redirect'
-  - '[ "${TRAVIS_PULL_REQUEST}" = "false" ] && (node test.js README.md) && awesome_bot README.md --allow-dupe --allow-redirect --allow-ssl -w notepad.cc,www.invoiceplane.com,proxy.donttrustrobots.nl,demo.phproject.org,dev.webtrees.net'
+  - |
+    if [ $TRAVIS_PULL_REQUEST != "false" ]; then
+      node test.js README.md
+      awesome_bot README.md --allow-dupe --allow-redirect --allow-ssl -w notepad.cc,www.invoiceplane.com,proxy.donttrustrobots.nl,demo.phproject.org,dev.webtrees.net
+    else
+      git diff master.. -U0 README.md | grep -Po "(?<=^\+).*" >> temp.md
+      node test.js temp.md
+      awesome_bot temp.md --allow-redirect'
+    fi
   - danger
   #####awesome_bot#####
   #Whitelisted              Reason
