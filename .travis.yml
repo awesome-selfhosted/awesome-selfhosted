@@ -9,7 +9,7 @@ before_install:
   - gem install danger
 script:
   - 'if [ "$TRAVIS_PULL_REQUEST" != "false" ]; then bash git diff master.. -U0 README.md | grep -Po "(?<=^\+).*" >> temp.md && node test.js temp.md && awesome_bot temp.md --allow-redirect; fi'
-  - 'if [ "$TRAVIS_PULL_REQUEST" = "false" ]; then bash node test.js README.md && awesome_bot README.md --allow-dupe --allow-redirect --allow-ssl -w notepad.cc,www.invoiceplane.com,proxy.donttrustrobots.nl,demo.phproject.org,dev.webtrees.net; fi'
+  - 'if [ "$TRAVIS_PULL_REQUEST" = "false" ]; then node test.js README.md && awesome_bot README.md --allow-dupe --allow-redirect --allow-ssl -w notepad.cc,www.invoiceplane.com,proxy.donttrustrobots.nl,demo.phproject.org,dev.webtrees.net; fi'
 
 
 
