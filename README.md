@@ -111,7 +111,7 @@ _Business Intelligence_
   * [Metabase](http://www.metabase.com/) - Simple Dashboarding and GUI Query tool, Nightly Emails and Slack Integration w/ PostgreSQL, MySQL, Redshift and other DBs. ([Source Code](https://github.com/metabase/metabase)) `AGPLv3` `Clojure`
   * [Redash](http://redash.io) - connect to over 18 types of databases (SQL and "NoSQL"), query your data, visualize it and create dashboards. Everything has a URL that can be shared. Slack and HipChat integration. ([Demo](https://demo.redash.io), [Source Code](https://github.com/getredash/redash)) `BSD` `Python`
 
- 
+
 ## Automation
 
 **[`^        back to top        ^`](#)**
@@ -398,7 +398,7 @@ _[Extensible Messaging and Presence Protocol](https://en.wikipedia.org/wiki/XMPP
   * [OpenConferenceWare](http://openconferenceware.org/) - An open source web application for supporting conference-like events. This customizable, general-purpose platform provides proposals, sessions, schedules, tracks, user profiles. ([Source Code](https://github.com/osbridge/openconferenceware)) `MIT` `Ruby`
   * [osem](http://osem.io/) - Event management tailored to free Software conferences. ([Demo](http://demo.osem.io/), [Source Code](https://github.com/openSUSE/osem)) `MIT` `Ruby`
 
-  
+
 ## Content Management Systems (CMS)
 
 **[`^        back to top        ^`](#)**
@@ -881,6 +881,7 @@ See https://github.com/n1trux/awesome-sysadmin#monitoring and https://github.com
   * [LimeSurvey](https://www.limesurvey.org) - Feature-rich Open Source web based polling software. Supports extensive survey logic. ([Demo](https://demo.limesurvey.org)) `GPLv2` `PHP`
   * [MaterialPoll](https://github.com/nearbycoder/materialpoll) - An opensource strawpoll.me clone for creating random polls. ([Demo](http://materialpoll.tk), [Source Code](https://github.com/nearbycoder/materialpoll)) `MIT` `Nodejs`
   * [Nuages](https://nuages.domainepublic.net/) - Collaborative meeting poll system, similar to doodle or rdvz. ([Source Code](http://git.domainepublic.net/?p=nuages.git;a=tree)) `GPLv3` `Python`
+  * [PHPBack](http://www.phpback.org) - The open source feedback system. ([Demo](http://www.phpback.org/demo/), [Source Code](https://github.com/ivandiazwm/phpback/)) `GPLv3` `PHP`
   * [TellForm](https://tellform.com) - A beautiful online form and survey creator. ([Demo](https://stage.tellform.com/#!/forms/57196d592601ed12074eecc0), [Source Code](https://github.com/whitef0x0/tellform)) `MIT` `Nodejs`
 
 
@@ -982,7 +983,7 @@ See **[Ticketing](#ticketing)**
 
 
 ### API Management
-  
+
  * [DreamFactory](https://www.dreamfactory.com/) - Turns any SQL/NoSQL/Structured data into Restful API. ([Source Code](https://github.com/dreamfactorysoftware/dreamfactory)) `Apache` `PHP`
  * [Fusio](http://www.fusio-project.org/) - Fusio is an open source API management platform which helps to build and manage REST APIs. ([Demo](http://demo.fusio-project.org/backend.htm), [Source Code](https://github.com/apioo/fusio)) `AGPLv3` `PHP`
  * [Para](http://www.paraio.org) - Para is a flexible and modular backend framework/server for object persistence, API development and authentication. ([Source Code](https://github.com/erudika/para)) `Apache` `Java`
