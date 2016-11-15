@@ -6,7 +6,7 @@ Selfhosting is the process of locally hosting and managing applications instead 
 
 This is a list of [Free](https://en.wikipedia.org/wiki/Free_software) Software [network services](https://en.wikipedia.org/wiki/Network_service) and [web applications](https://en.wikipedia.org/wiki/Web_application) which can be hosted locally. Non-Free software is listed on the [Non-Free](non-free.md) page.
 
-See [Contributing](#contributing).
+See [Contributing](.github/CONTRIBUTING.md).
 
 =================
 
