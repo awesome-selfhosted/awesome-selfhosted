@@ -175,6 +175,7 @@ See also [Static Site Generators](#static-site-generators), [Content Management 
   * [saveto.co](https://saveto.co/) - An open source, home for the best links on the web. ([Source Code](https://github.com/saveto-co/saveto)) `MIT` `Nodejs`
   * [Shaarli](https://github.com/shaarli/Shaarli) - Personal, minimalist, super-fast, no-database bookmarking and link sharing plaform. ([Demo](http://shaarlidemo.tuxfamily.org/#demo)) `Zlib` `PHP`
   * [unmark](https://unmark.it/) - An open source to do app for links. ([Source Code](https://github.com/plainmade/unmark)) `MIT` `PHP`
+  * [Anchr](https://anchr.io) - Anchr is a toolbox for tiny tasks on the internet, including bookmark collections, URL shortening and (encrypted) image uploads. ([Source Code](https://github.com/n1try/anchr)) `GPLv3` `Nodejs`
 
 ## Calendar and Address Books
 
@@ -590,6 +591,7 @@ See https://github.com/n1trux/awesome-sysadmin#distributed-filesystems
   * [Up1](https://github.com/Upload/Up1) - A Client-side Encrypted Image Host. ([Demo](https://up1.ca/)) `MIT` `Nodejs`
   * [uPste](https://u.pste.pw) - A private file hosting application with an emphasis on serving technology communities. ([Source Code](https://github.com/TheReverend403/uPste)) `AGPLv3` `PHP`
   * [YouTransfer](http://www.youtransfer.io) - YouTransfer is a simple but elegant self-hosted file transfer & sharing solution. ([Demo](http://demo.youtransfer.io/), [Source Code](https://github.com/remie/YouTransfer)) `Apache` `Nodejs`
+  * [Anchr](https://anchr.io) - Anchr is a toolbox for tiny tasks on the internet, including (encrypted) image uploads, URL shortening and bookmark collections. ([Demo](https://anchr.io), [Source Code](https://github.com/n1try/anchr)) `GPLv3` `Nodejs`
 
 #### Web based file managers
 
@@ -903,7 +905,8 @@ See https://github.com/n1trux/awesome-sysadmin#monitoring and https://github.com
   * [Swiperproxy](https://swiperproxy.github.io/) - A lightning-fast, open source web proxy that is easy for you to run and customize. ([Demo](http://proxy.donttrustrobots.nl/), [Source Code](https://github.com/swiperproxy/swiperproxy)) `MIT` `Python`
   * [Tinyproxy](https://banu.com/tinyproxy/) - Light-weight HTTP/HTTPS proxy daemon. ([Source Code](https://github.com/tinyproxy/tinyproxy)) `GPLv2` `C`
   * [Traefik](https://traefik.io/) - Træfɪk is a modern HTTP reverse proxy and load balancer made to deploy microservices with ease. It supports several backends (Docker, Swarm, Mesos/Marathon, …) to manage its configuration automatically and dynamically. ([Source Code](https://github.com/containous/traefik)) `MIT` `Go`
-
+  * [http2-serverpush-proxy](https://github.com/n1try/http2-serverpush-proxy) -  A reverse proxy that helps to automatically utilize HTTP/2.0's server push mechanism for static websites. Available as middleware and standalone application. ([Source Code](https://github.com/n1try/http2-serverpush-proxy)) `MIT` `Nodejs`
+  
 
 ## Read it Later Lists
 
@@ -1061,6 +1064,7 @@ See https://staticsitegenerators.net and https://www.staticgen.com
   * [Nimbus](https://github.com/ethanal/nimbus) - A URL shortener and file sharer with a drag-and-drop OS X menu bar client and web interface. `MIT` `Python`
   * [Polr](https://project.polr.me/) - A modern, minimalist, modular, and lightweight URL shortener. ([Source Code](https://github.com/Cydrobolt/polr)) `GPLv2` `PHP`
   * [YOURLS](http://yourls.org/) - YOURLS is a set of PHP scripts that will allow you to run Your Own URL Shortener. Features include password protection, URL customization, bookmarklets, statistics, API, plugins, jsonp. ([Source Code](https://github.com/YOURLS/YOURLS/)) `MIT` `PHP`
+  * [Anchr](https://anchr.io) - Anchr is a toolbox for tiny tasks on the internet, including URL shortening, (encrypted) image uploads and bookmark collections. ([Demo](https://anchr.io), [Source Code](https://github.com/n1try/anchr)) `GPLv3` `Nodejs`
 
 
 ## VPN
