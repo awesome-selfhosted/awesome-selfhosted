@@ -165,6 +165,7 @@ See also [Static Site Generators](#static-site-generators), [Content Management 
 
 **[`^        back to top        ^`](#)**
 
+  * [Anchr](https://anchr.io) - Anchr is a toolbox for tiny tasks on the internet, including bookmark collections, URL shortening and (encrypted) image uploads. ([Source Code](https://github.com/n1try/anchr)) `GPLv3` `Nodejs`
   * [Bookie](https://github.com/bookieio/Bookie) - Python based delicious.com replacement. `AGPLv3` `Python`
   * [Firefox Auth Server](https://docs.services.mozilla.com/howtos/run-fxa.html) - This project implements the core server-side API for Firefox Accounts. ([Source Code](https://github.com/mozilla/fxa-auth-server/)) `MPLv2` `Nodejs`
    * [Firefox Content Server](https://docs.services.mozilla.com/howtos/run-fxa.html) - Static server that hosts Firefox Account sign up, sign in, email verification, etc. flows. ([Source Code](https://github.com/mozilla/fxa-content-server/)) `MPLv2` `Java`
@@ -565,6 +566,7 @@ See https://github.com/n1trux/awesome-sysadmin#distributed-filesystems
 
 #### Single-click/drag-n-drop upload
 
+  * [Anchr](https://anchr.io) - Anchr is a toolbox for tiny tasks on the internet, including (encrypted) image uploads, URL shortening and bookmark collections. ([Demo](https://anchr.io), [Source Code](https://github.com/n1try/anchr)) `GPLv3` `Nodejs`
   * [BoZoN](https://github.com/broncowdd/BoZoN) - Minimalist Drag & drop file sharing app. `AGPLv3` `PHP`
   * [Coquelicot](https://coquelicot.potager.org/) - Coquelicot is a “one-click” file sharing web application with a focus on protecting users’ privacy. ([Source Code](https://coquelicot.potager.org/gitweb/?p=coquelicot.git)) `AGPLv3` `Ruby`
   * [Dropcenter](http://projet.idleman.fr/dropcenter/) - Upload files by simple drag-n-drop. ([Source Code](https://github.com/ldleman/dropcenter)) `CCBYNCSAv3` `PHP`
@@ -892,6 +894,7 @@ See https://github.com/n1trux/awesome-sysadmin#monitoring and https://github.com
 
 **[`^        back to top        ^`](#)**
 
+  * [http2-serverpush-proxy](https://github.com/n1try/http2-serverpush-proxy) - A reverse proxy that helps to automatically utilize HTTP/2.0's server push mechanism for static websites. Available as middleware and standalone application. `MIT` `Nodejs`
   * [microproxy](https://github.com/thekvs/microproxy) - lightweight non-caching HTTP/HTTPS proxy server. ([Source Code](https://github.com/thekvs/microproxy)) `MIT` `Go`
   * [miniProxy](https://github.com/joshdick/miniProxy/) - Simple web proxy written in PHP that can allow you to bypass Internet content filters, or to browse the internet anonymously. Only one php file. ([Source Code](https://github.com/joshdick/miniProxy/)) `GPLv3` `PHP`
   * [Oranjeproxy](http://lehollandaisvolant.net/tout/oranjeproxy/) - Anonymizing web proxy. ([Source Code](https://github.com/AmauryCarrade/OranjeProxy)) `GPLv2` `PHP`
@@ -1057,6 +1060,7 @@ See https://staticsitegenerators.net and https://www.staticgen.com
 
 **[`^        back to top        ^`](#)**
 
+  * [Anchr](https://anchr.io) - Anchr is a toolbox for tiny tasks on the internet, including URL shortening, (encrypted) image uploads and bookmark collections. ([Demo](https://anchr.io), [Source Code](https://github.com/n1try/anchr)) `GPLv3` `Nodejs`
   * [Lstu](https://github.com/ldidry/lstu) - _Let's SHorten That Url_ - Lightweight URL shortener. `WTFPL` `Perl`
   * [Nimbus](https://github.com/ethanal/nimbus) - A URL shortener and file sharer with a drag-and-drop OS X menu bar client and web interface. `MIT` `Python`
   * [Polr](https://project.polr.me/) - A modern, minimalist, modular, and lightweight URL shortener. ([Source Code](https://github.com/Cydrobolt/polr)) `GPLv2` `PHP`
