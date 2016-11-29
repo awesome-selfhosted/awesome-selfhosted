@@ -30,7 +30,7 @@ See [Contributing](.github/CONTRIBUTING.md).
     - [XMPP](#xmpp)
       - [XMPP Servers](#xmpp-servers)
       - [XMPP Web Clients](#xmpp-web-clients)
-  - [Conference Management](#conference-mangement)
+  - [Conference Management](#conference-management)
   - [Content Management Systems (CMS)](#content-management-systems-cms)
     - [E-commerce](#e-commerce)
   - [DNS](#dns)
