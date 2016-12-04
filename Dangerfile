@@ -3,6 +3,9 @@ has_readme_changes = git.modified_files.include?("README.md")
 
 # Ensure there is a summary for a pull request
 fail 'Please provide a summary in the Pull Request description' if github.pr_body.length < 5
+
+# Check if PR guidelines are checked.
+fail 'Please check PR guidelines and check the boxes.' if github.pr_body.include? '- [ ]'
  
 # Warn if pull request is not updated
 warn 'Please update the Pull Request title to contain the script name' if github.pr_title.include? 'Update README.md'
