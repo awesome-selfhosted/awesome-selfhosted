@@ -13,7 +13,7 @@ warn 'Please rebase to get rid of the merge commits in this Pull Request' if git
 # Check links
 if has_readme_changes
  require 'json'
- results = File.read 'ab-results-README.md-markdown-table.json'
+ results = File.read 'ab-results-temp.md-markdown-table.json'
  j = JSON.parse results
  if j['error']==true
   fail j['title']
