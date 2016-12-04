@@ -9,19 +9,23 @@ warn 'Please update the Pull Request title to contain the script name' if github
 warn 'Please rebase to get rid of the merge commits in this Pull Request' if git.commits.any? { |c| c.message =~ /^Merge branch 'master'/ }
 
 # Check links
-require 'json'
-results = File.read 'ab-results-README.md-markdown-table.json'
-j = JSON.parse results
-if j['error']==true
+if [ -a ab-results-README.md-markdown-table.json ]
+ require 'json'
+ results = File.read 'ab-results-README.md-markdown-table.json'
+ j = JSON.parse results
+ if j['error']==true
   fail j['title']
   markdown j['message']
+ end
 end
 
 # Check syntax
-require 'json'
-results = File.read 'syntaxcheck.json'
-j = JSON.parse results
-if j['error']==true
+if [ -a syntaxcheck.json ]
+ require 'json'
+ results = File.read 'syntaxcheck.json'
+ j = JSON.parse results
+ if j['error']==true
   fail j['title']
   markdown j['message']
-end 
+ end
+end
