@@ -6,7 +6,7 @@ node_js:
 before_install:
   - rvm install 2.2
   - gem install awesome_bot
-  - gem install danger
+  - gem install bundler
 script:
   - echo $TRAVIS_PULL_REQUEST
   - |
@@ -18,7 +18,7 @@ script:
       node test.js temp.md
       awesome_bot temp.md --allow-redirect'
     fi
-  - danger
+  - bundle exec danger --verbose
   #####awesome_bot#####
   #Whitelisted              Reason
   #www.invoiceplane.com     awesome_bot receives error 500, works fine from browser
