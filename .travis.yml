@@ -8,22 +8,9 @@ before_install:
   - gem install awesome_bot
   - gem install bundler
   - bundle install
+  
 script:
-  - echo $TRAVIS_PULL_REQUEST
-  - |
-    if [ $TRAVIS_PULL_REQUEST = 'false' ]; then
-      node test.js README.md
-      awesome_bot README.md --allow-dupe --allow-redirect --allow-ssl -w notepad.cc,www.invoiceplane.com,proxy.donttrustrobots.nl,demo.phproject.org,dev.webtrees.net
-    else
-      git diff master.. -U0 README.md | grep -Po "(?<=^\+).*" >> temp.md
-      node test.js temp.md
-      awesome_bot temp.md --allow-redirect'
-    fi
+  - git diff master.. -U0 README.md | grep -Po "(?<=^\+).*" >> temp.md
+  - node test.js temp.md
+  - awesome_bot temp.md --allow-redirect
   - bundle exec danger --verbose
-  #####awesome_bot#####
-  #Whitelisted              Reason
-  #www.invoiceplane.com     awesome_bot receives error 500, works fine from browser
-  #notepad.cc               not an actual link, mentioned in description
-  #proxy.donttrustrobots.nl site down, issue submitted: https://github.com/swiperproxy/swiperproxy/issues/27
-  #demo.phproject.org       server issues, issue submitted: https://github.com/Alanaktion/phproject/issues/257
-  #dev.webtrees.net         403 error only in trvis ci, works fine from browser
