@@ -6,11 +6,10 @@ node_js:
 before_install:
   - rvm install 2.2
   - gem install awesome_bot
-  - gem install bundler
-  - bundle install
+  - gem install danger
   
 script:
   - git diff master.. -U0 README.md | grep -Po "(?<=^\+).*" >> temp.md
   - node test.js temp.md
   - awesome_bot temp.md --allow-redirect
-  - bundle exec danger --verbose
+  - danger --verbose
