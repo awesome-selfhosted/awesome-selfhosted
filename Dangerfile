@@ -1,3 +1,5 @@
+#Check for changes to README.md
+has_readme_changes = !git.modified_files.grep(/README.md).empty?
 
 # Ensure there is a summary for a pull request
 fail 'Please provide a summary in the Pull Request description' if github.pr_body.length < 5
@@ -9,7 +11,7 @@ warn 'Please update the Pull Request title to contain the script name' if github
 warn 'Please rebase to get rid of the merge commits in this Pull Request' if git.commits.any? { |c| c.message =~ /^Merge branch 'master'/ }
 
 # Check links
-if [ -a ab-results-README.md-markdown-table.json ]
+if has_readme_changes
  require 'json'
  results = File.read 'ab-results-README.md-markdown-table.json'
  j = JSON.parse results
@@ -20,7 +22,7 @@ if [ -a ab-results-README.md-markdown-table.json ]
 end
 
 # Check syntax
-if [ -a syntaxcheck.json ]
+if has_readme_changes
  require 'json'
  results = File.read 'syntaxcheck.json'
  j = JSON.parse results
