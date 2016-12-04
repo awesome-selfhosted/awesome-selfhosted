@@ -27,10 +27,10 @@ end
 # Check syntax
 if has_readme_changes
  require 'json'
- results = File.read 'syntaxcheck.json'
- j = JSON.parse results
- if j['error']==true
-  fail j['title']
-  markdown j['message']
+ syntaxresults = File.read 'syntaxcheck.json'
+ sj = JSON.parse syntaxresults
+ if sj['error']==true
+  fail sj['title']
+  markdown sj['message']
  end
 end
