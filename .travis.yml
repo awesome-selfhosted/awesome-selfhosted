@@ -6,8 +6,8 @@ node_js:
 before_install:
   - rvm install 2.2
   - gem install awesome_bot
-  - gem install bundler
-  - bundle install
+  - gem install danger
+
 script:
   - echo $TRAVIS_PULL_REQUEST
   - |
