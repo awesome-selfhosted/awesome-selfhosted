@@ -1,6 +1,6 @@
 const fs = require('fs')
 var log = '{\n'
-var issuelog = '  "message": "Title | Entry\\n----|----------------------\\n'
+var issuelog = '  "message": "#### Syntax Issues\n\n Name | Entry\\n----|----------------------\\n'
 
 var file = fs.readFileSync(process.argv[2], 'utf8')
 entryErrorCheck(file)
