@@ -1,6 +1,6 @@
 const fs = require('fs')
 var log = '{\n'
-var issuelog = '"message": "Title | Entry\\n----|----------------------\\n'
+var issuelog = '  "message": "Title | Entry\\n----|----------------------\\n'
 
 var file = fs.readFileSync(process.argv[2], 'utf8')
 entryErrorCheck(file)
@@ -31,12 +31,12 @@ function entryErrorCheck (md) {
   }
   if (totalFail > 0) {
     console.log(totalFail + ' Failed, ' + totalPass + ' Passed, of ' + total)
-    log += '"error": "true",\n"title": "Found ' + totalFail + ' syntax error(s).",\n'
+    log += '  "error": true,\n  "title": "Found ' + totalFail + ' entries with syntax error(s).",\n'
     fs.writeFileSync('syntaxcheck.json', log + issuelog + '"\n}')
     process.exit(1)
   } else {
     console.log(totalFail + ' Failed, ' + totalPass + ' Passed, of ' + total + '\n')
-    log += '"error": false,\n"title": "No errors found!"\n}'
+    log += '  "error": false\n}'
     fs.writeFileSync('syntaxcheck.json', log)
     process.exit(0)
   }
