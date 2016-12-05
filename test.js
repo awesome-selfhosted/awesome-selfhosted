@@ -25,7 +25,7 @@ function entryErrorCheck (md) {
         console.log(entryArray[i].name + 'Failed.')
         // entryArray[i].error = findError(entries[i]) //WIP
         totalFail += 1
-        issuelog += entryArray[i].name + ' | <p>' + entries[i] + '</p>\\n'
+        issuelog += entryArray[i].name + ' | \<p\>' + entries[i] + '\<\/p\>\\n'
       }
     }
   }
