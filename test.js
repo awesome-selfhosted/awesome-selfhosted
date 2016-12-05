@@ -1,6 +1,6 @@
 const fs = require('fs')
 var log = '{\n'
-var issuelog = '  "message": "#### Syntax Issues\n\n Name | Entry\\n----|----------------------\\n'
+var issuelog = '  "message": "#### Syntax Issues\n\n Name | Entry\n----|----------------------\n'
 
 var file = fs.readFileSync(process.argv[2], 'utf8')
 entryErrorCheck(file)
@@ -25,7 +25,7 @@ function entryErrorCheck (md) {
         console.log(entryArray[i].name + 'Failed.')
         // entryArray[i].error = findError(entries[i]) //WIP
         totalFail += 1
-        issuelog += entryArray[i].name + ' | ' + entries[i] + '\\n'
+        issuelog += entryArray[i].name + ' | ' + entries[i] + '\n'
       }
     }
   }
