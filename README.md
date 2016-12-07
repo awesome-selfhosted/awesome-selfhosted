@@ -1168,7 +1168,7 @@ See also [Documentation Generators](#documentation-generators), [Wikimatrix](htt
  * `CCBYNCSAv2` - [Creative Commons Attribution-NonCommercial-ShareAlike 2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/)
  * `CCBYNCSAv3` - [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported](https://creativecommons.org/licenses/by-nc-sa/3.0/)
  * `CCBYNCv4` - [Creative Commons Attribution-NonCommercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/)
- * `CCBYSAv4  - [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/)
+ * `CCBYSAv4`  - [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/)
  * `CC0` - [Public Domain](https://creativecommons.org/about/cc0/)
  * `CDDL` - [Common Development and Distribution License](https://opensource.org/licenses/CDDL-1.0)
  * `CeCILL-B` - [CEA CNRS INRIA Logiciel Libre](http://www.cecill.info/licences/Licence_CeCILL-B_V1-en.txt)
