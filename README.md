@@ -47,7 +47,7 @@ See [Contributing](.github/CONTRIBUTING.md).
   - [Games](#games)
   - [Gateways](#gateways)
   - [Groupware](#groupware)
-  - [Human Resources Management (HRM)](#human-Resources-management-hrm)
+  - [Human Resources Management (HRM)](#human-resources-management-hrm)
   - [Learning and Courses](#learning-and-courses)
   - [Maps & GPS](#maps--gps)
   - [Media Streaming](#media-streaming)
