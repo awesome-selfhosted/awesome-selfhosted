@@ -11,8 +11,7 @@ before_install:
 before_script:
   
 script:
-  allow_failures:
-    - git diff master.. -U0 README.md | grep -Po "(?<=^\+).*" >> temp.md
+  - git diff master.. -U0 README.md | grep -Pos "(?<=^\+).*" >> temp.md
   - node test.js temp.md
   - awesome_bot temp.md --allow-redirect
   - danger --verbose
