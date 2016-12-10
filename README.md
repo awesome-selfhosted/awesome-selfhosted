@@ -47,7 +47,7 @@ See [Contributing](.github/CONTRIBUTING.md).
   - [Games](#games)
   - [Gateways](#gateways)
   - [Groupware](#groupware)
-  - [Human Recources Management (HRM)](#human-recources-management-hrm)
+  - [Human Resources Management (HRM)](#human-resources-management-hrm)
   - [Learning and Courses](#learning-and-courses)
   - [Maps & GPS](#maps--gps)
   - [Media Streaming](#media-streaming)
@@ -654,7 +654,7 @@ See https://github.com/n1trux/awesome-sysadmin#distributed-filesystems
   * [Zimbra Collaboration](https://www.zimbra.com/downloads/) - Email, calendar, collaboration server with web interface and lots of integrations. ([Source Code](https://git.zimbra.com/repos/zimbra-foss/)) `GPLv2/CPALv1` `Java`
 
 
-## Human Recources Management (HRM)
+## Human Resources Management (HRM)
 
 **[`^        back to top        ^`](#)**
 
