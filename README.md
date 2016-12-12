@@ -1216,7 +1216,7 @@ Contributing guidelines can be found [here](.github/CONTRIBUTING.md).
 
 ## Authors
 
-The list of authors can be found [here](AUTHORS).
+The list of authors can be found [here](AUTHORS.md).
 
 ## License
 
