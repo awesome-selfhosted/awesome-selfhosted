@@ -1043,6 +1043,7 @@ See https://staticsitegenerators.net and https://www.staticgen.com
   * [myTinyTodo](http://www.mytinytodo.net/) - Simple way to manage your todo list in AJAX style. Uses PHP, jQuery, SQLite/MySQL. GTD compliant. `GPLv2` `PHP`
   * [omgnata](https://github.com/chr15m/omgnata) - Mobile friendly zero-feature TODO list web app. Unix philosophy. ([Demo](https://chr15m.github.io/omgnata/)) `GPLv3` `ClojureScript`
   * [Restyaboard](http://restya.com/board/) - Open source Trello-like kanban board. ([Demo](http://restya.com/board/demo.html), [Source Code](https://github.com/RestyaPlatform/board)) `OSLv3` `PHP`
+  * [scrumblr](http://scrumblr.ca/) - Collaborative Online Scrum Tool Using Websockets, Node.js, jQuery, and CSS3. ([Source Code](https://github.com/aliasaria/scrumblr)) `GPLv3` `Nodejs`
   * [TaskBoard](http://taskboard.matthewross.me/) - A Kanban-inspired app for keeping track of things that need to get done. ([Source Code](https://github.com/kiswa/TaskBoard)) `MIT` `PHP`
   * [Taskfreak](http://www.taskfreak.com/original) - A simple but efficient web based task manager written in PHP. ([Demo](http://demo.taskfreak.com/)) `GPLv3` `PHP`
   * [Tasks](https://projects.miguelpiedrafita.com/Tasks/) - Simple tasks & notes manager written in PHP, jQuery and Bootstrap using a custom flat file database. ([Demo](https://demo.miguelpiedrafita.com/tasks/), ([Source Code](https://github.com/m1guelpf/tasks)) `MPLv2` `PHP`
