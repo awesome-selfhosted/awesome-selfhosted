@@ -13,7 +13,6 @@ before_script:
 script:
   - git diff master.. -U0 README.md | grep -Pos "(?<=^\+).*" >> temp.md || (exit 0)
   - node test.js temp.md
-  - awesome_bot temp.md --allow-redirect --allow-ssl
   - danger --verbose
 
 notifications:
