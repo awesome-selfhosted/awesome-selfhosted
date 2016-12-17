@@ -26,7 +26,6 @@ end
 
 # Check syntax
 if has_readme_changes
- awesome_bot temp.md --allow-redirect --allow-ssl
  require 'json'
  syntaxresults = File.read 'syntaxcheck.json'
  sj = JSON.parse syntaxresults
