@@ -15,3 +15,6 @@ script:
   - node test.js temp.md
   - awesome_bot temp.md --allow-redirect --allow-ssl
   - danger --verbose
+
+notifications:
+  email: false
