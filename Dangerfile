@@ -19,7 +19,7 @@ if has_readme_changes
  results = File.read 'ab-results-temp.md-markdown-table.json'
  j = JSON.parse results
  if j['error']==true
-  fail j['title']
+  warn j['title']
   markdown j['message']
  end
 end
@@ -30,7 +30,7 @@ if has_readme_changes
  syntaxresults = File.read 'syntaxcheck.json'
  sj = JSON.parse syntaxresults
  if sj['error']==true
-  warn sj['title']
+  fail sj['title']
   markdown sj['message']
  end
 end
