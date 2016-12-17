@@ -30,7 +30,7 @@ syntaxerrors:
 	@! sed -n -e '/BEGIN SOFTWARE LIST/,/END SOFTWARE LIST/ p' README.md | egrep  '\)\(|``|\)`'
 
 contrib:
-	@git shortlog -sne
+	@mv .github/.mailmap . && printf "Commits | Author \n:---: | ---\n" > AUTHORS.md && git shortlog -sne >> AUTHORS.md && sed -i 's/\t/ | /g' AUTHORS.md && mv .mailmap .github/.mailmap
 
 add:
 	@#add a new entry
