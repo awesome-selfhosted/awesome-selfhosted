@@ -132,7 +132,6 @@ _Business Intelligence_
   * [Medusa](https://github.com/pymedusa/SickRage) - Automatic Video Library Manager for TV Shows. It watches for new episodes of your favorite shows, and when they are posted it does its magic. `GPLv3` `Python`
   * [Node RED](http://nodered.org/) - A browser-based flow editor that helps you wiring hardware devices, APIs and online services to create IoT solutions. ([Source Code](https://github.com/node-red/node-red)) `Apache` `Nodejs`
   * [openHAB](http://www.openhab.org) - Vendor and technology agnostic open source software for home automation. ([Source Code](https://github.com/openhab/openhab)) `EPLv1` `Java`
-  * [peerflix-server](https://github.com/asapach/peerflix-server) - Downloads torrent files and provides a direct link download or a direct link stream. `MIT` `Nodejs`
   * [Poffer](http://poffer.gabinaureche.com) `⚠` - A tool that makes it easier to share the content you like thanks to Pocket+Buffer. ([Source Code](https://github.com/Zhouzi/Poffer)) `MIT` `Nodejs`
   * [pyLoad](https://pyload.net/) - Lightweight, customizable and remotely manageable downloader for 1-click-hosting sites like rapidshare.com or uploaded.to. ([Source Code](https://github.com/pyload/pyload)) `GPLv3` `Python`
   * [RSS-Bridge](https://github.com/sebsauvage/rss-bridge) - rss-bridge is a PHP project capable of generating ATOM feeds for websites which don't have one. `Public domain` `PHP`
@@ -571,6 +570,7 @@ See https://github.com/n1trux/awesome-sysadmin#distributed-filesystems
   * [FileTea](https://filetea.me/) - Anonymous, volatile file sharing: does not store any file on server. Bridges a download to the recipient’s browser with an upload from the source’s browser. ([Source Code](https://github.com/elima/FileTea)) `AGPLv3` `C`
   * [instant.io](https://github.com/feross/instant.io) - Streaming file transfer over WebTorrent. ([Demo](https://instant.io)) `MIT` `Nodejs`
   * [Opentracker](http://erdgeist.org/arts/software/opentracker/) - Open and free bittorrent tracker. It aims for minimal resource usage and is intended to run at your wlan router. ([Source Code](http://erdgeist.org/gitweb/opentracker/)) `Beerware` `C`
+  * [peerflix-server](https://github.com/asapach/peerflix-server) - Downloads torrent files and provides a direct link download or a direct link stream. `MIT` `Nodejs`
   * [rartracker](https://github.com/swetorrentking/rartracker) - Complete private bittorrent tracker. `WTFPL` `PHP`
   * [Reep](https://reep.io) - In-browser peer-to-peer file transfer and streaming made easy. ([Source Code](https://github.com/KodeKraftwerk/reepio)) `GPLv2` `Nodejs`
   * [ShareFest](https://github.com/peer5/sharefest) - Web based p2p file sharing built on WebRTC Data Channels API. ([Demo](https://www.sharefest.me/)) `Apache` `Nodejs`
