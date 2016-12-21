@@ -736,6 +736,7 @@ See also <https://en.wikipedia.org/wiki/List_of_streaming_media_systems>, <https
   * [Rygel](https://wiki.gnome.org/action/show/Projects/Rygel) - Rygel is a UPnP AV MediaServer that allows you to easily share audio, video, and pictures. Media player software may use Rygel to become a MediaRenderer that may be controlled remotely by a UPnP or DLNA Controller. `GPLv3` `C`
   * [Streama](https://github.com/dularion/streama) - Self-hosted Netflix alternative. `MIT` `Java`
   * [Zoneminder](https://github.com/ZoneMinder/ZoneMinder) - Closed-circuit television (CCTV) software application which supports IP, USB and Analog cameras. `GPLv2` `PHP`
+  * [Shinobi](https://moeiscool.github.io/Shinobi/) - Open Source CCTV software written in Node.JS ( IP Camera Recorder ). `GPLv2` `NodeJS`
 
 
 ## Misc/Other
