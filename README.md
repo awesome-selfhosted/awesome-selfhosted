@@ -352,7 +352,7 @@ _[IPBX](https://en.wikipedia.org/wiki/IP_PBX) telephony software_
   * [FluxBB](http://fluxbb.org/) - Fast, light, user-friendly forum software for your website. ([Source Code](https://github.com/fluxbb/fluxbb)) `GPLv2` `PHP`
   * [Friendica](http://friendica.com/) - Social Communication Server. ([Source Code](https://github.com/friendica/friendica)) `AGPLv3` `PHP`
   * [GNU social](https://gnu.io/social/) - Social communication software for both public and private communications. ([Source Code](https://git.gnu.io/gnu/gnu-social)) `AGPLv3` `PHP`
-  * [Hubzilla](https://hubzilla.org) - Decentralised identity, privacy, publishing, sharing, cloud storage, and communications/social platform. ([Source Code](https://github.com/redmatrix/hubzilla)) `MIT` `PHP`
+  * [Hubzilla](https://hubzilla.org) - Decentralized identity, privacy, publishing, sharing, cloud storage, and communications/social platform. ([Source Code](https://github.com/redmatrix/hubzilla)) `MIT` `PHP`
   * [HumHub](https://www.humhub.org/) - A flexible kit for private social networks. ([Source Code](https://github.com/humhub/humhub)) `AGPLv3` `PHP`
   * [Isso](http://posativ.org/isso/) - A lightweight commenting server written in Python and Javascript. It aims to be a drop-in replacement for Disqus. ([Source Code](https://github.com/posativ/isso)) `MIT` `Python`
   * [Jappix](https://jappix.com/) - Jappix is an open social platform, that let's you easily get or keep in touch with everyone. ([Source Code](https://github.com/jappix/jappix)) `AGPLv3` `PHP`
