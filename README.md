@@ -495,7 +495,7 @@ See https://github.com/n1trux/awesome-sysadmin#dns
 
 * [ERPNext](https://erpnext.com) - Free open source ERP system. ([Demo](https://demo.erpnext.com), [Source Code](https://github.com/frappe/erpnext)) `GPLv3` `Python`
 * [Odoo](http://odoo.com) - Free open source ERP system. ([Demo](https://demo.odoo.com/), [Source Code](https://github.com/odoo/odoo)) `LGPLv3` `Python`
-* [Tryton](http://www.tryton.org/) - Free open source business solution. ([Demo](http://demo.tryton.org/), [Source Code](https://hg.tryton.org/)) `GPLv3` `Python`
+* [Tryton](http://www.tryton.org/) - Free open source business solution. ([Demo](http://demo.tryton.org/) admin/admin, [Source Code](https://hg.tryton.org/)) `GPLv3` `Python`
 
 
 ## Federated Identity/Authentication
@@ -785,8 +785,6 @@ See also https://github.com/n1trux/awesome-sysadmin#it-asset-management
   * [Koha](https://koha-community.org/) - Fully featured, scalable library management system (integrated library system - ILS). ([Source Code](https://github.com/Koha-Community/Koha)) `GPLv3` `Perl`
   * [PartKeepr](https://www.partkeepr.org) - PartKeepr is an electronic part inventory management software. It helps you to keep track of your available parts and assist you with re-ordering parts. ([Demo](https://demo.partkeepr.org/), [Source Code](https://github.com/partkeepr/PartKeepr)) `GPLv3` `PHP`
   * [StockazNG](https://dev.sigpipe.me/dashie/StockazNG) - Asset Management System. `MIT` `Python`
-  * [Tryton](http://www.tryton.org/) - Core base of a complete business solution (ERP). ([Demo](http://demo.tryton.org) admin/admin, [Source Code](https://hg.tryton.org)) `GPLv3` `Python`
-
 
 ## Monitoring
 
