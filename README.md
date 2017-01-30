@@ -1095,6 +1095,7 @@ See https://staticsitegenerators.net and https://www.staticgen.com
   * [OTRS](http://www.otrs.com/) - Trouble ticket system for assigning tickets to incoming queries and tracking further communications. ([Source Code](https://github.com/OTRS/otrs)) `AGPLv3` `Perl`
   * [Request Tracker](https://www.bestpractical.com/rt/) -  An enterprise-grade issue tracking system. ([Source Code](https://github.com/bestpractical/rt)) `GPLv2` `Perl`
   * [TheBugGenie](http://www.thebuggenie.org) - Ticket system with extensive user rights system. ([Source Code](https://github.com/thebuggenie/thebuggenie)) `MPLv2` `PHP`
+  * [Zammad](https://zammad.org/) - Easy to use but powerful open-source support & ticketing system. ([Source Code](https://github.com/zammad/zammad)) `AGPLv3` `Ruby`
 
 
 ## URL Shorteners
