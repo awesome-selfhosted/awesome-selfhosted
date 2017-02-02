@@ -822,7 +822,7 @@ See https://github.com/n1trux/awesome-sysadmin#monitoring and https://github.com
 
 **[`^        back to top        ^`](#)**
 
-  * [draw.io](https://www.draw.io/) - Web diagramming tool. ([Source Code](https://github.com/jgraph/draw.io)) `Apache` `HTML5`
+  * [draw.io](https://www.draw.io/) - Web diagramming tool. ([Source Code](https://github.com/jgraph/draw.io)) `GPLv3` `HTML5`
   * [EtherCalc](https://ethercalc.org/) - Web spreadsheet. ([Source Code](https://github.com/audreyt/ethercalc)) `CPALv1/Other` `Nodejs`
   * [EtherDraw](https://github.com/JohnMcLear/draw) - An intuitive collaborative drawing web based tool. ([Demo](http://draw.etherpad.org/)) `Apache` `Nodejs`
   * [Etherpad](http://etherpad.org/) - Etherpad is a highly customizable Open Source online editor providing collaborative editing in really real-time. ([Demo](https://demo.sandstorm.io/appdemo/h37dm17aa89yrd8zuqpdn36p6zntumtv08fjpu8a8zrte7q1cn60), [Source Code](https://github.com/ether/etherpad-lite)) `Apache` `Nodejs`
