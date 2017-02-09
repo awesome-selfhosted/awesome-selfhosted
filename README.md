@@ -292,6 +292,7 @@ _Mailing lists servers and mass mailing software - one message to many recipient
   * [Mautic](https://www.mautic.org/) - Mautic is marketing automation software (email, social & more). ([Source Code](https://github.com/mautic/mautic)) `GPLv3` `PHP`
   * [phpList](https://phplist.org) - Newsletter and email marketing with advanced management of subscribers, bounces, and plugins. ([Source Code](https://github.com/phpList/)) `AGPLv3` `PHP`
   * [Sympa](https://www.sympa.org/) - A mailing list manager. `GPLv2` `Perl`
+  * [Schleuder](https://schleuder.nadir.org/) - A gpg-enabled mailing list manager with resending-capabilities. `GPLv3` `Ruby`
 
 #### Webmail clients
 
