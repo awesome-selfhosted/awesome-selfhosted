@@ -489,9 +489,10 @@ See https://github.com/n1trux/awesome-sysadmin#dns
 
 **[`^        back to top        ^`](#)**
 
+  * [Ambar](http://ambar.rdseventeen.com) - Smart Documents Archive. Securely Store, Deduplicate, Search. ([Demo](http://ambardemo.rdseventeen.com/?query=%22Big%20brother%20watch%22~3)) `Fair` `Nodejs/Python`
   * [CUPS](https://www.cups.org/) - The Common Unix Print System uses Internet Printing Protocol (IPP) to support printing to local and network printers. ([Source Code](https://www.cups.org/software.php)) `GPLv2` `C`
   * [Paperless](https://github.com/danielquinn/paperless) - Scan, index, and archive all of your paper documents. `GPLv3` `Python`
-  * [SANE Network Scanning](http://sane-project.org/) - allow remote clients to access image acquisition devices (scanners) available on the local host. ([Source Code](http://www.sane-project.org/cvs.html)) `GPLv2` `C`
+  * [SANE Network Scanning](http://sane-project.org/) - allow remote clients to access image acquisition devices (scanners) available on the local host. ([Source Code](http://www.sane-project.org/cvs.html)) `GPLv2` `C`  
 
 
 ## Enterprise Resource Planning
