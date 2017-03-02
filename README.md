@@ -73,6 +73,7 @@ See [Contributing](.github/CONTRIBUTING.md).
     - [Continuous Integration](#continuous-integration)
     - [API Management](#api-management)
     - [Documentation Generators](#documentation-generators)
+    - [Localization](#localization)
   - [Static site generators](#static-site-generators)
   - [Task management/To-do lists](#task-managementto-do-lists)
   - [Ticketing](#ticketing)
@@ -1047,6 +1048,12 @@ See also [Static site generators](#static-site-generators)
   * [Flatdoc](http://ricostacruz.com/flatdoc/) - A small Javascript file that fetches Markdown files and renders them as full pages. `MIT` `Javascript`
   * [markdown-tree](https://github.com/mil/markdown-tree) - Serve a hierarchy / tree directory of markdown files. Use intended for small sites built in markdown. `MIT` `Ruby`
   * [Read the Docs](https://docs.readthedocs.org/en/latest/install.html) - Host documentation, making it fully searchable and easy to find; import your docs using any major version control system, including Mercurial, Git, Subversion, and Bazaar. ([Demo](https://readthedocs.org/projects/), [Source Code](https://github.com/rtfd/readthedocs.org)) `MIT` `Python`
+
+### Localization
+
+  * [Pootle](http://pootle.translatehouse.org) - Online translation and localization tool. ([Source Code](https://github.com/translate/pootle)) `GPLv3` `Python`
+  * [Weblate](https://weblate.org) - Web-based translation tool with tight version control integration. ([Demo](https://demo.weblate.org), [Source Code](https://github.com/WeblateOrg/weblate)) `GPLv3` `Python`
+  * [Zanata](http://zanata.org) - Web-based translation platform for translators, content creators and developers to manage localisation projects. ([Source Code](https://github.com/zanata/zanata-platform)) `GPLv2` `Java`
 
 ## Static site generators
 
