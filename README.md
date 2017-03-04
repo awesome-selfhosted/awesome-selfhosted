@@ -682,7 +682,8 @@ See https://github.com/n1trux/awesome-sysadmin#distributed-filesystems
 ## Learning and Courses
 
 **[`^        back to top        ^`](#)**
-
+  
+  * [Canvas LMS](https://github.com/instructure/canvas-lms) - Canvas is the trusted, open-source learning management system (LMS) that's revolutionizing the way we educate `Ruby`
   * [Chamilo LMS](https://chamilo.org/chamilo-lms/) - Chamilo LMS allows you to create a virtual campus for the provision of online or semi-online training. ([Source Code](https://github.com/chamilo/chamilo-lms)) `GPLv3` `PHP`
   * [edX](https://www.edx.org/) - The Open edX platform is open-source code that powers [edX.org](https://www.edx.org/). ([Source Code](https://github.com/edx/)) `AGPLv3` `Python`
   * [lxHive](http://www.lxhive.com/) - Open Source ExperienceAPI compliant Learning Record Store (LRS) - previously code-named TinCanAPI. ([Source Code](https://github.com/Brightcookie/lxHive)) `GPLv3` `PHP`
