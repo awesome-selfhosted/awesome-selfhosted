@@ -230,6 +230,7 @@ Some [Groupware](#groupware) solutions also feature calendar/address book editin
   * [Niltalk](http://niltalk.com/) - A simple, private, persistence-free web based multi-room chat server + client. ([Source Code](https://github.com/knadh/niltalk)) `AGPLv3` `Go`
   * [Node-Chat](https://github.com/IgorAntun/node-chat) - A not-so-basic open-source chat with admin features. `MIT` `Nodejs`
   * [Pushjet](https://pushjet.io/) - A self hosted push notification service built with a simple API making sending notifications easy. ([Source Code](https://github.com/Pushjet/Pushjet-Server-Api)) `BSD` `Python`
+  * [Rallly](http://rallly.co) - Rallly is a free collaborative scheduling service. ([Source Code](https://github.com/lukevella/Rallly)) `CCBYSA` `Nodejs`
   * [RetroShare](http://retroshare.org) - Secured and decentralized communication system. Offers decentralized chat, forums, messaging, file transfer. ([Source Code](https://github.com/RetroShare/RetroShare)) `GPLv2` `С++`
   * [Ring](https://ring.cx/) - Free software for universal communication which respects freedoms and privacy of its users. ([Source Code](https://github.com/savoirfairelinux/ring-project)) `GPLv3` `C++`
   * [Rocket.Chat](https://rocket.chat/) - Teamchat solution similar to Gitter.im or Slack. ([Source Code](https://github.com/RocketChat/Rocket.Chat)) `MIT` `Nodejs`
@@ -1206,11 +1207,7 @@ See also [Documentation Generators](#documentation-generators), [Wikimatrix](htt
  * `Beerware` - [Beerware License](https://spdx.org/licenses/Beerware.html)
  * `BSD` - [FreeBSD License](https://www.freebsd.org/copyright/license.html)
  * `BSD` - [BSD 2-Clause](https://opensource.org/licenses/BSD-3-Clause) or [BSD 3-Clause](https://opensource.org/licenses/BSD-3-Clause) license
- * `CCBYNCNDv4` - [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International](https://creativecommons.org/licenses/by-nc-nd/4.0/)
- * `CCBYNCSAv2` - [Creative Commons Attribution-NonCommercial-ShareAlike 2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/)
- * `CCBYNCSAv3` - [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported](https://creativecommons.org/licenses/by-nc-sa/3.0/)
- * `CCBYNCv4` - [Creative Commons Attribution-NonCommercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/)
- * `CCBYSAv4`  - [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/)
+ * `CCBYSA`  - [Creative Commons Attribution-ShareAlike International License](https://creativecommons.org/licenses/by-sa/4.0/)
  * `CC0` - [Public Domain](https://creativecommons.org/about/cc0/)
  * `CDDL` - [Common Development and Distribution License](https://opensource.org/licenses/CDDL-1.0)
  * `CeCILL-B` - [CEA CNRS INRIA Logiciel Libre](http://www.cecill.info/licences/Licence_CeCILL-B_V1-en.txt)
