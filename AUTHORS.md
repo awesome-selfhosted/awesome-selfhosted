@@ -1,8 +1,8 @@
 Commits | Author 
 :---: | ---
-   327 | nodiscc <nodiscc@gmail.com>
+   355 | nodiscc <nodiscc@gmail.com>
    286 | Kickball <ed.kickball@hotmail.com>
-   118 | n8225 <n8225@users.noreply.github.com>
+   145 | n8225 <n8225@users.noreply.github.com>
    114 | Andrew Rylatt <AndyR207@users.noreply.github.com>
     35 | Kovah <mail@kovah.de>
     17 | Thomas Dalichow <info@thomasdalichow.de>
@@ -13,6 +13,7 @@ Commits | Author
      9 | Joubert RedRat <eu+github@redrat.com.br>
      8 | CooperBarrett <anthony.lhuissier@openmailbox.org>
      7 | Andrew Peng <pengc99@gmail.com>
+     7 | Andrew Rylatt <arylatt@users.noreply.github.com>
      7 | Hammy Havoc <hammy@splitanatom.com>
      7 | Ilian <ugg.rock@gmail.com>
      7 | n1trux <n1trux@users.noreply.github.com>
@@ -24,7 +25,9 @@ Commits | Author
      5 | Max Maischein <github@corion.net>
      5 | Mohammad Faisal <faisalhmohd@live.com>
      5 | Moti Korets <moti.kor@gmail.com>
+     5 | Philip Kirkbride <kirkins@gmail.com>
      5 | cave <cavebeat@users.noreply.github.com>
+     4 | Alexandr Emelin <frvzmb@gmail.com>
      4 | AndrewCz <smacz42@users.noreply.github.com>
      4 | Cory Gibbons <hello@corygibbons.com>
      4 | D <DL88250@gmail.com>
@@ -32,7 +35,10 @@ Commits | Author
      4 | Dr. Azrael Tod <github.com@g33ky.de>
      4 | Eliot Whalan <ewhal@pantsu.cat>
      4 | Ilya Sevostyanov <d3th@zeen.ru>
+     4 | Jan Vlnas <jnv@users.noreply.github.com>
      4 | Jean Elchinger <jinformatique@riseup.net>
+     4 | Joery Zegers <accounts@jzegers.nl>
+     4 | Johannes Zellner <johannes@nebulon.de>
      4 | Joshua Westerheide <dev@jdoubleu.de>
      4 | MK <kohenkatz@gmail.com>
      4 | Marius Voila <marius.voila@gmail.com>
@@ -51,22 +57,26 @@ Commits | Author
      3 | Ethan Lowman <ethanal@users.noreply.github.com>
      3 | FoxMaSk <foxmask@users.noreply.github.com>
      3 | Gabin <hello@gabinaureche.com>
+     3 | Garrett Martin <me@garrettqmartin.com>
      3 | George C. Privon <privong@users.noreply.github.com>
      3 | Görkem Çetin <gc@count.ly>
-     3 | Jan Vlnas <jnv@users.noreply.github.com>
-     3 | Johannes Zellner <johannes@nebulon.de>
      3 | Lee Watson <rev@revthefox.co.uk>
      3 | Leo Gaggl <leo@brightcookie.com.au>
      3 | Marc Picaud <picaud.marc@gmail.com>
      3 | Mariusz Kozakowski <11mariom+wordpress@gmail.com>
      3 | Martin Gontovnikas <martin@gon.to>
      3 | Mathieu Leplatre <mathieu@leplat.re>
+     3 | Morris Jobke <hey@morrisjobke.de>
+     3 | Ovidiu Dan <zmarty@users.noreply.github.com>
      3 | Pavan Yara <yarapavan@gmail.com>
      3 | Peter Thaleikis <spekulatius@users.noreply.github.com>
      3 | Pietro Marangon <pietro.marangon@gmail.com>
      3 | Tobi Schäfer <interface@p3k.org>
+     3 | Yann Forget <forget.yann31@gmail.com>
      3 | Ye Lin Aung <me@yelinaung.com>
      3 | jungle-boogie <sean@rastasean.net>
+     3 | moba <moba@users.noreply.github.com>
+     3 | pszlazak <pszlazak@users.noreply.github.com>
      3 | rett gerst <rettgerst@users.noreply.github.com>
      2 | Adminrezo (Nico Dewaele) <nico@adminrezo.fr>
      2 | Albert Cervera i Areny <albert@nan-tic.com>
@@ -87,13 +97,18 @@ Commits | Author
      2 | Feleg <fegul@users.noreply.github.com>
      2 | Felix Bartels <felix@host-consultants.de>
      2 | Gabin Aureche <gabin.aureche@live.fr>
+     2 | Gabriel Cossette <gabriel.cossette@gmail.com>
+     2 | Gonçalo Valério <dethos@users.noreply.github.com>
      2 | Greg V <greg@unrelenting.technology>
      2 | Henry Ruhs <info@redaxmedia.com>
+     2 | Jake Breindel <j.breindel2@outlook.com>
+     2 | James Cole <JC5@users.noreply.github.com>
      2 | Jason Robinson <mail@jasonrobinson.me>
      2 | Joseph Dykstra <josephdykstra@gmail.com>
      2 | Julien Bisconti <veggiemonk@users.noreply.github.com>
      2 | Keith Thibodeaux <kthibodeaux@peachtreebilling.com>
      2 | Kevin Hinterlong <kevinhinterlong@users.noreply.github.com>
+     2 | Kevin Lin <developer@kevinlin.info>
      2 | Kevin Vandenborne <kevin.vandenborne@gmail.com>
      2 | Madhu GB <github@madhugb.com>
      2 | Marc Laporte <marc@laporte.name>
@@ -154,6 +169,7 @@ Commits | Author
      1 | Andrew Murray <radarhere@gmail.com>
      1 | Angel Velasquez <angvp@archlinux.org>
      1 | Anton Troyanov <anton@troyanov.net>
+     1 | Armando Lüscher <armando@noplanman.ch>
      1 | Austin <austi_gillm935@ahapps.anoka.k12.mn.us>
      1 | Beard of War <rebelgeek@blainsmith.com>
      1 | Ben <ben@rngr.org>
@@ -183,17 +199,16 @@ Commits | Author
      1 | Eren Hatırnaz <erenhatirnaz@hotmail.com.tr>
      1 | Eric Moon <eric@ericmoon.net>
      1 | Ethan Madden <crazeh.monkeh@gmail.com>
+     1 | Eugen <eugen@zeonfederated.com>
      1 | Florian Kaiser <florian.kaiser@fnkr.net>
      1 | Florian Wilhelm <f.wilhelm@tarent.de>
      1 | FortressBuilder <FortressBuilder@users.noreply.github.com>
-     1 | Gabriel Cossette <gabriel.cossette@gmail.com>
      1 | Girish Ramakrishnan <mail@girish.in>
      1 | Greg Chetcuti <greg@chetcuti.com>
      1 | Icantcodeatall <francois.lachese@me.com>
      1 | Igor Antun <IgorAntun@users.noreply.github.com>
      1 | Izac Lorimer <izaclorimer@users.noreply.github.com>
      1 | Jakob Gillich <jakob@gillich.me>
-     1 | James Cole <JC5@users.noreply.github.com>
      1 | Jan <jayphizzle@users.noreply.github.com>
      1 | Jannik Anker <jannikanker@users.noreply.github.com>
      1 | Jarek Lipski <pub@loomchild.net>
@@ -213,6 +228,7 @@ Commits | Author
      1 | Keyhaku <jones@bious.fr>
      1 | Kieran <kieran.brahney@gmail.com>
      1 | Konstantin Sorokin <kvs@sigterm.ru>
+     1 | Kyle Farwell <m@kfarwell.org>
      1 | Kyle Stetz <kylestetz@gmail.com>
      1 | Liran Tal <liran.tal@gmail.com>
      1 | Marcin Karpezo <m.karpezo@nencki.gov.pl>
@@ -226,11 +242,12 @@ Commits | Author
      1 | Michael Barrow <michael@barrow.me>
      1 | Michael Burns <michael@mirwin.net>
      1 | Mike Steele <mike@steel.fm>
+     1 | MinorTom <TheMinorTom@users.noreply.github.com>
      1 | Moritz Kröger <write@morkro.de>
-     1 | Morris Jobke <hey@morrisjobke.de>
      1 | Murdoc Bates <trockenasche@gmail.com>
      1 | NicolasCARPi <nicolas.carpi@curie.fr>
      1 | Norman Xu <im@norm.im>
+     1 | Nÿco <nicolas.verite@gmail.com>
      1 | Ober7 <k.latif.misc@gmail.com>
      1 | Oliver Kopp <kopp.dev@gmail.com>
      1 | Paolo Pustorino <stickgrinder@gmail.com>
@@ -239,6 +256,7 @@ Commits | Author
      1 | Paweł Kapała <bylek77@gmail.com>
      1 | Peter van den Hurk <runical1991@gmail.com>
      1 | Phill <phill@formbet.co.uk>
+     1 | Phonic Mouse <phonicmouse@users.noreply.github.com>
      1 | Remi Rampin <remirampin@gmail.com>
      1 | Remy Adriaanse <remy@adriaanse.it>
      1 | Remy Honig <remyhonig@users.noreply.github.com>
@@ -252,6 +270,7 @@ Commits | Author
      1 | Starbeamrainbowlabs <sbrl@starbeamrainbowlabs.com>
      1 | Stefan Weil <sw@weilnetz.de>
      1 | Sylvain Boily <sylvainboilydroid@gmail.com>
+     1 | Tanner Collin <git@tannercollin.com>
      1 | The Scorpion <tehscorpion@users.noreply.github.com>
      1 | Thorsten Rinne <thorsten@phpmyfaq.de>
      1 | Tim Allingham <tim@timallingham.net>
@@ -260,6 +279,7 @@ Commits | Author
      1 | benmaynard11 <allowin-217941-github@vhost244.maynardnetworks.com>
      1 | bricej13 <bricej13@gmail.com>
      1 | cbdev <cb@cbcdn.com>
+     1 | digiou <digitalbckp@gmail.com>
      1 | dimqua <dimqua@lavabit.com>
      1 | domainzero <domainzero@users.noreply.github.com>
      1 | ePirat <epirat07@gmail.com>
@@ -267,20 +287,23 @@ Commits | Author
      1 | florianl <florianl@users.noreply.github.com>
      1 | foorb <foorb@users.noreply.github.com>
      1 | ilsi <ilsi@users.noreply.github.com>
+     1 | jake <jake@diesel>
      1 | lachlan-00 <lachlan.00@gmail.com>
      1 | littleguga <littleguga@users.noreply.github.com>
      1 | lsascha <lsascha@gmail.com>
      1 | memorex258 <phillip.a.brown@live.com>
      1 | mertinop <martin.santibanez.a@gmail.com>
-     1 | moba <moba@users.noreply.github.com>
      1 | n2i <xuansamdinh.n2i@gmail.com>
+     1 | pips <pips@e5150.fr>
      1 | sc0repi0 <sc0repi0@gmx.de>
      1 | skarphet <skarphet@users.noreply.github.com>
      1 | steven jacobs <stjacobs@fastmail.fm>
      1 | stevesbrain <stevesbrain@users.noreply.github.com>
      1 | t1st3 <contact@tiste.org>
      1 | timbe16 <timbe16@users.noreply.github.com>
+     1 | trebonius0 <trebonius@worldofwargraphs.com>
      1 | ttoups <ich@timotoups.de>
      1 | vincent-clipet <vincent.clipet.7@gmail.com>
      1 | wxcafé <wxcafe@wxcafe.net>
      1 | xuansamdinh <xuansamdinh.n2i@gmail.com>
+     1 | zotlabs <mike@macgirvin.com>
