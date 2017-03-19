@@ -865,6 +865,7 @@ See https://github.com/n1trux/awesome-sysadmin#monitoring and https://github.com
   * [localpaste](https://github.com/petermaloney/localpaste) - Simple python based pastebin you can run locally, with curl for input. Supports RAW text by default and binary data such as images (no extensions on returned url). `GPLv2` `Python`
   * [Modern Paste](https://www.modernpaste.com) - Modern pastebin with a contemporary, minimalistic user interface backed by a robust feature set. ([Demo](https://demo.modernpaste.com/), [Source Code](https://github.com/LINKIWI/modern-paste)) `MIT` `Python`
   * [mojopaste](http://search.cpan.org/dist/App-mojopaste/) - Perl based pastebin. ([Demo](http://p.thorsen.pm/), [Source Code](https://github.com/jhthorsen/app-mojopaste)) `ARTv2` `Perl`
+  * [nnmm](https://nnmm.nl/) - A super tiny pastebin/url minifier "microservice". [Source Code](https://github.com/Mechazawa/nnmm)) `Beerware` `PHP`
   * [NoteHub](https://notehub.org) - Free and Hassle-free Pastebin for Markdown Pages. Simple, clean, password provided, generated-short link. ([Demo](https://notehub.org), [Source Code](https://github.com/chmllr/NoteHub)) `MIT` `Nodejs`
   * [Paste](http://phpaste.sourceforge.net/) - Paste is forked from the original source pastebin.com used before it was bought. ([Demo](http://phpaste.sourceforge.net/demo), [Source Code](https://bitbucket.org/j-samuel/paste/)) `GPLv3` `PHP`
   * [Pastebin](https://p.pantsu.cat) - Modern self-hosted pastebin service with a restful API. ([Demo](https://p.pantsu.cat), [Source Code](https://github.com/ewhal/Pastebin)) `MIT` `Go`
@@ -1123,6 +1124,7 @@ See https://staticsitegenerators.net and https://www.staticgen.com
 
   * [Lstu](https://github.com/ldidry/lstu) - _Let's SHorten That Url_ - Lightweight URL shortener. `WTFPL` `Perl`
   * [Nimbus](https://github.com/ethanal/nimbus) - A URL shortener and file sharer with a drag-and-drop OS X menu bar client and web interface. `MIT` `Python`
+  * [nnmm](https://nnmm.nl/) - A super tiny pastebin/url minifier "microservice". [Source Code](https://github.com/Mechazawa/nnmm)) `Beerware` `PHP`
   * [Polr](https://project.polr.me/) - A modern, minimalist, modular, and lightweight URL shortener. ([Source Code](https://github.com/Cydrobolt/polr)) `GPLv2` `PHP`
   * [shuri](https://github.com/pips-/shuri) - SHort URI - Lighweight URL shortener. `MIT` `PHP`
   * [YOURLS](http://yourls.org/) - YOURLS is a set of PHP scripts that will allow you to run Your Own URL Shortener. Features include password protection, URL customization, bookmarklets, statistics, API, plugins, jsonp. ([Source Code](https://github.com/YOURLS/YOURLS/)) `MIT` `PHP`
