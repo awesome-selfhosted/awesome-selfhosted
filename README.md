@@ -1076,6 +1076,7 @@ See https://staticsitegenerators.net and https://www.staticgen.com
 
 *See also [Project Management](#project-management) and [Ticketing](#ticketing).*
 
+  * [Beyondpad](https://www.beyondpad.com/) - Notes, boards and lists, templates and forms, tags and other tools for data driven note taking. ([Demo](https://www.beyondpad.com/demo#notes/inbox), [Source Code](https://github.com/artursgirons/beyondpad)) `GPLv2` `Nodejs`
   * [bulldog](https://github.com/infews/bulldog) - HTML5 task manager, built on todo.txt. `MIT` `HTML5`
   * [Crepido](https://github.com/arshad/crepido) - Create (kanban) boards to track users and projects from flat markdown files. `MIT` `Nodejs`
   * [Kanboard](http://kanboard.net/) - A simple and open source visual task board. ([Source Code](https://github.com/kanboard/kanboard)) `MIT` `PHP`
