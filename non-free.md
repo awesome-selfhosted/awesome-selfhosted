@@ -24,6 +24,8 @@
 
   * [Synereo](https://www.synereo.com/) - Decentralized network system based on blockchain that allows fast speed and great trust level. ([Source Code](https://github.com/synereo/synereo)) `Scala`  
 
+## Document Archiving
+ * [Ambar](https://ambar.cloud) - Self-Hosted Smart Document Archive (OCR, Store & Search) ([Source Code](https://github.com/RD17/ambar)) `Fair Source 1 v0.9` `Nodejs/Python`  
   
 ## Federated Identity/Authentication
 
