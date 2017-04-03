@@ -263,6 +263,7 @@ Commits | Author
      1 | Riddler <Iamjithin@live.com>
      1 | Roberto Rosario <roberto.rosario.gonzalez@gmail.com>
      1 | Ryan Halliday <ry167@ry167.com>
+     1 | Sadman Kazi <sadman@sadmansk.com>
      1 | Sahin Boydas <sahin@movielala.com>
      1 | Salvatore Gentile <SalGnt@users.noreply.github.com>
      1 | Sergey Bronnikov <sergeyb@bronevichok.ru>
