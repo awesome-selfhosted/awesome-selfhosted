@@ -1,8 +1,8 @@
 Commits | Author 
 :---: | ---
-   355 | nodiscc <nodiscc@gmail.com>
-   286 | Kickball <ed.kickball@hotmail.com>
-   145 | n8225 <n8225@users.noreply.github.com>
+   366 | nodiscc <nodiscc@gmail.com>
+   287 | Kickball <ed.kickball@hotmail.com>
+   150 | n8225 <n8225@users.noreply.github.com>
    114 | Andrew Rylatt <AndyR207@users.noreply.github.com>
     35 | Kovah <mail@kovah.de>
     17 | Thomas Dalichow <info@thomasdalichow.de>
@@ -138,6 +138,7 @@ Commits | Author
      2 | Stefane Fermigier <sf@fermigier.com>
      2 | Stefano <sabas88@gmail.com>
      2 | Suraj Patil <thewhitetulip@users.noreply.github.com>
+     2 | Think <iwhiz@users.noreply.github.com>
      2 | Thomas Citharel <tcit@tcit.fr>
      2 | Tomer <tomer@campuscruizer.com>
      2 | Vadim Rutkovsky <vrutkovs@redhat.com>
@@ -146,6 +147,7 @@ Commits | Author
      2 | Zeniic <Zeniic@users.noreply.github.com>
      2 | cornerot <cornerot@gmail.com>
      2 | cron410 <cron410@gmail.com>
+     2 | digiou <digitalbckp@gmail.com>
      2 | erdihu <erdihu@users.noreply.github.com>
      2 | fengshaun <amoradi@fedoraproject.org>
      2 | fuerbringer <severin@protonmail.ch>
@@ -169,8 +171,11 @@ Commits | Author
      1 | Andrew Murray <radarhere@gmail.com>
      1 | Angel Velasquez <angvp@archlinux.org>
      1 | Anton Troyanov <anton@troyanov.net>
+     1 | Arda Kılıçdağı <ardakilicdagi@gmail.com>
      1 | Armando Lüscher <armando@noplanman.ch>
+     1 | ArthurHoaro <arthur@hoa.ro>
      1 | Austin <austi_gillm935@ahapps.anoka.k12.mn.us>
+     1 | Bas <mega@ioexception.at>
      1 | Beard of War <rebelgeek@blainsmith.com>
      1 | Ben <ben@rngr.org>
      1 | Bob Mottram <bob@robotics.uk.to>
@@ -241,6 +246,7 @@ Commits | Author
      1 | Matteo Piccina <matteo@beiphone.it>
      1 | Michael Barrow <michael@barrow.me>
      1 | Michael Burns <michael@mirwin.net>
+     1 | Michael van Tricht <swordbeta@users.noreply.github.com>
      1 | Mike Steele <mike@steel.fm>
      1 | MinorTom <TheMinorTom@users.noreply.github.com>
      1 | Moritz Kröger <write@morkro.de>
@@ -257,11 +263,13 @@ Commits | Author
      1 | Peter van den Hurk <runical1991@gmail.com>
      1 | Phill <phill@formbet.co.uk>
      1 | Phonic Mouse <phonicmouse@users.noreply.github.com>
+     1 | Rafael Milewski <Milewski@users.noreply.github.com>
      1 | Remi Rampin <remirampin@gmail.com>
      1 | Remy Adriaanse <remy@adriaanse.it>
      1 | Remy Honig <remyhonig@users.noreply.github.com>
      1 | Riddler <Iamjithin@live.com>
      1 | Roberto Rosario <roberto.rosario.gonzalez@gmail.com>
+     1 | Ryan DeShone <rfdeshon@gmail.com>
      1 | Ryan Halliday <ry167@ry167.com>
      1 | Sahin Boydas <sahin@movielala.com>
      1 | Salvatore Gentile <SalGnt@users.noreply.github.com>
@@ -279,7 +287,6 @@ Commits | Author
      1 | benmaynard11 <allowin-217941-github@vhost244.maynardnetworks.com>
      1 | bricej13 <bricej13@gmail.com>
      1 | cbdev <cb@cbcdn.com>
-     1 | digiou <digitalbckp@gmail.com>
      1 | dimqua <dimqua@lavabit.com>
      1 | domainzero <domainzero@users.noreply.github.com>
      1 | ePirat <epirat07@gmail.com>
@@ -307,3 +314,4 @@ Commits | Author
      1 | wxcafé <wxcafe@wxcafe.net>
      1 | xuansamdinh <xuansamdinh.n2i@gmail.com>
      1 | zotlabs <mike@macgirvin.com>
+     1 | Руслан Корнев <oganer@gmail.com>
