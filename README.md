@@ -181,7 +181,7 @@ See also [Static Site Generators](#static-site-generators), [Content Management 
   * [Lobsters](https://lobste.rs) - Run your own link aggregation site. ([Source Code](https://github.com/jcs/lobsters)) `BSD` `Ruby`
   * [No Fuss Bookmarks](http://nofussbm.herokuapp.com/signup.html) - Very simple software and service to store bookmarks especially designed for hackers (that don't need fancy interfaces, but nice API). ([Source Code](https://github.com/mapio/nofussbm)) `GPLv3` `Python`
   * [Pinry](http://getpinry.com/) - The tiling image board system for people who want to save, tag, and share images, videos, and webpages. ([Source Code](https://github.com/pinry/pinry)) `BSD` `Python`
-  * [saveto.co](https://saveto.co/) - An open source, home for the best links on the web. ([Source Code](https://github.com/saveto-co/saveto)) `MIT` `Nodejs`
+  * [saveto](https://save.duyet.net/) - An open source, home for the best links on the web. ([Source Code](https://github.com/saveto-co/saveto)) `MIT` `Nodejs`
   * [SemanticScuttle](http://semanticscuttle.sourceforge.net/) - SemanticScuttle is a social bookmarking tool experimenting with features like structured tags and collaborative tag descriptions. ([Source Code](https://sourceforge.net/p/semanticscuttle/code/ci/master/tree/)) `GPLv2` `PHP`
   * [Shaarli](https://github.com/shaarli/Shaarli) - Personal, minimalist, super-fast, no-database bookmarking and link sharing plaform. ([Demo](https://demo.shaarli.org)) `Zlib` `PHP`
   * [unmark](https://unmark.it/) - An open source to do app for links. ([Source Code](https://github.com/plainmade/unmark)) `MIT` `PHP`
@@ -237,9 +237,9 @@ Some [Groupware](#groupware) solutions also feature calendar/address book editin
   * [Rocket.Chat](https://rocket.chat/) - Teamchat solution similar to Gitter.im or Slack. ([Source Code](https://github.com/RocketChat/Rocket.Chat)) `MIT` `Nodejs`
   * [Scrollback](https://scrollback.io/) - Embeddable cross-platform chat for communities. ([Source Code](https://github.com/scrollback/scrollback)) `AGPLv3` `Nodejs`
   * [Spreed](https://www.spreed.me/) - WebRTC audio/video calls, conferencing server, and web client. ([Source Code](https://github.com/strukturag/spreed-webrtc)) `AGPLv3` `Go`
-  * [Synapse](https://matrix.org/blog/project/synapse/) - A server for [Matrix](https://matrix.org/), an open standard for decentralized persistent communication. ([Source Code](https://github.com/matrix-org/synapse)) `Apache` `Python`
-    * [Matrix Console Web](https://matrix.org/blog/project/matrix-console-web/) - A web client meant to be a showcase of Matrix capabilities, and reference implementation of the Matrix standard. ([Source Code](https://github.com/matrix-org/matrix-angular-sdk)) `Apache` `Javascript`
-    * [Vector](https://matrix.org/blog/project/vector/) - A glossy Matrix web client with an emphasis on performance and usability. ([Source Code](https://github.com/vector-im/vector-web)) `Apache` `Javascript`
+  * [Synapse](http://matrix.org/docs/projects/server/synapse.html) - A server for [Matrix](https://matrix.org/), an open standard for decentralized persistent communication. ([Source Code](https://github.com/matrix-org/synapse)) `Apache` `Python`
+    * [Matrix Console Web](http://matrix.org/docs/projects/client/matrix-console.html) - A web client meant to be a showcase of Matrix capabilities, and reference implementation of the Matrix standard. ([Source Code](https://github.com/matrix-org/matrix-angular-sdk)) `Apache` `Javascript`
+    * [RIOT](http://riot.im) - A glossy Matrix web client with an emphasis on performance and usability. ([Source Code](https://github.com/vector-im/riot-web)) `Apache` `Javascript`
   * [Syndie](https://www.syndie.de) - Syndie is a libre system for operating distributed forums. `CC0` `Java`
   * [TextBelt](https://github.com/typpo/textbelt) `⚠` - An outgoing SMS API that uses carrier-specific gateways to deliver your text messages for free, and without ads. `MIT` `Javascript`
   * [Tox](https://tox.chat/) - A distributed, secure messenger with audio and video chat capabilities. ([Source Code](https://github.com/irungentoo/toxcore)) `GPLv3` `C`
@@ -425,7 +425,7 @@ _[Extensible Messaging and Presence Protocol](https://en.wikipedia.org/wiki/XMPP
 CMS are a practical way to setup a website with many features. CMS often come with third party plugins, themes and functionality that is easy to add and customize to your needs. See also [Blogging Platforms](#blogging-platforms) and [Static Site Generators](#static-site-generators)
 
   * [Apostrophe 2](http://apostrophenow.org/) - A node.js CMS with a focus on extensible in-context editing tools. ([Demo](http://demo.apostrophenow.com/), [Source Code](https://github.com/punkave/apostrophe)) `MIT` `Nodejs`
-  * [Baun](http://bauncms.com/) - A modern, lightweight, extensible CMS for PHP. ([Source Code](https://github.com/BaunCMS/Baun)) `MIT` `PHP`
+  * [Baun](https://bauncms.com/) - A modern, lightweight, extensible CMS for PHP. ([Source Code](https://github.com/BaunCMS/Baun)) `MIT` `PHP`
   * [BigTree CMS](https://www.bigtreecms.org/) - Straightforward, well documented, and capable written with PHP and MySQL. ([Source Code](https://github.com/bigtreecms/BigTree-CMS)) `LGPLv2` `PHP`
   * [CMS Made Simple](http://www.cmsmadesimple.org/) - Open source content management system, faster and easier management of website contents, scalable for small businesses to large corporations. ([Source Code](http://svn.cmsmadesimple.org/svn/cmsmadesimple/trunk/)) `GPL` `PHP`
   * [Concrete 5 CMS](http://www.concrete5.org/) - An open source content management system. ([Source Code](https://github.com/concrete5/concrete5)) `MIT` `PHP`
@@ -448,8 +448,8 @@ CMS are a practical way to setup a website with many features. CMS often come wi
   * [Plone](https://plone.org/) - Powerful open-source CMS system. ([Source Code](https://github.com/plone)) `Zope` `Python`
   * [ProcessWire](https://processwire.com/) - ProcessWire is an open source content management system (CMS) and web application framework aimed at the needs of designers, developers and their clients. ([Source Code](https://github.com/ryancramerdesign/ProcessWire)) `MPLv2` `PHP`
   * [Publify](http://publify.co/) - A simple but full featured web publishing software. ([Demo](http://demo.publify.co/), [Source Code](https://github.com/publify/publify)) `MIT` `Ruby`
-  * [REDAXO](http://www.redaxo.org) - A simple, flexible and useful content management system (documentation only available in German). ([Source Code](https://github.com/redaxo/redaxo)) `MIT` `PHP`
-  * [Redaxscript](http:/redaxscript.com) - Ultra lightweight CMS for MySQL, SQLite and PostgreSQL. ([Demo](http://demo.redaxscript.com/demo/login), [Source Code](https://github.com/redaxmedia/redaxscript)) `GPLv3` `PHP`
+  * [REDAXO](https://www.redaxo.org) - A simple, flexible and useful content management system (documentation only available in German). ([Source Code](https://github.com/redaxo/redaxo)) `MIT` `PHP`
+  * [Redaxscript](https://redaxscript.com) - Ultra lightweight CMS for MySQL, SQLite and PostgreSQL. ([Demo](https://demo.redaxscript.com/demo/login), [Source Code](https://github.com/redaxmedia/redaxscript)) `GPLv3` `PHP`
   * [Roadiz](https://www.roadiz.io/) -  Modern CMS based on a node system which can handle many types of services. ([Source Code](https://github.com/roadiz/roadiz/)) `MIT` `PHP`
   * [SilverStripe](https://www.silverstripe.org) - Easy to use CMS with powerful MVC framework underlying. ([Demo](http://demo.silverstripe.org/), [Source Code](https://github.com/silverstripe)) `BSD` `PHP`
   * [Sphido](http://www.sphido.org/) - A fast, lightweight, flat file CMS for PHP. ([Source Code](https://github.com/sphido/cms)) `MIT` `PHP`
@@ -818,7 +818,7 @@ See https://github.com/n1trux/awesome-sysadmin#monitoring and https://github.com
   * [Leanote](http://leanote.org/) - Leanote, Not Just A Notepad! Open source cloud notepad. ([Demo](https://leanote.com/note), [Source Code](https://github.com/leanote/leanote)) `GPLv2` `Go`
   * [Markdown Edit](http://georgeosddev.github.com/markdown-edit/) - Online markdown editor/viewer. ([Source Code](https://github.com/georgeOsdDev/markdown-edit)) `MIT` `HTML5`
   * [Meemo](https://meemo.minimal-space.de/) - Personal notes stream with Markdown support. ([Source Code](https://github.com/nebulade/meemo)) `MIT` `Nodejs`
-  * [minimalist-web-notepad](https://github.com/pereorga/minimalist-web-notepad) - A minimalist http://notepad.cc clone. `Apache` `PHP`
+  * [minimalist-web-notepad](https://github.com/pereorga/minimalist-web-notepad) - A minimalist notepad.cc clone. `Apache` `PHP`
   * [notes](https://github.com/SSilence/notes) - Simple script for personal notes with a single page with a WYSIWYG Editor. `GPLv3` `PHP`
   * [OpenNote](https://github.com/FoxUSA/OpenNote) - OpenNote was built to be an open web-based alternative to Microsoft OneNote (T) and EverNote. ([Demo](https://foxusa.github.io/OpenNote/OpenNote/#/folder)) `MIT` `HTML5`
   * [Paperwork](http://paperwork.rocks) - OpenSource note-taking & archiving alternative to Evernote, Microsoft OneNote & Google Keep. ([Source Code](https://github.com/twostairs/paperwork)) `MIT` `PHP`
@@ -858,7 +858,7 @@ See https://github.com/n1trux/awesome-sysadmin#monitoring and https://github.com
   * [CoderVault](https://github.com/codervault) - An Open Source, Self-Hosted, Snippet Manager. ([Source Code](https://github.com/codervault/codervault)) `MIT` `Ruby`
   * [cryptonote](https://cryptonote.me/) - A simple open source web application that lets users encrypt and share messages that can only be read once. ([Source Code](https://github.com/alainmeier/cryptonote)) `BSD` `Ruby`
   * [CryptPad](https://cryptpad.fr/) - CryptPad is the zero knowledge realtime collaborative editor. ([Source Code](https://github.com/xwiki-labs/cryptpad)) `AGPLv3` `Nodejs`
-  * [EdPaste](https://github.com/Edraens/EdPaste) - Self-hosted pastebin written in Laravel (PHP Framework). ([Demo](https://paste.edraens.net/)) `MIT` `PHP`
+  * [EdPaste](https://github.com/Edraens/EdPaste) - Self-hosted pastebin written in Laravel (PHP Framework). ([Demo](https://paste.edra.ovh/)) `MIT` `PHP`
   * [gist](https://gitnet.fr/deblan/gist) - GIST is an open-source application to share code. `GPLv3` `PHP`
   * [hastebin](http://hastebin.com/about.md) - Open source pastebin written in node.js. ([Demo](http://hastebin.com/), [Source Code](https://github.com/seejohnrun/haste-server)) `MIT` `Nodejs`
   * [localpaste](https://github.com/petermaloney/localpaste) - Simple python based pastebin you can run locally, with curl for input. Supports RAW text by default and binary data such as images (no extensions on returned url). `GPLv2` `Python`
@@ -934,7 +934,7 @@ See https://github.com/n1trux/awesome-sysadmin#monitoring and https://github.com
   * [MaterialPoll](https://github.com/nearbycoder/materialpoll) - An opensource strawpoll.me clone for creating random polls. ([Demo](http://materialpoll.tk), [Source Code](https://github.com/nearbycoder/materialpoll)) `MIT` `Nodejs`
   * [Nuages](https://nuages.domainepublic.net/) - Collaborative meeting poll system, similar to doodle or rdvz. ([Source Code](http://git.domainepublic.net/?p=nuages.git;a=tree)) `GPLv3` `Python`
   * [PHPBack](http://www.phpback.org) - The open source feedback system. ([Demo](http://www.phpback.org/demo/), [Source Code](https://github.com/ivandiazwm/phpback/)) `GPLv3` `PHP`
-  * [TellForm](https://tellform.com) - A beautiful online form and survey creator. ([Demo](https://stage.tellform.com/#!/forms/57196d592601ed12074eecc0), [Source Code](https://github.com/whitef0x0/tellform)) `MIT` `Nodejs`
+  * [TellForm](https://tellform.com) - A beautiful online form and survey creator. ([Demo](https://tellform.com/examples), [Source Code](https://github.com/whitef0x0/tellform)) `MIT` `Nodejs`
 
 
 ## Proxy
@@ -949,7 +949,7 @@ See https://github.com/n1trux/awesome-sysadmin#monitoring and https://github.com
   * [Pound](http://www.apsis.ch/pound/) - Light-weight reverse proxy and load balancer for HTTP/HTTPS. ([Source Code](http://www.apsis.ch/pound/)) `GPLv2` `C`
   * [Privoxy](http://www.privoxy.org) - A non-caching web proxy with advanced filtering capabilities for enhancing privacy, modifying web page data and HTTP headers, controlling access, and removing ads and other obnoxious Internet junk. `GPLv2` `C`
   * [scotty](http://www.scotty-transporter.org/) - Scotty is a free opensource proxy software for bypassing filter and censorship systems. ([Source Code](https://github.com/SSilence/scotty)) `GPLv3` `Java`
-  * [Squid](http://www.squid-cache.org/) - Caching proxy for the Web supporting HTTP, HTTPS, FTP, and more. It reduces bandwidth and improves response times by caching and reusing frequently-requested web pages. ([Source Code](http://bazaar.launchpad.net/~squid/squid/3-trunk/files)) `GPLv2` `C`
+  * [Squid](http://www.squid-cache.org/) - Caching proxy for the Web supporting HTTP, HTTPS, FTP, and more. It reduces bandwidth and improves response times by caching and reusing frequently-requested web pages. ([Source Code](https://code.launchpad.net/squid)) `GPLv2` `C`
   * [Swiperproxy](https://swiperproxy.github.io/) - A lightning-fast, open source web proxy that is easy for you to run and customize. ([Demo](http://proxy.donttrustrobots.nl/), [Source Code](https://github.com/swiperproxy/swiperproxy)) `MIT` `Python`
   * [Tinyproxy](https://banu.com/tinyproxy/) - Light-weight HTTP/HTTPS proxy daemon. ([Source Code](https://github.com/tinyproxy/tinyproxy)) `GPLv2` `C`
   * [Traefik](https://traefik.io/) - Træfɪk is a modern HTTP reverse proxy and load balancer made to deploy microservices with ease. It supports several backends (Docker, Swarm, Mesos/Marathon, …) to manage its configuration automatically and dynamically. ([Source Code](https://github.com/containous/traefik)) `MIT` `Go`
@@ -1041,7 +1041,7 @@ See **[Ticketing](#ticketing)**
 
  * [DreamFactory](https://www.dreamfactory.com/) - Turns any SQL/NoSQL/Structured data into Restful API. ([Source Code](https://github.com/dreamfactorysoftware/dreamfactory)) `Apache` `PHP`
  * [Endpoint](https://github.com/LINKIWI/endpoint/) - Super simple mock HTTP API endpoints that return static JSON data, for testing webhooks and client libraries in development. `MIT` `Nodejs`
- * [Fusio](http://www.fusio-project.org/) - Fusio is an open source API management platform which helps to build and manage REST APIs. ([Demo](http://demo.fusio-project.org/backend.htm), [Source Code](https://github.com/apioo/fusio)) `AGPLv3` `PHP`
+ * [Fusio](http://www.fusio-project.org/) - Fusio is an open source API management platform which helps to build and manage REST APIs. ([Demo](http://fusio-project.org/demo), [Source Code](https://github.com/apioo/fusio)) `AGPLv3` `PHP`
  * [Para](http://www.paraio.org) - Para is a flexible and modular backend framework/server for object persistence, API development and authentication. ([Source Code](https://github.com/erudika/para)) `Apache` `Java`
 
 
@@ -1176,7 +1176,7 @@ See also [Documentation Generators](#documentation-generators), [Wikimatrix](htt
 
 **[`^        back to top        ^`](#)**
 
-  * [arkOS](https://arkos.io/) - Install arkOS to a dedicated device and host your own websites, email, files and more. ([Source Code](https://git.coderouge.co/groups/arkOS) [[1]](https://github.com/cznweb)) `MIT/GPL` `Nodejs/Other`
+  * [arkOS](https://arkos.io/) - Install arkOS to a dedicated device and host your own websites, email, files and more. ([Source Code](https://github.com/arkOScloud)) `MIT/GPL` `Nodejs/Other`
   * [Cloudron](https://cloudron.io) - Effortlessly self-host web apps on your server. ([Source Code](https://git.cloudron.io/groups/cloudron)) `AGPLv3` `Nodejs/Docker`
   * [DPlatform](https://dfabric.github.io/DPlatform-ShellCore/) - Deploy self-hosted apps easily: simple, bloat-free, independent installation. ([Source Code](https://github.com/j8r/DPlatform)) `MIT` `Shell`
   * [FreedomBone](https://github.com/bashrc/freedombone) - Home server configuration based on Debian. `GPLv3` `Shell`
