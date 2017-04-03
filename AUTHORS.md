@@ -2,7 +2,7 @@ Commits | Author
 :---: | ---
  366 | nodiscc <nodiscc@gmail.com>
  287 | Kickball <ed.kickball@hotmail.com>
- 151 | n8225 <n8225@users.noreply.github.com>
+ 153 | n8225 <n8225@users.noreply.github.com>
  114 | Andrew Rylatt <AndyR207@users.noreply.github.com>
  35 | Kovah <mail@kovah.de>
  17 | Thomas Dalichow <info@thomasdalichow.de>
