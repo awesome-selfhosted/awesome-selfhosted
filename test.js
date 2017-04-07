@@ -1,40 +1,43 @@
-const fs = require('fs')
-var log = '{\n'
-var issuelog = '  "message": "#### Syntax Issues\\n\\n Name | Entry\\n----|----------------------\\n'
+//Accepts input of any filename, ie. node test.js README.md
 
-var file = fs.readFileSync(process.argv[2], 'utf8')
-entryErrorCheck(file)
+const fs = require('fs')
+var log = '{\n' //Initializes log to be written to syntax.json
+var issuelog = '  "message": "#### Syntax Issues\\n\\n Name | Entry\\n----|----------------------\\n' // Title and gh markdown table header to be appended to syntaxcheck.json
+
+var file = fs.readFileSync(process.argv[2], 'utf8')  //Reads argv into var file
+entryErrorCheck(file)  
 
 function entryErrorCheck (md) {
-  var namepatt = /\*\s\[(.*?)\]/
-  var entries = split(md)
+  var namepatt = /\*\s\[(.*?)\]/ // regex pattern to find name of entryArray
+  var entries = split(md) //Inserts each line into the entries array
+  //initialize conuts to 0
   var totalFail = 0
   var totalPass = 0
   var total = 0
+
   var entryArray = []
-  for (var i = 0, len = entries.length; i < len; i++) {
+  for (var i = 0, len = entries.length; i < len; i++) { // Loop through entries array to create array of objects
     entryArray[i] = new Object;
     entryArray[i].raw = entries[i]
-    if (entryFilter(entries[i]) === true) {
+    if (entryFilter(entries[i]) === true) {  //filter out lines that are not entries (Looks for lines starting with * [)
       total += 1
-      entryArray[i].name = namepatt.exec(entries[i])[1]
-      entryArray[i].pass = findPattern(entries[i])
-      if (entryArray[i].pass === true) {
+      entryArray[i].name = namepatt.exec(entries[i])[1] //Parses name of entry
+      entryArray[i].pass = findPattern(entries[i]) //Tests against known patterns
+      if (entryArray[i].pass === true) { //If entry passes increment totalPass counter
         totalPass += 1
       } else {
-        console.log(entryArray[i].name + 'Failed.')
-        // entryArray[i].error = findError(entries[i]) //WIP
+        console.log(entryArray[i].name + 'Failed.') //If entry fails increment totalFail counter and append error to issuelog
         totalFail += 1
         issuelog += entryArray[i].name + ' | ' + entries[i] + '\\n'
       }
     }
   }
-  if (totalFail > 0) {
+  if (totalFail > 0) { //Logs # passed and failed to console, and entry failures to syntaxcheck.json
     console.log(totalFail + ' Failed, ' + totalPass + ' Passed, of ' + total)
     log += '  "error": true,\n  "title": "Found ' + totalFail + ' entries with syntax error(s).",\n'
     fs.writeFileSync('syntaxcheck.json', log + issuelog + '"\n}')
     process.exit(1)
-  } else {
+  } else { //Logs # of entries passed to console and error: false to syntaxcheck.json
     console.log(totalFail + ' Failed, ' + totalPass + ' Passed, of ' + total + '\n')
     log += '  "error": false\n}'
     fs.writeFileSync('syntaxcheck.json', log)
@@ -42,20 +45,17 @@ function entryErrorCheck (md) {
   }
 };
 
-function entryFilter (md) {
+function entryFilter (md) { //Function to find lines with entries
   var linepatt = /^\s{0,4}\*\s\[.*`/
   return linepatt.test(md)
 }
 
-function split (text) {
+function split (text) { //Function to split lines into array
   return text.split(/\r?\n/)
 }
 
-// function parseMD(md) {
-  // return split(md).filter(entryFilter);
-// }
 
-function findPattern (text) {
+function findPattern (text) { //Function to test entries against 8 known acceptable patterns.  If entry matches regex pattern returns true
   var nodnospatt = /\s{0,4}\*\s\[(.*?)\]\((.*?)\)\s\-\s(.{0,249}?\.\s)`(.*?)`\s`(.*?)`/ // Regex for entries with no demo and no source code
   var slpatt = /\s{0,4}\*\s\[(.*?)\]\((.*?)\)\s\-\s(.{0,249}?\.\s)\(\[Demo\b\]\((.*?)\),\s\[Source Code\b\]\((.*?)\)\)\s`(.*?)`\s`(.*?)`/ // Regex for entries with demo and source code
   var nodpatt = /\s{0,4}\*\s\[(.*?)\]\((.*?)\)\s\-\s(.{0,249}?\.\s)\(\[Source Code\]\((.*?)\)\)\s`(.*?)`\s`(.*?)`/ // Regex for entries with no demo
@@ -84,49 +84,3 @@ function findPattern (text) {
     return false
   }
 };
-// WIP
-function findError (entry) {
-  var fixedEntry = entry
-  if (/\s{0,4}\*\s\[.*?\]\(http.*?\)/.test(entry) === false) { // Fix * site name/URL
-    console.log('marker2')
-    entry.replace(/^(\s*)\**\s*\[*([^()\[\]]*?)\]*\s*\(*(https*:\/\/[^ )]{1,})(\)*\s*`*⚠`*\s*-*\s*|\)*\s*-*\s*)(.*)/gi, function (match, p1, p2, p3, p4, p5) {
-      console.log('Error in [Name](URL)')
-      if (/⚠/.test(entry) === true) {
-        fixedEntry = p1 + '* [' + p2 + '](' + p3 + ') `⚠` - ' + p5
-      } else {
-        fixedEntry = p1 + '* [' + p2 + '](' + p3 + ') - ' + p5
-      }
-      console.log('Fixed: ' + fixedEntry)
-    })
-  }
-  if (/\s-\s/.test(entry) === false) {
-    console.log('marker3')
-    entry.replace(/(\s{0,3}\*\s\[.*?\]\(.*?\))(\s*`*⚠`*\s*-*\s*|\s*`*⚠`*\s*-*|`*⚠`*\s*-*\s*|`*⚠`*-*|\s*|\s*-*\s*|\s*-*|-*\s*|-*|\s*)(.{0,249}?\.)(.*)/gi, function (match, p1, p2, p3, p4) { // Fix space - space between link and descrition
-      console.log('Missing ` - ` between Site link and description.')
-      if (/⚠/.test(entry) === true) {
-        fixedEntry = p1 + ' `⚠` - ' + p3 + p4
-      } else {
-        fixedEntry = p1 + ' - ' + p3 + p4
-      }
-      console.log('Fixed: ' + fixedEntry)
-    })
-  }
-  if (/^\s{0,4}\*\s\[.*?\]\(.*?\).*?(\s\.|\)\)\s)`.*?`\s`.*?`/.test(entry) === false) {
-    console.log('marker4')
-    entry.replace(/^(\s*\*\s.*?\)\)|.*?\s\-\s.*?\.)(\s*`*\s*)(.*?)(\s*`\s*`\s*|\s*`\s*`*\s*|\s*`*\s*`\s*|\s)(.*?)`/gi, function (match, p1, p2, p3, p4, p5) { // Fix License and Language
-      console.log('Issue in Language or License')
-      fixedEntry = p1 + ' `' + p3 + '` `' + p5 + '`'
-      console.log('Fixed: ' + fixedEntry)
-    })
-  } else if (/demo/i.test(entry) === true) {
-
-  } else if (/source/i.test(entry) === true) {
-
-  }
-  console.log(findPattern(fixedEntry))
-  // if (findPattern(fixedEntry) === false) {
-    // findError(fixedEntry) // If it's not fixed let's try again.
-  // }
-}
-
-// else if (/source/i.test(entry) === true && /demo/i.test(entry) === true) {
