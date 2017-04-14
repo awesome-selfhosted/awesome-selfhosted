@@ -50,6 +50,10 @@
   * [Cubiks-2048](https://github.com/Kshitij-Banerjee/Cubiks-2048) - Clone of 2048 game in 3D. ([Demo](https://kshitij-banerjee.github.io/Cubiks-2048/)) `CCBYNCv4` `HTML5`
   * [untrusted](https://github.com/AlexNisnevich/untrusted) - Untrusted is a unique puzzle game designed for geeks and developers, where you solve the puzzles in the game by reading and writing Javascript. ([Demo](http://alex.nisnevich.com/untrusted/)) `CCBYNCSAv3/Custom` `Nodejs`
 
+## IPBX
+
+  * [Elastix](http://www.elastix.org) `⊘ Proprietary` - Unified communications server software based on 3CX. ([Source Code](https://svn.code.sf.net/p/elastix/code/trunk/)) `GPLv2` `PHP`
+
 
 ## Media Streaming
 

@@ -137,6 +137,7 @@ _Business Intelligence_
   * [pyLoad](https://pyload.net/) - Lightweight, customizable and remotely manageable downloader for 1-click-hosting sites like rapidshare.com or uploaded.to. ([Source Code](https://github.com/pyload/pyload)) `GPLv3` `Python`
   * [Radarr](https://radarr.video/) - Radarr is an independent fork of Sonarr reworked for automatically downloading movies via Usenet and BitTorrent, à la Couchpotato. ([Source Code](https://github.com/Radarr/Radarr)) `GPLv3` `C#`
   * [RSS-Bridge](https://github.com/sebsauvage/rss-bridge) - rss-bridge is a PHP project capable of generating ATOM feeds for websites which don't have one. `Public domain` `PHP`
+  * [RSS Merger](https://github.com/taophp/rss-merger) - PHP script which will take multiple RSS / Atom feeds as input and merge them into a single RSS feed. `GPLv2` `PHP`
   * [SickRage](http://sickrage.github.io/) - SickRage is an automatic Video Library Manager for TV Shows. Automatic torrent/nzb searching, downloading, and processing at the qualities you want. ([Source Code](https://github.com/SickRage/SickRage/)) `GPLv3` `Python`
   * [Sonarr](https://sonarr.tv/) - An automatic TV Shows downloader and manager for Usenet and BitTorrent. It can grab, sort and rename new episodes and automatically upgrade the quality of files already downloaded when a better quality format becomes available. ([Source Code](https://github.com/Sonarr/Sonarr)) `GPLv3` `C#`
   * [TriggerHappy](http://trigger-happy.eu/) - An opensource clone of IFTTT, a bridge between your internet services. ([Source Code](https://github.com/foxmask/django-th)) `BSD` `Python`
@@ -157,6 +158,7 @@ See also [Static Site Generators](#static-site-generators), [Content Management 
   * [Bludit](https://www.bludit.com/) `⚠` - Simple application to build a site or blog in seconds. Bludit uses flat-files (text files in JSON format) to store posts and pages. ([Demo](http://demo-bludit.rhcloud.com/), [Source Code](https://github.com/dignajar/bludit)) `MIT` `PHP`
   * [Chyrp](https://github.com/chyrp/chyrp) - An extra-awesome, extra-lightweight blog engine. `MIT` `PHP`
   * [Dotclear](http://dotclear.org/) - Take control over your blog. ([Source Code](https://hg.dotclear.org/dotclear)) `GPLv2` `PHP`
+  * [Formtools](https://formtools.org/) - Powerful, flexible, free and open source PHP/MySQL script to manage your forms and data. ([Source Code](https://github.com/formtools)) `GPLv2` `PHP`
   * [Ghost](https://ghost.org/) - Just a blogging platform. ([Source Code](https://github.com/TryGhost/Ghost)) `MIT` `Nodejs`
   * [Hexo](https://hexo.io/) - A fast, simple & powerful blog framework, powered by Node.js. ([Source Code](https://github.com/hexojs/hexo)) `MIT` `Nodejs`
   * [Hotglue](https://hotglue.me/) - HOTGLUE is a freehand CMS which allows to construct websites directly in a web-browser. It uses flat files for storage and provides an intuitive GUI. ([Demo](https://hotglue.me/demo/), [Source Code](https://github.com/k0a1a/hotglue2)) `GPLv3` `PHP`
@@ -337,7 +339,6 @@ _[SIP](https://en.wikipedia.org/wiki/Session_Initiation_Protocol) telephony soft
 
 _[IPBX](https://en.wikipedia.org/wiki/IP_PBX) telephony software_
 
-  * [Elastix](http://www.elastix.org) - Unified communications server software based on Asterisk. ([Source Code](https://svn.code.sf.net/p/elastix/code/trunk/)) `GPLv2` `PHP`
   * [Freepbx](http://www.freepbx.org) - Web-based open source GUI that controls and manages Asterisk. ([Source Code](http://git.freepbx.org/projects/FREEPBX)) `GPLv2` `PHP`
   * [Kazoo](http://2600hz.org/) - KAZOO is an open-source, highly scalable software platform designed to provide carrier-grade VoIP switch functions and features. ([Source Code](https://github.com/2600hz/KAZOO)) `MPLv1.1` `Erlang`
 
@@ -861,7 +862,7 @@ See https://github.com/n1trux/awesome-sysadmin#monitoring and https://github.com
   * [Modern Paste](https://www.modernpaste.com) - Modern pastebin with a contemporary, minimalistic user interface backed by a robust feature set. ([Demo](https://demo.modernpaste.com/), [Source Code](https://github.com/LINKIWI/modern-paste)) `MIT` `Python`
   * [mojopaste](http://search.cpan.org/dist/App-mojopaste/) - Perl based pastebin. ([Demo](http://p.thorsen.pm/), [Source Code](https://github.com/jhthorsen/app-mojopaste)) `ARTv2` `Perl`
   * [NoteHub](https://notehub.org) - Free and Hassle-free Pastebin for Markdown Pages. Simple, clean, password provided, generated-short link. ([Demo](https://notehub.org), [Source Code](https://github.com/chmllr/NoteHub)) `MIT` `Nodejs`
-  * [Paste](http://phpaste.sourceforge.net/) - Paste is forked from the original source pastebin.com used before it was bought. ([Demo](http://phpaste.sourceforge.net/demo), [Source Code](https://bitbucket.org/j-samuel/paste/)) `GPLv3` `PHP`
+  * [Paste](http://phpaste.sourceforge.io/) - Paste is forked from the original source pastebin.com used before it was bought. ([Demo](http://phpaste.sourceforge.net/demo), [Source Code](https://github.com/jordansamuel/PASTE)) `GPLv3` `PHP`
   * [Pastebin](https://p.pantsu.cat) - Modern self-hosted pastebin service with a restful API. ([Demo](https://p.pantsu.cat), [Source Code](https://github.com/ewhal/Pastebin)) `MIT` `Go`
   * [pb](https://github.com/ptpb/pb) - Lightweight pastebin (and url shortener) built using flask. ([Demo](https://ptpb.pw/)) `GPLv3` `Python`
   * [pbnh](https://github.com/bhanderson/pbnh) - Pastebin inspired from project pb and hastebin, with an API and a SQL-based backend. `MIT` `Python`
@@ -1143,7 +1144,7 @@ See also [Documentation Generators](#documentation-generators), [Wikimatrix](htt
   * [BookStack](https://www.bookstackapp.com/) - BookStack is a simple, self-hosted, easy-to-use platform for organizing and storing information. It allows for documentation to be stored in a book like fashion. ([Demo](https://www.bookstackapp.com/#demo), [Source Code](https://github.com/ssddanbrown/BookStack)) `MIT` `PHP`
   * [django-wiki](https://github.com/django-wiki/django-wiki) - A wiki system with complex functionality for simple integration and a superb interface. Store your knowledge with style: Use django models. ([Demo](https://demo.django.wiki/)) `GPLv3` `Python`
   * [Dokuwiki](https://www.dokuwiki.org/DokuWiki) - An easy to use, lightweight, standards-compliant wiki engine with a simple syntax allowing reading the data outside the wiki. All data is stored in plain files, therefore no database is required. `GPL` `PHP`
-  * [Gitit](https://github.com/jgm/gitit) - A wiki program that stores pages and uploaded files in a git repository, which can then be modified using the VCS command line tools or the wiki's web interface. ([Demo](http://gitit.johnmacfarlane.net/)) `GPLv2` `Haskell`
+  * [Gitit](https://github.com/jgm/gitit) - A wiki program that stores pages and uploaded files in a git repository, which can then be modified using the VCS command line tools or the wiki's web interface. `GPLv2` `Haskell`
   * [Gollum](https://github.com/gollum/gollum) - A simple, Git-powered wiki with a sweet API and local frontend. `MIT` `Ruby`
   * [jingo](https://github.com/claudioc/jingo) - A git based wiki engine written for node.js, with a decent design, a search capability and a good typography. ([Demo](http://jingo.cica.li:6067/wiki/home), [Source Code](https://github.com/claudioc/jingo)) `MIT` `NodeJS`
   * [Mediawiki](https://www.mediawiki.org/wiki/MediaWiki) - MediaWiki is a free and open-source wiki software package written in PHP. It serves as the platform for Wikipedia and the other Wikimedia projects, used by hundreds of millions of people each month. ([Source Code](https://phabricator.wikimedia.org/diffusion/MW/)) `GPLv2` `PHP`
