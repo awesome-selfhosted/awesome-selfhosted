@@ -879,7 +879,7 @@ See https://github.com/n1trux/awesome-sysadmin#monitoring and https://github.com
 
 
 ## Personal Dashboards 
-See [here](https://github.com/n1trux/awesome-sysadmin#metric--metric-collection)
+See https://github.com/n1trux/awesome-sysadmin#metric--metric-collection
 
 **[`^        back to top        ^`](#)**
 
