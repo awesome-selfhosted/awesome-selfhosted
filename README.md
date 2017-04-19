@@ -93,6 +93,7 @@ See [Contributing](.github/CONTRIBUTING.md).
 <!-- BEGIN SOFTWARE LIST -->
 
 ## Analytics
+For personal analytics/dashboards, see [Personal Dashboards](https://github.com/Kickball/awesome-selfhosted#personal-dashboards)
 
 **[`^        back to top        ^`](#)**
 
@@ -877,14 +878,12 @@ See https://github.com/n1trux/awesome-sysadmin#monitoring and https://github.com
   * [tastebin](https://github.com/andreineculau/tastebin) - Updated version of hastebin plus additional features. `Apache` `Nodejs`
 
 
-## Personal Dashboards
+## Personal Dashboards 
+See https://github.com/n1trux/awesome-sysadmin#metric--metric-collection
 
 **[`^        back to top        ^`](#)**
 
-  * [Dashing](http://shopify.github.io/dashing/) - Sinatra based, open sourced dashboard builder from Shopify. ([Demo](http://dashingdemo.herokuapp.com/sample), [Source Code](https://github.com/Shopify/dashing)) `MIT` `Ruby`
   * [Dj Diabetes](https://github.com/foxmask/dj-diabetes) - My Glucose Manager - follow your daily health. `BSD` `Python`
-  * [Freeboard](https://freeboard.io) - An open source real-time dashboard builder for IOT and other web mashups. ([Source Code](https://github.com/freeboard/freeboard)) `MIT` `Nodejs`
-  * [Grafana](http://grafana.org/) - An open source dashboard for data visualization. ([Source Code](https://github.com/grafana)) `Apache` `Go`
   * [Habitica](http://habitica.com/) - A habit tracker app which treats your goals like a Role Playing Game. Previously called HabitRPG. ([Source Code](https://github.com/HabitRPG/habitrpg)) `GPLv3/Other` `Nodejs`
   * [Homepage](https://github.com/thetomester13/homepage) - A simple, standalone, self-hosted PHP page that is your window to your server and the web. `MIT` `PHP`
   * [iDashboard-PHP](https://github.com/causefx/iDashboard-PHP) - HTPC Dashboard to load website services. `MIT` `PHP`
