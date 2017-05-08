@@ -751,6 +751,7 @@ See also <https://en.wikipedia.org/wiki/List_of_streaming_media_systems>, <https
   * [Shinobi](https://moeiscool.github.io/Shinobi/) - Open Source CCTV software written in Node with both IP and local camera support. ([Source Code](https://github.com/moeiscool/Shinobi)) `GPLv2` `Nodejs`
   * [Streama](https://github.com/dularion/streama) - Self-hosted Netflix alternative. `MIT` `Java`
   * [Zoneminder](https://github.com/ZoneMinder/ZoneMinder) - Closed-circuit television (CCTV) software application which supports IP, USB and Analog cameras. `GPLv2` `PHP`
+  * [Shinobi](https://moeiscool.github.io/Shinobi/) - Open Source CCTV software written in Node.JS ( IP Camera Recorder ). `GPLv2` `NodeJS`
 
 
 ## Misc/Other
