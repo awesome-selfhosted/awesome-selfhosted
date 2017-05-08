@@ -644,6 +644,7 @@ See https://github.com/n1trux/awesome-sysadmin#distributed-filesystems
   * [Hextris](https://github.com/Hextris/hextris) - Fast paced HTML5 puzzle game inspired by Tetris. ([Demo](http://hextris.io/)) `GPLv3` `HTML5`
   * [Posio](https://github.com/abrenaut/posio/) - A geography multiplayer game. ([Demo](https://posio.abrenaut.com/)) `MIT` `Python`
   * [TournamentMango](http://tournamentmango.com/) - TournamentMango is an open source tournament bracket and user management system. You can build an archive of players and keep track of all their scores over time as well as their regular characters, games, and aliases. ([Source Code](https://github.com/seiyria/tournamentmango)) `MIT` `Javascript`
+   * [Linux Game Server Managers_](https://gameservermanagers.com) - A command line tool for quick, simple deployment and management of various dedicated game servers. ([Source Code](https://github.com/dgibbs64/linuxgsm)) `MIT` `Bash`
 
 
 ## Gateways
