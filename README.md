@@ -852,7 +852,7 @@ See https://github.com/n1trux/awesome-sysadmin#monitoring and https://github.com
  * [keeweb](https://keeweb.info/) - This webapp is a browser and desktop password manager compatible with KeePass databases. ([Source Code](https://github.com/keeweb/keeweb)) `MIT` `HTML5`
  * [sysPass](http://www.syspass.org/) - Multiuser password management system. ([Demo](http://demo.syspass.org/), [Source Code](https://github.com/nuxsmin/sysPass)) `GPLv3` `PHP`
  * [Teampass](http://teampass.net/) - Password manager dedicated for managing passwords in a collaborative way on any server Apache, MySQL and PHP. ([Source Code](https://github.com/nilsteampassnet/TeamPass/)) `GPLv3` `PHP`
-
+ * [Keepass](http://keepass.info/) - KeePass, the free, open source, multi-platform, light-weight and easy-to-use password manager. ([Source Code](https://sourceforge.net/projects/keepass/files/)) `GPLv2` `C#/C++`
 
 ## Pastebins
 
