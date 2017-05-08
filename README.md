@@ -36,6 +36,7 @@ See [Contributing](.github/CONTRIBUTING.md).
   - [DNS](#dns)
   - [Document Archiving](#document-archiving)
   - [Enterprise Resource Planning](#enterprise-resource-planning)
+  - [Event Management](#event-management)
   - [Federated Identity/Authentication](#federated-identityauthentication)
   - [Feed Readers](#feed-readers)
   - [File Sharing and Synchronization](#file-sharing-and-synchronization)
@@ -511,6 +512,11 @@ See https://github.com/n1trux/awesome-sysadmin#dns
 * [ERPNext](https://erpnext.com) - Free open source ERP system. ([Demo](https://demo.erpnext.com), [Source Code](https://github.com/frappe/erpnext)) `GPLv3` `Python`
 * [Odoo](http://odoo.com) - Free open source ERP system. ([Demo](https://demo.odoo.com/), [Source Code](https://github.com/odoo/odoo)) `LGPLv3` `Python`
 * [Tryton](http://www.tryton.org/) - Free open source business solution. ([Demo](http://www.tryton.org/download.html), [Source Code](https://hg.tryton.org/)) `GPLv3` `Python`
+
+
+## Event Management
+
+  * [Attendize]( https://www.attendize.com) - Attendize is a free & open-source ticket selling and event management platform. ([Source Code](https://github.com/attendize/attendize)) `AAL` `PHP`
 
 
 ## Federated Identity/Authentication
