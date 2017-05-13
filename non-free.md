@@ -90,6 +90,7 @@
 ## Self-hosting Solutions
   * [Axigen](https://www.axigen.com/mail-server/free/) `⊘ Proprietary` -  Great alternative to open source. It's a turnkey messaging solution, perfect for small & micro businesses, integration projects or test environments.
   * [hMailServer](https://www.hmailserver.com) `⊘ Proprietary` - Open source e-mail server for Microsoft Windows. ([Source Code](https://github.com/hmailserver/hmailserver)) `C++`
+  * [Poste.io](https://poste.io) - Full featured solution for your Email server. Native implementation of last anti-SPAM metods, webmail and easy administration included.  Free tier available.
 
   
 ## Software Development
