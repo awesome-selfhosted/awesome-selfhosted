@@ -516,6 +516,7 @@ See https://github.com/n1trux/awesome-sysadmin#dns
 * [ERPNext](https://erpnext.com) - Free open source ERP system. ([Demo](https://demo.erpnext.com), [Source Code](https://github.com/frappe/erpnext)) `GPLv3` `Python`
 * [Odoo](http://odoo.com) - Free open source ERP system. ([Demo](https://demo.odoo.com/), [Source Code](https://github.com/odoo/odoo)) `LGPLv3` `Python`
 * [Tryton](http://www.tryton.org/) - Free open source business solution. ([Demo](http://www.tryton.org/download.html), [Source Code](https://hg.tryton.org/)) `GPLv3` `Python`
+* [LedgerSMB](https://ledgersmb.org/) - The LedgerSMB project brings accounting software integrating invoicing, order processing, quotations and more (ERP) to small and midsize businesses. `GPLv2` `Perl`
 
 
 ## Federated Identity/Authentication
