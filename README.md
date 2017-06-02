@@ -266,7 +266,7 @@ _simple deployment of a mail server, e.g. for inexperienced or impatient admins.
   * [Mailcow](https://mailcow.email/) - Mail server suite based on Dovecot, Postfix and other open source software, that provides a modern Web UI for administration. ([Source Code](https://github.com/andryyy/mailcow)) `GPLv2` `PHP`
   * [Mail-in-a-Box](https://mailinabox.email/) - Turns any Ubuntu server into a fully functional mail server with one command. ([Source Code](https://github.com/mail-in-a-box/mailinabox)) `CC0` `Shell`
   * [Modoboa](http://modoboa.org/en/) - Modoboa is a mail hosting and management platform including a modern and simplified Web User Interface. ([Source Code](https://github.com/tonioo/modoboa)) `MIT` `Python`
-
+  * [Inboxen](https://inboxen.org) - Inboxen is a service that provides you with an infinite number of unique inboxes. ([Source Code](https://github.com/Inboxen/Inboxen)) `GPLv3` `Python`
 #### Mail Transfer Agents
 
 _MTAs / SMTP servers_
@@ -303,6 +303,8 @@ _Mailing lists servers and mass mailing software - one message to many recipient
   * [phpList](https://phplist.org) - Newsletter and email marketing with advanced management of subscribers, bounces, and plugins. ([Source Code](https://github.com/phpList/)) `AGPLv3` `PHP`
   * [Schleuder](https://schleuder.nadir.org/) - A GPG-enabled mailing list manager with resending-capabilities. ([Source Code](https://0xacab.org/schleuder/schleuder/tree/master)) `GPLv3` `Ruby`
   * [Sympa](https://www.sympa.org/) - A mailing list manager. `GPLv2` `Perl`
+  * [postal](https://github.com/atech/postal) - A fully featured open source mail delivery platform for incoming & outgoing e-mail `MIT ` `Ruby`
+
 
 #### Webmail clients
 
