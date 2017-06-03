@@ -303,6 +303,7 @@ _Mailing lists servers and mass mailing software - one message to many recipient
   * [phpList](https://phplist.org) - Newsletter and email marketing with advanced management of subscribers, bounces, and plugins. ([Source Code](https://github.com/phpList/)) `AGPLv3` `PHP`
   * [Schleuder](https://schleuder.nadir.org/) - A GPG-enabled mailing list manager with resending-capabilities. ([Source Code](https://0xacab.org/schleuder/schleuder/tree/master)) `GPLv3` `Ruby`
   * [Sympa](https://www.sympa.org/) - A mailing list manager. `GPLv2` `Perl`
+  * [Mailtrain](https://mailtrain.org/) - allows you to easily manage even very large lists. Million subscribers? Not a problem.
 
 #### Webmail clients
 
