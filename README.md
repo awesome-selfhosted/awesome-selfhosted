@@ -607,7 +607,6 @@ See https://github.com/n1trux/awesome-sysadmin#distributed-filesystems
   * [img.bi](https://github.com/imgbi/img.bi) - img.bi is a secure image hosting. Images are encrypted using AES-256 with random key in browser before upload. `GPLv3` `Nodejs`
   * [ipfs.pics](https://ipfs.pics/) - ipfs.pics is a o distributed image hosting website. ([Source Code](https://github.com/ipfspics/server)) `AGPLv3` `PHP`
   * [Jirafeau](https://gitlab.com/mojo42/Jirafeau) - Jirafeau is a web site permitting to upload a file in a simple way and give an unique link to it. ([Demo](http://jirafeau.net/)) `AGPLv3` `PHP`
-  * [Jyraphe](http://home.gna.org/jyraphe/) - Jyraphe is a web application of file repository, easy to install and easy to use. ([Source Code](http://svn.gna.org/viewcvs/jyraphe/)) `AGPLv3` `PHP`
   * [linx](https://github.com/andreimarcu/linx-server) - File sharing application and pastebin with API, auto-expiry, deletion keys, and web seed support. ([Demo](https://linx.li/)) `GPLv3` `Go`
   * [lufi](https://git.framasoft.org/luc/lufi) - Let's Upload that FIle, client-side encrypted. ([Demo](https://demo.lufi.io), [Source Code](https://git.framasoft.org/luc/lufi/tree/master)) `AGPLv3` `Perl`
   * [lutim](https://github.com/ldidry/lutim) - Let's Upload That Image. `AGPLv3` `Perl`
