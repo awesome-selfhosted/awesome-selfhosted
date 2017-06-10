@@ -1130,7 +1130,7 @@ See https://staticsitegenerators.net and https://www.staticgen.com
   * [Nimbus](https://github.com/ethanal/nimbus) - A URL shortener and file sharer with a drag-and-drop OS X menu bar client and web interface. `MIT` `Python`
   * [Polr](https://project.polr.me/) - A modern, minimalist, modular, and lightweight URL shortener. ([Source Code](https://github.com/Cydrobolt/polr)) `GPLv2` `PHP`
   * [shuri](https://github.com/pips-/shuri) - SHort URI - Lighweight URL shortener. `MIT` `PHP`
-  * [url-shortener](https://github.com/cagataycali/url-shortener) - Shitty url shortener, emoji and ai powered. `MIT` `JavaScript`
+  * [url-shortener] ``⚠`` (https://github.com/cagataycali/url-shortener) - Shitty url shortener, emoji and ai powered. `MIT` `JavaScript`
   * [YOURLS](http://yourls.org/) - YOURLS is a set of PHP scripts that will allow you to run Your Own URL Shortener. Features include password protection, URL customization, bookmarklets, statistics, API, plugins, jsonp. ([Source Code](https://github.com/YOURLS/YOURLS/)) `MIT` `PHP`
 
 
