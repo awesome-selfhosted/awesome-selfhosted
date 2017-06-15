@@ -374,7 +374,6 @@ _[IPBX](https://en.wikipedia.org/wiki/IP_PBX) telephony software_
   * [Jappix](https://jappix.com/) - Jappix is an open social platform, that let's you easily get or keep in touch with everyone. ([Source Code](https://github.com/jappix/jappix)) `AGPLv3` `PHP`
   * [Loomio](https://www.loomio.org/) - Loomio is a collaborative decision-making tool that makes it easy for anyone to participate in decisions which affect them. ([Source Code](https://github.com/loomio/loomio)) `AGPLv3` `Ruby`
   * [Mastodon](https://mastodon.social) - Federated microblogging server, an alternative to GNU social. ([Source Code](https://github.com/tootsuite/mastodon)) `AGPLv3` `Ruby`
-  * [Monica](https://monicahq.com/) - A CRM for your friends and family. ([Source Code](https://github.com/monicahq/monica)) `AGPLv3` `PHP`
   * [Movim](https://movim.eu/) - A brand new social network, full of awesome features in a modern and smart interface. ([Source Code](https://github.com/movim/movim)) `AGPLv3` `PHP`
   * [MyBB](http://www.mybb.com/) - Free, extensible forum software package. ([Source Code](https://github.com/mybb/mybb)) `LGPLv3` `PHP`
   * [Newebe](http://newebe.org/) - A Distributed Social Network. ([Source Code](https://github.com/gelnior/newebe)) `AGPLv3` `Python`
@@ -782,6 +781,7 @@ See also <https://en.wikipedia.org/wiki/List_of_streaming_media_systems>, <https
   * [King Phisher](https://github.com/securestate/king-phisher) - King Phisher is a tool for testing and promoting user awareness by simulating real world phishing attacks. `BSD` `Python`
   * [LicAPI](https://projects.miguelpiedrafita.com/LicAPI) - A PHP API to manage license info. ([Source Code](https://github.com/m1guelpf/LicAPI)) `MPLv2` `PHP`
   * [Mindmaps](https://github.com/drichard/mindmaps) - An open source, offline capable, mind mapping application. ([Demo](http://drichard.org/mindmaps/)) `AGPLv3` `HTML5`
+  * [Monica](https://monicahq.com/) - Personal Relationship Manager - A new kind of CRM to organize interactions with your friends and family ([Source Code](https://github.com/monicahq/monica)) `AGPLv3` `PHP`
   * [Musical Artifacts](https://musical-artifacts.com/) - Helping to catalog, preserve and free the artifacts you need to produce music. ([Source Code](https://github.com/lfzawacki/musical-artifacts)) `MIT` `Ruby`
   * [nnmm](https://nnmm.nl/) - A super tiny pastebin/url minifier "microservice". ([Source Code](https://github.com/Mechazawa/nnmm)) `Beerware` `PHP`
   * [Notica](https://notica.us) - Lets you send browser notifications from your terminal to your desktop or phone. No installation or registration is required. ([Source Code](https://github.com/tannercollin/Notica)) `MIT` `Nodejs`
