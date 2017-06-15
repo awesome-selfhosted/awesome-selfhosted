@@ -740,9 +740,9 @@ See also <https://en.wikipedia.org/wiki/List_of_streaming_media_systems>, <https
   * [koel](http://koel.phanan.net/) - A personal music streaming server that works. ([Source Code](https://github.com/phanan/koel)) `MIT` `PHP`
   * [Libresonic](http://libresonic.org/) - Open-source web-based media streamer and jukebox. A fork of Subsonic's last open-source release, before it switched licenses. `GPLv3` `Java`
   * [Mopidy](http://mopidy.readthedocs.org/) - Extensible music server. Offers a superset of the mpd API, as well as integration with 3rd party services like Spotify, SoundCloud etc. ([Source Code](https://github.com/mopidy/mopidy)) `Apache` `Python`
-   * [Moped](https://github.com/martijnboland/moped) - Responisve HTML5 + Javascript client for the Mopidy music server. `MIT` `HTML5`
-   * [Mopidy MusicBox](https://github.com/pimusicbox/mopidy-musicbox-webclient) - Web Client for Mopidy Music Server. `Apache` `HTML5`
-   * [Mopidy-Party](https://github.com/Lesterpig/mopidy-party) - Mopidy web extension designed for party! Let your guests manage the sound. `Apache` `Python`
+    * [Moped](https://github.com/martijnboland/moped) - Responisve HTML5 + Javascript client for the Mopidy music server. `MIT` `HTML5`
+    * [Mopidy MusicBox](https://github.com/pimusicbox/mopidy-musicbox-webclient) - Web Client for Mopidy Music Server. `Apache` `HTML5`
+    * [Mopidy-Party](https://github.com/Lesterpig/mopidy-party) - Mopidy web extension designed for party! Let your guests manage the sound. `Apache` `Python`
   * [mpd](http://www.musicpd.org/) - Daemon to remotely play music, stream music, handle and organize playlists. Many clients available. `GPLv2` `C++`
   * [mStream](http://mstream.io/) - Music streaming server with GUI management tools. Runs on Mac, Windows, and Linux. ([Demo](https://darncoyotes.mstream.io/), [Source Code](https://github.com/IrosTheBeggar/mStream)) `GPLv2` `Nodejs`
    * [ympd](http://www.ympd.org/) - Standalone MPD Web GUI written in C, utilizing Websockets and Bootstrap/JS. ([Source Code](https://github.com/notandy/ympd)) `GPLv2` `C`
@@ -990,7 +990,7 @@ See https://github.com/n1trux/awesome-sysadmin#metric--metric-collection
 
 ### Project Management
 
-See also [Ticketing](#ticketing), [Task management/To-do lists](#task-managementto-do-lists)*
+_See also [Ticketing](#ticketing), [Task management/To-do lists](#task-managementto-do-lists)_
 
   * [Apache Bloodhound](https://bloodhound.apache.org/) - Manage software products, Keep track of features, tasks and bugs. `Apache` `Python`
   * [Bonobo Git Server](https://bonobogitserver.com/) - Set up your own self hosted git server on IIS for Windows. Manage users and have full control over your repositories with a nice user friendly graphical interface. ([Source Code](https://github.com/jakubgarfield/Bonobo-Git-Server)) `MIT` `C#`
