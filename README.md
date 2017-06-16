@@ -781,6 +781,7 @@ See also <https://en.wikipedia.org/wiki/List_of_streaming_media_systems>, <https
   * [King Phisher](https://github.com/securestate/king-phisher) - King Phisher is a tool for testing and promoting user awareness by simulating real world phishing attacks. `BSD` `Python`
   * [LicAPI](https://projects.miguelpiedrafita.com/LicAPI) - A PHP API to manage license info. ([Source Code](https://github.com/m1guelpf/LicAPI)) `MPLv2` `PHP`
   * [Mindmaps](https://github.com/drichard/mindmaps) - An open source, offline capable, mind mapping application. ([Demo](http://drichard.org/mindmaps/)) `AGPLv3` `HTML5`
+  * [Monica](https://monicahq.com/) - Personal relationship manager, and a new kind of CRM to organize interactions with your friends and family. ([Source Code](https://github.com/monicahq/monica)) `AGPLv3` `PHP`
   * [Musical Artifacts](https://musical-artifacts.com/) - Helping to catalog, preserve and free the artifacts you need to produce music. ([Source Code](https://github.com/lfzawacki/musical-artifacts)) `MIT` `Ruby`
   * [nnmm](https://nnmm.nl/) - A super tiny pastebin/url minifier "microservice". ([Source Code](https://github.com/Mechazawa/nnmm)) `Beerware` `PHP`
   * [Notica](https://notica.us) - Lets you send browser notifications from your terminal to your desktop or phone. No installation or registration is required. ([Source Code](https://github.com/tannercollin/Notica)) `MIT` `Nodejs`
