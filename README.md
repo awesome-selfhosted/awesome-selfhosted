@@ -476,7 +476,7 @@ CMS are a practical way to setup a website with many features. CMS often come wi
 
 _Recipe management_
 
-  * [OpenEats](http://www.openeats.org/) - A recipe management site that allows users to create, store, share and rate recipes, create grocery lists, and more. ([Source Code](https://github.com/RyanNoelk/OpenEats)) `BSD` `Python`
+  * [OpenEats](https://github.com/RyanNoelk/OpenEats) - A recipe management site that allows users to create, store, share and rate recipes, create grocery lists, and more. ([Demo](https://food.ryannoelk.com/)) `MIT` `Python`
 
 ### E-commerce
 
