@@ -108,7 +108,7 @@
   
 ## Ticketing
   * [SupportPal](https://www.supportpal.com/) `⊘ Proprietary` - Powerful help desk software - easy, fast and intuitive. ([Demo](http://demo.supportpal.com/)) `PHP`
-  *[UseResponse] (https://www.useresponse.com/)`⊘ Proprietary` - All-in-one solution (feedback community portal, help desk, live chat, knowledge base).([Trial](https://www.useresponse.com/trial))`PHP`
+  *[UseResponse] (https://www.useresponse.com/)`⊘ Proprietary` - All-in-one solution (feedback community portal, help desk, live chat, knowledge base).([Demo](https://www.useresponse.com/trial))`PHP`
 
 ## Remote Support
 
