@@ -501,9 +501,10 @@ _Recipe management_
 
 **[`^        back to top        ^`](#)**
 
-  * [nsupdate.info](https://www.nsupdate.info/) - nsupdate.info is a dynamic dns service.  ([Demo](https://www.nsupdate.info/account/register/),[Source Code](https://github.com/nsupdate-info/nsupdate.info)) `BSD` `Python`
 See https://github.com/n1trux/awesome-sysadmin#dns
 
+
+  * [nsupdate.info](https://www.nsupdate.info/) - nsupdate.info is a dynamic DNS service. ([Demo](https://www.nsupdate.info/account/register/), [Source Code](https://github.com/nsupdate-info/nsupdate.info)) `BSD` `Python`
 
 ## Document Archiving
 
