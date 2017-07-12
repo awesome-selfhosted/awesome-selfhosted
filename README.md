@@ -1011,7 +1011,7 @@ _See also [Ticketing](#ticketing), [Task management/To-do lists](#task-managemen
   * [Gitea](https://gitea.io) - A community managed fork of Gogs, lightweight code hosting solution. ([Demo](https://try.gitea.io), [Source Code](https://github.com/go-gitea/gitea)) `MIT` `Go`
   * [GitLab](http://gitlab.org/) - Self Hosted Git repository management, code reviews, issue tracking, activity feeds and wikis. ([Demo](https://gitlab.com/), [Source Code](https://gitlab.com/gitlab-org/gitlab-ce)) `MIT` `Ruby`
   * [Gitlist](http://gitlist.org/) - A web-based git repository browser - GitList allows you to browse repositories using your favorite browser, viewing files under different revisions, commit history and diffs. ([Source Code](https://github.com/klaussilveira/gitlist)) `BSD` `PHP`
-  * [Gitprep](http://gitprep.yukikimoto.com/) - Portable Github clone. ([Source Code](https://github.com/yuki-kimoto/gitprep), [Demo](http://perlcodesample.sakura.ne.jp/gitprep/gitprep.cgi)) `GPL` `Perl`
+  * [GitPrep](http://gitprep.yukikimoto.com/) - Portable Github clone. ([Demo](http://perlcodesample.sakura.ne.jp/gitprep/gitprep.cgi), [Source Code](https://github.com/yuki-kimoto/gitprep)) `GPL` `Perl`
   * [Git WebUI](https://github.com/alberthier/git-webui) - A standalone web based user interface for git repositories. `Apache` `Python`
   * [Gogs](https://github.com/gogits/gogs) - A painless self-hosted Git Service written in Go. ([Demo](https://try.gogs.io/)) `MIT` `Go`
   * [Kallithea](https://kallithea-scm.org/) - Source code management system that supports two leading version control systems, Mercurial and Git, with a web interface. ([Source Code](https://kallithea-scm.org/repos/kallithea)) `GPLv3` `Python`
