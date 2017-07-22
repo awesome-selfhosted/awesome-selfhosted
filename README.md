@@ -510,7 +510,7 @@ See https://github.com/n1trux/awesome-sysadmin#dns
 **[`^        back to top        ^`](#)**
 
   * [CUPS](https://www.cups.org/) - The Common Unix Print System uses Internet Printing Protocol (IPP) to support printing to local and network printers. ([Source Code](https://www.cups.org/software.php)) `GPLv2` `C`
-  * [EdPaper](https://paper.edra.ovh) - Laravel-driven PDF organizer with users management. ([Demo](https://paper.edra.ovh), [Source Code](https://github.com/Edraens/EdPaper)) `MIT` `PHP`
+  * [EdPaper](https://paper.edra.ovh) - Laravel-driven PDF organizer with users management. ([Source Code](https://github.com/Edraens/EdPaper)) `MIT` `PHP`
   * [Paperless](https://github.com/danielquinn/paperless) - Scan, index, and archive all of your paper documents. `GPLv3` `Python`
   * [SANE Network Scanning](http://sane-project.org/) - allow remote clients to access image acquisition devices (scanners) available on the local host. ([Source Code](http://www.sane-project.org/cvs.html)) `GPLv2` `C`
 
