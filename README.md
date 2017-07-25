@@ -846,6 +846,7 @@ See https://github.com/n1trux/awesome-sysadmin#monitoring and https://github.com
   * [OpenNote](https://github.com/FoxUSA/OpenNote) - OpenNote was built to be an open web-based alternative to Microsoft OneNote (T) and EverNote. ([Demo](https://foxusa.github.io/OpenNote/OpenNote/#/folder)) `MIT` `HTML5`
   * [Paperwork](http://paperwork.rocks) - OpenSource note-taking & archiving alternative to Evernote, Microsoft OneNote & Google Keep. ([Source Code](https://github.com/twostairs/paperwork)) `MIT` `PHP`
   * [savepad](https://github.com/novavex/textpad) - A minimalist notepad based on notepad.cc. `MIT` `PHP`
+  * [SiMPad](https://github.com/beli3ver/SiMPad) - A simple self hosted Markdown Notepad.  `MIT` `PHP` 
   * [ShareLaTex](https://www.sharelatex.com/) - A web-based collaborative LaTeX editor. ([Source Code](https://github.com/sharelatex/sharelatex)) `AGPLv3` `Ruby`
   * [Standard Notes](https://standardnotes.org) - A simple and private notes app. Protect your privacy while getting more done. That's Standard Notes. ([Demo](https://standardfile.org), [Source Code](https://github.com/standardnotes/web)) `GPLv3` `Ruby/Nodejs`
   * [to-markdown](https://domchristie.github.io/to-markdown/) - An HTML to Markdown converter written in JavaScript. ([Source Code](https://github.com/domchristie/to-markdown)) `MIT` `JavaScript`
