@@ -38,7 +38,7 @@ add:
 	read Name; if [ -z "$$Name" ]; then printf 'Missing software name!\n'; exit 1 ; fi ;\
 	printf 'Homepage URL: ' ;\
 	read Url; if [ -z "$$Url" ]; then printf 'Missing main project URL!\n'; exit 1 ; fi ;\
-	printf 'Description (max 250 char): ' ;\
+	printf 'Description (max 250 characters, ending with .): ' ;\
 	read Description; if [ -z "$$Description" ]; then printf 'Missing description!\n'; exit 1 ; fi ;\
 	printf 'License: ' ;\
 	read License; if [ -z "$$License" ]; then printf 'Missing license!\n'; exit 1 ; fi ;\
@@ -49,11 +49,11 @@ add:
 	printf 'Source code URL (if different from Homepage): ' ;\
 	read Source; if [ -z "$$Source" ]; then CSource="" ; else CSource="[Source Code]($$Source)" ; fi ;\
 	if [[ "$$CSource" == "" && "$$Demo" == "" ]]; \
-	then Moreinfo="";\ printf "debug" ;\
+	then Moreinfo=""; \
 	else Moreinfo=$$(echo "($$CDemo$$CSource)" | sed 's|)\[|), [|g') ;\
 	fi ;\
 	echo -e "Copy this entry to your clipboard, paste it in the appropriate category:\n\n" ;\
-	echo " * [$$Name]($$Url) - $${Description}. $$Moreinfo \`$$License\` \`$$Language\`"
+	echo " * [$$Name]($$Url) - $${Description} $${Moreinfo} \`$$License\` \`$$Language\`"
 
 
 #TODO ask for category and insert item accordingly
