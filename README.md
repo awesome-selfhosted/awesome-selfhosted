@@ -271,6 +271,7 @@ _simple deployment of a mail server, e.g. for inexperienced or impatient admins.
   * [Mail-in-a-Box](https://mailinabox.email/) - Turns any Ubuntu server into a fully functional mail server with one command. ([Source Code](https://github.com/mail-in-a-box/mailinabox)) `CC0` `Shell`
   * [Modoboa](http://modoboa.org/en/) - Modoboa is a mail hosting and management platform including a modern and simplified Web User Interface. ([Source Code](https://github.com/tonioo/modoboa)) `MIT` `Python`
   * [Postal](https://github.com/atech/postal) - Postal is a complete and full featured mail server for use by websites and web servers. `MIT` `Ruby`
+  * [Virtualmin](https://www.virtualmin.com/) - Virtualmin is a web and email hosting control panel which will set up a fully working email environment on your server. `GPL` `Perl`
 
 #### Mail Transfer Agents
 
