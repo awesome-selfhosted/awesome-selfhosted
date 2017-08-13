@@ -1,0 +1,20 @@
+language: node_js
+
+node_js:
+  - "node"
+
+before_install:
+  - rvm install 2.2
+  - gem install awesome_bot
+  - gem install danger
+
+before_script:
+  
+script:
+  - git diff master.. -U0 README.md | grep -Pos "(?<=^\+).*" >> temp.md || (exit 0)
+  - node test.js temp.md
+  - awesome_bot temp.md --allow-redirect || (exit 0)
+  - danger --verbose
+
+notifications:
+  email: false
