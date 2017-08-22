@@ -921,6 +921,7 @@ See https://github.com/n1trux/awesome-sysadmin#metric--metric-collection
   * [Habitica](http://habitica.com/) - A habit tracker app which treats your goals like a Role Playing Game. Previously called HabitRPG. ([Source Code](https://github.com/HabitRPG/habitrpg)) `GPLv3/Other` `Nodejs`
   * [Homepage](https://github.com/thetomester13/homepage) - A simple, standalone, self-hosted PHP page that is your window to your server and the web. `MIT` `PHP`
   * [iDashboard-PHP](https://github.com/causefx/iDashboard-PHP) - HTPC Dashboard to load website services. `MIT` `PHP`
+  * [Iotdashboard](http://iotdashboard.pythonanywhere.com/en/) - Fast Django server for IOT Devices. ([Source Code](https://github.com/electrocoder/iotdashboard)) `Apache` `JavaScript`
   * [Phant](http://phant.io/) - Phant is a modular data logging tool for collecting data from the Internet of Things. ([Demo](https://data.sparkfun.com/), [Source Code](https://github.com/sparkfun/phant)) `GPLv3` `Nodejs`
   * [Thingspeak](https://thingspeak.com/) - An open source “Internet of Things” application and API to store and retrieve data from things using HTTP. ([Demo](https://thingspeak.com/channels/public), [Source Code](https://github.com/iobridge/thingspeak)) `GPL` `Ruby`
   * [Tipboard](http://allegro.tech/tipboard/) - In-house, tasty, local dashboarding system. ([Source Code](https://github.com/allegro/tipboard)) `Apache` `Python`
