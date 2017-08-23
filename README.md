@@ -527,6 +527,10 @@ See https://github.com/n1trux/awesome-sysadmin#dns
 * [Odoo](http://odoo.com) - Free open source ERP system. ([Demo](https://demo.odoo.com/), [Source Code](https://github.com/odoo/odoo)) `LGPLv3` `Python`
 * [Tryton](http://www.tryton.org/) - Free open source business solution. ([Demo](http://www.tryton.org/download.html), [Source Code](https://hg.tryton.org/)) `GPLv3` `Python`
 
+_Agriculture Resource Planing_
+
+  * [farmOS](http://farmos.org/) - A web-based farm record keeping application. ([Source Code](https://github.com/farmOS/farmOS)) `GPLv2` `PHP`
+
 
 ## Federated Identity/Authentication
 
