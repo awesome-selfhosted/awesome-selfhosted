@@ -529,8 +529,8 @@ See https://github.com/n1trux/awesome-sysadmin#dns
 
 _Agriculture Resource Planing__
 
+  * [farmOS](http://farmos.org/) - A web-based farm record keeping application. ([Source Code](https://github.com/farmOS/farmOS)) `GPLv2` `PHP`
   * [tania](http://gettania.org/) - A PHP based, free, and open source farming management system. ([Source Code](https://github.com/Tanibox/tania)) `Apache` `PHP`
-
 
 ## Federated Identity/Authentication
 
