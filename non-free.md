@@ -3,11 +3,6 @@
 **Software listed here does not allow you to run it for any purpose, study, modify or distribute the source code.** Some of the software here may not be audited due to its closed source nature, and can therefore contain anti-features, such as but not limited to: undisclosed security vulnerabilties, backdoors, user lock-in, sending personal data to a third party.
 
 
-## Analytics
-
-  * [Mint](http://haveamint.com/) `⊘ Proprietary` - Extensible self-hosted web analytics, license costs $30 per site. ([Demo](http://mimeoverse.com/mint/)) `PHP`
-
-
 ## Content Management Systems (CMS)
 
   * [CraftCMS](https://craftcms.com/) `⊘ Proprietary` - Craft is a content-first CMS that aims to make life enjoyable for developers and content managers alike. ([Demo](https://demo.craftcms.com/)) `PHP`
