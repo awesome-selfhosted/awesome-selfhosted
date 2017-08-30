@@ -31,11 +31,6 @@
 
   * [Auth0](https://auth0.com/docs/appliance): `⊘ Proprietary`. Identity made simple for developers. `NodeJS`
 
-  
-## Feed Readers
-
-  * [Fever](http://feedafever.com/) `⊘ Proprietary` - Self-hosted feed aggregator that can sort items by popularity `PHP`
-
 
 ## File Sharing and Synchronization
 
