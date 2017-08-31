@@ -123,7 +123,6 @@ _Business Intelligence_
 
   * [Alltube](http://www.alltubedownload.net) - A web interface for [youtube-dl](https://github.com/rg3/youtube-dl), a program to download videos and audio from [more than 100 websites](https://rg3.github.io/youtube-dl/supportedsites.html). ([Demo](http://www.alltubedownload.net), [Source Code](https://github.com/Rudloff/alltube)) `GPL` `PHP`
   * [AmIUnique](https://amiunique.org/) - Learn how identifiable you are on the Internet (browser fingerprinting tool). ([Source Code](https://github.com/DIVERSIFY-project/amiunique)) `MIT` `Java`
-  * [bip.io](https://bip.io/) - Web Automation For People And Robots - Drag, Drop, and Connect The Services You Love. ([Source Code](https://github.com/bipio-server/bipio)) `GPLv3` `Nodejs`
   * [Beehive](https://github.com/muesli/beehive) - A flexible event and agent system, which allows you to create your own agents that perform automated tasks triggered by events and filters. `AGPLv3` `Go`
   * [CouchPotato](https://couchpota.to/) - CouchPotato is an automatic Video Library Manager for Movies. Automatic torrent/nzb searching, downloading, and processing at the qualities you want. ([Source Code](https://github.com/CouchPotato/CouchPotatoServer/)) `GPLv3` `Python`
   * [Episodes](https://github.com/guptachetan1997/Episodes) - `⚠` Self Hosted TV show Episode tracker and recommender built using django, bootstrap4. `MIT` `Python`
