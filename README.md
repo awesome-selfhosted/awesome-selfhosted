@@ -441,7 +441,7 @@ _[Extensible Messaging and Presence Protocol](https://en.wikipedia.org/wiki/XMPP
 CMS are a practical way to setup a website with many features. CMS often come with third party plugins, themes and functionality that is easy to add and customize to your needs. See also [Blogging Platforms](#blogging-platforms) and [Static Site Generators](#static-site-generators)
 
   * [APIQ CMS](https://www.apiq.io/) - Simple and powerful Ruby on Rails CMS for developers. ([Demo](http://demo.apiq.io/), [Source Code](https://github.com/apiqcms/kms)) `MIT` `Ruby`
-  * [Apostrophe](http://apostrophecms.org/) - A node.js CMS with a focus on extensible in-context editing tools. ([Demo](http://demo.apostrophenow.com/), [Source Code](https://github.com/punkave/apostrophe)) `MIT` `Nodejs`
+  * [Apostrophe](http://apostrophecms.org/) - A node.js CMS with a focus on extensible in-context editing tools. ([Demo](http://demo.apostrophecms.org/), [Source Code](https://github.com/punkave/apostrophe)) `MIT` `Nodejs`
   * [Baun](https://bauncms.com/) - A modern, lightweight, extensible CMS for PHP. ([Source Code](https://github.com/BaunCMS/Baun)) `MIT` `PHP`
   * [BigTree CMS](https://www.bigtreecms.org/) - Straightforward, well documented, and capable written with PHP and MySQL. ([Source Code](https://github.com/bigtreecms/BigTree-CMS)) `LGPLv2` `PHP`
   * [CMS Made Simple](http://www.cmsmadesimple.org/) - Open source content management system, faster and easier management of website contents, scalable for small businesses to large corporations. ([Source Code](http://svn.cmsmadesimple.org/svn/cmsmadesimple/trunk/)) `GPL` `PHP`
