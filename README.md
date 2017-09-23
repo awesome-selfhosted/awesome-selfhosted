@@ -583,6 +583,8 @@ See https://github.com/n1trux/awesome-sysadmin#identity-management
 
 Some [Groupware](#groupware) solutions also feature file sharing and synchronization.
 
+[Beauties](https://github.com/dsx/beauties) - Minimalist file sharing written in Go, to be used primarily from Unix shell (e.g. with curl). Can be built as a Debian package for easy install. `MIT` `Go`
+
 #### Distributed filesystems
 
 **[`^        back to top        ^`](#)**
