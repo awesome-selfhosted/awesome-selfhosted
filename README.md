@@ -583,8 +583,6 @@ See https://github.com/n1trux/awesome-sysadmin#identity-management
 
 Some [Groupware](#groupware) solutions also feature file sharing and synchronization.
 
-[Beauties](https://github.com/dsx/beauties) - Minimalist file sharing written in Go, to be used primarily from Unix shell (e.g. with curl). Can be built as a Debian package for easy install. `MIT` `Go`
-
 #### Distributed filesystems
 
 **[`^        back to top        ^`](#)**
@@ -623,7 +621,7 @@ See https://github.com/n1trux/awesome-sysadmin#distributed-filesystems
   * [Transmission](https://transmissionbt.com/) - A fast, easy, Free Bittorrent client. ([Source Code](https://github.com/transmission/transmission)) `GPLv3` `C`
 
 #### Single-click/drag-n-drop upload
-
+  * [Beauties](https://github.com/dsx/beauties) - Minimalist file sharing written in Go, to be used primarily from Unix shell (e.g. with curl). Can be built as a Debian package for easy install. `MIT` `Go`
   * [BoZoN](https://github.com/broncowdd/BoZoN) - Minimalist Drag & drop file sharing app. `AGPLv3` `PHP`
   * [Coquelicot](https://coquelicot.potager.org/) - Coquelicot is a “one-click” file sharing web application with a focus on protecting users’ privacy. ([Source Code](https://coquelicot.potager.org/gitweb/?p=coquelicot.git)) `AGPLv3` `Ruby`
   * [droppy](https://github.com/silverwind/droppy) - droppy is a self-hosted cloud server with an interface similar to desktop file managers and has capabilities to edit files on-the-fly as well as view and playback media directly in the browser. ([Demo](http://droppy.silverwind.io/)) `BSD` `Nodejs`
