@@ -274,6 +274,7 @@ _simple deployment of a mail server, e.g. for inexperienced or impatient admins.
   * [Mail-in-a-Box](https://mailinabox.email/) - Turns any Ubuntu server into a fully functional mail server with one command. ([Source Code](https://github.com/mail-in-a-box/mailinabox)) `CC0` `Shell`
   * [Modoboa](http://modoboa.org/en/) - Modoboa is a mail hosting and management platform including a modern and simplified Web User Interface. ([Source Code](https://github.com/tonioo/modoboa)) `MIT` `Python`
   * [Postal](https://github.com/atech/postal) - Postal is a complete and full featured mail server for use by websites and web servers. `MIT` `Ruby`
+  * [Qmailtoaster](http://www.qmailtoaster.com/) - Stable, full-featured, easy-to-install mail server based on qmail. ([Source Code](https://github.com/QMailToaster/)) `multiple` `Linux`
 
 #### Mail Transfer Agents
 
@@ -321,6 +322,7 @@ _Mailing lists servers and mass mailing software - one message to many recipient
   * [Roundcube](https://roundcube.net) - Browser-based IMAP client with an application-like user interface. ([Source Code](https://github.com/roundcube/roundcubemail/)) `GPLv3` `PHP`
   * [SquirrelMail](http://squirrelmail.org) - Another browser-based IMAP client. ([Source Code](https://sourceforge.net/p/squirrelmail/code/HEAD/tree/)) `GPLv2` `PHP`
   * [WebMail Lite](http://www.afterlogic.org/webmail-lite) - Web-based IMAP Mail client. ([Source Code](https://github.com/afterlogic/webmail-lite)) `GPLv3` `PHP`
+  * [IMP](https://www.horde.org/apps/imp/) - HORDE application that provides webmail access to IMAP and POP3 accounts. ([Demo](http://demo.horde.org/), [Source Code](https://www.horde.org/download/imp)) `GNU GPL v2` `PHP`
 
 ### IRC
 
@@ -775,11 +777,13 @@ See also <https://en.wikipedia.org/wiki/List_of_streaming_media_systems>, <https
   * [mpd](http://www.musicpd.org/) - Daemon to remotely play music, stream music, handle and organize playlists. Many clients available. `GPLv2` `C++`
   * [mStream](http://mstream.io/) - Music streaming server with GUI management tools. Runs on Mac, Windows, and Linux. ([Demo](https://darncoyotes.mstream.io/), [Source Code](https://github.com/IrosTheBeggar/mStream)) `GPLv2` `Nodejs`
    * [ympd](http://www.ympd.org/) - Standalone MPD Web GUI written in C, utilizing Websockets and Bootstrap/JS. ([Source Code](https://github.com/notandy/ympd)) `GPLv2` `C`
+  * [Music Browser](https://github.com/henrik242/musicbrowser) - Browser and streamer for your music collection. It is runs on most operating systems, and is light enough to run flawlessly on NAS devices.  `GNU GPL v3` `PHP`
   * [Sonerezh](https://www.sonerezh.bzh/) - A self-hosted, web-based application for stream your music, everywhere. ([Demo](https://www.sonerezh.bzh/demo/), [Source Code](https://github.com/sonerezh/sonerezh)) `GPLv3` `PHP`
 
 ### Video Streaming
 
   * [CyTube](https://github.com/calzoneman/sync) - CyTube is a web application providing media synchronization, chat, and more for an arbitrary number of channels. ([Demo](http://cytu.be)) `MIT` `Nodejs`
+  * [Darwin Streaming Server](https://macosforge.github.io/dss/) - High performance server for streaming QuickTime and MPEG-4 media over RTP and RTSP protocols. Originated as Apple’s QTSS. ([Source Code](https://github.com/macosforge/dss)) `APSLv2` `C++`
   * [Emby](http://emby.media/) - A home media server built using other popular open source technologies. ([Source Code](https://github.com/MediaBrowser/Emby)) `GPLv2` `C#`
   * [Flumotion](http://flumotion.net/) - A streaming media server with intuitive graphical administration tools. ([Source Code](https://github.com/Flumotion/flumotion)) `LGPLv2` `Python`
   * [Hellowlol HTPC Manager fork](https://github.com/Hellowlol/HTPC-Manager) - A fully responsive interface to manage all your favorite media on your HTPC. ([Source Code](https://github.com/styxit/HTPC-Manager)) `MIT` `Python`
@@ -809,6 +813,7 @@ See also <https://en.wikipedia.org/wiki/List_of_streaming_media_systems>, <https
   * [GeneWeb](https://geneweb.tuxfamily.org/wiki/GeneWeb) - GeneWeb is an open source genealogy software written in OCaml. It comes with a Web interface and can be used off-line or as a Web service. ([Demo](https://demo.geneweb.tuxfamily.org/gw7/), [Source Code](https://github.com/geneweb/geneweb)) `GPLv2` `OCAML`
   * [How Secure Is My Password](https://github.com/howsecureismypassword/hsimp) - Rather than just saying a password is "weak" or "strong", How Secure is My Password? lets your users know how long it would take someone to crack their password. ([Demo](https://howsecureismypassword.net/)) `MIT` `Javascript`
   * [google-webfonts-helper](https://github.com/majodev/google-webfonts-helper) `⚠` - A Hassle-Free Way to Self-Host Google Fonts. Get eot, ttf, svg, woff and woff2 files + CSS snippets. ([Demo](https://google-webfonts-helper.herokuapp.com/)) `MIT` `Nodejs`
+  * [Kimai](http://www.kimai.org/) - Simple time and project tracking. ([Demo](http://www.kimai.org/demo/), [Source Code](https://github.com/kimai/kimai)) `GNU GPL v3` `PHP`
   * [King Phisher](https://github.com/securestate/king-phisher) - King Phisher is a tool for testing and promoting user awareness by simulating real world phishing attacks. `BSD` `Python`
   * [LicAPI](https://projects.miguelpiedrafita.com/LicAPI) - A PHP API to manage license info. ([Source Code](https://github.com/m1guelpf/LicAPI)) `MPLv2` `PHP`
   * [Mindmaps](https://github.com/drichard/mindmaps) - An open source, offline capable, mind mapping application. ([Demo](http://drichard.org/mindmaps/)) `AGPLv3` `HTML5`
@@ -1117,7 +1122,7 @@ See also [Static site generators](#static-site-generators)
 
 ### Localization
 
-  * [Parrot](http://anthonynsimon.com/parrot.github.io/) - Self-hosted Localization Management Platform built with Go and Angular 2.. ([Source Code](https://github.com/anthonynsimon/parrot)) `MIT` `Go`
+  * [Parrot](http://anthonynsimon.com/parrot.github.io/) - Self-hosted Localization Management Platform built with Go and Angular 2. ([Source Code](https://github.com/anthonynsimon/parrot)) `MIT` `Go`
   * [Pootle](http://pootle.translatehouse.org) - Online translation and localization tool. ([Source Code](https://github.com/translate/pootle)) `GPLv3` `Python`
   * [Weblate](https://weblate.org) - Web-based translation tool with tight version control integration. ([Demo](https://demo.weblate.org), [Source Code](https://github.com/WeblateOrg/weblate)) `GPLv3` `Python`
   * [Zanata](http://zanata.org) - Web-based translation platform for translators, content creators and developers to manage localisation projects. ([Source Code](https://github.com/zanata/zanata-platform)) `GPLv2` `Java`
@@ -1269,6 +1274,7 @@ See also [Documentation Generators](#documentation-generators), [Wikimatrix](htt
  * `AAL` - [Attribution Assurance License](https://opensource.org/licenses/AAL)
  * `AGPLv3` - [GNU Affero General Public License 3.0](https://www.gnu.org/licenses/agpl-3.0)
  * `Apache` - [Apache, Version 2.0](http://www.apache.org/licenses/)
+ * `APSLv2` - [Apple Public Source License, Version 2.0](https://opensource.org/licenses/APSL-2.0)
  * `ARTv2` - [Artistic License Version 2.0](http://opensource.org/licenses/Artistic-2.0)
  * `Beerware` - [Beerware License](https://spdx.org/licenses/Beerware.html)
  * `BSD` - [FreeBSD License](https://www.freebsd.org/copyright/license.html)
