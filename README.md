@@ -312,6 +312,7 @@ _Mailing lists servers and mass mailing software - one message to many recipient
   * [postal](https://github.com/atech/postal) - A fully featured open source mail delivery platform for incoming & outgoing e-mail. `MIT` `Ruby`
   * [Schleuder](https://schleuder.nadir.org/) - A GPG-enabled mailing list manager with resending-capabilities. ([Source Code](https://0xacab.org/schleuder/schleuder/tree/master)) `GPLv3` `Ruby`
   * [Sympa](https://www.sympa.org/) - A mailing list manager. `GPLv2` `Perl`
+  * [Mail For Good](https://github.com/freeCodeCamp/mail-for-good) - An open source email campaign management tool for nonprofits  `BSD` `Javascript`
 
 #### Webmail clients
 
