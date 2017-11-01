@@ -2,6 +2,11 @@
 
 **Software listed here does not allow you to run it for any purpose, study, modify or distribute the source code.** Some of the software here may not be audited due to its closed source nature, and can therefore contain anti-features, such as but not limited to: undisclosed security vulnerabilties, backdoors, user lock-in, sending personal data to a third party.
 
+## Analytics
+
+_Conversion Rate Optimization_
+
+  * [SessionRecord](https://sessionrecord.com/) `⊘ Proprietary` - SessionRecord is a website visitor recording software meant for identifying UI issues and fix them to improve site conversions. ([Demo](https://console.sessionrecord.com/test)) `Docker Nodejs`
 
 ## Content Management Systems (CMS)
 
