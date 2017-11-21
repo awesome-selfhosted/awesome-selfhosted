@@ -892,7 +892,7 @@ See https://github.com/n1trux/awesome-sysadmin#monitoring and https://github.com
   * [savepad](https://github.com/novavex/textpad) - A minimalist notepad based on notepad.cc. `MIT` `PHP`
   * [SiMPad](https://gitlab.com/beli3ver/SiMPad) - A simple self-hosted Markdown notepad. ([Demo](https://pad.malte-kiefer.de/)) `MIT` `PHP`
   * [ShareLaTex](https://www.sharelatex.com/) - A web-based collaborative LaTeX editor. ([Source Code](https://github.com/sharelatex/sharelatex)) `AGPLv3` `Ruby`
-  * [Standard Notes](https://standardnotes.org) - A simple and private notes app. Protect your privacy while getting more done. That's Standard Notes. ([Demo](https://standardfile.org), [Source Code](https://github.com/standardnotes/web)) `GPLv3` `Ruby/Nodejs`
+  * [Standard Notes](https://standardnotes.org) - A simple and private notes app. Protect your privacy while getting more done. That's Standard Notes. ([Demo](https://app.standardnotes.org/), [Source Code](https://github.com/standardnotes)) `GPLv3` `Ruby`
   * [to-markdown](https://domchristie.github.io/to-markdown/) - An HTML to Markdown converter written in JavaScript. ([Source Code](https://github.com/domchristie/to-markdown)) `MIT` `JavaScript`
   * [Turtl](https://turtl.it/) - A totally private personal database and note taking app. ([Source Code](https://github.com/turtl)) `GPLv3` `CommonLisp`
 
