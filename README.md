@@ -1280,7 +1280,7 @@ See also [Documentation Generators](#documentation-generators), [Wikimatrix](htt
 - `APSL-2.0` - [Apple Public Source License, Version 2.0](https://opensource.org/licenses/APSL-2.0)
 - `Artistic-2.0` - [Artistic License Version 2.0](http://opensource.org/licenses/Artistic-2.0)
 - `Beerware` - [Beerware License](https://spdx.org/licenses/Beerware.html)
-- `BSD` - [FreeBSD](https://www.freebsd.org/copyright/license.html) or [BSD 2-Clause](https://opensource.org/licenses/BSD-3-Clause) or [BSD 3-Clause "New" or "Revised"](https://opensource.org/licenses/BSD-3-Clause) license
+- `BSD` - [FreeBSD](https://www.freebsd.org/copyright/license.html) or [BSD 2-Clause](https://opensource.org/licenses/BSD-2-Clause) or [BSD 3-Clause "New" or "Revised"](https://opensource.org/licenses/BSD-3-Clause) license
 - `CC-BY-SA-4.0`  - [Creative Commons Attribution-ShareAlike International License](https://creativecommons.org/licenses/by-sa/4.0/)
 - `CC0-1.0` - [Public Domain](https://creativecommons.org/about/cc0/)
 - `CDDL-1.0` - [Common Development and Distribution License](https://opensource.org/licenses/CDDL-1.0)
