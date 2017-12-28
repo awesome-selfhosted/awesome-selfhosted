@@ -795,7 +795,7 @@ See also <https://en.wikipedia.org/wiki/List_of_streaming_media_systems>, <https
   - [ympd](http://www.ympd.org/) - Standalone MPD Web GUI written in C, utilizing Websockets and Bootstrap/JS. ([Source Code](https://github.com/notandy/ympd)) `GPL-2.0` `C`
 - [mStream](http://mstream.io/) - Music streaming server with GUI management tools. Runs on Mac, Windows, and Linux. ([Demo](https://darncoyotes.mstream.io/), [Source Code](https://github.com/IrosTheBeggar/mStream)) `GPL-2.0` `Nodejs`
 - [Music Browser](https://github.com/henrik242/musicbrowser) - Browser and streamer for your music collection. It is runs on most operating systems, and is light enough to run flawlessly on NAS devices. `GPL-3.0` `PHP`
-- [musikcube](https://musikcube.com/) - Streaming audio server with Linux/macOS/Windows/Android clients. ([Source code](https://github.com/clangen/musikcube)) `BSD-3-Clause` `C++`
+- [musikcube](https://musikcube.com/) - Streaming audio server with Linux/macOS/Windows/Android clients. ([Source code](https://github.com/clangen/musikcube)) `BSD` `C++`
 - [Sonerezh](https://www.sonerezh.bzh/) - A self-hosted, web-based application for stream your music, everywhere. ([Demo](https://www.sonerezh.bzh/demo/), [Source Code](https://github.com/sonerezh/sonerezh)) `GPL-3.0` `PHP`
 
 ### Video Streaming
@@ -1280,9 +1280,7 @@ See also [Documentation Generators](#documentation-generators), [Wikimatrix](htt
 - `APSL-2.0` - [Apple Public Source License, Version 2.0](https://opensource.org/licenses/APSL-2.0)
 - `Artistic-2.0` - [Artistic License Version 2.0](http://opensource.org/licenses/Artistic-2.0)
 - `Beerware` - [Beerware License](https://spdx.org/licenses/Beerware.html)
-- `BSD` - [FreeBSD License](https://www.freebsd.org/copyright/license.html)
-- `BSD` - [BSD 2-Clause](https://opensource.org/licenses/BSD-3-Clause) or [BSD 3-Clause](https://opensource.org/licenses/BSD-3-Clause) license
-- `BSD-3-Clause` - [BSD 3-clause "New" or "Revised" License](https://opensource.org/licenses/BSD-3-Clause)
+- `BSD` - [FreeBSD](https://www.freebsd.org/copyright/license.html) or [BSD 2-Clause](https://opensource.org/licenses/BSD-3-Clause) or [BSD 3-Clause "New" or "Revised"](https://opensource.org/licenses/BSD-3-Clause) license
 - `CC-BY-SA-4.0`  - [Creative Commons Attribution-ShareAlike International License](https://creativecommons.org/licenses/by-sa/4.0/)
 - `CC0-1.0` - [Public Domain](https://creativecommons.org/about/cc0/)
 - `CDDL-1.0` - [Common Development and Distribution License](https://opensource.org/licenses/CDDL-1.0)
