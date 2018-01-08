@@ -1213,6 +1213,7 @@ See https://staticsitegenerators.net and https://www.staticgen.com
 - [shuri](https://github.com/pips-/shuri) - SHort URI - Lighweight URL shortener. `MIT` `PHP`
 - [url-shortener](https://github.com/cagataycali/url-shortener) `⚠` - Shitty url shortener, emoji and AI powered. `MIT` `Nodejs`
 - [YOURLS](http://yourls.org/) - YOURLS is a set of PHP scripts that will allow you to run Your Own URL Shortener. Features include password protection, URL customization, bookmarklets, statistics, API, plugins, jsonp. ([Source Code](https://github.com/YOURLS/YOURLS/)) `MIT` `PHP`
+- [reduc.io](https://github.com/ziyasal/reducio) - URL shortener service is written in Scala using Akka-Http and Redis. ([Source Code](https://github.com/ziyasal/reducio)) `MIT` `Scala`
 
 ## VPN
 
