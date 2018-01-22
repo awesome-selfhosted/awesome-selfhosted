@@ -53,7 +53,7 @@ add:
 	else Moreinfo=$$(echo "($$CDemo$$CSource)" | sed 's|)\[|), [|g') ;\
 	fi ;\
 	echo -e "Copy this entry to your clipboard, paste it in the appropriate category:\n\n" ;\
-	echo " * [$$Name]($$Url) - $${Description} $${Moreinfo} \`$$License\` \`$$Language\`"
+	echo "- [$$Name]($$Url) - $${Description} $${Moreinfo} \`$$License\` \`$$Language\`"
 
 
 #TODO ask for category and insert item accordingly
