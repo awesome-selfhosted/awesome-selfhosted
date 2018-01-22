@@ -724,6 +724,7 @@ _Command-line file upload_
 - [Clumsy Bird](https://github.com/ellisonleao/clumsy-bird) - MelonJS port of the famous Flappy Bird Game. ([Demo](http://www.ellison.rocks/clumsy-bird/)) `MIT` `Nodejs`
 - [elevatorsaga](http://play.elevatorsaga.com/) - The elevator programming game. ([Source Code](https://github.com/magwo/elevatorsaga)) `MIT` `Javascript`
 - [Hextris](https://github.com/Hextris/hextris) - Fast paced HTML5 puzzle game inspired by Tetris. ([Demo](http://hextris.io/)) `GPL-3.0` `HTML5`
+- [Lila](https://lichess.org/) - The forever free, adless and open source chess server, with official iOS and Android client apps. ([Source Code](https://github.com/ornicar/lila)) `AGPL-3.0` `Scala`
 - [Posio](https://github.com/abrenaut/posio/) - Geography multiplayer game. ([Demo](https://posio.abrenaut.com/)) `MIT` `Python`
 - [SourceBans++](https://sbpp.github.io) - Admin, ban, and communication management system for games running on the Source engine. ([Source Code](https://github.com/sbpp/sourcebans-pp)) `CC-BY-SA-4.0` `PHP`
 - [Spyfall](https://github.com/mpcovcd/spyfall) - Fan made web version of the Spyfall party game. ([Demo](http://spyfall.crabhat.com/)) `MIT` `HTML/Javascript`
