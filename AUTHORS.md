@@ -37,8 +37,6 @@ Commits | Author
      4 | Alexandr Emelin <frvzmb@gmail.com>
      4 | AndrewCz <smacz42@users.noreply.github.com>
      4 | Chris McCormick <chris@mccormick.cx>
-     4 | Colin Pokowitz <colin@cpdev.me>
-     4 | Colin Pokowitz <colinpokowitz03@gmail.com>
      4 | Cory Gibbons <hello@corygibbons.com>
      4 | D <DL88250@gmail.com>
      4 | Dominik Pfaffenbauer <dominik@lineofcode.at>
