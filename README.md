@@ -785,15 +785,18 @@ _Command-line file upload_
 
 **[`^        back to top        ^`](#)**
 
+See also [awesome-gis](https://github.com/sshuair/awesome-gis).
+
 - [Graphhopper](https://graphhopper.com/) - Fast routing library and server using OpenStreetMap. ([Source Code](https://github.com/graphhopper/graphhopper)) `Apache-2.0` `Java`
 - [MapBBCodeShare](https://github.com/MapBBCode/share.mapbbcode.org) - Tool for sharing custom OSM maps. Support for annotated markers, polygons, lines, multi-format import/export, multiple layers, shortlinks. ([Demo](http://share.mapbbcode.org/)) `WTFPL/Other` `PHP`
 - [OpenGTS](http://www.opengts.org/) - Entry-level fleet tracking system. Supports variety of tracking devices and protocols. Comes with rich web-interface and reporting features. ([Demo](http://track.opengts.org/track/Track), [Source Code](https://sourceforge.net/projects/opengts/files/server-base/)) `Apache-2.0` `Java`
-- [OpenMapTiles's TileServer-PHP](https://openmaptiles.org/) - Server compatible with OpenStreetMap for distributing map tiles in XYZ URL (described by TileJSON), WMTS, or TMS formats. ([Demo](https://tileserver.maptiler.com/), [Source Code](https://github.com/klokantech/tileserver-php)) `BSD-2-Clause` `PHP`
 - [OpenStreetMap](https://www.openstreetmap.org/) - Collaborative project to create a free editable map of the world. ([Source Code](https://github.com/openstreetmap/openstreetmap-website)) `GPL-2.0` `Ruby`
   - [OSM Contributor](https://wiki.openstreetmap.org/wiki/OSM_Contributor_Mapping_Tool) - Easy to learn Android application for individual users to add or edit data in OpenStreetMap's database. ([Source Code](https://github.com/jawg/osm-contributor)) `GPL-3.0` `Java`
   - [StreetComplete](https://wiki.openstreetmap.org/wiki/StreetComplete) - Gamified interface that offers "quests" to correct or complete data in OpenStreetMap's database. ([Source Code](https://github.com/westnordost/StreetComplete/)) `Java` `GPL-3.0`
 - [Orion](https://github.com/LINKIWI/orion-web) - Powerful OwnTracks API-compliant location data visualization frontend for the web. ([Demo](https://linkiwi.github.io/orion-web/)) `MIT` `Python/Nodejs`
 - [OwnTracks Recorder](https://github.com/owntracks/recorder) `⚠` - Store and access data published by [OwnTracks](http://owntracks.org/) location tracking apps. `GPL-2.0` `C`/`Lua`
+- [TileServer-GL](http://tileserver.org/) - Map server made for vector tiles able to render into raster tiles with MapBox GL Native engine on the server side. ([Demo](https://maps.klokantech.com/), [Source Code](https://github.com/klokantech/tileserver-gl)) `BSD-2-Clause` `Nodejs`
+- [TileServer-PHP](https://openmaptiles.org/) - Server compatible with OpenStreetMap for distributing map tiles in XYZ URL (described by TileJSON), WMTS, or TMS formats. ([Demo](https://tileserver.maptiler.com/), [Source Code](https://github.com/klokantech/tileserver-php)) `BSD-2-Clause` `PHP`
 - [Traccar](https://www.traccar.org/) - Java application to track GPS positions. Supports loads of tracking devices and protocols, has an Android and iOS App. Has a web interface to view your trips. ([Demo](http://demo.traccar.org/), [Source Code](https://github.com/tananaev?tab=repositories)) `Apache-2.0` `Java`
 - [uMap](https://umap.openstreetmap.fr/en/) - Create maps with OpenStreetMap layers in a minute and embed them in your site. ([Source Code](https://github.com/umap-project/umap)) `WTFPL` `Python`
 
