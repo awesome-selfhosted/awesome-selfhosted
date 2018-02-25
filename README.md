@@ -794,6 +794,17 @@ _Command-line file upload_
 - [Traccar](https://www.traccar.org/) - Java application to track GPS positions. Supports loads of tracking devices and protocols, has an Android and iOS App. Has a web interface to view your trips. ([Demo](http://demo.traccar.org/), [Source Code](https://github.com/tananaev?tab=repositories)) `Apache-2.0` `Java`
 - [uMap](https://umap.openstreetmap.fr/en/) - Create maps with OpenStreetMap layers in a minute and embed them in your site. ([Source Code](https://github.com/umap-project/umap)) `WTFPL` `Python`
 
+## Media Downloading
+
+**[`^        back to top        ^`](#)**
+
+- [Sonarr](https://sonarr.tv/) -PVR for Television for Usenet and BitTorrent users. It can monitor multiple RSS feeds for new episodes of your favorite shows and will grab, sort and rename them. It can also be configured to automatically upgrade the quality of files already downloaded when a better quality format becomes available. ([Source code](https://github.com/Sonarr/Sonarr)) `GPL-3.0` `C#`
+- [SickRage](https://github.com/rembo10/headphones) - SickRage is an automatic Video Library Manager for TV Shows.
+It watches for new episodes of your favorite shows, and when they are posted it does its magic: automatic torrent/nzb searching, downloading, and processing at the qualities you want. ([Source code](https://github.com/SickRage/SickRage)) `GPL-3.0` `Python`
+- [Radarr](https://radarr.video/) - PVR for Movies for Usenet and BitTorrent users. Forked from Sonarr with all the same features. ([Source code](https://github.com/Radarr/Radarr)) `GPL-3.0` `C#`
+- [CouchPotato](https://couchpota.to/) - Awesome PVR for usenet and torrents. Just fill in what you want to see and CouchPotato will add it to your "want to watch"-list. Every day it will search through multiple NZBs & Torrents sites, looking for the best possible match. If available, it will download it using your favorite download software. ([Source code](https://github.com/CouchPotato/CouchPotatoServer)) `GPL-3.0` `Python`
+- [Headphones](https://github.com/rembo10/headphones) - Headphones is a tool that automates your music downloading. It's written in Python (2.6 or 2.7) so it works on pretty much all systems. It's easy to setup and configure. Downloading with NZBGet, SabNZBd, Transmission and uTorrent is supported. `GPL-3.0` `Python`
+
 ## Media Streaming
 
 **[`^        back to top        ^`](#)**
