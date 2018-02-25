@@ -47,8 +47,12 @@
 
 ## IPBX
 
-  * [Elastix](http://www.elastix.org) `⊘ Proprietary` - Unified communications server software based on 3CX. ([Source Code](https://svn.code.sf.net/p/elastix/code/trunk/)) `GPLv2` `PHP`
+  * [Elastix](http://www.elastix.org) `⊘ Proprietary` - Unified communications server software based on 3CX.
 
+
+## Maps & GPS
+
+  * [OpenMapTiles Server](https://openmaptiles.org/) `⊘ Proprietary` - Set of tools for self-hosting of OpenStreetMap vector tiles. ([Demo](https://openmaptiles.org/), [Partial Source Code](https://github.com/openmaptiles)) `Python/JavaScript`
 
 ## Media Streaming
 
