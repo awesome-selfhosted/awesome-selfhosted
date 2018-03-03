@@ -103,7 +103,7 @@
   * [Documize](https://documize.com) `⊘ Proprietary` - Modern docs & wiki software built for software team collaboration. `Go`
   * [JIRA](https://www.atlassian.com/software/jira) `⊘ Proprietary` - A professional and extensible issue tracker `Java`
   * [RhodeCode](https://rhodecode.com) `⊘ Proprietary` - On-premise Source Code Management for Mercurial, Git & Subversion. `Python`
-  * [Stash](https://www.atlassian.com/software/stash) `⊘ Proprietary` - An enterprise-level Git solution similar to GitLab `Java`
+  * [BitBucket Server](https://www.atlassian.com/software/bitbucket/server) `⊘ Proprietary` - An enterprise-level Git solution similar to GitLab `Java`
 
   
 ## Ticketing
