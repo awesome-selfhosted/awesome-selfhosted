@@ -296,6 +296,7 @@ _Simple deployment of a mail server, e.g. for inexperienced or impatient admins.
 - [Modoboa](http://modoboa.org/en/) - Modoboa is a mail hosting and management platform including a modern and simplified Web User Interface. ([Source Code](https://github.com/tonioo/modoboa)) `MIT` `Python`
 - [Postal](https://github.com/atech/postal) - Postal is a complete and full featured mail server for use by websites and web servers. `MIT` `Ruby`
 - [Qmailtoaster](http://www.qmailtoaster.com/) - Stable, full-featured, easy-to-install mail server based on qmail. ([Source Code](https://github.com/QMailToaster/)) `Multiple` `Linux`
+- [Simple NixOS Mailserver](https://github.com/r-raymond/nixos-mailserver) - A complete mailserver solution leveraging the Nix Ecosystem. ([Source Code](https://github.com/r-raymond/nixos-mailserver)) `GPL-3.0` `Nix`
 
 #### Mail Transfer Agents
 
