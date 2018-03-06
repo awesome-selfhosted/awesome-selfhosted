@@ -1118,7 +1118,7 @@ _See also [Ticketing](#ticketing), [Task management/To-do lists](#task-managemen
 - [Tuleap](https://www.tuleap.org/) - Tuleap is a libre suite to plan, track, code and collaborate on software projects. ([Source Code](https://tuleap.net/plugins/git/tuleap/tuleap/stable?p=tuleap%2Fstable.git&a=tree)) `GPL-2.0` `PHP`
 - [Gitolite](http://gitolite.com/gitolite/index.html) - Gitolite allows you to
   setup git hosting on a central server, with fine-grained access control and
-many more powerful features. `GPLv2` `Perl`
+many more powerful features. ([Source Code](https://github.com/sitaramc/gitolite)) `GPLv2` `Perl`
 
 ### Bug Trackers
 
