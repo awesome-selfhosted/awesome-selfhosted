@@ -906,7 +906,7 @@ See also https://github.com/n1trux/awesome-sysadmin#it-asset-management
 - [IHateMoney](http://ihatemoney.org/) - Manage your shared expenses, easily. ([Source Code](https://github.com/spiral-project/ihatemoney)) `BSD` `Python`
 - [PartKeepr](https://www.partkeepr.org) - PartKeepr is an electronic part inventory management software. It helps you to keep track of your available parts and assist you with re-ordering parts. ([Demo](https://demo.partkeepr.org/), [Source Code](https://github.com/partkeepr/PartKeepr)) `GPL-3.0` `PHP`
 - [StockazNG](https://dev.sigpipe.me/dashie/StockazNG) - Asset Management System. `MIT` `Python`
-- [Web fonts repository](https://github.com/FinesseRus/web-fonts-repository) — Google Fonts alternative for your own web fonts. ([Source Code](https://github.com/FinesseRus/web-fonts-repository)) `MIT` `PHP`
+- [Web fonts repository](https://github.com/FinesseRus/web-fonts-repository) — Google Fonts alternative for your own web fonts. `MIT` `PHP`
 
 ## Monitoring
 
