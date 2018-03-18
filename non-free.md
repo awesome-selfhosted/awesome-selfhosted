@@ -47,8 +47,12 @@
 
 ## IPBX
 
-  * [Elastix](http://www.elastix.org) `⊘ Proprietary` - Unified communications server software based on 3CX. ([Source Code](https://svn.code.sf.net/p/elastix/code/trunk/)) `GPLv2` `PHP`
+  * [Elastix](http://www.elastix.org) `⊘ Proprietary` - Unified communications server software based on 3CX.
 
+
+## Maps & GPS
+
+  * [OpenMapTiles Server](https://openmaptiles.org/) `⊘ Proprietary` - Set of tools for self-hosting of OpenStreetMap vector tiles. ([Demo](https://openmaptiles.org/), [Partial Source Code](https://github.com/openmaptiles)) `Python/JavaScript`
 
 ## Media Streaming
 
@@ -92,13 +96,14 @@
 
   * [92five](http://92fiveapp.com/) `⊘ Proprietary` - Self hosted project management application ([Source code](https://github.com/chintanbanugaria/92five)) `CC BY-NC 4.0` `PHP`
   * [Bamboo](https://www.atlassian.com/software/bamboo) `⊘ Proprietary` - A continuous integration server `Java`
+  * [Buddy Enterprise](https://buddy.works/) - The Git and Continuous Integration / Delivery Platform. `⊘ Proprietary` `Nodejs/Java`
   * [Cloud9](https://c9.io/) `⊘ Proprietary` - Your development environment, in the cloud ([Source code](https://github.com/c9/core)) `Nodejs`
   * [Confluence](https://www.atlassian.com/software/confluence) `⊘ Proprietary` - A team collaboration software `Java`
   * [Crucible](https://www.atlassian.com/software/crucible/overview) `⊘ Proprietary` - A peer code review application `Java`
   * [Documize](https://documize.com) `⊘ Proprietary` - Modern docs & wiki software built for software team collaboration. `Go`
   * [JIRA](https://www.atlassian.com/software/jira) `⊘ Proprietary` - A professional and extensible issue tracker `Java`
   * [RhodeCode](https://rhodecode.com) `⊘ Proprietary` - On-premise Source Code Management for Mercurial, Git & Subversion. `Python`
-  * [Stash](https://www.atlassian.com/software/stash) `⊘ Proprietary` - An enterprise-level Git solution similar to GitLab `Java`
+  * [BitBucket Server](https://www.atlassian.com/software/bitbucket/server) `⊘ Proprietary` - An enterprise-level Git solution similar to GitLab `Java`
 
   
 ## Ticketing
