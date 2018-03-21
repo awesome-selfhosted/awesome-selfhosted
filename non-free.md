@@ -107,6 +107,7 @@
 
   
 ## Ticketing
+  * [Jitbit Helpdesk](https://www.jitbit.com/helpdesk/) `⊘ Proprietary` - Self-hosted help desk software - simple but powerful. ([Demo](https://www.jitbit.com/hosted-helpdesk/trial/)) `ASP.NET`
   * [SupportPal](https://www.supportpal.com/) `⊘ Proprietary` - Powerful help desk software - easy, fast and intuitive. ([Demo](http://demo.supportpal.com/)) `PHP`
 
 
