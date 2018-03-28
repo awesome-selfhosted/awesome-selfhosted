@@ -818,6 +818,7 @@ See also [awesome-gis](https://github.com/sshuair/awesome-gis).
 - [TileServer-GL](http://tileserver.org/) - Map server made for vector tiles able to render into raster tiles with MapBox GL Native engine on the server side. ([Demo](https://maps.klokantech.com/), [Source Code](https://github.com/klokantech/tileserver-gl)) `BSD-2-Clause` `Nodejs`
 - [TileServer-PHP](https://openmaptiles.org/) - Server compatible with OpenStreetMap for distributing map tiles in XYZ URL (described by TileJSON), WMTS, or TMS formats. ([Demo](https://tileserver.maptiler.com/), [Source Code](https://github.com/klokantech/tileserver-php)) `BSD-2-Clause` `PHP`
 - [Traccar](https://www.traccar.org/) - Java application to track GPS positions. Supports loads of tracking devices and protocols, has an Android and iOS App. Has a web interface to view your trips. ([Demo](http://demo.traccar.org/), [Source Code](https://github.com/tananaev?tab=repositories)) `Apache-2.0` `Java`
+- [μlogger](https://github.com/bfabiszewski/ulogger-server) - Collect geolocation from users in real-time and display their GPS tracks on a website. Also [implemented in Nodejs](https://github.com/Hackfront-ITA/ulogger-server). ([Demo](http://ulogger.fabiszewski.net/)) `GPL-3.0` `PHP`
 
 ## Media Streaming
 
