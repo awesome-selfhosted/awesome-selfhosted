@@ -1182,6 +1182,7 @@ See also [Static site generators](#static-site-generators)
 
 ### Localization
 
+- [Accent](https://www.accent.reviews/) - Open-source, self-hosted, developer-oriented translation tool. ([Source code](https://github.com/mirego/accent)) `BSD-3-Clause` `Elixir`
 - [Parrot](http://parrot-translate.github.io/parrot.github.io/) - Self-hosted Localization Management Platform built with Go and Angular 2. ([Source Code](https://github.com/parrot-translate/parrot)) `MIT` `Go`
 - [Pootle](http://pootle.translatehouse.org) - Online translation and localization tool. ([Source Code](https://github.com/translate/pootle)) `GPL-3.0` `Python`
 - [Weblate](https://weblate.org) - Web-based translation tool with tight version control integration. ([Demo](https://demo.weblate.org), [Source Code](https://github.com/WeblateOrg/weblate)) `GPL-3.0` `Python`
