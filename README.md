@@ -50,7 +50,7 @@ See [Contributing](.github/CONTRIBUTING.md).
 - [Gateways](#gateways)
 - [Groupware](#groupware)
 - [Human Resources Management (HRM)](#human-resources-management-hrm)
-- [Learning and Courses](#learning-and-courses)
+- [Learning Management Systems (LMS) and Courses](#learning-management-systems-lms-and-courses)
 - [Maps and Global Positioning System (GPS)](#maps-and-global-positioning-system-gps)
 - [Media Streaming](#media-streaming)
   - [Audio Streaming](#audio-streaming)
@@ -781,7 +781,7 @@ _Command-line file upload_
 - [Sentrifugo](http://www.sentrifugo.com/) - Sentrifugo is a HRM system that can be easily configured to meet your organizational needs. ([Source Code](https://github.com/sapplica/sentrifugo)) `GPL-3.0` `PHP`
 - [TimeOff.Management](https://timeoff.management) - Simple yet powerful absence management software for small and medium size business. ([Demo](https://app.timeoff.management), [Source Code](https://github.com/timeoff-management/application)) `MIT` `Nodejs`
 
-## Learning and Courses
+## Learning Management Systems (LMS) and Courses
 
 **[`^        back to top        ^`](#)**
 
