@@ -128,6 +128,7 @@ Some [Content Management System](#content-management-systems-cms) solutions also
 - [Archivematica](https://www.archivematica.org/) - Mature digital preservation system designed to maintain standards-based, long-term access to collections of digital objects. ([Demo](http://sandbox.archivematica.org/administration/accounts/login/), [Source Code](https://github.com/artefactual/archivematica)) `Python` `AGPL-3.0-only`
 - [ArchivesSpace](https://archivesspace.org/) - Archives information management application for managing and providing Web access to archives, manuscripts and digital objects. ([Demo](https://archivesspace.org/application/demo/), [Source Code](https://github.com/archivesspace/archivesspace)) `Ruby` `ECL-2.0`
 - [Collective Access: Providence](http://collectiveaccess.org/) - Highly configurable Web-based framework for management, description, and discovery of digital and physical collections supporting a variety of metadata standards, data types, and media formats. ([Source Code](https://github.com/collectiveaccess/providence)) `PHP` `GPL-3.0-only`
+- [Perkeep](https://perkeep.org/) - Perkeep lets you permanently keep your stuff, for life. ([Source Code](https://github.com/perkeep/perkeep)) `Apache 2.0` `Go`
 
 ## Automation
 
