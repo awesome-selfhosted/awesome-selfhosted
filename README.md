@@ -53,6 +53,7 @@ See [Contributing](.github/CONTRIBUTING.md).
 - [Learning and Courses](#learning-and-courses)
 - [Maps and Global Positioning System (GPS)](#maps-and-global-positioning-system-gps)
 - [Media Streaming](#media-streaming)
+  - [Multimedia Streaming](#multimedia-streaming)
   - [Audio Streaming](#audio-streaming)
   - [Video Streaming](#video-streaming)
 - [Misc/Other](#miscother)
