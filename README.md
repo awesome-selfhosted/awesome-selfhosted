@@ -11,6 +11,9 @@ See [Contributing](.github/CONTRIBUTING.md).
 --------------------
 
 - [Analytics](#analytics)
+  - [Web Analytics](#web-analytics)
+  - [Social Media Analyics](#social-media-analytics)
+  - [Business Intelligence](#business-intelligence)
 - [Archiving and Digital Preservation (DP)](#archiving-and-digital-preservation-dp)
 - [Automation](#automation)
 - [Blogging Platforms](#blogging-platforms)
@@ -100,7 +103,7 @@ For personal analytics/dashboards, see [Personal Dashboards](https://github.com/
 
 **[`^        back to top        ^`](#)**
 
-_Web Analytics_
+### Web Analytics
 
 - [AWStats](http://www.awstats.org/) - Generates web, streaming, ftp or mail server statistics graphically. ([Source Code](https://github.com/eldy/awstats)) `GPL-3.0` `Perl`
 - [Countly](https://count.ly) - Real time mobile and web analytics, crash reporting and push notifications platform. ([Source Code](https://github.com/countly)) `AGPL-3.0` `Javascript`
@@ -113,7 +116,11 @@ _Web Analytics_
 - [Snowplow](http://snowplowanalytics.com/) - Have every single event, from your websites, mobile apps, desktop applications and server-side systems, stored in your own data warehouse and available to action in real-time. ([Source Code](https://github.com/snowplow/)) `Apache-2.0` `Scala`
 - [Suet](https://suet.co/) `⚠` - Detailed analytics and reporting for your Mailgun transactional emails. ([Source Code](https://github.com/kehers/suet)) `GPL-3.0` `Nodejs`
 
-_Business Intelligence_
+### Social Media Analytics
+
+- [Socioboard](https://socioboard.org/) - Social media management, analytics, and reporting platform supporting nine social media networks out-of-the-box. ([Source Code](https://github.com/socioboard/Socioboard-Core-3.0)) `GPL-3.0` `C#/JavaScript`
+
+### Business Intelligence
 
 - [Metabase](http://www.metabase.com/) - Simple Dashboarding and GUI Query tool, Nightly Emails and Slack Integration w/ PostgreSQL, MySQL, Redshift and other DBs. ([Source Code](https://github.com/metabase/metabase)) `AGPL-3.0` `Clojure`
 - [Redash](http://redash.io) - connect to over 18 types of databases (SQL and "NoSQL"), query your data, visualize it and create dashboards. Everything has a URL that can be shared. Slack and HipChat integration. ([Demo](https://demo.redash.io), [Source Code](https://github.com/getredash/redash)) `BSD-2-Clause` `Python`
@@ -912,6 +919,7 @@ See also <https://en.wikipedia.org/wiki/List_of_streaming_media_systems>, <https
 - [Notica](https://notica.us) - Lets you send browser notifications from your terminal to your desktop or phone. No installation or registration is required. ([Source Code](https://github.com/tannercollin/Notica)) `MIT` `Nodejs`
 - [oTranscribe](http://otranscribe.com/) - Free web app to take the pain out of transcribing recorded interviews. ([Source Code](https://github.com/oTranscribe/oTranscribe)) `MIT` `JavaScript`
 - [reveal.js](https://revealjs.com) - Framework for easily creating beautiful presentations using HTML. ([Source Code](https://github.com/hakimel/reveal.js)) `MIT` `JavaScript`
+- [Revive Adserver](https://www.revive-adserver.com/) - The world's most popular free, open source ad serving system. Formerly "OpenX Adserver" and "phpAdsNew." ([Source Code](https://github.com/revive-adserver/revive-adserver)) `GPL-2.0-or-later` `PHP`
 - [Skygear](https://skygear.io) - Complete backend server for web, mobile and iOT applcations. ([Demo](https://portal.skygear.io), [Source Code](https://github.com/SkygearIO/skygear-server)) `Apache-2.0` `Go`
 - [Trello Burndown](https://github.com/swordbeta/trello-burndown) `⚠` - Easy to use SCRUM burndown chart for Trello boards. `MIT` `Go/Docker`
 - [Ulterius](https://ulterius.io) - Ulterius is an open-source remote desktop software with lots of awesome functions. ([Demo](https://ulterius.io/signup/), [Source Code](https://github.com/Ulterius/server)) `MPL-2.0` `C#`
