@@ -894,7 +894,7 @@ See also <https://en.wikipedia.org/wiki/List_of_streaming_media_systems>, <https
 - [Ulterius](https://ulterius.io) - Ulterius is an open-source remote desktop software with lots of awesome functions. ([Demo](https://ulterius.io/signup/), [Source Code](https://github.com/Ulterius/server)) `MPL-2.0` `C#`
 - [ViMbAdmin](http://www.vimbadmin.net/) - Provides a web based virtual mailbox administration system to allow mail administrators to easily manage domains, mailboxes and aliases. ([Demo](http://www.vimbadmin.net/demo/auth/login), [Source Code](https://github.com/opensolutions/ViMbAdmin)) `GPL-3.0` `PHP`
 - [visualCaptcha](http://visualcaptcha.net/) - Configurable captcha solution, focusing on accessibility and simplicity whilst maintaining security. ([Demo](http://demo.visualcaptcha.net/), [Source Code](https://github.com/emotionLoop/visualCaptcha)) `MIT` `PHP/Nodejs/Ruby/Python`
-- [Web fonts repository](https://github.com/FinesseRus/web-fonts-repository) — A simple webfont hosting. Google Fonts alternative for your own fonts. `MIT` `PHP`
+- [Web fonts repository](https://github.com/Finesse/web-fonts-repository) — A simple webfont hosting. Google Fonts alternative for your own fonts. `MIT` `PHP`
 - [webtrees](https://www.webtrees.net) - Webtrees is the web's leading on-line collaborative genealogy application. ([Demo](https://dev.webtrees.net/demo-stable/index.php?ctype=gedcom&ged=demo), [Source Code](https://github.com/fisharebest/webtrees)) `GPL-3.0` `PHP`
 
 ## Money, Budgeting and Management
