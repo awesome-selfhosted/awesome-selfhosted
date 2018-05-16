@@ -1,6 +1,6 @@
 ## Contributing
 
-Please join us on [chat](https://chat.awesh.unknownplus.com/channel/awesome-selfhosted) or open a new issue to clarify any questions.
+Please open a new issue to clarify any questions, or post in the [General discussion issue](https://github.com/Kickball/awesome-selfhosted/issues/89).
 
 All guidelines for adding new software to the list are listed in [PULL_REQUEST_TEMPLATE.md](PULL_REQUEST_TEMPLATE.md).
 
