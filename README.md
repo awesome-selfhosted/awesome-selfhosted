@@ -44,6 +44,7 @@ See [Contributing](.github/CONTRIBUTING.md).
   - [Distributed filesystems](#distributed-filesystems)
   - [File transfer/synchronization](#file-transfersynchronization)
   - [Peer-to-peer filesharing](#peer-to-peer-filesharing)
+  - [Object storage/file servers](#object-storagefile-servers)
   - [Single-click/drag-n-drop upload](#single-clickdrag-n-drop-upload)
   - [Web based file managers](#web-based-file-managers)
 - [Games](#games)
@@ -673,6 +674,11 @@ See https://github.com/n1trux/awesome-sysadmin#distributed-filesystems
 - [Reep](https://reep.io) - In-browser peer-to-peer file transfer and streaming made easy. ([Source Code](https://github.com/KodeKraftwerk/reepio)) `GPL-2.0` `Nodejs`
 - [Transmission](https://transmissionbt.com/) - Fast, easy, Free Bittorrent client. ([Source Code](https://github.com/transmission/transmission)) `GPL-3.0` `C`
 
+#### Object storage/file servers
+
+- [Minio](https://minio.io/) - Minio is an open source object storage server compatible with Amazon S3 APIs. ([Source Code](https://github.com/minio/minio)) `Apache-2.0` `Go`
+- [Zenko CloudServer](https://www.zenko.io/cloudserver) - Zenko CloudServer, an open-source Node.js implementation of a server handling the Amazon S3 protocol. ([Source Code](https://github.com/scality/S3)) `Apache-2.0` `Nodejs`
+
 #### Single-click/drag-n-drop upload
 
 - [BoZoN](https://github.com/broncowdd/BoZoN) - Minimalist Drag and drop file sharing app. `AGPL-3.0` `PHP`
@@ -686,7 +692,6 @@ See https://github.com/n1trux/awesome-sysadmin#distributed-filesystems
 - [linx](https://github.com/andreimarcu/linx-server) - File sharing application and pastebin with API, auto-expiry, deletion keys, and web seed support. ([Demo](https://linx.li/)) `GPL-3.0` `Go`
 - [lufi](https://git.framasoft.org/luc/lufi) - Let's Upload that FIle, client-side encrypted. ([Demo](https://demo.lufi.io), [Source Code](https://git.framasoft.org/luc/lufi/tree/master)) `AGPL-3.0` `Perl`
 - [lutim](https://github.com/ldidry/lutim) - Let's Upload That Image. `AGPL-3.0` `Perl`
-- [Minio](https://minio.io/) - Store photos, videos, VMs, containers, log files, or any blob of data as objects. ([Source Code](https://github.com/minio/minio)) `Apache-2.0` `Go`
 - [Nimbus](https://github.com/ethanal/nimbus) - Drag-and-drop shortlink file sharer for OS X. `MIT` `Python`
 - [OnionShare](https://github.com/micahflee/onionshare) - Securely and anonymously share a file of any size. `GPL-2.0` `Python`
 - [PictShare](https://www.pictshare.net/) - PictShare is a multi lingual, open source image hosting service with a simple resizing and upload API. ([Demo](https://www.pictshare.net/), [Source Code](https://github.com/chrisiaut/pictshare)) `Apache-2.0` `PHP`
