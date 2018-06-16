@@ -23,10 +23,7 @@
 ## Decentralized Network
 
   * [Synereo](https://www.synereo.com/) - Decentralized network system based on blockchain that allows fast speed and great trust level. ([Source Code](https://github.com/synereo/synereo)) `Scala`  
-
-## Document Archiving
- * [Ambar](https://ambar.cloud) - Self-Hosted Smart Document Archive (OCR, Store & Search). ([Source Code](https://github.com/RD17/ambar)) `Fair Source 1 v0.9` `Nodejs/Python`  
-  
+ 
 ## Federated Identity/Authentication
 
   * [Auth0](https://auth0.com/docs/appliance): `⊘ Proprietary`. Identity made simple for developers. `NodeJS`
@@ -110,6 +107,10 @@
   * [Jitbit Helpdesk](https://www.jitbit.com/helpdesk/) `⊘ Proprietary` - Self-hosted help desk software - simple but powerful. ([Demo](https://www.jitbit.com/hosted-helpdesk/trial/)) `ASP.NET`
   * [SupportPal](https://www.supportpal.com/) `⊘ Proprietary` - Powerful help desk software - easy, fast and intuitive. ([Demo](http://demo.supportpal.com/)) `PHP`
 
+
+## Time Tracking
+  * [Virtual TimeClock](https://www.redcort.com/timeclock) `⊘ Proprietary` - Powerful, easy-to-use time tracking software. ([Demo](https://www.redcort.com/timeclock/free-timeclock-software-trial))
+  
 
 ## Remote Support
 
