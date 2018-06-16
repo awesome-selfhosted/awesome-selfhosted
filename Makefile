@@ -26,7 +26,7 @@ listlicenses:
 	@sed -n -e '/BEGIN SOFTWARE LIST/,/END SOFTWARE LIST/ p' README.md | egrep --only-matching '([Aa0-Zz9]|\s|\.|-)*` `' README.md | sort --unique
 
 syntaxerrors:
-	@echo -e "\n Syntax errors:" 
+	@echo -e "\nSyntax errors:" 
 	@! sed -n -e '/BEGIN SOFTWARE LIST/,/END SOFTWARE LIST/ p' README.md | egrep  '\)\(|``|\)`'
 
 contrib:
