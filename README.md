@@ -70,6 +70,7 @@ See [Contributing](.github/CONTRIBUTING.md).
 - [Proxy](#proxy)
 - [Read it Later Lists](#read-it-later-lists)
 - [Search Engines](#search-engines)
+- [Self-hosting Solutions](#self-hosting-solutions)
 - [Software Development](#software-development)
   - [Project Management](#project-management)
   - [Bug Trackers](#bug-trackers)
@@ -86,7 +87,7 @@ See [Contributing](.github/CONTRIBUTING.md).
 - [VPN](#vpn)
 - [Web servers](#web-servers)
 - [Wikis](#wikis)
-- [Self-hosting Solutions](#self-hosting-solutions)
+
 - [List of Licenses](#list-of-licenses)
 - [External links](#external-links)
 - [Contributing](#contributing)
