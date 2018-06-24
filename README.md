@@ -352,6 +352,7 @@ _Mailing lists servers and mass mailing software - one message to many recipient
 - [Roundcube](https://roundcube.net) - Browser-based IMAP client with an application-like user interface. ([Source Code](https://github.com/roundcube/roundcubemail/)) `GPL-3.0` `PHP`
 - [SquirrelMail](http://squirrelmail.org) - Another browser-based IMAP client. ([Source Code](https://sourceforge.net/p/squirrelmail/code/HEAD/tree/)) `GPL-2.0` `PHP`
 - [WebMail Lite](http://www.afterlogic.org/webmail-lite) - Web-based IMAP Mail client. ([Source Code](https://github.com/afterlogic/webmail-lite)) `GPL-3.0` `PHP`
+- [disposable-mailbox](https://github.com/synox/disposable-mailbox) - Simple disposable mailbox web app based on a catch-all IMAP mailbox. ([Source Code](https://github.com/synox/disposable-mailbox)) `GPL-3.0` `PHP`
 
 ### IRC
 
