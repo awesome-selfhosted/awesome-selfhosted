@@ -110,6 +110,7 @@ Commits | Author
      3 | pszlazak <pszlazak@users.noreply.github.com>
      3 | rett gerst <rettgerst@users.noreply.github.com>
      3 | xBytez <git@xbytez.io>
+     3 | Tony Xu <yihan.xu@gmail.com>
      2 | A. Cynic <chris@mretc.net>
      2 | Adminrezo (Nico Dewaele) <nico@adminrezo.fr>
      2 | Albert Cervera i Areny <albert@nan-tic.com>
