@@ -17,7 +17,7 @@ function split(text) { // Function to split lines into array
 }
 
 function findPattern(text) { // Test entries against 8 patterns.  If matches pattern returns true
-  const nodnospatt = /^-\s{0,2}\s\[.*?\]\(.*?\) - .{0,249}?\. `.*?` `.*?`/; // Regex for entries with no demo and no source code
+  const nodnospatt = /^\s{0,2}-\s\[.*?\]\(.*?\) - .{0,249}?\. `.*?` `.*?`/; // Regex for entries with no demo and no source code
   const slpatt = /^\s{0,2}-\s\[.*?\]\(.*?\) - .{0,249}?\. \(\[Demo\b\]\(.*?\), \[Source Code\b\]\(.*?\)\) `.*?` `.*?`/; // Regex for entries with demo and source code
   const nodpatt = /^\s{0,2}-\s\[.*?\]\(.*?\) - .{0,249}?\. \(\[Source Code\]\(.*?\)\) `.*?` `.*?`/; // Regex for entries with no demo
   const nospatt = /^\s{0,2}-\s\[.*?\]\(.*?\) - .{0,249}?\. \(\[Demo\]\(.*?\)\) `.*?` `.*?`/; // Regex for entries with no source code
