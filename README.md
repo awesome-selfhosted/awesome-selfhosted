@@ -360,7 +360,7 @@ _Mailing lists servers and mass mailing software - one message to many recipient
 **[`^        back to top        ^`](#)**
 
 - [Ad Hoc Email Server (AHEM)](http://www.ahem.email) - An ad-hoc mail server. Create and use ad hoc disposable mailboxes for testing or any other purpose. ([Source Code](https://github.com/o4oren/Ad-Hoc-Email-Server)) `Angular/Nodejs` `LGPL-3.0`
-- [Alp-Mail](https://github.com/theju/alp-mail) - Alp-Mail (Alp in Hindi means short-lived) is your self-hosted disposable email service ala Mailinator. All mails are stored in a database under incoming or rejected.  `MIT` `Nodejs/Django`
+- [Alp-Mail](https://github.com/theju/alp-mail) - Alp-Mail (Alp in Hindi means short-lived) is your self-hosted disposable email service ala Mailinator. All mails are stored in a database under incoming or rejected. `MIT` `Nodejs/Django`
 - [disposable-mailbox](https://github.com/synox/disposable-mailbox) - Self-hosted disposable email service (php) using catch-all and imap. ([Demo](https://bhadoomail.com)) `GPL-3.0` `PHP`
 - [Forsaken-Mail](https://github.com/denghongcai/forsaken-mail) - A self-hosted disposable mail service. ([Demo](http://disposable.dhc-app.com/)) `GPL-2.0` `Docker/NodeJS`
 - [Forward Email](https://forwardemail.net/) - ForwardEmail is a free, encrypted, and open-source email forwarding service ([Demo](https://forwardemail.net/#/?id=how-it-works), [Source Code](https://github.com/niftylettuce/forward-email)) `NodeJS` `Redis` `MIT`
