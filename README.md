@@ -359,21 +359,17 @@ _Mailing lists servers and mass mailing software - one message to many recipient
 
 **[`^        back to top        ^`](#)**
 
-- [Ad Hoc Email Server (AHEM)](http://www.ahem.email) - An ad-hoc mail server. Create and use ad hoc disposable mailboxes for testing or any other purpose. http://www.ahem.email ([Demo](http://www.ahem.email/account/bi1vx86r), [Source Code](https://github.com/o4oren/Ad-Hoc-Email-Server)) `Angular/Nodejs` `MongoDB` `MIT`
-- [Alp-Mail](https://github.com/theju/alp-mail) - Alp-Mail (Alp in Hindi means short-lived) is your self-hosted disposable email service ala Mailinator. All mails are stored in a database under incoming or rejected. ([Source Code](https://github.com/theju/alp-mail)) `Nodejs` `Django` `MIT`
+- [Ad Hoc Email Server (AHEM)](http://www.ahem.email) - An ad-hoc mail server. Create and use ad hoc disposable mailboxes for testing or any other purpose. http://www.ahem.email ([Demo](http://www.ahem.email), [Source Code](https://github.com/o4oren/Ad-Hoc-Email-Server)) `Angular/Nodejs` `MongoDB` `MIT`
+- [Alp-Mail](https://github.com/theju/alp-mail) - Alp-Mail (Alp in Hindi means short-lived) is your self-hosted disposable email service ala Mailinator. All mails are stored in a database under incoming or rejected.  `Nodejs` `Django` `MIT`
 - [disposable-mailbox](https://github.com/synox/disposable-mailbox) - self-hosted disposable email service (php) using catch-all and imap ([Demo](bhadoomail.com), [Source Code](https://github.com/synox/disposable-mailbox)) `PHP` `GPL-3.0`
-- [disposable](disposebox.com) - Web app for creating your own hassle free disposable mailbox service like Mailinator or TrashMail. ([Demo](disposebox.com), [Source Code](https://github.com/andris9/disposable)) `NodeJS` `MongoDB` `MIT`
-- [forsaken-mail](https://github.com/denghongcai/forsaken-mail) - a self-hosted disposable mail service ([Demo](http://disposable.dhc-app.com/), [Source Code](https://github.com/denghongcai/forsaken-mail)) `Docker` `NodeJS` `GPL-2.0`
-- [Forward Email](https://forwardemail.net/) - ForwardEmail is a free, encrypted, and open-source email forwarding service at http://forwardemail.net ([Demo](https://forwardemail.net/#/?id=how-it-works), [Source Code](https://forwardemail.net/#/?id=self-hosted-requirements)) `NodeJS` `Redis` `MIT`
+- [forsaken-mail](https://github.com/denghongcai/forsaken-mail) - a self-hosted disposable mail service ([Demo](http://disposable.dhc-app.com/)) `Docker` `NodeJS` `GPL-2.0`
+- [Forward Email](https://forwardemail.net/) - ForwardEmail is a free, encrypted, and open-source email forwarding service ([Demo](https://forwardemail.net/#/?id=how-it-works), [Source Code](https://github.com/niftylettuce/forward-email)) `NodeJS` `Redis` `MIT`
 - [Inboxen](https://inboxen.org) - Inboxen is a service that provides you with an infinite number of unique inboxes. ([Source Code](https://github.com/Inboxen/Inboxen)) `Python` `AGPL-3.0` `NodeJS` 
 - [Inbucket](https://www.inbucket.org) - Disposable webmail server (similar to Mailinator) with built in SMTP, POP3, RESTful servers; no DB required. ([Demo](http://demo.inbucket.org/monitor), [Source Code](https://github.com/jhillyerd/inbucket/tree/v2.0.0)) `Go` `MIT`
-- [Lettertray](https://github.com/ello/lettertray) - A self-hosted disposable e-mail service (think Mailinator) making use of the Sendgrid Parse API (and others via Griddler) ([Source Code](https://github.com/ello/lettertray)) `Rudy` `Redis` `Rails` `MIT`
-- [MailCare](https://mailcare.io) - This is an open source disposable email address service that was built and maintained at mailcare.io. ([Demo](https://www.wormly.com/test-smtp-server), [Source Code](https://github.com/mailcare/mailcare)) `PHP` `NodeJS`
-- [mailchute](https://github.com/kevinjqiu/mailchute) - A mailinator-like service providing self-hosted disposable email addresses ([Source Code](https://github.com/kevinjqiu/mailchute)) `BSD` `Python`
-- [Maildrop](http://maildrop.cc/) - open-source, scalable, high-performance version of Mailinator, a "temporary inbox" that you can give out when you don't want to give out your real e-mail address. MailDrop inboxes are designed to be quick and disposable. ([Demo](https://maildrop.cc/inbox/demo), [Source Code](https://github.com/m242/maildrop)). `MIT` `Java` `Redis`
-- [Mailsac v2](https://mailsac.com/) - A disposable SMTP test server and email web client frontend, build on Node.js, Mongo and Redis https://mailsac.com ([Demo](https://mailsac.com/inbox/demo@mailsac.com), [Source Code](https://github.com/mailsac)) `Go` `Javascript` `MIT`
+- [mailchute](https://github.com/kevinjqiu/mailchute) - A mailinator-like service providing self-hosted disposable email addresses `BSD` `Python`
+- [Maildrop](http://maildrop.cc/) - open-source, scalable, high-performance version of Mailinator, a "temporary inbox" that you can give out when you don't want to give out your real e-mail address. MailDrop inboxes are designed to be quick and disposable. ([Demo](https://maildrop.cc/), [Source Code](https://github.com/m242/maildrop)). `MIT` `Java` `Redis`
 - [spamgourmet](https://www.spamgourmet.com/index.pl) - A forwarding address system with a web user management interface. End users can supply disposable email addresses (DEA) that, by default, expire after receiving a few emails but can be extended. Users can whitelist senders. Includes a captcha ([Demo](https://www.spamgourmet.com/index.pl), [Source Code](https://sourceforge.net/projects/spamgourmet/)) `Perl`
-- [SquealrMailServer](https://github.com/m3nfis/SquealrMailServer) - Free Disposable Email Server. Don't want to user your real email? Use a temporary email. No registration. Free. Disposable. ([Source Code](https://github.com/m3nfis/SquealrMailServer)) `NodeJS`
+
 
 ### IRC
 
