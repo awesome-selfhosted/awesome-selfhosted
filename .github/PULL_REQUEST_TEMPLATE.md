@@ -2,17 +2,22 @@ Thank you for taking the time to work on a PR for Awesome-Selfhosted!
 
 To ensure your PR is dealt with swiftly please check the following:
 
-- [ ] Your submissions are formatted according to the following requirements. 
+- [ ] Your submissions are formatted according to the following requirements:
         
 ``- [Name](http://homepage/) - Short description, less than 250 characters. ([Demo](http://url.to/demo), [Source Code](http://url.of/source/code), [Clients](https://url.to/list/of/related/clients-or-apps)) `License` `Language` ``
-    
-With proprietary dependencies:   
+
+Depends on proprietary services:
+
 ``- [Name](http://homepage/) `⚠` - Short description, less than 250 characters. ([Demo](http://url.to/demo), [Source Code](http://url.of/source/code), [Clients](https://url.to/list/of/related/clients-or-apps)) `License` `Language` ``
-    
-non-free software in non-free.md:    
+
+Non-free software in `non-free.md`:
+
 ``- [Name](http://homepage/) `⊘ Proprietary` - Short description, less than 250 characters. ([Demo](http://url.to/demo), [Source Code](http://url.of/source/code), [Clients](https://url.to/list/of/related/clients-or-apps)) `Language` ``
+
+
 - [ ] Your additions are ordered alphabetically.
 - [ ] Your additions are [Free software](https://en.wikipedia.org/wiki/Free_software), or if not they have been added to [non-free](non-free.md) and marked `⊘ Proprietary`.
+- [ ] If your additions depend on proprietary services outside the user's control, they must be marked `⚠`.
 - [ ] Your additions are not already listed at [awesome-sysadmin](https://github.com/n1trux/awesome-sysadmin) (IT infrastructure management), [staticgen.com](https://www.staticgen.com/) or [staticsitegenerators.net](https://staticsitegenerators.net/) (static site generators).
 - [ ] Your additions have their `License` main server-side `Language`/platform/requirement listed.
 - [ ] Any licenses you have added are in our [list of licenses](https://github.com/Kickball/awesome-selfhosted/blob/master/README.md#list-of-licenses).
