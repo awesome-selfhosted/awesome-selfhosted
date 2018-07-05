@@ -25,6 +25,7 @@ See [Contributing](.github/CONTRIBUTING.md).
       - [Mail Delivery Agents](#mail-delivery-agents)
       - [Mailing lists and newsletters](#mailing-lists-and-newsletters)
       - [Webmail clients](#webmail-clients)
+      - [Disposable Email and Mail Forwarding Services](#disposable-email-and-forwarding-services)
     - [IRC](#irc)
     - [SIP](#sip)
     - [IPBX](#ipbx)
@@ -353,6 +354,22 @@ _Mailing lists servers and mass mailing software - one message to many recipient
 - [Roundcube](https://roundcube.net) - Browser-based IMAP client with an application-like user interface. ([Source Code](https://github.com/roundcube/roundcubemail/)) `GPL-3.0` `PHP`
 - [SquirrelMail](http://squirrelmail.org) - Another browser-based IMAP client. ([Source Code](https://sourceforge.net/p/squirrelmail/code/HEAD/tree/)) `GPL-2.0` `PHP`
 - [WebMail Lite](http://www.afterlogic.org/webmail-lite) - Web-based IMAP Mail client. ([Source Code](https://github.com/afterlogic/webmail-lite)) `GPL-3.0` `PHP`
+
+#### Disposable email and forwarding services
+
+**[`^        back to top        ^`](#)**
+
+- [Ad Hoc Email Server (AHEM)](http://www.ahem.email) - An ad-hoc mail server. Create and use ad hoc disposable mailboxes for testing or any other purpose. ([Source Code](https://github.com/o4oren/Ad-Hoc-Email-Server)) `Angular/Nodejs` `LGPL-3.0`
+- [Alp-Mail](https://github.com/theju/alp-mail) - Alp-Mail (Alp in Hindi means short-lived) is your self-hosted disposable email service ala Mailinator. All mails are stored in a database under incoming or rejected. `MIT` `Nodejs/Django`
+- [disposable-mailbox](https://github.com/synox/disposable-mailbox) - Self-hosted disposable email service (php) using catch-all and imap. ([Demo](https://bhadoomail.com)) `GPL-3.0` `PHP`
+- [Forsaken-Mail](https://github.com/denghongcai/forsaken-mail) - A self-hosted disposable mail service. ([Demo](http://disposable.dhc-app.com/)) `GPL-2.0` `Docker/NodeJS`
+- [Forward Email](https://forwardemail.net/) - ForwardEmail is a free, encrypted, and open-source email forwarding service ([Demo](https://forwardemail.net/#/?id=how-it-works), [Source Code](https://github.com/niftylettuce/forward-email)) `NodeJS` `Redis` `MIT`
+- [Inboxen](https://inboxen.org) - Inboxen is a service that provides you with an infinite number of unique inboxes. ([Source Code](https://github.com/Inboxen/Inboxen)) `Python` `AGPL-3.0` `NodeJS` 
+- [Inbucket](https://www.inbucket.org) - Disposable webmail server (similar to Mailinator) with built in SMTP, POP3, RESTful servers; no DB required. ([Demo](http://demo.inbucket.org/monitor), [Source Code](https://github.com/jhillyerd/inbucket/tree/v2.0.0)) `Go` `MIT`
+- [mailchute](https://github.com/kevinjqiu/mailchute) - A mailinator-like service providing self-hosted disposable email addresses `BSD` `Python`
+- [Maildrop](http://maildrop.cc/) - open-source, scalable, high-performance version of Mailinator, a "temporary inbox" that you can give out when you don't want to give out your real e-mail address. MailDrop inboxes are designed to be quick and disposable. ⚠ Uses AntiSpam Modules contributed from [Heluna](https://heluna.com/) for sender and data ([Demo](https://maildrop.cc/), [Source Code](https://github.com/m242/maildrop)). `MIT` `Java` `Redis`
+- [spamgourmet](https://www.spamgourmet.com/index.pl) - A forwarding address system with a web user management interface. End users can supply disposable email addresses (DEA) that, by default, expire after receiving a few emails but can be extended. Users can whitelist senders. Includes a captcha ([Demo](https://www.spamgourmet.com/index.pl), [Source Code](https://sourceforge.net/projects/spamgourmet/)) `Perl`
+
 
 ### IRC
 
