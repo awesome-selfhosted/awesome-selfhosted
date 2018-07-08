@@ -60,7 +60,7 @@
 ## Money, Budgeting and Management
 
   * [Anchor](http://theanchorapp.com/) - Anchor is an invoicing system that integrates with Stripe and Paypal. Includes features such as: reporting, dashboard and no client limit. ([Demo](http://theanchorapp.com/demo/admin-login)) `PHP`
-  * [FusionInvoice](https://www.fusioninvoice.com) `⊘ Proprietary` - FusionInvoice is an invoicing system for freelancers and small businesses. `PHP`
+  * [InvoicePlane](https://invoiceplane.com/) `⊘ Proprietary` - InvoicePlane is a self-hosted open source application for managing your quotes, invoices, clients and payments. `PHP`
   * [Manager](http://manager.io/server) `⊘ Proprietary` - Online accounting software for small businesses. `Mono`
   * [Pancake](http://pancakeapp.com/) `⊘ Proprietary` - Online invoicing, project management, time tracking and proposal software. `PHP`
 
