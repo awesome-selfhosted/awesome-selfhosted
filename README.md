@@ -195,7 +195,7 @@ See also [Static Site Generators](#static-site-generators), [Content Management 
 - [Postleaf](https://www.postleaf.org/) - Open source blogging platform with inline editing, handlebar templates, and a beautiful user interface. ([Source Code](https://github.com/Postleaf/postleaf)) `MIT` `Nodejs`
 - [Solo](http://b3log.org/) - Blogging system written in Java, feel free to create your or your team own blog. ([Demo](http://88250.b3log.org/), [Source Code](https://github.com/b3log/solo)) `Apache-2.0` `Java`
 - [WordPress](https://wordpress.org/) - Create a beautiful website or blog. ([Source Code](https://github.com/WordPress/WordPress)) `GPL-2.0` `PHP`
-- [Lesspod](https://lesspod.org/) - Create a beautiful website or blog and host it on Firebase (or a VPS). ([Source Code](https://github.com/rajan/lesspod)) `GPL-3.0` `Node.js`
+- [Lesspod](https://lesspod.org) - Create a beautiful and serverless website or blog and host it on firebase (or VPS). ([Demo](https://lesspod.org), [Source Code](https://github.com/rajan/lesspod)) `GPL-v3` `Node.js`
 
 ## Bookmarks and Link Sharing
 
