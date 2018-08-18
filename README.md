@@ -846,7 +846,7 @@ See also <https://en.wikipedia.org/wiki/List_of_streaming_media_systems>, <https
 
 ### Multimedia Streaming
 
-- [Airsonic](https://airsonic.github.io/) - Free, web-based music streamer designed for large media libraries that can stream video and music over HTTP. With use of transcoder plug-ins, Airsonic can also be used for on-the-fly conversion and streaming of audio formats. ([Source Code](https://github.com/airsonic/airsonic)) `GPL-3.0` `Java`
+- [Airsonic](https://airsonic.github.io/) - Free, web-based music streamer designed for large media libraries that can stream video and music over HTTP. With use of transcoder plug-ins, Airsonic can also be used for on-the-fly conversion and streaming of audio formats. ([Demo](https://airsonic.github.io/demo/), [Source Code](https://github.com/airsonic/airsonic)) `GPL-3.0` `Java`
 - [Darwin Streaming Server](https://macosforge.github.io/dss/) - High performance server for streaming QuickTime and MPEG-4 media over RTP and RTSP protocols. Originated as Apple’s QTSS. ([Source Code](https://github.com/macosforge/dss)) `APSL-2.0` `C++`
 - [Flumotion](http://flumotion.net/) - Streaming media server with intuitive graphical administration tools. ([Source Code](https://github.com/Flumotion/flumotion)) `LGPL-2.1` `Python`
 - [homehost](https://github.com/ridhwaans/homehost) `⚠` - Self-hosted React + Redux app that streams your media collection (music, movies, books, podcasts, comics etc). `MIT` `Nodejs`
