@@ -4,7 +4,7 @@
 
 ## Analytics
 
-  * [SessionRecord](https://sessionrecord.com/) `⊘ Proprietary` - SessionRecord is a website visitor recording software meant for identifying UI issues and fix them to improve site conversions. ([Demo](https://console.sessionrecord.com/test)) `Docker Nodejs`
+  * [UXLens](https://uxlens.com/) `⊘ Proprietary` - UXLens is a website visitor recording software meant for identifying UI issues and fix them to improve user experience. Formerly known as SessionRecord ([Demo](https://console.uxlens.com/test)) `Docker Nodejs`
 
 
 ## Content Management Systems (CMS)
