@@ -4,7 +4,7 @@
 
 ## Analytics
 
-  * [SessionRecord](https://sessionrecord.com/) `⊘ Proprietary` - SessionRecord is a website visitor recording software meant for identifying UI issues and fix them to improve site conversions. ([Demo](https://console.sessionrecord.com/test)) `Docker Nodejs`
+  * [UXLens](https://uxlens.com/) `⊘ Proprietary` - UXLens is a website visitor recording software meant for identifying UI issues and fix them to improve user experience. Formerly known as SessionRecord ([Demo](https://console.uxlens.com/test)) `Docker Nodejs`
 
 
 ## Content Management Systems (CMS)
@@ -53,6 +53,7 @@
 
 ## Media Streaming
 
+  * [Emby](https://emby.media/) `⊘ Proprietary` - Home media server supporting both DLNA and DIAL (Chromecast) devices out-of-the-box. ([Partial source Code](https://github.com/MediaBrowser/Emby)) `Proprietary with some GPL-2.0` `C#`
   * [Plex](https://plex.tv/) `⊘ Proprietary` - Plex is a centralized home media playback system with a powerful central server.
   * [Subsonic](http://subsonic.org/) - Web-based media streamer and jukebox. ([Demo](http://demo.subsonic.org/login.view?user=guest4&password=guest))
 
@@ -60,7 +61,6 @@
 ## Money, Budgeting and Management
 
   * [Anchor](http://theanchorapp.com/) - Anchor is an invoicing system that integrates with Stripe and Paypal. Includes features such as: reporting, dashboard and no client limit. ([Demo](http://theanchorapp.com/demo/admin-login)) `PHP`
-  * [FusionInvoice](https://www.fusioninvoice.com) `⊘ Proprietary` - FusionInvoice is an invoicing system for freelancers and small businesses. `PHP`
   * [Manager](http://manager.io/server) `⊘ Proprietary` - Online accounting software for small businesses. `Mono`
   * [Pancake](http://pancakeapp.com/) `⊘ Proprietary` - Online invoicing, project management, time tracking and proposal software. `PHP`
 
