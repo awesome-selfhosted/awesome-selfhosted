@@ -53,6 +53,7 @@
 
 ## Media Streaming
 
+  * [Emby](https://emby.media/) `⊘ Proprietary` - Home media server supporting both DLNA and DIAL (Chromecast) devices out-of-the-box. ([Partial source Code](https://github.com/MediaBrowser/Emby)) `Proprietary with some GPL-2.0` `C#`
   * [Plex](https://plex.tv/) `⊘ Proprietary` - Plex is a centralized home media playback system with a powerful central server.
   * [Subsonic](http://subsonic.org/) - Web-based media streamer and jukebox. ([Demo](http://demo.subsonic.org/login.view?user=guest4&password=guest))
 
