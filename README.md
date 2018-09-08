@@ -1274,7 +1274,7 @@ See https://staticsitegenerators.net and https://www.staticgen.com
 
 **[`^        back to top        ^`](#)**
 
-- [Kutt](https://kutt.it) - A modern URL shortener with support for custom domains. ([Source Code](https://github.com/thedevs-network/kutt)) `MIT` `NodeJs`
+- [Kutt](https://kutt.it) - A modern URL shortener with support for custom domains. ([Source Code](https://github.com/thedevs-network/kutt)) `MIT` `Nodejs`
 - [Link-shortener-bot](https://github.com/tommyku/link-shortener-front-end) `⚠` - URL shortener using a Telegram Bot. ([Demo](http://t.me/GiveMeShortLinkBot)) `MIT` `Ruby`
 - [Linkr](https://linkrapp.com) - Beautiful, fast URL shortening. ([Demo](https://demo.linkrapp.com), [Source Code](https://github.com/LINKIWI/linkr)) `MIT` `Python/Nodejs`
 - [Lstu](https://github.com/ldidry/lstu) - _Let's SHorten That Url_ - Lightweight URL shortener. `WTFPL` `Perl`
