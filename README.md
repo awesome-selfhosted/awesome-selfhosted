@@ -1153,7 +1153,9 @@ _See also [Ticketing](#ticketing), [Task management/To-do lists](#task-managemen
 
 ### Bug Trackers
 
-See **[Ticketing](#ticketing)**
+See also **[Ticketing](#ticketing)**
+
+- [Sentry On-Premise](https://github.com/getsentry/onpremise) - A powerful error tracking platform with wide language support and a robust API. ([Source Code](https://github.com/getsentry/sentry)) `BSD-3-Clause` `Python/Django`
 
 ### IDE/Tools
 
