@@ -70,7 +70,7 @@ See [Contributing](.github/CONTRIBUTING.md).
   - [Proxy](#proxy)
   - [Read it Later Lists](#read-it-later-lists)
   - [Resource Planning](#resource-planning)
-    -[Enterprise Resource Planning](#enterprise-resource-planning)
+    - [Enterprise Resource Planning](#enterprise-resource-planning)
   - [Search Engines](#search-engines)
   - [Software Development](#software-development)
     - [Project Management](#project-management)
@@ -1100,7 +1100,7 @@ See https://github.com/n1trux/awesome-sysadmin#metric--metric-collection
 - [Grocy](https://grocy.info/) - grocy is a web-based selfhosted groceries management solution for your home, available in English, German, Italian and Norwegian. ([Demo](https://demo-en.grocy.info/stockoverview), [Source Code](https://github.com/berrnd/grocy)) `MIT` `PHP`
 - [tania](https://github.com/Tanibox/tania/) - PHP based, free, and open source farming management system. `Apache-2.0` `PHP`
 
-_Enterprise Resource Planning_
+### Enterprise Resource Planning
 
 - [ERPNext](https://erpnext.com) - Free open source ERP system. ([Demo](https://demo.erpnext.com), [Source Code](https://github.com/frappe/erpnext)) `GPL-3.0` `Python`
 - [LedgerSMB](https://ledgersmb.org/) - Integrated accounting and ERP system for small and midsize businesses, with double entry accounting, budgeting, invoicing, quotations, projects, orders and inventory management, shipping and more. ([Demo](https://demo.cloud.efficito.com/erp/1.5/login.pl), [Source Code](https://github.com/ledgersmb/LedgerSMB)) `GPL-2.0` `Perl`
