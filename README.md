@@ -38,7 +38,6 @@ See [Contributing](.github/CONTRIBUTING.md).
   - [DNS](#dns)
   - [Document Management](#document-management)
   - [E-books and Integrated Library Systems (ILS)](#e-books-and-integrated-library-systems-ils)
-  - [Enterprise Resource Planning](#enterprise-resource-planning)
   - [Federated Identity/Authentication](#federated-identityauthentication)
   - [Feed Readers](#feed-readers)
   - [File Sharing and Synchronization](#file-sharing-and-synchronization)
@@ -70,6 +69,8 @@ See [Contributing](.github/CONTRIBUTING.md).
   - [Polls and Events](#polls-and-events)
   - [Proxy](#proxy)
   - [Read it Later Lists](#read-it-later-lists)
+  - [Resource Planning](#resource-planning)
+    - [Enterprise Resource Planning](#enterprise-resource-planning)
   - [Search Engines](#search-engines)
   - [Software Development](#software-development)
     - [Project Management](#project-management)
@@ -586,20 +587,6 @@ _Enterprise-class library management software._
 - [Evergreen](https://evergreen-ils.org) - Highly-scalable software for libraries that helps library patrons find library materials, and helps libraries manage, catalog, and circulate those materials. ([Source Code](https://github.com/evergreen-library-system/Evergreen)) `GPL-2.0` `PL/pgSQL`
 - [Koha](https://koha-community.org/) - Enterprise-class ILS with modules for acquisitions, circulation, cataloging, label printing, offline circulation for when Internet access is not available, and much more. ([Demo](https://koha-community.org/demo/), [Source Code](https://github.com/Koha-Community/Koha)) `GPL-3.0` `Perl`
 
-## Enterprise Resource Planning
-
-**[`^        back to top        ^`](#)**
-
-- [ERPNext](https://erpnext.com) - Free open source ERP system. ([Demo](https://demo.erpnext.com), [Source Code](https://github.com/frappe/erpnext)) `GPL-3.0` `Python`
-- [LedgerSMB](https://ledgersmb.org/) - Integrated accounting and ERP system for small and midsize businesses, with double entry accounting, budgeting, invoicing, quotations, projects, orders and inventory management, shipping and more. ([Demo](https://demo.cloud.efficito.com/erp/1.5/login.pl), [Source Code](https://github.com/ledgersmb/LedgerSMB)) `GPL-2.0` `Perl`
-- [Odoo](http://odoo.com) - Free open source ERP system. ([Demo](https://demo.odoo.com/), [Source Code](https://github.com/odoo/odoo)) `LGPL-3.0` `Python`
-- [Tryton](http://www.tryton.org/) - Free open source business solution. ([Demo](http://www.tryton.org/download.html), [Source Code](https://hg.tryton.org/)) `GPL-3.0` `Python`
-
-_Agriculture Resource Planning_
-
-- [farmOS](http://farmos.org/) - Web-based farm record keeping application. ([Source Code](https://github.com/farmOS/farmOS)) `GPL-2.0` `PHP`
-- [tania](https://github.com/Tanibox/tania/) - PHP based, free, and open source farming management system. `Apache-2.0` `PHP`
-
 ## Federated Identity/Authentication
 
 **[`^        back to top        ^`](#)**
@@ -1104,6 +1091,21 @@ See https://github.com/n1trux/awesome-sysadmin#metric--metric-collection
 
 - [Nunux Keeper](http://keeper.nunux.org/) - Your personal content curation service. ([Source Code](https://github.com/ncarlier/nunux-keeper)) `GPL-3.0` `Nodejs`
 - [Wallabag](https://www.wallabag.org) - Wallabag, formerly Poche, is a web application allowing you to save articles to read them later with improved readability. ([Demo](http://demo.wallabag.org/), [Source Code](https://github.com/wallabag/wallabag)) `MIT` `PHP`
+
+## Resource Planning
+
+**[`^        back to top        ^`](#)**
+
+- [farmOS](http://farmos.org/) - Web-based farm record keeping application. ([Source Code](https://github.com/farmOS/farmOS)) `GPL-2.0` `PHP`
+- [Grocy](https://grocy.info/) - grocy is a web-based selfhosted groceries management solution for your home, available in English, German, Italian and Norwegian. ([Demo](https://demo-en.grocy.info/stockoverview), [Source Code](https://github.com/berrnd/grocy)) `MIT` `PHP`
+- [tania](https://github.com/Tanibox/tania/) - PHP based, free, and open source farming management system. `Apache-2.0` `PHP`
+
+### Enterprise Resource Planning
+
+- [ERPNext](https://erpnext.com) - Free open source ERP system. ([Demo](https://demo.erpnext.com), [Source Code](https://github.com/frappe/erpnext)) `GPL-3.0` `Python`
+- [LedgerSMB](https://ledgersmb.org/) - Integrated accounting and ERP system for small and midsize businesses, with double entry accounting, budgeting, invoicing, quotations, projects, orders and inventory management, shipping and more. ([Demo](https://demo.cloud.efficito.com/erp/1.5/login.pl), [Source Code](https://github.com/ledgersmb/LedgerSMB)) `GPL-2.0` `Perl`
+- [Odoo](http://odoo.com) - Free open source ERP system. ([Demo](https://demo.odoo.com/), [Source Code](https://github.com/odoo/odoo)) `LGPL-3.0` `Python`
+- [Tryton](http://www.tryton.org/) - Free open source business solution. ([Demo](http://www.tryton.org/download.html), [Source Code](https://hg.tryton.org/)) `GPL-3.0` `Python`
 
 ## Search Engines
 
