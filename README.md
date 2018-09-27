@@ -958,6 +958,7 @@ See https://github.com/n1trux/awesome-sysadmin#monitoring and https://github.com
 - [Standard Notes](https://standardnotes.org) - Simple and private notes app. Protect your privacy while getting more done. That's Standard Notes. ([Demo](https://app.standardnotes.org/), [Source Code](https://github.com/standardnotes)) `GPL-3.0` `Ruby`
 - [to-markdown](https://domchristie.github.io/to-markdown/) - HTML to Markdown converter written in JavaScript. ([Source Code](https://github.com/domchristie/to-markdown)) `MIT` `JavaScript`
 - [Turtl](https://turtl.it/) - Totally private personal database and note taking app. ([Source Code](https://github.com/turtl)) `GPL-3.0` `CommonLisp`
+- [Joplin](https://joplin.cozic.net/) - An open source note taking and to-do application with synchronisation capabilities. ([Source Code](https://github.com/laurent22/joplin)) `MIT` `JavaScript`
 
 ## Office Suites
 
