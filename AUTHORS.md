@@ -1,8 +1,8 @@
 |Commits | Author |
 | :---: | --- |
-|686|nodiscc <nodiscc@gmail.com>|
-|302|Kickball <ed.kickball@hotmail.com>|
-|180|n8225 <n8225@users.noreply.github.com>|
+|718|nodiscc <nodiscc@gmail.com>|
+|303|Kickball <ed.kickball@hotmail.com>|
+|188|n8225 <n8225@users.noreply.github.com>|
 |122|Andrew Rylatt <arylatt@users.noreply.github.com>|
 |35|Kovah <mail@kovah.de>|
 |31|DJCrashdummy <DJCrashdummy@users.noreply.github.com>|
@@ -18,9 +18,9 @@
 |9|Lance M <mightyfree@users.noreply.github.com>|
 |8|CooperBarrett <anthony.lhuissier@openmailbox.org>|
 |8|Ferdinand Mütsch <mail@ferdinand-muetsch.de>|
+|8|Nick Busey <NickBusey@users.noreply.github.com>|
 |7|Hammy Havoc <hammy@splitanatom.com>|
 |7|Ilian <ugg.rock@gmail.com>|
-|7|Nick Busey <NickBusey@users.noreply.github.com>|
 |7|n1trux <n1trux@users.noreply.github.com>|
 |7|phre4k <me@phre4k.at>|
 |7|édouard u. <mail@edouard.us>|
@@ -42,6 +42,8 @@
 |4|AlessioCasco <cascoalessio@gmail.com>|
 |4|Alexandr Emelin <frvzmb@gmail.com>|
 |4|AndrewCz <smacz42@users.noreply.github.com>|
+|4|Aravindo Wingeier <synox@users.noreply.github.com>|
+|4|Arda Kılıçdağı <ardakilicdagi@gmail.com>|
 |4|Chris McCormick <chris@mccormick.cx>|
 |4|Cody Heimberger <cody.heimberger@printerlogic.com>|
 |4|Colin Pokowitz <colin@cpdev.me>|
@@ -61,6 +63,7 @@
 |4|MK <kohenkatz@gmail.com>|
 |4|Marius Voila <marius.voila@gmail.com>|
 |4|Rodolfo Berrios <inbox@rodolfoberrios.com>|
+|4|Tony <goofballtech@gmail.com>|
 |4|Valmik <mail@valmik.in>|
 |4|bysslord <wxwlegend@gmail.com>|
 |4|dattaz <taz@dattaz.fr>|
@@ -147,8 +150,11 @@
 |2|Greg Slepak <contact@taoeffect.com>|
 |2|Greg V <greg@unrelenting.technology>|
 |2|Henry Ruhs <info@redaxmedia.com>|
+|2|Hilmi Tolga Sahin <htolgasahin@gmail.com>|
 |2|Jake Breindel <j.breindel2@outlook.com>|
+|2|Jan <jaltek@users.noreply.github.com>|
 |2|Jan Soendermann <jan.soendermann+git@gmail.com>|
+|2|Jared Shields <jwshields2006@hotmail.com>|
 |2|Jorge E. Gomez <jorge@jorgee.net>|
 |2|Joseph Dykstra <josephdykstra@gmail.com>|
 |2|Julien Bisconti <veggiemonk@users.noreply.github.com>|
@@ -198,11 +204,14 @@
 |2|Think <iwhiz@users.noreply.github.com>|
 |2|Thomas Citharel <tcit@tcit.fr>|
 |2|Tomer <tomer@campuscruizer.com>|
+|2|Tony Xu <yihan.xu@gmail.com>|
 |2|Vadim Rutkovsky <vrutkovs@redhat.com>|
 |2|Van-Duyet Le <lvduit08@gmail.com>|
+|2|Vladimir Avgustov <vavgustov@gmail.com>|
 |2|Will Bennett <william.11bennett@gmail.com>|
 |2|Yann <forget.yann31@gmail.com>|
 |2|Zeniic <Zeniic@users.noreply.github.com>|
+|2|agetic <agetic@debian>|
 |2|cornerot <cornerot@gmail.com>|
 |2|cron410 <cron410@gmail.com>|
 |2|digiou <digitalbckp@gmail.com>|
@@ -239,13 +248,14 @@
 |1|Andrew Murray <radarhere@gmail.com>|
 |1|Andrew Nesbitt <andrewnez@gmail.com>|
 |1|Andrew Prokhorenkov <andrew.prokhorenkov@gmail.com>|
+|1|Andrew Rabert <ar@nullsum.net>|
 |1|Andrey <andrey200964@yandex.ru>|
 |1|Andrey Kuznetsov <fear@loathing.in>|
 |1|André Rodier <arodier@users.noreply.github.com>|
 |1|Andy Olsen <andrewolsen@mail.adelphi.edu>|
 |1|Angel Velasquez <angvp@archlinux.org>|
+|1|Antoine <anthonyfg9@gmail.com>|
 |1|Anton Troyanov <anton@troyanov.net>|
-|1|Arda Kılıçdağı <ardakilicdagi@gmail.com>|
 |1|Armando Lüscher <armando@noplanman.ch>|
 |1|Arnold Schrijver <aschrijver@users.noreply.github.com>|
 |1|ArthurHoaro <arthur@hoa.ro>|
@@ -285,6 +295,7 @@
 |1|Denis <isdn@users.noreply.github.com>|
 |1|Denis <issden@gmail.com>|
 |1|Diego Molina <diemol@users.noreply.github.com>|
+|1|Dimitri Steinel <d.steinel@de.edenspiekermann.com>|
 |1|Dirk Krause <dirkk0@googlemail.com>|
 |1|Dmitriy Volkov <wldhx+vcs+github_com@wldhx.me>|
 |1|Dmitry Khomutov <poisoncorpsee@gmail.com>|
@@ -346,7 +357,9 @@
 |1|Kukielka <philipp_kutyla@gmx.de>|
 |1|Kyle Farwell <m@kfarwell.org>|
 |1|Kyle Stetz <kylestetz@gmail.com>|
+|1|L1Cafe <L-Cafe-github@tuta.io>|
 |1|LB (Ben Johnston) <mail@lb.ee>|
+|1|Leonard Thomas Wall <github@tenchooo.me>|
 |1|Lescaudron Mathieu <mathieu@lescaudron.com>|
 |1|Liran Tal <liran.tal@gmail.com>|
 |1|Marcin Karpezo <m.karpezo@nencki.gov.pl>|
@@ -373,6 +386,7 @@
 |1|MinorTom <TheMinorTom@users.noreply.github.com>|
 |1|Mitchell R <github@mrincworld.com>|
 |1|Moritz Kröger <write@morkro.de>|
+|1|Murali K G <murali.girikg@gmail.com>|
 |1|Murdoc Bates <trockenasche@gmail.com>|
 |1|NicolasCARPi <nicolas.carpi@curie.fr>|
 |1|Norman Xu <im@norm.im>|
@@ -390,6 +404,7 @@
 |1|Peter van den Hurk <runical1991@gmail.com>|
 |1|Phill <phill@formbet.co.uk>|
 |1|Phonic Mouse <phonicmouse@gmai.com>|
+|1|Pouria Ezzati <ezzati.upt@gmail.com>|
 |1|Prahalad Belavadi <prahaladbelavadi@gmail.com>|
 |1|Rafael Milewski <Milewski@users.noreply.github.com>|
 |1|Remi Rampin <remirampin@gmail.com>|
@@ -417,6 +432,7 @@
 |1|THS-on <THS-on@users.noreply.github.com>|
 |1|Tanner Collin <git@tannercollin.com>|
 |1|The Scorpion <tehscorpion@users.noreply.github.com>|
+|1|Thomas Rohlik <rohlik@3server.cz>|
 |1|Thorsten Rinne <thorsten@phpmyfaq.de>|
 |1|Tim Allingham <tim@timallingham.net>|
 |1|Tobias Diekershoff <tobias.diekershoff@gmx.net>|
@@ -459,6 +475,7 @@
 |1|mrkpl125 <33229813+mrkpl125@users.noreply.github.com>|
 |1|n2i <xuansamdinh.n2i@gmail.com>|
 |1|nodomain <ff@nodomain.cc>|
+|1|norstbox <norstbox@users.noreply.github.com>|
 |1|pastapojken <pastapojken@users.noreply.github.com>|
 |1|pips <pips@e5150.fr>|
 |1|poVoq <wm_jkm@yahoo.com>|
@@ -480,3 +497,4 @@
 |1|xuansamdinh <xuansamdinh.n2i@gmail.com>|
 |1|zotlabs <mike@macgirvin.com>|
 |1|Руслан Корнев <oganer@gmail.com>|
+|1|Joe Ganobsik <39414138+jganobsik@users.noreply.github.com>|
