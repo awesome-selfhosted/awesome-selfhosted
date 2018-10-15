@@ -1104,7 +1104,7 @@ See https://github.com/n1trux/awesome-sysadmin#metric--metric-collection
 
 - [farmOS](http://farmos.org/) - Web-based farm record keeping application. ([Source Code](https://github.com/farmOS/farmOS)) `GPL-2.0` `PHP`
 - [Grocy](https://grocy.info/) - grocy is a web-based selfhosted groceries management solution for your home, available in English, German, Italian and Norwegian. ([Demo](https://demo-en.grocy.info/stockoverview), [Source Code](https://github.com/berrnd/grocy)) `MIT` `PHP`
-- [tania](https://github.com/Tanibox/tania/) - PHP based, free, and open source farming management system. `Apache-2.0` `PHP`
+- [tania](https://github.com/Tanibox/tania-core) - Tania is farm management system to help farmers to manage their farm. `Apache-2.0` `Go`
 
 ### Enterprise Resource Planning
 
