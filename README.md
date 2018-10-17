@@ -982,6 +982,7 @@ See https://github.com/n1trux/awesome-sysadmin#monitoring and https://github.com
 - [Passbolt](https://www.passbolt.com/) - Password manager dedicated for managing passwords in a collaborative way on any Web server, using a MySQL database backend. ([Source Code](https://github.com/passbolt/passbolt_api)) `AGPL-3.0` `PHP`
 - [sysPass](http://www.syspass.org/) - Multiuser password management system. ([Demo](http://demo.syspass.org/), [Source Code](https://github.com/nuxsmin/sysPass)) `GPL-3.0` `PHP`
 - [Teampass](http://teampass.net/) - Password manager dedicated for managing passwords in a collaborative way on any server Apache, MySQL and PHP. ([Source Code](https://github.com/nilsteampassnet/TeamPass/)) `GPL-3.0` `PHP`
+- [KeyCat](https://github.com/keydotcat/server) - End-to-end password manager that allow to share credentials amongst users easily. Currently with webapp. Browser extension and mobile app in the works. Compiled for windows, linux and osx. Docker container available. ([Source Code](https://github.com/keydotcat)) `MIT` `Go`
 
 ## Pastebins
 
