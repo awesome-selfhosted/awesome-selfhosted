@@ -7,12 +7,12 @@
 |35|Kovah <mail@kovah.de>|
 |31|DJCrashdummy <DJCrashdummy@users.noreply.github.com>|
 |23|cave beat <cave@cavebeat.org>|
+|18|Pe46dro <pietro@marangon.me>|
 |17|Thomas Dalichow <info@thomasdalichow.de>|
 |16|Meitar M <meitarm@gmail.com>|
 |14|Miguel Piedrafita <github@miguelpiedrafita.com>|
 |13|jungle-boogie <sean@jungleboogie.me>|
 |12|Alex <alex@maximum.guru>|
-|12|Pe46dro <pietro@marangon.me>|
 |9|Andrew Peng <pengc99@gmail.com>|
 |9|Joubert RedRat <eu+github@redrat.com.br>|
 |9|Lance M <mightyfree@users.noreply.github.com>|
