@@ -16,7 +16,6 @@ See [Contributing](.github/CONTRIBUTING.md).
   - [Automation](#automation)
   - [Blogging Platforms](#blogging-platforms)
   - [Bookmarks and Link Sharing](#bookmarks-and-link-sharing)
-  - [Booking and Scheduling](#booking-and-scheduling)
   - [Calendaring and Contacts Management](#calendaring-and-contacts-management)
   - [Communication systems](#communication-systems)
     - [Custom communication systems](#custom-communication-systems)
@@ -69,6 +68,7 @@ See [Contributing](.github/CONTRIBUTING.md).
   - [Personal Dashboards](#personal-dashboards)
   - [Photo and Video Galleries](#photo-and-video-galleries)
   - [Polls and Events](#polls-and-events)
+    - [Booking and Scheduling](#booking-and-scheduling)
   - [Proxy](#proxy)
   - [Read it Later Lists](#read-it-later-lists)
   - [Resource Planning](#resource-planning)
@@ -207,13 +207,6 @@ See also [Static Site Generators](#static-site-generators), [Content Management 
 - [Solo](http://b3log.org/) - Blogging system written in Java, feel free to create your or your team own blog. ([Demo](http://88250.b3log.org/), [Source Code](https://github.com/b3log/solo)) `Apache-2.0` `Java`
 - [WordPress](https://wordpress.org/) - Create a beautiful website or blog. ([Source Code](https://github.com/WordPress/WordPress)) `GPL-2.0` `PHP`
 
-## Booking and Scheduling
-
-**[`^        back to top        ^`](#)**
-
-- [Alf.io](https://alf.io/) - The open source ticket reservation system. ([Demo](https://demo.alf.io/authentication), [Source Code](https://github.com/alfio-event/alf.io)) `GPL-3.0` `Java`
-- [Booked](https://www.bookedscheduler.com/) - A web-based calendar and resource scheduling system that allows administered management of reservations on any number of resources. ([Demo](https://demo.bookedscheduler.com/Web/), [Source Code](https://sourceforge.net/projects/phpscheduleit/)) `GPL-3.0` `PHP`
-- [Easy!Appointments](http://easyappointments.org/) - A highly customizable web application that allows your customers to book appointments with you via the web. ([Demo](http://easyappointments.org/demo/), [Source Code](https://github.com/alextselegidis/easyappointments)) `GPL-3.0` `PHP`
 
 ## Bookmarks and Link Sharing
 
@@ -1105,6 +1098,12 @@ See https://github.com/n1trux/awesome-sysadmin#metric--metric-collection
 - [Nuages](https://nuages.domainepublic.net/) - Collaborative meeting poll system, similar to doodle or rdvz. ([Source Code](http://git.domainepublic.net/?p=nuages.git;a=tree)) `GPL-3.0` `Python`
 - [PHPBack](http://www.phpback.org) - The open source feedback system. ([Demo](http://www.phpback.org/demo/), [Source Code](https://github.com/ivandiazwm/phpback/)) `GPL-3.0` `PHP`
 - [TellForm](https://tellform.com) - Beautiful online form and survey creator. ([Demo](https://tellform.com/examples), [Source Code](https://github.com/whitef0x0/tellform)) `MIT` `Nodejs`
+
+### Booking and Scheduling
+
+- [Alf.io](https://alf.io/) - The open source ticket reservation system. ([Demo](https://demo.alf.io/authentication), [Source Code](https://github.com/alfio-event/alf.io)) `GPL-3.0` `Java`
+- [Booked](https://www.bookedscheduler.com/) - A web-based calendar and resource scheduling system that allows administered management of reservations on any number of resources. ([Demo](https://demo.bookedscheduler.com/Web/), [Source Code](https://sourceforge.net/projects/phpscheduleit/)) `GPL-3.0` `PHP`
+- [Easy!Appointments](http://easyappointments.org/) - A highly customizable web application that allows your customers to book appointments with you via the web. ([Demo](http://easyappointments.org/demo/), [Source Code](https://github.com/alextselegidis/easyappointments)) `GPL-3.0` `PHP`
 
 ## Proxy
 
