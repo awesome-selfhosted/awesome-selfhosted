@@ -385,6 +385,7 @@
 |1|Martin Malinda <malindacz@gmail.com>|
 |1|Marvin <Groruk@uberdoge.network>|
 |1|MatFluor <MatFluor@users.noreply.github.com>|
+|1|Mats Estensen <matsest@mxe.no>|
 |1|Matt Lee <mattl@users.noreply.github.com>|
 |1|Matteo Piccina <matteo@beiphone.it>|
 |1|Matthew Dews <matthew-dews@users.noreply.github.com>|
