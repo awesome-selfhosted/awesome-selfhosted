@@ -80,7 +80,7 @@
 
 
 ## Proxy
-- [Glype](https://www.glype.com/) `⊘ Proprietary` - Web-based proxy script written in PHP which focuses on features, functionality, and ease of use. Glype helps users to defeat Internet censorship and be anonymous while web browsing. `[Custom license](https://www.glype.com/license.php)` `PHP`
+- [Glype](https://www.glype.com/) `⊘ Proprietary` - [Site is not functinal for long time] Web-based proxy script written in PHP which focuses on features, functionality, and ease of use. Glype helps users to defeat Internet censorship and be anonymous while web browsing. `[Custom license](https://www.glype.com/license.php)` `PHP`
   
   
 ## Self-hosting Solutions
