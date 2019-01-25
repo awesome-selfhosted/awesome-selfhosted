@@ -742,7 +742,7 @@ _Command-line file upload_
 - [filebrowser](https://filebrowser.github.io/) - Web File Manager which can be used as a middleware or standalone app. ([Source Code](https://github.com/filebrowser/filebrowser)) `Apache-2.0` `Go/VueJS`
 - [goBrowser](https://github.com/xataz/gobrowser) - Simple http file browser. ([Source Code](https://github.com/xataz/gobrowser)) `GPL-3.0` `Go`
 - [h5ai](https://larsjung.de/h5ai/) - Modern file indexer for HTTP web servers with focus on your files. Directories are displayed in a appealing way and browsing them is enhanced by different views, a breadcrumb and a tree overview. ([Demo](https://larsjung.de/h5ai/demo/), [Source Code](https://github.com/lrsjng/h5ai)) `MIT` `PHP`
-- [http.server](https://docs.python.org/3/library/http.server.html) - Basic HTTP server built-in in Python. `PSFL` `Python`
+- [http.server](https://docs.python.org/3/library/http.server.html) - Basic HTTP server built-in in Python. `Other` `Python`
 - [IFM](https://github.com/misterunknown/ifm/) - Single script file manager. `MIT` `PHP`
 - [ResourceSpace](https://www.resourcespace.com) - ResourceSpace open source digital asset management software is the simple, fast, and free way to organise your digital assets. ([Demo](https://www.resourcespace.com/trial), [Source Code](https://www.resourcespace.com/svn)) `Other` `PHP`
 - [Sprut.io](https://sprut.io) - 2 panel file manager with drag and drop features, code editor, text search, hotkeys. ([Demo](https://demo.sprut.io:9443), [Source Code](https://github.com/LTD-Beget/sprutio)) `GPL-3.0` `Python`
