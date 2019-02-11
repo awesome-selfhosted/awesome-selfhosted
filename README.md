@@ -79,7 +79,7 @@ See [Contributing](.github/CONTRIBUTING.md).
     - [Bug Trackers](#bug-trackers)
     - [IDE/Tools](#idetools)
     - [Continuous Integration](#continuous-integration)
-    - [FaaS/Serverless](#faas-serverless)
+    - [FaaS/Serverless](#faasserverless)
     - [API Management](#api-management)
     - [Documentation Generators](#documentation-generators)
     - [Localization](#localization)
