@@ -108,6 +108,7 @@ For personal analytics/dashboards, see [Personal Dashboards](https://github.com/
 _Web Analytics_
 
 - [AWStats](http://www.awstats.org/) - Generates web, streaming, ftp or mail server statistics graphically. ([Source Code](https://github.com/eldy/awstats)) `GPL-3.0` `Perl`
+- [ClickHouse](https://clickhouse.yandex) - Fast real-time column-oriented analytics database. ([Source Code](https://github.com/yandex/ClickHouse)) `Apache License 2.0` `C++`
 - [Countly](https://count.ly) - Real time mobile and web analytics, crash reporting and push notifications platform. ([Source Code](https://github.com/countly)) `AGPL-3.0` `Javascript`
 - [Druid](http://druid.io/) - Distributed, column-oriented, real-time analytics data store. ([Source Code](https://github.com/druid-io/druid/)) `Apache-2.0` `Java`
 - [Fathom Analytics](https://usefathom.com) - Simple & trustworthy website analytics. ([Source Code](https://github.com/usefathom/fathom)) `MIT` `Go`
