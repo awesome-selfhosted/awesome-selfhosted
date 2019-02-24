@@ -3,7 +3,7 @@
 **Software listed here does not allow you to run it for any purpose, study, modify or distribute the source code.** Some of the software here may not be audited due to its closed source nature, and can therefore contain anti-features, such as but not limited to: undisclosed security vulnerabilties, backdoors, user lock-in, sending personal data to a third party.
 
 ## Analytics
-
+- [Fathom Analytics](https://usefathom.com) `⊘ Proprietary` - Fathom Analytics provides simple, useful websites stats without tracking or storing personal data of your users. ([Demo](https://stats.usefathom.com/))
 - [UXLens](https://uxlens.com/) `⊘ Proprietary` - UXLens is a website visitor recording software meant for identifying UI issues and fix them to improve user experience. Formerly known as SessionRecord ([Demo](https://console.uxlens.com/test)) `Docker Nodejs`
 
 
