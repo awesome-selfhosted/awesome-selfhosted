@@ -1068,7 +1068,7 @@ See https://github.com/n1trux/awesome-sysadmin#monitoring and https://github.com
 
 **[`^        back to top        ^`](#)**
 
-See https://github.com/n1trux/awesome-sysadmin#metric--metric-collection
+See also [awesome-sysadmin#metric--metric-collection](https://github.com/n1trux/awesome-sysadmin#metric--metric-collection), [awesome-sysadmin#status-pages](https://github.com/n1trux/awesome-sysadmin#status-pages)
 
 - [Baby Buddy](https://github.com/cdubz/babybuddy) - Helps caregivers track baby sleep, feedings, diaper changes, and tummy time. ([Demo](https://babybuddy.herokuapp.com/)) `BSD-2-Clause` `Python`
 - [Dj Diabetes](https://github.com/foxmask/dj-diabetes) - My Glucose Manager - follow your daily health. `BSD-3-Clause` `Python`
