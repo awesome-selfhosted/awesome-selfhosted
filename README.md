@@ -1033,6 +1033,7 @@ See https://github.com/n1trux/awesome-sysadmin#monitoring and https://github.com
 
 - [0bin](https://github.com/sametmax/0bin) - Client side encrypted pastebin. `WTFPL` `Python`
 - [bepasty](https://bepasty-server.readthedocs.io/en/latest/) - A pastebin for all kinds of files. ([Source Code](https://github.com/bepasty/bepasty-server)) `BSD-2-Clause` `Python`
+- [bin](https://github.com/w4/bin) - a paste bin. ([Demo](https://bin.doyle.la)) `WTFPL/0BSD` `Rust`
 - [CoderVault](https://github.com/codervault) - Open source, self-hosted, snippet manager. ([Source Code](https://github.com/codervault/codervault)) `MIT` `Ruby`
 - [cryptonote](https://cryptonote.me/) - Simple open source web application that lets users encrypt and share messages that can only be read once. ([Source Code](https://github.com/alainmeier/cryptonote)) `MIT` `Ruby`
 - [EdPaste](https://github.com/Edraens/EdPaste) - Self-hosted pastebin written in Laravel (PHP Framework). ([Demo](https://paste.edra.ovh/)) `MIT` `PHP`
@@ -1416,6 +1417,7 @@ See also [Documentation Generators](#documentation-generators), [Wikimatrix](htt
 **[`^        back to top        ^`](#)**
 
 - `⚠ ` - Depends on a third party network service
+- `0BSD` - [BSD Zero-Clause Licence](https://opensource.org/licenses/0BSD)
 - `AAL` - [Attribution Assurance License](https://opensource.org/licenses/AAL)
 - `AGPL-3.0` - [GNU Affero General Public License 3.0](https://www.gnu.org/licenses/agpl-3.0)
 - `AGPL-3.0-only` - [GNU Affero General Public License 3.0 only](https://spdx.org/licenses/AGPL-3.0-only.html)
