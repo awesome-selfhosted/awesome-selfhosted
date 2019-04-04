@@ -69,6 +69,7 @@ See [Contributing](.github/CONTRIBUTING.md).
   - [Polls and Events](#polls-and-events)
     - [Booking and Scheduling](#booking-and-scheduling)
   - [Proxy](#proxy)
+  - [Public Key Infrastructure (PKI)](#public-key-infrastructure-pki)
   - [Read it Later Lists](#read-it-later-lists)
   - [Resource Planning](#resource-planning)
     - [Enterprise Resource Planning](#enterprise-resource-planning)
@@ -1138,6 +1139,12 @@ See also [awesome-sysadmin#metric--metric-collection](https://github.com/n1trux/
 - [Swiperproxy](https://swiperproxy.github.io/) - Lightning-fast, open source web proxy that is easy for you to run and customize. ([Source Code](https://github.com/swiperproxy/swiperproxy)) `MIT` `Python`
 - [Tinyproxy](https://banu.com/tinyproxy/) - Light-weight HTTP/HTTPS proxy daemon. ([Source Code](https://github.com/tinyproxy/tinyproxy)) `GPL-2.0` `C`
 - [Traefik](https://traefik.io/) - Træfɪk is a modern HTTP reverse proxy and load balancer made to deploy microservices with ease. It supports several backends (Docker, Swarm, Mesos/Marathon, …) to manage its configuration automatically and dynamically. ([Source Code](https://github.com/containous/traefik)) `MIT` `Go`
+
+## Public Key Infrastructure (PKI)
+
+**[`^        back to top        ^`](#)**
+
+- [Simple PKI](https://github.com/kaysond/spki) - a bash script wrapper for OpenSSL that generates and manages a simple PKI suitable for small deployments, supporting CRL's and OCSP. ([Demo](https://asciinema.org/a/238438)) `GPL-3.0` `bash`
 
 ## Read it Later Lists
 
