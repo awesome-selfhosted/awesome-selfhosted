@@ -4,7 +4,7 @@ node_js:
   - "node"
 
 before_install:
-  - rvm install 2.2
+  - rvm install 2.6.2
   - gem install awesome_bot
   - gem install danger
 
