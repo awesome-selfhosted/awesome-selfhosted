@@ -14,7 +14,7 @@ script:
   - git diff master.. --unified=0 README.md | grep --perl-regexp --only-matching --silent "(?<=^\+).*" >> temp.md || (exit 0)
   - node tests/test.js temp.md
   - awesome_bot temp.md --allow-redirect || (exit 0)
-  - danger --dangerfile tests/Dangerfile --verbose
+  - danger --dangerfile=tests/Dangerfile --verbose
 
 notifications:
   email: false
