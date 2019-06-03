@@ -9,12 +9,12 @@ before_install:
   - gem install danger
 
 before_script:
-  
+
 script:
   - git diff master.. --unified=0 README.md | grep --perl-regexp --only-matching --silent "(?<=^\+).*" >> temp.md || (exit 0)
-  - node test.js temp.md
+  - node tests/test.js temp.md
   - awesome_bot temp.md --allow-redirect || (exit 0)
-  - danger --verbose
+  - danger --dangerfile=tests/Dangerfile --verbose
 
 notifications:
   email: false
