@@ -25,8 +25,16 @@ syntaxerrors:
 	@echo -e "\nSyntax errors:" 
 	@! sed -n -e '/BEGIN SOFTWARE LIST/,/END SOFTWARE LIST/ p' README.md | egrep  '\)\(|``|\)`'
 
+#################################
+
 contrib:
 	@mv .github/.mailmap . && printf "|Commits | Author |\n| :---: | --- |\n" > AUTHORS.md && git shortlog -sne | sed -r 's/^\s*([[:digit:]]*?)\s*?(.*?)/|\1|\2|/' >> AUTHORS.md && mv .mailmap .github/.mailmap
+
+check_github_commit_dates:
+	python3 tests/check-github-commit-dates.py
+
+#################################
+
 
 add:
 	@#add a new entry
