@@ -4,7 +4,7 @@ all: checks
 
 checks: nolicenselanguage nofullstop longdescriptions syntaxerrors
 
-monthly: checks check_github_commit_dates contrib
+monthly: checks awesome_bot check_github_commit_dates contrib
 
 noexternallink:
 	@echo -e "\nLines with no source/demo/other link:"
@@ -31,6 +31,10 @@ syntaxerrors:
 
 contrib:
 	@mv .github/.mailmap . && printf "|Commits | Author |\n| :---: | --- |\n" > AUTHORS.md && git shortlog -sne | sed -r 's/^\s*([[:digit:]]*?)\s*?(.*?)/|\1|\2|/' >> AUTHORS.md && mv .mailmap .github/.mailmap
+
+awesome_bot:
+	# https://github.com/dkhamsing/awesome_bot
+	awesome_bot --allow-redirect -f README.md
 
 check_github_commit_dates:
 	python3 tests/check-github-commit-dates.py
