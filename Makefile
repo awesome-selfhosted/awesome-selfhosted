@@ -4,6 +4,8 @@ all: checks
 
 checks: nolicenselanguage nofullstop longdescriptions syntaxerrors
 
+monthly: checks check_github_commit_dates contrib
+
 noexternallink:
 	@echo -e "\nLines with no source/demo/other link:"
 	@sed -n -e '/BEGIN SOFTWARE LIST/,/END SOFTWARE LIST/ p' README.md | egrep '^ *\* ' | egrep --color=always '[a-z\.] `'
