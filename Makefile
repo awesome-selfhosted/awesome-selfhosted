@@ -21,10 +21,6 @@ longdescriptions:
 	@echo -e "\nDescriptions exceeding 250 chars:"
 	@! sed -n -e '/BEGIN SOFTWARE LIST/,/END SOFTWARE LIST/ p' README.md | egrep --only-matching '\) - [Aa-Zz|.|\(|\)|/| |,|-]*\s\(\[' README.md | grep  '.\{257\}'
 
-listlicenses:
-	@echo -e "\nList of licenses:"
-	@sed -n -e '/BEGIN SOFTWARE LIST/,/END SOFTWARE LIST/ p' README.md | egrep --only-matching '([Aa0-Zz9]|\s|\.|-)*` `' README.md | sort --unique
-
 syntaxerrors:
 	@echo -e "\nSyntax errors:" 
 	@! sed -n -e '/BEGIN SOFTWARE LIST/,/END SOFTWARE LIST/ p' README.md | egrep  '\)\(|``|\)`'
