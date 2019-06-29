@@ -4,6 +4,8 @@ all: checks
 
 checks: nolicenselanguage nofullstop longdescriptions syntaxerrors
 
+monthly: checks awesome_bot check_github_commit_dates contrib
+
 noexternallink:
 	@echo -e "\nLines with no source/demo/other link:"
 	@sed -n -e '/BEGIN SOFTWARE LIST/,/END SOFTWARE LIST/ p' README.md | egrep '^ *\* ' | egrep --color=always '[a-z\.] `'
@@ -21,16 +23,24 @@ longdescriptions:
 	@echo -e "\nDescriptions exceeding 250 chars:"
 	@! sed -n -e '/BEGIN SOFTWARE LIST/,/END SOFTWARE LIST/ p' README.md | egrep --only-matching '\) - [Aa-Zz|.|\(|\)|/| |,|-]*\s\(\[' README.md | grep  '.\{257\}'
 
-listlicenses:
-	@echo -e "\nList of licenses:"
-	@sed -n -e '/BEGIN SOFTWARE LIST/,/END SOFTWARE LIST/ p' README.md | egrep --only-matching '([Aa0-Zz9]|\s|\.|-)*` `' README.md | sort --unique
-
 syntaxerrors:
 	@echo -e "\nSyntax errors:" 
 	@! sed -n -e '/BEGIN SOFTWARE LIST/,/END SOFTWARE LIST/ p' README.md | egrep  '\)\(|``|\)`'
 
+#################################
+
 contrib:
 	@mv .github/.mailmap . && printf "|Commits | Author |\n| :---: | --- |\n" > AUTHORS.md && git shortlog -sne | sed -r 's/^\s*([[:digit:]]*?)\s*?(.*?)/|\1|\2|/' >> AUTHORS.md && mv .mailmap .github/.mailmap
+
+awesome_bot:
+	# https://github.com/dkhamsing/awesome_bot
+	awesome_bot --allow-redirect -f README.md
+
+check_github_commit_dates:
+	python3 tests/check-github-commit-dates.py
+
+#################################
+
 
 add:
 	@#add a new entry
