@@ -51,6 +51,7 @@ See [Contributing](.github/CONTRIBUTING.md).
   - [Groupware](#groupware)
   - [Human Resources Management (HRM)](#human-resources-management-hrm)
   - [Internet of Things (IoT)](#internet-of-things-iot)
+  - [Knowledge Management Tools](#knowledge-management-tools)
   - [Learning and Courses](#learning-and-courses)
   - [Maps and Global Positioning System (GPS)](#maps-and-global-positioning-system-gps)
   - [Media Streaming](#media-streaming)
@@ -800,11 +801,20 @@ _Command-line file upload_
 
 ## Internet Of Things (IoT)
 
+**[`^        back to top        ^`](#)**
+
 - [DeviceHive](https://www.devicehive.com/) - Open Source IoT Plaform with a wide range of integration options. ([Demo](https://playground.devicehive.com/), [Source Code](https://github.com/devicehive/devicehive-java-server)) `Apache-2.0` `Java`
 - [Domoticz](https://www.domoticz.com/) - Home Automation System that lets you monitor and configure various devices like: Lights, Switches, various sensors/meters like Temperature, Rain, Wind, UV, Electra, Gas, Water and much more. ([Source Code](https://github.com/domoticz/domoticz), [Clients](https://github.com/domoticz/domoticz-android)) `GPL-3.0` `C/C++`
 - [Thingsboard](https://thingsboard.io/) - Open-source IoT Platform - Device management, data collection, processing and visualization. ([Demo](https://demo.thingsboard.io/signup), [Source Code](https://github.com/thingsboard/thingsboard)) `Apache-2.0` `Java`
 - [Thingspeak](https://thingspeak.com/) - Open source “Internet of Things” application and API to store and retrieve data from things using HTTP. ([Demo](https://thingspeak.com/channels/public), [Source Code](https://github.com/iobridge/thingspeak)) `GPL-3.0` `Ruby`
 
+## Knowledge Management Tools
+
+**[`^        back to top        ^`](#)**
+
+- [Mindmaps](https://github.com/drichard/mindmaps) - Open source, offline capable, mind mapping application. ([Demo](http://drichard.org/mindmaps/)) `AGPL-3.0` `HTML5`
+- [My Mind](https://github.com/ondras/my-mind) - Web application for creating and managing mind maps. ([Demo](https://my-mind.github.io/?url=examples%2Ffeatures.mymind)) `MIT` `Javascript`
+- [TagTool](https://letstag.it) - Collaborative knowledge management tool. Create word clouds and link the elements. ([Demo](https://demo.letstag.it), [Source Code](https://gitlab.com/tagtool/tagtool)) `MIT` `Python`
 
 ## Learning and Courses
 
@@ -923,10 +933,8 @@ See also <https://en.wikipedia.org/wiki/List_of_streaming_media_systems>, <https
 - [Kimai](http://www.kimai.org/) - Simple time and project tracking. ([Demo](http://www.kimai.org/demo/), [Source Code](https://github.com/kimai/kimai)) `GPL-3.0` `PHP`
 - [King Phisher](https://github.com/securestate/king-phisher) - King Phisher is a tool for testing and promoting user awareness by simulating real world phishing attacks. `BSD-3-Clause` `Python`
 - [Maily Form](https://github.com/jlelse/Maily-Form) - Self-hosted service you can use to place forms on static sites. It uses nodemailer and you can host it with Docker. `GPL-3.0` `Nodejs/Docker`
-- [Mindmaps](https://github.com/drichard/mindmaps) - Open source, offline capable, mind mapping application. ([Demo](http://drichard.org/mindmaps/)) `AGPL-3.0` `HTML5`
 - [Monica](https://monicahq.com/) - Personal relationship manager, and a new kind of CRM to organize interactions with your friends and family. ([Source Code](https://github.com/monicahq/monica)) `AGPL-3.0` `PHP`
 - [Musical Artifacts](https://musical-artifacts.com/) - Helping to catalog, preserve and free the artifacts you need to produce music. ([Source Code](https://github.com/lfzawacki/musical-artifacts)) `MIT` `Ruby`
-- [My Mind](https://github.com/ondras/my-mind) - Web application for creating and managing mind maps. ([Demo](https://my-mind.github.io/?url=examples%2Ffeatures.mymind)) `MIT` `Javascript`
 - [nnmm](https://nnmm.nl/) - Super tiny pastebin/url minifier "microservice". ([Source Code](https://github.com/Mechazawa/nnmm)) `Beerware` `PHP`
 - [Notica](https://notica.us) - Lets you send browser notifications from your terminal to your desktop or phone. No installation or registration is required. ([Source Code](https://github.com/tannercollin/Notica)) `MIT` `Nodejs`
 - [Ombi](https://ombi.io/) - A content request system for Plex/Emby, connects to SickRage, CouchPotato, Sonarr, with a growing feature set. ([Demo](https://demo.ombi.io/), [Source Code](https://github.com/tidusjar/Ombi)) `GPL-2.0` `C#`
