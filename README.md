@@ -593,7 +593,7 @@ See https://github.com/n1trux/awesome-sysadmin#dns
 - [EdPaper](https://github.com/Edraens/EdPaper) - PDF organizer with users management. `MIT` `PHP`
 - [Mayan EDMS](http://www.mayan-edms.com) - Free Open Source Electronic Document Management System. An electronic vault for your documents with preview generation, OCR, and automatic categorization among other features. ([Source Code](https://gitlab.com/mayan-edms/mayan-edms)) `Apache-2.0` `Python`
 - [Paperless](https://github.com/danielquinn/paperless) - Scan, index, and archive all of your paper documents. `GPL-3.0` `Python`
-
+- [Teedy (ex SismicsDocs)](https://github.com/sismics/docs) - Responsive UI, OCR, supports Images/Videos/PDF/ODT/DOCX/PPTX and full text search, workflow and tagging system, 256-bit AES encryption, file versioning, import from mail, automatic inbox scanning/(bulk) importing, user/group ACL, 2FA, comments, storage quotas, document sharing via URL, REST API, webhooks, self-compileable android client. `GPL-2.0` `Java(Script)`
 
 ## E-books and Integrated Library Systems (ILS)
 
