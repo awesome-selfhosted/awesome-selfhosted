@@ -1086,7 +1086,7 @@ See also _[Monitoring](#monitoring)_
 - [Heimdall](https://heimdall.site/) - Heimdall is an elegant solution to organise all your web applications. ([Source Code](https://github.com/linuxserver/Heimdall)) `MIT` `PHP`
 - [Homepage](https://github.com/tomershvueli/homepage) - Simple, standalone, self-hosted PHP page that is your window to your server and the web. `MIT` `PHP`
 - [iDashboard-PHP](https://github.com/causefx/iDashboard-PHP) - HTPC Dashboard to load website services. `MIT` `PHP`
-- [My Dash](https://github.com/krestaino/my-dash) - A developer friendly dashboard for  monitoring your self-hosted services with a clean and modern UI. ([Source Code](https://github.com/krestaino/my-dash)) `MIT` `JavaScript`
+- [My Dash](https://github.com/krestaino/my-dash) - A developer friendly dashboard for  monitoring your self-hosted services with a clean and modern UI. `MIT` `JavaScript`
 - [Organizr](https://github.com/causefx/Organizr) - Organizr aims to be your one stop shop for your Servers Frontend. `GPL-3.0` `PHP`
 - [simple-dash](https://github.com/Swagielka/simple-dash) - A simple, fully responsive Dashboard to forward to the services of your choice. ([Demo](https://swagielka.github.io/simple-dash/)) `MIT` `Javascript`
 - [Tipboard](http://allegro.tech/tipboard/) - In-house, tasty, local dashboarding system. ([Source Code](https://github.com/allegro/tipboard)) `Apache-2.0` `Python`
