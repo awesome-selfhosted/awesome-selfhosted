@@ -956,6 +956,7 @@ See also <https://en.wikipedia.org/wiki/List_of_streaming_media_systems>, <https
 - [visualCaptcha](http://visualcaptcha.net/) - Configurable captcha solution, focusing on accessibility and simplicity whilst maintaining security. ([Demo](http://demo.visualcaptcha.net/), [Source Code](https://github.com/emotionLoop/visualCaptcha)) `MIT` `PHP/Nodejs/Ruby/Python`
 - [Web fonts repository](https://github.com/Finesse/web-fonts-repository) - A simple webfont hosting. Google Fonts alternative for your own fonts. `MIT` `PHP`
 - [webtrees](https://www.webtrees.net) - Webtrees is the web's leading on-line collaborative genealogy application. ([Demo](https://dev.webtrees.net/demo-stable/index.php?ctype=gedcom&ged=demo), [Source Code](https://github.com/fisharebest/webtrees)) `GPL-3.0` `PHP`
+- [RconCli](https://github.com/gorcon/rcon-cli) - CLI for executing queries on a remote server with Source RCON Protocol. `MIT` `Go`
 
 ## Money, Budgeting and Management
 
