@@ -1,23 +1,10 @@
-language: node_js
+language: ruby
 
-node_js:
-  - "node"
-  
-env:
-  global:
-    - secure: "PyOX7l+atMbQ5VoaPMM3VIdUfwioFnjZcwpBJOGPAOhpxwnRwVd/5mrPbnjC5F/GnSSEmZL2hFcxDBlVX4XTRMDXjrhkdiHHr8sXHVJ+JmTYCxHfr4HSICuLcqtopl0RtNRcbk6arIZqd0jij6pJQDgZ3Jt5er6GNZTBluUUEmdvtjoGtex3PJ1ZoE46bf7l+PhyUHT2yqUg8XrJbAr9DwerT4YMZzxjfFMlJV/A5RbtpXGty5s1RmD+xhEaj8kqVu+ln5t7A8anHaw/BX+Txm/1B2EEgWx2IiZ2JcZsM1jM5irrsQH/gX/x133mx5ta1P/06d5iD9GD/vJTrPZz+d0UGUlxNadXtaPHWUUvxKtaTLB6vHk8Kzs1Be/e0DL7KbO5pjw4KOWgnUPntLYM+btk3Q5IHC0G8z5H/W0PW2SoqpL99PNbSqcLUkK6kcJBrnCZKfoQHwgB5Oe9X0go/L3RD0Qu7w4jPBJFZI7139wvhs4jz5Vh7Au61fHNMOvNstZsyDvE5hraz2bbzIJqyVV8EJqFe6G5kSOiMbm6gtq/emtBVY+De68w2PUNyMBXJ0LpBunyi8NmLy8UzaXIAzk6Ko/mldVx4qkspP++cmIh79hitETEwG9mwqcK27hst/BfQ64jHPCyLZTA6Zm1l60/jDTbb+NEoKY9sLeJ7M0="
 before_install:
-  - rvm install 2.6.2
   - gem install awesome_bot
-  - gem install danger
-
-before_script:
 
 script:
-  - git diff master.. --unified=0 README.md | grep --perl-regexp --only-matching --silent "(?<=^\+).*" >> temp.md || (exit 0)
-  - node tests/test.js temp.md
-  - awesome_bot temp.md --allow-redirect || (exit 0)
-  - danger --dangerfile=tests/Dangerfile --verbose
+  - make monthly
 
 notifications:
   email: false
