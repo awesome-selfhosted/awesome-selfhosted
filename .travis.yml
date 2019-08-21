@@ -10,7 +10,7 @@ before_install:
 before_script:
 
 script:
-  - 'if [ "$TRAVIS_PULL_REQUEST" != "false" ]; then git diff origin/master -U0 README.md | grep -Pos "(?<=^\+).*" >> temp.md && if [ -f temp.md ]; then node tests/test.js temp.md; else (exit 0); fi else node tests/test.js temp.md; fi'
+  - 'if [ "$TRAVIS_PULL_REQUEST" != "false" ]; then git diff origin/master -U0 README.md | grep -Pos "(?<=^\+).*" >> temp.md && if [ -f temp.md ; then node tests/test.js temp.md; else (exit 0); fi else node tests/test.js temp.md; fi'
   - 'if [ "$TRAVIS_PULL_REQUEST" != "false" ]; then if [ -f temp.md ]; then awesome_bot temp.md --allow-redirect --skip-save-results; else (exit 0); fi else awesome_bot README.md --allow-redirect --skip-save-results; fi'
 
 notifications:
