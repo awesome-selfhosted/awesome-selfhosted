@@ -11,7 +11,6 @@ before_script:
 
 script:
   - 'if [ "$TRAVIS_PULL_REQUEST" != "false" ]; then git diff origin/master -U0 README.md | grep -Pos "(?<=^\+).*" >> temp.md; fi || (exit 0)'
-  - 'node tests/test.js temp.md'
   - 'if [ "$TRAVIS_PULL_REQUEST" != "false" ]; then node tests/test.js temp.md; else node tests/test.js README.md; fi'
   - 'if [ "$TRAVIS_PULL_REQUEST" != "false" ]; then if [ -f temp.md ]; then awesome_bot temp.md --allow-redirect --skip-save-results; else (exit 0); fi else awesome_bot README.md --allow-redirect --skip-save-results; fi'
 
