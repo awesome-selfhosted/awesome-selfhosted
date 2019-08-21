@@ -52,6 +52,10 @@ function entryErrorCheck(md) {
   let totalPass = 0;
   let total = 0;
   const entryArray = [];
+  if (entries[0] === "") {
+    console.log("0 Entries")
+    process.exit(0)
+  }
   for (let i = 0, len = entries.length; i < len; i += 1) { // Loop to create array of objects
     entryArray[i] = new Object;
     entryArray[i].raw = entries[i];
