@@ -906,6 +906,7 @@ See also <https://en.wikipedia.org/wiki/List_of_streaming_media_systems>, <https
 - [ReadyMedia](http://sourceforge.net/projects/minidlna/) - Simple media server software, with the aim of being fully compliant with DLNA/UPnP-AV clients. Formerly known as MiniDLNA. ([Source Code](https://sourceforge.net/p/minidlna/git/ci/master/tree/)) `GPL-2.0` `C`
 - [Rygel](https://wiki.gnome.org/action/show/Projects/Rygel) - Rygel is a UPnP AV MediaServer that allows you to easily share audio, video, and pictures. Media player software may use Rygel to become a MediaRenderer that may be controlled remotely by a UPnP or DLNA Controller. ([Source Code](https://gitlab.gnome.org/GNOME/rygel/)) `GPL-3.0` `C`
 - [üWave](http://u-wave.net/) `⚠` - üWave is a self-hosted collaborative listening platform. Users take turns playing media—songs, talks, gameplay videos, or anything else—from a variety of media sources like YouTube and SoundCloud. ([Demo](https://wlk.yt/), [Source Code](https://github.com/u-wave)) `MIT` `Nodejs`
+- [PimpMyStremio](https://github.com/sungshon/PimpMyStremio) - PimpMyStremio is a self-hosted add-on manager for Stremio. It was created by the community to have an environment of building, updating and using local add-ons for Stremio. The end result being tens of more add-ons and countless more streams that would not normally be available. ([Source Code](https://github.com/sungshon/PimpMyStremio)) `MIT` `Nodejs`
 
 
 ### Audio Streaming
