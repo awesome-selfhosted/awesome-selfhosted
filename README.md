@@ -144,7 +144,7 @@ Some [Content Management System](#content-management-systems-cms) solutions also
 - [ArchiveBox](https://archivebox.io/) - Self-hosted "wayback machine" that creates HTML & screenshot archives of sites from your bookmarks, browsing history, RSS feeds, or other sources. ([Demo](https://archive.sweeting.me), [Source Code](https://github.com/pirate/bookmark-archiver)) `MIT` `Python`
 - [ArchivesSpace](https://archivesspace.org/) - Archives information management application for managing and providing Web access to archives, manuscripts and digital objects. ([Demo](https://archivesspace.org/application/demo/), [Source Code](https://github.com/archivesspace/archivesspace)) `ECL-2.0` `Ruby`
 - [Collective Access: Providence](http://collectiveaccess.org/) - Highly configurable Web-based framework for management, description, and discovery of digital and physical collections supporting a variety of metadata standards, data types, and media formats. ([Source Code](https://github.com/collectiveaccess/providence)) `GPL-3.0-only` `PHP`
-- [Tiny Tiny RSS](https://tt-rss.org/) - Tiny Tiny RSS is a free and open source web-based news feed (RSS/Atom) reader and aggregator. A docker image could be found at [docker-ttrss](https://github.com/aheil/docker-ttrss).
+- [Tiny Tiny RSS](https://tt-rss.org/) - Tiny Tiny RSS is a free and open source web-based news feed (RSS/Atom) reader and aggregator. A docker image could be found at [docker-ttrss](https://github.com/aheil/docker-ttrss). `GNU GPLv3` `PHP`
 ## Automation
 
 **[`^        back to top        ^`](#)**
