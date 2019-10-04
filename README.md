@@ -1551,11 +1551,11 @@ See also [Documentation Generators](#documentation-generators), [Wikimatrix](htt
 
 ## Contributing
 
-Contributing guidelines can be found [here](.github/CONTRIBUTING.md).
+Contributing guidelines can be found in [.github/CONTRIBUTING.md](.github/CONTRIBUTING.md).
 
 ## Authors
 
-The list of authors can be found [here](AUTHORS.md).
+The list of authors can be found in [AUTHORS.md](AUTHORS.md).
 
 ## License
 
