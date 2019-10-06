@@ -1020,6 +1020,7 @@ See also https://github.com/n1trux/awesome-sysadmin#it-asset-management
 - [PartKeepr](https://www.partkeepr.org) - PartKeepr is an electronic part inventory management software. It helps you to keep track of your available parts and assist you with re-ordering parts. ([Demo](https://demo.partkeepr.org/), [Source Code](https://github.com/partkeepr/PartKeepr)) `GPL-3.0` `PHP`
 - [SilverStrike](https://silverstrike.org/) - Personal finance management made easy. ([Demo](https://demo.silverstrike.org/), [Source Code](https://github.com/agstrike/silverstrike)) `MIT` `Python/Django`
 - [StockazNG](https://dev.sigpipe.me/dashie/StockazNG) - Asset Management System. `MIT` `Python`
+- [ERPNext](https://github.com/frappe/erpnext) - Open Source ERP built for the web. `GPL-3.0` `Python`
 
 ## Monitoring
 
