@@ -1,6 +1,6 @@
 # Awesome Selfhosted - Proprietary Software
 
-**Software listed here does not allow you to run it for any purpose, study, modify or distribute the source code.** Some of the software here may not be audited due to its closed source nature, and can therefore contain anti-features, such as but not limited to: undisclosed security vulnerabilties, backdoors, user lock-in, sending personal data to a third party.
+**Software listed here does not allow you to run it for any purpose, study, modify or distribute the source code.** Some of the software here may not be audited due to its closed source nature, and can therefore contain anti-features, such as but not limited to: undisclosed security vulnerabilities, backdoors, user lock-in, sending personal data to a third party.
 
 ## Analytics
 
@@ -83,7 +83,7 @@
 - [Axigen](https://www.axigen.com/mail-server/free/) `⊘ Proprietary` -  Great alternative to open source. It's a turnkey messaging solution, perfect for small & micro businesses, integration projects or test environments.
 - [Cloudron](https://cloudron.io) `⊘ Proprietary` - Open-core software allowing you to effortlessly self-host web apps on your server. ([Source Code](https://git.cloudron.io/groups/cloudron)) `Nodejs/Docker`
 - [hMailServer](https://www.hmailserver.com) `⊘ Proprietary` - Open source e-mail server for Microsoft Windows. ([Source Code](https://github.com/hmailserver/hmailserver)) `C++`
-- [Poste.io](https://poste.io) `⊘ Proprietary` - Full featured solution for your Email server. Native implementation of last anti-SPAM metods, webmail and easy administration included. Free tier available. ([Demo](https://poste.io/admin/login#admin@poste.io;admin))
+- [Poste.io](https://poste.io) `⊘ Proprietary` - Full featured solution for your Email server. Native implementation of last anti-SPAM methods, webmail and easy administration included. Free tier available. ([Demo](https://poste.io/admin/login#admin@poste.io;admin))
 
   
 ## Software Development
