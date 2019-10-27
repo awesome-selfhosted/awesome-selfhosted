@@ -28,7 +28,7 @@ import os
 
 __author__ = "nodiscc"
 __copyright__ = "Copyright 2019, nodiscc"
-__credits__ = ["https://github.com/kickball/awesome-selfhosted"]
+__credits__ = ["https://github.com/awesome-selfhosted/awesome-selfhosted"]
 __license__ = "MIT"
 __version__ = "1.0"
 __maintainer__ = "nodiscc"
