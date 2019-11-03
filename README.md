@@ -302,6 +302,7 @@ _CalDAV or CardDAV clients._
 - [Tuber](https://blog.trailofbits.com/2015/12/15/self-hosted-video-chat-with-tuber/) - Peer-to-peer video chat that works. ([Source Code](https://github.com/trailofbits/tubertc)) `MIT` `Javascript`
 - [ZeroNet](https://zeronet.io/) `⚠` - Open, free, and uncensorable websites, using Bitcoin cryptography and BitTorrent network. ([Source Code](https://github.com/HelloZeroNet/ZeroNet)) `GNU` `Python`
 - [Zulip](https://zulip.org) - Zulip is a powerful, open source group chat application. ([Source Code](https://github.com/zulip/zulip)) `Apache/Other` `Python`
+- [MyCryptoChat](https://github.com/HowTommy/mycryptochat) - MyCryptoChat is a simple PHP encrypted chat rooms manager. Everything is encrypted on the client side ([Source Code]((https://github.com/HowTommy/mycryptochat)) `PGP` `GPL-3.0`
 
 ### Email
 
