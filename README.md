@@ -1056,6 +1056,7 @@ See https://github.com/n1trux/awesome-sysadmin#monitoring and https://github.com
 
 *See also [Wikis](#wikis)*
 
+- [Balsa](https://getbalsa.com) - Open source and WYSIWYG company wiki, knowledgebase, tasks and documents. ([Demo](https://demo.getbalsa.com), [Source Code](https://github.com/balsa-team/balsa)) `Apache-2.0` `Nodejs`
 - [BulletNotes](https://bulletnotes.io/) - Workflowy / Dynalist clone with Kanban (Trello) and Calendar functionality. Organize everything. ([Source Code](https://gitlab.com/NickBusey/BulletNotes)) `MIT` `Nodejs`
 - [Boostnote](https://boostnote.io/) - The note-taking app for programmers that focuses on markdown, snippets, and customizability. ([Source Code](https://github.com/BoostIO/Boostnote)) `GPL-3.0` `JavaScript`
 - [CodiMD](https://demo.codimd.org/) - Realtime collaborative markdown notes on all platforms, formerly HackMD CE. ([Source Code](https://github.com/hackmdio/codimd)) `AGPL-3.0` `Node.js`
