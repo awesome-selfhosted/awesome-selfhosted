@@ -76,6 +76,7 @@
 ## Project Management
 - [Active Collab](https://www.activecollab.com/) `⊘ Proprietary` - Project management - `PHP`
 - [Duet](https://duetapp.com/) `⊘ Proprietary` - Invoicing and project management with an integrated client portal. ([Demo](https://duetapp.com/demo/#dashboard)) `PHP`
+- [Kantree](https://kantree.io) `⊘ Proprietary` - Work management and collaboration - `Python`
 - [Solo](http://www.getsoloapp.com/) - Solo is a free project management app created for freelancers. Create contacts, manage tasks, upload files, track project progress, and keep notes. ([Demo](http://www.getsoloapp.com/demo/)) `PHP`
 
   
