@@ -1422,6 +1422,7 @@ See https://staticsitegenerators.net and https://www.staticgen.com
 **[`^        back to top        ^`](#)**
 
 - [devShort](https://github.com/flokX/devShort) - A simple and privacy-friendly URL shortener for web developers, admins and all professionals. ([Demo](https://devshort.flokx.dev)) `MIT` `PHP`
+- [gShort](https://github.com/someone-stole-my-name/gShort) - Privacy-friendly self-hosted URL shortener. ([Demo](http://gshort.christiansegundo.com/)) `GPL-3.0` `Go`
 - [Kutt](https://kutt.it) - A modern URL shortener with support for custom domains. ([Source Code](https://github.com/thedevs-network/kutt)) `MIT` `Nodejs`
 - [Link-shortener-bot](https://github.com/tommyku/link-shortener-front-end) `⚠` - URL shortener using a Telegram Bot. ([Demo](http://t.me/GiveMeShortLinkBot)) `MIT` `Ruby`
 - [Linkr](https://github.com/LINKIWI/linkr) - Beautiful, fast URL shortening. `MIT` `Python/Nodejs`
