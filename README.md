@@ -122,6 +122,7 @@ _Web Analytics_
 - [Matomo](https://matomo.org/) - Leading open-source analytics platform that gives you more than just powerful analytics, formerly known as Piwik. ([Source Code](https://github.com/matomo-org/)) `GPL-3.0` `PHP`
 - [Open Web Analytics](http://www.openwebanalytics.com/) - Google Analytics and Matomo alternative. ([Source Code](https://github.com/padams/Open-Web-Analytics)) `GPL-2.0` `PHP`
 - [Rakam](https://rakam.io/) - Custom analytics platform that allows you to create your own analytics services. Integrate with any data source (web, mobile, IoT etc.), analyze data with SQL and create dashboards. ([Source Code](https://github.com/rakam-io/rakam)) `Apache-2.0` `Java`
+- [Rudder](https://rudderlabs.com/) - Customer Data Infrastructure software for collecting, storing, processing and routing event data from apps and websites to dozens of marketing tools & analytics platforms (open-source alternative to Segment et al.). ([Source Code](https://github.com/rudderlabs/rudder-server/)) `SSPL-1.0` `Go`
 - [Serposcope](https://serposcope.serphacker.com/) - Serposcope is a free and open-source rank tracker to monitor websites ranking in Google and improve your SEO performances. ([Source Code](https://github.com/serphacker/serposcope)) `MIT` `Java`
 - [Snowplow](http://snowplowanalytics.com/) - Have every single event, from your websites, mobile apps, desktop applications and server-side systems, stored in your own data warehouse and available to action in real-time. ([Source Code](https://github.com/snowplow/)) `Apache-2.0` `Scala`
 
@@ -1562,6 +1563,7 @@ See also [Documentation Generators](#documentation-generators), [Wikimatrix](htt
 - `OSL-3.0` - [Open Software License 3.0](https://opensource.org/licenses/osl-3.0.php)
 - `Other` - Non-standard license, usually unique to the project itself.
 - `Sendmail` - [Sendmail License](https://www.sendmail.com/pdfs/open_source/sendmail_license.pdf)
+- `SSPL-1.0` - [Server Side Public License](https://spdx.org/licenses/SSPL-1.0.html)
 - `Unlicense` - [The Unlicense](http://unlicense.org/)
 - `WTFPL` - [Do What the Fuck You Want to Public License](http://www.wtfpl.net/about/)
 - `Zlib` - [Zlib/libpng License](https://opensource.org/licenses/Zlib)
