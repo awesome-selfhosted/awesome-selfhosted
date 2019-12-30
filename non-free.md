@@ -24,6 +24,10 @@
 ## Decentralized Network
 
 - [Synereo](https://www.synereo.com/) - Decentralized network system based on blockchain that allows fast speed and great trust level. ([Source Code](https://github.com/synereo/synereo)) `Scala`  
+
+## E-books and Integrated Library Systems (ILS)
+
+- [Ubooquity](https://vaemendis.net/ubooquity/)  `⊘ Proprietary` - Ubooquity is a free to use, versatile, lightweight, multi-platform, and secure home server for your comic and e-book library. `Java`
  
 ## Federated Identity/Authentication
 
