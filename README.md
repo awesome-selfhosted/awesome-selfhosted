@@ -213,7 +213,7 @@ See also [Static Site Generators](#static-site-generators), [Content Management 
 - [Plume](https://joinplu.me/) - Federated blogging engine, based on ActivityPub. ([Source Code](https://github.com/Plume-org/Plume)) `AGPL-3.0` `Rust`
 - [PluXml](http://www.pluxml.org/) - XML-based blog/CMS platform. ([Source Code](https://github.com/pluxml/PluXml)) `GPL-1.0` `PHP`
 - [Postleaf](https://www.postleaf.org/) - Open source blogging platform with inline editing, handlebar templates, and a beautiful user interface. ([Source Code](https://github.com/Postleaf/postleaf)) `MIT` `Nodejs`
-- [Publii](https://getpublii.com/) - GUI based blogging platform that works on Linux, Mac, and Windows. Easy to use with templates, multi-site management, and an intuitive UI. Manage sites using FTP, SFTP, AWS, Github Pages, Gitlab, Netlify, Google Cloud, and zip file. ([Source code](https://github.com/GetPublii/Publii)) `GPL-3.0` `Vue`
+- [Publii](https://getpublii.com/) - GUI based blogging platform that works on Linux, Mac, and Windows. Easy to use with templates, multi-site management, and an intuitive UI. Manage sites using FTP, SFTP, AWS, Github Pages, Gitlab, Netlify, Google Cloud, and zip file. ([Source Code](https://github.com/GetPublii/Publii)) `GPL-3.0` `Vue`
 
 
 ## Bookmarks and Link Sharing
