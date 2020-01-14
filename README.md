@@ -1433,7 +1433,6 @@ See https://staticsitegenerators.net and https://www.staticgen.com
 - [Linkr](https://github.com/LINKIWI/linkr) - Beautiful, fast URL shortening. `MIT` `Python/Nodejs`
 - [liteshort](https://github.com/132ikl/liteshort) - User-friendly, actually lightweight, and configurable URL shortener. ([Demo](https://ls.ikl.sh)) `MIT` `Python`
 - [Lstu](https://github.com/ldidry/lstu) - _Let's SHorten That Url_ - Lightweight URL shortener. `WTFPL` `Perl`
-- [Nimbus](https://github.com/ethanal/nimbus) - URL shortener and file sharer with a drag-and-drop OS X menu bar client and web interface. `MIT` `Python`
 - [Polr](https://project.polr.me/) - Modern, minimalist, modular, and lightweight URL shortener. ([Source Code](https://github.com/Cydrobolt/polr)) `GPL-2.0` `PHP`
 - [reduc.io](https://github.com/ziyasal/reducio) - URL shortener service written in Scala, using Akka-Http and Redis. `MIT` `Scala`
 - [schort](https://github.com/sqozz/schort) - No login, no javascript, just short links. ([Demo](https://s.wx0.de)) `CC0-1.0` `Python`
