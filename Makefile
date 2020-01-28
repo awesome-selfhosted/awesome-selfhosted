@@ -34,7 +34,7 @@ contrib:
 
 awesome_bot:
 	# https://github.com/dkhamsing/awesome_bot
-	awesome_bot --allow-redirect -f README.md
+	awesome_bot --allow-redirect --allow 202 -f README.md
 
 check_github_commit_dates:
 	python3 tests/check-github-commit-dates.py
