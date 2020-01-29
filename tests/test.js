@@ -1,9 +1,8 @@
 // Accepts input of any filename, ie. node test.js README.md
 
 const fs = require('fs');
+var colors = require('colors/safe');
 
-let log = '{\n';
-let issuelog = '  "message": "#### Syntax Issues\\n\\n Name | Entry\\n----|----------------------\\n';
 let fails = ''
 const file = fs.readFileSync(process.argv[2], 'utf8'); // Reads argv into var file
 
@@ -23,16 +22,57 @@ function findPattern(text) { // All entries should match this pattern.  If match
   } 
   return false;
 }
+function findError(text) {
+  let testA = /(^ {0,2}- \[.*?\]\(.*\))(?=.?-? ?\w)/;
+  const testA1 = /(- \[.*?\]?\(?.*?\)?)( .*$)/;
+  let testB = /( - .*\. )(?:(\(?\[?|\`))/;
+  //const testB1 = /(^ {0,2}- \[.*?\]\(.*?\))(?: -)/;
+  const testB2 = /((\(\[|\`).*$)/;
+  let testC = text.search(/\(\[|\)\,|\)\)/);
+  let testD = /(?<=\w. )(\(\[(Demo|Source Code|Clients)\]\([^)]*\)(, \[(Source Code|Clients)\]\([^)]*\))?(, \[(Source Code|Clients)\]\([^)]*\))*\))(?= \`?)/;
+  const testD1 = /(^.*\.)(?= )/;
+  const testD2 = /(\`.*\` \`.*\`$)/;
+  let testE = testD2.test(text);
+  const testE1 = /(^[^`]*)/;
+  let res
+  if (testA.test(text) === false) {
+    let a1 = testA1.exec(text)[2];
+    res = colors.red.underline(text.replace(a1, ''))
+  } else {
+    res = colors.green(testA.exec(text)[1])
+  }
+  if (testB.test(text) === false) {
+    let b1 = testA1.exec(text)[1];
+    let b2 = testB2.exec(text)[1];
+    res += colors.red.underline(text.replace(b1, '').replace(b2, ''))
+  } else {
+    res += colors.green(testB.exec(text)[1])
+  }
+  if ((testC > -1) && (testD.test(text) === false)) {
+      let d1 = testD1.exec(text)[1];
+      let d2 = testD2.exec(text)[1];
+      res += colors.red.underline(text.replace(d1+' ', '').replace(d2, ''))
+  } else if (testC > -1) {
+    res += colors.green(testD.exec(text)[1])
+  }
+  if (testE === false) {
+    let e1 = testE1.exec(text)[1];
+    res += colors.red.underline(text.replace(e1, ''))
+  } else {
+    res += colors.green(testD2.exec(text)[1])
+  }
+  return res + `\n`
+}
 
 function entryErrorCheck(md) {
-  const namepatt = /^\s{0,2}-\s\[(.*?)\]/; // regex pattern to find name of entryArray
   const entries = split(md); // Inserts each line into the entries array
   let totalFail = 0;
   let totalPass = 0;
   let total = 0;
   const entryArray = [];
+  let failed = [];
   if (entries[0] === "") {
-    console.log("0 Entries")
+    console.log(colors.red("0 Entries"))
     process.exit(0)
   }
   for (let i = 0, len = entries.length; i < len; i += 1) { // Loop to create array of objects
@@ -40,31 +80,35 @@ function entryErrorCheck(md) {
     entryArray[i].raw = entries[i];
     if (entryFilter(entries[i]) === true) { // filter out lines that don't start with * [)
       total += 1;
-      entryArray[i].name = namepatt.exec(entries[i])[1]; // Parses name of entry
       entryArray[i].pass = findPattern(entries[i]); // Tests against known patterns
+
       if (entryArray[i].pass === true) { // If entry passes increment totalPass counter
         totalPass += 1;
       } else {
-        console.log(`${entryArray[i].name} Failed.`); // If entry fails increment totalFail counter and append error to issuelog
-        // entryArray[i].error = findError(entries[i]) //WIP
-        totalFail += 1;
-        issuelog += `${entryArray[i].name} | ${entries[i]} \\n`;
-        fails += `${entries[i]} \n\n`;
+
+          failed.push(findError(entries[i]))
+          totalFail += 1; // If entry fails increment totalFail counter and append error to issuelog
+          fails += `${entries[i]} \n\n`;
       }
     }
   }
-  if (totalFail > 0) { // Logs # passed & failed to console, and failures to syntaxcheck.json
-    console.log(`${totalFail} Failed, ${totalPass} Passed, of ${total}\n-----------------------------`);
-    console.log(fails)
-    log += ` "error": true,\n  "title": "Found ${totalFail} entries with syntax error(s).",\n`;
-    fs.writeFileSync('syntaxcheck.json', `${log} ${issuelog} "\n}`);
+  if (totalFail > 0) {
+    console.log(colors.green("The portion of the entry with an error ") + colors.underline.red("will be underlined and RED") + `\n`)
+    for (let i = 0; i < failed.length; i++) {
+      console.log(failed[i])
+    }
+    console.log(colors.blue(`\n-----------------------------\n`))
+    console.log(colors.red(`${totalFail} Failed, `) + colors.green(`${totalPass} Passed, `) + colors.blue(`of ${total}`))
+    console.log(colors.blue(`\n-----------------------------\n`))
     process.exit(1);
-  } else { // Logs # of entries passed to console and error: false to syntaxcheck.json
-    console.log(`${totalFail} Failed, ${totalPass} Passed, of ${total} \n`);
-    log += '  "error": false\n}';
-    fs.writeFileSync('syntaxcheck.json', log);
-    process.exit(0);
+  } else {
+    console.log(colors.blue(`\n-----------------------------\n`))
+    console.log(colors.green(`${totalPass} Passed of ${total}`))
+    console.log(colors.blue(`\n-----------------------------\n`))
+    process.exit(0)
   }
+
+  
 }
 
 entryErrorCheck(file);
