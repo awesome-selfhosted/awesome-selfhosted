@@ -16,32 +16,11 @@ function split(text) { // Function to split lines into array
   return text.split(/\r?\n/);
 }
 
-function findPattern(text) { // Test entries against 8 patterns.  If matches pattern returns true
-  const nodnospatt = /^\s{0,2}-\s\[.*?\]\(.*?\) - .{0,249}?\. `.*?` `.*?`/; // Regex for entries with no demo and no source code
-  const slpatt = /^\s{0,2}-\s\[.*?\]\(.*?\) - .{0,249}?\. \(\[Demo\b\]\(.*?\), \[Source Code\b\]\(.*?\)\) `.*?` `.*?`/; // Regex for entries with demo and source code
-  const nodpatt = /^\s{0,2}-\s\[.*?\]\(.*?\) - .{0,249}?\. \(\[Source Code\]\(.*?\)\) `.*?` `.*?`/; // Regex for entries with no demo
-  const nospatt = /^\s{0,2}-\s\[.*?\]\(.*?\) - .{0,249}?\. \(\[Demo\]\(.*?\)\) `.*?` `.*?`/; // Regex for entries with no source code
-  const pnodnospatt = /^\s{0,2}-\s\[.*?\]\(.*?\) `⚠` - .{0,249}?\. `.*?` `.*?`/; // Regex for entries with proprietary with no demo and no source code
-  const pslpatt = /^\s{0,2}-\s\[.*?\]\(.*?\) `⚠` - .{0,249}?\. \(\[Demo\b\]\(.*?\), \[Source Code\b\]\(.*?\)\) `.*?` `.*?`/; // Regex for entries with proprietary with demo and source code
-  const pnodpatt = /^\s{0,2}-\s\[.*?\]\(.*?\) `⚠` - .{0,249}?\. \(\[Source Code\]\(.*?\)\) `.*?` `.*?`/; // Regex for entries with proprietary with no demo
-  const pnospatt = /^\s{0,2}-\s\[.*?\]\(.*?\) `⚠` - .{0,249}?\. \(\[Demo\]\(.*?\)\) `.*?` `.*?`/; // Regex for entries with proprietary with no source code
-  if (nodnospatt.test(text) === true) {
+function findPattern(text) { // All entries should match this pattern.  If matches pattern returns true.
+  const patt = /^\s{0,2}-\s\[.*?\]\(.*?\) (`⚠` )?- .{0,249}?\.( \(\[(Demo|Source Code|Clients)\]\([^)]*\)(, \[(Source Code|Clients)\]\([^)]*\))?(, \[(Source Code|Clients)\]\([^)]*\))*\))? \`.*?\` \`.*?\`$/;
+  if (patt.test(text) === true) {
     return true;
-  } else if (slpatt.test(text) === true) {
-    return true;
-  } else if (nodpatt.test(text) === true) {
-    return true;
-  } else if (nospatt.test(text) === true) {
-    return true;
-  } else if (pnodnospatt.test(text) === true) {
-    return true;
-  } else if (pslpatt.test(text) === true) {
-    return true;
-  } else if (pnodpatt.test(text) === true) {
-    return true;
-  } else if (pnospatt.test(text) === true) {
-    return true;
-  }
+  } 
   return false;
 }
 
@@ -59,7 +38,7 @@ function entryErrorCheck(md) {
   for (let i = 0, len = entries.length; i < len; i += 1) { // Loop to create array of objects
     entryArray[i] = new Object;
     entryArray[i].raw = entries[i];
-    if (entryFilter(entries[i]) === true) { // filter out lines that don't with * [)
+    if (entryFilter(entries[i]) === true) { // filter out lines that don't start with * [)
       total += 1;
       entryArray[i].name = namepatt.exec(entries[i])[1]; // Parses name of entry
       entryArray[i].pass = findPattern(entries[i]); // Tests against known patterns
