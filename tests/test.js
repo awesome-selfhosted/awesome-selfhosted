@@ -2,96 +2,158 @@
 
 const fs = require('fs');
 var colors = require('colors/safe');
+let licenses = new Set();
 
 let fails = ''
-const file = fs.readFileSync(process.argv[2], 'utf8'); // Reads argv into var file
+// Reads argv into var file
+const file = fs.readFileSync(process.argv[2], 'utf8'); 
 
-function entryFilter(md) { // Function to find lines with entries
+// Function to find lines with entries
+function entryFilter(md) { 
   const linepatt = /^\s{0,2}-\s\[.*`/;
   return linepatt.test(md);
 }
 
-function split(text) { // Function to split lines into array
+// Function to find lines with licenses
+function licenseFilter(md) {
+  const linepatt = /^- `.*` - .*/;
+  return linepatt.test(md)
+}
+
+// Function to split lines into array
+function split(text) { 
   return text.split(/\r?\n/);
 }
 
-function findPattern(text) { // All entries should match this pattern.  If matches pattern returns true.
+// All entries should match this pattern.  If matches pattern returns true.
+function findPattern(text) { 
   const patt = /^\s{0,2}-\s\[.*?\]\(.*?\) (`⚠` )?- .{0,249}?\.( \(\[(Demo|Source Code|Clients)\]\([^)]*\)(, \[(Source Code|Clients)\]\([^)]*\))?(, \[(Source Code|Clients)\]\([^)]*\))*\))? \`.*?\` \`.*?\`$/;
   if (patt.test(text) === true) {
     return true;
   } 
   return false;
 }
-function findError(text) {
+
+// Parses SPDX identifiers from list of licenses
+function parseLicense(md) {
+  const patt = /^- `(.*)` - .*/
+  return patt.exec(md)[1]
+}
+
+//Tests '- [Name](http://homepage/)'
+function testMainLink(text) { 
   let testA = /(^ {0,2}- \[.*?\]\(.*\))(?=.?-? ?\w)/;
   const testA1 = /(- \[.*?\]?\(?.*?\)?)( .*$)/;
-  let testB = /( - .*\. )(?:(\(?\[?|\`))/;
-  //const testB1 = /(^ {0,2}- \[.*?\]\(.*?\))(?: -)/;
+    if (testA.test(text) === false) {
+    let a1 = testA1.exec(text)[2];
+    return colors.red.underline(text.replace(a1, ''))
+  }
+  return colors.green(testA.exec(text)[1])
+}
+
+//Tests  '`⚠` - Short description, less than 250 characters.'
+function testDescription(text) { 
+  const testB = /( - .*\. )(?:(\(?\[?|\`))/;
+  const testA1 = /(- \[.*?\]?\(?.*?\)?)( .*$)/;
   const testB2 = /((\(\[|\`).*$)/;
+  if (testB.test(text) === false) {
+    let b1 = testA1.exec(text)[1];
+    let b2 = testB2.exec(text)[1];
+    return colors.red.underline(text.replace(b1, '').replace(b2, ''))
+  } 
+  return colors.green(testB.exec(text)[1])
+}
+
+//If present, tests '([Demo](http://url.to/demo), [Source Code](http://url.of/source/code), [Clients](https://url.to/list/of/related/clients-or-apps))'
+function testSrcDemCli(text) { 
   let testC = text.search(/\(\[|\)\,|\)\)/);
   let testD = /(?<=\w. )(\(\[(Demo|Source Code|Clients)\]\([^)]*\)(, \[(Source Code|Clients)\]\([^)]*\))?(, \[(Source Code|Clients)\]\([^)]*\))*\))(?= \`?)/;
   const testD1 = /(^.*\.)(?= )/;
   const testD2 = /(\`.*\` \`.*\`$)/;
-  let testE = testD2.test(text);
-  const testE1 = /(^[^`]*)/;
-  let res
-  if (testA.test(text) === false) {
-    let a1 = testA1.exec(text)[2];
-    res = colors.red.underline(text.replace(a1, ''))
-  } else {
-    res = colors.green(testA.exec(text)[1])
-  }
-  if (testB.test(text) === false) {
-    let b1 = testA1.exec(text)[1];
-    let b2 = testB2.exec(text)[1];
-    res += colors.red.underline(text.replace(b1, '').replace(b2, ''))
-  } else {
-    res += colors.green(testB.exec(text)[1])
-  }
   if ((testC > -1) && (testD.test(text) === false)) {
-      let d1 = testD1.exec(text)[1];
-      let d2 = testD2.exec(text)[1];
-      res += colors.red.underline(text.replace(d1+' ', '').replace(d2, ''))
-  } else if (testC > -1) {
-    res += colors.green(testD.exec(text)[1])
-  }
-  if (testE === false) {
-    let e1 = testE1.exec(text)[1];
-    res += colors.red.underline(text.replace(e1, ''))
-  } else {
-    res += colors.green(testD2.exec(text)[1])
-  }
-  return res + `\n`
+    let d1 = testD1.exec(text)[1];
+    let d2 = testD2.exec(text)[1];
+    return colors.red.underline(text.replace(d1+' ', '').replace(d2, ''))
+} else if (testC > -1) {
+  return colors.green(testD.exec(text)[1])
+}
+return ""
 }
 
+// Tests '`License` `Language`'
+function testLangLic(text) { 
+  const testD2 = /(\`.*\` \`.*\`$)/;
+  let testE = testD2.test(text);
+  const testE1 = /(^[^`]*)/;
+  if (testE === false) {
+    let e1 = testE1.exec(text)[1];
+    return colors.red.underline(text.replace(e1, ''))
+  }
+  return colors.green(testD2.exec(text)[1])
+}
+
+//Runs all the syntax tests...
+function findError(text) {
+  let res
+  res = testMainLink(text)
+  res += testDescription(text)
+  res += testSrcDemCli(text)
+  res += testLangLic(text)
+  return res + `\n`
+}
+//Check if license is in the list of licenses.
+function testLicense(md) {
+  const regex = /.*\`(.*)\` \`.*\`$/;
+  return licenses.has(regex.exec(md)[1])
+}
+
+//Parses name from entry
+function parseName(md) {
+  const regex = /^\W*(.*?)\W/
+  return regex.exec(md)[1]
+}
 function entryErrorCheck(md) {
-  const entries = split(md); // Inserts each line into the entries array
+  const lines = split(md); // Inserts each line into the entries array
   let totalFail = 0;
   let totalPass = 0;
   let total = 0;
-  const entryArray = [];
   let failed = [];
-  if (entries[0] === "") {
-    console.log(colors.red("0 Entries"))
+  let entries = [];
+  if (lines[0] === "") {
+    console.log(colors.red("0 Entries Found"))
     process.exit(0)
   }
-  for (let i = 0, len = entries.length; i < len; i += 1) { // Loop to create array of objects
-    entryArray[i] = new Object;
-    entryArray[i].raw = entries[i];
-    if (entryFilter(entries[i]) === true) { // filter out lines that don't start with * [)
+  for (let i = 0; i < lines.length; i ++) { // Loop through array of lines
+    if (entryFilter(lines[i]) === true) { // filter out lines that don't start with * [)
       total += 1;
-      entryArray[i].pass = findPattern(entries[i]); // Tests against known patterns
-
-      if (entryArray[i].pass === true) { // If entry passes increment totalPass counter
+      e = {};
+      e.raw = lines[i];
+      entries.push(e);
+/*       if (findPattern(lines[i])) { // If entry passes increment totalPass counter
         totalPass += 1;
       } else {
 
-          failed.push(findError(entries[i]))
+          failed.push(findError(lines[i]))
           totalFail += 1; // If entry fails increment totalFail counter and append error to issuelog
-          fails += `${entries[i]} \n\n`;
-      }
+          fails += `${lines[i]} \n\n`;
+      } */
+    } else if (licenseFilter(lines[i]) === true) {
+      licenses.add(parseLicense(lines[i]))
     }
   }
+  for (let e of entries) {
+    e.name = parseName(e.raw)
+    if (!findPattern(e.raw)) {
+      e.highlight = findError(e.raw);
+      console.log(findError(e.raw))
+    }
+    e.licenseTest = testLicense(e.raw);
+    if (e.licenseTest === false) {
+      console.log(colors.yellow(`${e.name}'s license is not on License list.`))
+    }
+  }
+  
+
   if (totalFail > 0) {
     console.log(colors.green("The portion of the entry with an error ") + colors.underline.red("will be underlined and RED") + `\n`)
     for (let i = 0; i < failed.length; i++) {

@@ -21,4 +21,5 @@ notifications:
 branches:
   only:
   - master
+  - travis_test
 
