@@ -6,7 +6,7 @@ node_js:
 before_install:
   - rvm install 2.6.2
   - gem install awesome_bot
-  - npm install colors
+  - npm install -g colors
 
 before_script:
 
