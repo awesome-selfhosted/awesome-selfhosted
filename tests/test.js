@@ -3,6 +3,7 @@
 const fs = require('fs');
 var colors = require('colors/safe');
 let licenses = new Set();
+const pr = process.env.TRAVIS_PULL_REQUEST
 
 let fails = ''
 // Reads argv into var file
@@ -112,6 +113,15 @@ function parseName(md) {
   const regex = /^\W*(.*?)\W/
   return regex.exec(md)[1]
 }
+
+//Returns line number if this is not a PR
+function isPr(l) {
+  if (pr === 'false') {
+    return `Line ${l}: `
+  }
+  return ''
+}
+
 function entryErrorCheck(md) {
   const lines = split(md); // Inserts each line into the entries array
   let totalFail = 0;
@@ -128,6 +138,7 @@ function entryErrorCheck(md) {
       total += 1;
       e = {};
       e.raw = lines[i];
+      e.line = i
       entries.push(e);
 /*       if (findPattern(lines[i])) { // If entry passes increment totalPass counter
         totalPass += 1;
@@ -142,19 +153,28 @@ function entryErrorCheck(md) {
     }
   }
   for (let e of entries) {
+    e.pass = true
     e.name = parseName(e.raw)
     if (!findPattern(e.raw)) {
       e.highlight = findError(e.raw);
-      console.log(findError(e.raw))
+      e.pass = false;
+      console.log(`${colors.yellow(isPr(e.line))}${e.highlight}`)
     }
     e.licenseTest = testLicense(e.raw);
     if (e.licenseTest === false) {
-      console.log(colors.yellow(`${e.name}'s license is not on License list.`))
+      e.pass = false;
+      console.log(colors.yellow(`${isPr(e.line)}${e.name}'s license is not on License list.`))
+    }
+    if (e.pass) {
+      totalPass++
+    } else {
+      totalFail++
     }
   }
   
 
   if (totalFail > 0) {
+    console.log(colors.blue(`\n-----------------------------\n`))
     console.log(colors.green("The portion of the entry with an error ") + colors.underline.red("will be underlined and RED") + `\n`)
     for (let i = 0; i < failed.length; i++) {
       console.log(failed[i])
