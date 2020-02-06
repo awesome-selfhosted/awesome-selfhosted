@@ -1466,7 +1466,7 @@ See https://staticsitegenerators.net and https://www.staticgen.com
 - [url-shortener](https://github.com/cagataycali/url-shortener) `⚠` - Shitty url shortener, emoji and AI powered. `MIT` `Nodejs`
 - [URL-Shortener](https://github.com/sapioit/URL-shortener) - Make your long links short and only uses lowercase, so you can write and spell them faster. ([Demo](http://scurtez.cf)) `GPL-3.0` `PHP`
 - [UrlHub](https://github.com/realodix/urlhub) - URL shortener web application based on the Laravel PHP Framework. `MIT` `PHP`
-- [UrlHum](https://urlhum.com/) - he modern, privacy-aware URL Shortener built in PHP. `MIT` `PHP`
+- [UrlHum](https://urlhum.com/) - The modern, privacy-aware URL Shortener built in PHP. `MIT` `PHP`
 - [YOURLS](http://yourls.org/) - YOURLS is a set of PHP scripts that will allow you to run Your Own URL Shortener. Features include password protection, URL customization, bookmarklets, statistics, API, plugins, jsonp. ([Source Code](https://github.com/YOURLS/YOURLS)) `MIT` `PHP`
 
 ## VPN
