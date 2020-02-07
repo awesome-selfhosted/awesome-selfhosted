@@ -1,13 +1,26 @@
-// Accepts input of any filename, ie. node test.js README.md
+// USAGE:
+// node test.js -r README.md  (Checks whole file)
+// node test.js -r README.md -d temp.md  (Checks just the diff)
 
 const fs = require('fs');
-var colors = require('colors/safe');
+const colors = require('colors/safe');
 let licenses = new Set();
-const pr = process.env.TRAVIS_PULL_REQUEST
+let pr = false;
+let readme;
+let diff;
 
-let fails = ''
-// Reads argv into var file
-const file = fs.readFileSync(process.argv[2], 'utf8'); 
+//Parse the command options and set the pr var
+function parseArgs(args) {
+      console.log(args)
+  if ( args.indexOf('-r', 2) > 0 ) {
+    console.log(args.indexOf('-r', 2))
+    readme = fs.readFileSync(args[args.indexOf('-r', 2)+1], 'utf8')
+  }
+  if (args.indexOf('-d', 2) > 0) {
+    pr = true;
+    diff = fs.readFileSync(args[args.indexOf('-d', 2)+1], 'utf8');
+  }
+}
 
 // Function to find lines with entries
 function entryFilter(md) { 
@@ -114,71 +127,90 @@ function parseName(md) {
   return regex.exec(md)[1]
 }
 
-//Returns line number if this is not a PR
-function isPr(l) {
-  if (pr === 'false') {
-    return `Line ${l}: `
-  }
-  return ''
-}
-
-function entryErrorCheck(md) {
-  const lines = split(md); // Inserts each line into the entries array
+function entryErrorCheck() {
+  const lines = split(readme); // Inserts each line into the entries array
   let totalFail = 0;
   let totalPass = 0;
   let total = 0;
   let failed = [];
   let entries = [];
+
   if (lines[0] === "") {
     console.log(colors.red("0 Entries Found"))
     process.exit(0)
   }
   for (let i = 0; i < lines.length; i ++) { // Loop through array of lines
     if (entryFilter(lines[i]) === true) { // filter out lines that don't start with * [)
-      total += 1;
       e = {};
       e.raw = lines[i];
       e.line = i
       entries.push(e);
-/*       if (findPattern(lines[i])) { // If entry passes increment totalPass counter
-        totalPass += 1;
-      } else {
-
-          failed.push(findError(lines[i]))
-          totalFail += 1; // If entry fails increment totalFail counter and append error to issuelog
-          fails += `${lines[i]} \n\n`;
-      } */
     } else if (licenseFilter(lines[i]) === true) {
       licenses.add(parseLicense(lines[i]))
     }
   }
-  for (let e of entries) {
-    e.pass = true
-    e.name = parseName(e.raw)
-    if (!findPattern(e.raw)) {
-      e.highlight = findError(e.raw);
-      e.pass = false;
-      console.log(`${colors.yellow(isPr(e.line))}${e.highlight}`)
+
+  if (pr === true) {
+    console.log("Only testing the diff from the PR.")
+    const diffLines = split(diff); // Inserts each line of diff into an array
+    for (let l of diffLines) {
+      if (entryFilter(l) === true) { // filter out lines that don't start with * [)
+      e = {};
+      e.raw = l;
+      entries.push(e);
+      } else if (licenseFilter(l) === true) {
+        licenses.add(parseLicense(l))
+      }
     }
-    e.licenseTest = testLicense(e.raw);
-    if (e.licenseTest === false) {
-      e.pass = false;
-      console.log(colors.yellow(`${isPr(e.line)}${e.name}'s license is not on License list.`))
-    }
-    if (e.pass) {
-      totalPass++
-    } else {
-      totalFail++
-    }
+    total = entries.length
+    for (let e of entries) {
+      e.pass = true
+      e.name = parseName(e.raw)
+      if (!findPattern(e.raw)) {
+        e.highlight = findError(e.raw);
+        e.pass = false;
+        console.log(`${e.highlight}`)
+      }
+      e.licenseTest = testLicense(e.raw);
+      if (e.licenseTest === false) {
+        e.pass = false;
+        console.log(`${e.name}'s license is not on License list.`)
+      }
+      if (e.pass) {
+        totalPass++
+      } else {
+        totalFail++
+      }
+   }
+  } else {
+    console.log("Testing entire README.md")
+    total = entries.length
+    for (let e of entries) {
+      e.pass = true
+      e.name = parseName(e.raw)
+      if (!findPattern(e.raw)) {
+        e.highlight = findError(e.raw);
+        e.pass = false;
+        console.log(`${colors.yellow(e.line)}${e.highlight}`)
+      }
+      e.licenseTest = testLicense(e.raw);
+      if (e.licenseTest === false) {
+        e.pass = false;
+        console.log(colors.yellow(`${e.line}${e.name}'s license is not on License list.`))
+      }
+      if (e.pass) {
+        totalPass++
+      } else {
+        totalFail++
+      }
+   }
   }
+
   
 
   if (totalFail > 0) {
     console.log(colors.blue(`\n-----------------------------\n`))
     console.log(colors.green("The portion of the entry with an error ") + colors.underline.red("will be underlined and RED") + `\n`)
-    for (let i = 0; i < failed.length; i++) {
-      console.log(failed[i])
-    }
     console.log(colors.blue(`\n-----------------------------\n`))
     console.log(colors.red(`${totalFail} Failed, `) + colors.green(`${totalPass} Passed, `) + colors.blue(`of ${total}`))
     console.log(colors.blue(`\n-----------------------------\n`))
@@ -193,4 +225,5 @@ function entryErrorCheck(md) {
   
 }
 
-entryErrorCheck(file);
+parseArgs(process.argv)
+entryErrorCheck();
