@@ -42,7 +42,7 @@ function split(text) {
 
 // All entries should match this pattern.  If matches pattern returns true.
 function findPattern(text) { 
-  const patt = /^\s{0,2}-\s\[.*?\]\(.*?\) (`⚠` )?- .{0,249}?\.( \(\[(Demo|Source Code|Clients)\]\([^)]*\)(, \[(Source Code|Clients)\]\([^)]*\))?(, \[(Source Code|Clients)\]\([^)]*\))*\))? \`.*?\` \`.*?\`$/;
+  const patt = /^\s{0,2}-\s\[.*?\]\(.*?\) (`⚠` )?- .{0,249}?\.( \(\[(Demo|Source Code|Clients)\]\([^)\]]*\)(, \[(Source Code|Clients)\]\([^)\]]*\))?(, \[(Source Code|Clients)\]\([^)\]]*\))*\))? \`.*?\` \`.*?\`$/;
   if (patt.test(text) === true) {
     return true;
   } 
@@ -55,10 +55,10 @@ function parseLicense(md) {
   return patt.exec(md)[1]
 }
 
-//Tests '- [Name](http://homepage/)'
+//Test '- [Name](http://homepage/)'
 function testMainLink(text) { 
   let testA = /(^ {0,2}- \[.*?\]\(.*\))(?=.?-? ?\w)/;
-  const testA1 = /(- \[.*?\]?\(?.*?\)?)( .*$)/;
+  const testA1 = /(- \W?\w*\W{0,2}.*?\)?)( .*$)/;
     if (!testA.test(text)) {
     let a1 = testA1.exec(text)[2];
     return chalk.red(text.replace(a1, ''))
@@ -66,10 +66,10 @@ function testMainLink(text) {
   return chalk.green(testA.exec(text)[1])
 }
 
-//Tests  '`⚠` - Short description, less than 250 characters.'
+//Test  '`⚠` - Short description, less than 250 characters.'
 function testDescription(text) { 
   const testB = /( - .*\. )(?:(\(?\[?|\`))/;
-  const testA1 = /(- \[.*?\]?\(?.*?\)?)( .*$)/;
+  const testA1 = /(- \W?\w*\W{0,2}.*?\)?)( .*$)/;
   const testB2 = /((\(\[|\`).*$)/;
   if (!testB.test(text)) {
     let b1 = testA1.exec(text)[1];
@@ -82,14 +82,13 @@ function testDescription(text) {
 //If present, tests '([Demo](http://url.to/demo), [Source Code](http://url.of/source/code), [Clients](https://url.to/list/of/related/clients-or-apps))'
 function testSrcDemCli(text) { 
   let testC = text.search(/\(\[|\)\,|\)\)/);
-  let testD = /(?<=\w. )(\(\[(Demo|Source Code|Clients)\]\([^)]*\)(, \[(Source Code|Clients)\]\([^)]*\))?(, \[(Source Code|Clients)\]\([^)]*\))*\))(?= \`?)/;
-  const testD1 = /(^.*\.)(?= )/;
+  let testD = /(?<=\w. )(\(\[(Demo|Source Code|Clients)\]\([^)\]]*\)(, \[(Source Code|Clients)\]\([^)\]]*\))?(, \[(Source Code|Clients)\]\([^)\]]*\))*\))(?= \`?)/;
+  const testD1 = /(^- \W[a-zA-Z0-9-_ ]*\W{0,2}http[^\[]*)(?<= )/;
   const testD2 = /(\`.*\` \`.*\`$)/;
   if ((testC > -1) && (!testD.test(text))) {
     let d1 = testD1.exec(text)[1];
     let d2 = testD2.exec(text)[1];
-
-    return chalk.red(text.replace(d1+' ', '').replace(d2, ''))
+    return chalk.red(text.replace(d1, '').replace(d2, ''))
 } else if (testC > -1) {
   return chalk.green(testD.exec(text)[1])
 }
@@ -123,14 +122,25 @@ function testLicense(md) {
   let pass = true;
   let lFailed = []
   let lPassed = []
-  const regex = /.*\`(.*)\` \`.*\`$/;
-  for (l of regex.exec(md)[1].split("/")) {
-    if (!licenses.has(l)) {
-      pass = false;
-      lPassed.push(l)
+  const regex = /.*\`(.*)\` .*$/;
+  try {  
+    for (l of regex.exec(md)[1].split("/")) {
+      if (!licenses.has(l)) {
+        pass = false;
+        lPassed.push(l)
+      }
+      lFailed.push(l)
     }
-    lFailed.push(l)
   }
+  catch(err) {
+    console.log(chalk.yellow("Error in License syntax, license not checked against list."))
+    return [false, "", ""]
+  }
+
+ 
+
+    
+
   return [pass, lFailed, lPassed]
 }
 
@@ -187,7 +197,7 @@ function entryErrorCheck() {
       if (!findPattern(e.raw)) {
         e.highlight = findError(e.raw);
         e.pass = false;
-        console.log(`${e.highlight}`)
+        console.log(e.highlight)
       }
       e.licenseTest = testLicense(e.raw);
       if (!e.licenseTest) {
