@@ -157,7 +157,7 @@ function entryErrorCheck() {
     if (entryFilter(lines[i]) === true) { // filter out lines that don't start with * [)
       e = {};
       e.raw = lines[i];
-      e.line = i
+      e.line = i + 1
       entries.push(e);
     } else if (licenseFilter(lines[i]) === true) {
       licenses.add(parseLicense(lines[i]))
