@@ -304,7 +304,7 @@ _CalDAV or CardDAV clients._
   - [Riot.im](http://riot.im) - Fully-featured Matrix client for Web, iOS & Android. ([Source Code](https://github.com/vector-im/riot-web)) `Apache-2.0` `Javascript`
 - [Syndie](https://syndie.de) - Syndie is a libre system for operating distributed forums. `CC0-1.0` `Java`
 - [TextBelt](https://github.com/typpo/textbelt) `⚠` - Outgoing SMS API that uses carrier-specific gateways to deliver your text messages for free, and without ads. `MIT` `Javascript`
-- [Tinode](https://github.com/tinode/chat/) - Instant messaging server; backend in Go; iOS, Android, web, command line clients; chatbots. [Web Client](https://github.com/tinode/webapp) `GPL-3.0` `Go`
+- [Tinode](https://github.com/tinode/chat/) - Instant messaging server, backend in Go, iOS, Android, web, command line clients, chatbots. [Web Client](https://github.com/tinode/webapp) `GPL-3.0` `Go`
 - [Tox](https://tox.chat/) - Distributed, secure messenger with audio and video chat capabilities. ([Source Code](https://github.com/irungentoo/toxcore)) `GPL-3.0` `C`
 - [Tuber](https://blog.trailofbits.com/2015/12/15/self-hosted-video-chat-with-tuber/) - Peer-to-peer video chat that works. ([Source Code](https://github.com/trailofbits/tubertc)) `MIT` `Javascript`
 - [ZeroNet](https://zeronet.io/) `⚠` - Open, free, and uncensorable websites, using Bitcoin cryptography and BitTorrent network. ([Source Code](https://github.com/HelloZeroNet/ZeroNet)) `GNU` `Python`
