@@ -506,6 +506,7 @@
 |1|Marcus Ramberg <marcus@nordaaker.com>|
 |1|Mark Ide <git@cranstonide.com>|
 |1|Mark Ide <mark@cranstonide.com>|
+|1|Mark Niehe <mniehe@gmail.com>|
 |1|Mark Railton <mark@markrailton.com>|
 |1|Markus Dieckmann <markus.dieckmann@posteo.de>|
 |1|Martin Malinda <malindacz@gmail.com>|
