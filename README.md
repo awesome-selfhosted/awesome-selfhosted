@@ -646,6 +646,8 @@ _Institutional repository and digital library software._
 
 ## Federated Identity/Authentication
 
+- [SimpleLogin](https://simplelogin.io) - Open source OAuth2/OpenID Connect Identity Provider that provides a privacy-first alternative to the "Sign in with Facebook|Google|Apple" button. ([Source Code](https://github.com/simple-login/app)) `MIT` `Python`
+
 **[`^        back to top        ^`](#)**
 
 See https://github.com/n1trux/awesome-sysadmin#identity-management
