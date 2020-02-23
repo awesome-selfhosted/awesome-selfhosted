@@ -257,6 +257,7 @@ _CalDAV or CardDAV servers_
 - [Radicale](http://radicale.org/) - Simple calendar and contact server with extremely low administrative overhead. ([Source Code](https://github.com/Kozea/Radicale)) `GPL-3.0` `Python`
 - [SabreDAV](http://sabre.io/) - Open source CardDAV, CalDAV, and WebDAV framework and server. ([Source Code](https://github.com/sabre-io/dav)) `MIT` `PHP`
 - [Xandikos](https://www.xandikos.org/) - Open source CardDAV, CalDAV and WebDAV server with minimal administrative overhead, backed by a Git repository. ([Source Code](https://github.com/jelmer/xandikos)) `GPL-3.0` `Python`
+- [Easy!Appointments](https://easyappointments.org/) - Easy!Appointments is a highly customizable web application that allows your customers to book appointments with you via the web. Supports Google Calendar syncing. ([Demo](https://demo.easyappointments.org/https://demo.easyappointments.org/), [Source Code](https://github.com/alextselegidis/easyappointments)) `GPL-3.0` `PHP`
 
 _CalDAV or CardDAV web-based clients._
 
