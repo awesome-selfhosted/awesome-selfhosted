@@ -1444,6 +1444,9 @@ See https://staticsitegenerators.net and https://www.staticgen.com
 
 ## URL Shorteners
 
+URL Shorteners are a ticking time bomb. If they go away, get hacked, or sell out, millions of links will be lost. 
+If you decide to host one, please add it to [Archive Team](https://www.archiveteam.org/)'s [URLTeam](https://www.archiveteam.org/index.php?title=URLTeam) list of Alive URLs.
+
 **[`^        back to top        ^`](#)**
 
 - [devShort](https://github.com/flokX/devShort) - A simple and privacy-friendly URL shortener for web developers, admins and all professionals. ([Demo](https://devshort.flokx.dev)) `MIT` `PHP`
