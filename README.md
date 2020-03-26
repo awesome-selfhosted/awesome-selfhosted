@@ -610,7 +610,7 @@ See https://github.com/n1trux/awesome-sysadmin#dns
 
 - [CaseBox](https://www.casebox.org) - Manage all your organization's information in one system. ([Source Code](https://github.com/KETSE/casebox)) `AGPL-3.0` `PHP/Java`
 - [DOCAT](https://github.com/randombenj/docat) - Host your docs. Simple. Versioned. Fancy. `MIT` `Python/docker`
-- [Docspell](https://eikek.github.io/docspell) - A semi-automatic, personal document organizer. ([Source Code](https://github.com/eikek/docspell)) `GPL-3.0` `Scala/Java`
+- [Docspell](https://docspell.org) - Auo-tagging document organizer and archive. ([Source Code](https://github.com/eikek/docspell)) `GPL-3.0` `Scala/Java`
 - [EdPaper](https://github.com/Edraens/EdPaper) - PDF organizer with users management. `MIT` `PHP`
 - [EveryDocs](https://github.com/jonashellmann/everydocs-core/) - A simple Document Management System for private use with basic functionality to organize your documents digitally. `GPL-3.0` `Ruby`
 - [Mayan EDMS](http://www.mayan-edms.com) - Free Open Source Electronic Document Management System. An electronic vault for your documents with preview generation, OCR, and automatic categorization among other features. ([Source Code](https://gitlab.com/mayan-edms/mayan-edms)) `Apache-2.0` `Python`
