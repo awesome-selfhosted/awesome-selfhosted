@@ -73,6 +73,7 @@ See [Contributing](.github/CONTRIBUTING.md).
   - [Read it Later Lists](#read-it-later-lists)
   - [Resource Planning](#resource-planning)
     - [Enterprise Resource Planning](#enterprise-resource-planning)
+  - [Resume Builders](#resume-builders)
   - [Search Engines](#search-engines)
   - [Software Development](#software-development)
     - [Project Management](#project-management)
@@ -1265,6 +1266,10 @@ See also _[Monitoring](#monitoring)_
 - [LedgerSMB](https://ledgersmb.org/) - Integrated accounting and ERP system for small and midsize businesses, with double entry accounting, budgeting, invoicing, quotations, projects, orders and inventory management, shipping and more. ([Demo](https://demo.cloud.efficito.com/erp/1.5/login.pl), [Source Code](https://github.com/ledgersmb/LedgerSMB)) `GPL-2.0` `Perl`
 - [Odoo](http://odoo.com) - Free open source ERP system. ([Demo](https://demo.odoo.com/), [Source Code](https://github.com/odoo/odoo)) `LGPL-3.0` `Python`
 - [Tryton](http://www.tryton.org/) - Free open source business solution. ([Demo](http://www.tryton.org/download.html), [Source Code](https://hg.tryton.org/)) `GPL-3.0` `Python`
+
+## Resume Builders
+
+- [Reactive Resume](http://docs.rxresu.me/) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. ([Demo](http://rxresu.me/), [Source Code](https://github.com/AmruthPillai/Reactive-Resume)) `MIT` `Javascript`
 
 ## Search Engines
 
