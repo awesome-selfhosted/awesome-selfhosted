@@ -769,7 +769,7 @@ See https://github.com/n1trux/awesome-sysadmin#distributed-filesystems
 - [Pomf](https://github.com/Pomf/Pomf) - Simple file uploading and sharing, source for the now shut down site Pomf.se. `MIT` `PHP`
 - [ProjectSend](http://www.projectsend.org/) - Upload files and assign them to specific clients you create. Give access to those files to your clients. ([Source Code](https://github.com/ignacionelson/ProjectSend)) `GPL-2.0` `PHP`
 - [PsiTransfer](https://github.com/psi-4ward/psitransfer) - Simple open source self-hosted file sharing solution with robust up-/download-resume and password protection. `BSD-2-Clause` `Nodejs`
-- [Share](https://github.com/MrDemonWolf/share) - Simple yet advanced uploader.  Allows users to upload files,images, and text with moderation tools for admins. Can be used for friends and family or just for you.  Built with integration, like ShareX but more uploaders will be officially supported. `MIT` `NodeJS`
+- [Share](https://github.com/MrDemonWolf/share) - Simple yet advanced uploader.  Allows users to upload files, images and text with moderation tools for admins. Can be used for friends and family or just for you. Built with integration, like ShareX but more uploaders will be officially supported. `MIT` `NodeJS`
 - [Sharry](https://github.com/eikek/sharry) - Share files easily over the internet between authenticated and anonymous users (both ways) with resumable up- and downloads. `GPL-3.0` `Scala/Java`
 - [Uguu](https://uguu.se/) - Stores files and deletes after X amount of time. ([Source Code](https://github.com/nokonoko/uguu)) `MIT` `PHP`
 - [Up1](https://github.com/Upload/Up1) - Client-side Encrypted Image Host. `MIT` `Nodejs`
