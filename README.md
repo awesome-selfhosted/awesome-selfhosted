@@ -235,6 +235,8 @@ See also [Static Site Generators](#static-site-generators), [Content Management 
 - [Shaarli](https://github.com/shaarli/Shaarli) - Personal, minimalist, super-fast, no-database bookmarking and link sharing platform. ([Demo](https://demo.shaarli.org)) `Zlib` `PHP`
 - [Shiori](https://github.com/RadhiFadlillah/shiori) - Simple bookmark manager built with Go. `MIT` `Go`
 - [unmark](https://github.com/plainmade/unmark) - Open source to do app for links. `MIT` `PHP`
+- [ubookmark](https://ungleich.ch/u/projects/ubookmark/) - LDAP
+  enabled bookmarking service. `GPL-2` `Python`
 - [xBrowserSync](https://www.xbrowsersync.org) - Open source tool for syncing browser data between browsers and devices. ([Source Code](https://github.com/xBrowserSync)) `MIT` `Nodejs`
 - [ymarks](https://bitbucket.org/ymarks/ymarks-server) - Keep your browser's bookmarks synchronized without limiting yourself to one provider. `WTFPL` `C`
 
