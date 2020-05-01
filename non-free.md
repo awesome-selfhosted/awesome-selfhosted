@@ -32,7 +32,7 @@
 ## Federated Identity/Authentication
 
 - [Auth0](https://auth0.com/docs/appliance): `⊘ Proprietary`. Identity made simple for developers. `NodeJS`
-
+- [FusionAuth](https://fusionauth.io) `⊘ Proprietary` - Authentication and Authorization built for devs with OAuth2 and SAMLv2 support. Free as in beer. `Java`
   
 ## File Sharing and Synchronization
 
