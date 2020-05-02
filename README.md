@@ -17,6 +17,7 @@ See [Contributing](.github/CONTRIBUTING.md).
   - [Blogging Platforms](#blogging-platforms)
   - [Bookmarks and Link Sharing](#bookmarks-and-link-sharing)
   - [Calendaring and Contacts Management](#calendaring-and-contacts-management)
+  - [Commentary system](#commentary-system)
   - [Communication systems](#communication-systems)
     - [Custom communication systems](#custom-communication-systems)
     - [Email](#email)
@@ -267,6 +268,10 @@ _CalDAV or CardDAV web-based clients._
 - [AgenDAV](http://agendav.org/) - Multilanguage CalDAV web client with a rich AJAX interface and shared calendars support. ([Source Code](https://github.com/agendav/agendav)) `GPL-3.0` `PHP`
 - [InfCloud](https://www.inf-it.com/open-source/clients/infcloud/) - Open source CalDAV/CardDAV web client implementation. ([Demo](https://www.inf-it.com/infcloud/), [Source Code](https://www.inf-it.com/InfCloud_0.13.1.zip)) `AGPL-3.0` `Javascript`
 - [EteSync Web](https://www.etesync.com/faq/#web-client) - EteSync's official Web-based client (i.e., their Web app). ([Demo](https://client.etesync.com/), [Source Code](https://github.com/etesync/etesync-web)) `AGPL-3.0` `TypeScript`
+
+## Commentary system
+
+- [Glosa](https://github.com/glosa/glosa-server) - Open source commentary system easy to integrate with static pages. You can import from Disqus. ([Source Code](https://github.com/glosa/glosa-server)) `GPL-3.0` `Clojure`
 
 ## Communication systems
 
