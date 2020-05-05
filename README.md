@@ -1444,8 +1444,7 @@ See https://staticsitegenerators.net and https://www.staticgen.com
 
 ## URL Shorteners
 
-URL Shorteners are a ticking time bomb. If they go away, get hacked, or sell out, millions of links will be lost. 
-If you decide to host one, please add it to [Archive Team](https://www.archiveteam.org/)'s [URLTeam](https://www.archiveteam.org/index.php?title=URLTeam) list of Alive URLs.
+Before hosting one, please see [shortcomings](https://en.wikipedia.org/wiki/URL_shortening#Shortcomings) of URL shorteners.
 
 **[`^        back to top        ^`](#)**
 
