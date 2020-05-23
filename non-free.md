@@ -107,7 +107,7 @@
 - [JIRA](https://www.atlassian.com/software/jira) `⊘ Proprietary` - A professional and extensible issue tracker `Java`
 - [RhodeCode](https://rhodecode.com) `⊘ Proprietary` - On-premise Source Code Management for Mercurial, Git & Subversion. `Python`
 - [BitBucket Server](https://www.atlassian.com/software/bitbucket/server) `⊘ Proprietary` - An enterprise-level Git solution similar to GitLab `Java`
-
+- [Gitpod](https://www.gitpod.io/self-hosted) `⊘ Proprietary` - Ready-to-code dev environments, self-hosted on your infrastructure. [Source Code](https://github.com/gitpod-io/self-hosted) `Go`
   
 ## Ticketing
 - [Full Help](https://www.fullhelp.com/en/) `⊘ Proprietary` - Simple, easy to use help desk & knowledge base software. Custom branding, custom themes, restful API, communication channels, multi-company support, multi-language support, and much more! At least 1 new release per month. [Changelog](https://www.fullhelp.com/en/changelog) `PHP`
