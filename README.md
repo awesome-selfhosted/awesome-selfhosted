@@ -585,6 +585,7 @@ CMS are a practical way to setup a website with many features. CMS often come wi
 _Recipe management_
 
 - [OpenEats](https://github.com/open-eats/OpenEats) - Recipe management site that allows users to create, store, share and rate recipes, create grocery lists, and more. ([Demo](https://open-eats.github.io/)) `MIT` `Python`
+- [Recipes](https://github.com/vabene1111/recipes) - Recipes is a Django application to manage, tag and search recipes using either built in models or external storage providers hosting PDF's, Images or other files. `MIT` `Python`
 
 ### E-commerce
 
