@@ -19,9 +19,10 @@ Non-free software in `non-free.md`:
 - [ ] Your additions are [Free software](https://en.wikipedia.org/wiki/Free_software), or if not they have been added to [non-free](non-free.md) and marked `⊘ Proprietary`.
 - [ ] If your additions depend on proprietary services outside the user's control, they must be marked `⚠`.
 - [ ] Your additions are not already listed at [awesome-sysadmin](https://github.com/n1trux/awesome-sysadmin) (IT infrastructure management), [staticgen.com](https://www.staticgen.com/) or [staticsitegenerators.net](https://staticsitegenerators.net/) (static site generators).
-- [ ] Your additions have their `License` main server-side `Language`/platform/requirement listed.
+- [ ] Your additions have their `License` and main server-side `Language`/platform/requirement listed.
 - [ ] Any licenses you have added are in our [list of licenses](https://github.com/awesome-selfhosted/awesome-selfhosted/blob/master/README.md#list-of-licenses).
 - [ ] You have searched the repository for any relevant [issues](https://github.com/awesome-selfhosted/awesome-selfhosted/issues) or [PRs](https://github.com/awesome-selfhosted/awesome-selfhosted/pulls), including closed ones.
 - [ ] If the main link of your addition points to the program's source code, there is no need to add a duplicate _Source Code_ link. The _Demo_ and _Clients_ links are not mandatory.
 - [ ] Any category you are creating has the minimum requirement of 3 items. If not, your addition may be inserted into `Misc/Other`.
 - [ ] Any software project you are adding to the list is actively maintained.
+- [ ] The pull request title is "Add aaa to bbb" for adding software aaa to section bbb. Do not call it "Update README.md".
