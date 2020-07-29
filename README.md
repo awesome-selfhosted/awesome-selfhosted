@@ -475,7 +475,7 @@ _[SIP](https://en.wikipedia.org/wiki/Session_Initiation_Protocol)/[IPBX](https:/
 - [PPnet](https://github.com/pixelpark/ppnet) - Create and host your own social network. `MIT` `Javascript`
 - [Pump.io](http://pump.io/) - Stream server that does most of what people really want from a social network. ([Source Code](https://github.com/e14n/pump.io)) `Apache-2.0` `Nodejs`
 - [remark42](https://remark42.com/) - A lightweight and simple comment engine, which doesn't spy on users. It can be embedded into blogs, articles or any other place where readers add comments. ([Demo](https://remark42.com/demo/), [Source Code](https://github.com/umputun/remark)) `MIT` `Go`
-- [rss2twtxt](https://github.com/prologic/rss2twtxt) -- An RSS/Atom feed aggregator command-line tool and web service that consume RSS/ATOM and produces [twtxt](https://twtxt.readthedocs.org) feeds for consumption by twtxt clients. ([Demo](https://feeds.twtxt.net), [Source Code](https://github.com/prologic/rss2twtxt)) `MIT` `Go`
+- [rss2twtxt](https://github.com/prologic/rss2twtxt) -- An RSS/Atom feed aggregator command-line tool and web service that consume RSS/ATOM and produces [twtxt](https://twtxt.readthedocs.org) feeds for consumption by twtxt clients. ([Demo](https://feeds.twtxt.net)) `MIT` `Go`
 - [Satellity](https://satellity.org/) - Yet another open source forum written in Golang, React and PostgreSQL. ([Source Code](https://github.com/satellity/satellity)) `MIT` `Go`
 - [Scoold](https://scoold.com) - Stack Overflow in a JAR. An enterprise-ready Q&A platform with full-text search, SAML, LDAP integration and social login support. ([Demo](https://live.scoold.com), [Source Code](https://github.com/Erudika/scoold)) `Apache-2.0` `Java`
 - [Simple Machines Forum](https://www.simplemachines.org/) - Free, professional grade software package that allows you to set up your own online community within minutes. ([Source Code](https://github.com/SimpleMachines/SMF2.1)) `BSD-3-Clause` `PHP`
@@ -484,7 +484,7 @@ _[SIP](https://en.wikipedia.org/wiki/Session_Initiation_Protocol)/[IPBX](https:/
 - [Tokumei](https://tokumei.co/) - Anonymous microblogging platform. ([Source Code](https://gitlab.com/tokumei/tokumei)) `ISC` `rc`
 - [Thredded](https://thredded.org) - Forums, feature-rich and simple. ([Demo](https://thredded.org/thredded), [Source Code](https://github.com/thredded/thredded)) `MIT` `Ruby`
 - [twister](http://twister.net.co/) - Fully decentralized P2P microblogging platform leveraging the free software implementations of Bitcoin and BitTorrent protocols. ([Source Code](https://github.com/miguelfreitas/twister-core)) `MIT` `C++`
-- [twtxt.net](https://twtxt.net) -- A [twtxt](https://twtxt.readthedocs.org) client in the form of a web application and publically available free service at https://twtxt.net that provides a self-hosted, decentralised micro-blogging platform. ([Demo](https://twtxt.net), [Source Code](https://github.com/prologic/twtxt) `MIT` `Go`
+- [twtxt.net](https://twtxt.net) -- a Self-Hosted, Twitter™-like Decentralised micro-logging platform. No ads, no tracking, your content, your data! ([Source Code](https://github.com/prologic/twtxt) `MIT` `Go`
 - [Vanilla Forums](https://vanillaforums.org/) - Simple and flexible forum software. ([Source Code](https://github.com/vanilla/vanilla)) `GPL-2.0` `PHP`
 - [Zusam](https://zusam.org) - Free and open-source way to self-host private forums for groups of friends or family. ([Demo](https://demo.zusam.org), [Source Code](https://github.com/zusam/zusam), `AGPL-3.0` `PHP`
 
