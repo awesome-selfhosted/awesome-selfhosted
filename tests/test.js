@@ -81,7 +81,7 @@ function testDescription(text) {
 
 //If present, tests '([Demo](http://url.to/demo), [Source Code](http://url.of/source/code), [Clients](https://url.to/list/of/related/clients-or-apps))'
 function testSrcDemCli(text) { 
-  let testC = text.search(/\(\[|\)\,|\)\)/);
+  let testC = text.search(/\.\ \(|\.\ \[|\ \(\[[sSdDcC]/); //    /\(\[|\)\,|\)\)/);
   let testD = /(?<=\w. )(\(\[(Demo|Source Code|Clients)\]\([^)\]]*\)(, \[(Source Code|Clients)\]\([^)\]]*\))?(, \[(Source Code|Clients)\]\([^)\]]*\))*\))(?= \`?)/;
   const testD1 = /(^- \W[a-zA-Z0-9-_ .]*\W{0,2}http[^\[]*)(?<= )/;
   const testD2 = /(\`.*\` \`.*\`$)/;
