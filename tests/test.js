@@ -83,7 +83,7 @@ function testDescription(text) {
 function testSrcDemCli(text) { 
   let testC = text.search(/\(\[|\)\,|\)\)/);
   let testD = /(?<=\w. )(\(\[(Demo|Source Code|Clients)\]\([^)\]]*\)(, \[(Source Code|Clients)\]\([^)\]]*\))?(, \[(Source Code|Clients)\]\([^)\]]*\))*\))(?= \`?)/;
-  const testD1 = /(^- \W[a-zA-Z0-9-_ ]*\W{0,2}http[^\[]*)(?<= )/;
+  const testD1 = /(^- \W[a-zA-Z0-9-_ .]*\W{0,2}http[^\[]*)(?<= )/;
   const testD2 = /(\`.*\` \`.*\`$)/;
   if ((testC > -1) && (!testD.test(text))) {
     let d1 = testD1.exec(text)[1];
