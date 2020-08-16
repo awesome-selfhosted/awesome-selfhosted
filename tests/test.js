@@ -57,7 +57,7 @@ function parseLicense(md) {
 
 //Test '- [Name](http://homepage/)'
 function testMainLink(text) { 
-  let testA = /(^ {0,2}- \[.*?\]\(.*\))(?=.?-? ?\w)/;
+  let testA = /(^ {0,2}- \[.*?\]\([^)]*\.[^)]*?\))(?=\ ?\-?\ ?\w)/ // /(^ {0,2}- \[.*?\]\(.*\))(?=.?-? ?\w)/;
   const testA1 = /(- \W?\w*\W{0,2}.*?\)?)( .*$)/;
     if (!testA.test(text)) {
     let a1 = testA1.exec(text)[2];
