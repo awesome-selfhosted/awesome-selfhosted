@@ -1487,6 +1487,8 @@ See https://staticsitegenerators.net and https://www.staticgen.com
 
 ## URL Shorteners
 
+Before hosting one, please see [shortcomings](https://en.wikipedia.org/wiki/URL_shortening#Shortcomings) of URL shorteners.
+
 **[`^        back to top        ^`](#)**
 
 - [gShort](https://github.com/someone-stole-my-name/gShort) - Privacy-friendly self-hosted URL shortener. ([Demo](http://gshort.christiansegundo.com/)) `GPL-3.0` `Go`
