@@ -10,8 +10,6 @@ before_install:
   - gem install awesome_bot
   - cd tests && npm install chalk && cd ..
 
-before_script:
-
 script:
   - 'if [ "$TRAVIS_PULL_REQUEST" != "false" ]; then git diff origin/master -U0 README.md | grep -Pos "(?<=^\+).*" >> temp.md; fi || (exit 0)'
   - 'if [ "$TRAVIS_PULL_REQUEST" != "false" ]; then node tests/test.js -r README.md -d temp.md; else node tests/test.js -r README.md; fi'
