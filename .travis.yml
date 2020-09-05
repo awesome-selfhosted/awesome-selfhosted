@@ -2,19 +2,21 @@ language: node_js
 
 node_js:
   - "node"
+
 cache:
   npm: false
 
 before_install:
   - rvm install 2.6.2
   - gem install awesome_bot
+  - sudo apt update && sudo apt install python3-pip python3-setuptools
   - cd tests && npm install chalk && cd ..
 
 script:
-  - 'if [ "$TRAVIS_PULL_REQUEST" != "false" ]; then git diff origin/master -U0 README.md | grep -Pos "(?<=^\+).*" >> temp.md; fi || (exit 0)'
-  - 'if [ "$TRAVIS_PULL_REQUEST" != "false" ]; then node tests/test.js -r README.md -d temp.md; else node tests/test.js -r README.md; fi'
-  - 'if [ "$TRAVIS_PULL_REQUEST" != "false" ]; then awesome_bot temp.md --allow-redirect --skip-save-results --allow 202 --white-list airsonic.github.io/docs/apps; else (exit 0); fi'
-  - 'if [ "$TRAVIS_BRANCH" == "monthly-check" ]; then awesome_bot *.md --allow-redirect --skip-save-results --allow 202 --white-list airsonic.github.io/docs/apps; fi'
+  - 'echo "DEBUG: $TRAVIS_BRANCH - $TRAVIS_EVENT_TYPE - $TRAVIS_PULL_REQUEST"'
+  - 'if [ "$TRAVIS_BRANCH" == "master" ]; then make check_syntax_full; fi'
+  - 'if [[ "$TRAVIS_BRANCH" == "master" && "$TRAVIS_EVENT_TYPE" == "cron" ]]; then make check_all; fi'
+  - 'if [ "$TRAVIS_PULL_REQUEST" != "false" ]; then make check_pr; fi'
 
 notifications:
   email: false
