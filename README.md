@@ -1574,9 +1574,7 @@ See also [Documentation Generators](#documentation-generators), [Wikimatrix](htt
 - [NextCloudPi](https://nextcloudpi.com/) - Nextcloud preinstalled and preconfigured, with a text and web management interface and all the tools needed to self host private data. With installation images for Raspberry Pi, Odroid, Rock64, Docker, and a curl installer for Armbian/Debian. ([Source Code](https://github.com/nextcloud/nextcloudpi)) `GPL-2.0-or-later` `Bash/PHP`
 - [OpenMediaVault](http://www.openmediavault.org/) - OpenMediaVault is the next generation network attached storage (NAS) solution based on Debian Linux. It contains services like SSH, (S)FTP, SMB/CIFS, DAAP media server, RSync, BitTorrent client and many more. ([Source Code](https://github.com/openmediavault/openmediavault)) `GPL-3.0` `PHP`
 - [Piratebox](https://github.com/PirateBox-Dev) - DIY anonymous offline file-sharing and communications system built with free software and inexpensive off-the-shelf hardware. `GPL-3.0` `Python/Other`
-- [Puffin](https://github.com/puffinrocks/puffin) - Lightweight webapp catalog based on containers, with user interface à la mobile app store. `AGPL-3.0` `
-
-`
+- [Puffin](https://github.com/puffinrocks/puffin) - Lightweight webapp catalog based on containers, with user interface à la mobile app store. `AGPL-3.0` `Python/Docker`
 - [Sandstorm](https://sandstorm.io/) - Personal server for running self-hosted apps easily and securely. ([Demo](https://demo.sandstorm.io/), [Source Code](https://github.com/sandstorm-io/sandstorm)) `Apache-2.0` `C++/Other`
 - [sovereign](https://github.com/sovereign/sovereign) - Set of Ansible playbooks to build and maintain your own private cloud: email, calendar, contacts, file sync, IRC bouncer, VPN, and more. `GPL-3.0` `YAML/Other`
 - [Syncloud](https://syncloud.org/) - Your own online file storage, social network or email server. ([Source Code](https://github.com/syncloud/platform)) `GPL-3.0` `Python/Other`
