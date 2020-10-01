@@ -1,4 +1,5 @@
 # Awesome-Selfhosted
+Creative way to solve your needs.
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![](https://img.shields.io/travis/awesome-selfhosted/awesome-selfhosted/monthly-check?label=link%20checks)](https://github.com/awesome-selfhosted/awesome-selfhosted/issues/1767)
 
