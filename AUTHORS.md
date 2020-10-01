@@ -502,7 +502,7 @@
 |1|Luuk Nieuwdorp <luuknieuwdorp@users.noreply.github.com>|
 |1|Marcin Karpezo <m.karpezo@nencki.gov.pl>|
 |1|Marco Dickert <dickert.marco@gmail.com>|
-|1|Marco Kamner <marco@it-kamner.de>|
+|1|Marco Kamner <marco@kamner.de>|
 |1|Marcus Ramberg <marcus@nordaaker.com>|
 |1|Mark Ide <git@cranstonide.com>|
 |1|Mark Ide <mark@cranstonide.com>|
