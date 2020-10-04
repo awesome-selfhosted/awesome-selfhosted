@@ -1189,7 +1189,7 @@ See https://github.com/n1trux/awesome-sysadmin#monitoring and https://github.com
 - [SocksBin](https://github.com/magnumdingusedu/socksbin) - Simple and fast terminal based pastebin, with optional code highlighting. No specific client required, all you need is netcat. [Demo](https://socksbin.magnum.wtf). `GPL-3.0` `Python`
 - [Stikked](https://github.com/claudehohl/Stikked) - Advanced and beautiful pastebin. ([Demo](https://paste.scratchbook.ch/)) `GPL-3.0` `PHP`
 - [Sup3rS3cretMes5age](https://github.com/algolia/sup3rS3cretMes5age) - Very simple (to deploy and to use) secret message service using Hashicorp Vault as a secrets storage. `MIT` `Go`
-- [Pasty](https://github.com/Lukaesebrot/pasty) - A beautiful selfhosted code paste server with a lot useful features. ([Demo](https://p.kse.li)) `MIT` `Go`
+- [Pasty](https://github.com/Lukaesebrot/pasty) - Pasty is a fast and lightweight code pasting server. ([Demo](https://p.kse.li)) `MIT` `Go`
 
 ## Personal Dashboards
 
