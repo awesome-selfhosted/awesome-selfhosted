@@ -102,11 +102,12 @@ See [Contributing](.github/CONTRIBUTING.md).
 <!-- BEGIN SOFTWARE LIST -->
 
 ## Analytics
-For personal analytics/dashboards, see [Personal Dashboards](#personal-dashboards)
 
 **[`^        back to top        ^`](#)**
 
-_Web Analytics_
+For personal analytics/dashboards, see [Personal Dashboards](#personal-dashboards)
+
+For everything else, see [awesome-analytics](https://github.com/onurakpolat/awesome-analytics)
 
 - [Ackee](https://ackee.electerious.com) - Self-hosted analytics tool for those who care about privacy. ([Demo](http://demo.ackee.electerious.com), [Source Code](https://github.com/electerious/Ackee)) `MIT` `Nodejs`
 - [AWStats](http://www.awstats.org/) - Generates web, streaming, ftp or mail server statistics graphically. ([Source Code](https://github.com/eldy/awstats)) `GPL-3.0` `Perl`
