@@ -1,9 +1,5 @@
 language: node_js
 
-branches:
-  except:
-  - master
-
 node_js:
   - "node"
 
