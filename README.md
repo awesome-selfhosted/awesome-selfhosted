@@ -102,32 +102,12 @@ See [Contributing](.github/CONTRIBUTING.md).
 <!-- BEGIN SOFTWARE LIST -->
 
 ## Analytics
-For personal analytics/dashboards, see [Personal Dashboards](#personal-dashboards)
 
 **[`^        back to top        ^`](#)**
 
-_Web Analytics_
+For personal analytics/dashboards, see [Personal Dashboards](#personal-dashboards)
 
-- [Ackee](https://ackee.electerious.com) - Self-hosted analytics tool for those who care about privacy. ([Demo](http://demo.ackee.electerious.com), [Source Code](https://github.com/electerious/Ackee)) `MIT` `Nodejs`
-- [AWStats](http://www.awstats.org/) - Generates web, streaming, ftp or mail server statistics graphically. ([Source Code](https://github.com/eldy/awstats)) `GPL-3.0` `Perl`
-- [Countly](https://count.ly) - Real time mobile and web analytics, crash reporting and push notifications platform. ([Source Code](https://github.com/countly)) `AGPL-3.0` `Javascript`
-- [Druid](http://druid.io/) - Distributed, column-oriented, real-time analytics data store. ([Source Code](https://github.com/druid-io/druid)) `Apache-2.0` `Java`
-- [Fathom Analytics](https://github.com/usefathom/fathom) - Simple & trustworthy website analytics. `MIT` `Go`
-- [Freshlytics](https://github.com/sheshbabu/freshlytics) - Privacy respecting, cookie free and low resource usage analytics platform. `MIT` `Docker/Nodejs`
-- [GoAccess](http://goaccess.io/) - Real-time web log analyzer and interactive viewer that runs in a terminal. ([Source Code](https://github.com/allinurl/goaccess)) `GPL-2.0` `C`
-- [GoatCounter](https://www.goatcounter.com) - Easy web statistics. No tracking of personal data. ([Source Code](https://github.com/zgoat/goatcounter)) `EUPL-1.2` `Go`
-- [Hastic](https://hastic.io) - Hackable time series pattern recognition tool with UI for Grafana. ([Source Code](https://github.com/hastic)) `Apache-2.0` `Python/Nodejs`
-- [Kindmetrics](https://kindmetrics.io/) - Clean privacy-focused website analytics. ([Source Code](https://github.com/kindmetrics/kindmetrics)) `MIT` `Crystal`
-- [KISSS](https://kis3.dev) - Very minimalistic (KISS) website statistics tool. ([Source Code](https://github.com/kis3/kis3)) `MIT` `Go`
-- [Koko Analytics](https://www.kokoanalytics.com/) - Privacy-friendly and open source analytics plugin for WordPress. ([Source Code](https://github.com/ibericode/koko-analytics/)) `GPL-3.0` `PHP`
-- [Matomo](https://matomo.org/) - Leading open-source analytics platform that gives you more than just powerful analytics, formerly known as Piwik. ([Source Code](https://github.com/matomo-org/)) `GPL-3.0` `PHP`
-- [Offen](https://www.offen.dev/) - Offen is a fair and open web analytics tool. Gain insights while your users have full access to their data. Lightweight, self hosted and free. ([Demo](https://www.offen.dev/try-demo/), [Source Code](https://github.com/offen/offen)) `Apache-2.0` `Go/Docker`
-- [Open Web Analytics](http://www.openwebanalytics.com/) - Google Analytics and Matomo alternative. ([Source Code](https://github.com/padams/Open-Web-Analytics)) `GPL-2.0` `PHP`
-- [Plausible](https://plausible.io/) - Simple and privacy-friendly alternative to Google Analytics. ([Source Code](https://github.com/plausible/analytics/)) `MIT` `Elixir`
-- [PostHog](https://posthog.com) - Open source product analytics, a Mixpanel/Amplitude/Heap alternative. ([Source Code](https://github.com/posthog/posthog)) `MIT` `Python`
-- [Rakam](https://rakam.io/) - Custom analytics platform that allows you to create your own analytics services. Integrate with any data source (web, mobile, IoT etc.), analyze data with SQL and create dashboards. ([Source Code](https://github.com/rakam-io/rakam)) `Apache-2.0` `Java`
-- [Rudder](https://rudderlabs.com/) - Customer Data Infrastructure software for collecting, storing, processing and routing event data from apps and websites to dozens of marketing tools & analytics platforms (open-source alternative to Segment et al.). ([Source Code](https://github.com/rudderlabs/rudder-server/)) `SSPL-1.0` `Go`
-- [Serposcope](https://serposcope.serphacker.com/) - Serposcope is a free and open-source rank tracker to monitor websites ranking in Google and improve your SEO performances. ([Source Code](https://github.com/serphacker/serposcope)) `MIT` `Java`
+For everything else, see [awesome-analytics](https://github.com/onurakpolat/awesome-analytics)
 
 _Business Intelligence_
 
@@ -1172,7 +1152,7 @@ See https://github.com/n1trux/awesome-sysadmin#monitoring and https://github.com
 - [fiche](https://github.com/solusipse/fiche) - Command line pastebin, all you need is netcat. ([Demo](http://termbin.com/)) `MIT` `C`
 - [filite](https://github.com/raftario/filite) - A simple, light and standalone pastebin, URL shortener and file-sharing service. ([Demo](https://filite.raphaeltheriault.com)) `MIT` `Rust`
 - [Fugacious](https://fugacio.us) - Open source short-term secure messaging (OSSSM). ([Source Code](https://github.com/fugacious/fugacious)) `CC0-1.0` `Ruby`
-- [hastebin](http://hastebin.com/about.md) - Open source pastebin written in node.js. ([Demo](http://hastebin.com/), [Source Code](https://github.com/seejohnrun/haste-server)) `MIT` `Nodejs`
+- [Hastebin](https://haste.zneix.eu/about.md) - Open source pastebin written in Node.js (This is a fork with extended maintenance). ([Demo](https://haste.zneix.eu), [Source Code](https://github.com/zneix/haste-server)) `MIT` `Node.js`
 - [mojopaste](http://search.cpan.org/dist/App-mojopaste/) - Perl based pastebin. ([Demo](http://p.thorsen.pm/), [Source Code](https://github.com/jhthorsen/app-mojopaste)) `Artistic-2.0` `Perl`
 - [NoteHub](https://github.com/chmllr/NoteHub) - Free and Hassle-free Pastebin for Markdown Pages. Simple, clean, password provided, generated-short link. `MIT` `Nodejs`
 - [Paste](https://phpaste.sourceforge.io/) - Paste is forked from the original source pastebin.com used before it was bought. ([Source Code](https://github.com/jordansamuel/PASTE)) `GPL-3.0` `PHP`
