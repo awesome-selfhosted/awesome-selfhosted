@@ -1,72 +1,52 @@
 #!/usr/bin/make -f
 SHELL = /bin/bash
-all: checks
+AWESOME_BOT_OPTIONS = --allow-redirect --skip-save-results --allow 202 --white-list airsonic.github.io/docs/apps
 
-checks: nolicenselanguage nofullstop longdescriptions syntaxerrors
+all: check_all
 
-monthly: checks awesome_bot check_github_commit_dates contrib
+# run all checks
+check_all: check_syntax_full awesome_bot check_github_commit_dates
 
-noexternallink:
-	@echo -e "\nLines with no source/demo/other link:"
-	@sed -n -e '/BEGIN SOFTWARE LIST/,/END SOFTWARE LIST/ p' README.md | egrep '^ *\* ' | egrep --color=always '[a-z\.] `'
+# check pull requests
+check_pr: check_syntax_diff
 
-nolicenselanguage:
-	@echo -e "\nLines with only 1 or no language/license entry:"
-	@! sed -n -e '/BEGIN SOFTWARE LIST/,/END SOFTWARE LIST/ p' README.md | egrep '^ *\* ' | egrep -v '` `'
+# check syntax in whole file
+check_syntax_full:
+	node tests/test.js -r README.md
 
-nofullstop:
-	@echo -e "\nLines without a full stop after description:"
-	@! sed -n -e '/BEGIN SOFTWARE LIST/,/END SOFTWARE LIST/ p' README.md | egrep '[a-z] \(\['
-	@! sed -n -e '/BEGIN SOFTWARE LIST/,/END SOFTWARE LIST/ p' README.md | egrep '[a-z] `'
+# check syntax in the diff from master to current branch
+check_syntax_diff:
+	git diff origin/master -U0 README.md | grep --perl-regexp --only-matching "(?<=^\+).*" >> temp.md && \
+	node tests/test.js -r README.md -d temp.md && \
+	awesome_bot -f temp.md $(AWESOME_BOT_OPTIONS)
 
-longdescriptions:
-	@echo -e "\nDescriptions exceeding 250 chars:"
-	@! sed -n -e '/BEGIN SOFTWARE LIST/,/END SOFTWARE LIST/ p' README.md | egrep --only-matching '\) - [Aa-Zz|.|\(|\)|/| |,|-]*\s\(\[' README.md | grep  '.\{257\}'
-
-syntaxerrors:
-	@echo -e "\nSyntax errors:" 
-	@! sed -n -e '/BEGIN SOFTWARE LIST/,/END SOFTWARE LIST/ p' README.md | egrep  '\)\(|``|\)`'
-
-#################################
-
-contrib:
-	@mv .github/.mailmap . && printf "|Commits | Author |\n| :---: | --- |\n" > AUTHORS.md && git shortlog -sne | sed -r 's/^\s*([[:digit:]]*?)\s*?(.*?)/|\1|\2|/' >> AUTHORS.md && mv .mailmap .github/.mailmap
-
+# check dead links
+# https://github.com/dkhamsing/awesome_bot
 awesome_bot:
-	# https://github.com/dkhamsing/awesome_bot
-	awesome_bot --allow-redirect --allow 202 -f README.md
+	awesome_bot -f README.md $(AWESOME_BOT_OPTIONS)
 
+# check date of last commit for github.com repository URLs
 check_github_commit_dates:
+	pip3 install PyGithub
 	python3 tests/check-github-commit-dates.py
 
 #################################
 
+# update the AUTHORS.md file
+contrib:
+	@mv .github/.mailmap . && printf "|Commits | Author |\n| :---: | --- |\n" > AUTHORS.md && git shortlog -sne | sed -r 's/^\s*([[:digit:]]*?)\s*?(.*?)/|\1|\2|/' >> AUTHORS.md && mv .mailmap .github/.mailmap
 
+# add a new entry
 add:
-	@#add a new entry
-	@printf 'Software name: ' ;\
-	read Name; if [ -z "$$Name" ]; then printf 'Missing software name!\n'; exit 1 ; fi ;\
-	printf 'Homepage URL: ' ;\
-	read Url; if [ -z "$$Url" ]; then printf 'Missing main project URL!\n'; exit 1 ; fi ;\
-	printf 'Description (max 250 characters, ending with .): ' ;\
-	read Description; if [ -z "$$Description" ]; then printf 'Missing description!\n'; exit 1 ; fi ;\
-	printf 'License: ' ;\
-	read License; if [ -z "$$License" ]; then printf 'Missing license!\n'; exit 1 ; fi ;\
-	printf 'Main server-side language/platform/requirement: ' ;\
-	read Language; if [ -z "$$Language" ]; then printf 'Missing language!\n'; exit 1 ; fi ;\
-	printf 'Demo URL (if any): ' ;\
-	read Demo; if [ -z "$$Demo" ]; then CDemo="" ; else CDemo="[Demo]($$Demo)" ; fi ;\
-	printf 'Source code URL (if different from Homepage): ' ;\
-	read Source; if [ -z "$$Source" ]; then CSource="" ; else CSource="[Source Code]($$Source)" ; fi ;\
-	if [[ "$$CSource" == "" && "$$Demo" == "" ]]; \
-	then Moreinfo=""; \
-	else Moreinfo=$$(echo "($$CDemo$$CSource)" | sed 's|)\[|), [|g') ;\
-	fi ;\
-	echo -e "Copy this entry to your clipboard, paste it in the appropriate category:\n\n" ;\
+	@read -r -p "Software name: " Name && [[ ! -z "$$Name" ]] && \
+	read -r -p "Homepage/URL: " Url && [[ ! -z "$$Url" ]] && \
+	read -r -p "Description (max 250 characters, ending with .): " Description && [[ ! -z "$$Description" ]] && \
+	read -r -p "License: " License && [[ ! -z "$$License" ]] && \
+	read -r -p "Main server-side language/platform/requirement: " Language && [[ ! -z "$$Language" ]] && \
+	read -r -p "Demo URL (optional,leave empty): " Demo && \
+	if [[ "$$Demo" == "" ]]; then CDemo=""; else CDemo="[Demo]($$Demo)"; fi; \
+	read -r -p "Source code URL (if different from homepage): " Source && \
+	if [[ "$$Source" == "" ]]; then CSource=""; else CSource="[Source Code]($$Source)"; fi; \
+	if [[ "$$CSource" == "" && "$$Demo" == "" ]]; then Moreinfo=""; else Moreinfo="($$CDemo $$CSource)"; fi; \
+	echo "Copy this entry to your clipboard, paste it in the appropriate category:" ;\
 	echo "- [$$Name]($$Url) - $${Description} $${Moreinfo} \`$$License\` \`$$Language\`"
-
-
-#TODO ask for category and insert item accordingly
-#TODO check for unsorted entries
-#TODO automatically sort entries/sections
-#TODO autoupdate contributors list
