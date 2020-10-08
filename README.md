@@ -109,11 +109,6 @@ For personal analytics/dashboards, see [Personal Dashboards](#personal-dashboard
 
 For everything else, see [awesome-analytics](https://github.com/onurakpolat/awesome-analytics)
 
-- [KISSS](https://kis3.dev) - Very minimalistic (KISS) website statistics tool. ([Source Code](https://github.com/kis3/kis3)) `MIT` `Go`
-- [Koko Analytics](https://www.kokoanalytics.com/) - Privacy-friendly and open source analytics plugin for WordPress. ([Source Code](https://github.com/ibericode/koko-analytics/)) `GPL-3.0` `PHP`
-- [Matomo](https://matomo.org/) - Leading open-source analytics platform that gives you more than just powerful analytics, formerly known as Piwik. ([Source Code](https://github.com/matomo-org/)) `GPL-3.0` `PHP`
-- [Offen](https://www.offen.dev/) - Offen is a fair and open web analytics tool. Gain insights while your users have full access to their data. Lightweight, self hosted and free. ([Demo](https://www.offen.dev/try-demo/), [Source Code](https://github.com/offen/offen)) `Apache-2.0` `Go/Docker`
-- [Open Web Analytics](http://www.openwebanalytics.com/) - Google Analytics and Matomo alternative. ([Source Code](https://github.com/padams/Open-Web-Analytics)) `GPL-2.0` `PHP`
 - [Plausible](https://plausible.io/) - Simple and privacy-friendly alternative to Google Analytics. ([Source Code](https://github.com/plausible/analytics/)) `MIT` `Elixir`
 - [PostHog](https://posthog.com) - Open source product analytics, a Mixpanel/Amplitude/Heap alternative. ([Source Code](https://github.com/posthog/posthog)) `MIT` `Python`
 - [Rakam](https://rakam.io/) - Custom analytics platform that allows you to create your own analytics services. Integrate with any data source (web, mobile, IoT etc.), analyze data with SQL and create dashboards. ([Source Code](https://github.com/rakam-io/rakam)) `Apache-2.0` `Java`
