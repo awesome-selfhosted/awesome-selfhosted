@@ -15,7 +15,7 @@ To ensure your PR is dealt with swiftly please check the following:
 ``- [Name](http://homepage/) `⊘ Proprietary` - Short description, less than 250 characters. ([Demo](http://url.to/demo), [Source Code](http://url.of/source/code), [Clients](https://url.to/list/of/related/clients-or-apps)) `Language` ``
 
 - [ ] Your additions are ordered alphabetically.
-- [ ] Your additions are not already listed at [awesome-sysadmin](https://github.com/n1trux/awesome-sysadmin) (IT infrastructure management), [staticgen.com](https://www.staticgen.com/) or [staticsitegenerators.net](https://staticsitegenerators.net/) (static site generators).
+- [ ] Your additions are not already listed at [awesome-sysadmin](https://github.com/n1trux/awesome-sysadmin) (IT infrastructure management), [awesome-analytics](https://github.com/onurakpolat/awesome-analytics) (analytics), [staticgen.com](https://www.staticgen.com/) or [staticsitegenerators.net](https://staticsitegenerators.net/) (static site generators).
 - [ ] The `Language` tag is the main server-side requirement for the software - don't include frameworks/specifc dialects.
 - [ ] Any licenses you have added are in our [list of licenses](https://github.com/awesome-selfhosted/awesome-selfhosted/blob/master/README.md#list-of-licenses).
 - [ ] You have searched the repository for any relevant [issues](https://github.com/awesome-selfhosted/awesome-selfhosted/issues) or [PRs](https://github.com/awesome-selfhosted/awesome-selfhosted/pulls), including closed ones.
