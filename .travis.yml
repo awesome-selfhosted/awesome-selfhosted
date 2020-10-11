@@ -2,21 +2,20 @@ language: node_js
 
 node_js:
   - "node"
-  
+
+cache:
+  npm: false
+
 before_install:
   - rvm install 2.6.2
   - gem install awesome_bot
-
-before_script:
+  - sudo apt update && sudo apt install python3-pip python3-setuptools
+  - cd tests && npm install chalk && cd ..
 
 script:
-  - 'if [ "$TRAVIS_PULL_REQUEST" != "false" ]; then git diff origin/master -U0 README.md | grep -Pos "(?<=^\+).*" >> temp.md; fi || (exit 0)'
-  - 'if [ "$TRAVIS_PULL_REQUEST" != "false" ]; then node tests/test.js temp.md; else node tests/test.js README.md; fi'
-  - 'if [ "$TRAVIS_PULL_REQUEST" != "false" ]; then if [ -f temp.md ]; then awesome_bot temp.md --allow-redirect --skip-save-results; else (exit 0); fi else awesome_bot README.md --allow-redirect --skip-save-results; fi'
+  - 'echo "DEBUG: $TRAVIS_BRANCH - $TRAVIS_EVENT_TYPE - $TRAVIS_PULL_REQUEST"'
+  - 'if [[ "$TRAVIS_BRANCH" == "master" && "$TRAVIS_EVENT_TYPE" == "cron" ]]; then make check_all; fi'
+  - 'if [ "$TRAVIS_PULL_REQUEST" != "false" ]; then make check_pr; fi'
 
 notifications:
   email: false
-
-branches:
-  only:
-  - master
