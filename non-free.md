@@ -26,11 +26,7 @@
 
 - [Ubooquity](https://vaemendis.net/ubooquity/)  `⊘ Proprietary` - Ubooquity is a free to use, versatile, lightweight, multi-platform, and secure home server for your comic and e-book library. `Java`
  
-## Federated Identity/Authentication
 
-- [Auth0](https://auth0.com/docs/appliance): `⊘ Proprietary`. Identity made simple for developers. `NodeJS`
-- [FusionAuth](https://fusionauth.io) `⊘ Proprietary` - Authentication and Authorization built for devs with OAuth2 and SAMLv2 support. Free as in beer. `Java`
-  
 ## File Sharing and Synchronization
 
 - [Resilio Sync](https://www.resilio.com/) `⊘ Proprietary` - Resilio Sync by Resilio, Inc is a proprietary peer-to-peer file synchronisation tool.
