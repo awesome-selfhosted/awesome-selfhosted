@@ -592,6 +592,7 @@ See https://github.com/n1trux/awesome-sysadmin#dns
 - [Maza ad blocking](https://maza-ad-blocking.andros.dev/) - Local ad blocker. Like Pi-hole but local and using your operating system. ([Source Code](https://github.com/tanrax/maza-ad-blocking)) `Apache-2.0` `Bash`
 - [nsupdate.info](https://www.nsupdate.info/) - nsupdate.info is a dynamic DNS service. ([Demo](https://www.nsupdate.info/account/register/), [Source Code](https://github.com/nsupdate-info/nsupdate.info)) `BSD-3-Clause` `Python`
 - [SPF Toolbox](http://spftoolbox.com) - Application to look up DNS records such as SPF, MX, Whois, and more. ([Source Code](https://github.com/charlesabarnes/SPFtoolbox)) `MIT` `PHP`
+- [CloudFlare dynamic DNS update util](https://github.com/nhymxu/cf-dns-update-python) - Dynamic DNS record update utility for CloudFlare DNS service. Dead simple script with dependency-free. ([Source Code](https://github.com/nhymxu/cf-dns-update-python)) `Other` `Python`
 
 ## Document Management
 
