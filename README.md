@@ -25,7 +25,6 @@ See [Contributing](.github/CONTRIBUTING.md).
       - [Mail Delivery Agents](#mail-delivery-agents)
       - [Mailing lists and newsletters](#mailing-lists-and-newsletters)
       - [Webmail clients](#webmail-clients)
-    - [Usenet](#usenet)
     - [IRC](#irc)
     - [SIP/IPBX](#sip)
     - [Social Networks and Forums](#social-networks-and-forums)
@@ -362,14 +361,6 @@ _Mailing lists servers and mass mailing software - one message to many recipient
 - [RainLoop](http://www.rainloop.net/) - Simple, modern and fast webmail with IMAP/SMTP Support and multi accounting. ([Demo](http://demo.rainloop.net/), [Source Code](https://github.com/RainLoop/rainloop-webmail)). `AGPL-3.0` `PHP`
 - [Roundcube](https://roundcube.net) - Browser-based IMAP client with an application-like user interface. ([Source Code](https://github.com/roundcube/roundcubemail)) `GPL-3.0` `PHP`
 - [SquirrelMail](http://squirrelmail.org) - Another browser-based IMAP client. ([Source Code](https://sourceforge.net/p/squirrelmail/code/HEAD/tree/)) `GPL-2.0` `PHP`
-
-### Usenet
-
-**[`^        back to top        ^`](#)**
-
-_[Usenet](https://en.wikipedia.org/wiki/News_server) communication software_
-
-- [InterNetNews](https://inn.eyrie.org/trac/) - Extremely flexible and configurable Usenet / netnews news server. 
 
 ### IRC
 
@@ -1027,6 +1018,7 @@ See also <https://en.wikipedia.org/wiki/List_of_streaming_media_systems>, <https
 - [How Secure Is My Password](https://github.com/howsecureismypassword/hsimp) - Rather than just saying a password is "weak" or "strong", How Secure is My Password? lets your users know how long it would take someone to crack their password. ([Demo](https://howsecureismypassword.net/)) `MIT` `Javascript`
 - [google-webfonts-helper](https://github.com/majodev/google-webfonts-helper) `⚠` - Hassle-Free Way to Self-Host Google Fonts. Get eot, ttf, svg, woff and woff2 files + CSS snippets. ([Demo](https://google-webfonts-helper.herokuapp.com/)) `MIT` `Nodejs`
 - [ytdl-webserver](https://github.com/Algram/ytdl-webserver) - Docker-ready webserver for downloading youtube videos. `MIT` `Nodejs`
+- [InterNetNews](https://inn.eyrie.org/trac/) - Extremely flexible and configurable Usenet / netnews news server. 
 - [Journal](https://github.com/inoda/journal) - Simple journaling with encrypted entries and sharing capabilities. `MIT` `Ruby`
 - [Kimai](http://www.kimai.org/) - Simple time and project tracking. ([Demo](http://www.kimai.org/demo/), [Source Code](https://github.com/kimai/kimai)) `GPL-3.0` `PHP`
 - [King Phisher](https://github.com/securestate/king-phisher) - King Phisher is a tool for testing and promoting user awareness by simulating real world phishing attacks. `BSD-3-Clause` `Python`
