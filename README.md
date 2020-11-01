@@ -1487,6 +1487,7 @@ _Before hosting one, please see [shortcomings](https://en.wikipedia.org/wiki/URL
 
 **[`^        back to top        ^`](#)**
 
+- [gourl](https://github.com/adityatelange/gourl) - Lightweight URL Shortner with Click counter using ▲ Vercel's Serverless Api and MongoDB. ([Demo](https://gourl.now.sh/)) `MIT` `Nodejs`
 - [gShort](https://github.com/someone-stole-my-name/gShort) - Privacy-friendly self-hosted URL shortener. ([Demo](http://gshort.christiansegundo.com/)) `GPL-3.0` `Go`
 - [Kutt](https://kutt.it) - A modern URL shortener with support for custom domains. ([Source Code](https://github.com/thedevs-network/kutt)) `MIT` `Nodejs`
 - [Link-shortener-bot](https://github.com/tommyku/link-shortener-front-end) `⚠` - URL shortener using a Telegram Bot. ([Demo](http://t.me/GiveMeShortLinkBot)) `MIT` `Ruby`
