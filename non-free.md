@@ -14,6 +14,8 @@
 - [Gazelle](https://github.com/WhatCD/Gazelle) - Gazelle is a web framework geared towards private BitTorrent trackers. Although naturally focusing on music, it can be modified for most needs. `unlicensed` `PHP`
 - [Kirby](https://getkirby.com/) `⊘ Proprietary` - File-based CMS. Easy to setup. Easy to use. Flexible as hell. ([Source Code](https://github.com/getkirby/kirby)) `PHP` 
 
+### E-Commerce
+- [Sharetribe](https://www.sharetribe.com) `⊘ Proprietary` - An open source platform to create your own peer-to-peer marketplace, also available with SaaS model. ([Source Code](https://github.com/sharetribe/sharetribe)) `Ruby`
 
 ## Communication Systems
 
