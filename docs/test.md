@@ -1,0 +1,1 @@
+@import "https://raw.githubusercontent.com/awesome-selfhosted/awesome-selfhosted/master/non-free.md"
