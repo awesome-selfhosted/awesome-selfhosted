@@ -1485,6 +1485,7 @@ _Before hosting one, please see [shortcomings](https://en.wikipedia.org/wiki/URL
 
 **[`^        back to top        ^`](#)**
 
+- [GH-Pages-URL-Shotener](https://github.com/nelsontky/gh-pages-url-shortener) `⚠` - Minimal URL shortener that can be entirely hosted on GitHub pages. `GPL-3.0` `JavaScript`
 - [gShort](https://github.com/someone-stole-my-name/gShort) - Privacy-friendly self-hosted URL shortener. ([Demo](http://gshort.christiansegundo.com/)) `GPL-3.0` `Go`
 - [Kutt](https://kutt.it) - A modern URL shortener with support for custom domains. ([Source Code](https://github.com/thedevs-network/kutt)) `MIT` `Nodejs`
 - [Link-shortener-bot](https://github.com/tommyku/link-shortener-front-end) `⚠` - URL shortener using a Telegram Bot. ([Demo](http://t.me/GiveMeShortLinkBot)) `MIT` `Ruby`
