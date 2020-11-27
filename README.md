@@ -18,6 +18,7 @@ See [Contributing](.github/CONTRIBUTING.md).
   - [Bookmarks and Link Sharing](#bookmarks-and-link-sharing)
   - [Calendaring and Contacts Management](#calendaring-and-contacts-management)
   - [Communication systems](#communication-systems)
+    - [Bluetooth](#bluetooth)
     - [Custom communication systems](#custom-communication-systems)
     - [Email](#email)
       - [Complete solutions](#complete-solutions)
@@ -242,6 +243,12 @@ _See https://en.wikipedia.org/wiki/Comparison_of_CalDAV_and_CardDAV_implementati
 ## Communication systems
 
 **[`^        back to top        ^`](#)**
+
+### Bluetooth
+
+- [BlueCap](https://github.com/troystribling/BlueCap) - Bluetooth LE library for iOS. ([Demo](https://apps.apple.com/us/app/bluecap/id931219725)) `MIT` `Swift`
+- [BluetoothCommunicator](https://github.com/niedev/BluetoothCommunicator) - Bluetooth LE library to communicate between android devices. ([Demo](https://github.com/niedev/BluetoothCommunicatorExample), [Clients](https://github.com/niedev/RTranslator)) `Apache-2.0` `Java`
+- [SmartGattLib](https://github.com/movisens/SmartGattLib) - Simplifies the work with Bluetooth SMART devices (a.k.a. Bluetooth Low Energy) on Android. `Apache-2.0` `Java`
 
 ### Custom communication systems
 
