@@ -1392,6 +1392,7 @@ _See [awesome-sysadmin/Continuous Integration & Continuous Deployment](https://g
 _[Serverless computing on Wikipedia](https://en.wikipedia.org/wiki/Serverless_computing)_
 
 - [Appwrite](https://appwrite.io) - End to end backend server for web, native, and mobile developers 🚀. ([Source Code](https://github.com/appwrite/appwrite)) `BSD-3-Clause` `PHP`
+- [Functions Framework for Python](https://github.com/googlecloudplatform/functions-framework-python) - An open source FaaS (Function as a service) framework for writing portable Python functions. `Apache-2.0` `Python`
 - [fx](https://github.com/metrue/fx) - fx is a tool to help you do Function as a Service with painless on your own servers. `MIT` `Go`
 - [IronFunctions](https://github.com/iron-io/functions) - The serverless microservices platform by [iron.io](https://www.iron.io/). `Apache-2.0` `Go`
 - [LocalStack](https://localstack.cloud/) - LocalStack is a fully functional local AWS cloud stack. This includes Lambda for serverless computation. ([Source Code](https://github.com/localstack/localstack)) `Apache-2.0` `Python/Other`
