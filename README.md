@@ -769,7 +769,7 @@ _See https://github.com/n1trux/awesome-sysadmin#distributed-filesystems_
 - [PsiTransfer](https://github.com/psi-4ward/psitransfer) - Simple open source self-hosted file sharing solution with robust up-/download-resume and password protection. `BSD-2-Clause` `Nodejs`
 - [Pste](https://dev.pste.pw/) - Just a simple file hosting application inspired by the likes of pomf.se and teknik.io. ([Source Code](https://github.com/FoxDev/pste)) `GPL-3.0` `Python`
 - [rails-file-share](https://github.com/ashish-r/rails-file-share) - File Sharing Application - Ruby on Rails. `MIT` `Ruby`
-- [ShaFi](https://github.com/dealfonso/shafi) - ShaFi is a platform to share files similar to WeTransfer, but managed in your servers `Apache-2.0` `PHP`
+- [ShaFi](https://github.com/dealfonso/shafi) - ShaFi is a platform to share files similar to WeTransfer, but managed in your servers. `Apache-2.0` `PHP`
 - [Share](https://github.com/MrDemonWolf/share) - Simple yet advanced uploader - upload files, images and text with moderation tools for admins. Can be used for friends and family or just for you. Integration with ShareX and more. `MIT` `Nodejs`
 - [Sharry](https://github.com/eikek/sharry) - Share files easily over the internet between authenticated and anonymous users (both ways) with resumable up- and downloads. `GPL-3.0` `Scala/Java`
 - [Uguu](https://uguu.se/) - Stores files and deletes after X amount of time. ([Source Code](https://github.com/nokonoko/uguu)) `MIT` `PHP`
