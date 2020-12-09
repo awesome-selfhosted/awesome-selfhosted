@@ -744,7 +744,7 @@ _See https://github.com/n1trux/awesome-sysadmin#distributed-filesystems_
 
 #### Single-click/drag-n-drop upload
 
-- [BlackUpload](https://github.com/FarisCode511/BlackUpload) - An Anonymus File Uploader Script with Multi-File Upload Support `MIT` `PHP`
+- [BlackUpload](https://github.com/FarisCode511/BlackUpload) - An Anonymus File Uploader Script with Multi-File Upload Support. `MIT` `PHP`
 - [BoZoN](https://github.com/broncowdd/BoZoN) - Minimalist Drag and drop file sharing app. `AGPL-3.0` `PHP`
 - [Coquelicot](https://coquelicot.potager.org/) - Coquelicot is a “one-click” file sharing web application with a focus on protecting users’ privacy. ([Source Code](https://coquelicot.potager.org/gitweb/?p=coquelicot.git)) `AGPL-3.0` `Ruby`
 - [elixire](https://elixi.re) - Simple yet advanced screenshot uploading and link shortening service. ([Source Code](https://gitlab.com/elixire/elixire), [Clients](https://gitlab.com/elixire/elixiremanager)) `AGPL-3.0` `Python`
@@ -752,7 +752,7 @@ _See https://github.com/n1trux/awesome-sysadmin#distributed-filesystems_
 - [FireShare](https://auspham.dev/FireShare/) - 🔥A Full-Stack, Pub-Sub, Real-time secure file sharing system. Using NodeJS, ReactJS, SocketIO, MongoDB. Chai, WebdriverIO for testing. `Nodejs` `MIT`
 - [FileShelter](https://github.com/epoupon/fileshelter) - FileShelter is a self-hosted software that allows you to easily share files over the Internet. ([Demo](http://fileshelter.demo.poupon.io/)) `GPL-3.0` `C++`
 - [Files Sharing](https://github.com/axeloz/filesharing) - Open Source and self-hosted files sharing application based on unique and temporary links. `GPL-3.0` `PHP`
-- [gdprshare](https://github.com/lixmal/gdprshare) - web application to share files with GDPR compliance in mind `MIT` `Go`
+- [gdprshare](https://github.com/lixmal/gdprshare) - web application to share files with GDPR compliance in mind. `MIT` `Go`
 - [goploader](https://gpldr.in/) - Easy file sharing with server-side encryption, curl/httpie/wget compliant. ([Source Code](https://github.com/Depado/goploader)) `MIT` `Go`
 - [imgpush](https://github.com/hauxir/imgpush) - imgpush is a self-hosted file upload service that can easily be integrated into other webapps. `MIT` `Python`
 - [ipfs.pics](https://github.com/ipfspics/server) - ipfs.pics is a distributed image hosting website. `AGPL-3.0` `PHP`
@@ -768,13 +768,13 @@ _See https://github.com/n1trux/awesome-sysadmin#distributed-filesystems_
 - [ProjectSend](http://www.projectsend.org/) - Upload files and assign them to specific clients you create. Give access to those files to your clients. ([Source Code](https://github.com/ignacionelson/ProjectSend)) `GPL-2.0` `PHP`
 - [PsiTransfer](https://github.com/psi-4ward/psitransfer) - Simple open source self-hosted file sharing solution with robust up-/download-resume and password protection. `BSD-2-Clause` `Nodejs`
 - [Pste](https://dev.pste.pw/) - Just a simple file hosting application inspired by the likes of pomf.se and teknik.io. ([Source Code](https://github.com/FoxDev/pste)) `GPL-3.0` `Python`
-- [rails-file-share](https://github.com/ashish-r/rails-file-share) - File Sharing Application - Ruby on Rails `MIT` `Ruby`
+- [rails-file-share](https://github.com/ashish-r/rails-file-share) - File Sharing Application - Ruby on Rails. `MIT` `Ruby`
 - [ShaFi](https://github.com/dealfonso/shafi) - ShaFi is a platform to share files similar to WeTransfer, but managed in your servers `Apache-2.0` `PHP`
 - [Share](https://github.com/MrDemonWolf/share) - Simple yet advanced uploader - upload files, images and text with moderation tools for admins. Can be used for friends and family or just for you. Integration with ShareX and more. `MIT` `Nodejs`
 - [Sharry](https://github.com/eikek/sharry) - Share files easily over the internet between authenticated and anonymous users (both ways) with resumable up- and downloads. `GPL-3.0` `Scala/Java`
 - [Uguu](https://uguu.se/) - Stores files and deletes after X amount of time. ([Source Code](https://github.com/nokonoko/uguu)) `MIT` `PHP`
 - [Up1](https://github.com/Upload/Up1) - Client-side Encrypted Image Host. `MIT` `Nodejs`
-- [Web-File-Uploader](https://v2.femto.pw/) - A simple tool to let people upload and share images and files ([Source Code](https://github.com/femto-apps/web-file-uploader)) `MIT` `Nodejs`
+- [Web-File-Uploader](https://v2.femto.pw/) - A simple tool to let people upload and share images and files. ([Source Code](https://github.com/femto-apps/web-file-uploader)) `MIT` `Nodejs`
 - [XBackBone](https://github.com/SergiX44/XBackBone) - A simple, fast and lightweight file manager with instant sharing tools integration, like ShareX (a free and open-source screenshot utility for Windows). `AGPL-3.0` `PHP`
 - [YouTransfer](http://www.youtransfer.io) - YouTransfer is a simple but elegant self-hosted file transfer and sharing solution. ([Demo](http://demo.youtransfer.io/), [Source Code](https://github.com/remie/YouTransfer)) `Apache-2.0` `Nodejs`
 - [Zipline](https://zipline.diced.wtf/) - A lightweight, fast and reliable file sharing server that is commonly used with ShareX, offering a react-based Web UI and fast API. ([Source Code](https://github.com/diced/zipline)) `MIT` `Nodejs`
