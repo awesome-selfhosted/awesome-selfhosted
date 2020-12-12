@@ -744,7 +744,7 @@ _See https://github.com/n1trux/awesome-sysadmin#distributed-filesystems_
 
 #### Single-click/drag-n-drop upload
 
-- [BlackUpload](https://github.com/FarisCode511/BlackUpload) - An Anonymus File Uploader Script with Multi-File Upload Support. `MIT` `PHP`
+- [BlackUpload](https://github.com/FarisCode511/BlackUpload) - An Anonymous File Uploader Script with Multi-File Upload Support. `MIT` `PHP`
 - [BoZoN](https://github.com/broncowdd/BoZoN) - Minimalist Drag and drop file sharing app. `AGPL-3.0` `PHP`
 - [Coquelicot](https://coquelicot.potager.org/) - Coquelicot is a “one-click” file sharing web application with a focus on protecting users’ privacy. ([Source Code](https://coquelicot.potager.org/gitweb/?p=coquelicot.git)) `AGPL-3.0` `Ruby`
 - [elixire](https://elixi.re) - Simple yet advanced screenshot uploading and link shortening service. ([Source Code](https://gitlab.com/elixire/elixire), [Clients](https://gitlab.com/elixire/elixiremanager)) `AGPL-3.0` `Python`
