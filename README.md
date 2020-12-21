@@ -16,6 +16,7 @@ See [Contributing](.github/CONTRIBUTING.md).
   - [Automation](#automation)
   - [Blogging Platforms](#blogging-platforms)
   - [Bookmarks and Link Sharing](#bookmarks-and-link-sharing)
+  - [Business Intelligence](#business-intelligence)
   - [Calendaring and Contacts Management](#calendaring-and-contacts-management)
   - [Communication systems](#communication-systems)
     - [Custom communication systems](#custom-communication-systems)
@@ -213,6 +214,9 @@ _See also [Static Site Generators](#static-site-generators), [Content Management
 - [unmark](https://github.com/plainmade/unmark) - Open source to do app for links. `MIT` `PHP`
 - [ubookmark](https://ungleich.ch/u/projects/ubookmark/) - LDAP enabled bookmarking service. ([Demo](https://ipv6.blog), [Source Code](https://code.ungleich.ch/ungleich-public/ubookmark/)) `GPL-2.0` `Python`
 - [xBrowserSync](https://www.xbrowsersync.org) - Open source tool for syncing browser data between browsers and devices. ([Source Code](https://github.com/xBrowserSync)) `MIT` `Nodejs`
+
+## Business Intelligence
+- [Apache Superset](https://superset.apache.org/) - Open source Data Visualization and Data Exploration Platform. ([Source Code](https://github.com/apache/incubator-superset)) `Apache-2.0` `Python`
 
 ## Calendaring and Contacts Management
 
