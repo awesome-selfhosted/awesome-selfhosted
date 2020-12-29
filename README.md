@@ -613,7 +613,6 @@ _See https://github.com/n1trux/awesome-sysadmin#dns_
 - [paper{s}pace](https://dedicatedcode.com/projects/) - a small web application to manage all your offline documents. Provides a searchable storage for your documents and reminds you of upcoming tasks. ([Source Code](https://gitlab.com/dedicatedcode/paperspace)) `MIT` `Java`
 - [Teedy](https://teedy.io/) - (Ex SismicsDocs) Lightweight document management system packed with all the features you can expect from big expensive solutions. ([Source Code](https://github.com/sismics/docs)) `GPL-2.0` `Java`
 
-
 ## E-books and Integrated Library Systems (ILS)
 
 **[`^        back to top        ^`](#)**
