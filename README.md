@@ -1455,7 +1455,7 @@ _See also [Project Management](#project-management) and [Ticketing](#ticketing).
 - [Taskfreak](http://www.taskfreak.com/original) - Simple but efficient web based task manager written in PHP. `GPL-3.0` `PHP`
 - [Tasks](https://github.com/m1guelpf/tasks) - Simple tasks and notes manager written in PHP, jQuery and Bootstrap using a custom flat file database. `MPL-2.0` `PHP`
 - [Tasks](https://github.com/thewhitetulip/Tasks) - Kanban based to-do list manager written in Go. `MIT` `Go`
-- [Taskord](https://taskord.com) - Get things done socially with community of makers. ([Demo](https://taskord.com), [Source Code](https://gitlab.com/taskord/taskord)) `MIT` `PHP`
+- [Taskord](https://taskord.com) - Get things done socially with community of makers. ([Source Code](https://gitlab.com/taskord/taskord)) `MIT` `PHP`
 - [Taskwarrior](https://taskwarrior.org/) - Taskwarrior is Free and Open Source Software that manages your TODO list from your command line. It is flexible, fast, efficient, and unobtrusive. It does its job then gets out of your way. ([Source Code](https://taskwarrior.org/download/#git)) `MIT` `C++`
 - [Tinyissue](https://github.com/satrun77/tinyissue) - Simple Issue Tracking for Teams. `MIT` `PHP`
 - [todo](https://github.com/prologic/todo) - Simple todo list manager. ([Demo](https://todo.mills.io)) `MIT` `Go`
