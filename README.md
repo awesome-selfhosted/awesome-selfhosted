@@ -408,6 +408,7 @@ _[SIP](https://en.wikipedia.org/wiki/Session_Initiation_Protocol)/[IPBX](https:/
 - [SipXcom](http://sipxcom.org/) - Open source unified communications system. ([Source Code](https://github.com/sipXcom/sipxecs)) `AGPL-3.0` `Java`
 - [SIP3](https://sip3.io/) - VoIP troubleshooting and monitoring platform. ([Demo](https://demo.sip3.io), [Source Code](https://github.com/sip3io/)) `Apache-2.0` `Kotlin`
 - [Wazo](http://wazo-platform.org/) - Full-featured IPBX solution built atop Asterisk with integrated Web administration interface and REST-ful API. ([Source Code](https://github.com/wazo-platform)) `GPL-3.0` `Python`
+- [Issabel](https://www.issabel.com/) - It's a platform that simplifies the management of your business interaction channels, incorporating a Telephone exchange (VoIP) with email, CRM, fax, videoconference, recording, reports and more `GPL` `PHP`
 
 ### Social Networks and Forums
 
@@ -1586,6 +1587,9 @@ _See also [Documentation Generators](#documentation-generators), [Wikimatrix](ht
 - [UBOS](http://ubos.net/) - Linux distro that runs on indie boxes (personal servers and IoT devices). Single-command installation and management of apps - Jenkins, Mediawiki, Owncloud, WordPress, etc., and other features. `GPL-3.0` `Perl/Other`
 - [WikiSuite](https://wikisuite.org) - The most comprehensive and integrated Free / Libre / Open Source enterprise software suite. ([Source Code](https://wikisuite.org/Source-Code)) `Multiple` `ClearOS`
 - [YunoHost](https://yunohost.org/) - Server operating system aiming to make self-hosting accessible to everyone. ([Demo](https://yunohost.org/#/try), [Source Code](https://github.com/YunoHost)) `AGPL-3.0` `Python/Other`
+
+## Assets managment
+- [Snipe-it](https://snipeitapp.com/) - Easily see which assets are assigned, to whom, and their physical location. Check them back into inventory with one click, or click through to see the asset's complete history. ([Demo](https://snipeitapp.com/demo), [Source Code](https://github.com/snipe/snipe-it/releases/tag/v5.0.12)) `AGPL-3.0` `PHP`
 
 <!-- END SOFTWARE LIST -->
 
