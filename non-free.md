@@ -43,7 +43,7 @@
 - [untrusted](https://github.com/AlexNisnevich/untrusted) - Untrusted is a unique puzzle game designed for geeks and developers, where you solve the puzzles in the game by reading and writing Javascript. ([Demo](http://alex.nisnevich.com/untrusted/)) `CCBYNCSAv3/Custom` `Nodejs`
 
 ## Internet Of Things (IoT)
-- [Atman IoT](https://atman-iot.com) - Atman IoT is a self hosted IoT gateway focused on IoT solution rapid prototyping, packaged as stand alone docker container, promising to help you build your IoT solution in a week!. ([Demo](https://atman-iot.com/signup-redirect)) `Proprietary` `Nodejs`
+- [Atman IoT](https://atman-iot.com) - Atman IoT is a self hosted IoT gateway focused on IoT solution rapid prototyping, packaged as stand alone docker container, promising to help you build your IoT solution in a week!. ([Demo](https://atman-iot.com/signup-redirect)) `⊘ Proprietary` `Nodejs`
 
 ## IPBX
 
