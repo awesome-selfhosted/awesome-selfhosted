@@ -749,6 +749,7 @@ _See https://github.com/n1trux/awesome-sysadmin#distributed-filesystems_
 #### Object storage/file servers
 
 - [Minio](https://minio.io/) - Minio is an open source object storage server compatible with Amazon S3 APIs. ([Source Code](https://github.com/minio/minio)) `Apache-2.0` `Go`
+- [SeaweedFS](https://github.com/chrislusf/seaweedfs) - SeaweedFS is an open source distributed file system supporting WebDAV, S3, FUSE mount, HDFS, etc, optimized for lots of small files, and easy to add capacity. ([Source Code](https://github.com/chrislusf/seaweedfs)) `Apache-2.0` `Go`
 - [Zenko CloudServer](https://www.zenko.io/cloudserver) - Zenko CloudServer, an open-source Node.js implementation of a server handling the Amazon S3 protocol. ([Source Code](https://github.com/scality/S3)) `Apache-2.0` `Nodejs`
 
 #### Single-click/drag-n-drop upload
