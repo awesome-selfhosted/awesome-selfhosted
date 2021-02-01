@@ -301,6 +301,7 @@ _See https://en.wikipedia.org/wiki/Comparison_of_CalDAV_and_CardDAV_implementati
 
 _Simple deployment of a mail server, e.g. for inexperienced or impatient admins._
 
+- [VPSTOOLBOX](https://github.com/johnrosen1/vpstoolbox) - Based on postfix dovecot and roundcubemail. ([Source Code](https://github.com/johnrosen1/vpstoolbox)) `MIT` `Shell`
 - [AnonAddy](https://anonaddy.com) - Open source email forwarding service for creating aliases. ([Source Code](https://github.com/anonaddy/anonaddy)) `MIT` `PHP`
 - [DebOps](https://debops.org/) - Your Debian-based data center in a box. A set of general-purpose Ansible roles that can be used to manage Debian or Ubuntu hosts. ([Source Code](https://github.com/debops/debops)) `GPL-3.0-only` `YAML/Ansible/Python`
 - [docker-mailserver](https://github.com/tomav/docker-mailserver) - Fullstack but simple mail server (smtp, imap, antispam, antivirus, etc.). Only configuration files, no SQL database. Keep it simple and versioned. Easy to deploy and upgrade. `MIT` `Docker`
