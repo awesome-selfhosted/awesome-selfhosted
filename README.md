@@ -1107,6 +1107,7 @@ _See https://github.com/n1trux/awesome-sysadmin#monitoring and https://github.co
 
 _See also [Wikis](#wikis)_
 
+- [Archivy](https://archivy.github.io/) - Self-hosted knowledge repository that allows you to safely preserve useful content that contributes to your own personal, searchable and extendable wiki. ([Source Code](https://github.com/archivy/archivy)) `MIT` `Python`
 - [BulletNotes](https://bulletnotes.io/) - Workflowy / Dynalist clone with Kanban (Trello) and Calendar functionality. Organize everything. ([Source Code](https://gitlab.com/NickBusey/BulletNotes)) `MIT` `Nodejs`
 - [Boostnote](https://boostnote.io/) - The note-taking app for programmers that focuses on markdown, snippets, and customizability. ([Source Code](https://github.com/BoostIO/Boostnote)) `GPL-3.0` `JavaScript`
 - [DailyNotes](https://github.com/m0ngr31/DailyNotes/) - App for taking notes and tracking tasks on a daily basis in Markdown. `MIT` `Python`
