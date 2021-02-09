@@ -17,6 +17,7 @@ See [Contributing](.github/CONTRIBUTING.md).
   - [Blogging Platforms](#blogging-platforms)
   - [Bookmarks and Link Sharing](#bookmarks-and-link-sharing)
   - [Calendaring and Contacts Management](#calendaring-and-contacts-management)
+  - [Change detection](#change-detection)
   - [Communication systems](#communication-systems)
     - [Custom communication systems](#custom-communication-systems)
     - [Email](#email)
@@ -224,6 +225,10 @@ _See also [Static Site Generators](#static-site-generators), [Content Management
 _Some [Groupware](#groupware) solutions also feature calendar/address book editing and synchronization._
 
 _See https://en.wikipedia.org/wiki/Comparison_of_CalDAV_and_CardDAV_implementations_
+
+## Change Detection
+
+- [changedetection.io](https://github.com/dgtlmoon/changedetection.io) - Self-hosted tool for staying up-to-date of web-site content changes, encourages consuming new information _pro-actively_ (know when important websites have content changes) instead of _re-actively_ (being fed information from social media and others)
 
 ### CalDAV or CardDAV servers
 
