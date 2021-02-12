@@ -216,6 +216,7 @@ _See also [Static Site Generators](#static-site-generators), [Content Management
 - [unmark](https://github.com/plainmade/unmark) - Open source to do app for links. `MIT` `PHP`
 - [ubookmark](https://ungleich.ch/u/projects/ubookmark/) - LDAP enabled bookmarking service. ([Demo](https://ipv6.blog), [Source Code](https://code.ungleich.ch/ungleich-public/ubookmark/)) `GPL-2.0` `Python`
 - [xBrowserSync](https://www.xbrowsersync.org) - Open source tool for syncing browser data between browsers and devices. ([Source Code](https://github.com/xBrowserSync)) `MIT` `Nodejs`
+- [Wallabag](https://wallabag.org/en) - Open source tool for saving and managing articles and bookmarks. ([Source Code](https://github.com/wallabag/wallabag)) `MIT` `PHP`
 
 ## Calendaring and Contacts Management
 
