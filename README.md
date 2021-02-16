@@ -1309,6 +1309,7 @@ _See also [Monitoring](#monitoring)_
 
 - [farmOS](http://farmos.org/) - Web-based farm record keeping application. ([Source Code](https://github.com/farmOS/farmOS)) `GPL-2.0` `PHP`
 - [grocy](https://grocy.info/) - ERP beyond your fridge - grocy is a web-based self-hosted groceries & household management solution for your home. ([Demo](https://en.demo.grocy.info/), [Source Code](https://github.com/grocy/grocy)) `MIT` `PHP`
+- [Grownetics](https://grownetics.co) - Grownetics is a platform to help the world learn how to grow every plant better. Connect sensors to your plants and track them in real time. ([Source Code](https://gitlab.com/grownetics/grownetics)) `GPL-3` `PHP`
 - [Tania](https://github.com/Tanibox/tania-core) - Tania is a free and open source farming management system for everyone. You can manage your areas, reservoirs, farm tasks, inventories, and the crop growing progress. `Apache-2.0` `Go`
 
 ### Enterprise Resource Planning
