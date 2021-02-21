@@ -17,7 +17,6 @@ See [Contributing](.github/CONTRIBUTING.md).
   - [Blogging Platforms](#blogging-platforms)
   - [Bookmarks and Link Sharing](#bookmarks-and-link-sharing)
   - [Calendaring and Contacts Management](#calendaring-and-contacts-management)
-  - [Change detection](#change-detection)
   - [Communication systems](#communication-systems)
     - [Custom communication systems](#custom-communication-systems)
     - [Email](#email)
