@@ -98,7 +98,6 @@
 - [Bamboo](https://www.atlassian.com/software/bamboo) `⊘ Proprietary` - A continuous integration server `Java`
 - [Buddy Enterprise](https://buddy.works/) - The Git and Continuous Integration / Delivery Platform. `⊘ Proprietary` `Nodejs/Java`
 - [Cloud9](https://c9.io/) `⊘ Proprietary` - Your development environment, in the cloud ([Source code](https://github.com/c9/core)) `Nodejs`
-- [Confluence](https://www.atlassian.com/software/confluence) `⊘ Proprietary` - A team collaboration software `Java`
 - [Crucible](https://www.atlassian.com/software/crucible/overview) `⊘ Proprietary` - A peer code review application `Java`
 - [Documize](https://documize.com) `⊘ Proprietary` - Modern docs & wiki software built for software team collaboration. `Go`
 - [JIRA](https://www.atlassian.com/software/jira) `⊘ Proprietary` - A professional and extensible issue tracker `Java`
