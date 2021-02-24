@@ -4,7 +4,7 @@
 
 ## Analytics
 
-- [userTrack](https://www.usertrack.net/) `⊘ Proprietary` - userTrack is a web analytics platform with heatmaps, session recordings and powerful user segmentation feature. Updated very regularly. ([Demo](http://dashboard.usertrack.net/)) `PHP/MySQL/ReactJS`
+- [userTrack](https://www.usertrack.net/) `⊘ Proprietary` - userTrack is a web analytics platform with heatmaps, session recordings and powerful user segmentation feature. Updated very regularly. ([Demo](https://dashboard.usertrack.net/server/demoLogin.php)) `PHP/MySQL/ReactJS`
 - [UXLens](https://uxlens.com/) `⊘ Proprietary` - UXLens is a website visitor recording software meant for identifying UI issues and fix them to improve user experience. Formerly known as SessionRecord ([Demo](https://console.uxlens.com/test)) `Docker Nodejs`
 
 
@@ -21,7 +21,6 @@
 
 - [Dialog](https://dlg.im) `⊘ Proprietary` - Handy and feature-rich multi-device solution with native mobile clients, SIP integration, chatbots, 3rd-party integrations. It brings communication efficiency without sacrificing privacy. Works in closed circuit, encrypts push notifications. ([Demo](https://dlg.im/en/download)) `Scala/Go`
 - [Groupboard](https://www.groupboard.com) `⊘ Proprietary` - Online whiteboard, audio/video conferencing, screen sharing, shared code editing and optional session recording/playback.
-- [HipChat](https://www.atlassian.com/software/hipchat) `⊘ Proprietary` - A team chat solution with 1:1 chat audio and video, third party integration and more. `PHP/Python`
 - [PrivMX WebMail](https://privmx.com) - an alternative private mail system - web-based, end-to-end encrypted by design, self-hosted, decentralized, uses independent PKI. Easy to install and administrate, freeware, open-source. `PHP`
 
 ## E-books and Integrated Library Systems (ILS)
@@ -41,6 +40,9 @@
 
 - [Cubiks-2048](https://github.com/Kshitij-Banerjee/Cubiks-2048) - Clone of 2048 game in 3D. ([Demo](https://kshitij-banerjee.github.io/Cubiks-2048/)) `CCBYNCv4` `HTML5`
 - [untrusted](https://github.com/AlexNisnevich/untrusted) - Untrusted is a unique puzzle game designed for geeks and developers, where you solve the puzzles in the game by reading and writing Javascript. ([Demo](http://alex.nisnevich.com/untrusted/)) `CCBYNCSAv3/Custom` `Nodejs`
+
+## Internet Of Things (IoT)
+- [Atman IoT](https://atman-iot.com) - Atman IoT is a self hosted IoT gateway focused on IoT solution rapid prototyping, packaged as stand alone docker container, promising to help you build your IoT solution in a week!. ([Demo](https://atman-iot.com/signup-redirect)) `⊘ Proprietary` `Nodejs`
 
 ## IPBX
 
@@ -71,6 +73,7 @@
 - [ArtVenue](http://codecanyon.net/item/artvenue-image-sharing-community-script/5771542) `⊘ Proprietary` - Start your own photography community website, platform based on the Laravel PHP Framework. ([Demo](http://codecanyon.net/item/artvenue-image-sharing-community-script/full_screen_preview/5771542)) `PHP`
 - [Chevereto](https://chevereto.com/) `⊘ Proprietary` - A powerful and fast image hosting script that allows you to create your very own full featured image hosting website in just minutes. ([Demo](http://demo.chevereto.com/)) `PHP`
 - [Koken](http://koken.me/) `⊘ Proprietary` - Content management and web site publishing for photographers. `PHP`
+- [Lomorage](https://lomorage.com/) `⊘ Proprietary` - Google photo alternative via simple self-hosting software. Supported clients: iOS, Android, Web, MAC/Windows. Backend can run on Raspberry pi, Armbian, MAC/Windows/Linux `GO`
 - [PhotoStructure](https://photostructure.com/) `⊘ Proprietary` - All your family's photos and videos automatically organized into a fun and beautiful website. Runs via Docker, NodeJS, or native desktop installers. `NodeJS`
 - [Single File PHP Gallery](http://sye.dk/sfpg/) `⊘ Proprietary` - is a web gallery in one single PHP file. `PHP` 
 
@@ -95,7 +98,6 @@
 - [Bamboo](https://www.atlassian.com/software/bamboo) `⊘ Proprietary` - A continuous integration server `Java`
 - [Buddy Enterprise](https://buddy.works/) - The Git and Continuous Integration / Delivery Platform. `⊘ Proprietary` `Nodejs/Java`
 - [Cloud9](https://c9.io/) `⊘ Proprietary` - Your development environment, in the cloud ([Source code](https://github.com/c9/core)) `Nodejs`
-- [Confluence](https://www.atlassian.com/software/confluence) `⊘ Proprietary` - A team collaboration software `Java`
 - [Crucible](https://www.atlassian.com/software/crucible/overview) `⊘ Proprietary` - A peer code review application `Java`
 - [Documize](https://documize.com) `⊘ Proprietary` - Modern docs & wiki software built for software team collaboration. `Go`
 - [JIRA](https://www.atlassian.com/software/jira) `⊘ Proprietary` - A professional and extensible issue tracker `Java`
