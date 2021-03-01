@@ -983,7 +983,6 @@ _See also <https://en.wikipedia.org/wiki/List_of_streaming_media_systems>, <http
 
 ### Video Streaming
 
-- [Bitsii WebCam](https://gitlab.com/edgii/Bitsii/-/wikis/install-webcam) - Motion detecting WebCam application with remote accessibility. ([Source Code](https://gitlab.com/edgii/BCam)) `MPL-2.0` `Java/Other`
 - [Bluecherry](https://www.bluecherrydvr.com/) - Closed-circuit television (CCTV) software application which supports IP and Analog cameras. ([Source Code](https://github.com/bluecherrydvr/bluecherry-apps)) `GPL-2.0` `PHP`
 - [crtmpserver](https://packages.debian.org/stable/crtmpserver) - High performance RTMP/RTSP streaming server. `GPL-3.0` `C++`
 - [CyTube](https://github.com/calzoneman/sync) - CyTube is a web application providing media synchronization, chat, and more for an arbitrary number of channels. ([Demo](http://cytu.be)) `MIT` `Nodejs`
@@ -1093,7 +1092,6 @@ _See https://github.com/n1trux/awesome-sysadmin#monitoring and https://github.co
 
 _See also [Wikis](#wikis)_
 
-- [Bitsii Notebook](https://gitlab.com/edgii/Bitsii/-/wikis/Using-Bitsii-Notebook) - Very simple note taking application with web access as well as desktop and mobile editions. ([Source Code](https://gitlab.com/edgii/BNote)) `GPL-2.0` `Java/Other`
 - [BulletNotes](https://bulletnotes.io/) - Workflowy / Dynalist clone with Kanban (Trello) and Calendar functionality. Organize everything. ([Source Code](https://gitlab.com/NickBusey/BulletNotes)) `MIT` `Nodejs`
 - [BulletNotes](https://bulletnotes.io/) - Workflowy / Dynalist clone with Kanban (Trello) and Calendar functionality. Organize everything. ([Source Code](https://gitlab.com/NickBusey/BulletNotes)) `MIT` `Nodejs`
 - [Boostnote](https://boostnote.io/) - The note-taking app for programmers that focuses on markdown, snippets, and customizability. ([Source Code](https://github.com/BoostIO/Boostnote)) `GPL-3.0` `JavaScript`
