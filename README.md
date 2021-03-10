@@ -1005,6 +1005,7 @@ _See also <https://en.wikipedia.org/wiki/List_of_streaming_media_systems>, <http
 
 ### Video Streaming
 
+- [MediaCMS](https://mediacms.io) - MediaCMS is a modern, fully featured open source video and media CMS, written in Python/Django and React, featuring a REST API. ([Source Code](https://github.com/mediacms-io/mediacms)) `AGPL-3.0` `Python` `Django` `React`
 - [Bluecherry](https://www.bluecherrydvr.com/) - Closed-circuit television (CCTV) software application which supports IP and Analog cameras. ([Source Code](https://github.com/bluecherrydvr/bluecherry-apps)) `GPL-2.0` `PHP`
 - [crtmpserver](https://packages.debian.org/stable/crtmpserver) - High performance RTMP/RTSP streaming server. `GPL-3.0` `C++`
 - [CyTube](https://github.com/calzoneman/sync) - CyTube is a web application providing media synchronization, chat, and more for an arbitrary number of channels. ([Demo](http://cytu.be)) `MIT` `Nodejs`
