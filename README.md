@@ -1205,6 +1205,7 @@ _See also [Wikis](#wikis)_
 - [Stikked](https://github.com/claudehohl/Stikked) - Advanced and beautiful pastebin. ([Demo](https://paste.scratchbook.ch/)) `GPL-3.0` `PHP`
 - [Sup3rS3cretMes5age](https://github.com/algolia/sup3rS3cretMes5age) - Very simple (to deploy and to use) secret message service using Hashicorp Vault as a secrets storage. `MIT` `Go`
 - [Pasty](https://github.com/Lukaesebrot/pasty) - Pasty is a fast and lightweight code pasting server. ([Demo](https://p.kse.li)) `MIT` `Go`
+- [ExBin](https://github.com/m1dnight/exbin) - Exbin is a simple code pasting server. Includes private/public pastes and cli pastes. ([Demo](https://exbin.call-cc.be)) `MIT` `Elixir`
 
 ## Personal Dashboards
 
