@@ -1087,7 +1087,7 @@ _See also https://github.com/n1trux/awesome-sysadmin#it-asset-management_
 - [BTCPay Server](https://btcpayserver.org/) - A self-hosted Bitcoin and other cryptocurrencies payment processor. ([Demo](https://mainnet.demo.btcpayserver.org/), [Source Code](https://github.com/btcpayserver/)) `MIT` `C#`
 - [Boodle](https://github.com/manuel-uberti/boodle) - Simple accounting single-page application in Clojure and ClojureScript. `EPL-1.0` `Java`
 - [Budget App](https://github.com/paukiatwee/budgetapp) - Budget App is an open source personal budgeting application. `Apache-2.0` `Java`
-- [Crater](https://craterapp.com/) - Self-hosted invoice website / mobile app for freelancers & small businesses. ([Demo](https://demo.craterapp.com/), [Source Code](https://github.com/bytefury/crater)) `Laravel` `VueJS`
+- [Crater](https://craterapp.com/) - Self-hosted invoice website / mobile app for freelancers & small businesses. ([Demo](https://demo.craterapp.com/), [Source Code](https://github.com/bytefury/crater)) `BSD + CraterApp.com` `PHP`
 - [Dot Ledger](https://www.dotledger.com/) - Web-based personal finance management tool. ([Demo](https://demo.dotledger.com/), [Source Code](https://github.com/dotledger/dotledger)) `Apache-2.0` `Ruby`
 - [Economizzer](http://www.economizzer.org/) - An easy and secure system for you to manage your personal money and achieve your goals, and can be accessed by computer, tablet or smartphone. ([Demo](https://github.com/gugoan/economizzer#live-demo), [Source Code](https://github.com/gugoan/economizzer)) `MIT` `PHP`
 - [ExMoney](https://github.com/gaynetdinov/ex_money) - Self-hosted personal finance app. `ISC` `Elixir`
