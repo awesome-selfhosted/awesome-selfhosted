@@ -1466,6 +1466,7 @@ _See also [Static site generators](#static-site-generators)_
 - [Traduora](https://traduora.com) - Translation management platform for teams. ([Source Code](https://github.com/traduora/traduora)) `AGPL-3.0` `Docker/Nodejs`
 - [Weblate](https://weblate.org) - Web-based translation tool with tight version control integration. ([Demo](https://demo.weblate.org), [Source Code](https://github.com/WeblateOrg/weblate)) `GPL-3.0` `Python`
 - [Zanata](http://zanata.org) - Web-based translation platform for translators, content creators and developers to manage localisation projects. ([Source Code](https://github.com/zanata/zanata-platform)) `GPL-2.0` `Java`
+- [Localizer](https://localizer.dev) — Free self-hosted open-source crowd-translating service for your product. ([Source Code](https://github.com/backmeupplz/localizer-backend)) `MIT` `TypeScript`
 
 ## Static site generators
 
