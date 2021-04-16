@@ -1291,6 +1291,7 @@ _See also [Monitoring](#monitoring)_
 
 - [Alf.io](https://alf.io/) - The open source ticket reservation system. ([Demo](https://demo.alf.io/authentication), [Source Code](https://github.com/alfio-event/alf.io)) `GPL-3.0` `Java`
 - [Easy!Appointments](http://easyappointments.org/) - A highly customizable web application that allows your customers to book appointments with you via the web. ([Demo](http://easyappointments.org/demo/), [Source Code](https://github.com/alextselegidis/easyappointments)) `GPL-3.0` `PHP`
+- [calendso](https://calendso.com/), [Source Code](https://github.com/calendso/calendso) -  The open-source Calendly alternative.  ([Demo](https://app.calendso.com/bailey)) `MIT` `Nodejs`
 
 ## Proxy
 
