@@ -108,6 +108,7 @@
 - [BitBucket Server](https://www.atlassian.com/software/bitbucket/server) `⊘ Proprietary` - An enterprise-level Git solution similar to GitLab `Java`
   
 ## Ticketing
+- [Deskpro](https://www.deskpro.com/) `⊘ Proprietary` - On-Premise helpdesk software that includes email, chat, voice & helpcentre publishing. Full visible source code and API.
 - [Full Help](https://www.fullhelp.com/en/) `⊘ Proprietary` - Simple, easy to use help desk & knowledge base software. Custom branding, custom themes, restful API, communication channels, multi-company support, multi-language support, and much more! At least 1 new release per month. [Changelog](https://www.fullhelp.com/en/changelog) `PHP`
 - [Jitbit Helpdesk](https://www.jitbit.com/helpdesk/) `⊘ Proprietary` - Self-hosted help desk software - simple but powerful. ([Demo](https://www.jitbit.com/hosted-helpdesk/trial/)) `ASP.NET`
 - [SupportPal](https://www.supportpal.com/) `⊘ Proprietary` - Powerful help desk software - easy, fast and intuitive. ([Demo](http://demo.supportpal.com/)) `PHP`
