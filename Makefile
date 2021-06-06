@@ -1,6 +1,6 @@
 #!/usr/bin/make -f
 SHELL = /bin/bash
-AWESOME_BOT_OPTIONS = "--allow-redirect --skip-save-results --allow 202 --white-list airsonic.github.io/docs/apps,flaskbb.org,nitter.net"
+AWESOME_BOT_OPTIONS = --allow-redirect --skip-save-results --allow 202 --white-list flaskbb.org,nitter.net,airsonic.github.io/docs/apps
 
 all: check_all
 
