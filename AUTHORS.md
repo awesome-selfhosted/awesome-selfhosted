@@ -348,7 +348,7 @@
 |2|Patrik Ragnarsson <patrik@starkast.net>|
 |2|Pavel Korotkiy <outdead@mail.ru>|
 |2|Pavel Lobashov <ShockwaveNN@gmail.com>|
-|2|Pernat1y <mirnesen@gmail.com>|
+|2|Pernat1y <-@gmail.com>|
 |2|Peter Demin <poslano@gmail.com>|
 |2|Peter Ivanov <peter@microweber.com>|
 |2|Phil <phil@sapphyrus.xyz>|
