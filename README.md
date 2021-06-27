@@ -611,7 +611,7 @@ _CMS are a practical way to setup a website with many features. CMS often come w
 
 **[`^        back to top        ^`](#)**
 
-_See https://github.com/n1trux/awesome-sysadmin#dns_
+_See https://github.com/awesome-foss/awesome-sysadmin#dns_
 
 - [blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy (like Pi-hole) as ad-blocker for local network with many features. `Apache-2.0` `Go`
 - [CoreDNS](https://coredns.io/) - Plugin driven DNS Server with support for proxying to Google's DNS-over-HTTPS. ([Source Code](https://github.com/coredns/coredns)) `Apache-2.0` `Go`
@@ -671,7 +671,7 @@ _Some [Content Management System](#content-management-systems-cms) and [Archivin
 
 **[`^        back to top        ^`](#)**
 
-_See https://github.com/n1trux/awesome-sysadmin#identity-management_
+_See https://github.com/awesome-foss/awesome-sysadmin#identity-management_
 
 ## Feed Readers
 
@@ -726,7 +726,7 @@ _Some [Groupware](#groupware) solutions also feature file sharing and synchroniz
 
 **[`^        back to top        ^`](#)**
 
-_See https://github.com/n1trux/awesome-sysadmin#distributed-filesystems_
+_See https://github.com/awesome-foss/awesome-sysadmin#distributed-filesystems_
 
 #### File transfer/synchronization
 
@@ -1106,7 +1106,7 @@ _See also <https://en.wikipedia.org/wiki/List_of_streaming_media_systems>, <http
 
 **[`^        back to top        ^`](#)**
 
-_See also https://github.com/n1trux/awesome-sysadmin#it-asset-management_
+_See also https://github.com/awesome-foss/awesome-sysadmin#it-asset-management_
 
 - [Akaunting](https://akaunting.com/) - Akaunting is a free, online and open source accounting software designed for small businesses and freelancers. ([Source Code](https://github.com/akaunting/akaunting)) `GPL-3.0` `PHP`
 - [BTCPay Server](https://btcpayserver.org/) - A self-hosted Bitcoin and other cryptocurrencies payment processor. ([Demo](https://mainnet.demo.btcpayserver.org/), [Source Code](https://github.com/btcpayserver/)) `MIT` `C#`
@@ -1139,7 +1139,7 @@ _See also https://github.com/n1trux/awesome-sysadmin#it-asset-management_
 
 **[`^        back to top        ^`](#)**
 
-_See https://github.com/n1trux/awesome-sysadmin#monitoring and https://github.com/n1trux/awesome-sysadmin#metric--metric-collection_
+_See https://github.com/awesome-foss/awesome-sysadmin#monitoring and https://github.com/awesome-foss/awesome-sysadmin#metric--metric-collection_
 
 ## Note-taking and Editors
 
@@ -1385,7 +1385,7 @@ _See also [Monitoring](#monitoring)_
 
 ### Project Management
 
-_See also [Ticketing](#ticketing), [Task management/To-do lists](#task-managementto-do-lists), [awesome-sysadmin/Code Review](https://github.com/n1trux/awesome-sysadmin#code-review)_
+_See also [Ticketing](#ticketing), [Task management/To-do lists](#task-managementto-do-lists), [awesome-sysadmin/Code Review](https://github.com/awesome-foss/awesome-sysadmin#code-review)_
 
 - [Bonobo Git Server](https://bonobogitserver.com/) - Set up your own self hosted git server on IIS for Windows. Manage users and have full control over your repositories with a nice user friendly graphical interface. ([Source Code](https://github.com/jakubgarfield/Bonobo-Git-Server)) `MIT` `C#`
 - [Fossil](https://www.fossil-scm.org/index.html/doc/trunk/www/index.wiki) - Distributed version control system featuring wiki and bug tracker. `BSD-2-Clause-FreeBSD` `C`
@@ -1450,7 +1450,7 @@ _See [Ticketing](#ticketing)_
 
 ### Continuous Integration
 
-_See [awesome-sysadmin/Continuous Integration & Continuous Deployment](https://github.com/n1trux/awesome-sysadmin#continuous-integration--continuous-deployment)_
+_See [awesome-sysadmin/Continuous Integration & Continuous Deployment](https://github.com/awesome-foss/awesome-sysadmin#continuous-integration--continuous-deployment)_
 
 ### UX testing
 
@@ -1585,13 +1585,13 @@ _Before hosting one, please see [shortcomings](https://en.wikipedia.org/wiki/URL
 
 **[`^        back to top        ^`](#)**
 
-_See https://github.com/n1trux/awesome-sysadmin#vpn_
+_See https://github.com/awesome-foss/awesome-sysadmin#vpn_
 
 ## Web servers
 
 **[`^        back to top        ^`](#)**
 
-_See https://github.com/n1trux/awesome-sysadmin#web_
+_See https://github.com/awesome-foss/awesome-sysadmin#web_
 
 ## Wikis
 
@@ -1717,7 +1717,7 @@ _See also [Documentation Generators](#documentation-generators), [Wikimatrix](ht
 
 - [Awesome Big Data](https://github.com/onurakpolat/awesome-bigdata) - Curated list of awesome big data frameworks, resources and other awesomeness.
 - [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets) - List of high quality, topic-centric public data sources.
-- [Awesome Sysadmin](https://github.com/n1trux/awesome-sysadmin) - Curated list of amazingly awesome open source sysadmin resources.
+- [Awesome Sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - Curated list of amazingly awesome open source sysadmin resources.
 - Lists of software aimed at privacy and decentralization in some form: [PRISM Break](https://prism-break.org/en/), [privacytools.io](https://www.privacytools.io/), [Alternative Internet](https://redecentralize.github.io/alternative-internet/), [Libre Projects](http://libreprojects.net/)
 - Dynamic Domain Name services: [Afraid.org](https://freedns.afraid.org/domain/registry/), [Pagekite](https://pagekite.net/)
 - Communities/forums: [/r/selfhosted](https://www.reddit.com/r/selfhosted), [IndieWeb](https://indieweb.org/)
