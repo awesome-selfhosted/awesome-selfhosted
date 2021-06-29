@@ -1,0 +1,108 @@
+name: Monthly Checks
+
+on:
+  schedule:
+    - cron:  '* * 1 * *'
+  workflow_dispatch:
+
+jobs:
+  create-issue:
+    if: always()
+    needs: [check_syntax, check_links, check_github_commit_dates]
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/download-artifact@v2
+        with:
+          name: result          
+      - name: Create Issue template
+        run: |
+          printf '%s\n%s%s %s\n%s\n%s\n' '---' 'title: Monthly Checks - ' $( date +"%B %Y" ) 'labels: automated issue' '---' > .github/ISSUE_TEMPLATE.md
+          echo -e '[![Monthly Checks](https://github.com/n8225/awesome-selfhosted/actions/workflows/monthly.yml/badge.svg)](https://github.com/n8225/awesome-selfhosted/actions/workflows/monthly.yml)' >> .github/ISSUE_TEMPLATE.md
+          echo -e '\n--------------------' >> .github/ISSUE_TEMPLATE.md
+          echo -e '\n### Awersome_Bot link checks\n' >> .github/ISSUE_TEMPLATE.md
+          jq -r '.[] | ["* [ ] ", "Line ", .loc, ": ", .link, ", ", .error] | join("")'  ab-results-README.md-filtered.json >> .github/ISSUE_TEMPLATE.md || true
+          cat github_commit_dates.md >> .github/ISSUE_TEMPLATE.md || true
+          cat syntax_check.md >> .github/ISSUE_TEMPLATE.md || true
+          echo -e '\n--------------------' >> .github/ISSUE_TEMPLATE.md
+          printf '%s/%s%s%s' ${GITHUB_SERVER_URL} ${GITHUB_REPOSITORY} '/actions/runs/' ${GITHUB_RUN_ID} >> .github/ISSUE_TEMPLATE.md
+      - name: Verify template
+        run: cat .github/ISSUE_TEMPLATE.md
+      - name: create issue
+        id: create-iss
+        uses: buluma/create-an-issue@v2
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - run: 'echo Created issue number ${{ steps.create-iss.outputs.number }}'
+      
+  check_github_commit_dates:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Setup Python 3.x
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+      - name: Setup Checks
+        run: pip3 install Requests
+      - name: Checks
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python tests/check-github-commit-dates.py README.md
+      - name: Check result
+        if: ${{ always() }}
+        run: cat github_commit_dates.md
+      - name: Upload result
+        if: ${{ always() }}
+        uses: actions/upload-artifact@v2
+        with:
+          name: result
+          path: github_commit_dates.md
+
+  check_syntax:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Use Node.js
+        uses: actions/setup-node@v1
+        with:
+          node-version: '14.x'
+      - name: Setup Checks
+        run: |
+          cd tests 
+          npm install --silent chalk
+          cd ..
+      - name: Checks
+        run:
+          script -e -c 'node tests/test.js -r README.md'
+      - name: Check result
+        if: ${{ always() }}
+        run: cat syntax_check.md
+      - name: upload check syntax results
+        if: ${{ always() }}
+        uses: actions/upload-artifact@v2
+        with:
+          name: result
+          path: syntax_check.md
+
+  check_links:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Set up Ruby 2.6
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 2.6.7
+      - name: Setup Checks
+        run: gem install awesome_bot
+      - name: Checks
+        run: awesome_bot -f README.md --allow-redirect --allow 202,429 --white-list < tests/link_whitelist.txt
+      - name: Check result
+        if: ${{ always() }}
+        run: cat ab-results-README.md-filtered.json
+      - name: upload awesome_bot results
+        if: ${{ always() }}
+        uses: actions/upload-artifact@v2
+        with:
+          name: result
+          path: ab-results-*.json

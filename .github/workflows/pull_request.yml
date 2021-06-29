@@ -1,0 +1,36 @@
+name: Pull Request Checks
+
+on:
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  check_syntax:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Use Node.js
+        uses: actions/setup-node@v1
+        with:
+          node-version: '14.x'
+      - name: Checks
+        run: |
+          cd test 
+          npm install chalk
+          cd ..
+          git diff origin/master -U0 README.md | grep --perl-regexp --only-matching "(?<=^\+).*" >> temp.md 
+          script -e -c 'node tests/test.js -r README.md -d temp.md'
+
+  check_links:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Set up Ruby 2.6
+        uses: actions/setup-ruby@v1
+        with:
+          ruby-version: 2.6.x
+      - name: Checks
+        run: |
+          gem install awesome_bot
+          awesome_bot -f temp.md --allow-redirect --skip-save-results --allow 202 --white-list < tests/awesomebot_whitelist.txt
+          
