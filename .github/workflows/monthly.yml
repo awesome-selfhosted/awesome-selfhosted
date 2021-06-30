@@ -20,11 +20,13 @@ jobs:
           printf '%s\n%s%s %s\n%s\n%s\n' '---' 'title: Monthly Checks - ' $( date +"%B %Y" ) 'labels: automated issue' '---' > .github/ISSUE_TEMPLATE.md
           echo -e '[![Monthly Checks](https://github.com/n8225/awesome-selfhosted/actions/workflows/monthly.yml/badge.svg)](https://github.com/n8225/awesome-selfhosted/actions/workflows/monthly.yml)' >> .github/ISSUE_TEMPLATE.md
           echo -e '\n--------------------' >> .github/ISSUE_TEMPLATE.md
-          echo -e '\n### Awersome_Bot link checks\n' >> .github/ISSUE_TEMPLATE.md
+          echo -e '\n### Awesome_Bot link checks\n' >> .github/ISSUE_TEMPLATE.md
           jq -r '.[] | ["* [ ] ", "Line ", .loc, ": ", .link, ", ", .error] | join("")'  ab-results-README.md-filtered.json >> .github/ISSUE_TEMPLATE.md || true
+          echo -e '\n' >> .github/ISSUE_TEMPLATE.md
           cat github_commit_dates.md >> .github/ISSUE_TEMPLATE.md || true
+          echo -e '\n' >> .github/ISSUE_TEMPLATE.md
           cat syntax_check.md >> .github/ISSUE_TEMPLATE.md || true
-          echo -e '\n--------------------' >> .github/ISSUE_TEMPLATE.md
+          echo -e '\n--------------------\n' >> .github/ISSUE_TEMPLATE.md
           printf '%s/%s%s%s' ${GITHUB_SERVER_URL} ${GITHUB_REPOSITORY} '/actions/runs/' ${GITHUB_RUN_ID} >> .github/ISSUE_TEMPLATE.md
       - name: Verify template
         run: cat .github/ISSUE_TEMPLATE.md

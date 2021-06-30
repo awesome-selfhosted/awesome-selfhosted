@@ -18,7 +18,7 @@ Usage:
 
 """
 
-import json
+import math
 import sys
 import re
 import os
@@ -40,18 +40,36 @@ __status__ = "Production"
 ###############################################################################
 logging.basicConfig(level=logging.DEBUG, format='%(asctime)s - %(levelname)s - %(message)s', datefmt='%d-%b-%y %H:%M:%S')
 
+""" find all URLs of the form https://github.com/owner/repo """
+def parse_github_projects():
+    with open(sys.argv[1], 'r') as readme:
+        logging.info('Testing ' + sys.argv[1])
+        data = readme.read()
+        project_urls = re.findall('https://github\.com/([a-zA-Z\d\-\._]{1,39}/[a-zA-Z\d\-\._]{1,39})(?=\)|/|#\s)', data)
+    """ Uncomment this to debug the list of matched URLs """
+    # print(str(project_urls))
+    # print(len(project_urls))
+    # with open('links.txt', 'w') as filehandle:
+    #     for l in project_urls:
+    #         filehandle.write('%s\n' % l)
+
+    # exit(0)
+    sorted_urls = sorted(set(project_urls))
+    logging.info('Checking ' + str(len(sorted_urls)) + ' github repos.')
+    return sorted_urls
+
+
 """ function to query Github graphql API """
-def query_github_api(query, variables):
+def query_github_api(query):
     access_token = os.environ['GITHUB_TOKEN']
     headers = {"Authorization": "Bearer " + access_token}
     github_adapter = HTTPAdapter(max_retries=7)
     session = requests.Session()
     session.mount('https:api.github.com/graphql', github_adapter)
     try:
-        logging.info('Querying API for %s', variables)
-        response = session.post('https://api.github.com/graphql', timeout=(10) , json={'query': query, 'variables': variables}, headers=headers)
+        response = session.post('https://api.github.com/graphql', timeout=(10) , json={'query': query}, headers=headers)
         response.raise_for_status()
-        logging.debug(response.json())
+        #logging.debug(response.json())
         return response.json()
     except requests.exceptions.HTTPError as errh:
         logging.error("An Http Error occurred:" + repr(errh))
@@ -74,22 +92,8 @@ def add_comma(s):
     else:
         return s
 
-output = []
-
-""" find all URLs of the form https://github.com/owner/repo """
-def parse_github_projects():
-    with open(sys.argv[1], 'r') as readme:
-        logging.info('Testing ' + sys.argv[1])
-        data = readme.read()
-        #project_urls = re.findall('https://github\.com/.*', data)
-        project_urls = re.findall('https://github\.com/([a-zA-Z\d\-\._]{1,39}/[a-zA-Z\d\-\._]{1,39})(?=\)|/|#\s)', data)
-        logging.info('Checking ' + str(len(project_urls)) + ' github repos.')
-    return sorted(set(project_urls))
-
-urls = parse_github_projects()
-
 """ function to check remaining rate limit """
-def check_github_remaining_limit(): 
+def check_github_remaining_limit(urls, project_per_call): 
     query = '''
     query{
             viewer { 
@@ -102,7 +106,7 @@ def check_github_remaining_limit():
             }
     }'''
     logging.info("Checking github api remaining rate limit.")
-    result = query_github_api(query, '')
+    result = query_github_api(query)
     if 'errors' in result:
         logging.error(result["errors"][0]["type"] + ", " + result["errors"][0]["message"])
         with open('github_commit_dates.md', 'w') as filehandle:
@@ -115,84 +119,91 @@ def check_github_remaining_limit():
             with open('github_commit_dates.md', 'w') as filehandle:
                 filehandle.write('%s\n' % '--------------------\n### Github commit date checks')  
                 filehandle.write('Github api calls remaining is insufficient, exiting.\n')
-                filehandle.write('URLS: ' + str(len(urls)) + ', api calls remaining: ' + str(result["data"]["rateLimit"]["remaining"]) + ', Resets at: ' + str(result["data"]["rateLimit"]["resetAt"]) + '\n')
+                filehandle.write('URLS: ' + str(len(urls)) + str(math.ceil(len(urls) / project_per_call)) + ', Github API cost: ' + ', api calls remaining: ' + str(result["data"]["rateLimit"]["remaining"]) + ', Resets at: ' + str(result["data"]["rateLimit"]["resetAt"]) + '\n')
             sys.exit(1)
 
-""" Uncomment this to debug the list of matched URLs """
-# print(str(urls))
-# print(len(urls))
-# with open('links.txt', 'w') as filehandle:
-#     for l in urls:
-#         filehandle.write('%s\n' % l)
-
-# exit(0)
-
-check_github_remaining_limit()
-i = 0
-""" load project metadata, output last commit date and URL """
-for url in urls:
-    split = url.split("/")
-    variables = {
-        "owner": split[0],
-        "name": split[1]
-    }
-    query = '''
-    query($owner: String!, $name: String!){
-            repository(owner:$owner, name:$name) {
-            pushedAt
-            updatedAt
-            isArchived
-            isDisabled
-            nameWithOwner
-            }
-            rateLimit {
-                cost
-                remaining
-                resetAt
-            }
-    }'''
-
-    github_graphql_data = query_github_api(query, variables)
-    if 'errors' in github_graphql_data:
-        logging.info(github_graphql_data["errors"][0]["type"])
-        output.append([date(1900, 1, 1),'https://github.com/'+url, github_graphql_data["errors"][0]["type"]])
-    else:
-        has_issue = False
-        note = ''
-        if github_graphql_data["data"]["repository"]["isArchived"] == True:
-            has_issue = True
-            note = 'Archived'
-        if github_graphql_data["data"]["repository"]["isDisabled"] == True:
-            if note == '':
-                has_issue = True
-                note = 'Disabled'
+def parse_api_output(github_graphql_data, url_store):
+    output = []
+    if "errors" in github_graphql_data:
+        for e in github_graphql_data["errors"]:
+            print(e)
+            logging.info('https://github.com/'+ url_store[e["path"][0]] + ", " + e["type"])
+            output.append([date(1900, 1, 1),'https://github.com/'+ url_store[e["path"][0]], e["type"]])
+    if "data" in github_graphql_data:
+        for g, v in github_graphql_data["data"].items():
+            if github_graphql_data["data"][g] == None:
+                continue
+            elif g == 'rateLimit':
+                logging.info('Remaining Ratelimit: ' + str(github_graphql_data["data"][g]["remaining"]) + ' Cost: ' + str(github_graphql_data["data"][g]["cost"]))
             else:
-                note = note + ', Disabled'
-        if github_graphql_data["data"]["repository"]["nameWithOwner"] != url:
-            if note == '':
-                has_issue = True
-                note = 'Moved to https://github.com/'+ github_graphql_data["data"]["repository"]["nameWithOwner"]
-            else:
-                note = note + ', Moved to https://github.com/'+ github_graphql_data["data"]["repository"]["nameWithOwner"]
-        project_pushed_at = datetime.strptime(github_graphql_data["data"]["repository"]["pushedAt"], '%Y-%m-%dT%H:%M:%SZ').date()
-        if project_pushed_at < (date.today() - timedelta(days = 365)):
-            has_issue = True
-        if has_issue:
-            output.append([project_pushed_at, 'https://github.com/'+url, note])
-            logging.info(str(project_pushed_at)+' | https://github.com/'+url+' | '+note)
+                has_issue = False
+                note = ''
+                if github_graphql_data["data"][g]["isArchived"] == True:
+                    has_issue = True
+                    note = 'Archived'
+                if github_graphql_data["data"][g]["isDisabled"] == True:
+                    if note == '':
+                        has_issue = True
+                        note = 'Disabled'
+                    else:
+                        note = note + ', Disabled'
+                if github_graphql_data["data"][g]["nameWithOwner"] != url_store[g]:
+                    if note == '':
+                        has_issue = True
+                        note = 'Moved to https://github.com/'+ github_graphql_data["data"][g]["nameWithOwner"]
+                    else:
+                        note = note + ', Moved to https://github.com/'+ github_graphql_data["data"][g]["nameWithOwner"]
+                project_pushed_at = datetime.strptime(github_graphql_data["data"][g]["pushedAt"], '%Y-%m-%dT%H:%M:%SZ').date()
+                if project_pushed_at < (date.today() - timedelta(days = 365)):
+                    has_issue = True
+                if has_issue:
+                    output.append([project_pushed_at, 'https://github.com/'+url_store[g], note])
+                    logging.info(str(project_pushed_at)+' | https://github.com/'+url_store[g]+' | '+note)
+    return output
+
+def github_api_alias(url):
+    replace = ["-", "/", "."]
+    for s in replace:
+        url = url.replace(s, "_")
+    return "_" + url 
+
+def build_query(urls, project_per_call):
+    i = 0
+    output = []
+    query_param = '{pushedAt updatedAt isArchived isDisabled nameWithOwner}'
+    url_store = {}    
+    while (i < len(urls)):
+        query_repo_count = 0
+        query = "query{rateLimit{cost remaining resetAt}"
+        while (query_repo_count < project_per_call and i < len(urls)):
+            key = github_api_alias(urls[i])
+            url_store[key] = urls[i]
+            split = urls[i].split("/")
+            query += key + ':' + 'repository(owner:"' + split[0] + '" name:"' + split[1] + '")' + query_param
+            query_repo_count += 1
             i += 1
+        query += "}"
+        output.extend(parse_api_output(query_github_api(query), url_store))
+    logging.debug('Total: ' + str(len(urls)) + ' Checked: ' + str(len(url_store)))
+    return output
 
+def main():
+    project_per_call = 100
+    urls = parse_github_projects()
+    check_github_remaining_limit(urls, project_per_call)
+    output = build_query(urls, project_per_call)
+    if len(output) > 0:
+        sorted_list = sorted(output, key=lambda x: x[0])
+        with open('github_commit_dates.md', 'w') as filehandle:
+            filehandle.write('%s\n' % '--------------------\n### Github commit date checks')        
+            filehandle.write('%s\n' % '#### There were %s repos with issues.' % str(len(output)))
+            for l in sorted_list:
+                filehandle.write('* [ ] %s, %s%s \n' % (str(l[0]), l[1], add_comma(l[2])))
+        sys.exit(1)
+    else:
+        with open('github_commit_dates.md', 'w') as filehandle:
+            filehandle.write('%s\n' % '--------------------\n### Github commit date checks')        
+            filehandle.write('%s\n' % '#### There were no repos with issues.')
+        exit(0)
 
-if i > 0:
-    sorted_list = sorted(output, key=lambda x: x[0])
-    with open('github_commit_dates.md', 'w') as filehandle:
-        filehandle.write('%s\n' % '--------------------\n### Github commit date checks')        
-        filehandle.write('%s\n' % '#### There were %s repos last updated over 1 year ago.' % str(i))
-        for l in sorted_list:
-            filehandle.write('* [ ] %s, %s%s \n' % (str(l[0]), l[1], add_comma(l[2])))
-    sys.exit(0)
-else:
-    with open('github_commit_dates.md', 'w') as filehandle:
-        filehandle.write('%s\n' % '--------------------\n### Github commit date checks')        
-        filehandle.write('%s\n' % '#### There were no repos last updated over 1 year ago.')
-
+main()
