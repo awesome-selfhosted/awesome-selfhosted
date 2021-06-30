@@ -2,7 +2,7 @@ name: Pull Request Checks
 
 on:
   pull_request:
-    branches: [ main ]
+    branches: [ master ]
 
 jobs:
   check_syntax:
@@ -13,12 +13,14 @@ jobs:
         uses: actions/setup-node@v1
         with:
           node-version: '14.x'
+      - name: create diff
+        run: git diff origin/master -U0 README.md | grep --perl-regexp --only-matching "(?<=^\+).*" >> temp.md 
       - name: Checks
         run: |
           cd test 
           npm install chalk
           cd ..
-          git diff origin/master -U0 README.md | grep --perl-regexp --only-matching "(?<=^\+).*" >> temp.md 
+          
           script -e -c 'node tests/test.js -r README.md -d temp.md'
 
   check_links:
@@ -29,6 +31,8 @@ jobs:
         uses: actions/setup-ruby@v1
         with:
           ruby-version: 2.6.x
+      - name: create diff
+        run: git diff origin/master -U0 README.md | grep --perl-regexp --only-matching "(?<=^\+).*" >> temp.md 
       - name: Checks
         run: |
           gem install awesome_bot
