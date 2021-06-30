@@ -32,5 +32,6 @@ jobs:
       - name: Checks
         run: |
           gem install awesome_bot
+          git diff origin/master -U0 README.md | grep --perl-regexp --only-matching "(?<=^\+).*" >> temp.md 
           awesome_bot -f temp.md --allow-redirect --skip-save-results --allow 202 --white-list < tests/awesomebot_whitelist.txt
           
