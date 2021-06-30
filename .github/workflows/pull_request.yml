@@ -14,13 +14,14 @@ jobs:
         with:
           node-version: '14.x'
       - name: create diff
-        run: git diff origin/master -U0 README.md | grep --perl-regexp --only-matching "(?<=^\+).*" >> temp.md 
+        run: |
+          git fetch
+          git diff origin/master -U0 README.md | grep --perl-regexp --only-matching "(?<=^\+).*" >> temp.md 
       - name: Checks
         run: |
-          cd test 
+          cd tests 
           npm install chalk
           cd ..
-          
           script -e -c 'node tests/test.js -r README.md -d temp.md'
 
   check_links:
@@ -32,7 +33,9 @@ jobs:
         with:
           ruby-version: 2.6.x
       - name: create diff
-        run: git diff origin/master -U0 README.md | grep --perl-regexp --only-matching "(?<=^\+).*" >> temp.md 
+        run: |
+          git fetch
+          git diff origin/master -U0 README.md | grep --perl-regexp --only-matching "(?<=^\+).*" >> temp.md 
       - name: Checks
         run: |
           gem install awesome_bot
