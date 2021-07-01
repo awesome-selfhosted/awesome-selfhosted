@@ -2,7 +2,7 @@ name: Monthly Checks
 
 on:
   schedule:
-    - cron:  '* * 1 * *'
+    - cron:  '0 5 1 * *'
   workflow_dispatch:
 
 jobs:
