@@ -181,7 +181,7 @@ _See also [Static Site Generators](#static-site-generators), [Content Management
 
 - [Antville](https://antville.org) - Free, open source project aimed at the development of a high performance, feature rich weblog hosting software. ([Source Code](https://github.com/antville/antville)) `Apache-2.0` `Javascript`
 - [Blog](https://github.com/m1k1o/blog) - Facebook-styled blog. Free, extremely lightweight, single-user and easy to install. ([Demo](https://blog.m1k1o.net/)) `GPL-3.0` `PHP`
-- [Blogotext](https://github.com/timovn/blogotext) - Free blog-engine written in PHP and using SQLite. This offers you both an unmatched simplicity during installation and great performances. `MIT` `PHP`
+- [Blogotext](https://github.com/BlogoText/blogotext) - Free blog-engine written in PHP and using SQLite. This offers you both an unmatched simplicity during installation and great performances. `MIT` `PHP`
 - [Bludit](https://www.bludit.com/) `⚠` - Simple application to build a site or blog in seconds. Bludit uses flat-files (text files in JSON format) to store posts and pages. ([Demo](https://demo.bludit.com/), [Source Code](https://github.com/dignajar/bludit)) `MIT` `PHP`
 - [Cadmus](https://github.com/ldemafelix/cadmus) - Cadmus is an extremely lightweight, flat-file blogging platform powered by Markdown. `MIT` `PHP`
 - [Canvas](https://trycanvas.app/) - A Laravel publishing platform. ([Source Code](https://github.com/cnvs/canvas)) `MIT` `PHP`
