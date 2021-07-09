@@ -1495,7 +1495,7 @@ _See also [Static site generators](#static-site-generators)_
 - [Accent](https://www.accent.reviews/) - Open-source, self-hosted, developer-oriented translation tool. ([Source Code](https://github.com/mirego/accent)) `BSD-3-Clause` `Elixir`
 - [Localizer](https://localizer.dev) - Free self-hosted open-source crowd-translating service for your product. ([Demo](https://localize.todorant.com), [Source Code](https://github.com/backmeupplz/localizer-backend)) `MIT` `Nodejs/Docker`
 - [Pootle](http://pootle.translatehouse.org) - Online translation and localization tool. ([Source Code](https://github.com/translate/pootle)) `GPL-3.0` `Python`
-- [Traduora](https://traduora.com) - Translation management platform for teams. ([Source Code](https://github.com/traduora/traduora)) `AGPL-3.0` `Docker/Nodejs`
+- [Traduora](https://traduora.com) - Translation management platform for teams. ([Source Code](https://github.com/ever-co/ever-traduora)) `AGPL-3.0` `Docker/Nodejs`
 - [Weblate](https://weblate.org) - Web-based translation tool with tight version control integration. ([Demo](https://demo.weblate.org), [Source Code](https://github.com/WeblateOrg/weblate)) `GPL-3.0` `Python`
 - [Zanata](http://zanata.org) - Web-based translation platform for translators, content creators and developers to manage localisation projects. ([Source Code](https://github.com/zanata/zanata-platform)) `GPL-2.0` `Java`
 
