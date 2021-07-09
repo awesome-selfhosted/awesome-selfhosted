@@ -108,7 +108,7 @@ See [Contributing](.github/CONTRIBUTING.md).
 
 _For personal analytics/dashboards, see [Personal Dashboards](#personal-dashboards)_
 
-_For everything else, see [awesome-analytics](https://github.com/onurakpolat/awesome-analytics)_
+_For everything else, see [Awesome Analytics](https://github.com/0xnr/awesome-analytics)_
 
 
 ## Archiving and Digital Preservation (DP)
