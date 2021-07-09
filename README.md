@@ -808,7 +808,6 @@ _See https://github.com/awesome-foss/awesome-sysadmin#distributed-filesystems_
 
 ### Command-line file upload
 
-- [Beauties](https://github.com/dsx/beauties) - Minimalist file sharing written in Go, to be used primarily from Unix shell (e.g. with curl). Can be built as a Debian package for easy install. `MIT` `Go`
 - [transfer.sh](https://transfer.sh) - Easy file sharing from the command line. ([Source Code](https://github.com/dutchcoders/transfer.sh)) `MIT` `Go`
 
 ### Web based file managers
