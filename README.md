@@ -671,7 +671,7 @@ _See also: [awesome-sysadmin/DNS](https://github.com/awesome-foss/awesome-sysadm
 
 ### Document Management - Integrated Library Systems (ILS)
 
-_Related: [Content Management System](#content-management-systems-cms), [Archiving and Digital Preservation](#archiving-and-digital-preservation-dp)_
+_Related: [Content Management Systems (CMS)](#content-management-systems-cms), [Archiving and Digital Preservation (DP)](#archiving-and-digital-preservation-dp)_
 
 - [Evergreen](https://evergreen-ils.org) - Highly-scalable software for libraries that helps library patrons find library materials, and helps libraries manage, catalog, and circulate those materials. ([Source Code](https://github.com/evergreen-library-system/Evergreen)) `GPL-2.0` `PL/pgSQL`
 - [Koha](https://koha-community.org/) - Enterprise-class ILS with modules for acquisitions, circulation, cataloging, label printing, offline circulation for when Internet access is not available, and much more. ([Demo](https://koha-community.org/demo/), [Source Code](https://github.com/Koha-Community/Koha)) `GPL-3.0` `Perl`
@@ -1437,7 +1437,7 @@ _Related: [Monitoring](#monitoring)_
 
 ### Software Development - Project Management
 
-_Related: [Ticketing](#ticketing), [Task management/To-do lists](#task-managementto-do-lists)_
+_Related: [Ticketing](#ticketing), [Task management & To-do lists](#task-management--to-do-lists)_
 
 _See also: [awesome-sysadmin/Code Review](https://github.com/awesome-foss/awesome-sysadmin#code-review)_
 
@@ -1572,7 +1572,7 @@ _Related: [Static site generators](#static-site-generators)_
 
 **[`^        back to top        ^`](#)**
 
-_Related: [Project Management](#project-management), [Ticketing](#ticketing)._
+_Related: [Software Development - Project Management](#software-development---project-management), [Ticketing](#ticketing)._
 
 - [Focalboard](https://www.focalboard.com/) - An open source, self-hosted alternative to Trello, Notion, and Asana. It helps define, organize, track and manage work across individuals and teams. ([Source Code](https://github.com/mattermost/focalboard), [Clients](https://www.focalboard.com/download/personal-edition/desktop/)) `MIT/AGPL-3.0/Apache-2.0` `Nodejs/Go`
 - [Kanbana](https://github.com/SrGMC/kanbana) - Create boards to track users and projects from flat markdown files. Forked from Crepido. `MIT` `Nodejs`
@@ -1600,7 +1600,7 @@ _Related: [Project Management](#project-management), [Ticketing](#ticketing)._
 
 **[`^        back to top        ^`](#)**
 
-_Related: [Task management/To-do lists](#task-managementto-do-lists), [Project Management](#project-management)_
+_Related: [Task management & To-do lists](#task-management--to-do-lists), [Software Development - Project Management](#software-development---project-management)_
 
 - [Bugzilla](https://www.bugzilla.org/) - General-purpose bugtracker and testing tool originally developed and used by the Mozilla project. `MPL-2.0` `Perl`
 - [Bumpy Booby](http://bumpy-booby.derivoile.fr/) - Simple, responsive and highly customizable PHP bug tracking system. ([Source Code](https://github.com/piero-la-lune/Bumpy-Booby)) `MIT` `PHP`
@@ -1662,7 +1662,7 @@ _Before hosting one, please see [shortcomings](https://en.wikipedia.org/wiki/URL
 
 **[`^        back to top        ^`](#)**
 
-_Related: [Documentation Generators](#documentation-generators)_
+_Related: [Software Development - Documentation Generators](#software-development---documentation-generators)_
 
 _See also: [Wikimatrix](http://www.wikimatrix.org/), [Wiki Engines - WikiIndex](http://wikiindex.org/Category:Wiki_Engine), [List of wiki software - Wikipedia](https://en.wikipedia.org/wiki/List_of_wiki_software), [Comparison of wiki software - Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_wiki_software)._
 
