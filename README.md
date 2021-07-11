@@ -988,7 +988,7 @@ _See also [awesome-gis](https://github.com/sshuair/awesome-gis)._
 - [Orion](https://github.com/LINKIWI/orion-web) - Powerful OwnTracks API-compliant location data visualization frontend for the web. ([Demo](https://linkiwi.github.io/orion-web/)) `MIT` `Python/Nodejs`
 - [OwnTracks Recorder](https://github.com/owntracks/recorder) `⚠` - Store and access data published by [OwnTracks](http://owntracks.org/) location tracking apps. `GPL-2.0` `C/Lua`
 - [TileServer GL](http://tileserver.readthedocs.io/) - Vector and raster maps with GL styles. Server side rendering by Mapbox GL Native. Map tile server for Mapbox GL JS, Android, iOS, Leaflet, OpenLayers, GIS via WMTS, etc. ([Source Code](https://github.com/maptiler/tileserver-gl)) `BSD-2-Clause` `Nodejs`
-- [TileServer PHP](http://tileserver.maptiler.com/) - Serve map tiles from any PHP hosting. ([Source Code](https://github.com/maptiler/tileserver-php) `BSD-2-Clause` `PHP`
+- [TileServer PHP](http://tileserver.maptiler.com/) - Serve map tiles from any PHP hosting. ([Source Code](https://github.com/maptiler/tileserver-php)) `BSD-2-Clause` `PHP`
 - [Traccar](https://www.traccar.org/) - Java application to track GPS positions. Supports loads of tracking devices and protocols, has an Android and iOS App. Has a web interface to view your trips. ([Demo](http://demo.traccar.org/), [Source Code](https://github.com/traccar)) `Apache-2.0` `Java`
 - [μlogger](https://github.com/bfabiszewski/ulogger-server) - Collect geolocation from users in real-time and display their GPS tracks on a website. ([Demo](http://ulogger.fabiszewski.net/)) `GPL-3.0` `PHP`
 - [uMap](https://umap.openstreetmap.fr/en/) - Create maps with OpenStreetMap layers in a minute and embed them in your site. ([Source Code](https://github.com/umap-project/umap)) `WTFPL` `Python`
@@ -1244,7 +1244,7 @@ _See also [Wikis](#wikis)_
 
 **[`^        back to top        ^`](#)**
 
-- [0bin](https://github.com/Tygs/0bin) - Client side encrypted pastebin. ([Demo](https://0bin.net/) `WTFPL` `Python`
+- [0bin](https://github.com/Tygs/0bin) - Client side encrypted pastebin. ([Demo](https://0bin.net/)) `WTFPL` `Python`
 - [bepasty](https://bepasty-server.readthedocs.io/en/latest/) - A pastebin for all kinds of files. ([Source Code](https://github.com/bepasty/bepasty-server)) `BSD-2-Clause` `Python`
 - [bin](https://github.com/w4/bin) - a paste bin. `WTFPL/0BSD` `Rust`
 - [cryptonote](https://cryptonote.me/) - Simple open source web application that lets users encrypt and share messages that can only be read once. ([Source Code](https://github.com/alainmeier/cryptonote)) `MIT` `Ruby`
