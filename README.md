@@ -1131,6 +1131,7 @@ _See also: [List of streaming media systems - Wikipedia](https://en.wikipedia.or
 - [Trello Burndown](https://github.com/mtricht/trello-burndown) `⚠` - Easy to use SCRUM burndown chart for Trello boards. `MIT` `Go/Docker`
 - [ViMbAdmin](http://www.vimbadmin.net/) - Provides a web based virtual mailbox administration system to allow mail administrators to easily manage domains, mailboxes and aliases. ([Demo](http://www.vimbadmin.net/demo/auth/login), [Source Code](https://github.com/opensolutions/ViMbAdmin)) `GPL-3.0` `PHP`
 - [Web fonts repository](https://github.com/Finesse/web-fonts-repository) - Simple webfont hosting. Google Fonts alternative for your own fonts. `MIT` `PHP`
+- [s\.Status](https://github.com/scolastico-dev/s%2EStatus) - s.Status is a open source server status page written in java. `MPL-2.0` `Java`
 
 
 ### Money, Budgeting & Management
