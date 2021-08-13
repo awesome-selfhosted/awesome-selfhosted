@@ -1542,7 +1542,7 @@ _Before hosting one, please see [shortcomings](https://en.wikipedia.org/wiki/URL
 
 **[`^        back to top        ^`](#)**
 
-- [Blink](https://github.com/JaneJeon/blink) - easy-to-host, SSO-integrated, CDN-powered link shortener (+ decoupled analytics) for teams ([Docs](https://blink.rest))
+- [Blink](https://github.com/JaneJeon/blink) - easy-to-host, SSO-integrated, CDN-powered link shortener (+decoupled analytics) for teams ([Docs](https://blink.rest)) `AGPL-3.0` `Nodejs`
 - [gShort](https://github.com/someone-stole-my-name/gShort) - Privacy-friendly self-hosted URL shortener. ([Demo](http://gshort.christiansegundo.com/)) `GPL-3.0` `Go`
 - [Kutt](https://kutt.it) - A modern URL shortener with support for custom domains. ([Source Code](https://github.com/thedevs-network/kutt)) `MIT` `Nodejs`
 - [Link-shortener-bot](https://github.com/tommyku/link-shortener-front-end) `⚠` - URL shortener using a Telegram Bot. ([Demo](http://t.me/GiveMeShortLinkBot)) `MIT` `Ruby`
