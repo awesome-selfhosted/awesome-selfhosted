@@ -13,7 +13,8 @@ See [Contributing](.github/CONTRIBUTING.md).
 
 ## Table of contents
 
-Click on the menu icon next to [README.md](#readme) for a list of sections
+<!--ts-->
+<!--te-->
 
 --------------------
 
