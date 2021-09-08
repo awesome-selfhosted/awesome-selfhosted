@@ -974,7 +974,7 @@ _See also: [List of streaming media systems - Wikipedia](https://en.wikipedia.or
 - [Beets](https://beets.io/) - Music library manager and MusicBrainz tagger (command-line and Web interface). ([Source Code](https://github.com/beetbox/beets)) `MIT` `Python`
 - [Black Candy](https://github.com/aidewoode/black_candy) - Music streaming server built with Rails and Stimulus. `MIT` `Ruby`
 - [Compactd](https://github.com/compactd/compactd) - Remote music player that supports adding content. `MIT` `Nodejs`
-- [euterpe](https://github.com/ironsmile/euterpe) - Self-hosted music streaming server notes with RESTful API and Web interface. Think of it as your very own Spotify! ([Demo](https://listen-to-euterpe.eu/demo))`GPL-3.0` `Go`
+- [euterpe](https://github.com/ironsmile/euterpe) - Self-hosted music streaming server notes with RESTful API and Web interface. Think of it as your very own Spotify! ([Demo](https://listen-to-euterpe.eu/demo)) `GPL-3.0` `Go`
 - [FriendsRadio](https://github.com/xouabita/friends-radio) `⚠` - Share music with your friends from Youtube and Soundcloud. ([Demo](https://friends-radio.herokuapp.com/)) `MIT` `Nodejs`
 - [Funkwhale](https://funkwhale.audio/) - Modern, web-based, convivial, multi-user and free music server. ([Demo](https://demo.funkwhale.audio/), [Source Code](https://code.eliotberriot.com/funkwhale/funkwhale)) `BSD-3-Clause` `Python/Django`
 - [GNU FM](https://gnu.io/fm/) - Running music community websites, alternative to last.fm. ([Source Code](https://git.savannah.gnu.org/cgit/librefm.git/)) `AGPL-3.0` `PHP`
