@@ -1381,7 +1381,7 @@ _Related: [Monitoring](#monitoring)_
 
 ### Single Sign-On (SSO)
 
-- [Kratos](https://www.ory.sh/kratos/?utm_source=github&utm_medium=AwesomeList&utm_campaign=AwesomeSelfHost) - Next-gen identity server with Ory-hardened authentication, MFA, FIDO2, profile management, identity schemas, social sign in, registration, account recovery, and IoT auth. Golang, headless, API-only - without templating or theming headaches. ([QuickStart](https://www.ory.sh/kratos/docs/quickstart/), [Source Code](https://github.com/ory/kratos)) `Apache-2.0` `Golang`
+- [Kratos](https://www.ory.sh/kratos/) - Next-gen identity server with Ory-hardened authentication, MFA, FIDO2, profile management, identity schemas, social sign in, registration, account recovery, and IoT auth. Golang, headless, API-only - without templating or theming headaches. ([QuickStart](https://www.ory.sh/kratos/docs/quickstart/), [Source Code](https://github.com/ory/kratos)) `Apache-2.0` `Golang`
 - [PWM](https://github.com/pwm-project/pwm) - An open source password self-service application for LDAP directories ([Source Code](https://github.com/pwm-project/pwm)) `Apache-2.0` `Java`
 - [KeyCloak](https://www.keycloak.org) - Open Source Identity and Access Management ([Source Code](https://github.com/keycloak/keycloak)) Apache-2.0 `Java`
 
