@@ -287,7 +287,7 @@ MDAs - IMAP/POP3 software
 
 ### Communication - Email - Mailing Lists and Newsletters
 
-_Mailing lists servers and mass mailing software - one message to many recipients._
+Mailing lists servers and mass mailing software - one message to many recipients.
 
 - [Dada Mail](https://dadamailproject.com/) - Web-based list management system that can be used for announcement lists and/or discussion lists. ([Source Code](https://github.com/justingit/dada-mail)) `GPL-2.0` `Perl`
 - [Listmonk](https://listmonk.app/) - High performance, self-hosted newsletter and mailing list manager with a modern dashboard. ([Source Code](https://github.com/knadh/listmonk)) `AGPL-3.0` `Go`
