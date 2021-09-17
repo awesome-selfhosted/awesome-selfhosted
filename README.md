@@ -455,7 +455,7 @@ Mailing lists servers and mass mailing software - one message to many recipients
 
 **[`^        back to top        ^`](#)**
 
-_[Extensible Messaging and Presence Protocol](https://en.wikipedia.org/wiki/XMPP) software_
+[Extensible Messaging and Presence Protocol](https://en.wikipedia.org/wiki/XMPP) software
 
 
 ### Communication - XMPP - Servers
@@ -1525,7 +1525,7 @@ _Related: [Static site generators](#static-site-generators)_
 
 **[`^        back to top        ^`](#)**
 
-_[Serverless computing - Wikipedia](https://en.wikipedia.org/wiki/Serverless_computing)_
+[Serverless computing - Wikipedia](https://en.wikipedia.org/wiki/Serverless_computing)
 
 - [Appwrite](https://appwrite.io) - End to end backend server for web, native, and mobile developers 🚀. ([Source Code](https://github.com/appwrite/appwrite)) `BSD-3-Clause` `PHP`
 - [fx](https://github.com/metrue/fx) - fx is a tool to help you do Function as a Service with painless on your own servers. `MIT` `Go`
