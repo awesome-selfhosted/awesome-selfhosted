@@ -977,7 +977,7 @@ Games, game servers and control panels.
 
 **[`^        back to top        ^`](#)**
 
-_See also: [awesome-gis](https://github.com/sshuair/awesome-gis)._
+_See also: [awesome-gis](https://github.com/sshuair/awesome-gis)_
 
 - [Geo2tz](https://github.com/noandrea/geo2tz) - Get the timezone from geo coordinates (lat, lon). `MIT` `Go/Docker`
 - [GraphHopper](https://graphhopper.com/) - Fast routing library and server using OpenStreetMap. ([Source Code](https://github.com/graphhopper/graphhopper)) `Apache-2.0` `Java`
