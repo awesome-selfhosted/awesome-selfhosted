@@ -170,6 +170,8 @@ _See also: [Comparison of CalDAV and CardDAV implementations - Wikipedia](https:
 
 ### Calendar & Contacts - CalDAV or CardDAV Servers
 
+**[`^        back to top        ^`](#)**
+
 - [Baïkal](https://sabre.io/baikal/) - Lightweight CalDAV and CardDAV server based on sabre/dav. ([Source Code](https://github.com/sabre-io/Baikal)) `GPL-3.0` `PHP`
 - [calypso](https://keithp.com/calypso/) - Python-based CalDAV and CardDAV server, forked from Radicale. ([Source Code](https://keithp.com/git/calypso.git)) `GPL-3.0` `Python`
 - [DAViCal](https://www.davical.org/) - Server for calendar sharing (CalDAV) that uses a PostgreSQL database as a data store. ([Source Code](https://gitlab.com/davical-project/davical)) `GPL-2.0` `PHP`
@@ -183,6 +185,8 @@ _See also: [Comparison of CalDAV and CardDAV implementations - Wikipedia](https:
 
 ### Calendar & Contacts - CalDAV or CardDAV Web-based Clients
 
+**[`^        back to top        ^`](#)**
+
 - [AgenDAV](https://agendav.org/) - Multilanguage CalDAV web client with a rich AJAX interface and shared calendars support. ([Source Code](https://github.com/agendav/agendav)) `GPL-3.0` `PHP`
 - [EteSync Web](https://www.etesync.com/faq/#web-client) - EteSync's official Web-based client (i.e., their Web app). ([Demo](https://client.etesync.com/), [Source Code](https://github.com/etesync/etesync-web)) `AGPL-3.0` `Javascript`
 - [InfCloud](https://www.inf-it.com/open-source/clients/infcloud/) - Open source CalDAV/CardDAV web client implementation. ([Demo](https://www.inf-it.com/infcloud/), [Source Code](https://www.inf-it.com/InfCloud_0.13.1.zip)) `AGPL-3.0` `Javascript`
@@ -191,7 +195,10 @@ _See also: [Comparison of CalDAV and CardDAV implementations - Wikipedia](https:
 
 **[`^        back to top        ^`](#)**
 
+
 ### Communication - Custom Communication Systems
+
+**[`^        back to top        ^`](#)**
 
 - [BluetoothCommunicatorExample](https://github.com/niedev/BluetoothCommunicatorExample) - Bluetooth LE chat app to communicate between android devices with P2P architecture. ([Clients](https://github.com/niedev/RTranslator)) `Apache-2.0` `Java`
 - [Centrifugo](https://github.com/centrifugal/centrifugo) - Language-agnostic real-time messaging (Websocket or SockJS) server. ([Demo](https://github.com/centrifugal/centrifugo#demo)) `MIT` `Go`
@@ -244,7 +251,10 @@ _See also: [Comparison of CalDAV and CardDAV implementations - Wikipedia](https:
 
 **[`^        back to top        ^`](#)**
 
+
 ### Communication - Email - Complete Solutions
+
+**[`^        back to top        ^`](#)**
 
 Simple deployment of a mail server, e.g. for inexperienced or impatient admins.
 
@@ -270,6 +280,8 @@ Simple deployment of a mail server, e.g. for inexperienced or impatient admins.
 
 ### Communication - Email - Mail Transfer Agents
 
+**[`^        back to top        ^`](#)**
+
 MTAs / SMTP servers
 
 - [chasquid](https://blitiri.com.ar/p/chasquid/) - SMTP (email) server with a focus on simplicity, security, and ease of operation. ([Source Code](https://blitiri.com.ar/git/r/chasquid/)) `Apache-2.0` `Go`
@@ -288,6 +300,8 @@ MTAs / SMTP servers
 
 ### Communication - Email - Mail Delivery Agents
 
+**[`^        back to top        ^`](#)**
+
 MDAs - IMAP/POP3 software
 
 - [Cyrus IMAP](https://www.cyrusimap.org/) - Email (IMAP/POP3), contacts and calendar server. ([Source Code](https://github.com/cyrusimap/cyrus-imapd )) `BSD-3-Clause-Attribution` `C`
@@ -297,6 +311,8 @@ MDAs - IMAP/POP3 software
 
 
 ### Communication - Email - Mailing Lists and Newsletters
+
+**[`^        back to top        ^`](#)**
 
 Mailing lists servers and mass mailing software - one message to many recipients.
 
@@ -315,6 +331,8 @@ Mailing lists servers and mass mailing software - one message to many recipients
 
 
 ### Communication - Email - Webmail Clients
+
+**[`^        back to top        ^`](#)**
 
 - [Afterlogic WebMail Lite](https://afterlogic.org/webmail-lite) - Fast and easy-to-use webmail front-end for your existing IMAP mail server, Plesk or cPanel. ([Demo](https://lite.afterlogic.com/), [Source Code](https://github.com/afterlogic/webmail-lite)) `AGPL-3.0` `PHP`
 - [Cypht](https://cypht.org) - Feed reader for your email accounts. ([Source Code](https://github.com/jasonmunro/cypht)) `LGPL-2.1` `PHP`
@@ -442,6 +460,8 @@ _[Extensible Messaging and Presence Protocol](https://en.wikipedia.org/wiki/XMPP
 
 ### Communication - XMPP - Servers
 
+**[`^        back to top        ^`](#)**
+
 - [ejabberd](https://www.ejabberd.im/) - XMPP instant messaging server. ([Source Code](https://github.com/processone/ejabberd)) `GPL-2.0` `Erlang`
 - [jackal](https://github.com/ortuman/jackal) - XMPP server with focus on stability, simple configuration and low resource consumption. `Apache-2.0` `Go`
 - [Kontalk](https://www.kontalk.org) - Kontalk is an Open Source Messenger, similar to WhatsApp (app for android only currently), including end-to-end encryption, server is based on Tigase XMPP Server. ([Source Code](https://github.com/kontalk)) `GPL-3.0` `Java`
@@ -454,6 +474,8 @@ _[Extensible Messaging and Presence Protocol](https://en.wikipedia.org/wiki/XMPP
 
 
 ### Communication - XMPP - Web Clients
+
+**[`^        back to top        ^`](#)**
 
 - [Candy](https://candy-chat.github.io/candy/) - Multi user XMPP client written in Javascript. ([Source Code](https://github.com/candy-chat/candy)) `MIT` `Javascript`
 - [Converse.js](https://conversejs.org/) - Free and open-source XMPP chat client in your browser. ([Source Code](https://github.com/conversejs/converse.js)) `MPL-2.0` `Javascript`
@@ -553,13 +575,18 @@ _Related: [Blogging Platforms](#blogging-platforms), [Static Site Generators](#s
 
 ### Recipe Management
 
+**[`^        back to top        ^`](#)**
+
 - [kcal](https://github.com/kcal-app/kcal) - Track nutritional information about foods and recipes, set goals, and record a food journal to help along the way. Kcal is a personal system that focuses on direct control of inputs and a minimal, easy to use recipe presentation for preparing meals. ([Demo](http://demo.kcal.cooking/login)) `MPL-2.0` `PHP`
 - [Mealie](https://hay-kot.github.io/mealie/) - Material design inspired recipe manager with category and tag management, shopping-lists, meal-planner, and site customizations. Mealie is focused on simple user interactions to keep the whole family using the app. ([Source Code](https://github.com/hay-kot/mealie)) `MIT` `Python`
 - [OpenEats](https://github.com/open-eats/OpenEats) - Recipe management site that allows users to create, store, share and rate recipes, create grocery lists, and more. ([Demo](https://open-eats.github.io/)) `MIT` `Python`
 - [RecipeSage](https://github.com/julianpoy/recipesage) - A recipe keeper, meal plan organizer, and shopping list manager that can import recipes directly from any URL. ([Demo](https://recipesage.com)) `AGPL-3.0` `Nodejs`
 - [Tandoor Recipes](https://docs.tandoor.dev/) - Django application to manage, tag and search recipes using either built-in models or external storage providers hosting PDFs, Images or other files. ([Demo](https://app.tandoor.dev/), [Source Code](https://github.com/vabene1111/recipes/)) `MIT` `Python`
 
+
 ### E-commerce
+
+**[`^        back to top        ^`](#)**
 
 _Related: [Community-Supported Agriculture (CSA)](#community-supported-agriculture-csa)_
 
@@ -618,6 +645,8 @@ _See also: [awesome-sysadmin/DNS](https://github.com/awesome-foss/awesome-sysadm
 
 ### Document Management - E-books
 
+**[`^        back to top        ^`](#)**
+
 - [BicBucStriim](https://projekte.textmulch.de/bicbucstriim/) - Provides web-based access to your Calibre Library's e-book collection. ([Source Code](https://github.com/rvolz/BicBucStriim)) `MIT` `PHP`
 - [Calibre Web](https://github.com/janeczku/calibre-web) - Web app providing a clean interface for browsing, reading and downloading eBooks using an existing Calibre database. `GPL-3.0` `Python`
 - [Calibre](https://calibre-ebook.com/) - E-book library manager that can view, convert, and catalog e-books in most of the major e-book formats and provides a built-in Web server for remote clients. ([Demo](https://calibre-ebook.com/demo), [Source Code](https://launchpad.net/calibre)) `GPL-3.0` `Python`
@@ -632,6 +661,8 @@ _See also: [awesome-sysadmin/DNS](https://github.com/awesome-foss/awesome-sysadm
 
 ### Document Management - Integrated Library Systems (ILS)
 
+**[`^        back to top        ^`](#)**
+
 _Related: [Content Management Systems (CMS)](#content-management-systems-cms), [Archiving and Digital Preservation (DP)](#archiving-and-digital-preservation-dp)_
 
 - [Evergreen](https://evergreen-ils.org) - Highly-scalable software for libraries that helps library patrons find library materials, and helps libraries manage, catalog, and circulate those materials. ([Source Code](https://github.com/evergreen-library-system/Evergreen)) `GPL-2.0` `PL/pgSQL`
@@ -640,6 +671,8 @@ _Related: [Content Management Systems (CMS)](#content-management-systems-cms), [
 
 
 ### Document Management - Institutional Repository and Digital Library Software
+
+**[`^        back to top        ^`](#)**
 
 - [DSpace](https://duraspace.org/dspace/) - Turnkey repository application providing durable access to digital resources. ([Source Code](https://github.com/DSpace/DSpace)) `BSD-3-Clause` `Java`
 - [EPrints](https://www.eprints.org/) - Digital document management system with a flexible metadata and workflow model primarily aimed at academic institutions. ([Demo](http://tryme.demo.eprints-hosting.org/), [Source Code](https://github.com/eprints/eprints)) `GPL-3.0` `Perl`
@@ -706,6 +739,8 @@ _RSS/Atom automation_
 
 ### File Transfer & Synchronization
 
+**[`^        back to top        ^`](#)**
+
 _Related: [Groupware](#groupware)_
 
 - [Git Annex](https://git-annex.branchable.com/) - File synchronization between computers, servers, external drives. ([Source Code](https://git.joeyh.name/index.cgi/git-annex.git/)) `GPL-3.0` `Haskell`
@@ -726,6 +761,8 @@ _Related: [Groupware](#groupware)_
 
 ### File Transfer - Peer-to-peer Filesharing
 
+**[`^        back to top        ^`](#)**
+
 - [bittorrent-tracker](https://webtorrent.io/) - Simple, robust, BitTorrent tracker (client and server) implementation. ([Source Code](https://github.com/webtorrent/bittorrent-tracker)) `MIT` `Nodejs`
 - [cloud-torrent](https://github.com/jpillora/cloud-torrent) - Torrent Web Client with HTTP retrievable or streamable downloaded files. `AGPL-3.0` `Go`
 - [Dat Project](https://datproject.org) - Powerful decentralized file sharing applications built from a large ecosystem of modules. ([Source Code](https://github.com/datproject)) `MIT` `Nodejs`
@@ -745,6 +782,8 @@ _Related: [Groupware](#groupware)_
 
 ### File Transfer - Object Storage & File Servers
 
+**[`^        back to top        ^`](#)**
+
 - [Minio](https://minio.io/) - Minio is an open source object storage server compatible with Amazon S3 APIs. ([Source Code](https://github.com/minio/minio)) `Apache-2.0` `Go`
 - [SeaweedFS](https://github.com/chrislusf/seaweedfs) - SeaweedFS is an open source distributed file system supporting WebDAV, S3 API, FUSE mount, HDFS, etc, optimized for lots of small files, and easy to add capacity. `Apache-2.0` `Go`
 - [SFTPGo](https://github.com/drakkan/sftpgo) - Flexible, fully featured and highly configurable SFTP server with optional FTP/S and WebDAV support. `AGPL-3.0` `Go`
@@ -752,6 +791,8 @@ _Related: [Groupware](#groupware)_
 
 
 ### File Transfer - Single-click & Drag-n-drop Upload
+
+**[`^        back to top        ^`](#)**
 
 - [ass](https://github.com/tycrek/ass) - The superior self-hosted ShareX server. For use with clients such as ShareX (Windows), Flameshot (Linux), & MagicCap (Linux, macOS). `ISC` `Nodejs`
 - [BoZoN](https://github.com/broncowdd/BoZoN) - Minimalist Drag and drop file sharing app. `AGPL-3.0` `PHP`
@@ -790,10 +831,14 @@ _Related: [Groupware](#groupware)_
 
 ### File Transfer - Command-line File Upload
 
+**[`^        back to top        ^`](#)**
+
 - [transfer.sh](https://transfer.sh) - Easy file sharing from the command line. ([Source Code](https://github.com/dutchcoders/transfer.sh)) `MIT` `Go`
 
 
 ### File Transfer - Web-based File Managers
+
+**[`^        back to top        ^`](#)**
 
 - [Apaxy](https://oupala.github.io/apaxy/) - Theme built to enhance the experience of browsing web directories, using the mod_autoindex Apache module and some CSS to override the default style of a directory listing. ([Source Code](https://github.com/oupala/apaxy)) `GPL-3.0` `HTML`
 - [DirectoryLister](https://www.directorylister.com/) - Simple PHP based directory lister that lists a directory and all its sub-directories and allows you to navigate there within. ([Source Code](https://github.com/DirectoryLister/DirectoryLister)) `MIT` `PHP`
@@ -974,6 +1019,8 @@ _See also: [List of streaming media systems - Wikipedia](https://en.wikipedia.or
 
 ### Media Streaming - Audio Streaming
 
+**[`^        back to top        ^`](#)**
+
 - [Airsonic](https://airsonic.github.io/) - Open-source web-based media streamer and jukebox. A fork of Subsonic's last open-source release, before it switched licenses. ([Source Code](https://github.com/airsonic/airsonic), [Clients](https://airsonic.github.io/docs/apps/)) `GPL-3.0` `Java`
 - [Ampache](https://ampache.org/) - Web based audio/video streaming application. ([Demo](https://play.dogmazic.net/), [Source Code](https://github.com/ampache/ampache)) `AGPL-3.0` `PHP`
 - [Audioserve](https://github.com/izderadicka/audioserve) - Simple personal server to serve audio files from directories (audiobooks, music, podcasts...). Focused on simplicity and supports sync of play position between clients. `MIT` `Rust`
@@ -1008,6 +1055,8 @@ _See also: [List of streaming media systems - Wikipedia](https://en.wikipedia.or
 
 ### Media Streaming - Multimedia Streaming
 
+**[`^        back to top        ^`](#)**
+
 - [Gerbera](https://gerbera.io/) - Gerbera is an UPnP Media Server. It allows you to stream your digital media throughout your home network and listen to/watch it on a variety of UPnP compatible devices. ([Source Code](https://github.com/gerbera/gerbera)) `GPL-2.0` `C++`
 - [homehost](https://github.com/ridhwaans/homehost) `⚠` - Self-hosted React + Redux app that streams your media collection (music, movies, books, podcasts, comics etc). `MIT` `Nodejs`
 - [Icecast 2](https://icecast.org) - streaming audio/video server which can be used to create an Internet radio station or a privately running jukebox and many things in between. ([Source Code](https://gitlab.xiph.org/xiph/icecast-server), [Clients](https://icecast.org/apps/)) `GPL-2.0` `C`
@@ -1023,6 +1072,8 @@ _See also: [List of streaming media systems - Wikipedia](https://en.wikipedia.or
 
 
 ### Media Streaming - Video Streaming
+
+**[`^        back to top        ^`](#)**
 
 - [Bluecherry](https://www.bluecherrydvr.com/) - Closed-circuit television (CCTV) software application which supports IP and Analog cameras. ([Source Code](https://github.com/bluecherrydvr/bluecherry-apps)) `GPL-2.0` `PHP`
 - [crtmpserver](https://packages.debian.org/stable/crtmpserver) - High performance RTMP/RTSP streaming server. `GPL-3.0` `C++`
@@ -1429,15 +1480,21 @@ _Related: [Booking and Scheduling](#booking-and-scheduling)_
 
 ### Software Development - Bug Trackers
 
+**[`^        back to top        ^`](#)**
+
 **Please visit [Ticketing](#ticketing)**
 
 
 ### Software Development - Continuous Integration & Deployment
 
+**[`^        back to top        ^`](#)**
+
 **Please visit [awesome-sysadmin/Continuous Integration & Continuous Deployment](https://github.com/awesome-foss/awesome-sysadmin#continuous-integration--continuous-deployment)**
 
 
 ### Software Development - API Management
+
+**[`^        back to top        ^`](#)**
 
 - [DreamFactory](https://www.dreamfactory.com/) - Turns any SQL/NoSQL/Structured data into Restful API. ([Source Code](https://github.com/dreamfactorysoftware/dreamfactory)) `Apache-2.0` `PHP`
 - [form.io](https://form.io) - A REST API building platform that utilizes a drag & drop form builder, and is application framework agnostic. Contains open source and enterprise version. ([Demo](https://portal.form.io), [Source Code](https://github.com/formio)) `MIT` `Nodejs`
@@ -1454,6 +1511,8 @@ _Related: [Booking and Scheduling](#booking-and-scheduling)_
 
 ### Software Development - Documentation Generators
 
+**[`^        back to top        ^`](#)**
+
 _Related: [Static site generators](#static-site-generators)_
 
 - [Docstore](https://git.haldean.org/docstore/) - Static document hosting without any server-side processing, does not require you to recompile every time you change an article. Clone the repository and add articles in the text/ directory to get started. ([Source Code](https://github.com/haldean/docstore)) `BSD-3-Clause` `Javascript`
@@ -1463,6 +1522,8 @@ _Related: [Static site generators](#static-site-generators)_
 
 
 ### Software Development - FaaS & Serverless
+
+**[`^        back to top        ^`](#)**
 
 _[Serverless computing - Wikipedia](https://en.wikipedia.org/wiki/Serverless_computing)_
 
@@ -1475,6 +1536,8 @@ _[Serverless computing - Wikipedia](https://en.wikipedia.org/wiki/Serverless_com
 
 
 ### Software Development - IDE & Tools
+
+**[`^        back to top        ^`](#)**
 
 - [Appsmith](https://www.appsmith.com/) - Cloud or self-hosted open-source platform to build admin panels, CRUD apps and workflows. Build everything you need, 10x faster. ([Source Code](https://github.com/appsmithorg/appsmith)) `Apache-2.0` `Java/Docker`
 - [Atheos](https://www.atheos.io) - Web-based IDE framework with a small footprint and minimal requirements, continued from Codiad. ([Source Code](https://github.com/Atheos/Atheos)) `MIT` `PHP`
@@ -1500,6 +1563,8 @@ _[Serverless computing - Wikipedia](https://en.wikipedia.org/wiki/Serverless_com
 
 ### Software Development - Localization
 
+**[`^        back to top        ^`](#)**
+
 - [Accent](https://www.accent.reviews/) - Open-source, self-hosted, developer-oriented translation tool. ([Source Code](https://github.com/mirego/accent)) `BSD-3-Clause` `Elixir`
 - [Localizer](https://localizer.dev) - Free self-hosted open-source crowd-translating service for your product. ([Demo](https://localize.todorant.com), [Source Code](https://github.com/backmeupplz/localizer-backend)) `MIT` `Nodejs/Docker`
 - [Pootle](https://pootle.translatehouse.org) - Online translation and localization tool. ([Source Code](https://github.com/translate/pootle)) `GPL-3.0` `Python`
@@ -1509,6 +1574,8 @@ _[Serverless computing - Wikipedia](https://en.wikipedia.org/wiki/Serverless_com
 
 
 ### Software Development - Project Management
+
+**[`^        back to top        ^`](#)**
 
 _Related: [Ticketing](#ticketing), [Task management & To-do lists](#task-management--to-do-lists)_
 
@@ -1551,6 +1618,8 @@ _See also: [awesome-sysadmin/Code Review](https://github.com/awesome-foss/awesom
 
 
 ### Software Development - UX Testing
+
+**[`^        back to top        ^`](#)**
 
 - [Selenoid](https://aerokube.com/selenoid/latest/) - Lightweight Selenium hub implementation launching browsers within Docker containers. ([Source Code](https://github.com/aerokube/selenoid)) `Apache-2.0` `Go`
 - [Uier](https://github.com/sjoerdvanderhoorn/Uier) - Codeless or low-code User Experience test editing and management using Selenium to perform testing or UI automation. Uier tends to be a free self hostable alternative to Applitools, Endtest, Ghost Inspector, Usetrace, Screenster and many others. `Apache-2.0` `Nodejs`
