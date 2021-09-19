@@ -35,7 +35,7 @@ _Related: [Personal Dashboards](#personal-dashboards)_
 
 **[`^        back to top        ^`](#)**
 
-_Related: [Content Management Systems](#content-management-systems-cms)_
+_Related: [Content Management Systems (CMS)](#content-management-systems-cms)_
 
 - [Access to Memory (AtoM)](https://www.accesstomemory.org/) - Web-based, open source application for standards-based archival description and access in a multilingual, multi-repository environment. ([Demo](https://demo.accesstomemory.org/), [Source Code](https://github.com/artefactual/atom)) `AGPL-3.0-only` `PHP`
 - [ArchiveBox](https://archivebox.io/) - Self-hosted _wayback machine_ that creates HTML & screenshot archives of sites from your bookmarks, browsing history, RSS feeds, or other sources. ([Source Code](https://github.com/ArchiveBox/ArchiveBox)) `MIT` `Python`
@@ -100,7 +100,7 @@ _Related: [Internet of Things (IoT)](#internet-of-things-iot)_
 
 **[`^        back to top        ^`](#)**
 
-_Related: [Static Site Generators](#static-site-generators), [Content Management Systems](#content-management-systems-cms)_
+_Related: [Static Site Generators](#static-site-generators), [Content Management Systems (CMS)](#content-management-systems-cms)_
 
 _See also: [WeblogMatrix](https://www.weblogmatrix.org/)_
 
