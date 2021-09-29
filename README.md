@@ -1671,8 +1671,7 @@ _Related: [Task management & To-do lists](#task-management--to-do-lists), [Softw
 - [MantisBT](https://www.mantisbt.org/) - Self hosted bug tracker, fits best for software development. ([Demo](https://www.mantisbt.org/bugs/my_view_page.php), [Source Code](https://github.com/mantisbt/mantisbt)) `GPL-2.0` `PHP`
 - [OpenSupports](https://www.opensupports.com/) - Multi language ticket system with FAQ, role management, metrics and canned response features. ([Demo](https://www.opensupports.com/demo/), [Source Code](https://github.com/opensupports/opensupports)) `GPL-3.0` `PHP`
 - [osTicket](https://osticket.com/) - Manage, organize and archive all your support requests and responses in one place. ([Source Code](https://github.com/osTicket/osTicket)) `GPL-2.0` `PHP`
-- [Pachno](https://pach.no/) - An open collaboration platform for teams of all sizes and locations. `MPL-2.0` `PHP`
-Bring your team together to design, build and deliver your project with a tool that works with you and your team, and adapts when you need to. ([Source Code](https://github.com/pachno/pachno)) `MPL-2.0` `PHP`
+- [Pachno](https://pach.no/) - Bring your team together to design, build and deliver your project with a tool that works with you and your team, and adapts when you need to. ([Source Code](https://github.com/pachno/pachno)) `MPL-2.0` `PHP`
 - [Request Tracker](https://www.bestpractical.com/rt/) - An enterprise-grade issue tracking system. ([Source Code](https://github.com/bestpractical/rt)) `GPL-2.0` `Perl`
 - [Sentry On-Premise](https://github.com/getsentry/onpremise) - A powerful error tracking platform with wide language support and a robust API. ([Source Code](https://github.com/getsentry/sentry)) `BSD-3-Clause` `Python/Django`
 - [SIT](https://sit.fyi/) - SCM-agnostic, file-based, offline-first, immutable issue tracker. ([Source Code](https://github.com/sit-fyi/sit)) `MIT` `Apache-2.0` `Rust`
