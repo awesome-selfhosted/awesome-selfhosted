@@ -1685,7 +1685,6 @@ _Related: [Task management & To-do lists](#task-management--to-do-lists), [Softw
 Before hosting one, please see [shortcomings](https://en.wikipedia.org/wiki/URL_shortening#Shortcomings) of URL shorteners.
 
 
-- [gShort](https://github.com/someone-stole-my-name/gShort) - Privacy-friendly self-hosted URL shortener. `GPL-3.0` `Go`
 - [Kutt](https://kutt.it) - A modern URL shortener with support for custom domains. ([Source Code](https://github.com/thedevs-network/kutt)) `MIT` `Nodejs`
 - [Link-shortener-bot](https://github.com/tommyku/link-shortener-front-end) `⚠` - URL shortener using a Telegram Bot. ([Demo](https://t.me/GiveMeShortLinkBot)) `MIT` `Ruby`
 - [Link](https://fsh.ee) - A minimal, SQLite-backed URL shortener. ([Demo](https://demo.fsh.ee), [Source Code](https://git.fsh.ee/i/link)) `GPL-3.0` `Go`
