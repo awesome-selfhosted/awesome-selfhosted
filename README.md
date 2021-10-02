@@ -71,6 +71,7 @@ _Related: [Internet of Things (IoT)](#internet-of-things-iot)_
 - [HRConvert2](https://github.com/zelon88/HRConvert2) - Drag-and-drop file conversion server with session based authentication, automatic temporary file maintenance, and logging capability. `GPL-3.0` `PHP`
 - [Huginn](https://github.com/huginn/huginn) - Allows you to build agents that monitor and act on your behalf. `MIT` `Ruby`
 - [Kibitzr](https://kibitzr.github.io) - Lightweight personal web assistant with powerful integrations. ([Source Code](https://github.com/kibitzr/kibitzr)) `MIT` `Python`
+- [Krayin](https://krayincrm.com/) - Free and Opensource Laravel CRM Application. ([Source Code](https://github.com/krayin/laravel-crm)) `MIT` `PHP`
 - [LazyLibrarian](https://gitlab.com/LazyLibrarian/LazyLibrarian) `⚠` - LazyLibrarian is a program to follow authors and grab metadata for all your digital reading needs. It uses a combination of Goodreads Librarything and optionally GoogleBooks as sources for author info and book info. `GPL-3.0` `Python`
 - [Leon](https://getleon.ai) - Open-source personal assistant who can live on your server. ([Source Code](https://github.com/leon-ai/leon)) `MIT` `Nodejs`
 - [Lidarr](https://lidarr.audio/) - Lidarr is a music collection manager for Usenet and BitTorrent users. ([Source Code](https://github.com/Lidarr/Lidarr)) `GPL-3.0` `C#`
