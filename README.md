@@ -1233,7 +1233,7 @@ _Related: [Wikis](#wikis)_
 - [PHPOffice](https://github.com/PHPOffice) - PHPOffice contains libraries which permits to write and read files from most office suites. `LGPL-3.0` `PHP`
 - [Rustpad](https://rustpad.io/) - Efficient and minimal collaborative code editor, self-hosted, no database required. ([Source Code](https://github.com/ekzhang/rustpad)) `MIT` `Rust`
 - [WebODF](https://webodf.org/) - Tools and libraries to view and edit Open Document Format (ODF) files. ([Source Code](https://github.com/webodf/WebODF)) `AGPL-3.0` `HTML5`
-
+- [LanguageTool](https://languagetool.org/) - Spelling and grammer checking, alternative to Grammerly, has Chrome and Firefox extensions etc. ([Source Code](https://github.com/languagetool-org/languagetool)) `LGPL-2.1` `Docker` `Java` `Browser` `Desktop`
 
 ### Password Managers
 
