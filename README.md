@@ -44,6 +44,7 @@ _Related: [Content Management Systems (CMS)](#content-management-systems-cms)_
 - [CKAN](https://ckan.org) - CKAN is a tool for making open data websites. ([Source Code](https://github.com/ckan/ckan)) `AGPL-3.0` `Python`
 - [Collective Access - Providence](https://collectiveaccess.org/) - Highly configurable Web-based framework for management, description, and discovery of digital and physical collections supporting a variety of metadata standards, data types, and media formats. ([Source Code](https://github.com/collectiveaccess/providence)) `GPL-3.0-only` `PHP`
 - [Horahora](https://github.com/horahoradev/horahora) - Video hosting website and video archival manager for Niconico, Bilibili, and Youtube. `MIT` `Go`
+- [Wayback](https://wabarc.eu.org/) - Self-hosted toolkit for snapshot webpage to Internet Archive, archive.today, IPFS, and beyond. ([Demo](https://t.me/wabarc_bot), [Source Code](https://github.com/wabarc/wayback)) `GPL-3.0` `Go`
 
 
 ### Automation
