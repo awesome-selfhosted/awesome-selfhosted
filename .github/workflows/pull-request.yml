@@ -1,0 +1,14 @@
+name: Run syntax test
+
+on:
+  pull_request:
+    branches: [ master ]
+  workflow_dispatch:
+
+jobs:
+  check-syntax-full:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - run: npm i chalk
+    - run: make check_syntax_full
