@@ -57,7 +57,7 @@ function parseLicense(md) {
 
 //Test '- [Name](http://homepage/)'
 function testMainLink(text) { 
-  let testA = /(^ {0,2}- \[.*?\]\(.*\))(?=.?-? ?\w)/;
+  let testA = /(^ {0,2}- \[.*?\]\([^)]*\.[^)]*?\))(?=\ ?\-?\ ?\w)/ // /(^ {0,2}- \[.*?\]\(.*\))(?=.?-? ?\w)/;
   const testA1 = /(- \W?\w*\W{0,2}.*?\)?)( .*$)/;
     if (!testA.test(text)) {
     let a1 = testA1.exec(text)[2];
@@ -81,9 +81,9 @@ function testDescription(text) {
 
 //If present, tests '([Demo](http://url.to/demo), [Source Code](http://url.of/source/code), [Clients](https://url.to/list/of/related/clients-or-apps))'
 function testSrcDemCli(text) { 
-  let testC = text.search(/\(\[|\)\,|\)\)/);
+  let testC = text.search(/\.\ \(|\.\ \[|\ \(\[[sSdDcC]/); //    /\(\[|\)\,|\)\)/);
   let testD = /(?<=\w. )(\(\[(Demo|Source Code|Clients)\]\([^)\]]*\)(, \[(Source Code|Clients)\]\([^)\]]*\))?(, \[(Source Code|Clients)\]\([^)\]]*\))*\))(?= \`?)/;
-  const testD1 = /(^- \W[a-zA-Z0-9-_ ]*\W{0,2}http[^\[]*)(?<= )/;
+  const testD1 = /(^- \W[a-zA-Z0-9-_ .]*\W{0,2}http[^\[]*)(?<= )/;
   const testD2 = /(\`.*\` \`.*\`$)/;
   if ((testC > -1) && (!testD.test(text))) {
     let d1 = testD1.exec(text)[1];
