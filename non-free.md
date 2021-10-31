@@ -26,6 +26,7 @@
 
 ## E-books and Integrated Library Systems (ILS)
 
+- [Bookwyrm](https://joinbookwyrm.com/) `⊘ Proprietary` - BookWyrm is a social network for tracking your reading, talking about books, writing reviews, and discovering what to read next. ([Source Code](https://github.com/bookwyrm-social/bookwyrm)) `Python`
 - [Ubooquity](https://vaemendis.net/ubooquity/)  `⊘ Proprietary` - Ubooquity is a free to use, versatile, lightweight, multi-platform, and secure home server for your comic and e-book library. `Java`
  
 
