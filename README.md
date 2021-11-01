@@ -884,7 +884,7 @@ Games, game servers and control panels.
 - [Sshwifty](https://github.com/nirui/sshwifty) - Sshwifty is a SSH and Telnet connector made for the Web. `AGPL-3.0` `Go/Docker`
 - [Teleport](https://goteleport.com/) - Certificate authority and access plane for SSH, Kubernetes, web applications, and databases. ([Source Code](https://github.com/gravitational/teleport)) `Apache-2.0` `Go`
 - [tmate](https://tmate.io/) - Instant terminal sharing. ([Source Code](https://github.com/tmate-io/tmate)) `ISC` `C`
-
+- [remotely](https://remotely.one/) - A remote control and remote scripting solution, built with .NET 5, Blazor, SignalR Core, and WebRTC. Teamviewer alternative ([Source Code](https://github.com/immense/Remotely)) `GNU` `C#`
 
 ### Genealogy
 
