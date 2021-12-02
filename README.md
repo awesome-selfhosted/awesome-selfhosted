@@ -884,7 +884,7 @@ Games, game servers and control panels.
 - [Neko](https://neko.m1k1o.net) - A self hosted virtual browser (rabb.it clone) that runs in Docker. ([Source Code](https://github.com/m1k1o/neko)) `Apache-2.0` `Docker/Go`
 - [oneye](https://oneye-project.org/) - Cloud software to access your data from everywhere with any browser. ([Demo](https://wiki.oneye-project.org/0.9:demo), [Source Code](https://github.com/oneye/oneye)) `AGPL-3.0` `PHP`
 - [OS.js](https://www.os-js.org/) - Desktop implementation for your browser with a fully-fledged window manager, Application APIs, GUI toolkits and filesystem abstraction. ([Demo](https://demo.os-js.org/), [Source Code](https://github.com/os-js/OS.js)) `BSD-2-Clause` `Nodejs`
-- [ShellHub](https://www.shellhub.io) - ShellHub is a modern SSH server for remotely accessing linux devices via command line (using any SSH client) or web-based user interface, designed as an alternative to sshd. Think ShellHub as centralized SSH for the the edge and cloud computing. ([Source Code](https://github.com/shellhub-io/shellhub)) `Apache-2.0` `Go/Other`
+- [ShellHub](https://www.shellhub.io) - ShellHub is a modern SSH server for remotely accessing linux devices via command line (using any SSH client) or web-based user interface, designed as an alternative to sshd. Think ShellHub as centralized SSH for the edge and cloud computing. ([Source Code](https://github.com/shellhub-io/shellhub)) `Apache-2.0` `Go/Other`
 - [Sshwifty](https://github.com/nirui/sshwifty) - Sshwifty is a SSH and Telnet connector made for the Web. `AGPL-3.0` `Go/Docker`
 - [Teleport](https://goteleport.com/) - Certificate authority and access plane for SSH, Kubernetes, web applications, and databases. ([Source Code](https://github.com/gravitational/teleport)) `Apache-2.0` `Go`
 - [tmate](https://tmate.io/) - Instant terminal sharing. ([Source Code](https://github.com/tmate-io/tmate)) `ISC` `C`
@@ -1083,6 +1083,7 @@ _See also: [List of streaming media systems - Wikipedia](https://en.wikipedia.or
 - [Oddworks](https://gitlab.com/oddnetworks/oddworks/core) - Oddworks is an open source video distribution platform built to destroy the barriers to streaming television with SDKs for Roku, Apple iOS/tvOS, Google Android, and Amazon FireTV. `MIT` `Nodejs`
 - [Olaris](https://gitlab.com/olaris/olaris-server) - Olaris is an open-source, community driven, media manager and transcoding server. `GPL-3.0` `Go`
 - [Open Streaming Platform](https://openstreamingplatform.com) - Self-Hosted alternative to Twitch and Youtube Live for live and on-demand video streaming. ([Source Code](https://gitlab.com/Deamos/flask-nginx-rtmp-manager)) `MIT` `Python`
+- [OvenMediaEngine](https://ovenmediaengine.com) - OvenMediaEngine is a selfhostable Open-Source Streaming Server with Sub-Second Latency. ([Demo](https://demo.ovenplayer.com), [Source Code](https://github.com/AirenSoft/OvenMediaEngine)) `GPL-3.0` `C++`
 - [Owncast](https://github.com/owncast/owncast) - Owncast is an open source, self-hosted, decentralized, single user live video streaming and chat server for running your own live streams similar in style to the large mainstream options. `MIT` `Go`
 - [PeerTube](https://joinpeertube.org/en/) - Decentralized video streaming platform using P2P (BitTorrent) directly in the web browser. ([Source Code](https://github.com/Chocobozzz/PeerTube)) `AGPL-3.0` `Nodejs`
 - [Radium](https://github.com/Zibbp/Radium) - Synced stream and video playback with VOD capabilities utilizing HLS. Developed for movie nights but has many use cases. ([Demo](https://radium-demo.herokuapp.com)) `MIT` `Nodejs/Docker`
@@ -1170,6 +1171,7 @@ _See also: [awesome-sysadmin/IT Asset Management](https://github.com/awesome-fos
 - [Galette](https://galette.eu/dc/) - Galette is a membership management web application towards non profit organizations. ([Source Code](https://git.tuxfamily.org/galette/galette.git/)) `GPL-3.0` `PHP`
 - [GRR](https://grr.devome.com/?lang=en) - Assets management and booking for small/medium companies. ([Source Code](https://github.com/JeromeDevome/GRR)) `GPL-2.0` `PHP`
 - [Hospital Run](https://hospitalrun.io/) - Hospital Run is offline enabled hospital management software. ([Demo](https://hospitalrun.io/demo/), [Source Code](https://github.com/HospitalRun/hospitalrun-server)) `GPL-3.0` `Nodejs`
+- [Hub20](https://hub20.io/) - A self-hosted payment processor for Ethereum and ERC20 Tokens. ([Source Code](https://gitlab.com/mushroomlabs/hub20/)) `AGPL-3.0` `Docker/Python`
 - [IHateMoney](https://ihatemoney.org/) - Manage your shared expenses, easily. ([Demo](https://ihatemoney.org/demo/), [Source Code](https://github.com/spiral-project/ihatemoney)) `BSD-3-Clause` `Docker/Python`
 - [IHateToBudget](https://github.com/bminusl/ihatetobudget) - A simple web app to understand and control your expenses. `GPL-3.0` `Docker/Python`
 - [Inventaire](https://inventaire.io/welcome) - Collaborative resources mapper project, while yet only focused on exploring books mapping with wikidata and ISBNs. ([Source Code](https://github.com/inventaire/inventaire)) `AGPL-3.0` `Nodejs`
@@ -1257,6 +1259,7 @@ _Related: [Wikis](#wikis)_
 - [Shaark](https://github.com/MarceauKa/shaark) - All in one platform for your links, stories, passwords and albums. Built with Laravel and Vue.js. `MIT` `PHP`
 - [sysPass](https://www.syspass.org/) - Multiuser password management system. ([Demo](https://demo.syspass.org/), [Source Code](https://github.com/nuxsmin/sysPass)) `GPL-3.0` `PHP`
 - [Teampass](https://teampass.net/) - Password manager dedicated for managing passwords in a collaborative way. One symmetric key is used to encrypt all shared/team passwords and stored server side in a file and the database. works on any server Apache, MySQL and PHP. ([Source Code](https://github.com/nilsteampassnet/TeamPass)) `GPL-3.0` `PHP`
+- [vaults](https://github.com/MatrixEternal/vaults) - Password manager featuring client side AES-256 encryption, PBKDF2 hashing, vaults, password generation & more. `GPL-3.0` `PHP`
 - [Vaultwarden](https://github.com/dani-garcia/vaultwarden) - Lightweight Bitwarden server API implementation written in Rust. `GPL-3.0` `Rust`
 
 
@@ -1363,6 +1366,7 @@ _Related: [Monitoring](#monitoring)_
 _Related: [Booking and Scheduling](#booking-and-scheduling)_
 
 - [Calagator](https://calagator.org/) - Event aggregator. ([Source Code](https://github.com/calagator/calagator)) `MIT` `Ruby`
+- [ClearFlask](https://clearflask.com) - Community-feedback tool for managing incoming feedback and prioritizing a public roadmap. Alternative to Canny, UserVoice, Upvoty. ([Demo](https://product.clearflask.com), [Source Code](https://github.com/clearflask/clearflask)) `AGPL-3.0` `Docker`
 - [Clerk](https://github.com/AppMini/Clerk) - Simple event logger to keep track of periodic events, habits, etc. as they occur. `GPL-3.0` `PHP`
 - [Croodle](https://github.com/jelhan/croodle) - Croodle is an end-to-end encrypted web application to schedule a date or to do a poll on any topic. `MIT` `Javascript`
 - [dudle](http://primelife.ercim.eu/results/opensource/63-dudle) - Online scheduling application. ([Demo](https://dudle.inf.tu-dresden.de/), [Source Code](https://github.com/kellerben/dudle)) `AGPL-3.0` `Ruby`
