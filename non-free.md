@@ -54,7 +54,7 @@
 
 ## Maps & GPS
 
-- [OpenMapTiles Server](https://openmaptiles.org/) `⊘ Proprietary` - Set of tools for self-hosting of OpenStreetMap vector tiles. ([Partial Source Code](https://github.com/openmaptiles)) `Python/JavaScript`
+- [MapTiler Server](https://www.maptiler.com/server/) `⊘ Proprietary` - Software for self-hosting of OpenStreetMap vector tiles, satellite imagery, own geodata and data from PostGIS database.
 
 ## Media Streaming
 
