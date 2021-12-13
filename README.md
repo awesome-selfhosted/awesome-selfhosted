@@ -1075,7 +1075,7 @@ Games, game servers and control panels.
 **[`^        back to top        ^`](#)**
 
 - [Appsmith](https://www.appsmith.com) - Cloud or self-hosted open-source platform to build admin panels, CRUD apps and workflows. Build everything you need, 10x faster. ([Demo](https://app.appsmith.com), [Source Code](https://github.com/appsmithorg/appsmith)) `Apache-2.0` `JavaScript`
-- [ERPNext](https://erpnext.com) - Free and Open Source Enterprise Resource Planning (ERP). ([Demo](https://app.appsmith.com), [Source Code](https://github.com/frappe/erpnext)) `GPL-3.0` `Python`
+- [ERPNext](https://erpnext.com) - Free and Open Source Enterprise Resource Planning (ERP). ([Demo](https://erpnext.com), [Source Code](https://github.com/frappe/erpnext)) `GPL-3.0` `Python`
 - [GrapeJS](https://grapesjs.com) - Free and Open source Web Builder Framework. Next generation tool for building templates without coding. ([Demo](https://app.appsmith.com), [Source Code](https://github.com/artf/grapesjs)) `BSD 3-Clause` `JavaScript`
 
 
