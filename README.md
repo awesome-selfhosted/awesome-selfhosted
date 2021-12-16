@@ -67,8 +67,6 @@ See [Contributing](.github/CONTRIBUTING.md).
   - [Media Streaming](#media-streaming)
   - [Media Streaming - Audio Streaming](#media-streaming---audio-streaming)
   - [Media Streaming - Multimedia Streaming](#media-streaming---multimedia-streaming)
-  - [Media Streaming - Audio Streaming](#media-streaming---audio-streaming)
-  - [Media Streaming - Multimedia Streaming](#media-streaming---multimedia-streaming)
   - [Media Streaming - Video Streaming](#media-streaming---video-streaming)
   - [Miscellaneous](#miscellaneous)
   - [Money, Budgeting & Management](#money,-budgeting--management)
