@@ -49,6 +49,7 @@ See [Contributing](.github/CONTRIBUTING.md).
   - [E-commerce](#e-commerce)
   - [Federated Identity & Authentication](#federated-identity--authentication)
   - [Feed Readers](#feed-readers)
+  - [File Encryption](#file-encryption)
   - [File Transfer & Synchronization](#file-transfer--synchronization)
   - [File Transfer - Distributed Filesystems](#file-transfer---distributed-filesystems)
   - [File Transfer - Object Storage & File Servers](#file-transfer---object-storage--file-servers)
@@ -815,6 +816,13 @@ A [news aggregator](https://en.wikipedia.org/wiki/News_aggregator), also termed 
 - [ttrss-mobile](https://github.com/mboinet/ttrss-mobile) - Mobile webapp for Tiny Tiny RSS. `AGPL-3.0` `Javascript`
 - [ttrss-reader](https://github.com/kucrut/ttrss-reader) - Light and responsive client for TTRSS. `GPL-2.0` `Javascript`
 - [Winds](https://getstream.io/winds/) `⚠` - Open source and beautiful RSS reader built using React/Redux/Sails/Node and Stream. It showcases personalized feeds powered by the Stream API. ([Demo](https://winds.getstream.io/), [Source Code](https://github.com/GetStream/Winds)) `BSD-3-Clause` `Nodejs`
+
+
+### File Encryption
+
+**[`^        back to top        ^`](#)**
+
+- [Hat.sh](https://hat.sh/) - In-browser secure file encryption. ([Demo](https://hat.sh/), [Source Code](https://github.com/sh-dv/hat.sh))  `MIT` `JavaScript`
 
 
 ### File Transfer & Synchronization
