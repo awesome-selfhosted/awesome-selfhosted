@@ -822,7 +822,7 @@ A [news aggregator](https://en.wikipedia.org/wiki/News_aggregator), also termed 
 
 **[`^        back to top        ^`](#)**
 
-- [Hat.sh](https://hat.sh/) - In-browser secure file encryption. ([Demo](https://hat.sh/), [Source Code](https://github.com/sh-dv/hat.sh))  `MIT` `JavaScript`
+- [Hat.sh](https://hat.sh/) - In-browser Secure Local File Encryption. ([Demo](https://hat.sh/), [Source Code](https://github.com/sh-dv/hat.sh))  `MIT` `JavaScript`
 
 
 ### File Transfer & Synchronization
