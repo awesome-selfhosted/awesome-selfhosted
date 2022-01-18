@@ -1,6 +1,6 @@
-# Awesome Selfhosted - Proprietary Software
+# Awesome Selfhosted - Non-Free Software
 
-**Software listed here does not allow you to run it for any purpose, study, modify or distribute the source code.** Some of the software here may not be audited due to its closed source nature, and can therefore contain anti-features, such as but not limited to: undisclosed security vulnerabilities, backdoors, user lock-in, sending personal data to a third party.
+**Software listed here does not meet the [Free Software](https://en.wikipedia.org/wiki/Free_software) definition**. It implements their own licensing with restrictions and grants which you must check on each case. Restrictions may include limits on allowed use of the software, access to the source code, modification and further redistribution. This software can therefore contain anti user-freedom features, such as but not limited to: backdoors, user lock-in, sending personal data to a third party.
 
 ## Analytics
 
@@ -26,6 +26,7 @@
 
 ## E-books and Integrated Library Systems (ILS)
 
+- [Bookwyrm](https://joinbookwyrm.com/) `⊘ Proprietary` - BookWyrm is a social network for tracking your reading, talking about books, writing reviews, and discovering what to read next. ([Source Code](https://github.com/bookwyrm-social/bookwyrm)) `Python`
 - [Ubooquity](https://vaemendis.net/ubooquity/)  `⊘ Proprietary` - Ubooquity is a free to use, versatile, lightweight, multi-platform, and secure home server for your comic and e-book library. `Java`
  
 
@@ -53,7 +54,7 @@
 
 ## Maps & GPS
 
-- [OpenMapTiles Server](https://openmaptiles.org/) `⊘ Proprietary` - Set of tools for self-hosting of OpenStreetMap vector tiles. ([Partial Source Code](https://github.com/openmaptiles)) `Python/JavaScript`
+- [MapTiler Server](https://www.maptiler.com/server/) `⊘ Proprietary` - Software for self-hosting of OpenStreetMap vector tiles, satellite imagery, own geodata and data from PostGIS database.
 
 ## Media Streaming
 
@@ -106,7 +107,6 @@
 - [Crucible](https://www.atlassian.com/software/crucible/overview) `⊘ Proprietary` - A peer code review application `Java`
 - [Documize](https://documize.com) `⊘ Proprietary` - Modern docs & wiki software built for software team collaboration. `Go`
 - [JIRA](https://www.atlassian.com/software/jira) `⊘ Proprietary` - A professional and extensible issue tracker `Java`
-- [Kloudless](https://kloudless.com) `⊘ Proprietary` - Platform for native, embedded, SaaS integrations using Unified APIs. `Python`
 - [RhodeCode](https://rhodecode.com) `⊘ Proprietary` - On-premise Source Code Management for Mercurial, Git & Subversion. `Python`
 - [BitBucket Server](https://www.atlassian.com/software/bitbucket/server) `⊘ Proprietary` - An enterprise-level Git solution similar to GitLab `Java`
   
