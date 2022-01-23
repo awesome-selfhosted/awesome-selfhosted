@@ -96,6 +96,7 @@ See [Contributing](.github/CONTRIBUTING.md).
   - [Software Development - Project Management](#software-development---project-management)
   - [Software Development - UX Testing](#software-development---ux-testing)
   - [Static Site Generators](#static-site-generators)
+  - [Status / Uptime pages](#status--uptime-pages)
   - [Task Management & To-do Lists](#task-management--to-do-lists)
   - [Ticketing](#ticketing)
   - [URL Shorteners](#url-shorteners)
