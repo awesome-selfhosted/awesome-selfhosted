@@ -41,7 +41,6 @@
 
 - [Yetishare](https://yetishare.com) `⊘ Proprietary` - A powerful file hosting script with support for Amazon S3, Wasabi, Backblaze, local, direct and SFTP storage. ([Demo](https://fhscript.com)) `PHP`
 - [Resilio Sync](https://www.resilio.com/) `⊘ Proprietary` - Resilio Sync by Resilio, Inc is a proprietary peer-to-peer file synchronisation tool.
-- [Drive Virtual](http://www.drivevirtual.com/) `⊘ Proprietary` - With Drive Virtual you can sync, backup and share your files privately with your own FTP (SFTP) server or account.
 - [Dropcenter](http://projet.idleman.fr/dropcenter/) - Upload files by simple drag-n-drop. ([Source Code](https://github.com/ldleman/dropcenter)) `CC-BY-NC-SA-3.0` `PHP`
 - [FileRun](http://www.filerun.com/) `⊘ Proprietary` - A complete solution for your files with integration with Google and Office. ([Demo](http://www.filerun.com/demo)) `PHP`
 
