@@ -1394,7 +1394,7 @@ _Related: [Wikis](#wikis)_
 - [Stikked](https://github.com/claudehohl/Stikked) - Advanced and beautiful pastebin. ([Demo](https://paste.scratchbook.ch/)) `GPL-3.0` `PHP`
 - [Sup3rS3cretMes5age](https://github.com/algolia/sup3rS3cretMes5age) - Very simple (to deploy and to use) secret message service using Hashicorp Vault as a secrets storage. `MIT` `Go`
 - [Pastefy](https://pastefy.ga) - Beautiful, simple and easy to deploy Pastebin with optional Client-Encryption, Multitab-Pastes, an API, a highlighted Editor and more. ([Source Code](https://github.com/interaapps/pastefy), [Clients](https://github.com/topics/pastefy-addon)) `MIT` `Java`
-- [NextBin](https://paste.chiragdev.xyz/) - A bin made in Next.js. ([Source Code](https://github.com/chirag350/NextBin)) `GPL-3.0 ` `Next.js`
+- [NextBin](https://paste.chiragdev.xyz/) - A bin made in Next.js. ([Source Code](https://github.com/chirag350/NextBin)) `GPL-3.0 ` `Nodejs`
 
 
 ### Personal Dashboards
