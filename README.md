@@ -94,6 +94,7 @@ See [Contributing](.github/CONTRIBUTING.md).
   - [Software Development - IDE & Tools](#software-development---ide--tools)
   - [Software Development - Localization](#software-development---localization)
   - [Software Development - Project Management](#software-development---project-management)
+  - [Software Development - Security & QA](#software-development---security-and-qa)
   - [Software Development - UX Testing](#software-development---ux-testing)
   - [Static Site Generators](#static-site-generators)
   - [Status / Uptime pages](#status--uptime-pages)
@@ -1730,6 +1731,12 @@ _See also: [awesome-sysadmin/Code Review](https://github.com/awesome-foss/awesom
 - [Tuleap](https://www.tuleap.org/) - Tuleap is a libre suite to plan, track, code and collaborate on software projects. ([Source Code](https://tuleap.net/plugins/git/tuleap/tuleap/stable?p=tuleap%2Fstable.git&a=tree)) `GPL-2.0` `PHP`
 - [UVDesk](https://www.uvdesk.com/) - UVDesk community is a service oriented, event driven extensible opensource helpdesk system that can be used by your organization to provide efficient support to your clients effortlessly whichever way you imagine. ([Demo](https://demo.uvdesk.com/), [Source Code](https://github.com/uvdesk/community-skeleton)) `MIT` `PHP`
 - [ZenTao](https://www.zentao.pm/) - An agile(scrum) project management system/tool. ([Demo](https://demo.zentao.pm/user-login.html), [Source Code](https://github.com/easysoft/zentaopms)) `ZPL-1.2` `PHP`
+
+### Software Development - Security & QA
+
+**[`^        back to top        ^`](#)**
+
+- [Scanmycode CE (Community Edtion](https://www.scanmycode.today/) - Code Scanning/SAST/Static Analysis/Linting using many tools/Scanners with One Report - Scanmycode Community Edition (CE). ([Source Code](https://github.com/marcinguy/scanmycode-ce)) `BSD-3-Clause LGPL 2.1 Commonsclause` `Python`
 
 
 ### Software Development - UX Testing
