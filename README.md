@@ -1736,7 +1736,9 @@ _See also: [awesome-sysadmin/Code Review](https://github.com/awesome-foss/awesom
 
 **[`^        back to top        ^`](#)**
 
+- [Mega-Linter](https://megalinter.github.io/latest) - Mega-Linter can handle any type of project thanks to its 70+ embedded Linters, its advanced reporting, runnable on any CI system or locally, with assisted installation and configuration, able to apply formatting and fixes. `AGPL-3.0` `Python`
 - [Scanmycode CE (Community Edtion)](https://www.scanmycode.today/) - Code Scanning/SAST/Static Analysis/Linting using many tools/Scanners with One Report - Scanmycode Community Edition (CE). ([Source Code](https://github.com/marcinguy/scanmycode-ce)) `BSD-3-Clause LGPL-2.1 Commonsclause` `Python`
+- [SonarQube](https://www.sonarqube.org )SonarQube is an open platform to manage code quality. `LGPL-3.0` `Java`
 
 
 ### Software Development - UX Testing
