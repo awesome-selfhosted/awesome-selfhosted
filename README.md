@@ -863,7 +863,7 @@ _Related: [Groupware](#groupware)_
 ### File Transfer - Peer-to-peer Filesharing
 
 **[`^        back to top        ^`](#)**
-
+- [Autolycus](https://github.com/imneonizer/autolycus) - A seedr.cc inspired web application to download and stream torrent files from hosted web servers. [Demo](http://autolycus-demo.duckdns.org/) `username: admin` `password: admin` `GPL-3.0` `Python` `Java Script`
 - [bittorrent-tracker](https://webtorrent.io/) - Simple, robust, BitTorrent tracker (client and server) implementation. ([Source Code](https://github.com/webtorrent/bittorrent-tracker)) `MIT` `Nodejs`
 - [cloud-torrent](https://github.com/jpillora/cloud-torrent) - Torrent Web Client with HTTP retrievable or streamable downloaded files. `AGPL-3.0` `Go`
 - [Dat Project](https://datproject.org) - Powerful decentralized file sharing applications built from a large ecosystem of modules. ([Source Code](https://github.com/datproject)) `MIT` `Nodejs`
@@ -879,7 +879,6 @@ _Related: [Groupware](#groupware)_
 - [Send](https://github.com/timvisee/send) - Simple, private, end to end encrypted temporary file sharing, originally built by Mozilla. ([Clients](https://github.com/timvisee/send#clients)) `MPL-2.0` `Nodejs`
 - [Torrents.csv](https://codeberg.org/heretic/torrents-csv-server) - A self-hostable torrent search engine. `GPL-3.0` `Rust`
 - [Transmission](https://transmissionbt.com/) - Fast, easy, Free Bittorrent client. ([Source Code](https://github.com/transmission/transmission)) `GPL-3.0` `C`
-- [Autolycus](https://github.com/imneonizer/autolycus) - A seedr.cc inspired web application to download and stream torrent files from hosted web servers. [Demo](http://autolycus-demo.duckdns.org/) `username: admin` `password: admin` `GPL-3.0` `Python` `Java Script`
 
 ### File Transfer - Single-click & Drag-n-drop Upload
 
