@@ -1813,6 +1813,15 @@ _Related: [Task management & To-do lists](#task-management--to-do-lists), [Softw
 - [Zammad](https://zammad.org/) - Easy to use but powerful open-source support and ticketing system. ([Source Code](https://github.com/zammad/zammad)) `AGPL-3.0` `Ruby`
 
 
+### Time Trackers
+
+**[`^        back to top        ^`](#)**
+
+- [ActivityWatch](https://activitywatch.net) - An app that automatically tracks how you spend time on your devices. ([Source Code](https://github.com/ActivityWatch/activitywatch)) `MPL-2.0` `Python`
+- [Kimai](https://www.kimai.org) - An open source time-tracker with support for invoicing. ([Demo](https://www.kimai.org/demo/), [Source Code](https://github.com/kevinpapst/kimai2)) `MIT` `PHP`
+- [TimeTagger](https://timetagger.app) - An open source time-tracker based on an interactive timeline and powerful reporting. ([Demo](https://timetagger.app/app/demo), [Source Code](https://github.com/almarklein/timetagger)) `GPL-3.0`, `Python`
+
+
 ### URL Shorteners
 
 **[`^        back to top        ^`](#)**
