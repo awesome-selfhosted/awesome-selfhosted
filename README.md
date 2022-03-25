@@ -1784,6 +1784,7 @@ _Related: [Software Development - Project Management](#software-development---pr
 - [Tracks](https://www.getontracks.org/) - Web-based application to help you implement David Allen’s [Getting Things Done™](https://en.wikipedia.org/wiki/Getting_Things_Done) methodology. ([Source Code](https://github.com/TracksApp/tracks)) `GPL-2.0` `Ruby`
 - [Vikunja](https://vikunja.io/) - The to-do app to organize your life. ([Demo](https://try.vikunja.io/login), [Source Code](https://kolaente.dev/vikunja/)) `GPL-3.0` `Go`
 - [Wekan](https://wekan.github.io/) - Open-source Trello-like kanban. ([Source Code](https://github.com/wekan/wekan)) `MIT` `Nodejs`
+- [AppFlowy](https://www.appflowy.io/) - The Open Source Alternative To Notion. ([Source Code](https://github.com/AppFlowy-IO/AppFlowy)) `AGPLv3 License`
 
 
 ### Ticketing
