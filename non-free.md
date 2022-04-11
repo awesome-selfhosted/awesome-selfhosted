@@ -29,6 +29,7 @@
 - [Dialog](https://dlg.im) `⊘ Proprietary` - Handy and feature-rich multi-device solution with native mobile clients, SIP integration, chatbots, 3rd-party integrations. It brings communication efficiency without sacrificing privacy. Works in closed circuit, encrypts push notifications. ([Demo](https://dlg.im/en/download)) `Scala/Go`
 - [Groupboard](https://www.groupboard.com) `⊘ Proprietary` - Online whiteboard, audio/video conferencing, screen sharing, shared code editing and optional session recording/playback.
 - [PrivMX WebMail](https://privmx.com) - an alternative private mail system - web-based, end-to-end encrypted by design, self-hosted, decentralized, uses independent PKI. Easy to install and administrate, freeware, open-source. `PHP`
+- [WorkAdventure](https://workadventu.re) `AGPL-3.0 + Commons Clause` - A virtual office / virtual conference application presented as a 16-bit RPG video game. ([Demo](https://play.staging.workadventu.re/@/tcm/workadventure/wa-village), [Source Code](https://github.com/thecodingmachine/workadventure/)) `Docker`
 
 
 ## E-books and Integrated Library Systems (ILS)
