@@ -103,6 +103,7 @@ See [Contributing](.github/CONTRIBUTING.md).
   - [Web Servers](#web-servers)
   - [Wikis](#wikis)
 - [List of Licenses](#list-of-licenses)
+- [Anti-features](#anti-features)
 - [External Links](#external-links)
 - [Contributing](#contributing)
 - [Authors](#authors)
