@@ -1910,7 +1910,6 @@ _See also: [Wikimatrix](https://www.wikimatrix.org/), [Wiki Engines - WikiIndex]
 
 **[`^        back to top        ^`](#)**
 
-- `⚠ ` - Depends on a proprietary service outside the user's control
 - `0BSD` - [BSD Zero-Clause Licence](https://opensource.org/licenses/0BSD)
 - `AAL` - [Attribution Assurance License](https://opensource.org/licenses/AAL)
 - `AGPL-3.0` - [GNU Affero General Public License 3.0](https://www.gnu.org/licenses/agpl-3.0)
@@ -1961,6 +1960,12 @@ _See also: [Wikimatrix](https://www.wikimatrix.org/), [Wiki Engines - WikiIndex]
 - `Zlib` - [Zlib/libpng License](https://opensource.org/licenses/Zlib)
 - `ZPL-1.2` - [Zope Public License 1.2](http://zpl.pub/page/zplv12)
 - `ZPL-2.0` - [Zope Public License 2.0](https://opensource.org/licenses/ZPL-2.0)
+
+--------------------
+
+## Anti-features
+
+- `⚠ ` - Depends on a proprietary service outside the user's control
 
 --------------------
 
