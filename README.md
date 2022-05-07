@@ -1919,6 +1919,11 @@ _See also: [Wikimatrix](https://www.wikimatrix.org/), [Wiki Engines - WikiIndex]
 - [XWiki](https://www.xwiki.org) - Second generation wiki that allows the user to extend its functionalities with a powerful extension-based architecture. ([Demo](https://playground.xwiki.org), [Source Code](https://github.com/xwiki/xwiki-platform)) `LGPL-2.1` `Java`
 - [Zim](https://zim-wiki.org/) - Graphical text editor used to maintain a collection of wiki pages. Each page can contain links to other pages, simple formatting and images. ([Source Code](https://github.com/zim-desktop-wiki/zim-desktop-wiki)) `GPL-2.0` `Python`
 
+### Zero Trust Networking
+
+**[`^        back to top        ^`](#)**
+
+- [OpenZiti](https://openziti.github.org/) - Fully-featured, self-hostable, zero trust overlay network. Includes a full mesh overlay network, includes 2FA support out of the box, includes clients for all major desktop/mobile OS'es. Build zero trust network principles into your application via SDKs. ([Source Code](https://github.com/openziti/ziti)) `Apache-2.0` `Go/C/Java/Android/Swift/Node/C#`
 
 --------------------
 
