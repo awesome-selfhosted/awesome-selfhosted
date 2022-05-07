@@ -1248,6 +1248,7 @@ _See also: [List of streaming media systems - Wikipedia](https://en.wikipedia.or
 - [Noisedash](https://github.com/kaythomas0/noisedash) - Self-hostable web tool for generating ambient noises/sounds using audio tools and user-uploadable samples. `AGPL-3.0` `Nodejs`
 - [Notica](https://notica.us) - Lets you send browser notifications from your terminal to your desktop or phone. No installation or registration is required. ([Source Code](https://github.com/tannercollin/Notica)) `MIT` `Nodejs`
 - [Ombi](https://ombi.io/) - A content request system for Plex/Emby, connects to SickRage, CouchPotato, Sonarr, with a growing feature set. ([Demo](https://app.ombi.io/), [Source Code](https://github.com/Ombi-app/Ombi)) `GPL-2.0` `C#`
+- [OpenZiti](https://openziti.github.org/) - Fully-featured, self-hostable, zero trust overlay network. Includes a full mesh overlay network, includes 2FA support out of the box, includes clients for all major desktop/mobile OS'es. Build zero trust network principles into your application via SDKs. ([Source Code](https://github.com/openziti/ziti)) `Apache-2.0` `Go/C/Java/Android/Swift/Node/C#`
 - [Orchest](https://www.orchest.io/) - A new kind of IDE for Data Science. ([Demo](https://cloud.orchest.io), [Source Code](https://github.com/orchest/orchest)) `AGPL-3.0` `Docker`
 - [oTranscribe](https://github.com/oTranscribe/oTranscribe) - Free web app to take the pain out of transcribing recorded interviews. ([Demo](https://otranscribe.com/)) `MIT` `Javascript`
 - [PassCheck](https://apacketofsweets.github.io/PassCheck/) - A web application featuring some handy password tools, including a password generator, strength checker and HaveIBeenPwned breach checker. ([Source Code](https://github.com/apacketofsweets/PassCheck)) `MIT` `Javascript`
@@ -1918,12 +1919,6 @@ _See also: [Wikimatrix](https://www.wikimatrix.org/), [Wiki Engines - WikiIndex]
 - [Wikmd](https://github.com/Linbreux/wikmd) - Modern and simple file based wiki that uses Markdown and Git. `MIT` `Python`
 - [XWiki](https://www.xwiki.org) - Second generation wiki that allows the user to extend its functionalities with a powerful extension-based architecture. ([Demo](https://playground.xwiki.org), [Source Code](https://github.com/xwiki/xwiki-platform)) `LGPL-2.1` `Java`
 - [Zim](https://zim-wiki.org/) - Graphical text editor used to maintain a collection of wiki pages. Each page can contain links to other pages, simple formatting and images. ([Source Code](https://github.com/zim-desktop-wiki/zim-desktop-wiki)) `GPL-2.0` `Python`
-
-### Zero Trust Networking
-
-**[`^        back to top        ^`](#)**
-
-- [OpenZiti](https://openziti.github.org/) - Fully-featured, self-hostable, zero trust overlay network. Includes a full mesh overlay network, includes 2FA support out of the box, includes clients for all major desktop/mobile OS'es. Build zero trust network principles into your application via SDKs. ([Source Code](https://github.com/openziti/ziti)) `Apache-2.0` `Go/C/Java/Android/Swift/Node/C#`
 
 --------------------
 
