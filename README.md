@@ -83,6 +83,7 @@ See [Contributing](.github/CONTRIBUTING.md).
   - [Resource Planning](#resource-planning)
   - [Resource Planning - Enterprise Resource Planning](#resource-planning---enterprise-resource-planning)
   - [Search Engines](#search-engines)
+  - [Enterprise Search Engines](#enterprise-search-engines)
   - [Self-hosting Solutions](#self-hosting-solutions)
   - [Software Development](#software-development)
   - [Software Development - API Management](#software-development---api-management)
@@ -1612,6 +1613,8 @@ _Related: [Booking and Scheduling](#booking-and-scheduling)_
 - [xsrv](https://xsrv.readthedocs.io/) - Install and manage self-hosted services/applications, on your own server(s). ([Source Code](https://github.com/nodiscc/xsrv)) `GPL-3.0` `Shell/Ansible`
 - [YunoHost](https://yunohost.org/) - Server operating system aiming to make self-hosting accessible to everyone. ([Demo](https://yunohost.org/#/try), [Source Code](https://github.com/YunoHost)) `AGPL-3.0` `Python/Other`
 
+### Enterprise Search Engines
+- [Apache Solr](https://lucene.apache.org/solr/) - Solr is the popular, blazing-fast, open source enterprise search platform built on Apache Lucene. ([Source Code](https://lucene.apache.org/solr/downloads.html)) `Apache-2.0` `Java`
 
 ### Software Development
 
