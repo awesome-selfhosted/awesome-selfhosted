@@ -1616,6 +1616,7 @@ _Related: [Booking and Scheduling](#booking-and-scheduling)_
 ### Enterprise Search Engines
 
 **[`^        back to top        ^`](#)**
+
 - [Apache Solr](https://lucene.apache.org/solr/) - Solr is the popular, blazing-fast, open source enterprise search platform built on Apache Lucene. ([Source Code](https://lucene.apache.org/solr/downloads.html)) `Apache-2.0` `Java`
 
 ### Software Development
