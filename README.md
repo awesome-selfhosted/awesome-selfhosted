@@ -1275,6 +1275,7 @@ _See also: [List of streaming media systems - Wikipedia](https://en.wikipedia.or
 
 _See also: [awesome-sysadmin/IT Asset Management](https://github.com/awesome-foss/awesome-sysadmin#it-asset-management)_
 
+- [Actual](https://actualbudget.com/) - Actual is a super fast privacy-focused app for managing your finances. You own your data, and we will sync it across all devices with optional end-to-end encryption. ([Demo](https://app.actualbudget.com/), [Source Code](https://github.com/actualbudget/actual)) `MIT` `JavaScript`
 - [Akaunting](https://akaunting.com/) - Akaunting is a free, online and open source accounting software designed for small businesses and freelancers. ([Source Code](https://github.com/akaunting/akaunting)) `GPL-3.0` `PHP`
 - [Boodle](https://github.com/manuel-uberti/boodle) - Simple accounting single-page application in Clojure and ClojureScript. `EPL-1.0` `Java`
 - [BTCPay Server](https://btcpayserver.org/) - A self-hosted Bitcoin and other cryptocurrencies payment processor. ([Demo](https://mainnet.demo.btcpayserver.org/), [Source Code](https://github.com/btcpayserver/)) `MIT` `C#`
