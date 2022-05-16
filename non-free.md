@@ -119,6 +119,10 @@
 - [RhodeCode](https://rhodecode.com) `⊘ Proprietary` - On-premise Source Code Management for Mercurial, Git & Subversion. `Python`
 - [BitBucket Server](https://www.atlassian.com/software/bitbucket/server) `⊘ Proprietary` - An enterprise-level Git solution similar to GitLab `Java`
   
+### Software Development - Security & QA
+
+- [Scanmycode CE (Community Edtion)](https://www.scanmycode.io/) - Code Scanning/SAST/Static Analysis/Linting using many tools/Scanners with One Report - Scanmycode Community Edition (CE). ([Source Code](https://github.com/marcinguy/scanmycode-ce)) `BSD-3-Clause LGPL-2.1 Commonsclause` `Python`
+
 ## Ticketing
 
 - [Deskpro](https://www.deskpro.com/) `⊘ Proprietary` - On-Premise helpdesk software that includes email, chat, voice & helpcentre publishing. Full visible source code and API.
