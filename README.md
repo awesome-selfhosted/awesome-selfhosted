@@ -11,7 +11,7 @@ See [Contributing](.github/CONTRIBUTING.md).
 --------------------
 
 
-## Table of contents`
+## Table of contents
 
 - [Software](#software)
   - [Analytics](#analytics)
