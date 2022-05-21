@@ -11,7 +11,7 @@ See [Contributing](.github/CONTRIBUTING.md).
 --------------------
 
 
-## Table of contents
+## Table of contents`
 
 - [Software](#software)
   - [Analytics](#analytics)
@@ -1149,7 +1149,7 @@ _See also: [List of streaming media systems - Wikipedia](https://en.wikipedia.or
 - [koel](https://koel.dev/) - Personal music streaming server that works. ([Demo](https://demo.koel.dev/), [Source Code](https://github.com/koel/koel)) `MIT` `PHP`
 - [KooZic](https://koozic.net/) - Music server with powerful playlist features and Subsonic compatibility. ([Demo](https://demo.koozic.net/public), [Source Code](https://github.com/DocMarty84/koozic)) `LGPL-3.0/MIT` `Python`
 - [LibreTime](https://libretime.org) - Simple, open source platform that lets you broadcast streaming radio on the web (fork of [Airtime](https://github.com/sourcefabric/Airtime)). ([Source Code](https://github.com/LibreTime/libretime)) `AGPL-3.0` `PHP`
-- [LMS](https://github.com/epoupon/lms) - Access your self-hosted music using a web interface. ([Demo](https://lms.demo.poupon.io/)) `GPL-3.0` `C++`
+- [LMS](https://github.com/epoupon/lms) - Access your self-hosted music using a web interface. `GPL-3.0` `C++`
 - [moOde Audio](https://moodeaudio.org/) - Audiophile-quality music playback for the wonderful Raspberry Pi family of single board computers. ([Source Code](https://github.com/moode-player/moode)) `GPL-3.0` `PHP`
 - [Moped](https://github.com/martijnboland/moped) - Responsive HTML5 + Javascript client for the Mopidy music server. `MIT` `HTML5`
 - [Mopidy MusicBox](https://github.com/pimusicbox/mopidy-musicbox-webclient) - Web Client for Mopidy Music Server. `Apache-2.0` `HTML5`
