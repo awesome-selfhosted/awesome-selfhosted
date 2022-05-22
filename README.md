@@ -359,7 +359,6 @@ _See also: [Comparison of CalDAV and CardDAV implementations - Wikipedia](https:
 
 **[`^        back to top        ^`](#)**
 
-
 ### Communication - Email - Complete Solutions
 
 **[`^        back to top        ^`](#)**
@@ -502,6 +501,8 @@ Mailing lists servers and mass mailing software - one message to many recipients
 ### Communication - Social Networks and Forums
 
 **[`^        back to top        ^`](#)**
+
+[Social Networking](https://en.wikipedia.org/wiki/Social_networking_service) and [Forum](https://en.wikipedia.org/wiki/Internet_forum) software
 
 - [Abilian SBE](https://github.com/abilian/abilian-sbe) - Open Source Collaboration and Social Networking framework and platform. `LGPL-2.1` `Python`
 - [Anahita](https://www.getanahita.com/) - Open Source Social Networking Framework and Platform. ([Source Code](https://github.com/anahitasocial)) `GPL-3.0` `PHP`
