@@ -233,6 +233,7 @@ _Related: [Polls and Events](#polls-and-events)_
 
 **[`^        back to top        ^`](#)**
 
+- [Briefkasten](https://github.com/ndom91/briefkasten) - Modern app for saving and managing your own bookmarks. Includes a Browser Extension. ([Demo](https://briefkasten.vercel.app)) `MIT` `Nodejs`
 - [dyu bookmarks](https://github.com/dyu/bookmarks) - Single-threaded/process bookmark app powered by leveldb and uWebSockets. Supports importing from Delicious and Chrome. ([Demo](https://dyuproject.com/bookmarks/)) `Apache-2.0` `Java`
 - [Espial](https://github.com/jonschoning/espial) - An open-source, web-based bookmarking server. `AGPL-3.0` `Haskell`
 - [Firefox Account Server](https://mozilla-services.readthedocs.io/en/latest/howtos/run-fxa.html) - This allows you to host your own Firefox accounts server. ([Source Code](https://github.com/mozilla/fxa)) `MPL-2.0` `Nodejs, Java`
@@ -251,7 +252,6 @@ _Related: [Polls and Events](#polls-and-events)_
 - [ubookmark](https://ungleich.ch/u/projects/ubookmark/) - LDAP enabled bookmarking service. ([Demo](https://ipv6.blog), [Source Code](https://code.ungleich.ch/ungleich-public/ubookmark/)) `GPL-2.0` `Python`
 - [unmark](https://unmark.it/) - Open source to do app for links. ([Source Code](https://github.com/cdevroe/unmark)) `MIT` `PHP`
 - [xBrowserSync](https://www.xbrowsersync.org) - Open source tool for syncing browser data between browsers and devices. ([Source Code](https://github.com/xBrowserSync)) `MIT` `Nodejs`
-- [Briefkasten](https://briefkasten.vercel.app) - Modern opensource tool for saving and managing your own bookmarks. Comes with Browser Extension. ([Source Code](https://github.com/ndom91/briefkasten)) `MIT` `Nodejs`
 
 
 ### Calendar & Contacts
