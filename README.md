@@ -1753,7 +1753,7 @@ _See also: [awesome-sysadmin/Code Review](https://github.com/awesome-foss/awesom
 - [OneDev](https://onedev.io/) - All-In-One DevOps Platform. With Git Management, Issue Tracking, and CI/CD. Simple yet Powerful. ([Source Code](https://code.onedev.io/projects/160)) `MIT` `Java`
 - [OpenProject](https://www.openproject.org) - OpenProject is a web-based project management system. ([Source Code](https://github.com/opf/openproject)) `GPL-3.0` `Ruby`
 - [Pagure](https://pagure.io/pagure) - A lightweight, powerful, and flexible git-centric forge with features laying the foundation for federated and decentralized development. ([Demo](https://pagure.io/)) `GPL-2.0` `Python`
-- [Phproject](https://www.phproject.org/) - High performance full-featured project management system. ([Demo](https://demo.phproject.org/), [Source Code](https://github.com/Alanaktion/phproject)) `GPL-3.0` `PHP`
+- [Phproject](https://www.phproject.org/) - High performance full-featured project management system. ([Source Code](https://github.com/Alanaktion/phproject)) `GPL-3.0` `PHP`
 - [ProjeQtOr](https://www.projeqtor.org/) - A complete, mature, multi-user project management system with extensive functionality for all phases of a project. ([Demo](https://demo.projeqtor.org/), [Source Code](https://sourceforge.net/p/projectorria/code/HEAD/tree/branches/)) `AGPL-3.0` `PHP`
 - [Re:Backlogs](https://github.com/kaishuu0123/rebacklogs) - Project management and collaboration tool powered by Ruby on Rails & VueJS. ([Demo](https://rebacklogs.saino.me/users/sign_up)) `MIT` `Ruby`
 - [Redmine](https://www.redmine.org/) - Redmine is a flexible project management web application. ([Demo](http://demo.redmine.org/), [Source Code](https://svn.redmine.org/redmine/)) `GPL-2.0` `Ruby`
@@ -1790,7 +1790,7 @@ _See also: [awesome-sysadmin/Code Review](https://github.com/awesome-foss/awesom
 **Please visit [awesome-sysadmin/Status Pages](https://github.com/awesome-foss/awesome-sysadmin#status-pages)**
 
 - [cState](https://github.com/cstate/cstate) - Static status page for hyperfast Hugo. Clean design, minimal JS, super light HTML/CSS, high customization, optional admin panel, read-only API, IE8+. Best used with Netlify, Docker. ([Demo](https://cstate.mnts.lt/)) `MIT` `Go`
-- [s.Status](https://github.com/scolastico-dev/s.Status) - s.Status is a open source server status page written in java. ([Demo](https://status.scolasti.co/)) `MPL-2.0` `Java`
+- [s.Status](https://github.com/scolastico-dev/s.Status) - s.Status is a open source server status page written in java. `MPL-2.0` `Java`
 - [Uptime Kuma](https://github.com/louislam/uptime-kuma) - A self-hosted website monitoring tool like "Uptime Robot". ([Demo](https://demo.uptime.kuma.pet)) `MIT` `Nodejs`
 
 
