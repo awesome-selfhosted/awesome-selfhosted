@@ -1669,7 +1669,6 @@ _Related: [Static site generators](#static-site-generators)_
 - [markdown-tree](https://github.com/mil/markdown-tree) - Serve a hierarchy / tree directory of markdown files. Use intended for small sites built in markdown. `MIT` `Ruby`
 
 
-
 ### Software Development - FaaS & Serverless
 
 **[`^        back to top        ^`](#)**
