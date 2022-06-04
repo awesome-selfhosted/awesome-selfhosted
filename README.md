@@ -251,6 +251,7 @@ _Related: [Polls and Events](#polls-and-events)_
 - [ubookmark](https://ungleich.ch/u/projects/ubookmark/) - LDAP enabled bookmarking service. ([Demo](https://ipv6.blog), [Source Code](https://code.ungleich.ch/ungleich-public/ubookmark/)) `GPL-2.0` `Python`
 - [unmark](https://unmark.it/) - Open source to do app for links. ([Source Code](https://github.com/cdevroe/unmark)) `MIT` `PHP`
 - [xBrowserSync](https://www.xbrowsersync.org) - Open source tool for syncing browser data between browsers and devices. ([Source Code](https://github.com/xBrowserSync)) `MIT` `Nodejs`
+- [Briefkasten](https://briefkasten.vercel.app) - Modern opensource tool for saving and managing your own bookmarks. Comes with Browser Extension. ([Source Code](https://github.com/ndom91/briefkasten)) `MIT` `Nodejs`
 
 
 ### Calendar & Contacts
