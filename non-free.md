@@ -8,7 +8,9 @@
 - [userTrack](https://www.usertrack.net/) `⊘ Proprietary` - userTrack is a web analytics platform with heatmaps, session recordings and powerful user segmentation feature. Updated very regularly. ([Demo](https://dashboard.usertrack.net/server/demoLogin.php)) `PHP/MySQL/ReactJS`
 - [UXLens](https://uxlens.com/) `⊘ Proprietary` - UXLens is a website visitor recording software meant for identifying UI issues and fix them to improve user experience. Formerly known as SessionRecord ([Demo](https://console.uxlens.com/test)) `Docker Nodejs`
 
+
 ## Automation
+
 - [n8n](https://n8n.io/) - Free node based Workflow Automation Tool. Easily automate tasks across different services. ([Source Code](https://github.com/n8n-io/n8n)) `Apache-2.0 with Commons Clause` `Nodejs`
 
 
@@ -41,10 +43,10 @@
 
 ## File Sharing and Synchronization
 
-- [Yetishare](https://yetishare.com) `⊘ Proprietary` - A powerful file hosting script with support for Amazon S3, Wasabi, Backblaze, local, direct and SFTP storage. ([Demo](https://fhscript.com)) `PHP`
-- [Resilio Sync](https://www.resilio.com/) `⊘ Proprietary` - Resilio Sync by Resilio, Inc is a proprietary peer-to-peer file synchronisation tool.
 - [Dropcenter](http://projet.idleman.fr/dropcenter/) - Upload files by simple drag-n-drop. ([Source Code](https://github.com/ldleman/dropcenter)) `CC-BY-NC-SA-3.0` `PHP`
 - [FileRun](http://www.filerun.com/) `⊘ Proprietary` - A complete solution for your files with integration with Google and Office. ([Demo](http://www.filerun.com/demo)) `PHP`
+- [Resilio Sync](https://www.resilio.com/) `⊘ Proprietary` - Resilio Sync by Resilio, Inc is a proprietary peer-to-peer file synchronisation tool.
+- [Yetishare](https://yetishare.com) `⊘ Proprietary` - A powerful file hosting script with support for Amazon S3, Wasabi, Backblaze, local, direct and SFTP storage. ([Demo](https://fhscript.com)) `PHP`
 
 
 ## Games
@@ -52,7 +54,9 @@
 - [Cubiks-2048](https://github.com/Kshitij-Banerjee/Cubiks-2048) - Clone of 2048 game in 3D. ([Demo](https://kshitij-banerjee.github.io/Cubiks-2048/)) `CC-BY-NC-4.0` `HTML5`
 - [untrusted](https://github.com/AlexNisnevich/untrusted) - Untrusted is a unique puzzle game designed for geeks and developers, where you solve the puzzles in the game by reading and writing Javascript. ([Demo](http://alex.nisnevich.com/untrusted/)) `CCBYNCSAv3/Custom` `Nodejs`
 
+
 ## Internet Of Things (IoT)
+
 - [Atman IoT](https://atman-iot.com) - Atman IoT is a self hosted IoT gateway focused on IoT solution rapid prototyping, packaged as stand alone docker container, promising to help you build your IoT solution in a week!. ([Demo](https://atman-iot.com/signup-redirect)) `⊘ Proprietary` `Nodejs`
 
 
@@ -113,32 +117,36 @@
 
 - [92five](http://92fiveapp.com/) `⊘ Proprietary` - Self hosted project management application ([Source code](https://github.com/chintanbanugaria/92five)) `CC-BY-NC-4.0` `PHP`
 - [Bamboo](https://www.atlassian.com/software/bamboo) `⊘ Proprietary` - A continuous integration server `Java`
+- [BitBucket Server](https://www.atlassian.com/software/bitbucket/server) `⊘ Proprietary` - An enterprise-level Git solution similar to GitLab `Java`
 - [Buddy Enterprise](https://buddy.works/) - The Git and Continuous Integration / Delivery Platform. `⊘ Proprietary` `Nodejs/Java`
 - [Cloud9](https://c9.io/) `⊘ Proprietary` - Your development environment, in the cloud ([Source code](https://github.com/c9/core)) `Nodejs`
 - [Crucible](https://www.atlassian.com/software/crucible/overview) `⊘ Proprietary` - A peer code review application `Java`
 - [Documize](https://documize.com) `⊘ Proprietary` - Modern docs & wiki software built for software team collaboration. `Go`
 - [JIRA](https://www.atlassian.com/software/jira) `⊘ Proprietary` - A professional and extensible issue tracker `Java`
 - [RhodeCode](https://rhodecode.com) `⊘ Proprietary` - On-premise Source Code Management for Mercurial, Git & Subversion. `Python`
-- [BitBucket Server](https://www.atlassian.com/software/bitbucket/server) `⊘ Proprietary` - An enterprise-level Git solution similar to GitLab `Java`
-  
+- [Sentry Self-Hosted](https://github.com/getsentry/self-hosted) - A powerful error tracking platform with wide language support and a robust API. ([Source Code](https://github.com/getsentry/sentry)) `BUSL-1.1` `Python/Django`
+
+
 ## Ticketing
 
+- [Cerb](http://www.cerberusweb.com/) - Group-based e-mail management project. ([Source Code](https://github.com/wgm/cerb)) `DPL` `PHP`
 - [Deskpro](https://www.deskpro.com/) `⊘ Proprietary` - On-Premise helpdesk software that includes email, chat, voice & helpcentre publishing. Full visible source code and API.
 - [Full Help](https://www.fullhelp.com/en/) `⊘ Proprietary` - Simple, easy to use help desk & knowledge base software. Custom branding, custom themes, restful API, communication channels, multi-company support, multi-language support, and much more! At least 1 new release per month. [Changelog](https://www.fullhelp.com/en/changelog) `PHP`
 - [Jitbit Helpdesk](https://www.jitbit.com/helpdesk/) `⊘ Proprietary` - Self-hosted help desk software - simple but powerful. ([Demo](https://www.jitbit.com/hosted-helpdesk/trial/)) `ASP.NET`
 - [SupportPal](https://www.supportpal.com/) `⊘ Proprietary` - Powerful help desk software - easy, fast and intuitive. ([Demo](http://demo.supportpal.com/)) `PHP`
-- [Cerb](http://www.cerberusweb.com/) - Group-based e-mail management project. ([Source Code](https://github.com/wgm/cerb)) `DPL` `PHP`
 
 
 ## Time Tracking
 
-- [Virtual TimeClock](https://www.redcort.com/timeclock) `⊘ Proprietary` - Powerful, easy-to-use time tracking software. ([Demo](https://www.redcort.com/timeclock/free-timeclock-software-trial))
 - [Anuko](https://www.anuko.com/time_tracker/index.htm) - Anuko provides simple time and project tracking on a selfhosted basis. ([Demo](https://timetracker.anuko.com/), [Source Code](https://github.com/anuko/timetracker)) `SSPL-1.0` `PHP`
+- [Virtual TimeClock](https://www.redcort.com/timeclock) `⊘ Proprietary` - Powerful, easy-to-use time tracking software. ([Demo](https://www.redcort.com/timeclock/free-timeclock-software-trial))
+
 
 ## Remote Support
 
- * [ScreenConnect](https://www.screenconnect.com/) `⊘ Proprietary` - ScreenConnect offers lightning-fast remote support and remote access to connect instantly and solve problems faster.
  * [RemoteUtilities](https://www.remoteutilities.com/) `⊘ Proprietary` - Remote Utilities is self-hosted remote support software for LAN administration and remote support over the Internet.
+ * [ScreenConnect](https://www.screenconnect.com/) `⊘ Proprietary` - ScreenConnect offers lightning-fast remote support and remote access to connect instantly and solve problems faster.
+
 
 ### UX testing
 
@@ -152,6 +160,7 @@
 
 **[`^        back to top        ^`](#)**
 
+- `BUSL-1.1` - [Business Source License 1.1](https://spdx.org/licenses/BUSL-1.1.html)
 - `CC-BY-NC-SA-3.0` - [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 International License](https://creativecommons.org/licenses/by-nc-sa/3.0/)
 - `DPL` - [Devblocks Public License 1.0](https://cerb.ai/license/)
 - `SSPL-1.0` - [Server Side Public License](https://spdx.org/licenses/SSPL-1.0.html)
