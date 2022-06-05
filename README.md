@@ -1049,7 +1049,7 @@ Games, game servers and control panels.
 - [TimeOff.Management](https://timeoff.management) - Simple yet powerful absence management software for small and medium size business. ([Demo](https://app.timeoff.management), [Source Code](https://github.com/timeoff-management/timeoff-management-application)) `MIT` `Nodejs`
 
 
-### Internet of Things (IoT)Ce
+### Internet of Things (IoT)
 
 **[`^        back to top        ^`](#)**
 
