@@ -7,7 +7,6 @@
 - [66Analytics](https://66analytics.com/) `⊘ Proprietary` - 66Analytics is a self-hosted, friendly, all-in-one web analytics tool. Lightweight tracking, session replays, heatmaps, user journeys & more. Can be used for personal reasons & can be white labeled to start a SAAS. ([Demo](https://66analytics.com/demo)) `PHP/MySQL`
 - [userTrack](https://www.usertrack.net/) `⊘ Proprietary` - userTrack is a web analytics platform with heatmaps, session recordings and powerful user segmentation feature. Updated very regularly. ([Demo](https://dashboard.usertrack.net/server/demoLogin.php)) `PHP/MySQL/ReactJS`
 - [UXLens](https://uxlens.com/) `⊘ Proprietary` - UXLens is a website visitor recording software meant for identifying UI issues and fix them to improve user experience. Formerly known as SessionRecord ([Demo](https://console.uxlens.com/test)) `Docker Nodejs`
-- [ElasticSearch](https://www.elastic.co/elasticsearch/) - `⊘ Proprietary` - A distributed, RESTful search and analytics engine. ([Source Code](https://github.com/elastic/elasticsearch)) `SSPL-1.0` `Java` 
 
 
 ## Automation
@@ -113,6 +112,8 @@
 - [hMailServer](https://www.hmailserver.com) `⊘ Proprietary` - Open source e-mail server for Microsoft Windows. ([Source Code](https://github.com/hmailserver/hmailserver)) `C++`
 - [Poste.io](https://poste.io) `⊘ Proprietary` - Full featured solution for your Email server. Native implementation of last anti-SPAM methods, webmail and easy administration included. Free tier available. ([Demo](https://poste.io/demo))
 
+## Search Engines
+- [ElasticSearch](https://www.elastic.co/elasticsearch/) - `⊘ Proprietary` - A distributed, RESTful search and analytics engine. ([Source Code](https://github.com/elastic/elasticsearch)) `SSPL-1.0` `Java` 
   
 ## Software Development
 
