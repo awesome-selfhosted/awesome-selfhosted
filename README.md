@@ -1411,7 +1411,6 @@ _Related: [Wikis](#wikis)_
 - [fiche](https://github.com/solusipse/fiche) - Command line pastebin, all you need is netcat. ([Demo](https://termbin.com/)) `MIT` `C`
 - [filite](https://github.com/raftario/filite) - A simple, light and standalone pastebin, URL shortener and file-sharing service. `MIT` `Rust`
 - [FlashPaper](https://github.com/AndrewPaglusch/FlashPaper) - A one-time encrypted zero-knowledge password/secret sharing application focused on simplicity and security. No database or complicated set-up required. ([Demo](https://flashpaper.io)) `MIT` `PHP`
-- [Fugacious](https://fugacio.us) - Open source short-term secure messaging (OSSSM). ([Source Code](https://github.com/fugacious/fugacious)) `CC0-1.0` `Ruby`
 - [Hastebin](https://haste.zneix.eu/about.md) - Open source pastebin. (This is a fork with extended maintenance). ([Demo](https://haste.zneix.eu), [Source Code](https://github.com/zneix/haste-server)) `MIT` `Nodejs`
 - [LogPaste](https://github.com/mtlynch/logpaste) - Minimal pastebin web app that's easy to self-host and persists data to any S3-compatible backend. ([Demo](https://logpaste.com/)) `MIT` `Go`
 - [MicroBin](https://github.com/szabodanika/microbin) - Simple, performant, configurable, entirely self-contained pastebin and URL shortener. `BSD-3-Clause` `Rust`
