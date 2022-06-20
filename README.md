@@ -55,6 +55,7 @@ See [Contributing](.github/CONTRIBUTING.md).
   - [File Transfer - Single-click & Drag-n-drop Upload](#file-transfer---single-click--drag-n-drop-upload)
   - [File Transfer - Web-based File Managers](#file-transfer---web-based-file-managers)
   - [Games](#games)
+  - [Games - Administrative Utilities & Control Panels](#games---administrative-utilities--control-panels)
   - [Gateways and Terminal Sharing](#gateways-and-terminal-sharing)
   - [Genealogy](#genealogy)
   - [Groupware](#groupware)
