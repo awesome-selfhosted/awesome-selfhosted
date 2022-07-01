@@ -532,6 +532,7 @@
 |1|Antoine <anthonyfg9@gmail.com>|
 |1|Antoine Gersant <antoine.gersant@lesforges.org>|
 |1|Anton Troyanov <anton@troyanov.net>|
+|1|Arghyadip Chakraborty <arghyadip.chak16@gmail.com>|
 |1|Arkady Asuratov <arkady.asuratov@dubas.pro>|
 |1|Armando Lüscher <armando@noplanman.ch>|
 |1|Arnav Jindal <arnav.jindal7@gmail.com>|
