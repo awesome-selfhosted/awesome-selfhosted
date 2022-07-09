@@ -89,7 +89,6 @@ See [Contributing](.github/CONTRIBUTING.md).
   - [Software Development - API Management](#software-development---api-management)
   - [Software Development - Bug Trackers](#software-development---bug-trackers)
   - [Software Development - Continuous Integration & Deployment](#software-development---continuous-integration--deployment)
-  - [Software Development - Documentation Generators](#software-development---documentation-generators)
   - [Software Development - FaaS & Serverless](#software-development---faas--serverless)
   - [Software Development - IDE & Tools](#software-development---ide--tools)
   - [Software Development - Localization](#software-development---localization)
@@ -1653,17 +1652,6 @@ _Related: [Booking and Scheduling](#booking-and-scheduling)_
 **Please visit [awesome-sysadmin/Continuous Integration & Continuous Deployment](https://github.com/awesome-foss/awesome-sysadmin#continuous-integration--continuous-deployment)**
 
 
-### Software Development - Documentation Generators
-
-**[`^        back to top        ^`](#)**
-
-_Related: [Static site generators](#static-site-generators)_
-
-- [Docstore](https://git.haldean.org/docstore/) - Static document hosting without any server-side processing, does not require you to recompile every time you change an article. Clone the repository and add articles in the text/ directory to get started. ([Source Code](https://github.com/haldean/docstore)) `BSD-3-Clause` `Javascript`
-- [Flatdoc](https://ricostacruz.com/flatdoc/) - Small Javascript file that fetches Markdown files and renders them as full pages. `MIT` `Javascript`
-- [markdown-tree](https://github.com/mil/markdown-tree) - Serve a hierarchy / tree directory of markdown files. Use intended for small sites built in markdown. `MIT` `Ruby`
-
-
 ### Software Development - FaaS & Serverless
 
 **[`^        back to top        ^`](#)**
@@ -1892,8 +1880,6 @@ Before hosting one, please see [shortcomings](https://en.wikipedia.org/wiki/URL_
 ### Wikis
 
 **[`^        back to top        ^`](#)**
-
-_Related: [Software Development - Documentation Generators](#software-development---documentation-generators)_
 
 _See also: [Wikimatrix](https://www.wikimatrix.org/), [Wiki Engines - WikiIndex](https://wikiindex.org/Category:Wiki_Engine), [List of wiki software - Wikipedia](https://en.wikipedia.org/wiki/List_of_wiki_software), [Comparison of wiki software - Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_wiki_software)_
 
