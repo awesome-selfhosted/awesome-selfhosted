@@ -34,6 +34,7 @@ See [Contributing](.github/CONTRIBUTING.md).
   - [Communication - IRC](#communication---irc)
   - [Communication - SIP](#communication---sip)
   - [Communication - Social Networks and Forums](#communication---social-networks-and-forums)
+  - [Communication - Video Conferencing](#communication---video-conferencing)
   - [Communication - XMPP](#communication---xmpp)
   - [Communication - XMPP - Servers](#communication---xmpp---servers)
   - [Communication - XMPP - Web Clients](#communication---xmpp---web-clients)
@@ -560,6 +561,14 @@ Mailing lists servers and mass mailing software - one message to many recipients
 - [Vanilla Forums](https://vanillaforums.org/) - Simple and flexible forum software. ([Source Code](https://github.com/vanilla/vanilla)) `GPL-2.0` `PHP`
 - [yarn.social](https://yarn.social) - a Self-Hosted, Twitter™-like Decentralised micro-logging platform. No ads, no tracking, your content, your data. ([Source Code](https://git.mills.io/yarnsocial/yarn)) `MIT` `Go`
 - [Zusam](https://zusam.org) - Free and open-source way to self-host private forums for groups of friends or family. ([Demo](https://demo.zusam.org), [Source Code](https://github.com/zusam/zusam)) `AGPL-3.0` `PHP`
+
+
+### Communication - Video Conferencing
+
+**[`^        back to top        ^`](#)**
+
+_Related: [Conference Management](#conference-management)_
+
 
 
 ### Communication - XMPP
