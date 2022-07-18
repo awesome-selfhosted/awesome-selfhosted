@@ -940,6 +940,7 @@ _Related: [Groupware](#groupware)_
 
 **[`^        back to top        ^`](#)**
 
+- [0x0](https://0x0.st/) - No-bullshit file hosting and URL shortening service ([Demo](https://0x0.st/) [Source Code](https://git.0x0.st/mia/0x0)) `EUPL-1.2` `Python`
 - [Apaxy](https://oupala.github.io/apaxy/) - Theme built to enhance the experience of browsing web directories, using the mod_autoindex Apache module and some CSS to override the default style of a directory listing. ([Source Code](https://github.com/oupala/apaxy)) `GPL-3.0` `HTML`
 - [DirectoryLister](https://www.directorylister.com/) - Simple PHP based directory lister that lists a directory and all its sub-directories and allows you to navigate there within. ([Source Code](https://github.com/DirectoryLister/DirectoryLister)) `MIT` `PHP`
 - [filebrowser](https://filebrowser.org/) - Web File Browser with a Material Design web interface. ([Source Code](https://github.com/filebrowser/filebrowser)) `Apache-2.0` `Go`
