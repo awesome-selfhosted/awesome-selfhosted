@@ -112,6 +112,8 @@
 - [hMailServer](https://www.hmailserver.com) `⊘ Proprietary` - Open source e-mail server for Microsoft Windows. ([Source Code](https://github.com/hmailserver/hmailserver)) `C++`
 - [Poste.io](https://poste.io) `⊘ Proprietary` - Full featured solution for your Email server. Native implementation of last anti-SPAM methods, webmail and easy administration included. Free tier available. ([Demo](https://poste.io/demo))
 
+## Search Engines
+- [ElasticSearch](https://www.elastic.co/elasticsearch/) - `⊘ Proprietary` - A distributed, RESTful search and analytics engine. ([Source Code](https://github.com/elastic/elasticsearch)) `SSPL-1.0` `Java` 
   
 ## Software Development
 
