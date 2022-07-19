@@ -57,5 +57,4 @@ g = Github(access_token)
 for url in urls:
     project = re.sub('https://github.com/', '', url)
     repo = g.get_repo(project)
-
     print(str(repo.pushed_at) + ' https://github.com/' + project + ' archived:' + str((repo.archived)))
