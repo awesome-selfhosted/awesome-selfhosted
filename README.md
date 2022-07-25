@@ -407,6 +407,7 @@ MTAs / SMTP servers
 - [Slimta](https://www.slimta.org) - Mail Transfer Library built on Python. ([Source Code](https://github.com/slimta/python-slimta)) `MIT` `Python`
 - [vSMTP](https://viridit.com/vsmtp-mail-transfer-agent/) - Next-gen MTA. Secured, Faster and Greener. ([Source Code](https://github.com/viridIT/vSMTP)) `GPL-3.0` `Rust`
 
+
 ### Communication - Email - Mailing Lists and Newsletters
 
 **[`^        back to top        ^`](#)**
