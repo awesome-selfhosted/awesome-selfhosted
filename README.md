@@ -723,6 +723,8 @@ _Related: [Blogging Platforms](#blogging-platforms), [Static Site Generators](#s
 
 **[`^        back to top        ^`](#)**
 
+[DNS](https://en.wikipedia.org/wiki/Domain_Name_System) servers and management tools.
+
 _See also: [awesome-sysadmin/DNS](https://github.com/awesome-foss/awesome-sysadmin#dns)_
 
 - [blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy (like Pi-hole) as ad-blocker for local network with many features. `Apache-2.0` `Go`
