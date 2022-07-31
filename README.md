@@ -801,6 +801,8 @@ _Related: [Content Management Systems (CMS)](#content-management-systems-cms), [
 
 **[`^        back to top        ^`](#)**
 
+[E-commerce](https://en.wikipedia.org/wiki/E-commerce) software.
+
 _Related: [Community-Supported Agriculture (CSA)](#community-supported-agriculture-csa)_
 
 - [Aimeos](https://aimeos.org/) - Ultra fast, Open Source e-commerce framework for building custom online shops, market places and complex B2B applications scaling to billions of items with Laravel. ([Demo](https://demo.aimeos.org/), [Source Code](https://github.com/aimeos)) `LGPL-3.0/MIT` `PHP`
