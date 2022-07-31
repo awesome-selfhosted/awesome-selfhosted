@@ -881,6 +881,8 @@ A [news aggregator](https://en.wikipedia.org/wiki/News_aggregator), also termed 
 
 **[`^        back to top        ^`](#)**
 
+[File transfer](https://en.wikipedia.org/wiki/File_transfer), [sharing](https://en.wikipedia.org/wiki/File_sharing) and [synchronization software](https://en.wikipedia.org/wiki/File_synchronization) software.
+
 _Related: [Groupware](#groupware)_
 
 - [Git Annex](https://git-annex.branchable.com/) - File synchronization between computers, servers, external drives. ([Source Code](https://git.joeyh.name/index.cgi/git-annex.git/)) `GPL-3.0` `Haskell`
