@@ -469,7 +469,7 @@ Mailing lists servers and mass mailing software - one message to many recipients
 
 **[`^        back to top        ^`](#)**
 
-[SIP](https://en.wikipedia.org/wiki/Session_Initiation_Protocol)/[IPBX](https://en.wikipedia.org/wiki/IP_PBX) telephony software
+[SIP](https://en.wikipedia.org/wiki/Session_Initiation_Protocol)/[IPBX](https://en.wikipedia.org/wiki/IP_PBX) telephony software.
 
 - [Asterisk](https://www.asterisk.org/) - Easy to use but advanced IP PBX system, VoIP gateway and conference server. `GPL-2.0` `C`
 - [ASTPP](https://www.astppbilling.org/) - VoIP Billing Solution for Freeswitch. It supports prepaid and postpaid billing with call rating and credit control. It also provides many other features. ([Source Code](https://github.com/iNextrix/ASTPP)) `AGPL-3.0` `PHP`
@@ -491,7 +491,7 @@ Mailing lists servers and mass mailing software - one message to many recipients
 
 **[`^        back to top        ^`](#)**
 
-[Social Networking](https://en.wikipedia.org/wiki/Social_networking_service) and [Forum](https://en.wikipedia.org/wiki/Internet_forum) software
+[Social Networking](https://en.wikipedia.org/wiki/Social_networking_service) and [Forum](https://en.wikipedia.org/wiki/Internet_forum) software.
 
 - [Abilian SBE](https://github.com/abilian/abilian-sbe) - Open Source Collaboration and Social Networking framework and platform. `LGPL-2.1` `Python`
 - [Anahita](https://www.getanahita.com/) - Open Source Social Networking Framework and Platform. ([Source Code](https://github.com/anahitasocial)) `GPL-3.0` `PHP`
@@ -555,7 +555,7 @@ Mailing lists servers and mass mailing software - one message to many recipients
 
 **[`^        back to top        ^`](#)**
 
-[Video / Web Conferencing](https://en.wikipedia.org/wiki/Web_conferencing) tools and software
+[Video/Web Conferencing](https://en.wikipedia.org/wiki/Web_conferencing) tools and software.
 
 _Related: [Conference Management](#conference-management)_
 
