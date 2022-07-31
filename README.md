@@ -224,6 +224,8 @@ _See also: [WeblogMatrix](https://www.weblogmatrix.org/)_
 
 **[`^        back to top        ^`](#)**
 
+Event scheduling, reservation, and appointment management software.
+
 _Related: [Polls and Events](#polls-and-events)_
 
 - [Alf.io](https://alf.io/) - The open source ticket reservation system. ([Demo](https://demo.alf.io/authentication), [Source Code](https://github.com/alfio-event/alf.io)) `GPL-3.0` `Java`
