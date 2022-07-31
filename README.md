@@ -367,6 +367,8 @@ Communication software using their own custom procols.
 
 **[`^        back to top        ^`](#)**
 
+[E-mail](https://en.wikipedia.org/wiki/Email) software.
+
 
 ### Communication - Email - Complete Solutions
 
@@ -397,7 +399,7 @@ Simple deployment of a mail server, e.g. for inexperienced or impatient admins.
 
 **[`^        back to top        ^`](#)**
 
-MDAs - IMAP/POP3 software
+[Mail Delivery Agents](https://en.wikipedia.org/wiki/Message_delivery_agent) (MDAs) - [IMAP](https://en.wikipedia.org/wiki/Internet_Message_Access_Protocol)/[POP3](https://en.wikipedia.org/wiki/Post_Office_Protocol) server software.
 
 - [Cyrus IMAP](https://www.cyrusimap.org/) - Email (IMAP/POP3), contacts and calendar server. ([Source Code](https://github.com/cyrusimap/cyrus-imapd )) `BSD-3-Clause-Attribution` `C`
 - [Dovecot](https://www.dovecot.org/) - IMAP and POP3 server written primarily with security in mind. ([Source Code](https://github.com/dovecot/core)) `MIT/LGPL-2.1` `C`
@@ -409,7 +411,7 @@ MDAs - IMAP/POP3 software
 
 **[`^        back to top        ^`](#)**
 
-MTAs / SMTP servers
+[Mail Transfer Agents](https://en.wikipedia.org/wiki/Message_transfer_agent) (MTAs) - [SMTP](https://en.wikipedia.org/wiki/Simple_Mail_Transfer_Protocol) servers.
 
 - [chasquid](https://blitiri.com.ar/p/chasquid/) - SMTP (email) server with a focus on simplicity, security, and ease of operation. ([Source Code](https://blitiri.com.ar/git/r/chasquid/)) `Apache-2.0` `Go`
 - [Courier MTA](https://www.courier-mta.org/) - Fast, scalable, enterprise mail/groupware server providing ESMTP, IMAP, POP3, webmail, mailing list, basic web-based calendaring and scheduling services. ([Source Code](https://www.courier-mta.org/repo.html)) `GPL-3.0` `C`
@@ -429,7 +431,7 @@ MTAs / SMTP servers
 
 **[`^        back to top        ^`](#)**
 
-Mailing lists servers and mass mailing software - one message to many recipients.
+[Mailing list](https://en.wikipedia.org/wiki/Mailing_list) servers and mass mailing software - one message to many recipients.
 
 - [Dada Mail](https://dadamailproject.com/) - Web-based list management system that can be used for announcement lists and/or discussion lists. ([Source Code](https://github.com/justingit/dada-mail)) `GPL-2.0` `Perl`
 - [Gray Duck Mail](https://grayduckmail.com) - Self hosted email discussion list management that uses external email providers. ([Source Code](https://github.com/wagesj45/gray-duck-mail)) `GPL-3.0` `Docker`
@@ -450,7 +452,7 @@ Mailing lists servers and mass mailing software - one message to many recipients
 
 **[`^        back to top        ^`](#)**
 
-[Webmail](https://en.wikipedia.org/wiki/Webmail) clients for email 
+[Webmail](https://en.wikipedia.org/wiki/Webmail) clients.
 
 - [Afterlogic WebMail Lite](https://afterlogic.org/webmail-lite) - Fast and easy-to-use webmail front-end for your existing IMAP mail server, Plesk or cPanel. ([Demo](https://lite.afterlogic.com/), [Source Code](https://github.com/afterlogic/webmail-lite)) `AGPL-3.0` `PHP`
 - [Cypht](https://cypht.org) - Feed reader for your email accounts. ([Source Code](https://github.com/jasonmunro/cypht)) `LGPL-2.1` `PHP`
