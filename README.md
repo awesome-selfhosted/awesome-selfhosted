@@ -571,7 +571,7 @@ _Related: [Conference Management](#conference-management)_
 
 **[`^        back to top        ^`](#)**
 
-[Extensible Messaging and Presence Protocol](https://en.wikipedia.org/wiki/XMPP) software
+[Extensible Messaging and Presence Protocol](https://en.wikipedia.org/wiki/XMPP) software.
 
 
 ### Communication - XMPP - Servers
