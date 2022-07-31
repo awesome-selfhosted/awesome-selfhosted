@@ -235,6 +235,8 @@ _Related: [Polls and Events](#polls-and-events)_
 
 ### Bookmarks and Link Sharing
 
+Software which allows users to add, annotate, edit, and share [bookmarks](https://en.wikipedia.org/wiki/Bookmark_(digital)) of web documents.
+
 **[`^        back to top        ^`](#)**
 
 - [Briefkasten](https://github.com/ndom91/briefkasten) - Modern app for saving and managing your own bookmarks. Includes a browser extension. ([Demo](https://briefkasten.vercel.app)) `MIT` `Nodejs`
