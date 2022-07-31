@@ -146,6 +146,8 @@ _Related: [Content Management Systems (CMS)](#content-management-systems-cms)_
 
 **[`^        back to top        ^`](#)**
 
+[Automation](https://en.wikipedia.org/wiki/Automation) software designed to reduce human intervention in processes.
+
 _Related: [Internet of Things (IoT)](#internet-of-things-iot)_
 
 - [Accelerated Text](https://www.acceleratedtext.com/) - Automatically generate multiple natural language descriptions of your data varying in wording and structure. ([Source Code](https://github.com/tokenmill/accelerated-text)) `Apache-2.0` `Java`
