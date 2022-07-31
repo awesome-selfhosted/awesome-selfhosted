@@ -834,6 +834,8 @@ _Related: [Community-Supported Agriculture (CSA)](#community-supported-agricultu
 
 **[`^        back to top        ^`](#)**
 
+[Federated identity](https://en.wikipedia.org/wiki/Federated_identity) and [authentication](https://en.wikipedia.org/wiki/Electronic_authentication) software.
+
 **Please visit [awesome-sysadmin/Identity Management](https://github.com/awesome-foss/awesome-sysadmin#identity-management)**
 
 
