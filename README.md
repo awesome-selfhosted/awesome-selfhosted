@@ -119,7 +119,7 @@ See [Contributing](.github/CONTRIBUTING.md).
 
 **[`^        back to top        ^`](#)**
 
-[Analytics](https://en.wikipedia.org/wiki/Analytics) is the systematic computational analysis of data or statistics.[1] It is used for the discovery, interpretation, and communication of meaningful patterns in data.
+[Analytics](https://en.wikipedia.org/wiki/Analytics) is the systematic computational analysis of data or statistics. It is used for the discovery, interpretation, and communication of meaningful patterns in data.
 
 **Please visit [Awesome Analytics](https://github.com/0xnr/awesome-analytics)**
 
@@ -291,11 +291,11 @@ _See also: [Comparison of CalDAV and CardDAV implementations - Wikipedia](https:
 - [Xandikos](https://github.com/jelmer/xandikos) - Open source CardDAV and CalDAV server with minimal administrative overhead, backed by a Git repository. `GPL-3.0` `Python`
 
 
-### Calendar & Contacts - CalDAV or CardDAV Web-based Clients.
+### Calendar & Contacts - CalDAV or CardDAV Web-based Clients
 
 **[`^        back to top        ^`](#)**
 
-[CalDAV](https://en.wikipedia.org/wiki/CalDAV) and [CardDAV](https://en.wikipedia.org/wiki/CardDAV) protocol web clients/interfaces
+[CalDAV](https://en.wikipedia.org/wiki/CalDAV) and [CardDAV](https://en.wikipedia.org/wiki/CardDAV) protocol web clients/interfaces.
 
 - [AgenDAV](https://agendav.github.io/agendav/) - Multilanguage CalDAV web client with a rich AJAX interface and shared calendars support. ([Source Code](https://github.com/agendav/agendav)) `GPL-3.0` `PHP`
 - [Bloben](https://bloben.com) - CalDAV web client. ([Demo](https://demo.bloben.com/api/v1/users/login-demo?username=demo&password=Bg8v16a4q7gvC&redirect=https://demo.bloben.com/calendar?demo=true), [Source Code](https://github.com/nibdo/bloben-app)) `AGPL-3.0` `Docker`
@@ -1109,7 +1109,6 @@ Collaborative software or [groupware](https://en.wikipedia.org/wiki/Collaborativ
 ### Human Resources Management (HRM)
 
 **[`^        back to top        ^`](#)**
-
 
 A [human resources management system](https://en.wikipedia.org/wiki/Human_resource_management_system) combines a number of systems and processes to ensure the easy management of [human resources](https://en.wikipedia.org/wiki/Human_resources), business processes and data.
 
