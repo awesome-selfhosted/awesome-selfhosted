@@ -604,7 +604,7 @@ _Related: [Conference Management](#conference-management)_
 
 **[`^        back to top        ^`](#)**
 
-Management and administration tools for community supported agriculture and food cooperatives
+Management and administration tools for community supported agriculture and food cooperatives.
 
 _Related: [E-commerce](#e-commerce)_
 
@@ -1664,7 +1664,7 @@ _Related: [Booking and Scheduling](#booking-and-scheduling)_
 
 **[`^        back to top        ^`](#)**
 
-[Serverless computing - Wikipedia](https://en.wikipedia.org/wiki/Serverless_computing)
+[Serverless computing - Wikipedia](https://en.wikipedia.org/wiki/Serverless_computing).
 
 - [Appwrite](https://appwrite.io) - End to end backend server for web, native, and mobile developers 🚀. ([Source Code](https://github.com/appwrite/appwrite)) `BSD-3-Clause` `PHP`
 - [fx](https://github.com/metrue/fx) - A tool to help you do Function as a Service with painless on your own servers. `MIT` `Go`
