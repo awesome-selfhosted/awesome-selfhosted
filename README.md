@@ -1885,6 +1885,8 @@ _Related: [Software Development - Project Management](#software-development---pr
 
 **[`^        back to top        ^`](#)**
 
+[Help desk](https://en.wikipedia.org/wiki/Help_desk_software) and [issue tracking](https://en.wikipedia.org/wiki/Issue_tracking_system) software to keep track of user requests and deal with other customer-care-related issues. 
+
 _Related: [Task Management & To-do Lists](#task-management--to-do-lists), [Software Development - Project Management](#software-development---project-management)_
 
 - [Bugzilla](https://www.bugzilla.org/) - General-purpose bugtracker and testing tool originally developed and used by the Mozilla project. `MPL-2.0` `Perl`
