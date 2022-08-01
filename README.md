@@ -119,6 +119,8 @@ See [Contributing](.github/CONTRIBUTING.md).
 
 **[`^        back to top        ^`](#)**
 
+[Analytics](https://en.wikipedia.org/wiki/Analytics) is the systematic computational analysis of data or statistics. It is used for the discovery, interpretation, and communication of meaningful patterns in data.
+
 **Please visit [Awesome Analytics](https://github.com/0xnr/awesome-analytics)**
 
 _Related: [Personal Dashboards](#personal-dashboards)_
@@ -127,6 +129,8 @@ _Related: [Personal Dashboards](#personal-dashboards)_
 ### Archiving and Digital Preservation (DP)
 
 **[`^        back to top        ^`](#)**
+
+Digital [archiving](https://en.wikipedia.org/wiki/Archival_science) and [preservation](https://en.wikipedia.org/wiki/Digital_preservation) software.
 
 _Related: [Content Management Systems (CMS)](#content-management-systems-cms)_
 
@@ -143,6 +147,8 @@ _Related: [Content Management Systems (CMS)](#content-management-systems-cms)_
 ### Automation
 
 **[`^        back to top        ^`](#)**
+
+[Automation](https://en.wikipedia.org/wiki/Automation) software designed to reduce human intervention in processes.
 
 _Related: [Internet of Things (IoT)](#internet-of-things-iot)_
 
@@ -195,6 +201,8 @@ _Related: [Internet of Things (IoT)](#internet-of-things-iot)_
 
 **[`^        back to top        ^`](#)**
 
+A [blog](https://en.wikipedia.org/wiki/Blog) is a discussion or informational website consisting of discrete, diary-style text entries (posts).
+
 _Related: [Static Site Generators](#static-site-generators), [Content Management Systems (CMS)](#content-management-systems-cms)_
 
 _See also: [WeblogMatrix](https://www.weblogmatrix.org/)_
@@ -218,6 +226,8 @@ _See also: [WeblogMatrix](https://www.weblogmatrix.org/)_
 
 **[`^        back to top        ^`](#)**
 
+Event scheduling, reservation, and appointment management software.
+
 _Related: [Polls and Events](#polls-and-events)_
 
 - [Alf.io](https://alf.io/) - The open source ticket reservation system. ([Demo](https://demo.alf.io/authentication), [Source Code](https://github.com/alfio-event/alf.io)) `GPL-3.0` `Java`
@@ -226,6 +236,8 @@ _Related: [Polls and Events](#polls-and-events)_
 
 
 ### Bookmarks and Link Sharing
+
+Software which allows users to add, annotate, edit, and share [bookmarks](https://en.wikipedia.org/wiki/Bookmark_(digital)) of web documents.
 
 **[`^        back to top        ^`](#)**
 
@@ -255,6 +267,8 @@ _Related: [Polls and Events](#polls-and-events)_
 
 **[`^        back to top        ^`](#)**
 
+[Electronic calendar](https://en.wikipedia.org/wiki/Calendaring_software) and [address book](https://en.wikipedia.org/wiki/Address_book)/[contact management](https://en.wikipedia.org/wiki/Contact_manager) software.
+
 _Related: [Groupware](#groupware)_
 
 _See also: [Comparison of CalDAV and CardDAV implementations - Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_CalDAV_and_CardDAV_implementations)_
@@ -263,6 +277,8 @@ _See also: [Comparison of CalDAV and CardDAV implementations - Wikipedia](https:
 ### Calendar & Contacts - CalDAV or CardDAV Servers
 
 **[`^        back to top        ^`](#)**
+
+[CalDAV](https://en.wikipedia.org/wiki/CalDAV) and [CardDAV](https://en.wikipedia.org/wiki/CardDAV) protocol servers.
 
 - [Baïkal](https://sabre.io/baikal/) - Lightweight CalDAV and CardDAV server based on sabre/dav. ([Source Code](https://github.com/sabre-io/Baikal)) `GPL-3.0` `PHP`
 - [calypso](https://keithp.com/calypso/) - Python-based CalDAV and CardDAV server, forked from Radicale. ([Source Code](https://keithp.com/git/calypso.git)) `GPL-3.0` `Python`
@@ -279,6 +295,8 @@ _See also: [Comparison of CalDAV and CardDAV implementations - Wikipedia](https:
 
 **[`^        back to top        ^`](#)**
 
+[CalDAV](https://en.wikipedia.org/wiki/CalDAV) and [CardDAV](https://en.wikipedia.org/wiki/CardDAV) protocol web clients/interfaces.
+
 - [AgenDAV](https://agendav.github.io/agendav/) - Multilanguage CalDAV web client with a rich AJAX interface and shared calendars support. ([Source Code](https://github.com/agendav/agendav)) `GPL-3.0` `PHP`
 - [Bloben](https://bloben.com) - CalDAV web client. ([Demo](https://demo.bloben.com/api/v1/users/login-demo?username=demo&password=Bg8v16a4q7gvC&redirect=https://demo.bloben.com/calendar?demo=true), [Source Code](https://github.com/nibdo/bloben-app)) `AGPL-3.0` `Docker`
 - [EteSync Web](https://www.etesync.com/faq/#web-client) - EteSync's official Web-based client (i.e., their Web app). ([Demo](https://client.etesync.com/), [Source Code](https://github.com/etesync/etesync-web)) `AGPL-3.0` `Javascript`
@@ -289,10 +307,14 @@ _See also: [Comparison of CalDAV and CardDAV implementations - Wikipedia](https:
 
 **[`^        back to top        ^`](#)**
 
+[Communication software](https://en.wikipedia.org/wiki/Communication_software) used to provide remote access to systems and exchange files and messages in text, audio and/or video formats between different computers or users.
+
 
 ### Communication - Custom Communication Systems
 
 **[`^        back to top        ^`](#)**
+
+Communication software using their own custom procols.
 
 - [BluetoothCommunicatorExample](https://github.com/niedev/BluetoothCommunicatorExample) - Bluetooth LE chat app to communicate between android devices with P2P architecture. ([Clients](https://github.com/niedev/RTranslator)) `Apache-2.0` `Java`
 - [Centrifugo](https://centrifugal.dev/) - Language-agnostic real-time messaging (Websocket or SockJS) server. ([Demo](https://github.com/centrifugal/centrifugo#demo), [Source Code](https://github.com/centrifugal/centrifugo)) `MIT` `Go`
@@ -349,6 +371,8 @@ _See also: [Comparison of CalDAV and CardDAV implementations - Wikipedia](https:
 
 **[`^        back to top        ^`](#)**
 
+[E-mail](https://en.wikipedia.org/wiki/Email) software.
+
 
 ### Communication - Email - Complete Solutions
 
@@ -379,7 +403,7 @@ Simple deployment of a mail server, e.g. for inexperienced or impatient admins.
 
 **[`^        back to top        ^`](#)**
 
-MDAs - IMAP/POP3 software
+[Mail Delivery Agents](https://en.wikipedia.org/wiki/Message_delivery_agent) (MDAs) - [IMAP](https://en.wikipedia.org/wiki/Internet_Message_Access_Protocol)/[POP3](https://en.wikipedia.org/wiki/Post_Office_Protocol) server software.
 
 - [Cyrus IMAP](https://www.cyrusimap.org/) - Email (IMAP/POP3), contacts and calendar server. ([Source Code](https://github.com/cyrusimap/cyrus-imapd )) `BSD-3-Clause-Attribution` `C`
 - [Dovecot](https://www.dovecot.org/) - IMAP and POP3 server written primarily with security in mind. ([Source Code](https://github.com/dovecot/core)) `MIT/LGPL-2.1` `C`
@@ -391,7 +415,7 @@ MDAs - IMAP/POP3 software
 
 **[`^        back to top        ^`](#)**
 
-MTAs / SMTP servers
+[Mail Transfer Agents](https://en.wikipedia.org/wiki/Message_transfer_agent) (MTAs) - [SMTP](https://en.wikipedia.org/wiki/Simple_Mail_Transfer_Protocol) servers.
 
 - [chasquid](https://blitiri.com.ar/p/chasquid/) - SMTP (email) server with a focus on simplicity, security, and ease of operation. ([Source Code](https://blitiri.com.ar/git/r/chasquid/)) `Apache-2.0` `Go`
 - [Courier MTA](https://www.courier-mta.org/) - Fast, scalable, enterprise mail/groupware server providing ESMTP, IMAP, POP3, webmail, mailing list, basic web-based calendaring and scheduling services. ([Source Code](https://www.courier-mta.org/repo.html)) `GPL-3.0` `C`
@@ -412,7 +436,7 @@ MTAs / SMTP servers
 
 **[`^        back to top        ^`](#)**
 
-Mailing lists servers and mass mailing software - one message to many recipients.
+[Mailing list](https://en.wikipedia.org/wiki/Mailing_list) servers and mass mailing software - one message to many recipients.
 
 - [Dada Mail](https://dadamailproject.com/) - Web-based list management system that can be used for announcement lists and/or discussion lists. ([Source Code](https://github.com/justingit/dada-mail)) `GPL-2.0` `Perl`
 - [Gray Duck Mail](https://grayduckmail.com) - Self hosted email discussion list management that uses external email providers. ([Source Code](https://github.com/wagesj45/gray-duck-mail)) `GPL-3.0` `Docker`
@@ -433,7 +457,7 @@ Mailing lists servers and mass mailing software - one message to many recipients
 
 **[`^        back to top        ^`](#)**
 
-[Webmail](https://en.wikipedia.org/wiki/Webmail) clients for email
+[Webmail](https://en.wikipedia.org/wiki/Webmail) clients.
 
 - [Cypht](https://cypht.org) - Feed reader for your email accounts. ([Source Code](https://github.com/jasonmunro/cypht)) `LGPL-2.1` `PHP`
 - [IMP](https://www.horde.org/apps/imp/) - HORDE application that provides webmail access to IMAP and POP3 accounts. ([Demo](http://demo.horde.org/), [Source Code](https://www.horde.org/download/imp)) `GPL-2.0` `PHP`
@@ -574,12 +598,14 @@ _Related: [Conference Management](#conference-management)_
 
 **[`^        back to top        ^`](#)**
 
-[Extensible Messaging and Presence Protocol](https://en.wikipedia.org/wiki/XMPP) software.
+[Extensible Messaging and Presence Protocol](https://en.wikipedia.org/wiki/XMPP) communication software.
 
 
 ### Communication - XMPP - Servers
 
 **[`^        back to top        ^`](#)**
+
+XMPP servers.
 
 - [ejabberd](https://www.ejabberd.im/) - XMPP instant messaging server. ([Source Code](https://github.com/processone/ejabberd)) `GPL-2.0` `Erlang`
 - [jackal](https://github.com/ortuman/jackal) - XMPP server with focus on stability, simple configuration and low resource consumption. `Apache-2.0` `Go`
@@ -595,6 +621,8 @@ _Related: [Conference Management](#conference-management)_
 ### Communication - XMPP - Web Clients
 
 **[`^        back to top        ^`](#)**
+
+XMPP Web clients/interfaces.
 
 - [Candy](https://candy-chat.github.io/candy/) - Multi user XMPP client written in Javascript. ([Source Code](https://github.com/candy-chat/candy)) `MIT` `Javascript`
 - [Converse.js](https://conversejs.org/) - Free and open-source XMPP chat client in your browser. ([Source Code](https://github.com/conversejs/converse.js)) `MPL-2.0` `Javascript`
@@ -626,6 +654,8 @@ _Related: [E-commerce](#e-commerce)_
 
 **[`^        back to top        ^`](#)**
 
+Software for submission of [abstracts](https://en.wikipedia.org/wiki/Abstract_management) and preparation/management of academic conferences.
+
 - [Conference Organizing Distribution (COD)](http://usecod.com/) - Create conference and event websites built on top of Drupal. ([Source Code](https://git.drupalcode.org/project/cod)) `GPL-1.0` `PHP`
 - [frab](https://frab.github.io/frab/) - Web-based conference planning and management system. It helps to collect submissions, to manage talks and speakers and to create a schedule. ([Source Code](https://github.com/frab/frab)) `MIT` `Ruby`
 - [indico](https://getindico.io/) - A feature-rich event management system, made @ CERN, the place where the Web was born. ([Demo](https://sandbox.getindico.io/), [Source Code](https://github.com/indico/indico)) `MIT` `Python`
@@ -639,7 +669,7 @@ _Related: [E-commerce](#e-commerce)_
 
 **[`^        back to top        ^`](#)**
 
-CMS are a practical way to setup a website with many features. CMS often come with third party plugins, themes and functionality that is easy to add and customize to your needs.
+[Content Management Systems](https://en.wikipedia.org/wiki/Content_management_system) offer a practical way to setup a website with many features, using third party plugins, themes and functionality that are easy to add and customize.
 
 _Related: [Blogging Platforms](#blogging-platforms), [Static Site Generators](#static-site-generators)_
 
@@ -695,6 +725,8 @@ _Related: [Blogging Platforms](#blogging-platforms), [Static Site Generators](#s
 
 **[`^        back to top        ^`](#)**
 
+[DNS](https://en.wikipedia.org/wiki/Domain_Name_System) servers and management tools.
+
 _See also: [awesome-sysadmin/DNS](https://github.com/awesome-foss/awesome-sysadmin#dns)_
 
 - [blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy (like Pi-hole) as ad-blocker for local network with many features. `Apache-2.0` `Go`
@@ -708,6 +740,8 @@ _See also: [awesome-sysadmin/DNS](https://github.com/awesome-foss/awesome-sysadm
 ### Document Management
 
 **[`^        back to top        ^`](#)**
+
+A [document management system](https://en.wikipedia.org/wiki/Document_management_system) (DMS) is a system used to receive, track, manage and store documents and reduce paper.
 
 - [DOCAT](https://github.com/docat-org/docat) - Host your docs. Simple. Versioned. Fancy. `MIT` `Python/Docker`
 - [Docspell](https://docspell.org) - Auto-tagging document organizer and archive. ([Source Code](https://github.com/eikek/docspell)) `GPL-3.0` `Scala/Java`
@@ -723,6 +757,8 @@ _See also: [awesome-sysadmin/DNS](https://github.com/awesome-foss/awesome-sysadm
 ### Document Management - E-books
 
 **[`^        back to top        ^`](#)**
+
+[Ebook](https://en.wikipedia.org/wiki/Ebook) library management software.
 
 - [BicBucStriim](https://projekte.textmulch.de/bicbucstriim/) - Provides web-based access to your Calibre Library's e-book collection. ([Source Code](https://github.com/rvolz/BicBucStriim)) `MIT` `PHP`
 - [Calibre Web](https://github.com/janeczku/calibre-web) - Web app providing a clean interface for browsing, reading and downloading eBooks using an existing Calibre database. `GPL-3.0` `Python`
@@ -741,6 +777,8 @@ _See also: [awesome-sysadmin/DNS](https://github.com/awesome-foss/awesome-sysadm
 
 **[`^        back to top        ^`](#)**
 
+[Institutional repository](https://en.wikipedia.org/wiki/Institutional_repository) and [digital library](https://en.wikipedia.org/wiki/Digital_library) management software.
+
 - [DSpace](https://duraspace.org/dspace/) - Turnkey repository application providing durable access to digital resources. ([Source Code](https://github.com/DSpace/DSpace)) `BSD-3-Clause` `Java`
 - [EPrints](https://www.eprints.org/) - Digital document management system with a flexible metadata and workflow model primarily aimed at academic institutions. ([Demo](http://tryme.demo.eprints-hosting.org/), [Source Code](https://github.com/eprints/eprints)) `GPL-3.0` `Perl`
 - [Fedora Commons Repository](https://fedorarepository.org/) - Robust and modular repository system for the management and dissemination of digital content especially suited for digital libraries and archives, both for access and preservation. ([Source Code](https://github.com/fcrepo/fcrepo)) `Apache-2.0` `Java`
@@ -753,6 +791,8 @@ _See also: [awesome-sysadmin/DNS](https://github.com/awesome-foss/awesome-sysadm
 
 **[`^        back to top        ^`](#)**
 
+An [integrated library system](https://en.wikipedia.org/wiki/Integrated_library_system) is an enterprise resource planning system for a library, used to track items owned, orders made, bills paid, and patrons who have borrowed.
+
 _Related: [Content Management Systems (CMS)](#content-management-systems-cms), [Archiving and Digital Preservation (DP)](#archiving-and-digital-preservation-dp)_
 
 - [Evergreen](https://evergreen-ils.org) - Highly-scalable software for libraries that helps library patrons find library materials, and helps libraries manage, catalog, and circulate those materials. ([Source Code](https://github.com/evergreen-library-system/Evergreen)) `GPL-2.0` `PL/pgSQL`
@@ -763,6 +803,8 @@ _Related: [Content Management Systems (CMS)](#content-management-systems-cms), [
 ### E-commerce
 
 **[`^        back to top        ^`](#)**
+
+[E-commerce](https://en.wikipedia.org/wiki/E-commerce) software.
 
 _Related: [Community-Supported Agriculture (CSA)](#community-supported-agriculture-csa)_
 
@@ -795,6 +837,8 @@ _Related: [Community-Supported Agriculture (CSA)](#community-supported-agricultu
 
 **[`^        back to top        ^`](#)**
 
+[Federated identity](https://en.wikipedia.org/wiki/Federated_identity) and [authentication](https://en.wikipedia.org/wiki/Electronic_authentication) software.
+
 **Please visit [awesome-sysadmin/Identity Management](https://github.com/awesome-foss/awesome-sysadmin#identity-management)**
 
 
@@ -802,7 +846,7 @@ _Related: [Community-Supported Agriculture (CSA)](#community-supported-agricultu
 
 **[`^        back to top        ^`](#)**
 
-A [news aggregator](https://en.wikipedia.org/wiki/News_aggregator), also termed a feed aggregator, feed reader, news reader, [RSS](https://en.wikipedia.org/wiki/RSS) reader or simply an aggregator, is client software or a web application that aggregates syndicated web content such as online newspapers, blogs/vlogs, podcasts, and other updates in one location for easy viewing. This also section includes RSS/Atom automation tools.
+A [news aggregator](https://en.wikipedia.org/wiki/News_aggregator), also termed a feed aggregator, feed reader, news reader, [RSS](https://en.wikipedia.org/wiki/RSS) reader, is an application that aggregates web content such as newspapers/blogs/vlogs/podcasts in one location for easy viewing.
 
 - [Bubo Reader](https://github.com/georgemandis/bubo-rss) - Open source, "irrationally minimal" RSS feed reader. ([Demo](https://bubo-rss-demo.netlify.app/)) `MIT` `Nodejs`
 - [CommaFeed](https://www.commafeed.com/) - Google Reader inspired self-hosted RSS reader. ([Source Code](https://github.com/Athou/commafeed)) `Apache-2.0` `Java`
@@ -840,6 +884,8 @@ A [news aggregator](https://en.wikipedia.org/wiki/News_aggregator), also termed 
 
 **[`^        back to top        ^`](#)**
 
+[File transfer](https://en.wikipedia.org/wiki/File_transfer), [sharing](https://en.wikipedia.org/wiki/File_sharing) and [synchronization software](https://en.wikipedia.org/wiki/File_synchronization) software.
+
 _Related: [Groupware](#groupware)_
 
 - [Git Annex](https://git-annex.branchable.com/) - File synchronization between computers, servers, external drives. ([Source Code](https://git.joeyh.name/index.cgi/git-annex.git/)) `GPL-3.0` `Haskell`
@@ -863,12 +909,16 @@ _Related: [Groupware](#groupware)_
 
 **[`^        back to top        ^`](#)**
 
+Network distributed filesystems.
+
 **Please visit [awesome-sysadmin/Distributed Filesystems](https://github.com/awesome-foss/awesome-sysadmin#distributed-filesystems)**
 
 
 ### File Transfer - Object Storage & File Servers
 
 **[`^        back to top        ^`](#)**
+
+[Object storage](https://en.wikipedia.org/wiki/Object_storage) is a computer data storage that manages data as objects, as opposed to other storage architectures like file systems which manages data as a file hierarchy, and block storage which manages data as blocks within sectors and tracks.
 
 - [GarageHQ](https://garagehq.deuxfleurs.fr/) - An open-source geo-distributed storage service you can self-host to fulfill many needs - S3 compatible. ([Source Code](https://git.deuxfleurs.fr/Deuxfleurs/garage)) `AGPL-3.0` `Rust`
 - [Minio](https://minio.io/) - Minio is an open source object storage server compatible with Amazon S3 APIs. ([Source Code](https://github.com/minio/minio)) `AGPL-3.0` `Go`
@@ -880,6 +930,8 @@ _Related: [Groupware](#groupware)_
 ### File Transfer - Peer-to-peer Filesharing
 
 **[`^        back to top        ^`](#)**
+
+[Peer-to-peer file sharing](https://en.wikipedia.org/wiki/Peer-to-peer_file_sharing) is the distribution and [sharing](https://en.wikipedia.org/wiki/File_sharing) of digital media using [peer-to-peer](https://en.wikipedia.org/wiki/Peer-to-peer) (P2P) networking technology.
 
 - [bittorrent-tracker](https://webtorrent.io/) - Simple, robust, BitTorrent tracker (client and server) implementation. ([Source Code](https://github.com/webtorrent/bittorrent-tracker)) `MIT` `Nodejs`
 - [cloud-torrent](https://github.com/jpillora/cloud-torrent) - Torrent Web Client with HTTP retrievable or streamable downloaded files. `AGPL-3.0` `Go`
@@ -898,6 +950,8 @@ _Related: [Groupware](#groupware)_
 ### File Transfer - Single-click & Drag-n-drop Upload
 
 **[`^        back to top        ^`](#)**
+
+Simplified file servers for sharing of one-time/short-lived/temporary files, providing single-click or [drag-and-drop](https://en.wikipedia.org/wiki/Drag_and_drop) updload functionality.
 
 - [ass](https://github.com/tycrek/ass) - The superior self-hosted ShareX server. For use with clients such as ShareX (Windows), Flameshot (Linux), & MagicCap (Linux, macOS). `ISC` `Nodejs`
 - [Chibisafe](https://lolisafe.moe/) - Blazing fast file uploader and awesome bunker written in node. ([Source Code](https://github.com/weebdev/chibisafe)) `MIT` `Nodejs`
@@ -940,6 +994,10 @@ _Related: [Groupware](#groupware)_
 
 **[`^        back to top        ^`](#)**
 
+Web-based [file managers](https://en.wikipedia.org/wiki/File_manager).
+
+_Related: [Groupware](#groupware)_
+
 - [Apaxy](https://oupala.github.io/apaxy/) - Theme built to enhance the experience of browsing web directories, using the mod_autoindex Apache module and some CSS to override the default style of a directory listing. ([Source Code](https://github.com/oupala/apaxy)) `GPL-3.0` `HTML`
 - [DirectoryLister](https://www.directorylister.com/) - Simple PHP based directory lister that lists a directory and all its sub-directories and allows you to navigate there within. ([Source Code](https://github.com/DirectoryLister/DirectoryLister)) `MIT` `PHP`
 - [filebrowser](https://filebrowser.org/) - Web File Browser with a Material Design web interface. ([Source Code](https://github.com/filebrowser/filebrowser)) `Apache-2.0` `Go`
@@ -960,6 +1018,8 @@ _Related: [Groupware](#groupware)_
 ### Games
 
 **[`^        back to top        ^`](#)**
+
+Multiplayer game servers and [browser games](https://en.wikipedia.org/wiki/Browser_game).
 
 - [A Dark Room](https://github.com/doublespeakgames/adarkroom) - Minimalist text adventure game for your browser. ([Demo](https://adarkroom.doublespeakgames.com/)) `MPL-2.0` `HTML5`
 - [elevatorsaga](https://play.elevatorsaga.com/) - The elevator programming game. ([Source Code](https://github.com/magwo/elevatorsaga)) `MIT` `Javascript`
@@ -987,6 +1047,8 @@ _Related: [Groupware](#groupware)_
 ### Games - Administrative Utilities & Control Panels
 
 **[`^        back to top        ^`](#)**
+
+Utilities for managing game servers.
 
 - [ARRCON](https://github.com/radj307/ARRCON) - Terminal-based RCON client compatible with any game servers using the Source RCON Protocol. `GPL-3.0` `C++`
 - [Lancache](https://lancache.net) `⚠` - LAN Party game caching made easy. ([Source Code](https://github.com/lancachenet/monolithic)) `MIT` `Docker/Shell`
@@ -1017,6 +1079,8 @@ _Related: [Groupware](#groupware)_
 
 **[`^        back to top        ^`](#)**
 
+[Genealogy software](https://en.wikipedia.org/wiki/Genealogy_software) used to record, organize, and publish genealogical data.
+
 - [Genea.app](https://genea.app/) - Genea is a privacy by design and open source tool anyone can use to author or edit their family tree. Data is stored in the GEDCOM format and all processing is done in the browser. ([Source Code](https://github.com/genea-app/genea-app)) `MIT` `Javascript`
 - [GeneWeb](https://geneweb.tuxfamily.org/wiki/GeneWeb) - GeneWeb is an open source genealogy software written in OCaml. It comes with a Web interface and can be used off-line or as a Web service. ([Demo](https://demo.geneweb.tuxfamily.org/gw7/), [Source Code](https://github.com/geneweb/geneweb)) `GPL-2.0` `OCaml`
 - [webtrees](https://www.webtrees.net) - Webtrees is the web's leading on-line collaborative genealogy application. ([Demo](https://dev.webtrees.net/demo-stable/index.php?ctype=gedcom&ged=demo), [Source Code](https://github.com/fisharebest/webtrees)) `GPL-3.0` `PHP`
@@ -1026,7 +1090,8 @@ _Related: [Groupware](#groupware)_
 
 **[`^        back to top        ^`](#)**
 
-- [Agora-Project](https://www.agora-project.net/) - Create your workspace to communicate with your team : share files, calendars, publish on a newsfeed, make polls, manage tasks, send newsletters, etc. Agora-Project is ideal to work easily on a common project. ([Demo](https://www.agora-project.net/?ctrl=offline&action=Demonstration), [Source Code](https://github.com/xech/agora-project)) `GPL-2.0` `PHP`
+Collaborative software or [groupware](https://en.wikipedia.org/wiki/Collaborative_software) is designed to help people working on a common task to attain their goals. Groupware often regroups multiple services such as file sharing, calendar/events management, address books... in a single, integrated application.
+
 - [BlueMind](https://www.bluemind.net/en/) - Groupware with email, calendar, addressbooks, exchange active sync, exchange MAPI protocol support. ([Source Code](https://forge.bluemind.net/stash/projects/BM/repos/bluemind-public/browse)) `AGPL-3.0` `Java`
 - [Citadel](https://www.citadel.org/) - Groupware including email, calendar/scheduling, address books, forums, mailing lists, IM, wiki and blog engines, RSS aggregation and more. ([Source Code](https://www.citadel.org/source.html)) `GPL-3.0` `C`
 - [Corteza](https://cortezaproject.org) - CRM including a unified workspace, enterprise messaging and a low code environment for rapidly and securely delivering records-based management solutions. ([Demo](https://latest.cortezaproject.org), [Source Code](https://github.com/cortezaproject/corteza-server)) `Apache-2.0` `Go`
@@ -1048,6 +1113,8 @@ _Related: [Groupware](#groupware)_
 ### Human Resources Management (HRM)
 
 **[`^        back to top        ^`](#)**
+
+A [human resources management system](https://en.wikipedia.org/wiki/Human_resource_management_system) combines a number of systems and processes to ensure the easy management of [human resources](https://en.wikipedia.org/wiki/Human_resources), business processes and data.
 
 - [admidio](https://www.admidio.org/) - Admidio is a free open source user management system for websites of organizations and groups. The system has a flexible role model so that it’s possible to reflect the structure and permissions of your organization. ([Demo](https://www.admidio.org/demo/), [Source Code](https://github.com/Admidio/admidio)) `GPL-2.0` `PHP`
 - [IceHrm](https://icehrm.com/) - IceHrm employee management system allows companies to centralize confidential employee information. ([Demo](https://icehrm.com/demo.php), [Source Code](https://github.com/gamonoid/icehrm)) `Apache-2.0` `PHP`
