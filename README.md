@@ -1806,6 +1806,8 @@ An [integrated development environment (IDE)](https://en.wikipedia.org/wiki/Inte
 
 **[`^        back to top        ^`](#)**
 
+Tools and software for [software project management](https://en.wikipedia.org/wiki/Software_project_management).
+
 _Related: [Ticketing](#ticketing), [Task Management & To-do Lists](#task-management--to-do-lists)_
 
 _See also: [awesome-sysadmin/Code Review](https://github.com/awesome-foss/awesome-sysadmin#code-review)_
