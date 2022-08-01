@@ -1871,6 +1871,10 @@ Tools and software for [software testing](https://en.wikipedia.org/wiki/Software
 
 **[`^        back to top        ^`](#)**
 
+[Uptime](https://en.wikipedia.org/wiki/Uptime) is a measure of system reliability, expressed as the percentage of time a machine, typically a computer, has been working and available. 
+
+_Related: [Monitoring](#monitoring)_
+
 **Please visit [awesome-sysadmin/Status Pages](https://github.com/awesome-foss/awesome-sysadmin#status-pages)**
 
 - [cState](https://github.com/cstate/cstate) - Static status page for hyperfast Hugo. Clean design, minimal JS, super light HTML/CSS, high customization, optional admin panel, read-only API, IE8+. Best used with Netlify, Docker. ([Demo](https://cstate.mnts.lt/)) `MIT` `Go`
