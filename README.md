@@ -1027,6 +1027,7 @@ _Related: [Groupware](#groupware)_
 
 **[`^        back to top        ^`](#)**
 
+- [Agora-Project](https://www.agora-project.net/) - Create your workspace to communicate with your team : share files, calendars, publish on a newsfeed, make polls, manage tasks, send newsletters, etc. Agora-Project is ideal to work easily on a common project. ([Demo](https://www.agora-project.net/?ctrl=offline&action=Demonstration), [Source Code](https://github.com/xech/agora-project)) `GPL-2.0` `PHP`
 - [BlueMind](https://www.bluemind.net/en/) - Groupware with email, calendar, addressbooks, exchange active sync, exchange MAPI protocol support. ([Source Code](https://forge.bluemind.net/stash/projects/BM/repos/bluemind-public/browse)) `AGPL-3.0` `Java`
 - [Citadel](https://www.citadel.org/) - Groupware including email, calendar/scheduling, address books, forums, mailing lists, IM, wiki and blog engines, RSS aggregation and more. ([Source Code](https://www.citadel.org/source.html)) `GPL-3.0` `C`
 - [Corteza](https://cortezaproject.org) - CRM including a unified workspace, enterprise messaging and a low code environment for rapidly and securely delivering records-based management solutions. ([Demo](https://latest.cortezaproject.org), [Source Code](https://github.com/cortezaproject/corteza-server)) `Apache-2.0` `Go`
