@@ -76,6 +76,9 @@
 - [Plex](https://plex.tv/) `⊘ Proprietary` - Plex is a centralized home media playback system with a powerful central server.
 - [Subsonic](http://subsonic.org/) - Web-based media streamer and jukebox. ([Demo](http://demo.subsonic.org/login.view?user=guest4&password=guest))
 
+## Miscellaneous
+
+- [OpenSpeedTest](https://github.com/openspeedtest/Speed-Test) - Pure HTML5 network performance estimation tool. `CC-BY-ND 3.0` `Docker`  
   
 ## Money, Budgeting and Management
 
@@ -163,5 +166,6 @@
 
 - `BUSL-1.1` - [Business Source License 1.1](https://spdx.org/licenses/BUSL-1.1.html)
 - `CC-BY-NC-SA-3.0` - [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 International License](https://creativecommons.org/licenses/by-nc-sa/3.0/)
+- `CC-BY-ND 3.0` - [Attribution-NoDerivs 3.0 Unported (CC BY-ND 3.0)](https://creativecommons.org/licenses/by-nd/3.0/)
 - `DPL` - [Devblocks Public License 1.0](https://cerb.ai/license/)
 - `SSPL-1.0` - [Server Side Public License](https://spdx.org/licenses/SSPL-1.0.html)
