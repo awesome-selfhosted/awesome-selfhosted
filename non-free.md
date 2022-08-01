@@ -17,7 +17,6 @@
 ## Content Management Systems (CMS)
 
 - [CraftCMS](https://craftcms.com/) `⊘ Proprietary` - Craft is a content-first CMS that aims to make life enjoyable for developers and content managers alike. ([Demo](https://demo.craftcms.com/)) `PHP`
-- [Gazelle](https://github.com/WhatCD/Gazelle) - Gazelle is a web framework geared towards private BitTorrent trackers. Although naturally focusing on music, it can be modified for most needs. `unlicensed` `PHP`
 - [Kirby](https://getkirby.com/) `⊘ Proprietary` - File-based CMS. Easy to setup. Easy to use. Flexible as hell. ([Source Code](https://github.com/getkirby/kirby)) `PHP` 
 - [october](https://octobercms.com/) `⊘ Proprietary` - Self-hosted CMS platform based on the Laravel PHP Framework. `PHP`
 
