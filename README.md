@@ -80,7 +80,6 @@ See [Contributing](.github/CONTRIBUTING.md).
   - [Photo and Video Galleries](#photo-and-video-galleries)
   - [Polls and Events](#polls-and-events)
   - [Proxy](#proxy)
-  - [Read-it-later Lists](#read-it-later-lists)
   - [Recipe Management](#recipe-management)
   - [Resource Planning](#resource-planning)
   - [Resource Planning - Enterprise Resource Planning](#resource-planning---enterprise-resource-planning)
@@ -1541,12 +1540,6 @@ _Related: [Booking and Scheduling](#booking-and-scheduling)_
 - [SWAG (Secure Web Application Gateway)](https://github.com/linuxserver/docker-swag) - Nginx webserver and reverse proxy with PHP support, built-in Certbot (Let's Encrypt) client and fail2ban integration. `GPL-3.0` `Docker`
 - [Tinyproxy](https://tinyproxy.github.io/) - Light-weight HTTP/HTTPS proxy daemon. ([Source Code](https://github.com/tinyproxy/tinyproxy)) `GPL-2.0` `C`
 - [Traefik](https://traefik.io/) - Træfɪk is a modern HTTP reverse proxy and load balancer made to deploy microservices with ease. It supports several backends (Docker, Swarm, Mesos/Marathon, …) to manage its configuration automatically and dynamically. ([Source Code](https://github.com/traefik/traefik)) `MIT` `Go`
-
-
-### Read-it-later Lists
-
-**[`^        back to top        ^`](#)**
-
 
 
 ### Recipe Management
