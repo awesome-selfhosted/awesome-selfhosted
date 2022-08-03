@@ -2008,7 +2008,7 @@ Before hosting one, please see [shortcomings](https://en.wikipedia.org/wiki/URL_
 
 **[`^        back to top        ^`](#)**
 
-Tools and software to host a personal [Wiki](https://en.wikipedia.org/wiki/Wiki).
+A [wiki](https://en.wikipedia.org/wiki/Wiki) is a publication collaboratively edited and managed by its own audience directly using a web browser.
 
 _Related: [Static Site Generators](#static-site-generators)_
 
