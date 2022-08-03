@@ -1658,6 +1658,8 @@ Software and tools for managing [recipes](https://en.wikipedia.org/wiki/Recipe)
 
 **[`^        back to top        ^`](#)**
 
+Software and tools to help with [resource and supply planning](https://en.wikipedia.org/wiki/Resource_planning).
+
 - [farmOS](https://farmos.org/) - Web-based farm record keeping application. ([Source Code](https://github.com/farmOS/farmOS)) `GPL-2.0` `PHP`
 - [grocy](https://grocy.info/) - ERP beyond your fridge - grocy is a web-based self-hosted groceries & household management solution for your home. ([Demo](https://en.demo.grocy.info/), [Source Code](https://github.com/grocy/grocy)) `MIT` `PHP`
 - [Tania](https://github.com/usetania/tania-core) - Tania is a free and open source farming management system for everyone. You can manage your areas, reservoirs, farm tasks, inventories, and the crop growing progress. `Apache-2.0` `Go`
@@ -1666,6 +1668,8 @@ Software and tools for managing [recipes](https://en.wikipedia.org/wiki/Recipe)
 ### Resource Planning - Enterprise Resource Planning
 
 **[`^        back to top        ^`](#)**
+
+Software and tools to help with [enterprise resource and supply planning](https://en.wikipedia.org/wiki/Enterprise_resource_planning).
 
 - [Dolibarr](https://www.dolibarr.org/) - Dolibarr ERP CRM is a modern software package to manage your company or foundation activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). ([Demo](https://www.dolibarr.org/onlinedemo.php), [Source Code](https://github.com/Dolibarr/dolibarr)) `GPL-3.0-or-later` `PHP`
 - [ERPNext](https://erpnext.com) - Free open source ERP system. ([Source Code](https://github.com/frappe/erpnext)) `GPL-3.0` `Python`
