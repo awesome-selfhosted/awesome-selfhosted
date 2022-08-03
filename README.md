@@ -1908,7 +1908,7 @@ _Related: [Software Development - Project Management](#software-development---pr
 
 **[`^        back to top        ^`](#)**
 
-[Help desk](https://en.wikipedia.org/wiki/Help_desk_software) and [issue tracking](https://en.wikipedia.org/wiki/Issue_tracking_system) software to keep track of user requests and deal with other customer-care-related issues. 
+[Helpdesk](https://en.wikipedia.org/wiki/Help_desk_software), [bug](https://en.wikipedia.org/wiki/Bug_tracking_system) and [issue](https://en.wikipedia.org/wiki/Issue_tracking_system) tracking software to help the tracking of user requests, bugs and missing features.
 
 _Related: [Task Management & To-do Lists](#task-management--to-do-lists), [Software Development - Project Management](#software-development---project-management)_
 
