@@ -1683,6 +1683,8 @@ Software and tools to help with [enterprise resource and supply planning](https:
 
 **[`^        back to top        ^`](#)**
 
+A [search engine](https://en.wikipedia.org/wiki/Search_engine) is a software system designed to carry out [web searches](https://en.wikipedia.org/wiki/Web_query).
+
 - [Gigablast](https://www.gigablast.com/) - Open-source search engine. ([Source Code](https://github.com/gigablast/open-source-search-engine)) `Apache-2.0` `C++`
 - [Jina](https://github.com/jina-ai/jina/) - Cloud-native neural search framework for any kind of data. `Apache-2.0` `Python`
 - [librengine](https://github.com/liameno/librengine) - Private web search engine. `GPL-3.0` `C++`
