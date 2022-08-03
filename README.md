@@ -444,7 +444,7 @@ Simple deployment of a mail server, e.g. for inexperienced or impatient admins.
 - [Mailman](https://www.gnu.org/software/mailman/) - The Gnu mailing list server. `GPL-3.0` `Python`
 - [Mailtrain](https://github.com/Mailtrain-org/mailtrain) - Self hosted newsletter application. `GPL-3.0` `Nodejs`
 - [Mautic](https://www.mautic.org/) - Mautic is marketing automation software (email, social and more). ([Source Code](https://github.com/mautic/mautic)) `GPL-3.0` `PHP`
-- [phpList](https://phplist.org) - Newsletter and email marketing with advanced management of subscribers, bounces, and plugins. ([Source Code](https://github.com/phpList/)) `AGPL-3.0` `PHP`
+- [phpList](https://phplist.org) - Newsletter and email marketing with advanced management of subscribers, bounces, and plugins. ([Source Code](https://github.com/phpList/phplist3)) `AGPL-3.0` `PHP`
 - [Postal](https://postal.atech.media/) - Fully featured open source mail delivery platform for incoming and outgoing e-mail. ([Source Code](https://github.com/postalhq/postal)) `MIT` `Ruby`
 - [Postorius](https://docs.mailman3.org/projects/postorius/en/latest/) - Web user interface to access GNU Mailman. ([Source Code](https://gitlab.com/mailman/postorius/)) `GPL-3.0` `Python`
 - [Schleuder](https://schleuder.nadir.org/) - GPG-enabled mailing list manager with resending-capabilities. ([Source Code](https://0xacab.org/schleuder/schleuder/tree/master)) `GPL-3.0` `Ruby`
