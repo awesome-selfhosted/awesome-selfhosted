@@ -2,31 +2,28 @@
 
 **Software listed here does not meet the [Free Software](https://en.wikipedia.org/wiki/Free_software) definition**. It implements their own licensing with restrictions and grants which you must check on each case. Restrictions may include limits on allowed use of the software, access to the source code, modification and further redistribution. This software can therefore contain anti user-freedom features, such as but not limited to: backdoors, user lock-in, sending personal data to a third party.
 
-## Analytics
+## Software
+
+### Analytics
 
 - [66Analytics](https://66analytics.com/) `⊘ Proprietary` - 66Analytics is a self-hosted, friendly, all-in-one web analytics tool. Lightweight tracking, session replays, heatmaps, user journeys & more. Can be used for personal reasons & can be white labeled to start a SAAS. ([Demo](https://66analytics.com/demo)) `PHP/MySQL`
 - [userTrack](https://www.usertrack.net/) `⊘ Proprietary` - userTrack is a web analytics platform with heatmaps, session recordings and powerful user segmentation feature. Updated very regularly. ([Demo](https://dashboard.usertrack.net/server/demoLogin.php)) `PHP/MySQL/ReactJS`
 - [UXLens](https://uxlens.com/) `⊘ Proprietary` - UXLens is a website visitor recording software meant for identifying UI issues and fix them to improve user experience. Formerly known as SessionRecord ([Demo](https://console.uxlens.com/test)) `Docker Nodejs`
 
 
-## Automation
+### Automation
 
 - [n8n](https://n8n.io/) - Free node based Workflow Automation Tool. Easily automate tasks across different services. ([Source Code](https://github.com/n8n-io/n8n)) `Apache-2.0 with Commons Clause` `Nodejs`
 
 
-## Content Management Systems (CMS)
+### Content Management Systems (CMS)
 
 - [CraftCMS](https://craftcms.com/) `⊘ Proprietary` - Craft is a content-first CMS that aims to make life enjoyable for developers and content managers alike. ([Demo](https://demo.craftcms.com/)) `PHP`
 - [Kirby](https://getkirby.com/) `⊘ Proprietary` - File-based CMS. Easy to setup. Easy to use. Flexible as hell. ([Source Code](https://github.com/getkirby/kirby)) `PHP` 
 - [october](https://octobercms.com/) `⊘ Proprietary` - Self-hosted CMS platform based on the Laravel PHP Framework. `PHP`
 
 
-### E-Commerce
-
-- [Sharetribe](https://www.sharetribe.com) `⊘ Proprietary` - An open source platform to create your own peer-to-peer marketplace, also available with SaaS model. ([Source Code](https://github.com/sharetribe/sharetribe)) `Ruby`
-
-
-## Communication Systems
+### Communication Systems
 
 - [Dialog](https://dlg.im) `⊘ Proprietary` - Handy and feature-rich multi-device solution with native mobile clients, SIP integration, chatbots, 3rd-party integrations. It brings communication efficiency without sacrificing privacy. Works in closed circuit, encrypts push notifications. ([Demo](https://dlg.im/en/download)) `Scala/Go`
 - [Groupboard](https://www.groupboard.com) `⊘ Proprietary` - Online whiteboard, audio/video conferencing, screen sharing, shared code editing and optional session recording/playback.
@@ -34,13 +31,13 @@
 - [WorkAdventure](https://workadventu.re) `AGPL-3.0 + Commons Clause` - A virtual office / virtual conference application presented as a 16-bit RPG video game. ([Demo](https://play.staging.workadventu.re/@/tcm/workadventure/wa-village), [Source Code](https://github.com/thecodingmachine/workadventure/)) `Docker`
 
 
-## E-books and Integrated Library Systems (ILS)
+### E-books and Integrated Library Systems (ILS)
 
 - [Bookwyrm](https://joinbookwyrm.com/) `⊘ Proprietary` - BookWyrm is a social network for tracking your reading, talking about books, writing reviews, and discovering what to read next. ([Source Code](https://github.com/bookwyrm-social/bookwyrm)) `Python`
 - [Ubooquity](https://vaemendis.net/ubooquity/)  `⊘ Proprietary` - Ubooquity is a free to use, versatile, lightweight, multi-platform, and secure home server for your comic and e-book library. `Java`
  
 
-## File Sharing and Synchronization
+### File Sharing and Synchronization
 
 - [Dropcenter](http://projet.idleman.fr/dropcenter/) - Upload files by simple drag-n-drop. ([Source Code](https://github.com/ldleman/dropcenter)) `CC-BY-NC-SA-3.0` `PHP`
 - [FileRun](http://www.filerun.com/) `⊘ Proprietary` - A complete solution for your files with integration with Google and Office. ([Demo](http://www.filerun.com/demo)) `PHP`
@@ -48,46 +45,50 @@
 - [Yetishare](https://yetishare.com) `⊘ Proprietary` - A powerful file hosting script with support for Amazon S3, Wasabi, Backblaze, local, direct and SFTP storage. ([Demo](https://fhscript.com)) `PHP`
 
 
-## Games
+### E-Commerce
+
+- [Sharetribe](https://www.sharetribe.com) `⊘ Proprietary` - An open source platform to create your own peer-to-peer marketplace, also available with SaaS model. ([Source Code](https://github.com/sharetribe/sharetribe)) `Ruby`
+
+### Games
 
 - [Cubiks-2048](https://github.com/Kshitij-Banerjee/Cubiks-2048) - Clone of 2048 game in 3D. ([Demo](https://kshitij-banerjee.github.io/Cubiks-2048/)) `CC-BY-NC-4.0` `HTML5`
 - [untrusted](https://github.com/AlexNisnevich/untrusted) - Untrusted is a unique puzzle game designed for geeks and developers, where you solve the puzzles in the game by reading and writing Javascript. ([Demo](http://alex.nisnevich.com/untrusted/)) `CCBYNCSAv3/Custom` `Nodejs`
 
 
-## Internet Of Things (IoT)
+### Internet Of Things (IoT)
 
 - [Atman IoT](https://atman-iot.com) - Atman IoT is a self hosted IoT gateway focused on IoT solution rapid prototyping, packaged as stand alone docker container, promising to help you build your IoT solution in a week!. ([Demo](https://atman-iot.com/signup-redirect)) `⊘ Proprietary` `Nodejs`
 
 
-## IPBX
+### IPBX
 
 - [Elastix](http://www.elastix.org) `⊘ Proprietary` - Unified communications server software based on 3CX.
 
 
-## Maps & GPS
+### Maps & GPS
 
 - [MapTiler Server](https://www.maptiler.com/server/) `⊘ Proprietary` - Software for self-hosting of OpenStreetMap vector tiles, satellite imagery, own geodata and data from PostGIS database.
 
 
-## Media Streaming
+### Media Streaming
 
 - [Channels DVR Server](https://getchannels.com/dvr-server/) `⊘ Proprietary` - Flexible server providing a whole home self hosted DVR experience for [Channels](https://getchannels.com).
 - [Emby](https://emby.media/) `⊘ Proprietary` - Home media server supporting both DLNA and DIAL (Chromecast) devices out-of-the-box. ([Partial source Code](https://github.com/MediaBrowser/Emby)) `Proprietary with some GPL-2.0` `C#`
 - [Plex](https://plex.tv/) `⊘ Proprietary` - Plex is a centralized home media playback system with a powerful central server.
 - [Subsonic](http://subsonic.org/) - Web-based media streamer and jukebox. ([Demo](http://demo.subsonic.org/login.view?user=guest4&password=guest))
 
-## Miscellaneous
+### Miscellaneous
 
 - [OpenSpeedTest](https://github.com/openspeedtest/Speed-Test) - Pure HTML5 network performance estimation tool. `CC-BY-ND 3.0` `Docker`  
   
-## Money, Budgeting and Management
+### Money, Budgeting and Management
 
 - [Anchor](http://theanchorapp.com/) - Anchor is an invoicing system that integrates with Stripe and Paypal. Includes features such as: reporting, dashboard and no client limit. ([Demo](http://theanchorapp.com/demo/admin-login)) `PHP`
 - [Manager](http://manager.io/server) `⊘ Proprietary` - Online accounting software for small businesses. `Mono`
 - [Pancake](http://pancakeapp.com/) `⊘ Proprietary` - Online invoicing, project management, time tracking and proposal software. `PHP`
 
 
-## Photo and Video Galleries
+### Photo and Video Galleries
 
 - [ArtVenue](http://codecanyon.net/item/artvenue-image-sharing-community-script/5771542) `⊘ Proprietary` - Start your own photography community website, platform based on the Laravel PHP Framework. ([Demo](http://codecanyon.net/item/artvenue-image-sharing-community-script/full_screen_preview/5771542)) `PHP`
 - [Chevereto](https://chevereto.com/) `⊘ Proprietary` - A powerful and fast image hosting script that allows you to create your very own full featured image hosting website in just minutes. ([Demo](http://demo.chevereto.com/)) `PHP`
@@ -97,7 +98,7 @@
 - [Single File PHP Gallery](http://sye.dk/sfpg/) `⊘ Proprietary` - is a web gallery in one single PHP file. `PHP` 
 
   
-## Project Management
+### Project Management
 
 - [Active Collab](https://www.activecollab.com/) `⊘ Proprietary` - Project management - `PHP`
 - [Duet](https://duetapp.com/) `⊘ Proprietary` - Invoicing and project management with an integrated client portal. ([Demo](https://duetapp.com/start-demo)) `PHP`
@@ -106,7 +107,7 @@
 - [Solo](http://www.getsoloapp.com/) - Solo is a free project management app created for freelancers. Create contacts, manage tasks, upload files, track project progress, and keep notes. ([Demo](http://www.getsoloapp.com/demo/)) `PHP`
 
   
-## Self-hosting Solutions
+### Self-hosting Solutions
 
 - [Axigen](https://www.axigen.com/mail-server/free/) `⊘ Proprietary` -  Great alternative to open source. It's a turnkey messaging solution, perfect for small & micro businesses, integration projects or test environments.
 - [Cloudron](https://cloudron.io) `⊘ Proprietary` - Open-core software allowing you to effortlessly self-host web apps on your server. ([Demo](https://my.demo.cloudron.io/), [Source Code](https://git.cloudron.io/groups/cloudron)) `Nodejs/Docker`
@@ -114,10 +115,13 @@
 - [hMailServer](https://www.hmailserver.com) `⊘ Proprietary` - Open source e-mail server for Microsoft Windows. ([Source Code](https://github.com/hmailserver/hmailserver)) `C++`
 - [Poste.io](https://poste.io) `⊘ Proprietary` - Full featured solution for your Email server. Native implementation of last anti-SPAM methods, webmail and easy administration included. Free tier available. ([Demo](https://poste.io/demo))
 
-## Search Engines
+
+### Search Engines
+
 - [ElasticSearch](https://www.elastic.co/elasticsearch/) - `⊘ Proprietary` - A distributed, RESTful search and analytics engine. ([Source Code](https://github.com/elastic/elasticsearch)) `SSPL-1.0` `Java` 
-  
-## Software Development
+
+
+### Software Development
 
 - [92five](http://92fiveapp.com/) `⊘ Proprietary` - Self hosted project management application ([Source code](https://github.com/chintanbanugaria/92five)) `CC-BY-NC-4.0` `PHP`
 - [Bamboo](https://www.atlassian.com/software/bamboo) `⊘ Proprietary` - A continuous integration server `Java`
@@ -131,7 +135,7 @@
 - [Sentry Self-Hosted](https://github.com/getsentry/self-hosted) - A powerful error tracking platform with wide language support and a robust API. ([Source Code](https://github.com/getsentry/sentry)) `BUSL-1.1` `Python/Django`
 
 
-## Ticketing
+### Ticketing
 
 - [Cerb](http://www.cerberusweb.com/) - Group-based e-mail management project. ([Source Code](https://github.com/wgm/cerb)) `DPL` `PHP`
 - [Deskpro](https://www.deskpro.com/) `⊘ Proprietary` - On-Premise helpdesk software that includes email, chat, voice & helpcentre publishing. Full visible source code and API.
@@ -140,13 +144,13 @@
 - [SupportPal](https://www.supportpal.com/) `⊘ Proprietary` - Powerful help desk software - easy, fast and intuitive. ([Demo](http://demo.supportpal.com/)) `PHP`
 
 
-## Time Tracking
+### Time Tracking
 
 - [Anuko](https://www.anuko.com/time_tracker/index.htm) - Anuko provides simple time and project tracking on a selfhosted basis. ([Demo](https://timetracker.anuko.com/), [Source Code](https://github.com/anuko/timetracker)) `SSPL-1.0` `PHP`
 - [Virtual TimeClock](https://www.redcort.com/timeclock) `⊘ Proprietary` - Powerful, easy-to-use time tracking software. ([Demo](https://www.redcort.com/timeclock/free-timeclock-software-trial))
 
 
-## Remote Support
+### Remote Support
 
  * [RemoteUtilities](https://www.remoteutilities.com/) `⊘ Proprietary` - Remote Utilities is self-hosted remote support software for LAN administration and remote support over the Internet.
  * [ScreenConnect](https://www.screenconnect.com/) `⊘ Proprietary` - ScreenConnect offers lightning-fast remote support and remote access to connect instantly and solve problems faster.
