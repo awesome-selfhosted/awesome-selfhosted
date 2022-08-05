@@ -97,7 +97,7 @@ See [Contributing](.github/CONTRIBUTING.md).
   - [Status / Uptime pages](#status--uptime-pages)
   - [Task Management & To-do Lists](#task-management--to-do-lists)
   - [Ticketing](#ticketing)
-  - [Time Trackers](#time-trackers)
+  - [Time Tracking](#time-tracking)
   - [URL Shorteners](#url-shorteners)
   - [VPN](#vpn)
   - [Web Servers](#web-servers)
@@ -1893,7 +1893,7 @@ _Related: [Task Management & To-do Lists](#task-management--to-do-lists), [Softw
 - [Zammad](https://zammad.org/) - Easy to use but powerful open-source support and ticketing system. ([Source Code](https://github.com/zammad/zammad)) `AGPL-3.0` `Ruby`
 
 
-### Time Trackers
+### Time Tracking
 
 **[`^        back to top        ^`](#)**
 
