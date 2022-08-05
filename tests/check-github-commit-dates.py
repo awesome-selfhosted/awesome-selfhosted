@@ -40,7 +40,7 @@ __status__ = "Production"
 access_token = os.environ['GITHUB_TOKEN']
 
 """ find all URLs of the form https://github.com/owner/repo """
-with open('README.md', 'r') as readme:
+with open('README.md', encoding="utf8") as readme:
     data = readme.read()
     project_urls = re.findall('https://github.com/[A-z]*/[A-z|0-9|\-|_|\.]+', data)
 
@@ -57,4 +57,4 @@ g = Github(access_token)
 for url in urls:
     project = re.sub('https://github.com/', '', url)
     repo = g.get_repo(project)
-    print(str(repo.pushed_at) + ' https://github.com/' + project)
+    print(str(repo.pushed_at) + ' https://github.com/' + project + ' archived:' + str((repo.archived)))
