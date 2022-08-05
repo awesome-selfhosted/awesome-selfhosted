@@ -31,7 +31,7 @@
 - [october](https://octobercms.com/) - Self-hosted CMS platform based on the Laravel PHP Framework. `⊘ Proprietary` `PHP`
 
 
-### E-books and Integrated Library Systems (ILS)
+### Document Management - E-books
 
 - [Bookwyrm](https://joinbookwyrm.com/) - Social network for tracking your reading, talking about books, writing reviews, and discovering what to read next. ([Source Code](https://github.com/bookwyrm-social/bookwyrm)) `⊘ Proprietary` `Python`
 - [Ubooquity](https://vaemendis.net/ubooquity/) - Free to use, versatile, lightweight, multi-platform, and secure home server for your comic and e-book library. `⊘ Proprietary` `Java`
