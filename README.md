@@ -124,6 +124,7 @@ See [Contributing](.github/CONTRIBUTING.md).
 _Related: [Personal Dashboards](#personal-dashboards)_
 
 
+
 ### Archiving and Digital Preservation (DP)
 
 **[`^        back to top        ^`](#)**
@@ -272,6 +273,7 @@ _Related: [Groupware](#groupware)_
 _See also: [Comparison of CalDAV and CardDAV implementations - Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_CalDAV_and_CardDAV_implementations)_
 
 
+
 ### Calendar & Contacts - CalDAV or CardDAV Servers
 
 **[`^        back to top        ^`](#)**
@@ -306,6 +308,7 @@ _See also: [Comparison of CalDAV and CardDAV implementations - Wikipedia](https:
 **[`^        back to top        ^`](#)**
 
 [Communication software](https://en.wikipedia.org/wiki/Communication_software) used to provide remote access to systems and exchange files and messages in text, audio and/or video formats between different computers or users.
+
 
 
 ### Communication - Custom Communication Systems
@@ -369,6 +372,7 @@ Communication software using their own custom procols.
 **[`^        back to top        ^`](#)**
 
 [E-mail](https://en.wikipedia.org/wiki/Email) software.
+
 
 
 ### Communication - Email - Complete Solutions
@@ -597,6 +601,7 @@ _Related: [Conference Management](#conference-management)_
 **[`^        back to top        ^`](#)**
 
 [Extensible Messaging and Presence Protocol](https://en.wikipedia.org/wiki/XMPP) communication software.
+
 
 
 ### Communication - XMPP - Servers
@@ -839,6 +844,7 @@ _Related: [Community-Supported Agriculture (CSA)](#community-supported-agricultu
 **Please visit [awesome-sysadmin/Identity Management](https://github.com/awesome-foss/awesome-sysadmin#identity-management)**
 
 
+
 ### Feed Readers
 
 **[`^        back to top        ^`](#)**
@@ -876,7 +882,6 @@ A [news aggregator](https://en.wikipedia.org/wiki/News_aggregator), also termed 
 - [ttrss-mobile](https://github.com/mboinet/ttrss-mobile) - Mobile webapp for Tiny Tiny RSS. `AGPL-3.0` `Javascript`
 
 
-
 ### File Transfer & Synchronization
 
 **[`^        back to top        ^`](#)**
@@ -909,6 +914,7 @@ _Related: [Groupware](#groupware)_
 Network distributed filesystems.
 
 **Please visit [awesome-sysadmin/Distributed Filesystems](https://github.com/awesome-foss/awesome-sysadmin#distributed-filesystems)**
+
 
 
 ### File Transfer - Object Storage & File Servers
@@ -1383,6 +1389,7 @@ _See also: [awesome-sysadmin/IT Asset Management](https://github.com/awesome-fos
 **Please visit [awesome-sysadmin/Monitoring](https://github.com/awesome-foss/awesome-sysadmin#monitoring), [awesome-sysadmin/Metric and Metric Collection](https://github.com/awesome-foss/awesome-sysadmin#metric--metric-collection)**
 
 
+
 ### Note-taking & Editors
 
 **[`^        back to top        ^`](#)**
@@ -1684,6 +1691,7 @@ _Related: [Booking and Scheduling](#booking-and-scheduling)_
 **[`^        back to top        ^`](#)**
 
 
+
 ### Software Development - API Management
 
 **[`^        back to top        ^`](#)**
@@ -1706,6 +1714,7 @@ _Related: [Booking and Scheduling](#booking-and-scheduling)_
 **[`^        back to top        ^`](#)**
 
 **Please visit [awesome-sysadmin/Continuous Integration & Continuous Deployment](https://github.com/awesome-foss/awesome-sysadmin#continuous-integration--continuous-deployment)**
+
 
 
 ### Software Development - FaaS & Serverless
@@ -1920,11 +1929,13 @@ Before hosting one, please see [shortcomings](https://en.wikipedia.org/wiki/URL_
 **Please visit [awesome-sysadmin/VPN](https://github.com/awesome-foss/awesome-sysadmin#vpn)**
 
 
+
 ### Web Servers
 
 **[`^        back to top        ^`](#)**
 
 **Please visit [awesome-sysadmin/Web](https://github.com/awesome-foss/awesome-sysadmin#web)**
+
 
 
 ### Wikis
@@ -1961,6 +1972,7 @@ _See also: [Wikimatrix](https://www.wikimatrix.org/), [Wiki Engines - WikiIndex]
 - [Wikmd](https://github.com/Linbreux/wikmd) - Modern and simple file based wiki that uses Markdown and Git. `MIT` `Python`
 - [XWiki](https://www.xwiki.org) - Second generation wiki that allows the user to extend its functionalities with a powerful extension-based architecture. ([Demo](https://playground.xwiki.org), [Source Code](https://github.com/xwiki/xwiki-platform)) `LGPL-2.1` `Java`
 - [Zim](https://zim-wiki.org/) - Graphical text editor used to maintain a collection of wiki pages. Each page can contain links to other pages, simple formatting and images. ([Source Code](https://github.com/zim-desktop-wiki/zim-desktop-wiki)) `GPL-2.0` `Python`
+
 
 --------------------
 
