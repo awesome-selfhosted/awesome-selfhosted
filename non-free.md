@@ -45,7 +45,7 @@
 - [Yetishare](https://yetishare.com) - Powerful file hosting script with support for Amazon S3, Wasabi, Backblaze, local, direct and SFTP storage. ([Demo](https://fhscript.com)) `⊘ Proprietary` `PHP`
 
 
-### E-Commerce
+### E-commerce
 
 - [Sharetribe](https://www.sharetribe.com) - Open-source platform to create your own peer-to-peer marketplace, also available with SaaS model. ([Source Code](https://github.com/sharetribe/sharetribe)) `⊘ Proprietary` `Ruby`
 
