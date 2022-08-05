@@ -60,7 +60,7 @@
 - [Atman IoT](https://atman-iot.com) - Self hosted IoT gateway focused on IoT solution rapid prototyping, packaged as stand alone docker container, promising to help you build your IoT solution in a week. ([Demo](https://atman-iot.com/signup-redirect)) `⊘ Proprietary` `Nodejs`
 
 
-### IPBX
+### Communication - SIP
 
 - [Elastix](http://www.elastix.org) - Unified communications server software based on 3CX. `⊘ Proprietary` `Unknown`
 
