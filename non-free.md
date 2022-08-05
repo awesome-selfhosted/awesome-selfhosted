@@ -155,7 +155,7 @@
  * [ScreenConnect](https://www.screenconnect.com/) - Lightning-fast remote support and remote access to connect instantly and solve problems faster. `⊘ Proprietary`
 
 
-### UX testing
+### Software Development - Testing
 
 - [Moon](https://aerokube.com/moon/) - Efficient Selenium protocol implementation running everything in Kubernetes or Openshift. `⊘ Proprietary` `Go`
 
