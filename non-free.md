@@ -4,10 +4,6 @@
 
 ## Software
 
-### Analytics
-
-- [UXLens](https://uxlens.com/) - Website visitor recording software meant for identifying UI issues and fix them to improve user experience. Formerly known as SessionRecord. ([Demo](https://console.uxlens.com/test)) `⊘ Proprietary` `Docker/Nodejs`
-
 
 ### Automation
 
