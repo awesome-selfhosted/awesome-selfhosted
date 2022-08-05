@@ -65,7 +65,7 @@
 - [Elastix](http://www.elastix.org) - Unified communications server software based on 3CX. `⊘ Proprietary` `Unknown`
 
 
-### Maps & GPS
+### Maps and Global Positioning System (GPS)
 
 - [MapTiler Server](https://www.maptiler.com/server/) - Software for self-hosting of OpenStreetMap vector tiles, satellite imagery, own geodata and data from PostGIS database. `⊘ Proprietary` `Unknown`
 
