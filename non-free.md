@@ -37,7 +37,7 @@
 - [Ubooquity](https://vaemendis.net/ubooquity/) - Free to use, versatile, lightweight, multi-platform, and secure home server for your comic and e-book library. `⊘ Proprietary` `Java`
 
 
-### File Sharing and Synchronization
+### File Transfer & Synchronization
 
 - [Dropcenter](http://projet.idleman.fr/dropcenter/) - Upload files by simple drag-n-drop. ([Source Code](https://github.com/ldleman/dropcenter)) `CC-BY-NC-SA-3.0` `PHP`
 - [FileRun](http://www.filerun.com/) - Complete solution for your files with integration with Google and Office. ([Demo](http://www.filerun.com/demo)) `⊘ Proprietary` `PHP`
