@@ -7,7 +7,7 @@
 ### Analytics
 
 - [66Analytics](https://66analytics.com/) - Self-hosted, friendly, all-in-one web analytics tool. Lightweight tracking, session replays, heatmaps, user journeys & more. Can be used for personal reasons & can be white labeled to start a SAAS. ([Demo](https://66analytics.com/demo)) `⊘ Proprietary` `PHP/MySQL`
-- [userTrack](https://www.usertrack.net/) - Web analytics platform with heatmaps, session recordings and powerful user segmentation feature. Updated very regularly. ([Demo](https://dashboard.usertrack.net/server/demoLogin.php)) `⊘ Proprietary` `PHP/MySQL/ReactJS`
+- [userTrack](https://www.usertrack.net/) - Web analytics platform with heatmaps, session recordings and powerful user segmentation feature. Updated very regularly. ([Demo](https://dashboard.usertrack.net/server/demoLogin.php)) `⊘ Proprietary` `PHP`
 - [UXLens](https://uxlens.com/) - Website visitor recording software meant for identifying UI issues and fix them to improve user experience. Formerly known as SessionRecord. ([Demo](https://console.uxlens.com/test)) `⊘ Proprietary` `Docker/Nodejs`
 
 
