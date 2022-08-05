@@ -6,7 +6,6 @@
 
 ### Analytics
 
-- [userTrack](https://www.usertrack.net/) - Web analytics platform with heatmaps, session recordings and powerful user segmentation feature. Updated very regularly. ([Demo](https://dashboard.usertrack.net/server/demoLogin.php)) `⊘ Proprietary` `PHP`
 - [UXLens](https://uxlens.com/) - Website visitor recording software meant for identifying UI issues and fix them to improve user experience. Formerly known as SessionRecord. ([Demo](https://console.uxlens.com/test)) `⊘ Proprietary` `Docker/Nodejs`
 
 
