@@ -129,7 +129,6 @@
 - [Buddy Enterprise](https://buddy.works/) - Git and Continuous Integration/Delivery Platform. `⊘ Proprietary` `Nodejs/Java`
 - [Cloud9](https://c9.io/) - Your development environment, in the cloud. ([Source code](https://github.com/c9/core)) `⊘ Proprietary` `Nodejs`
 - [Crucible](https://www.atlassian.com/software/crucible/overview) - Peer code review application. `⊘ Proprietary` `Java`
-- [Documize](https://documize.com) - Modern docs & wiki software built for software team collaboration. `⊘ Proprietary` `Go`
 - [JIRA](https://www.atlassian.com/software/jira) - Professional and extensible issue tracker. `⊘ Proprietary` `Java`
 - [RhodeCode](https://rhodecode.com) - On-premise Source Code Management for Mercurial, Git & Subversion. `⊘ Proprietary` `Python`
 - [Sentry Self-Hosted](https://github.com/getsentry/self-hosted) - Powerful error tracking platform with wide language support and a robust API. ([Source Code](https://github.com/getsentry/sentry)) `BUSL-1.1` `Python/Django`
