@@ -16,14 +16,7 @@
 - [n8n](https://n8n.io/) - Free node based Workflow Automation Tool. Easily automate tasks across different services. ([Source Code](https://github.com/n8n-io/n8n)) `Apache-2.0/Commons-Clause` `Nodejs`
 
 
-### Content Management Systems (CMS)
-
-- [CraftCMS](https://craftcms.com/) - Content-first CMS that aims to make life enjoyable for developers and content managers alike. ([Demo](https://demo.craftcms.com/)) `⊘ Proprietary` `PHP`
-- [Kirby](https://getkirby.com/) - File-based CMS. Easy to setup. Easy to use. Flexible as hell. ([Source Code](https://github.com/getkirby/kirby)) `⊘ Proprietary` `PHP` 
-- [october](https://octobercms.com/) - Self-hosted CMS platform based on the Laravel PHP Framework. `⊘ Proprietary` `PHP`
-
-
-### Communication Systems
+### Communication - Custom Communication Systems
 
 - [Dialog](https://dlg.im) - Handy and feature-rich multi-device solution with native mobile clients, SIP integration, chatbots, 3rd-party integrations. It brings communication efficiency without sacrificing privacy. Works in closed circuit, encrypts push notifications. ([Demo](https://dlg.im/en/download)) `⊘ Proprietary` `Scala/Go`
 - [Groupboard](https://www.groupboard.com) - Online whiteboard, audio/video conferencing, screen sharing, shared code editing and optional session recording/playback. `⊘ Proprietary` `Unknown`
@@ -31,11 +24,18 @@
 - [WorkAdventure](https://workadventu.re) - Virtual office / virtual conference application presented as a 16-bit RPG video game. ([Demo](https://play.staging.workadventu.re/@/tcm/workadventure/wa-village), [Source Code](https://github.com/thecodingmachine/workadventure/)) `AGPL-3.0/Commons-Clause` `Docker`
 
 
+### Content Management Systems (CMS)
+
+- [CraftCMS](https://craftcms.com/) - Content-first CMS that aims to make life enjoyable for developers and content managers alike. ([Demo](https://demo.craftcms.com/)) `⊘ Proprietary` `PHP`
+- [Kirby](https://getkirby.com/) - File-based CMS. Easy to setup. Easy to use. Flexible as hell. ([Source Code](https://github.com/getkirby/kirby)) `⊘ Proprietary` `PHP`
+- [october](https://octobercms.com/) - Self-hosted CMS platform based on the Laravel PHP Framework. `⊘ Proprietary` `PHP`
+
+
 ### E-books and Integrated Library Systems (ILS)
 
 - [Bookwyrm](https://joinbookwyrm.com/) - Social network for tracking your reading, talking about books, writing reviews, and discovering what to read next. ([Source Code](https://github.com/bookwyrm-social/bookwyrm)) `⊘ Proprietary` `Python`
 - [Ubooquity](https://vaemendis.net/ubooquity/) - Free to use, versatile, lightweight, multi-platform, and secure home server for your comic and e-book library. `⊘ Proprietary` `Java`
- 
+
 
 ### File Sharing and Synchronization
 
@@ -79,8 +79,8 @@
 
 ### Miscellaneous
 
-- [OpenSpeedTest](https://github.com/openspeedtest/Speed-Test) - Pure HTML5 network performance estimation tool. `CC-BY-ND-3.0` `Docker`  
-  
+- [OpenSpeedTest](https://github.com/openspeedtest/Speed-Test) - Pure HTML5 network performance estimation tool. `CC-BY-ND-3.0` `Docker`
+
 ### Money, Budgeting & Management
 
 - [Anchor](http://theanchorapp.com/) - Invoicing system that integrates with Stripe and Paypal. Includes features such as: reporting, dashboard and no client limit. ([Demo](http://theanchorapp.com/demo/admin-login)) `⊘ Proprietary` `PHP`
@@ -95,8 +95,8 @@
 - [Lomorage](https://lomorage.com/) - Google photo alternative via simple self-hosting software. Supported clients: iOS, Android, Web, MAC/Windows. Backend can run on Raspberry pi, Armbian, MAC/Windows/Linux. `⊘ Proprietary` `Go`
 - [PhotoStructure](https://photostructure.com/) - All your family's photos and videos automatically organized into a fun and beautiful website. Runs via Docker, NodeJS, or native desktop installers. `⊘ Proprietary` `Nodejs`
 - [Reservo](https://reservo.co) - Scalable image hosting script with support for CDNs, paid account upgrades, advertising spots and drag & drop upload. ([Demo](https://demo.reservo.co/)) `⊘ Proprietary` `PHP`
-- [Single File PHP Gallery](http://sye.dk/sfpg/) - Web gallery in one single PHP file. `⊘ Proprietary` `PHP` 
-  
+- [Single File PHP Gallery](http://sye.dk/sfpg/) - Web gallery in one single PHP file. `⊘ Proprietary` `PHP`
+
 ### Self-hosting Solutions
 
 - [Axigen](https://www.axigen.com/mail-server/free/) - Turnkey messaging solution for small & micro businesses, integration projects or test environments. `⊘ Proprietary` `Unknown`
@@ -108,7 +108,7 @@
 
 ### Search Engines
 
-- [ElasticSearch](https://www.elastic.co/elasticsearch/) - Distributed, RESTful search and analytics engine. ([Source Code](https://github.com/elastic/elasticsearch)) `SSPL-1.0` `Java` 
+- [ElasticSearch](https://www.elastic.co/elasticsearch/) - Distributed, RESTful search and analytics engine. ([Source Code](https://github.com/elastic/elasticsearch)) `SSPL-1.0` `Java`
 
 
 ### Software Development
