@@ -173,3 +173,4 @@
 - `CC-BY-ND 3.0` - [Attribution-NoDerivs 3.0 Unported (CC BY-ND 3.0)](https://creativecommons.org/licenses/by-nd/3.0/)
 - `DPL` - [Devblocks Public License 1.0](https://cerb.ai/license/)
 - `SSPL-1.0` - [Server Side Public License](https://spdx.org/licenses/SSPL-1.0.html)
+- `⊘ Proprietary` - [Proprietary software](https://en.wikipedia.org/wiki/Proprietary_software)
