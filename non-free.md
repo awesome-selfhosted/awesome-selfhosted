@@ -81,7 +81,7 @@
 
 - [OpenSpeedTest](https://github.com/openspeedtest/Speed-Test) - Pure HTML5 network performance estimation tool. `CC-BY-ND-3.0` `Docker`  
   
-### Money, Budgeting and Management
+### Money, Budgeting & Management
 
 - [Anchor](http://theanchorapp.com/) - Invoicing system that integrates with Stripe and Paypal. Includes features such as: reporting, dashboard and no client limit. ([Demo](http://theanchorapp.com/demo/admin-login)) `⊘ Proprietary` `PHP`
 - [Manager](http://manager.io/server) - Online accounting software for small businesses. `⊘ Proprietary` `Mono`
