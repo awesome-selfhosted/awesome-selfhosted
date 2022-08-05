@@ -62,7 +62,7 @@
 
 ### Communication - SIP
 
-- [Elastix](http://www.elastix.org) - Unified communications server software based on 3CX. `⊘ Proprietary` `Unknown`
+- [3CX](https://www.3cx.com/pbx/) - Full-featured PABX system, with call queues, built-in web conferencing, live chat and social media messaging all on one system. `⊘ Proprietary` `Unknown`
 
 
 ### Maps and Global Positioning System (GPS)
