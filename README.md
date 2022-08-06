@@ -57,7 +57,7 @@ See [Contributing](.github/CONTRIBUTING.md).
   - [File Transfer - Web-based File Managers](#file-transfer---web-based-file-managers)
   - [Games](#games)
   - [Games - Administrative Utilities & Control Panels](#games---administrative-utilities--control-panels)
-  - [Gateways and Sharing](#gateways-and-terminal-sharing)
+  - [Gateways and Terminal Sharing](#gateways-and-terminal-sharing)
   - [Genealogy](#genealogy)
   - [Groupware](#groupware)
   - [Human Resources Management (HRM)](#human-resources-management-hrm)
