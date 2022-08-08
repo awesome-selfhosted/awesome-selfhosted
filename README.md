@@ -1733,7 +1733,7 @@ A [search engine](https://en.wikipedia.org/wiki/Search_engine_(computing)) is an
 
 **[`^        back to top        ^`](#)**
 
-
+- [Hydrazine](https://github.com/jareer12/hydrazine) - Create discord bots without any coding, just drag and drop. `CC-BY-NC 4.0` `Typescript`
 
 ### Software Development - API Management
 
