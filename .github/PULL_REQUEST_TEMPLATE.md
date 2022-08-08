@@ -14,9 +14,7 @@ To ensure your PR is dealt with swiftly please check the following:
   ``- [Name](http://homepage/) - Short description, under 250 characters, sentence case. ([Demo](http://url.to/demo), [Source Code](http://url.of/source/code), [Clients](https://url.to/list/of/related/clients-or-apps)) `License` `Language` ``
 - [ ] Additions that depend on proprietary services outside the user's control must be marked `⚠`.
   ``- [Name](http://homepage/) `⚠` - Short description, under 250 characters, sentence case. ([Demo](http://url.to/demo), [Source Code](http://url.of/source/code), [Clients](https://url.to/list/of/related/clients-or-apps)) `License` `Language` ``
-- [ ] Additions that are not [Free software](https://en.wikipedia.org/wiki/Free_software)
-  must be added to `non-free.md` and marked `⊘ Proprietary`:
-  ``- [Name](http://homepage/) `⊘ Proprietary` - Short description, under 250 characters, sentence case. ([Demo](http://url.to/demo), [Source Code](http://url.of/source/code), [Clients](https://url.to/list/of/related/clients-or-apps)) `Language` ``
+- [ ] Additions that are not [Free software](https://en.wikipedia.org/wiki/Free_software) must be added to `non-free.md` and have the license set to `⊘ Proprietary`
 - [ ] Additions are inserted preserving alphabetical order.
 - [ ] Additions are not already listed at any of [awesome-sysadmin](https://github.com/n1trux/awesome-sysadmin), [awesome-analytics](https://github.com/onurakpolat/awesome-analytics), [staticgen.com](https://www.staticgen.com/), [staticsitegenerators.net](https://staticsitegenerators.net/).
 - [ ] The `Language` tag is the main **server-side** requirement for the software. Don't include frameworks or specific dialects.
