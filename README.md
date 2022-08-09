@@ -1183,6 +1183,8 @@ Tools and software to help with education and learning.
 
 **[`^        back to top        ^`](#)**
 
+[Map](https://en.wikipedia.org/wiki/Map) and [GPS](https://en.wikipedia.org/wiki/Global_Positioning_System) software.
+
 _See also: [awesome-gis](https://github.com/sshuair/awesome-gis)_
 
 - [Bicimon](https://github.com/knrdl/bicimon) - Bike Speedometer as Progressive Web App. ([Demo](https://knrdl.github.io/bicimon/)) `MIT` `HTML5`
