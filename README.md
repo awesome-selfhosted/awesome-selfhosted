@@ -1899,6 +1899,8 @@ Tools and software for [software testing](https://en.wikipedia.org/wiki/Software
 
 **[`^        back to top        ^`](#)**
 
+[Static site generators](https://en.wikipedia.org/wiki/Web_template_system#Static_site_generators) can be viewed as a ready-made web design, used to mass-produce "cookie-cutter" websites for rapid deployment. They also commonly include themes in place of CSS styles. In general, the template language is used only with the editor's software.
+
 **Static site generators are not listed within this list. Please visit [staticsitegenerators.net](https://staticsitegenerators.net), [staticgen.com](https://www.staticgen.com)**
 
 
