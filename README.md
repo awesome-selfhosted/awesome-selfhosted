@@ -1607,6 +1607,8 @@ A [gallery](https://en.wikipedia.org/wiki/Gallery_Software) is software that hel
 
 **[`^        back to top        ^`](#)**
 
+Software for organising [polls](https://en.wikipedia.org/wiki/Opinion_poll) and [events](https://en.wikipedia.org/wiki/Event)
+
 _Related: [Booking and Scheduling](#booking-and-scheduling)_
 
 - [Bitpoll](https://github.com/fsinfuhh/Bitpoll) - A web application for scheduling meetings and general polling. ([Demo](https://bitpoll.mafiasi.de/)) `GPL-3.0` `Python`
