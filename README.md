@@ -1419,6 +1419,8 @@ _See also: [awesome-sysadmin/IT Asset Management](https://github.com/awesome-fos
 
 **[`^        back to top        ^`](#)**
 
+[Note taking](https://en.wikipedia.org/wiki/Note-taking) editors.
+
 _Related: [Wikis](#wikis)_
 
 - [DailyNotes](https://github.com/m0ngr31/DailyNotes) - App for taking notes and tracking tasks on a daily basis in Markdown. `MIT` `Python`
