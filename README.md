@@ -1723,7 +1723,7 @@ A [search engine](https://en.wikipedia.org/wiki/Search_engine_(computing)) is an
 
 **[`^        back to top        ^`](#)**
 
-All in one self hosting software.
+Software for easy installation, management and configuration of self-hosted services and applications.
 
 - [Ansible-NAS](https://github.com/DaveStephens/ansible-nas) - Build a full-featured home server with this playbook and an Ubuntu box. `MIT` `YAML/Docker`
 - [Discord Bot Dashboard](https://github.com/jareer12/Discord-Bot-Dashboard) `⚠` - A self-hosted platform to manage Discord bots and Node.js applications. `MIT` `Nodejs`
