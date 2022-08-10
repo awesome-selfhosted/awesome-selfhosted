@@ -57,7 +57,7 @@ See [Contributing](.github/CONTRIBUTING.md).
   - [File Transfer - Web-based File Managers](#file-transfer---web-based-file-managers)
   - [Games](#games)
   - [Games - Administrative Utilities & Control Panels](#games---administrative-utilities--control-panels)
-  - [Gateways and Terminal Sharing](#gateways-and-terminal-sharing)
+  - [Gateways](#gateways)
   - [Genealogy](#genealogy)
   - [Groupware](#groupware)
   - [Human Resources Management (HRM)](#human-resources-management-hrm)
@@ -1052,7 +1052,7 @@ Utilities for managing game servers.
 - [RconCli](https://github.com/gorcon/rcon-cli) - CLI for executing queries on a remote Valve Source dedicated server using the RCON Protocol. `MIT` `Go`
 
 
-### Gateways and Terminal Sharing
+### Gateways
 
 **[`^        back to top        ^`](#)**
 
