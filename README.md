@@ -1061,8 +1061,6 @@ Utilities for managing game servers.
 
 **[`^        back to top        ^`](#)**
 
-A [gateway](https://en.wikipedia.org/wiki/Gateway_(telecommunications)) is a piece of networking hardware or software used in telecommunications networks that allows data to flow from one discrete network to another.
-
 - [asciinema](https://github.com/asciinema/asciinema-server) - Web app for hosting asciicasts. ([Demo](https://asciinema.org/)) `Apache-2.0` `Elixir/Docker`
 - [Firezone](https://www.firezone.dev/) - Self-hosted secure remote access gateway that supports the WireGuard protocol. It offers a Web GUI, 1-line install script, multi-factor auth (MFA), and SSO. ([Source Code](https://github.com/firezone/firezone)) `Apache-2.0` `Elixir`
 - [GateOne](http://liftoffsoftware.com/Products/GateOne) - Gate One is an HTML5 web-based terminal emulator and SSH client. ([Source Code](https://github.com/liftoff/GateOne)) `AGPL-3.0` `Python`
