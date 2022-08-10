@@ -1176,6 +1176,8 @@ Tools and software to help with education and learning.
 
 **[`^        back to top        ^`](#)**
 
+[Maps](https://en.wikipedia.org/wiki/Map), [cartography](https://en.wikipedia.org/wiki/Cartography), [GIS](https://en.wikipedia.org/wiki/Geographic_information_system) and [GPS](https://en.wikipedia.org/wiki/Global_Positioning_System) software.
+
 _See also: [awesome-openstreetmap](https://github.com/osmlab/awesome-openstreetmap), [awesome-gis](https://github.com/sshuair/awesome-gis)_
 
 - [Bicimon](https://github.com/knrdl/bicimon) - Bike Speedometer as Progressive Web App. ([Demo](https://knrdl.github.io/bicimon/)) `MIT` `HTML5`
@@ -1306,6 +1308,8 @@ _See also: [List of streaming media systems - Wikipedia](https://en.wikipedia.or
 
 **[`^        back to top        ^`](#)**
 
+Software that does not fit in another section.
+
 - [2FAuth](https://github.com/Bubka/2FAuth) - A web app to manage your Two-Factor Authentication (2FA) accounts and generate their security codes. ([Demo](https://demo.2fauth.app/)) `AGPL-3.0` `PHP`
 - [411](https://github.com/etsy/411) - Alert Management Web Application. `MIT` `PHP`
 - [AlertHub](https://github.com/Ardakilic/alerthub) `⚠` - AlertHub is a simple tool to get alerted from GitHub releases. `MIT` `Nodejs`
@@ -1404,6 +1408,8 @@ _See also: [awesome-sysadmin/IT Asset Management](https://github.com/awesome-fos
 
 **[`^        back to top        ^`](#)**
 
+Software for [monitoring](https://en.wikipedia.org/wiki/Monitoring#Computing) systems, networks, applications and websites. 
+
 **Please visit [awesome-sysadmin/Monitoring](https://github.com/awesome-foss/awesome-sysadmin#monitoring), [awesome-sysadmin/Metric and Metric Collection](https://github.com/awesome-foss/awesome-sysadmin#metric--metric-collection)**
 
 
@@ -1411,6 +1417,8 @@ _See also: [awesome-sysadmin/IT Asset Management](https://github.com/awesome-fos
 ### Note-taking & Editors
 
 **[`^        back to top        ^`](#)**
+
+[Note taking](https://en.wikipedia.org/wiki/Note-taking) editors.
 
 _Related: [Wikis](#wikis)_
 
@@ -1446,6 +1454,8 @@ _Related: [Wikis](#wikis)_
 ### Office Suites
 
 **[`^        back to top        ^`](#)**
+
+An [office suite](https://en.wikipedia.org/wiki/List_of_office_suites) is a collection of productivity software usually containing at least a word processor, spreadsheet and a presentation program.
 
 - [Collabora Online Development Edition](https://www.collaboraoffice.com/code) - Collabora Online Development Edition (CODE) is a powerful LibreOffice-based online office that supports all major document, spreadsheet and presentation file formats, which you can integrate in your own infrastructure. ([Source Code](https://cgit.freedesktop.org/libreoffice/online/)) `MPL-2.0` `C++`
 - [CryptPad](https://cryptpad.fr/) - CryptPad is a collaboration suite that is end-to-end-encrypted and open-source. It is built to enable collaboration, synchronizing changes to documents in real time. ([Source Code](https://github.com/xwiki-labs/cryptpad)) `AGPL-3.0` `Nodejs`
@@ -1561,6 +1571,8 @@ _Related: [Monitoring](#monitoring), [Bookmarking and Link Sharing](#bookmarks-a
 
 **[`^        back to top        ^`](#)**
 
+A [gallery](https://en.wikipedia.org/wiki/Gallery_Software) is software that helps the user publish or share photos, pictures, videos or other digital media.
+
 - [Chevereto Free](https://chevereto.com/free) - Powerful and fast image hosting script that allows you to create your very own full featured image hosting website in just minutes. ([Source Code](https://github.com/Chevereto/Chevereto-Free)) `AGPL-3.0` `PHP`
 - [Coppermine](https://coppermine-gallery.net/) - Multilingual photo gallery that integrates with various bulletin boards. Includes upload approval and password protected albums. ([Demo](https://coppermine-gallery.net/demo/cpg15x/), [Source Code](https://github.com/coppermine-gallery/cpg1.6.x)) `GPL-3.0` `PHP`
 - [Damselfly](https://damselfly.info) - Fast server-based photo management system for large collections of images. Includes face detection, face & object recognition, powerful search, and EXIF Keyword tagging. Runs on Linux, MacOS and Windows. `GPL-3.0` `C#/.NET`
@@ -1593,6 +1605,8 @@ _Related: [Monitoring](#monitoring), [Bookmarking and Link Sharing](#bookmarks-a
 ### Polls and Events
 
 **[`^        back to top        ^`](#)**
+
+Software for organising [polls](https://en.wikipedia.org/wiki/Opinion_poll) and [events](https://en.wikipedia.org/wiki/Event).
 
 _Related: [Booking and Scheduling](#booking-and-scheduling)_
 
@@ -1702,6 +1716,8 @@ A [search engine](https://en.wikipedia.org/wiki/Search_engine_(computing)) is an
 
 **[`^        back to top        ^`](#)**
 
+Software for easy installation, management and configuration of self-hosted services and applications.
+
 - [Ansible-NAS](https://github.com/DaveStephens/ansible-nas) - Build a full-featured home server with this playbook and an Ubuntu box. `MIT` `YAML/Docker`
 - [Discord Bot Dashboard](https://github.com/jareer12/Discord-Bot-Dashboard) `⚠` - A self-hosted platform to manage Discord bots and Node.js applications. `MIT` `Nodejs`
 - [Bitsii Bridge](https://gitlab.com/bitsii/Bitsii/-/wikis/home) `⚠` - Easy to install self-hosting platform for Windows, MacOS, and Linux. Depends on a dynamic DNS provider and Let's Encrypt. ([Source Code](https://gitlab.com/edgii/BBridge)) `MPL-2.0` `Java/Other`
@@ -1728,11 +1744,15 @@ A [search engine](https://en.wikipedia.org/wiki/Search_engine_(computing)) is an
 
 **[`^        back to top        ^`](#)**
 
+[Software development](https://en.wikipedia.org/wiki/Software_development) is the process of conceiving, specifying, designing, programming, documenting, testing, and bug fixing involved in creating and maintaining applications, frameworks, or other software components.
 
+**Please visit [Software Development - API Management](#software-development---api-management), [Software Development - Continuous Integration & Deployment](#software-development---continuous-integration--deployment), [Software Development - FaaS & Serverless](#software-development---faas--serverless), [Software Development - IDE & Tools](#software-development---ide--tools), [Software Development - Localization](#software-development---localization), [Software Development - Project Management](#software-development---project-management), [Software Development - Testing](#software-development---testing)**
 
 ### Software Development - API Management
 
 **[`^        back to top        ^`](#)**
+
+[API management](https://en.wikipedia.org/wiki/API_management) is the process of creating and publishing [application programming interfaces (APIs)](https://en.wikipedia.org/wiki/API), enforcing their usage policies, controlling access, nurturing the subscriber community, collecting and analyzing usage statistics, and reporting on performance. 
 
 - [DreamFactory](https://www.dreamfactory.com/) - Turns any SQL/NoSQL/Structured data into Restful API. ([Source Code](https://github.com/dreamfactorysoftware/dreamfactory)) `Apache-2.0` `PHP`
 - [form.io](https://form.io) - A REST API building platform that utilizes a drag & drop form builder, and is application framework agnostic. Contains open source and enterprise version. ([Demo](https://portal.form.io), [Source Code](https://github.com/formio)) `MIT` `Nodejs`
@@ -1750,6 +1770,8 @@ A [search engine](https://en.wikipedia.org/wiki/Search_engine_(computing)) is an
 ### Software Development - Continuous Integration & Deployment
 
 **[`^        back to top        ^`](#)**
+
+[Continuous integration](https://en.wikipedia.org/wiki/Continuous_integration) and [Continuous deployment](https://en.wikipedia.org/wiki/Continuous_deployment) software and tools.
 
 **Please visit [awesome-sysadmin/Continuous Integration & Continuous Deployment](https://github.com/awesome-foss/awesome-sysadmin#continuous-integration--continuous-deployment)**
 
@@ -1873,6 +1895,8 @@ Tools and software for [software testing](https://en.wikipedia.org/wiki/Software
 
 **[`^        back to top        ^`](#)**
 
+[Static site generators](https://en.wikipedia.org/wiki/Web_template_system#Static_site_generators) generate full static HTML websites based on raw data, plain text files and a set of templates. 
+
 **Static site generators are not listed within this list. Please visit [staticsitegenerators.net](https://staticsitegenerators.net), [staticgen.com](https://www.staticgen.com)**
 
 
@@ -1988,6 +2012,8 @@ Before hosting one, please see [shortcomings](https://en.wikipedia.org/wiki/URL_
 
 **[`^        back to top        ^`](#)**
 
+A [virtual private network (VPN)](https://en.wikipedia.org/wiki/Virtual_private_network) extends a private network across a public network and enables users to send and receive data across shared or public networks as if their computing devices were directly connected to the private network.
+
 **Please visit [awesome-sysadmin/VPN](https://github.com/awesome-foss/awesome-sysadmin#vpn)**
 
 
@@ -1995,6 +2021,8 @@ Before hosting one, please see [shortcomings](https://en.wikipedia.org/wiki/URL_
 ### Web Servers
 
 **[`^        back to top        ^`](#)**
+
+A [web server](https://en.wikipedia.org/wiki/Web_server) is a piece of software and underlying hardware that accepts requests via [HTTP](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol) (the network protocol created to distribute web content) or its secure variant [HTTPS](https://en.wikipedia.org/wiki/HTTPSs). 
 
 **Please visit [awesome-sysadmin/Web](https://github.com/awesome-foss/awesome-sysadmin#web)**
 
