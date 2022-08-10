@@ -1183,7 +1183,7 @@ Tools and software to help with education and learning.
 
 **[`^        back to top        ^`](#)**
 
-[Map](https://en.wikipedia.org/wiki/Map) and [GPS](https://en.wikipedia.org/wiki/Global_Positioning_System) software.
+[Maps](https://en.wikipedia.org/wiki/Map), [cartography](https://en.wikipedia.org/wiki/Cartography), [GIS](https://en.wikipedia.org/wiki/Geographic_information_system) and [GPS](https://en.wikipedia.org/wiki/Global_Positioning_System) software.
 
 _See also: [awesome-gis](https://github.com/sshuair/awesome-gis)_
 
