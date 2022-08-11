@@ -13,7 +13,7 @@
 ### Communication - Custom Communication Systems
 
 - [Dialog](https://dlg.im) - Handy and feature-rich multi-device solution with native mobile clients, SIP integration, chatbots, 3rd-party integrations. It brings communication efficiency without sacrificing privacy. Works in closed circuit, encrypts push notifications. ([Demo](https://dlg.im/en/download/)) `⊘ Proprietary` `Scala/Go`
-- [Groupboard](https://www.groupboard.com) - Online whiteboard, audio/video conferencing, screen sharing, shared code editing and optional session recording/playback. `⊘ Proprietary` `Unknown`
+- [Groupboard](https://www.groupboard.com/products/) - Online whiteboard, audio/video conferencing, screen sharing, shared code editing and optional session recording/playback. `⊘ Proprietary` `Unknown`
 - [PrivMX WebMail](https://privmx.com) - Alternative private mail system - web-based, end-to-end encrypted by design, self-hosted, decentralized, uses independent PKI. Easy to install and administrate, freeware, open-source. `⊘ Proprietary` `PHP`
 - [WorkAdventure](https://workadventu.re) - Virtual office / virtual conference application presented as a 16-bit RPG video game. ([Demo](https://play.staging.workadventu.re/@/tcm/workadventure/wa-village), [Source Code](https://github.com/thecodingmachine/workadventure/)) `AGPL-3.0/Commons-Clause` `Docker`
 
