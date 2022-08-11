@@ -12,15 +12,15 @@
 
 ### Communication - Custom Communication Systems
 
-- [Dialog](https://dlg.im) - Handy and feature-rich multi-device solution with native mobile clients, SIP integration, chatbots, 3rd-party integrations. It brings communication efficiency without sacrificing privacy. Works in closed circuit, encrypts push notifications. ([Demo](https://dlg.im/en/download)) `⊘ Proprietary` `Scala/Go`
-- [Groupboard](https://www.groupboard.com) - Online whiteboard, audio/video conferencing, screen sharing, shared code editing and optional session recording/playback. `⊘ Proprietary` `Unknown`
+- [Dialog](https://dlg.im) - Handy and feature-rich multi-device solution with native mobile clients, SIP integration, chatbots, 3rd-party integrations. It brings communication efficiency without sacrificing privacy. Works in closed circuit, encrypts push notifications. ([Demo](https://dlg.im/en/download/)) `⊘ Proprietary` `Scala/Go`
+- [Groupboard](https://www.groupboard.com/products/) - Online whiteboard, audio/video conferencing, screen sharing, shared code editing and optional session recording/playback. `⊘ Proprietary` `Unknown`
 - [PrivMX WebMail](https://privmx.com) - Alternative private mail system - web-based, end-to-end encrypted by design, self-hosted, decentralized, uses independent PKI. Easy to install and administrate, freeware, open-source. `⊘ Proprietary` `PHP`
 - [WorkAdventure](https://workadventu.re) - Virtual office / virtual conference application presented as a 16-bit RPG video game. ([Demo](https://play.staging.workadventu.re/@/tcm/workadventure/wa-village), [Source Code](https://github.com/thecodingmachine/workadventure/)) `AGPL-3.0/Commons-Clause` `Docker`
 
 
 ### Content Management Systems (CMS)
 
-- [CraftCMS](https://craftcms.com/) - Content-first CMS that aims to make life enjoyable for developers and content managers alike. ([Demo](https://demo.craftcms.com/)) `⊘ Proprietary` `PHP`
+- [CraftCMS](https://craftcms.com/) - Content-first CMS that aims to make life enjoyable for developers and content managers alike. ([Demo](https://craftcms.com/demo)) `⊘ Proprietary` `PHP`
 - [Kirby](https://getkirby.com/) - File-based CMS. Easy to setup. Easy to use. Flexible as hell. ([Source Code](https://github.com/getkirby/kirby)) `⊘ Proprietary` `PHP`
 - [october](https://octobercms.com/) - Self-hosted CMS platform based on the Laravel PHP Framework. `⊘ Proprietary` `PHP`
 
@@ -33,8 +33,7 @@
 
 ### File Transfer & Synchronization
 
-- [Dropcenter](http://projet.idleman.fr/dropcenter/) - Upload files by simple drag-n-drop. ([Source Code](https://github.com/ldleman/dropcenter)) `CC-BY-NC-SA-3.0` `PHP`
-- [FileRun](http://www.filerun.com/) - Complete solution for your files with integration with Google and Office. ([Demo](http://www.filerun.com/demo)) `⊘ Proprietary` `PHP`
+- [FileRun](https://www.filerun.com/) - Complete solution for your files with integration with Google and Office. ([Demo](https://www.filerun.com/demo)) `⊘ Proprietary` `PHP`
 - [Resilio Sync](https://www.resilio.com/) - Proprietary peer-to-peer file synchronisation tool. `⊘ Proprietary` `Unknown`
 - [Yetishare](https://yetishare.com) - Powerful file hosting script with support for Amazon S3, Wasabi, Backblaze, local, direct and SFTP storage. ([Demo](https://fhscript.com)) `⊘ Proprietary` `PHP`
 
@@ -46,7 +45,7 @@
 ### Games
 
 - [Cubiks-2048](https://github.com/Kshitij-Banerjee/Cubiks-2048) - Clone of 2048 game in 3D. ([Demo](https://kshitij-banerjee.github.io/Cubiks-2048/)) `CC-BY-NC-4.0` `HTML5`
-- [untrusted](https://github.com/AlexNisnevich/untrusted) - Unique puzzle game designed for geeks and developers, where you solve the puzzles in the game by reading and writing Javascript. ([Demo](http://alex.nisnevich.com/untrusted/)) `CC-BY-NC-SA-3.0` `Nodejs`
+- [untrusted](https://github.com/AlexNisnevich/untrusted) - Unique puzzle game designed for geeks and developers, where you solve the puzzles in the game by reading and writing Javascript. ([Demo](http://alexnisnevich.github.io/untrusted/)) `CC-BY-NC-SA-3.0` `Nodejs`
 
 
 ### Internet of Things (IoT)
@@ -68,8 +67,8 @@
 
 - [Channels DVR Server](https://getchannels.com/dvr-server/) - Flexible server providing a whole home self hosted DVR experience for [Channels](https://getchannels.com). `⊘ Proprietary` `Unknown`
 - [Emby](https://emby.media/) - Home media server supporting both DLNA and DIAL (Chromecast) devices out-of-the-box. `⊘ Proprietary` `C#`
-- [Plex](https://plex.tv/) - Centralized home media playback system with a powerful central server. `⊘ Proprietary` `Unknown`
-- [Subsonic](http://subsonic.org/) - Web-based media streamer and jukebox. ([Demo](http://demo.subsonic.org/login.view?user=guest4&password=guest)) `⊘ Proprietary` `Unknown`
+- [Plex](https://www.plex.tv/) - Centralized home media playback system with a powerful central server. `⊘ Proprietary` `Unknown`
+- [Subsonic](http://www.subsonic.org/pages/index.jsp) - Web-based media streamer and jukebox. ([Demo](http://demo.subsonic.org/j_acegi_security_check?j_username=guest4&j_password=guest&_acegi_security_remember_me=check)) `⊘ Proprietary` `Unknown`
 
 ### Miscellaneous
 
@@ -78,14 +77,14 @@
 ### Money, Budgeting & Management
 
 - [Anchor](http://theanchorapp.com/) - Invoicing system that integrates with Stripe and Paypal. Includes features such as: reporting, dashboard and no client limit. ([Demo](http://theanchorapp.com/demo/admin-login)) `⊘ Proprietary` `PHP`
-- [Manager](http://manager.io/server) - Online accounting software for small businesses. `⊘ Proprietary` `Mono`
-- [Pancake](http://pancakeapp.com/) - Online invoicing, project management, time tracking and proposal software. `⊘ Proprietary` `PHP`
+- [Manager](https://manager.io/server) - Online accounting software for small businesses. `⊘ Proprietary` `Mono`
+- [Pancake](https://www.pancakeapp.com/) - Online invoicing, project management, time tracking and proposal software. `⊘ Proprietary` `PHP`
 
 
 ### Photo and Video Galleries
 
-- [ArtVenue](http://codecanyon.net/item/artvenue-image-sharing-community-script/5771542) - Start your own photography community website, platform based on the Laravel PHP Framework. ([Demo](http://codecanyon.net/item/artvenue-image-sharing-community-script/full_screen_preview/5771542)) `⊘ Proprietary` `PHP`
-- [Chevereto](https://chevereto.com/) - Powerful and fast image hosting script that allows you to create your very own full featured image hosting website in just minutes. ([Demo](http://demo.chevereto.com/)) `⊘ Proprietary` `PHP`
+- [ArtVenue](https://codecanyon.net/item/artvenue-image-sharing-community-script/5771542) - Start your own photography community website, platform based on the Laravel PHP Framework. ([Demo](https://codecanyon.net/item/artvenue-image-sharing-community-script/full_screen_preview/5771542)) `⊘ Proprietary` `PHP`
+- [Chevereto](https://chevereto.com/) - Powerful and fast image hosting script that allows you to create your very own full featured image hosting website in just minutes. ([Demo](https://demo.chevereto.com/)) `⊘ Proprietary` `PHP`
 - [Lomorage](https://lomorage.com/) - Google photo alternative via simple self-hosting software. Supported clients: iOS, Android, Web, MAC/Windows. Backend can run on Raspberry pi, Armbian, MAC/Windows/Linux. `⊘ Proprietary` `Go`
 - [PhotoStructure](https://photostructure.com/) - All your family's photos and videos automatically organized into a fun and beautiful website. Runs via Docker, NodeJS, or native desktop installers. `⊘ Proprietary` `Nodejs`
 - [Reservo](https://reservo.co) - Scalable image hosting script with support for CDNs, paid account upgrades, advertising spots and drag & drop upload. ([Demo](https://demo.reservo.co/)) `⊘ Proprietary` `PHP`
@@ -137,19 +136,19 @@
 - [Deskpro](https://www.deskpro.com/) - On-Premise helpdesk software that includes email, chat, voice & helpcentre publishing. Full visible source code and API. `⊘ Proprietary` `Unknown`
 - [Full Help](https://www.fullhelp.com/en/) - Simple, easy to use help desk & knowledge base software. Custom branding, custom themes, restful API, communication channels, multi-company support, multi-language support, and much more! At least 1 new release per month. `⊘ Proprietary` `PHP`
 - [Jitbit Helpdesk](https://www.jitbit.com/helpdesk/) - Self-hosted help desk software - simple but powerful. ([Demo](https://www.jitbit.com/hosted-helpdesk/trial/)) `⊘ Proprietary` `ASP.NET`
-- [SupportPal](https://www.supportpal.com/) - Powerful help desk software - easy, fast and intuitive. ([Demo](http://demo.supportpal.com/)) `⊘ Proprietary` `PHP`
+- [SupportPal](https://www.supportpal.com/) - Powerful help desk software - easy, fast and intuitive. ([Demo](https://demo.supportpal.com/)) `⊘ Proprietary` `PHP`
 
 
 ### Time Tracking
 
-- [Anuko](https://www.anuko.com/time_tracker/index.htm) - Simple time and project tracking on a self-hosted basis. ([Demo](https://timetracker.anuko.com/), [Source Code](https://github.com/anuko/timetracker)) `SSPL-1.0` `PHP`
+- [Anuko](https://www.anuko.com/time-tracker/index.htm) - Simple time and project tracking on a self-hosted basis. ([Demo](https://timetracker.anuko.com/), [Source Code](https://github.com/anuko/timetracker)) `SSPL-1.0` `PHP`
 - [Virtual TimeClock](https://www.redcort.com/timeclock) - Powerful, easy-to-use time tracking software. ([Demo](https://www.redcort.com/timeclock/free-timeclock-software-trial)) `⊘ Proprietary` `Unknown`
 
 
 ### Miscellaneous
 
  * [RemoteUtilities](https://www.remoteutilities.com/) - Remote Utilities is self-hosted remote support software for LAN administration and remote support over the Internet. `⊘ Proprietary` `Unknown`
- * [ScreenConnect](https://www.screenconnect.com/) - Lightning-fast remote support and remote access to connect instantly and solve problems faster. `⊘ Proprietary` `Unknown`
+ * [ScreenConnect](https://www.connectwise.com/software/control) - Lightning-fast remote support and remote access to connect instantly and solve problems faster. `⊘ Proprietary` `Unknown`
 
 
 <!-- END SOFTWARE LIST -->
