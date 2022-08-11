@@ -69,7 +69,7 @@
 - [Channels DVR Server](https://getchannels.com/dvr-server/) - Flexible server providing a whole home self hosted DVR experience for [Channels](https://getchannels.com). `⊘ Proprietary` `Unknown`
 - [Emby](https://emby.media/) - Home media server supporting both DLNA and DIAL (Chromecast) devices out-of-the-box. `⊘ Proprietary` `C#`
 - [Plex](https://www.plex.tv/) - Centralized home media playback system with a powerful central server. `⊘ Proprietary` `Unknown`
-- [Subsonic](http://www.subsonic.org/pages/index.jsp) - Web-based media streamer and jukebox. ([Demo](http://demo.subsonic.org/login.view?user=guest4&password=guest)) `⊘ Proprietary` `Unknown`
+- [Subsonic](http://www.subsonic.org/pages/index.jsp) - Web-based media streamer and jukebox. ([Demo](http://demo.subsonic.org/j_acegi_security_check?j_username=guest4&j_password=guest&_acegi_security_remember_me=check)) `⊘ Proprietary` `Unknown`
 
 ### Miscellaneous
 
