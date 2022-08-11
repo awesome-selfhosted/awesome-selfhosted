@@ -57,7 +57,6 @@ See [Contributing](.github/CONTRIBUTING.md).
   - [File Transfer - Web-based File Managers](#file-transfer---web-based-file-managers)
   - [Games](#games)
   - [Games - Administrative Utilities & Control Panels](#games---administrative-utilities--control-panels)
-  - [Gateways](#gateways)
   - [Genealogy](#genealogy)
   - [Groupware](#groupware)
   - [Human Resources Management (HRM)](#human-resources-management-hrm)
@@ -81,6 +80,7 @@ See [Contributing](.github/CONTRIBUTING.md).
   - [Polls and Events](#polls-and-events)
   - [Proxy](#proxy)
   - [Recipe Management](#recipe-management)
+  - [Remote Access](#remote-access)
   - [Resource Planning](#resource-planning)
   - [Resource Planning - Enterprise Resource Planning](#resource-planning---enterprise-resource-planning)
   - [Search Engines](#search-engines)
@@ -1051,19 +1051,6 @@ Utilities for managing game servers.
 - [RconCli](https://github.com/gorcon/rcon-cli) - CLI for executing queries on a remote Valve Source dedicated server using the RCON Protocol. `MIT` `Go`
 
 
-### Gateways
-
-**[`^        back to top        ^`](#)**
-
-A [gateway](https://en.wikipedia.org/wiki/Gateway_(telecommunications)) is a piece of networking hardware or software used in telecommunications networks that allows data to flow from one discrete network to another.
-
-- [Firezone](https://www.firezone.dev/) - Self-hosted secure remote access gateway that supports the WireGuard protocol. It offers a Web GUI, 1-line install script, multi-factor auth (MFA), and SSO. ([Source Code](https://github.com/firezone/firezone)) `Apache-2.0` `Elixir`
-- [Guacamole](https://guacamole.apache.org) - Guacamole is a clientless remote desktop gateway. It supports standard protocols like VNC and RDP. ([Source Code](https://github.com/glyptodon/)) `Apache-2.0` `Java/C`
-- [ShellHub](https://www.shellhub.io) - ShellHub is a modern SSH server for remotely accessing linux devices via command line (using any SSH client) or web-based user interface, designed as an alternative to sshd. ([Source Code](https://github.com/shellhub-io/shellhub)) `Apache-2.0` `Go/Other`
-- [Sshwifty](https://github.com/nirui/sshwifty) - Sshwifty is a SSH and Telnet connector made for the Web. `AGPL-3.0` `Go/Docker`
-- [Warpgate](https://github.com/warp-tech/warpgate) - Smart SSH and HTTPS bastion that works with any SSH client. `Apache-2.0` `Rust/Docker`
-
-
 ### Genealogy
 
 **[`^        back to top        ^`](#)**
@@ -1663,6 +1650,19 @@ Software and tools for managing [recipes](https://en.wikipedia.org/wiki/Recipe).
 - [Mealie](https://hay-kot.github.io/mealie/) - Material design inspired recipe manager with category and tag management, shopping-lists, meal-planner, and site customizations. Mealie is focused on simple user interactions to keep the whole family using the app. ([Demo](https://mealie-demo.hay-kot.dev/), [Source Code](https://github.com/hay-kot/mealie)) `MIT` `Python`
 - [RecipeSage](https://github.com/julianpoy/recipesage) - A recipe keeper, meal plan organizer, and shopping list manager that can import recipes directly from any URL. ([Demo](https://recipesage.com)) `AGPL-3.0` `Nodejs`
 - [Tandoor Recipes](https://docs.tandoor.dev/) - Django application to manage, tag and search recipes using either built-in models or external storage providers hosting PDFs, Images or other files. ([Demo](https://app.tandoor.dev/accounts/login/?demo), [Source Code](https://github.com/vabene1111/recipes/)) `MIT` `Python`
+
+
+### Remote Access
+
+**[`^        back to top        ^`](#)**
+
+[Remote desktop](https://en.wikipedia.org/wiki/Remote_desktop_software) and [SSH](https://en.wikipedia.org/wiki/Secure_Shell) software for remote management of computer systems.
+
+- [Firezone](https://www.firezone.dev/) - Self-hosted secure remote access gateway that supports the WireGuard protocol. It offers a Web GUI, 1-line install script, multi-factor auth (MFA), and SSO. ([Source Code](https://github.com/firezone/firezone)) `Apache-2.0` `Elixir`
+- [Guacamole](https://guacamole.apache.org) - Guacamole is a clientless remote desktop gateway. It supports standard protocols like VNC and RDP. ([Source Code](https://github.com/glyptodon/)) `Apache-2.0` `Java/C`
+- [ShellHub](https://www.shellhub.io) - ShellHub is a modern SSH server for remotely accessing linux devices via command line (using any SSH client) or web-based user interface, designed as an alternative to sshd. ([Source Code](https://github.com/shellhub-io/shellhub)) `Apache-2.0` `Go/Other`
+- [Sshwifty](https://github.com/nirui/sshwifty) - Sshwifty is a SSH and Telnet connector made for the Web. `AGPL-3.0` `Go/Docker`
+- [Warpgate](https://github.com/warp-tech/warpgate) - Smart SSH and HTTPS bastion that works with any SSH client. `Apache-2.0` `Rust/Docker`
 
 
 ### Resource Planning
