@@ -50,7 +50,7 @@
 
 ### Internet of Things (IoT)
 
-- [Atman IoT](https://atman-iot.com) - Self hosted IoT gateway focused on IoT solution rapid prototyping, packaged as stand alone docker container, promising to help you build your IoT solution in a week. ([Demo](https://atman-iot.com/signup-redirect)) `⊘ Proprietary` `Nodejs`
+- [Atman IoT](https://atman-iot.com) - Self hosted IoT gateway focused on IoT solution rapid prototyping, packaged as stand alone docker container, promising to help you build your IoT solution in a week. ([Demo](https://atman-iot.com/signup-redirect/)) `⊘ Proprietary` `Nodejs`
 
 
 ### Communication - SIP
@@ -77,13 +77,13 @@
 ### Money, Budgeting & Management
 
 - [Anchor](http://theanchorapp.com/) - Invoicing system that integrates with Stripe and Paypal. Includes features such as: reporting, dashboard and no client limit. ([Demo](http://theanchorapp.com/demo/admin-login)) `⊘ Proprietary` `PHP`
-- [Manager](https://manager.io/server) - Online accounting software for small businesses. `⊘ Proprietary` `Mono`
+- [Manager](https://www.manager.io/server) - Online accounting software for small businesses. `⊘ Proprietary` `Mono`
 - [Pancake](https://www.pancakeapp.com/) - Online invoicing, project management, time tracking and proposal software. `⊘ Proprietary` `PHP`
 
 
 ### Photo and Video Galleries
 
-- [ArtVenue](https://codecanyon.net/item/artvenue-image-sharing-community-script/5771542) - Start your own photography community website, platform based on the Laravel PHP Framework. ([Demo](https://codecanyon.net/item/artvenue-image-sharing-community-script/full_screen_preview/5771542)) `⊘ Proprietary` `PHP`
+- [ArtVenue](https://codecanyon.net/item/artvenue-image-sharing-community-script/5771542) - Start your own photography community website, platform based on the Laravel PHP Framework. ([Demo](https://preview.codecanyon.net/item/artvenue-image-sharing-community-script/full_screen_preview/5771542)) `⊘ Proprietary` `PHP`
 - [Chevereto](https://chevereto.com/) - Powerful and fast image hosting script that allows you to create your very own full featured image hosting website in just minutes. ([Demo](https://demo.chevereto.com/)) `⊘ Proprietary` `PHP`
 - [Lomorage](https://lomorage.com/) - Google photo alternative via simple self-hosting software. Supported clients: iOS, Android, Web, MAC/Windows. Backend can run on Raspberry pi, Armbian, MAC/Windows/Linux. `⊘ Proprietary` `Go`
 - [PhotoStructure](https://photostructure.com/) - All your family's photos and videos automatically organized into a fun and beautiful website. Runs via Docker, NodeJS, or native desktop installers. `⊘ Proprietary` `Nodejs`
@@ -93,8 +93,8 @@
 ### Self-hosting Solutions
 
 - [Axigen](https://www.axigen.com/mail-server/free/) - Turnkey messaging solution for small & micro businesses, integration projects or test environments. `⊘ Proprietary` `Unknown`
-- [Cloudron](https://cloudron.io) - Open-core software allowing you to effortlessly self-host web apps on your server. ([Demo](https://my.demo.cloudron.io/), [Source Code](https://git.cloudron.io/groups/cloudron)) `⊘ Proprietary` `Nodejs/Docker`
-- [EmbassyOS](https://start9labs.com) - Graphical Operating System for running self-hosted, open source services. ([Source Code](https://github.com/Start9Labs/embassy-os)) `⊘ Proprietary` `Rust`
+- [Cloudron](https://www.cloudron.io/) - Open-core software allowing you to effortlessly self-host web apps on your server. ([Demo](https://my.demo.cloudron.io/), [Source Code](https://git.cloudron.io/groups/cloudron)) `⊘ Proprietary` `Nodejs/Docker`
+- [EmbassyOS](https://start9.com) - Graphical Operating System for running self-hosted, open source services. ([Source Code](https://github.com/Start9Labs/embassy-os)) `⊘ Proprietary` `Rust`
 - [hMailServer](https://www.hmailserver.com) - Open-source e-mail server for Microsoft Windows. ([Source Code](https://github.com/hmailserver/hmailserver)) `⊘ Proprietary` `C++`
 - [Poste.io](https://poste.io) - Full-featured solution for your Email server. Native implementation of last anti-SPAM methods, webmail and easy administration included. Free tier available. ([Demo](https://poste.io/demo)) `⊘ Proprietary` `Unknown`
 
@@ -106,23 +106,22 @@
 
 ### Software Development
 
-- [92five](http://92fiveapp.com/) - Self-hosted project management application. ([Source code](https://github.com/chintanbanugaria/92five)) `CC-BY-NC-4.0` `PHP`
+- [92five](https://92fiveapp.com/) - Self-hosted project management application. ([Source code](https://github.com/chintanbanugaria/92five)) `CC-BY-NC-4.0` `PHP`
 - [Bamboo](https://www.atlassian.com/software/bamboo) - Continuous integration server. `⊘ Proprietary` `Java`
-- [BitBucket Server](https://www.atlassian.com/software/bitbucket/server) - Enterprise-level Git solution similar to GitLab. `⊘ Proprietary` `Java`
+- [BitBucket Server](https://www.atlassian.com/software/bitbucket/enterprise/data-center) - Enterprise-level Git solution similar to GitLab. `⊘ Proprietary` `Java`
 - [Buddy Enterprise](https://buddy.works/) - Git and Continuous Integration/Delivery Platform. `⊘ Proprietary` `Nodejs/Java`
-- [Cloud9](https://c9.io/) - Your development environment, in the cloud. ([Source code](https://github.com/c9/core)) `⊘ Proprietary` `Nodejs`
-- [Crucible](https://www.atlassian.com/software/crucible/overview) - Peer code review application. `⊘ Proprietary` `Java`
+- [Crucible](https://www.atlassian.com/software/crucible) - Peer code review application. `⊘ Proprietary` `Java`
 - [JIRA](https://www.atlassian.com/software/jira) - Professional and extensible issue tracker. `⊘ Proprietary` `Java`
 - [Sentry Self-Hosted](https://github.com/getsentry/self-hosted) - Powerful error tracking platform with wide language support and a robust API. ([Source Code](https://github.com/getsentry/sentry)) `BUSL-1.1` `Python/Django`
 
 
 ### Software Development - Project Management
 
-- [Active Collab](https://www.activecollab.com/) - Project management. `⊘ Proprietary` `PHP`
+- [Active Collab](https://activecollab.com/) - Project management. `⊘ Proprietary` `PHP`
 - [Duet](https://duetapp.com/) - Invoicing and project management with an integrated client portal. ([Demo](https://duetapp.com/start-demo)) `⊘ Proprietary` `PHP`
 - [Kanban Tool](https://kanbantool.com/kanban-tool-on-site) - Advanced Kanban boards with time tracking. `⊘ Proprietary` `Ruby`
 - [Kantree](https://kantree.io) - Work management and collaboration. `⊘ Proprietary` `Python`
-- [Solo](http://www.getsoloapp.com/) - Free project management app created for freelancers. Create contacts, manage tasks, upload files, track project progress, and keep notes. ([Demo](http://www.getsoloapp.com/demo/)) `⊘ Proprietary` `PHP`
+- [Solo](https://www.getsoloapp.com/) - Free project management app created for freelancers. Create contacts, manage tasks, upload files, track project progress, and keep notes. ([Demo](https://www.getsoloapp.com/demo/)) `⊘ Proprietary` `PHP`
 
 
 ### Software Development - Testing
@@ -132,11 +131,10 @@
 
 ### Ticketing
 
-- [Cerb](http://www.cerberusweb.com/) - Group-based e-mail management project. ([Source Code](https://github.com/wgm/cerb)) `DPL` `PHP`
 - [Deskpro](https://www.deskpro.com/) - On-Premise helpdesk software that includes email, chat, voice & helpcentre publishing. Full visible source code and API. `⊘ Proprietary` `Unknown`
 - [Full Help](https://www.fullhelp.com/en/) - Simple, easy to use help desk & knowledge base software. Custom branding, custom themes, restful API, communication channels, multi-company support, multi-language support, and much more! At least 1 new release per month. `⊘ Proprietary` `PHP`
-- [Jitbit Helpdesk](https://www.jitbit.com/helpdesk/) - Self-hosted help desk software - simple but powerful. ([Demo](https://www.jitbit.com/hosted-helpdesk/trial/)) `⊘ Proprietary` `ASP.NET`
-- [SupportPal](https://www.supportpal.com/) - Powerful help desk software - easy, fast and intuitive. ([Demo](https://demo.supportpal.com/)) `⊘ Proprietary` `PHP`
+- [Jitbit Helpdesk](https://www.jitbit.com/helpdesk/) - Self-hosted help desk software - simple but powerful. ([Demo](https://www.jitbit.com/saas-helpdesk/trial/)) `⊘ Proprietary` `ASP.NET`
+- [SupportPal](https://www.supportpal.com/) - Powerful help desk software - easy, fast and intuitive. ([Demo](https://demo.supportpal.com/en)) `⊘ Proprietary` `PHP`
 
 
 ### Time Tracking
@@ -148,7 +146,7 @@
 ### Miscellaneous
 
  * [RemoteUtilities](https://www.remoteutilities.com/) - Remote Utilities is self-hosted remote support software for LAN administration and remote support over the Internet. `⊘ Proprietary` `Unknown`
- * [ScreenConnect](https://www.connectwise.com/software/control) - Lightning-fast remote support and remote access to connect instantly and solve problems faster. `⊘ Proprietary` `Unknown`
+ * [ScreenConnect](https://www.connectwise.com/platform/unified-management/control) - Lightning-fast remote support and remote access to connect instantly and solve problems faster. `⊘ Proprietary` `Unknown`
 
 
 <!-- END SOFTWARE LIST -->
