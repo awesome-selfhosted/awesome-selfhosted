@@ -149,7 +149,7 @@
 ### Miscellaneous
 
  * [RemoteUtilities](https://www.remoteutilities.com/) - Remote Utilities is self-hosted remote support software for LAN administration and remote support over the Internet. `⊘ Proprietary` `Unknown`
- * [ScreenConnect](https://www.screenconnect.com/) - Lightning-fast remote support and remote access to connect instantly and solve problems faster. `⊘ Proprietary` `Unknown`
+ * [ScreenConnect](https://www.connectwise.com/software/control) - Lightning-fast remote support and remote access to connect instantly and solve problems faster. `⊘ Proprietary` `Unknown`
 
 
 <!-- END SOFTWARE LIST -->
