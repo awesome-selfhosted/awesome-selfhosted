@@ -34,7 +34,7 @@
 ### File Transfer & Synchronization
 
 - [Dropcenter](http://projet.idleman.fr/login) - Upload files by simple drag-n-drop. ([Source Code](https://github.com/ldleman/dropcenter)) `CC-BY-NC-SA-3.0` `PHP`
-- [FileRun](https://www.filerun.com/) - Complete solution for your files with integration with Google and Office. ([Demo](http://www.filerun.com/demo)) `⊘ Proprietary` `PHP`
+- [FileRun](https://www.filerun.com/) - Complete solution for your files with integration with Google and Office. ([Demo](https://www.filerun.com/demo)) `⊘ Proprietary` `PHP`
 - [Resilio Sync](https://www.resilio.com/) - Proprietary peer-to-peer file synchronisation tool. `⊘ Proprietary` `Unknown`
 - [Yetishare](https://yetishare.com) - Powerful file hosting script with support for Amazon S3, Wasabi, Backblaze, local, direct and SFTP storage. ([Demo](https://fhscript.com)) `⊘ Proprietary` `PHP`
 
