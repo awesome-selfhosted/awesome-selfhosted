@@ -84,7 +84,7 @@
 
 ### Photo and Video Galleries
 
-- [ArtVenue](http://codecanyon.net/item/artvenue-image-sharing-community-script/5771542) - Start your own photography community website, platform based on the Laravel PHP Framework. ([Demo](http://codecanyon.net/item/artvenue-image-sharing-community-script/full_screen_preview/5771542)) `⊘ Proprietary` `PHP`
+- [ArtVenue](https://codecanyon.net/item/artvenue-image-sharing-community-script/5771542) - Start your own photography community website, platform based on the Laravel PHP Framework. ([Demo](https://codecanyon.net/item/artvenue-image-sharing-community-script/full_screen_preview/5771542)) `⊘ Proprietary` `PHP`
 - [Chevereto](https://chevereto.com/) - Powerful and fast image hosting script that allows you to create your very own full featured image hosting website in just minutes. ([Demo](http://demo.chevereto.com/)) `⊘ Proprietary` `PHP`
 - [Lomorage](https://lomorage.com/) - Google photo alternative via simple self-hosting software. Supported clients: iOS, Android, Web, MAC/Windows. Backend can run on Raspberry pi, Armbian, MAC/Windows/Linux. `⊘ Proprietary` `Go`
 - [PhotoStructure](https://photostructure.com/) - All your family's photos and videos automatically organized into a fun and beautiful website. Runs via Docker, NodeJS, or native desktop installers. `⊘ Proprietary` `Nodejs`
