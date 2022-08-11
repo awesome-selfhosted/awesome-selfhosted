@@ -94,7 +94,7 @@
 
 - [Axigen](https://www.axigen.com/mail-server/free/) - Turnkey messaging solution for small & micro businesses, integration projects or test environments. `⊘ Proprietary` `Unknown`
 - [Cloudron](https://www.cloudron.io/) - Open-core software allowing you to effortlessly self-host web apps on your server. ([Demo](https://my.demo.cloudron.io/), [Source Code](https://git.cloudron.io/groups/cloudron)) `⊘ Proprietary` `Nodejs/Docker`
-- [EmbassyOS](https://start9labs.com) - Graphical Operating System for running self-hosted, open source services. ([Source Code](https://github.com/Start9Labs/embassy-os)) `⊘ Proprietary` `Rust`
+- [EmbassyOS](https://start9.com) - Graphical Operating System for running self-hosted, open source services. ([Source Code](https://github.com/Start9Labs/embassy-os)) `⊘ Proprietary` `Rust`
 - [hMailServer](https://www.hmailserver.com) - Open-source e-mail server for Microsoft Windows. ([Source Code](https://github.com/hmailserver/hmailserver)) `⊘ Proprietary` `C++`
 - [Poste.io](https://poste.io) - Full-featured solution for your Email server. Native implementation of last anti-SPAM methods, webmail and easy administration included. Free tier available. ([Demo](https://poste.io/demo)) `⊘ Proprietary` `Unknown`
 
