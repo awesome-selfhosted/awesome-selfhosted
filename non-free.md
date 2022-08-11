@@ -137,7 +137,7 @@
 - [Deskpro](https://www.deskpro.com/) - On-Premise helpdesk software that includes email, chat, voice & helpcentre publishing. Full visible source code and API. `⊘ Proprietary` `Unknown`
 - [Full Help](https://www.fullhelp.com/en/) - Simple, easy to use help desk & knowledge base software. Custom branding, custom themes, restful API, communication channels, multi-company support, multi-language support, and much more! At least 1 new release per month. `⊘ Proprietary` `PHP`
 - [Jitbit Helpdesk](https://www.jitbit.com/helpdesk/) - Self-hosted help desk software - simple but powerful. ([Demo](https://www.jitbit.com/hosted-helpdesk/trial/)) `⊘ Proprietary` `ASP.NET`
-- [SupportPal](https://www.supportpal.com/) - Powerful help desk software - easy, fast and intuitive. ([Demo](http://demo.supportpal.com/)) `⊘ Proprietary` `PHP`
+- [SupportPal](https://www.supportpal.com/) - Powerful help desk software - easy, fast and intuitive. ([Demo](https://demo.supportpal.com/)) `⊘ Proprietary` `PHP`
 
 
 ### Time Tracking
