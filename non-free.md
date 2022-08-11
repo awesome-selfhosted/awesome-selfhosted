@@ -117,7 +117,7 @@
 
 ### Software Development - Project Management
 
-- [Active Collab](https://www.activecollab.com/) - Project management. `⊘ Proprietary` `PHP`
+- [Active Collab](https://activecollab.com/) - Project management. `⊘ Proprietary` `PHP`
 - [Duet](https://duetapp.com/) - Invoicing and project management with an integrated client portal. ([Demo](https://duetapp.com/start-demo)) `⊘ Proprietary` `PHP`
 - [Kanban Tool](https://kanbantool.com/kanban-tool-on-site) - Advanced Kanban boards with time tracking. `⊘ Proprietary` `Ruby`
 - [Kantree](https://kantree.io) - Work management and collaboration. `⊘ Proprietary` `Python`
