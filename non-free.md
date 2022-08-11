@@ -106,7 +106,7 @@
 
 ### Software Development
 
-- [92five](http://92fiveapp.com/) - Self-hosted project management application. ([Source code](https://github.com/chintanbanugaria/92five)) `CC-BY-NC-4.0` `PHP`
+- [92five](https://92fiveapp.com/) - Self-hosted project management application. ([Source code](https://github.com/chintanbanugaria/92five)) `CC-BY-NC-4.0` `PHP`
 - [Bamboo](https://www.atlassian.com/software/bamboo) - Continuous integration server. `⊘ Proprietary` `Java`
 - [BitBucket Server](https://www.atlassian.com/software/bitbucket/server) - Enterprise-level Git solution similar to GitLab. `⊘ Proprietary` `Java`
 - [Buddy Enterprise](https://buddy.works/) - Git and Continuous Integration/Delivery Platform. `⊘ Proprietary` `Nodejs/Java`
