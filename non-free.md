@@ -85,7 +85,7 @@
 
 - [ArtVenue](https://codecanyon.net/item/artvenue-image-sharing-community-script/5771542) - Start your own photography community website, platform based on the Laravel PHP Framework. ([Demo](https://preview.codecanyon.net/item/artvenue-image-sharing-community-script/full_screen_preview/5771542)) `⊘ Proprietary` `PHP`
 - [Chevereto](https://chevereto.com/) - Powerful and fast image hosting script that allows you to create your very own full featured image hosting website in just minutes. ([Demo](https://demo.chevereto.com/)) `⊘ Proprietary` `PHP`
-- [Lomorage](https://lomorage.com/) - Google photo alternative via simple self-hosting software. Supported clients: iOS, Android, Web, MAC/Windows. Backend can run on Raspberry pi, Armbian, MAC/Windows/Linux. `⊘ Proprietary` `Go`
+- [Lomorage](https://lomora ge.com/) - Google photo alternative via simple self-hosting software. Supported clients: iOS, Android, Web, MAC/Windows. Backend can run on Raspberry pi, Armbian, MAC/Windows/Linux. ([Source Code](https://github.com/lomorage/homepage)) `⊘ Proprietary` `Go`
 - [PhotoStructure](https://photostructure.com/) - All your family's photos and videos automatically organized into a fun and beautiful website. Runs via Docker, NodeJS, or native desktop installers. `⊘ Proprietary` `Nodejs`
 - [Reservo](https://reservo.co) - Scalable image hosting script with support for CDNs, paid account upgrades, advertising spots and drag & drop upload. ([Demo](https://demo.reservo.co/)) `⊘ Proprietary` `PHP`
 - [Single File PHP Gallery](http://sye.dk/sfpg/) - Web gallery in one single PHP file. `⊘ Proprietary` `PHP`
