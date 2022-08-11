@@ -79,7 +79,7 @@
 
 - [Anchor](http://theanchorapp.com/) - Invoicing system that integrates with Stripe and Paypal. Includes features such as: reporting, dashboard and no client limit. ([Demo](http://theanchorapp.com/demo/admin-login)) `⊘ Proprietary` `PHP`
 - [Manager](https://manager.io/server) - Online accounting software for small businesses. `⊘ Proprietary` `Mono`
-- [Pancake](http://pancakeapp.com/) - Online invoicing, project management, time tracking and proposal software. `⊘ Proprietary` `PHP`
+- [Pancake](https://www.pancakeapp.com/) - Online invoicing, project management, time tracking and proposal software. `⊘ Proprietary` `PHP`
 
 
 ### Photo and Video Galleries
