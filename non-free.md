@@ -121,7 +121,7 @@
 - [Duet](https://duetapp.com/) - Invoicing and project management with an integrated client portal. ([Demo](https://duetapp.com/start-demo)) `⊘ Proprietary` `PHP`
 - [Kanban Tool](https://kanbantool.com/kanban-tool-on-site) - Advanced Kanban boards with time tracking. `⊘ Proprietary` `Ruby`
 - [Kantree](https://kantree.io) - Work management and collaboration. `⊘ Proprietary` `Python`
-- [Solo](http://www.getsoloapp.com/) - Free project management app created for freelancers. Create contacts, manage tasks, upload files, track project progress, and keep notes. ([Demo](http://www.getsoloapp.com/demo/)) `⊘ Proprietary` `PHP`
+- [Solo](https://www.getsoloapp.com/) - Free project management app created for freelancers. Create contacts, manage tasks, upload files, track project progress, and keep notes. ([Demo](https://www.getsoloapp.com/demo/)) `⊘ Proprietary` `PHP`
 
 
 ### Software Development - Testing
