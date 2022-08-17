@@ -2012,6 +2012,8 @@ Before hosting one, please see [shortcomings](https://en.wikipedia.org/wiki/URL_
 
 A [virtual private network (VPN)](https://en.wikipedia.org/wiki/Virtual_private_network) extends a private network across a public network and enables users to send and receive data across shared or public networks as if their computing devices were directly connected to the private network.
 
+- [Dockovpn](https://dockovpn.io) - Out of the box free stateless dockerized openvpn compartible server which starts in less than 2 seconds. ([Source Code](https://github.com/dockovpn/dockovpn)) `GPL-2.0` `Shell`
+
 **Please visit [awesome-sysadmin/VPN](https://github.com/awesome-foss/awesome-sysadmin#vpn)**
 
 
