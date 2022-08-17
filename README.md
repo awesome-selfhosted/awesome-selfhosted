@@ -630,7 +630,6 @@ XMPP servers.
 
 XMPP Web clients/interfaces.
 
-- [Candy](https://candy-chat.github.io/candy/) - Multi user XMPP client written in Javascript. ([Source Code](https://github.com/candy-chat/candy)) `MIT` `Javascript`
 - [Converse.js](https://conversejs.org/) - Free and open-source XMPP chat client in your browser. ([Source Code](https://github.com/conversejs/converse.js)) `MPL-2.0` `Javascript`
 - [JSXC](https://jsxc.org) - Real-time XMPP web chat application with video calls, file transfer and encrypted communication. There are also versions for Nextcloud/Owncloud and SOGo. ([Source Code](https://github.com/jsxc/jsxc)) `MIT` `Javascript`
 - [Libervia](https://wiki.goffi.org/wiki/Libervia/en) - Web frontend from Salut à Toi. ([Source Code](https://repos.goffi.org/libervia-web)) `AGPL-3.0` `Python`
