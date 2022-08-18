@@ -91,7 +91,7 @@ See [Contributing](.github/CONTRIBUTING.md).
   - [Software Development - FaaS & Serverless](#software-development---faas--serverless)
   - [Software Development - IDE & Tools](#software-development---ide--tools)
   - [Software Development - Localization](#software-development---localization)
-  - [Software Development - Low Code]()
+  - [Software Development - Low Code](#software-development---low-code)
   - [Software Development - Project Management](#software-development---project-management)
   - [Software Development - Testing](#software-development---testing)
   - [Static Site Generators](#static-site-generators)
@@ -1745,7 +1745,7 @@ Software for easy installation, management and configuration of self-hosted serv
 
 [Software development](https://en.wikipedia.org/wiki/Software_development) is the process of conceiving, specifying, designing, programming, documenting, testing, and bug fixing involved in creating and maintaining applications, frameworks, or other software components.
 
-**Please visit [Software Development - API Management](#software-development---api-management), [Software Development - Continuous Integration & Deployment](#software-development---continuous-integration--deployment), [Software Development - FaaS & Serverless](#software-development---faas--serverless), [Software Development - IDE & Tools](#software-development---ide--tools), [Software Development - Localization](#software-development---localization), [Software Development - Project Management](#software-development---project-management), [Software Development - Testing](#software-development---testing)**
+**Please visit [Software Development - API Management](#software-development---api-management), [Software Development - Continuous Integration & Deployment](#software-development---continuous-integration--deployment), [Software Development - FaaS & Serverless](#software-development---faas--serverless), [Software Development - IDE & Tools](#software-development---ide--tools), [Software Development - Localization](#software-development---localization), [Software Development - Low Code](#software-development---low-code), [Software Development - Project Management](#software-development---project-management), [Software Development - Testing](#software-development---testing)**
 
 ### Software Development - API Management
 
