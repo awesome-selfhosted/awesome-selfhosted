@@ -1,6 +1,6 @@
 #!/usr/bin/make -f
 SHELL = /bin/bash
-AWESOME_BOT_OPTIONS = --allow-redirect --skip-save-results --allow 202 --white-list flaskbb.org,nitter.net,airsonic.github.io/docs/apps
+AWESOME_BOT_OPTIONS = --allow-redirect --request-delay 1 --skip-save-results --allow 202 --white-list flaskbb.org,nitter.net,airsonic.github.io/docs/apps
 
 all: check_all
 
@@ -21,9 +21,9 @@ check_syntax_diff:
 	awesome_bot -f temp.md $(AWESOME_BOT_OPTIONS)
 
 # check dead links
-# https://github.com/dkhamsing/awesome_bot
+# sudo apt install ruby && install --user-install awesome_bot
 awesome_bot:
-	awesome_bot -f README.md $(AWESOME_BOT_OPTIONS)
+	~/.local/share/gem/ruby/2.7.0/bin/awesome_bot -f README.md $(AWESOME_BOT_OPTIONS)
 
 # check date of last commit for github.com repository URLs
 check_github_commit_dates:
