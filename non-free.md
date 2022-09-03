@@ -53,7 +53,7 @@
 
 ## Knowledge Management Tools
 
-- [Wiznote](https://www.wiz.cn/docker) `⊘ Proprietary` - Manage your knowledge in documents with folders, markdown, full text search and webpage collection support. ([Demo](https://www.wiz.cn/), [Clients](https://www.wiz.cn/download.html)) `⚠` `English/Chinese`
+- [Wiznote](https://www.wiz.cn/docker) `⊘ Proprietary` - Manage your knowledge in documents with folders, markdown, full text search and webpage collection support. ([Demo](https://www.wiz.cn/), [Clients](https://www.wiz.cn/download.html)) `⚠` `Docker`
 
 ## Maps & GPS
 
