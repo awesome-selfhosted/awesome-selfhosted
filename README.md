@@ -33,7 +33,6 @@ See [Contributing](.github/CONTRIBUTING.md).
   - [Communication - SIP](#communication---sip)
   - [Communication - Social Networks and Forums](#communication---social-networks-and-forums)
   - [Communication - Video Conferencing](#communication---video-conferencing)
-  - [Communication - XMPP](#communication---xmpp)
   - [Communication - XMPP - Servers](#communication---xmpp---servers)
   - [Communication - XMPP - Web Clients](#communication---xmpp---web-clients)
   - [Community-Supported Agriculture (CSA)](#community-supported-agriculture-csa)
@@ -585,19 +584,11 @@ _Related: [Conference Management](#conference-management)_
 - [Wirow](https://github.com/wirow-io/wirow-server) - A full featured self-hosted video web-conferencing platform. `AGPL-3.0` `C`
 
 
-### Communication - XMPP
-
-**[`^        back to top        ^`](#)**
-
-[Extensible Messaging and Presence Protocol](https://en.wikipedia.org/wiki/XMPP) communication software.
-
-
-
 ### Communication - XMPP - Servers
 
 **[`^        back to top        ^`](#)**
 
-XMPP servers.
+[Extensible Messaging and Presence Protocol](https://en.wikipedia.org/wiki/XMPP) servers.
 
 - [ejabberd](https://www.ejabberd.im/) - XMPP instant messaging server. ([Source Code](https://github.com/processone/ejabberd)) `GPL-2.0` `Erlang`
 - [jackal](https://github.com/ortuman/jackal) - XMPP server with focus on stability, simple configuration and low resource consumption. `Apache-2.0` `Go`
@@ -613,7 +604,7 @@ XMPP servers.
 
 **[`^        back to top        ^`](#)**
 
-XMPP Web clients/interfaces.
+[Extensible Messaging and Presence Protocol](https://en.wikipedia.org/wiki/XMPP) Web clients/interfaces.
 
 - [Converse.js](https://conversejs.org/) - Free and open-source XMPP chat client in your browser. ([Source Code](https://github.com/conversejs/converse.js)) `MPL-2.0` `Javascript`
 - [JSXC](https://jsxc.org) - Real-time XMPP web chat application with video calls, file transfer and encrypted communication. There are also versions for Nextcloud/Owncloud and SOGo. ([Source Code](https://github.com/jsxc/jsxc)) `MIT` `Javascript`
