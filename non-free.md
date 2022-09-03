@@ -104,20 +104,13 @@
 - [ElasticSearch](https://www.elastic.co/elasticsearch/) - Distributed, RESTful search and analytics engine. ([Source Code](https://github.com/elastic/elasticsearch)) `SSPL-1.0` `Java`
 
 
-### Software Development
+### Software Development - Project Management
 
 - [92five](https://92fiveapp.com/) - Self-hosted project management application. ([Source code](https://github.com/chintanbanugaria/92five)) `CC-BY-NC-4.0` `PHP`
-- [Bamboo](https://www.atlassian.com/software/bamboo) - Continuous integration server. `⊘ Proprietary` `Java`
+- [Active Collab](https://activecollab.com/) - Project management. `⊘ Proprietary` `PHP`
 - [BitBucket Server](https://www.atlassian.com/software/bitbucket/enterprise/data-center) - Enterprise-level Git solution similar to GitLab. `⊘ Proprietary` `Java`
 - [Buddy Enterprise](https://buddy.works/) - Git and Continuous Integration/Delivery Platform. `⊘ Proprietary` `Nodejs/Java`
 - [Crucible](https://www.atlassian.com/software/crucible) - Peer code review application. `⊘ Proprietary` `Java`
-- [JIRA](https://www.atlassian.com/software/jira) - Professional and extensible issue tracker. `⊘ Proprietary` `Java`
-- [Sentry Self-Hosted](https://github.com/getsentry/self-hosted) - Powerful error tracking platform with wide language support and a robust API. ([Source Code](https://github.com/getsentry/sentry)) `BUSL-1.1` `Python/Django`
-
-
-### Software Development - Project Management
-
-- [Active Collab](https://activecollab.com/) - Project management. `⊘ Proprietary` `PHP`
 - [Duet](https://duetapp.com/) - Invoicing and project management with an integrated client portal. ([Demo](https://duetapp.com/start-demo)) `⊘ Proprietary` `PHP`
 - [Kanban Tool](https://kanbantool.com/kanban-tool-on-site) - Advanced Kanban boards with time tracking. `⊘ Proprietary` `Ruby`
 - [Kantree](https://kantree.io) - Work management and collaboration. `⊘ Proprietary` `Python`
@@ -126,6 +119,8 @@
 
 ### Software Development - Testing
 
+- [Bamboo](https://www.atlassian.com/software/bamboo) - Continuous integration server. `⊘ Proprietary` `Java`
+- [Sentry Self-Hosted](https://github.com/getsentry/self-hosted) - Powerful error tracking platform with wide language support and a robust API. ([Source Code](https://github.com/getsentry/sentry)) `BUSL-1.1` `Python/Django`
 - [Moon](https://aerokube.com/moon/) - Efficient Selenium protocol implementation running everything in Kubernetes or Openshift. `⊘ Proprietary` `Go`
 
 
@@ -134,6 +129,7 @@
 - [Deskpro](https://www.deskpro.com/) - On-Premise helpdesk software that includes email, chat, voice & helpcentre publishing. Full visible source code and API. `⊘ Proprietary` `Unknown`
 - [Full Help](https://www.fullhelp.com/en/) - Simple, easy to use help desk & knowledge base software. Custom branding, custom themes, restful API, communication channels, multi-company support, multi-language support, and much more! At least 1 new release per month. `⊘ Proprietary` `PHP`
 - [Jitbit Helpdesk](https://www.jitbit.com/helpdesk/) - Self-hosted help desk software - simple but powerful. ([Demo](https://www.jitbit.com/saas-helpdesk/trial/)) `⊘ Proprietary` `ASP.NET`
+- [JIRA](https://www.atlassian.com/software/jira) - Professional and extensible issue tracker. `⊘ Proprietary` `Java`
 - [SupportPal](https://www.supportpal.com/) - Powerful help desk software - easy, fast and intuitive. ([Demo](https://demo.supportpal.com/en)) `⊘ Proprietary` `PHP`
 
 
