@@ -22,7 +22,6 @@ See [Contributing](.github/CONTRIBUTING.md).
   - [Bookmarks and Link Sharing](#bookmarks-and-link-sharing)
   - [Calendar & Contacts - CalDAV or CardDAV Servers](#calendar--contacts---caldav-or-carddav-servers)
   - [Calendar & Contacts - CalDAV or CardDAV Web-based Clients](#calendar--contacts---caldav-or-carddav-web-based-clients)
-  - [Communication](#communication)
   - [Communication - Custom Communication Systems](#communication---custom-communication-systems)
   - [Communication - Email - Complete Solutions](#communication---email---complete-solutions)
   - [Communication - Email - Mail Delivery Agents](#communication---email---mail-delivery-agents)
@@ -296,19 +295,11 @@ _See also: [Comparison of CalDAV and CardDAV implementations - Wikipedia](https:
 - [InfCloud](https://www.inf-it.com/open-source/clients/infcloud/) - Open source CalDAV/CardDAV web client implementation. ([Demo](https://www.inf-it.com/infcloud/), [Source Code](https://www.inf-it.com/InfCloud_0.13.1.zip)) `AGPL-3.0` `Javascript`
 
 
-### Communication
-
-**[`^        back to top        ^`](#)**
-
-[Communication software](https://en.wikipedia.org/wiki/Communication_software) used to provide remote access to systems and exchange files and messages in text, audio and/or video formats between different computers or users.
-
-
-
 ### Communication - Custom Communication Systems
 
 **[`^        back to top        ^`](#)**
 
-Communication software using their own custom procols.
+[Communication software](https://en.wikipedia.org/wiki/Communication_software) used to provide remote access to systems and exchange files and messages in text, audio and/or video formats between different computers or users, using their own custom procols.
 
 - [BluetoothCommunicatorExample](https://github.com/niedev/BluetoothCommunicatorExample) - Bluetooth LE chat app to communicate between android devices with P2P architecture. ([Clients](https://github.com/niedev/RTranslator)) `Apache-2.0` `Java`
 - [Centrifugo](https://centrifugal.dev/) - Language-agnostic real-time messaging (Websocket or SockJS) server. ([Demo](https://github.com/centrifugal/centrifugo#demo), [Source Code](https://github.com/centrifugal/centrifugo)) `MIT` `Go`
