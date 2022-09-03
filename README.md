@@ -24,7 +24,6 @@ See [Contributing](.github/CONTRIBUTING.md).
   - [Calendar & Contacts - CalDAV or CardDAV Web-based Clients](#calendar--contacts---caldav-or-carddav-web-based-clients)
   - [Communication](#communication)
   - [Communication - Custom Communication Systems](#communication---custom-communication-systems)
-  - [Communication - Email](#communication---email)
   - [Communication - Email - Complete Solutions](#communication---email---complete-solutions)
   - [Communication - Email - Mail Delivery Agents](#communication---email---mail-delivery-agents)
   - [Communication - Email - Mail Transfer Agents](#communication---email---mail-transfer-agents)
@@ -363,19 +362,11 @@ Communication software using their own custom procols.
 - [Zulip](https://zulip.org) - Zulip is a powerful, open source group chat application. ([Source Code](https://github.com/zulip/zulip)) `Apache-2.0` `Python`
 
 
-### Communication - Email
-
-**[`^        back to top        ^`](#)**
-
-[E-mail](https://en.wikipedia.org/wiki/Email) software.
-
-
-
 ### Communication - Email - Complete Solutions
 
 **[`^        back to top        ^`](#)**
 
-Simple deployment of a mail server, e.g. for inexperienced or impatient admins.
+Simple deployment of [E-mail](https://en.wikipedia.org/wiki/Email) servers, e.g. for inexperienced or impatient admins.
 
 - [AnonAddy](https://anonaddy.com) - Open source email forwarding service for creating aliases. ([Source Code](https://github.com/anonaddy/anonaddy)) `MIT` `PHP`
 - [DebOps](https://docs.debops.org/) - Your Debian-based data center in a box. A set of general-purpose Ansible roles that can be used to manage Debian or Ubuntu hosts. ([Source Code](https://github.com/debops/debops)) `GPL-3.0-only` `YAML/Ansible/Python`
