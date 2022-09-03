@@ -63,7 +63,7 @@
 - [MapTiler Server](https://www.maptiler.com/server/) - Software for self-hosting of OpenStreetMap vector tiles, satellite imagery, own geodata and data from PostGIS database. `⊘ Proprietary` `Unknown`
 
 
-### Media Streaming
+### Media Streaming - Video Streaming
 
 - [Channels DVR Server](https://getchannels.com/dvr-server/) - Flexible server providing a whole home self hosted DVR experience for [Channels](https://getchannels.com). `⊘ Proprietary` `Unknown`
 - [Emby](https://emby.media/) - Home media server supporting both DLNA and DIAL (Chromecast) devices out-of-the-box. `⊘ Proprietary` `C#`
