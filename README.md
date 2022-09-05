@@ -1620,6 +1620,8 @@ _Related: [Booking and Scheduling](#booking-and-scheduling)_
 
 **[`^        back to top        ^`](#)**
 
+- [Awesome-ci](https://github.com/ligurio/awesome-ci) - List of Continuous Integration services.
+
 **Please visit [awesome-sysadmin/Continuous Integration & Continuous Deployment](https://github.com/awesome-foss/awesome-sysadmin#continuous-integration--continuous-deployment)**
 
 
@@ -1736,7 +1738,6 @@ _See also: [awesome-sysadmin/Code Review](https://github.com/awesome-foss/awesom
 
 **[`^        back to top        ^`](#)**
 
-- [Mega-Linter](https://megalinter.github.io/latest) - Mega-Linter can handle any type of project thanks to its 70+ embedded Linters, its advanced reporting, runnable on any CI system or locally, with assisted installation and configuration, able to apply formatting and fixes. `AGPL-3.0` `Python`
 - [SonarQube](https://www.sonarqube.org) - SonarQube is an open platform to manage code quality. ([Source Code](https://github.com/SonarSource/sonarqube)) `LGPL-3.0` `Java`
 
 

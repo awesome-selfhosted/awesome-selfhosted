@@ -121,7 +121,7 @@
   
 ### Software Development - Security & QA
 
-- [Scanmycode CE (Community Edtion)](https://www.scanmycode.io/) - Code Scanning/SAST/Static Analysis/Linting using many tools/Scanners with One Report - Scanmycode Community Edition (CE). ([Source Code](https://github.com/marcinguy/scanmycode-ce)) `BSD-3-Clause LGPL-2.1 Commonsclause` `Python`
+- [Betterscan CE (Community Edtion)](https://www.betterscan.io/) - Code Scanning/SAST/Static Analysis/Linting using many tools/Scanners with One Report - Betterscan Community Edition (CE). ([Source Code](https://github.com/marcinguy/betterscan-ce)) `BSD-3-Clause LGPL-2.1 Commonsclause` `Python`
 
 ## Ticketing
 
