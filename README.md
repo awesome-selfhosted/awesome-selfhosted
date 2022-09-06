@@ -17,6 +17,7 @@ See [Contributing](.github/CONTRIBUTING.md).
   - [Analytics](#analytics)
   - [Archiving and Digital Preservation (DP)](#archiving-and-digital-preservation-dp)
   - [Automation](#automation)
+  - [Backup](#backup)
   - [Blogging Platforms](#blogging-platforms)
   - [Booking and Scheduling](#booking-and-scheduling)
   - [Bookmarks and Link Sharing](#bookmarks-and-link-sharing)
@@ -193,6 +194,16 @@ _Related: [Internet of Things (IoT)](#internet-of-things-iot)_
 - [ydl_api_ng](https://github.com/Totonyus/ydl_api_ng) - Simple youtube-dl REST API to launch downloads on a distant server. `GPL-3.0` `Python`
 - [YoutubeDL-Material](https://github.com/Tzahi12345/YoutubeDL-Material) - Material Design inspired YouTube downloader, based on youtube-dl. Supports playlists, quality select, search, dark mode and much more, all with a clean and modern design. `MIT` `Nodejs`
 - [µTask](https://github.com/ovh/utask) - Automation engine that models and executes business processes declared in yaml. `BSD-3-Clause` `Go`
+
+
+### Backup
+
+**[`^        back to top        ^`](#)**
+
+[Backup](https://en.wikipedia.org/wiki/Backup) software.
+
+**Please visit [awesome-sysadmin/Backups](https://github.com/awesome-foss/awesome-sysadmin#backups)**
+
 
 
 ### Blogging Platforms
