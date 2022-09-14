@@ -144,6 +144,9 @@
  - [RemoteUtilities](https://www.remoteutilities.com/) - Remote Utilities is self-hosted remote support software for LAN administration and remote support over the Internet. `⊘ Proprietary` `Unknown`
  - [ScreenConnect](https://www.connectwise.com/platform/unified-management/control) - Lightning-fast remote support and remote access to connect instantly and solve problems faster. `⊘ Proprietary` `Unknown`
 
+### Note-taking & Editors
+
+- [WizNote](https://hub.docker.com/r/wiznote/wizserver) - A full platform note-taking application that supports markdown, rich text, knowledge graph and real-time collaboration. ([Demo](https://www.wiz.cn/docker.html)) `⊘ Proprietary` `mixed`
 
 <!-- END SOFTWARE LIST -->
 
