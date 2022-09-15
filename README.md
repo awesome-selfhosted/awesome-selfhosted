@@ -112,7 +112,7 @@ See [Contributing](.github/CONTRIBUTING.md).
 
 ### Analytics
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#table-of-contents)**
 
 [Analytics](https://en.wikipedia.org/wiki/Analytics) is the systematic computational analysis of data or statistics. It is used for the discovery, interpretation, and communication of meaningful patterns in data.
 
@@ -124,7 +124,7 @@ _Related: [Personal Dashboards](#personal-dashboards)_
 
 ### Archiving and Digital Preservation (DP)
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#table-of-contents)**
 
 Digital [archiving](https://en.wikipedia.org/wiki/Archival_science) and [preservation](https://en.wikipedia.org/wiki/Digital_preservation) software.
 
@@ -144,7 +144,7 @@ _Related: [Content Management Systems (CMS)](#content-management-systems-cms)_
 
 ### Automation
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#table-of-contents)**
 
 [Automation](https://en.wikipedia.org/wiki/Automation) software designed to reduce human intervention in processes.
 
@@ -198,7 +198,7 @@ _Related: [Internet of Things (IoT)](#internet-of-things-iot)_
 
 ### Backup
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#table-of-contents)**
 
 [Backup](https://en.wikipedia.org/wiki/Backup) software.
 
@@ -208,7 +208,7 @@ _Related: [Internet of Things (IoT)](#internet-of-things-iot)_
 
 ### Blogging Platforms
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#table-of-contents)**
 
 A [blog](https://en.wikipedia.org/wiki/Blog) is a discussion or informational website consisting of discrete, diary-style text entries (posts).
 
@@ -233,7 +233,7 @@ _See also: [WeblogMatrix](https://www.weblogmatrix.org/)_
 
 ### Booking and Scheduling
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#table-of-contents)**
 
 Event scheduling, reservation, and appointment management software.
 
@@ -246,7 +246,7 @@ _Related: [Polls and Events](#polls-and-events)_
 
 ### Bookmarks and Link Sharing
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#table-of-contents)**
 
 Software which allows users to add, annotate, edit, and share [bookmarks](https://en.wikipedia.org/wiki/Bookmark_(digital)) of web documents.
 
@@ -274,7 +274,7 @@ Software which allows users to add, annotate, edit, and share [bookmarks](https:
 
 ### Calendar & Contacts - CalDAV or CardDAV Servers
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#table-of-contents)**
 
 [CalDAV](https://en.wikipedia.org/wiki/CalDAV) and [CardDAV](https://en.wikipedia.org/wiki/CardDAV) protocol servers [Electronic calendar](https://en.wikipedia.org/wiki/Calendaring_software) and [address book](https://en.wikipedia.org/wiki/Address_book) and [contact management](https://en.wikipedia.org/wiki/Contact_manager).
 
@@ -296,7 +296,7 @@ _See also: [Comparison of CalDAV and CardDAV implementations - Wikipedia](https:
 
 ### Calendar & Contacts - CalDAV or CardDAV Web-based Clients
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#table-of-contents)**
 
 [CalDAV](https://en.wikipedia.org/wiki/CalDAV) and [CardDAV](https://en.wikipedia.org/wiki/CardDAV) protocol web clients/interfaces.
 
@@ -308,7 +308,7 @@ _See also: [Comparison of CalDAV and CardDAV implementations - Wikipedia](https:
 
 ### Communication - Custom Communication Systems
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#table-of-contents)**
 
 [Communication software](https://en.wikipedia.org/wiki/Communication_software) used to provide remote access to systems and exchange files and messages in text, audio and/or video formats between different computers or users, using their own custom procols.
 
@@ -365,7 +365,7 @@ _See also: [Comparison of CalDAV and CardDAV implementations - Wikipedia](https:
 
 ### Communication - Email - Complete Solutions
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#table-of-contents)**
 
 Simple deployment of [E-mail](https://en.wikipedia.org/wiki/Email) servers, e.g. for inexperienced or impatient admins.
 
@@ -391,7 +391,7 @@ Simple deployment of [E-mail](https://en.wikipedia.org/wiki/Email) servers, e.g.
 
 ### Communication - Email - Mail Delivery Agents
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#table-of-contents)**
 
 [Mail Delivery Agents](https://en.wikipedia.org/wiki/Message_delivery_agent) (MDAs) - [IMAP](https://en.wikipedia.org/wiki/Internet_Message_Access_Protocol)/[POP3](https://en.wikipedia.org/wiki/Post_Office_Protocol) server software.
 
@@ -403,7 +403,7 @@ Simple deployment of [E-mail](https://en.wikipedia.org/wiki/Email) servers, e.g.
 
 ### Communication - Email - Mail Transfer Agents
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#table-of-contents)**
 
 [Mail Transfer Agents](https://en.wikipedia.org/wiki/Message_transfer_agent) (MTAs) - [SMTP](https://en.wikipedia.org/wiki/Simple_Mail_Transfer_Protocol) servers.
 
@@ -424,7 +424,7 @@ Simple deployment of [E-mail](https://en.wikipedia.org/wiki/Email) servers, e.g.
 
 ### Communication - Email - Mailing Lists and Newsletters
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#table-of-contents)**
 
 [Mailing list](https://en.wikipedia.org/wiki/Mailing_list) servers and mass mailing software - one message to many recipients.
 
@@ -445,7 +445,7 @@ Simple deployment of [E-mail](https://en.wikipedia.org/wiki/Email) servers, e.g.
 
 ### Communication - Email - Webmail Clients
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#table-of-contents)**
 
 [Webmail](https://en.wikipedia.org/wiki/Webmail) clients.
 
@@ -461,7 +461,7 @@ Simple deployment of [E-mail](https://en.wikipedia.org/wiki/Email) servers, e.g.
 
 ### Communication - IRC
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#table-of-contents)**
 
 [IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat) communication software.
 
@@ -483,7 +483,7 @@ Simple deployment of [E-mail](https://en.wikipedia.org/wiki/Email) servers, e.g.
 
 ### Communication - SIP
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#table-of-contents)**
 
 [SIP](https://en.wikipedia.org/wiki/Session_Initiation_Protocol)/[IPBX](https://en.wikipedia.org/wiki/IP_PBX) telephony software.
 
@@ -506,7 +506,7 @@ Simple deployment of [E-mail](https://en.wikipedia.org/wiki/Email) servers, e.g.
 
 ### Communication - Social Networks and Forums
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#table-of-contents)**
 
 [Social Networking](https://en.wikipedia.org/wiki/Social_networking_service) and [Forum](https://en.wikipedia.org/wiki/Internet_forum) software.
 
@@ -571,7 +571,7 @@ Simple deployment of [E-mail](https://en.wikipedia.org/wiki/Email) servers, e.g.
 
 ### Communication - Video Conferencing
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#table-of-contents)**
 
 [Video/Web Conferencing](https://en.wikipedia.org/wiki/Web_conferencing) tools and software.
 
@@ -588,7 +588,7 @@ _Related: [Conference Management](#conference-management)_
 
 ### Communication - XMPP - Servers
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#table-of-contents)**
 
 [Extensible Messaging and Presence Protocol](https://en.wikipedia.org/wiki/XMPP) servers.
 
@@ -604,7 +604,7 @@ _Related: [Conference Management](#conference-management)_
 
 ### Communication - XMPP - Web Clients
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#table-of-contents)**
 
 [Extensible Messaging and Presence Protocol](https://en.wikipedia.org/wiki/XMPP) Web clients/interfaces.
 
@@ -616,7 +616,7 @@ _Related: [Conference Management](#conference-management)_
 
 ### Community-Supported Agriculture (CSA)
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#table-of-contents)**
 
 Management and administration tools for community supported agriculture and food cooperatives.
 
@@ -635,7 +635,7 @@ _Related: [E-commerce](#e-commerce)_
 
 ### Conference Management
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#table-of-contents)**
 
 Software for submission of [abstracts](https://en.wikipedia.org/wiki/Abstract_management) and preparation/management of academic conferences.
 
@@ -649,7 +649,7 @@ Software for submission of [abstracts](https://en.wikipedia.org/wiki/Abstract_ma
 
 ### Content Management Systems (CMS)
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#table-of-contents)**
 
 [Content Management Systems](https://en.wikipedia.org/wiki/Content_management_system) offer a practical way to setup a website with many features, using third party plugins, themes and functionality that are easy to add and customize.
 
@@ -705,7 +705,7 @@ _Related: [Blogging Platforms](#blogging-platforms), [Static Site Generators](#s
 
 ### DNS
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#table-of-contents)**
 
 [DNS](https://en.wikipedia.org/wiki/Domain_Name_System) servers and management tools.
 
@@ -721,7 +721,7 @@ _See also: [awesome-sysadmin/DNS](https://github.com/awesome-foss/awesome-sysadm
 
 ### Document Management
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#table-of-contents)**
 
 A [document management system](https://en.wikipedia.org/wiki/Document_management_system) (DMS) is a system used to receive, track, manage and store documents and reduce paper.
 
@@ -738,7 +738,7 @@ A [document management system](https://en.wikipedia.org/wiki/Document_management
 
 ### Document Management - E-books
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#table-of-contents)**
 
 [Ebook](https://en.wikipedia.org/wiki/Ebook) library management software.
 
@@ -756,7 +756,7 @@ A [document management system](https://en.wikipedia.org/wiki/Document_management
 
 ### Document Management - Institutional Repository and Digital Library Software
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#table-of-contents)**
 
 [Institutional repository](https://en.wikipedia.org/wiki/Institutional_repository) and [digital library](https://en.wikipedia.org/wiki/Digital_library) management software.
 
@@ -770,7 +770,7 @@ A [document management system](https://en.wikipedia.org/wiki/Document_management
 
 ### Document Management - Integrated Library Systems (ILS)
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#table-of-contents)**
 
 An [integrated library system](https://en.wikipedia.org/wiki/Integrated_library_system) is an enterprise resource planning system for a library, used to track items owned, orders made, bills paid, and patrons who have borrowed.
 
@@ -783,7 +783,7 @@ _Related: [Content Management Systems (CMS)](#content-management-systems-cms), [
 
 ### E-commerce
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#table-of-contents)**
 
 [E-commerce](https://en.wikipedia.org/wiki/E-commerce) software.
 
@@ -816,7 +816,7 @@ _Related: [Community-Supported Agriculture (CSA)](#community-supported-agricultu
 
 ### Federated Identity & Authentication
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#table-of-contents)**
 
 [Federated identity](https://en.wikipedia.org/wiki/Federated_identity) and [authentication](https://en.wikipedia.org/wiki/Electronic_authentication) software.
 
@@ -826,7 +826,7 @@ _Related: [Community-Supported Agriculture (CSA)](#community-supported-agricultu
 
 ### Feed Readers
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#table-of-contents)**
 
 A [news aggregator](https://en.wikipedia.org/wiki/News_aggregator), also termed a feed aggregator, feed reader, news reader, [RSS](https://en.wikipedia.org/wiki/RSS) reader, is an application that aggregates web content such as newspapers/blogs/vlogs/podcasts in one location for easy viewing.
 
@@ -862,7 +862,7 @@ A [news aggregator](https://en.wikipedia.org/wiki/News_aggregator), also termed 
 
 ### File Transfer & Synchronization
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#table-of-contents)**
 
 [File transfer](https://en.wikipedia.org/wiki/File_transfer), [sharing](https://en.wikipedia.org/wiki/File_sharing) and [synchronization software](https://en.wikipedia.org/wiki/File_synchronization) software.
 
@@ -886,7 +886,7 @@ _Related: [Groupware](#groupware)_
 
 ### File Transfer - Distributed Filesystems
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#table-of-contents)**
 
 Network distributed filesystems.
 
@@ -896,7 +896,7 @@ Network distributed filesystems.
 
 ### File Transfer - Object Storage & File Servers
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#table-of-contents)**
 
 [Object storage](https://en.wikipedia.org/wiki/Object_storage) is a computer data storage that manages data as objects, as opposed to other storage architectures like file systems which manages data as a file hierarchy, and block storage which manages data as blocks within sectors and tracks.
 
@@ -909,7 +909,7 @@ Network distributed filesystems.
 
 ### File Transfer - Peer-to-peer Filesharing
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#table-of-contents)**
 
 [Peer-to-peer file sharing](https://en.wikipedia.org/wiki/Peer-to-peer_file_sharing) is the distribution and [sharing](https://en.wikipedia.org/wiki/File_sharing) of digital media using [peer-to-peer](https://en.wikipedia.org/wiki/Peer-to-peer) (P2P) networking technology.
 
@@ -926,7 +926,7 @@ Network distributed filesystems.
 
 ### File Transfer - Single-click & Drag-n-drop Upload
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#table-of-contents)**
 
 Simplified file servers for sharing of one-time/short-lived/temporary files, providing single-click or [drag-and-drop](https://en.wikipedia.org/wiki/Drag_and_drop) updload functionality.
 
@@ -963,7 +963,7 @@ Simplified file servers for sharing of one-time/short-lived/temporary files, pro
 
 ### File Transfer - Web-based File Managers
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#table-of-contents)**
 
 Web-based [file managers](https://en.wikipedia.org/wiki/File_manager).
 
@@ -987,7 +987,7 @@ _Related: [Groupware](#groupware)_
 
 ### Games
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#table-of-contents)**
 
 Multiplayer game servers and [browser games](https://en.wikipedia.org/wiki/Browser_game).
 
@@ -1015,7 +1015,7 @@ Multiplayer game servers and [browser games](https://en.wikipedia.org/wiki/Brows
 
 ### Games - Administrative Utilities & Control Panels
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#table-of-contents)**
 
 Utilities for managing game servers.
 
@@ -1028,7 +1028,7 @@ Utilities for managing game servers.
 
 ### Genealogy
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#table-of-contents)**
 
 [Genealogy software](https://en.wikipedia.org/wiki/Genealogy_software) used to record, organize, and publish genealogical data.
 
@@ -1039,7 +1039,7 @@ Utilities for managing game servers.
 
 ### Groupware
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#table-of-contents)**
 
 Collaborative software or [groupware](https://en.wikipedia.org/wiki/Collaborative_software) is designed to help people working on a common task to attain their goals. Groupware often regroups multiple services such as file sharing, calendar/events management, address books... in a single, integrated application.
 
@@ -1063,7 +1063,7 @@ Collaborative software or [groupware](https://en.wikipedia.org/wiki/Collaborativ
 
 ### Human Resources Management (HRM)
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#table-of-contents)**
 
 A [human resources management system](https://en.wikipedia.org/wiki/Human_resource_management_system) combines a number of systems and processes to ensure the easy management of [human resources](https://en.wikipedia.org/wiki/Human_resources), business processes and data.
 
@@ -1075,7 +1075,7 @@ A [human resources management system](https://en.wikipedia.org/wiki/Human_resour
 
 ### Internet of Things (IoT)
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#table-of-contents)**
 
 [Internet of Things](https://en.wikipedia.org/wiki/Internet_of_things) describes physical objects with sensors, processing ability, software, and other technologies that connect and exchange data with other devicesover the Internet.
 
@@ -1096,7 +1096,7 @@ A [human resources management system](https://en.wikipedia.org/wiki/Human_resour
 
 ### Knowledge Management Tools
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#table-of-contents)**
 
 [Knowledge management](https://en.wikipedia.org/wiki/Knowledge_management) is the collection of methods relating to creating, sharing, using and managing the knowledge and information.
 
@@ -1109,7 +1109,7 @@ _Related: [Note-taking & Editors](#note-taking--editors), [Wikis](#wikis)_
 
 ### Learning and Courses
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#table-of-contents)**
 
 Tools and software to help with education and learning.
 
@@ -1131,7 +1131,7 @@ Tools and software to help with education and learning.
 
 ### Maps and Global Positioning System (GPS)
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#table-of-contents)**
 
 [Maps](https://en.wikipedia.org/wiki/Map), [cartography](https://en.wikipedia.org/wiki/Cartography), [GIS](https://en.wikipedia.org/wiki/Geographic_information_system) and [GPS](https://en.wikipedia.org/wiki/Global_Positioning_System) software.
 
@@ -1157,7 +1157,7 @@ _See also: [awesome-openstreetmap](https://github.com/osmlab/awesome-openstreetm
 
 ### Media Streaming
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#table-of-contents)**
 
 [Streaming media](https://en.wikipedia.org/wiki/Streaming_media) is multimedia that is delivered and consumed in a continuous manner from a source, with little or no intermediate storage in network elements.
 
@@ -1169,7 +1169,7 @@ _See also: [List of streaming media systems - Wikipedia](https://en.wikipedia.or
 
 ### Media Streaming - Audio Streaming
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#table-of-contents)**
 
 [Audio](https://en.wikipedia.org/wiki/Audio) streaming tools and software.
 
@@ -1208,7 +1208,7 @@ _See also: [List of streaming media systems - Wikipedia](https://en.wikipedia.or
 
 ### Media Streaming - Multimedia Streaming
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#table-of-contents)**
 
 [Multimedia](https://en.wikipedia.org/wiki/Multimedia) streaming tools and software.
 
@@ -1232,7 +1232,7 @@ _See also: [List of streaming media systems - Wikipedia](https://en.wikipedia.or
 
 ### Media Streaming - Video Streaming
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#table-of-contents)**
 
 [Video](https://en.wikipedia.org/wiki/Video) streaming tools and software.
 
@@ -1262,7 +1262,7 @@ _See also: [List of streaming media systems - Wikipedia](https://en.wikipedia.or
 
 ### Miscellaneous
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#table-of-contents)**
 
 Software that does not fit in another section.
 
@@ -1328,7 +1328,7 @@ Software that does not fit in another section.
 
 ### Money, Budgeting & Management
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#table-of-contents)**
 
 [Money management](https://en.wikipedia.org/wiki/Money_management) and budgeting sofware and tools.
 
@@ -1368,7 +1368,7 @@ _See also: [awesome-sysadmin/IT Asset Management](https://github.com/awesome-fos
 
 ### Monitoring
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#table-of-contents)**
 
 Software for [monitoring](https://en.wikipedia.org/wiki/Monitoring#Computing) systems, networks, applications and websites. 
 
@@ -1378,7 +1378,7 @@ Software for [monitoring](https://en.wikipedia.org/wiki/Monitoring#Computing) sy
 
 ### Note-taking & Editors
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#table-of-contents)**
 
 [Note taking](https://en.wikipedia.org/wiki/Note-taking) editors.
 
@@ -1415,7 +1415,7 @@ _Related: [Wikis](#wikis)_
 
 ### Office Suites
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#table-of-contents)**
 
 An [office suite](https://en.wikipedia.org/wiki/List_of_office_suites) is a collection of productivity software usually containing at least a word processor, spreadsheet and a presentation program.
 
@@ -1433,7 +1433,7 @@ An [office suite](https://en.wikipedia.org/wiki/List_of_office_suites) is a coll
 
 ### Password Managers
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#table-of-contents)**
 
 A [password manager](https://en.wikipedia.org/wiki/Password_manager) allows users to store, generate, and manage their passwords for local applications and online services.
 
@@ -1454,7 +1454,7 @@ A [password manager](https://en.wikipedia.org/wiki/Password_manager) allows user
 
 ### Pastebins
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#table-of-contents)**
 
 A [pastebin](https://en.wikipedia.org/wiki/Pastebin) is a type of online content-hosting service used for sharing and storing code and text.
 
@@ -1501,7 +1501,7 @@ A [pastebin](https://en.wikipedia.org/wiki/Pastebin) is a type of online content
 
 ### Personal Dashboards
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#table-of-contents)**
 
 Dashboards for accessing information and applications.
 
@@ -1531,7 +1531,7 @@ _Related: [Monitoring](#monitoring), [Bookmarks and Link Sharing](#bookmarks-and
 
 ### Photo and Video Galleries
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#table-of-contents)**
 
 A [gallery](https://en.wikipedia.org/wiki/Gallery_Software) is software that helps the user publish or share photos, pictures, videos or other digital media.
 
@@ -1566,7 +1566,7 @@ A [gallery](https://en.wikipedia.org/wiki/Gallery_Software) is software that hel
 
 ### Polls and Events
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#table-of-contents)**
 
 Software for organising [polls](https://en.wikipedia.org/wiki/Opinion_poll) and [events](https://en.wikipedia.org/wiki/Event).
 
@@ -1592,7 +1592,7 @@ _Related: [Booking and Scheduling](#booking-and-scheduling)_
 
 ### Proxy
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#table-of-contents)**
 
 A [proxy](https://en.wikipedia.org/wiki/Proxy_server) is a server application that acts as an intermediary between a client requesting a resource and the server providing that resource.
 
@@ -1618,7 +1618,7 @@ A [proxy](https://en.wikipedia.org/wiki/Proxy_server) is a server application th
 
 ### Recipe Management
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#table-of-contents)**
 
 Software and tools for managing [recipes](https://en.wikipedia.org/wiki/Recipe).
 
@@ -1631,7 +1631,7 @@ Software and tools for managing [recipes](https://en.wikipedia.org/wiki/Recipe).
 
 ### Remote Access
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#table-of-contents)**
 
 [Remote desktop](https://en.wikipedia.org/wiki/Remote_desktop_software) and [SSH](https://en.wikipedia.org/wiki/Secure_Shell) software for remote management of computer systems.
 
@@ -1644,7 +1644,7 @@ Software and tools for managing [recipes](https://en.wikipedia.org/wiki/Recipe).
 
 ### Resource Planning
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#table-of-contents)**
 
 Software and tools to help with [resource and supply planning](https://en.wikipedia.org/wiki/Resource_planning).
 
@@ -1655,7 +1655,7 @@ Software and tools to help with [resource and supply planning](https://en.wikipe
 
 ### Resource Planning - Enterprise Resource Planning
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#table-of-contents)**
 
 Software and tools to help with [enterprise resource and supply planning](https://en.wikipedia.org/wiki/Enterprise_resource_planning).
 
@@ -1669,7 +1669,7 @@ Software and tools to help with [enterprise resource and supply planning](https:
 
 ### Search Engines
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#table-of-contents)**
 
 A [search engine](https://en.wikipedia.org/wiki/Search_engine_(computing)) is an [information retrieval system](https://en.wikipedia.org/wiki/Information_retrieval) designed to help find information stored on a computer system. This includes [Web search engines](https://en.wikipedia.org/wiki/Web_search_engine).
 
@@ -1690,7 +1690,7 @@ A [search engine](https://en.wikipedia.org/wiki/Search_engine_(computing)) is an
 
 ### Self-hosting Solutions
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#table-of-contents)**
 
 Software for easy installation, management and configuration of self-hosted services and applications.
 
@@ -1718,7 +1718,7 @@ Software for easy installation, management and configuration of self-hosted serv
 
 ### Software Development
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#table-of-contents)**
 
 [Software development](https://en.wikipedia.org/wiki/Software_development) is the process of conceiving, specifying, designing, programming, documenting, testing, and bug fixing involved in creating and maintaining applications, frameworks, or other software components.
 
@@ -1726,7 +1726,7 @@ Software for easy installation, management and configuration of self-hosted serv
 
 ### Software Development - API Management
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#table-of-contents)**
 
 [API management](https://en.wikipedia.org/wiki/API_management) is the process of creating and publishing [application programming interfaces (APIs)](https://en.wikipedia.org/wiki/API), enforcing their usage policies, controlling access, nurturing the subscriber community, collecting and analyzing usage statistics, and reporting on performance. 
 
@@ -1745,7 +1745,7 @@ Software for easy installation, management and configuration of self-hosted serv
 
 ### Software Development - Continuous Integration & Deployment
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#table-of-contents)**
 
 [Continuous integration](https://en.wikipedia.org/wiki/Continuous_integration) and [Continuous deployment](https://en.wikipedia.org/wiki/Continuous_deployment) software and tools.
 
@@ -1755,7 +1755,7 @@ Software for easy installation, management and configuration of self-hosted serv
 
 ### Software Development - FaaS & Serverless
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#table-of-contents)**
 
 [Serverless computing - Wikipedia](https://en.wikipedia.org/wiki/Serverless_computing).
 
@@ -1769,7 +1769,7 @@ Software for easy installation, management and configuration of self-hosted serv
 
 ### Software Development - IDE & Tools
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#table-of-contents)**
 
 An [integrated development environment (IDE)](https://en.wikipedia.org/wiki/Integrated_development_environment) is a software application that provides comprehensive facilities to computer programmers for software development.
 
@@ -1796,7 +1796,7 @@ An [integrated development environment (IDE)](https://en.wikipedia.org/wiki/Inte
 
 ### Software Development - Localization
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#table-of-contents)**
 
 [Localization](https://en.wikipedia.org/wiki/Internationalization_and_localization) is the proccess of adapting code and software to other languages.
 
@@ -1810,7 +1810,7 @@ An [integrated development environment (IDE)](https://en.wikipedia.org/wiki/Inte
 
 ### Software Development - Project Management
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#table-of-contents)**
 
 Tools and software for [software project management](https://en.wikipedia.org/wiki/Software_project_management).
 
@@ -1856,7 +1856,7 @@ _See also: [awesome-sysadmin/Code Review](https://github.com/awesome-foss/awesom
 
 ### Software Development - Testing
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#table-of-contents)**
 
 Tools and software for [software testing](https://en.wikipedia.org/wiki/Software_testing).
 
@@ -1869,7 +1869,7 @@ Tools and software for [software testing](https://en.wikipedia.org/wiki/Software
 
 ### Static Site Generators
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#table-of-contents)**
 
 [Static site generators](https://en.wikipedia.org/wiki/Web_template_system#Static_site_generators) generate full static HTML websites based on raw data, plain text files and a set of templates. 
 
@@ -1878,7 +1878,7 @@ Tools and software for [software testing](https://en.wikipedia.org/wiki/Software
 
 ### Status / Uptime pages
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#table-of-contents)**
 
 [Uptime](https://en.wikipedia.org/wiki/Uptime) is a measure of system reliability, expressed as the percentage of time a machine, typically a computer, has been working and available. 
 
@@ -1893,7 +1893,7 @@ _Related: [Monitoring](#monitoring)_
 
 ### Task Management & To-do Lists
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#table-of-contents)**
 
 [Task management](https://en.wikipedia.org/wiki/Task_management#Task_management_software) software.
 
@@ -1921,7 +1921,7 @@ _Related: [Software Development - Project Management](#software-development---pr
 
 ### Ticketing
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#table-of-contents)**
 
 [Helpdesk](https://en.wikipedia.org/wiki/Help_desk_software), [bug](https://en.wikipedia.org/wiki/Bug_tracking_system) and [issue](https://en.wikipedia.org/wiki/Issue_tracking_system) tracking software to help the tracking of user requests, bugs and missing features.
 
@@ -1949,7 +1949,7 @@ _Related: [Task Management & To-do Lists](#task-management--to-do-lists), [Softw
 
 ### Time Tracking
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#table-of-contents)**
 
 [Time-tracking software](https://en.wikipedia.org/wiki/Time-tracking_software) is a category of computer software that allows its employees to record time spent on tasks or projects.
 
@@ -1960,7 +1960,7 @@ _Related: [Task Management & To-do Lists](#task-management--to-do-lists), [Softw
 
 ### URL Shorteners
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#table-of-contents)**
 
 [URL shortening](https://en.wikipedia.org/wiki/URL_shortening) is the action of shortening a [URL](https://en.wikipedia.org/wiki/Uniform_Resource_Locator) to make it substantially shorter and still direct to the required page.
 
@@ -1983,7 +1983,7 @@ Before hosting one, please see [shortcomings](https://en.wikipedia.org/wiki/URL_
 
 ### VPN
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#table-of-contents)**
 
 A [virtual private network (VPN)](https://en.wikipedia.org/wiki/Virtual_private_network) extends a private network across a public network and enables users to send and receive data across shared or public networks as if their computing devices were directly connected to the private network.
 
@@ -1993,7 +1993,7 @@ A [virtual private network (VPN)](https://en.wikipedia.org/wiki/Virtual_private_
 
 ### Web Servers
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#table-of-contents)**
 
 A [web server](https://en.wikipedia.org/wiki/Web_server) is a piece of software and underlying hardware that accepts requests via [HTTP](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol) (the network protocol created to distribute web content) or its secure variant [HTTPS](https://en.wikipedia.org/wiki/HTTPSs). 
 
@@ -2003,7 +2003,7 @@ A [web server](https://en.wikipedia.org/wiki/Web_server) is a piece of software 
 
 ### Wikis
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#table-of-contents)**
 
 A [wiki](https://en.wikipedia.org/wiki/Wiki) is a publication collaboratively edited and managed by its own audience directly using a web browser.
 
@@ -2043,7 +2043,7 @@ _See also: [Wikimatrix](https://www.wikimatrix.org/), [Wiki Engines - WikiIndex]
 
 ## List of Licenses
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#table-of-contents)**
 
 - `0BSD` - [BSD Zero-Clause Licence](https://opensource.org/licenses/0BSD)
 - `AAL` - [Attribution Assurance License](https://opensource.org/licenses/AAL)
@@ -2108,7 +2108,7 @@ _See also: [Wikimatrix](https://www.wikimatrix.org/), [Wiki Engines - WikiIndex]
 
 ## External Links
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#table-of-contents)**
 
 - [Awesome Big Data](https://github.com/0xnr/awesome-bigdata) - Curated list of awesome big data frameworks, resources and other awesomeness.
 - [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets) - List of high quality, topic-centric public data sources.
