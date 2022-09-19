@@ -17,6 +17,9 @@
 - [PrivMX WebMail](https://privmx.com) - Alternative private mail system - web-based, end-to-end encrypted by design, self-hosted, decentralized, uses independent PKI. Easy to install and administrate, freeware, open-source. `⊘ Proprietary` `PHP`
 - [WorkAdventure](https://workadventu.re) - Virtual office / virtual conference application presented as a 16-bit RPG video game. ([Demo](https://play.staging.workadventu.re/@/tcm/workadventure/wa-village), [Source Code](https://github.com/thecodingmachine/workadventure/)) `AGPL-3.0/Commons-Clause` `Docker`
 
+## Knowledge Management Tools
+
+- [Wiznote](https://www.wiz.cn/docker) - Manage your knowledge in documents with folders, markdown, full text search and webpage collection support. ([Demo](https://www.wiz.cn/), [Clients](https://www.wiz.cn/download.html)) `⊘ Proprietary` `Docker`
 
 ### Content Management Systems (CMS)
 
