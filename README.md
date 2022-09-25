@@ -395,6 +395,7 @@ Simple deployment of [E-mail](https://en.wikipedia.org/wiki/Email) servers, e.g.
 - [Dovecot](https://www.dovecot.org/) - IMAP and POP3 server written primarily with security in mind. ([Source Code](https://github.com/dovecot/core)) `MIT/LGPL-2.1` `C`
 - [MailForm](https://github.com/Feuerhamster/mailform) - Lightweight self-hosted open source alternative to Formspree and SendGrid. `Apache-2.0` `Nodejs`
 - [Piler](https://www.mailpiler.org/wiki/start) - Feature-rich open source email archiving solution. ([Source Code](https://bitbucket.org/jsuto/piler)) `GPL-3.0` `C`
+- [Stalwart JMAP](https://stalw.art/jmap) - JMAP and IMAP server designed to be secure, fast, robust and scalable. ([Source Code](https://github.com/stalwartlabs/jmap-server)) `AGPL-3.0` `Rust`
 
 
 ### Communication - Email - Mail Transfer Agents
