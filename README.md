@@ -1817,6 +1817,7 @@ An [integrated development environment (IDE)](https://en.wikipedia.org/wiki/Inte
 - [Tolgee](https://tolgee.io) - Developer & translator friendly web-based localization platform enabling users to translate directly in the app they develop. ([Source Code](https://github.com/tolgee/server)) `Apache-2.0` `Docker/Java`
 - [Traduora](https://traduora.co) - Translation management platform for teams. ([Source Code](https://github.com/ever-co/ever-traduora)) `AGPL-3.0` `Docker/Nodejs`
 - [Weblate](https://weblate.org) - Web-based translation tool with tight version control integration. ([Demo](https://demo.weblate.org), [Source Code](https://github.com/WeblateOrg/weblate)) `GPL-3.0` `Python`
+- [Dictpress](https://dict.press) - Dictpress is a free and open source, single binary webserver application for building and publishing fast, searchable dictionaries for any language. ([Demo](https://alar.ink), [Source Code](https://github.com/knadh/dictpress)) `AGPL-3.0` `Go`
 
 
 ### Software Development - Low Code
