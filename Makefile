@@ -21,7 +21,7 @@ check_syntax_diff:
 	awesome_bot -f temp.md $(AWESOME_BOT_OPTIONS)
 
 # check dead links
-# sudo apt install ruby && install --user-install awesome_bot
+# requiements: sudo apt install ruby && gem install --user-install awesome_bot
 awesome_bot:
 	~/.local/share/gem/ruby/2.7.0/bin/awesome_bot -f README.md $(AWESOME_BOT_OPTIONS)
 
