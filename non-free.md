@@ -111,6 +111,7 @@
 
 - [92five](http://92fiveapp.com/) `⊘ Proprietary` - Self hosted project management application ([Source code](https://github.com/chintanbanugaria/92five)) `CC-BY-NC-4.0` `PHP`
 - [Bamboo](https://www.atlassian.com/software/bamboo) `⊘ Proprietary` - A continuous integration server `Java`
+- [Betterscan CE (Community Edtion)](https://www.betterscan.io/) - Code Scanning/SAST/Static Analysis/Linting using many tools/Scanners with One Report - Betterscan Community Edition (CE). ([Source Code](https://github.com/marcinguy/betterscan-ce)) `BSD-3-Clause LGPL-2.1 Commonsclause` `Python`
 - [Buddy Enterprise](https://buddy.works/) - The Git and Continuous Integration / Delivery Platform. `⊘ Proprietary` `Nodejs/Java`
 - [Cloud9](https://c9.io/) `⊘ Proprietary` - Your development environment, in the cloud ([Source code](https://github.com/c9/core)) `Nodejs`
 - [Crucible](https://www.atlassian.com/software/crucible/overview) `⊘ Proprietary` - A peer code review application `Java`
@@ -119,10 +120,6 @@
 - [RhodeCode](https://rhodecode.com) `⊘ Proprietary` - On-premise Source Code Management for Mercurial, Git & Subversion. `Python`
 - [BitBucket Server](https://www.atlassian.com/software/bitbucket/server) `⊘ Proprietary` - An enterprise-level Git solution similar to GitLab `Java`
   
-### Software Development - Security & QA
-
-- [Betterscan CE (Community Edtion)](https://www.betterscan.io/) - Code Scanning/SAST/Static Analysis/Linting using many tools/Scanners with One Report - Betterscan Community Edition (CE). ([Source Code](https://github.com/marcinguy/betterscan-ce)) `BSD-3-Clause LGPL-2.1 Commonsclause` `Python`
-
 ## Ticketing
 
 - [Deskpro](https://www.deskpro.com/) `⊘ Proprietary` - On-Premise helpdesk software that includes email, chat, voice & helpcentre publishing. Full visible source code and API.

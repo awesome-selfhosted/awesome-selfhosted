@@ -1734,13 +1734,6 @@ _See also: [awesome-sysadmin/Code Review](https://github.com/awesome-foss/awesom
 - [UVDesk](https://www.uvdesk.com/) - UVDesk community is a service oriented, event driven extensible opensource helpdesk system that can be used by your organization to provide efficient support to your clients effortlessly whichever way you imagine. ([Demo](https://demo.uvdesk.com/), [Source Code](https://github.com/uvdesk/community-skeleton)) `MIT` `PHP`
 - [ZenTao](https://www.zentao.pm/) - An agile(scrum) project management system/tool. ([Demo](https://demo.zentao.pm/user-login.html), [Source Code](https://github.com/easysoft/zentaopms)) `ZPL-1.2` `PHP`
 
-### Software Development - Security & QA
-
-**[`^        back to top        ^`](#)**
-
-- [SonarQube](https://www.sonarqube.org) - SonarQube is an open platform to manage code quality. ([Source Code](https://github.com/SonarSource/sonarqube)) `LGPL-3.0` `Java`
-
-
 ### Software Development - UX Testing
 
 **[`^        back to top        ^`](#)**
