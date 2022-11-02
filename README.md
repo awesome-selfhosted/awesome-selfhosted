@@ -87,11 +87,14 @@ See [Contributing](.github/CONTRIBUTING.md).
   - [Self-hosting Solutions](#self-hosting-solutions)
   - [Software Development](#software-development)
   - [Software Development - API Management](#software-development---api-management)
+  - [Software Development - Bug Trackers](#software-development---bug-trackers)
+  - [Software Development - Continuous Integration & Deployment](#software-development---continuous-integration--deployment)
   - [Software Development - Documentation Generators](#software-development---documentation-generators)
   - [Software Development - FaaS & Serverless](#software-development---faas--serverless)
   - [Software Development - IDE & Tools](#software-development---ide--tools)
   - [Software Development - Localization](#software-development---localization)
   - [Software Development - Project Management](#software-development---project-management)
+  - [Software Development - Security & QA](#software-development---security--qa)
   - [Software Development - UX Testing](#software-development---ux-testing)
   - [Static Site Generators](#static-site-generators)
   - [Status / Uptime pages](#status--uptime-pages)
@@ -1606,6 +1609,22 @@ _Related: [Booking and Scheduling](#booking-and-scheduling)_
 - [Tyk](https://tyk.io) - Fast and scalable open source API Gateway. Out of the box, Tyk offers an API Management Platform with an API Gateway, API Analytics, Developer Portal and API Management Dashboard. ([Source Code](https://github.com/TykTechnologies/tyk)) `MPL-2.0` `Go`
 
 
+### Software Development - Bug Trackers
+
+**[`^        back to top        ^`](#)**
+
+**Please visit [Ticketing](#ticketing)**
+
+
+### Software Development - Continuous Integration & Deployment
+
+**[`^        back to top        ^`](#)**
+
+- [Awesome-ci](https://github.com/ligurio/awesome-ci) - List of Continuous Integration services.
+
+**Please visit [awesome-sysadmin/Continuous Integration & Continuous Deployment](https://github.com/awesome-foss/awesome-sysadmin#continuous-integration--continuous-deployment)**
+
+
 ### Software Development - Documentation Generators
 
 **[`^        back to top        ^`](#)**
@@ -1714,7 +1733,6 @@ _See also: [awesome-sysadmin/Code Review](https://github.com/awesome-foss/awesom
 - [Tuleap](https://www.tuleap.org/) - Tuleap is a libre suite to plan, track, code and collaborate on software projects. ([Source Code](https://tuleap.net/plugins/git/tuleap/tuleap/stable?p=tuleap%2Fstable.git&a=tree)) `GPL-2.0` `PHP`
 - [UVDesk](https://www.uvdesk.com/) - UVDesk community is a service oriented, event driven extensible opensource helpdesk system that can be used by your organization to provide efficient support to your clients effortlessly whichever way you imagine. ([Demo](https://demo.uvdesk.com/), [Source Code](https://github.com/uvdesk/community-skeleton)) `MIT` `PHP`
 - [ZenTao](https://www.zentao.pm/) - An agile(scrum) project management system/tool. ([Demo](https://demo.zentao.pm/user-login.html), [Source Code](https://github.com/easysoft/zentaopms)) `ZPL-1.2` `PHP`
-
 
 ### Software Development - UX Testing
 
