@@ -1481,6 +1481,7 @@ A [pastebin](https://en.wikipedia.org/wiki/Pastebin) is a type of online content
 - [mojopaste](https://metacpan.org/dist/App-mojopaste) - Perl based pastebin. ([Demo](https://p.thorsen.pm/), [Source Code](https://github.com/jhthorsen/app-mojopaste)) `Artistic-2.0` `Perl`
 - [MokinToken](https://github.com/nexus-uw/mokintoken) - Clientside encrypted pastebin using tweetnacl. `Unlicense` `PHP`
 - [paaster](https://paaster.io) - Paaster is a secure by default end-to-end encrypted pastebin built with the objective of simplicity. ([Source Code](https://github.com/WardPearce/paaster)) `GPL-3.0` `Docker`
+- [Password Pusher](https://pwpush.com) - A dead-simple application to securely communicate passwords (or text) over the web. Passwords automatically expire after a certain number of views and/or time has passed. ([Source Code](https://github.com/pglombardo/PasswordPusher)) `GPL-3.0` `Docker`
 - [Paste](https://phpaste.sourceforge.io/) - Paste is forked from the original source pastebin.com used before it was bought. ([Source Code](https://github.com/jordansamuel/PASTE)) `GPL-3.0` `PHP`
 - [Pastefy](https://pastefy.ga) - Beautiful, simple and easy to deploy Pastebin with optional Client-Encryption, Multitab-Pastes, an API, a highlighted Editor and more. ([Source Code](https://github.com/interaapps/pastefy), [Clients](https://github.com/topics/pastefy-addon)) `MIT` `Java`
 - [Pastila](https://pastila.nl/) - Minimalistic paste service. Single page, zero click experience. ([Source Code](https://github.com/ClickHouse/pastila)) `Apache-2.0` `SQL`
