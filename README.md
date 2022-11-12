@@ -1917,6 +1917,8 @@ _Related: [Monitoring](#monitoring)_
 - [Gatus](https://github.com/TwiN/gatus) - Automated service health dashboard. ([Demo](https://status.twin.sh)) `Apache-2.0` `Docker`
 - [Uptime Kuma](https://github.com/louislam/uptime-kuma) - Self-hosted website monitoring tool like "Uptime Robot". ([Demo](https://demo.uptime.kuma.pet)) `MIT` `Nodejs`
 - [Vigil](https://crates.io/crates/vigil-server) - Microservices Status Page. Monitors a distributed infrastructure and sends alerts (Slack, SMS, etc.). ([Demo](https://status.crisp.chat/), [Source Code](https://github.com/valeriansaliou/vigil)) `MPL-2.0` `Rust/Docker`
+- [Uptime.do](https://uptime.do) - Uptime Monitoring & Status Pages. Simple and reliable availability and performance monitoring solution with
+highly customizable and fast status pages. ([Demo](https://dash.uptime.do/s/example) `SaaS` `PHP`
 
 
 ### Task Management & To-do Lists
