@@ -73,10 +73,6 @@
 - [Plex](https://www.plex.tv/) - Centralized home media playback system with a powerful central server. `⊘ Proprietary` `Unknown`
 - [Subsonic](http://www.subsonic.org/pages/index.jsp) - Web-based media streamer and jukebox. ([Demo](http://demo.subsonic.org/j_acegi_security_check?j_username=guest4&j_password=guest&_acegi_security_remember_me=check)) `⊘ Proprietary` `Unknown`
 
-### Miscellaneous
-
-- [OpenSpeedTest](https://github.com/openspeedtest/Speed-Test) - Pure HTML5 network performance estimation tool. `CC-BY-ND-3.0` `Docker`
-
 ### Money, Budgeting & Management
 
 - [Anchor](http://theanchorapp.com/) - Invoicing system that integrates with Stripe and Paypal. Includes features such as: reporting, dashboard and no client limit. ([Demo](http://theanchorapp.com/demo/admin-login)) `⊘ Proprietary` `PHP`
@@ -160,8 +156,8 @@
 
 - `BUSL-1.1` - [Business Source License 1.1](https://spdx.org/licenses/BUSL-1.1.html)
 - `CC-BY-NC-SA-3.0` - [Creative Commons Attribution-NonCommercial-ShareAlike License 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
-- `CC-BY-NC-4.0` - [Creative Commons Attribution-NonCommercial License 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
 - `CC-BY-ND-3.0` - [Creative Commons Attribution-NoDerivs Unported License 3.0](https://creativecommons.org/licenses/by-nd/3.0/)
+- `CC-BY-NC-4.0` - [Creative Commons Attribution-NonCommercial License 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
 - `Commons-Clause` - [Commons Clause License](https://commonsclause.com/)
 - `DPL` - [Devblocks Public License 1.0](https://cerb.ai/license/)
 - `SSPL-1.0` - [Server Side Public License](https://spdx.org/licenses/SSPL-1.0.html)
