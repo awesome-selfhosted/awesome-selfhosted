@@ -55,6 +55,7 @@
 
 - [Atman IoT](https://atman-iot.com) - Self hosted IoT gateway focused on IoT solution rapid prototyping, packaged as stand alone docker container, promising to help you build your IoT solution in a week. ([Demo](https://atman-iot.com/signup-redirect/)) `⊘ Proprietary` `Nodejs`
 
+- [Electric UI](https://electricui.com/features) - A series of tools for building user interfaces for hardware devices, focused on low-latency local connections. Includes an MIT licensed binary protocol and a WebGL backed charting engine. Free for students. `⊘ Proprietary` `C + TypeScript`
 
 ### Communication - SIP
 
