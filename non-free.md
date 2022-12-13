@@ -17,15 +17,17 @@
 - [PrivMX WebMail](https://privmx.com) - Alternative private mail system - web-based, end-to-end encrypted by design, self-hosted, decentralized, uses independent PKI. Easy to install and administrate, freeware, open-source. `⊘ Proprietary` `PHP`
 - [WorkAdventure](https://workadventu.re) - Virtual office / virtual conference application presented as a 16-bit RPG video game. ([Demo](https://play.staging.workadventu.re/@/tcm/workadventure/wa-village), [Source Code](https://github.com/thecodingmachine/workadventure/)) `AGPL-3.0/Commons-Clause` `Docker`
 
-### Knowledge Management Tools
-
-- [Wiznote](https://www.wiz.cn/docker) - Manage your knowledge in documents with folders, markdown, full text search and webpage collection support. ([Demo](https://www.wiz.cn/), [Clients](https://www.wiz.cn/download.html)) `⊘ Proprietary` `Docker`
 
 ### Content Management Systems (CMS)
 
 - [CraftCMS](https://craftcms.com/) - Content-first CMS that aims to make life enjoyable for developers and content managers alike. ([Demo](https://craftcms.com/demo), [Source Code](https://github.com/craftcms/cms)) `⊘ Proprietary` `PHP`
 - [Kirby](https://getkirby.com/) - File-based CMS. Easy to setup. Easy to use. Flexible as hell. ([Source Code](https://github.com/getkirby/kirby)) `⊘ Proprietary` `PHP`
 - [october](https://octobercms.com/) - Self-hosted CMS platform based on the Laravel PHP Framework. ([Source Code](https://github.com/octobercms/october)) `⊘ Proprietary` `PHP`
+
+
+### Communication - SIP
+
+- [3CX](https://www.3cx.com/pbx/) - Full-featured PABX system, with call queues, built-in web conferencing, live chat and social media messaging all on one system. `⊘ Proprietary` `Unknown`
 
 
 ### Document Management - E-books
@@ -56,9 +58,9 @@
 - [Atman IoT](https://atman-iot.com) - Self hosted IoT gateway focused on IoT solution rapid prototyping, packaged as stand alone docker container, promising to help you build your IoT solution in a week. ([Demo](https://atman-iot.com/signup-redirect/)) `⊘ Proprietary` `Nodejs`
 
 
-### Communication - SIP
+### Knowledge Management Tools
 
-- [3CX](https://www.3cx.com/pbx/) - Full-featured PABX system, with call queues, built-in web conferencing, live chat and social media messaging all on one system. `⊘ Proprietary` `Unknown`
+- [Wiznote](https://www.wiz.cn/docker) - Manage your knowledge in documents with folders, markdown, full text search and webpage collection support. ([Demo](https://www.wiz.cn/), [Clients](https://www.wiz.cn/download.html)) `⊘ Proprietary` `Docker`
 
 
 ### Maps and Global Positioning System (GPS)
@@ -88,6 +90,7 @@
 - [PhotoStructure](https://photostructure.com/) - All your family's photos and videos automatically organized into a fun and beautiful website. Runs via Docker, NodeJS, or native desktop installers. `⊘ Proprietary` `Nodejs`
 - [Reservo](https://reservo.co) - Scalable image hosting script with support for CDNs, paid account upgrades, advertising spots and drag & drop upload. ([Demo](https://demo.reservo.co/)) `⊘ Proprietary` `PHP`
 - [Single File PHP Gallery](http://sye.dk/sfpg/) - Web gallery in one single PHP file. `⊘ Proprietary` `PHP`
+
 
 ### Self-hosting Solutions
 
