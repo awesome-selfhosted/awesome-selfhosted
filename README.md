@@ -1427,7 +1427,9 @@ _Related: [Wikis](#wikis)_
 
 A [notification system](https://en.wikipedia.org/wiki/Notification_system) is a piece of software that provides a means of delivering a message to a set of recipients.
 
+- [Gotify](https://gotify.net/) - a simple server for sending and receiving messages. ([Source Code](https://github.com/gotify/server)) `Go` `Typescript`
 - [Novu](https://novu.co/) - Notification management simplified! The ultimate service for managing multi-channel notifications with a single API for all message providers (Email, SMS, Push, Chat). Novu comes with a CMS for advanced layouts and design management and is easy to set up and integrate with existing providers. ([Source Code](https://github.com/novuhq/novu)) `MIT` `Typescript`
+
 
 ### Office Suites
 
