@@ -2,6 +2,36 @@
 
 **Software listed here does not meet the [Free Software](https://en.wikipedia.org/wiki/Free_software) definition**. It implements their own licensing with restrictions and grants which you must check on each case. Restrictions may include limits on allowed use of the software, access to the source code, modification and further redistribution. This software can therefore contain anti user-freedom features, such as but not limited to: backdoors, user lock-in, sending personal data to a third party.
 
+--------------------
+
+## Table of contents
+
+- [Software](#software)
+  - [Automation](#automation)
+  - [Communication - Custom Communication Systems](#communication---custom-communication-systems)
+  - [Content Management Systems (CMS)](#content-management-systems-cms)
+  - [Communication - SIP](#communication---sip)
+  - [Document Management - E-books](#document-management---e-books)
+  - [E-commerce](#e-commerce)
+  - [File Transfer & Synchronization](#file-transfer--synchronization)
+  - [Games](#games)
+  - [Internet of Things (IoT)](#internet-of-things-iot)
+  - [Knowledge Management Tools](#knowledge-management-tools)
+  - [Maps and Global Positioning System (GPS)](#maps-and-global-positioning-system-gps)
+  - [Media Streaming - Video Streaming](#media-streaming---video-streaming)
+  - [Money, Budgeting & Management](#money-budgeting--management)
+  - [Photo and Video Galleries](#photo-and-video-galleries)
+  - [Search Engines](#search-engines)
+  - [Self-hosting Solutions](#self-hosting-solutions)
+  - [Software Development - Project Management](#software-development---project-management)
+  - [Software Development - Testing](#software-development---testing)
+  - [Ticketing](#ticketing)
+  - [Time Tracking](#time-tracking)
+  - [Miscellaneous](#miscellaneous)
+- [List of Licenses](#list-of-licenses)
+
+--------------------
+
 ## Software
 
 
