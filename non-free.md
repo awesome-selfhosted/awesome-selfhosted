@@ -131,6 +131,7 @@
 - [hMailServer](https://www.hmailserver.com) - Open-source e-mail server for Microsoft Windows. ([Source Code](https://github.com/hmailserver/hmailserver)) `⊘ Proprietary` `C++`
 - [Poste.io](https://poste.io) - Full-featured solution for your Email server. Native implementation of last anti-SPAM methods, webmail and easy administration included. Free tier available. ([Demo](https://poste.io/demo)) `⊘ Proprietary` `Unknown`
 - [Umbrel](https://umbrel.com/) - A beautiful personal server OS for self-hosting. Install on a Raspberry Pi 4 or Ubuntu/Debian. ([Source Code](https://github.com/getumbrel/umbrel)) `⊘ Proprietary` `Nodejs/Docker`
+- [Unraid](https://www.unraid.net) `⚠` - Linux-based operating system designed to run on home media server setups. `⊘ Proprietary`
 
 
 ### Search Engines
