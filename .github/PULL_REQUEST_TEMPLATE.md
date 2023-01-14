@@ -23,6 +23,7 @@ To ensure your PR is dealt with swiftly please check the following:
 - [ ] Any category you are creating has the minimum requirement of 3 items.
   If not, your addition may be inserted into `Misc/Other`.
 - [ ] Any software project you are adding to the list is actively maintained.
+- [ ] Any software project you are adding has working installation instructions.
 - [ ] The pull request title is informative, unlike "Update README.md".
   Suggested titles: "Add aaa to bbb" for adding software aaa to section bbb,
   "Remove aaa from bbb" for removing, "Fix license for aaa", etc.
