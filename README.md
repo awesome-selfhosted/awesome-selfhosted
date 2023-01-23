@@ -1775,6 +1775,7 @@ Software for easy installation, management and configuration of self-hosted serv
 - [Para](https://paraio.org) - Flexible and modular backend framework/server for object persistence, API development and authentication. ([Source Code](https://github.com/erudika/para)) `Apache-2.0` `Java`
 - [Svix](https://svix.com) - Open-source webhooks as a service that makes it super easy for API providers to send webhooks. ([Source Code](https://github.com/svix/svix-webhooks)) `MIT` `Docker/Rust`
 - [Tyk](https://tyk.io) - Fast and scalable open source API Gateway. Out of the box, Tyk offers an API Management Platform with an API Gateway, API Analytics, Developer Portal and API Management Dashboard. ([Source Code](https://github.com/TykTechnologies/tyk)) `MPL-2.0` `Go`
+- [Yaade](https://docs.yaade.io/) - Yaade is an open-source, self-hosted, collaborative API development environment. ([Source Code](https://github.com/EsperoTech/yaade)) `MIT` `Docker`
 
 
 ### Software Development - Continuous Integration & Deployment
