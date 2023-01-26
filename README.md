@@ -1903,7 +1903,7 @@ Tools and software for [software testing](https://en.wikipedia.org/wiki/Software
 
 - [DeepfakeHTTP](https://github.com/xnbox/DeepfakeHTTP) - A web server that uses HTTP dumps as a source for responses. `MIT` `Java`
 - [Selenoid](https://aerokube.com/selenoid/latest/) - Lightweight Selenium hub implementation launching browsers within Docker containers. ([Source Code](https://github.com/aerokube/selenoid)) `Apache-2.0` `Go`
-- [Sorry Cypress](https://sorry-cypress.dev) - Alternative open-source dashboard for the Cypress browser automation framework, featuring unlimited parallelization, recording and debugging of tests. ([Demo](https://sorry-cypress-demo.herokuapp.com), [Source Code](https://github.com/sorry-cypress/sorry-cypress)) `MIT` `Typescript`
+- [Sorry Cypress](https://sorry-cypress.dev) - Alternative open-source dashboard for the Cypress browser automation framework, featuring unlimited parallelization, recording and debugging of tests. ([Source Code](https://github.com/sorry-cypress/sorry-cypress)) `MIT` `Typescript`
 - [Touca](https://touca.io) - Continuous regression testing for engineering teams. Get feedback when you write code that could break your software. ([Source Code](https://github.com/trytouca/trytouca)) `Apache-2.0` `Docker/Nodejs`
 
 
