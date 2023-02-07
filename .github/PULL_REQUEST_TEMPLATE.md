@@ -1,4 +1,4 @@
-<!-- DO NOT DELETE THE TEXT BELOW. Please make sure relevant boxes are checked [x] -->
+<!-- DO NOT DELETE THE TEXT BELOW if you are adding new software to the list. Please make sure relevant boxes are checked [x] -->
 
 Thank you for taking the time to work on a PR for Awesome-Selfhosted!
 
