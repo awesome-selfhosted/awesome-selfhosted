@@ -1204,6 +1204,7 @@ _See also: [List of streaming media systems - Wikipedia](https://en.wikipedia.or
 - [GNU FM](https://gnu.io/fm/) - Running music community websites, alternative to last.fm. ([Source Code](https://git.savannah.gnu.org/cgit/librefm.git/)) `AGPL-3.0` `PHP`
 - [gonic](https://github.com/sentriz/gonic) - Lightweight music streaming server. Subsonic compatible. `GPL-3.0` `Go`
 - [Groove Basin](https://github.com/andrewrk/groovebasin) - Music player server with a web-based user interface inspired by Amarok 1.4. `MIT` `Nodejs`
+- [Jellyfin Discord Music Bot](https://github.com/manuel-rw/jellyfin-discord-music-bot) - Discord bot that streams music from your Jellyfin media server (fork of [KGT1](https://github.com/KGT1/jellyfin-discord-music-bot/)) ([Source Code](https://github.com/manuel-rw/jellyfin-discord-music-bot)) `MIT` `TS`
 - [koel](https://koel.dev/) - Personal music streaming server that works. ([Demo](https://demo.koel.dev/), [Source Code](https://github.com/koel/koel)) `MIT` `PHP`
 - [KooZic](https://koozic.net/) - Music server with powerful playlist features and Subsonic compatibility. ([Source Code](https://github.com/DocMarty84/koozic)) `LGPL-3.0/MIT` `Python`
 - [LibreTime](https://libretime.org) - Simple, open source platform that lets you broadcast streaming radio on the web (fork of [Airtime](https://github.com/sourcefabric/Airtime)). ([Source Code](https://github.com/LibreTime/libretime)) `AGPL-3.0` `PHP`
