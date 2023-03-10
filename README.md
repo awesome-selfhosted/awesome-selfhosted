@@ -1406,6 +1406,7 @@ Software for [monitoring](https://en.wikipedia.org/wiki/Monitoring#Computing) sy
 
 _Related: [Wikis](#wikis)_
 
+- [AppFlowy](https://appflowy.io/) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust. ([Source Code](https://github.com/AppFlowy-IO/AppFlowy)) `AGPL-3.0` `Rust`
 - [Benotes](https://benotes.org/) - An open source self hosted notes and bookmarks taking web app. ([Souce Code](https://github.com/fr0tt/benotes)) `MIT` `PHP`
 - [DailyNotes](https://github.com/m0ngr31/DailyNotes) - App for taking notes and tracking tasks on a daily basis in Markdown. `MIT` `Python`
 - [dillinger](https://dillinger.io/) - The last Markdown editor, ever. ([Source Code](https://github.com/joemccann/dillinger)) `MIT` `Nodejs`
