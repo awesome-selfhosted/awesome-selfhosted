@@ -231,6 +231,7 @@
 |3|hay-kot <hay-kot@pm.me>|
 |3|icterine <account@caravat.e4ward.com>|
 |3|jungle-boogie <sean@rastasean.net>|
+|3|lord-pendragon <hamza@secdim.com>|
 |3|moba <moba@users.noreply.github.com>|
 |3|oknozor <paul.delafosse@protonmail.com>|
 |3|pszlazak <pszlazak@users.noreply.github.com>|
@@ -1222,7 +1223,6 @@
 |1|linbreux <29354411+Linbreux@users.noreply.github.com>|
 |1|littleguga <littleguga@users.noreply.github.com>|
 |1|londonatil <65257173+londonatil@users.noreply.github.com>|
-|1|lord-pendragon <hamza@secdim.com>|
 |1|lsascha <lsascha@gmail.com>|
 |1|ludo444 <ludo444@gmx.com>|
 |1|luwol03 <60048565+luwol03@users.noreply.github.com>|
