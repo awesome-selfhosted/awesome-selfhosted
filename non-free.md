@@ -178,6 +178,7 @@
 ### Miscellaneous
 
  - [RemoteUtilities](https://www.remoteutilities.com/) - Remote Utilities is self-hosted remote support software for LAN administration and remote support over the Internet. `⊘ Proprietary` `Unknown`
+ - [SecDim-Play](https://secdim.com)`⚠` - An online secure programming games platform where you fix security vulnerabilities in a game and get a score, has its own learning resource as well. ([Demo](https://play.secdim.com)) `⊘ Proprietary` `Multilingual`
  - [ScreenConnect](https://www.connectwise.com/platform/unified-management/control) - Lightning-fast remote support and remote access to connect instantly and solve problems faster. `⊘ Proprietary` `Unknown`
 
 
