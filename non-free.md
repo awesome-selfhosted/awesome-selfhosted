@@ -80,8 +80,8 @@
 ### Games
 
 - [Cubiks-2048](https://github.com/Kshitij-Banerjee/Cubiks-2048) - Clone of 2048 game in 3D. ([Demo](https://kshitij-banerjee.github.io/Cubiks-2048/)) `CC-BY-NC-4.0` `HTML5`
+- [SecDim-Play](https://secdim.com)`⚠` - An online secure programming games platform where you fix security vulnerabilities in a game and get a score, has its own learning resource as well. ([Demo](https://play.secdim.com)) `⊘ Proprietary` `Multilingual`
 - [untrusted](https://github.com/AlexNisnevich/untrusted) - Unique puzzle game designed for geeks and developers, where you solve the puzzles in the game by reading and writing Javascript. ([Demo](http://alexnisnevich.github.io/untrusted/)) `CC-BY-NC-SA-3.0` `Nodejs`
-- [SecDim-Play](https://secdim.com) - An online secure programming games platform where you fix security vulnerabilities in a game and get a score, has its own learning resource as well. ([Demo](https://play.secdim.com)) `⊘ Proprietary` `Multilingual`
 
 
 ### Internet of Things (IoT)
