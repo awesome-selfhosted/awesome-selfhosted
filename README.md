@@ -959,6 +959,7 @@ Simplified file servers for sharing of one-time/short-lived/temporary files, pro
 - [OnionShare](https://github.com/onionshare/onionshare) - Securely and anonymously share a file of any size. `GPL-2.0` `Python`
 - [PicoShare](https://pico.rocks) - A minimalist, easy-to-host service for sharing images and other files. ([Demo](https://demo.pico.rocks), [Source Code](https://github.com/mtlynch/picoshare)) `AGPL-3.0` `Go`
 - [Picsur](https://github.com/rubikscraft/Picsur) - A simple imaging hosting playtfom that allows you to easily host, edit, and share images. `GPL-3.0` `Docker`
+- [Pingvin Share](https://github.com/stonith404/pingvin-share) - A self-hosted file sharing platform that combines lightness and beauty, perfect for seamless and efficient file sharing. ([Demo](https://pingvin-share.dev.eliasschneider.com)) `BSD-2-Clause` `Docker/Nodejs` 
 - [PictShare](https://www.pictshare.net/) - PictShare is a multi lingual, open source image hosting service with a simple resizing and upload API. ([Source Code](https://github.com/HaschekSolutions/pictshare)) `Apache-2.0` `PHP`
 - [Plik](https://github.com/root-gg/plik) - Plik is a scalable and friendly temporary file upload system. ([Demo](https://plik.root.gg/)) `MIT` `Go`
 - [Pomf](https://github.com/Pomf/Pomf) - Pomf is a simple file uploading and sharing platform. `MIT` `PHP`
