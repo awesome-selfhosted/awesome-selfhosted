@@ -779,7 +779,6 @@ A [document management system](https://en.wikipedia.org/wiki/Document_management
 - [Teedy](https://teedy.io/) - Lightweight document management system packed with all the features you can expect from big expensive solutions (Ex SismicsDocs). ([Demo](https://demo.teedy.io/), [Source Code](https://github.com/sismics/docs)) `GPL-2.0` `Docker/Java`
 
 
-
 ### Document Management - E-books
 
 **[`^        back to top        ^`](#awesome-selfhosted)**
