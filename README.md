@@ -74,6 +74,7 @@ See [Contributing](.github/CONTRIBUTING.md).
   - [Password Managers](#password-managers)
   - [Pastebins](#pastebins)
   - [Personal Dashboards](#personal-dashboards)
+  - [Personal Health Records](#personal-health-records)
   - [Photo and Video Galleries](#photo-and-video-galleries)
   - [Polls and Events](#polls-and-events)
   - [Proxy](#proxy)
@@ -1568,6 +1569,14 @@ _Related: [Monitoring](#monitoring), [Bookmarks and Link Sharing](#bookmarks-and
 - [wger](https://wger.de/) - Web-based personal workout, fitness and weight logger/tracker. It can also be used as a simple gym management utility and offers a full REST API as well. ([Demo](https://wger.de/en/dashboard), [Source Code](https://github.com/wger-project/wger)) `AGPL-3.0` `Python`
 - [Your Spotify](https://github.com/Yooooomi/your_spotify) `⚠` - Allows you to record your Spotify listening activity and have statistics about them served through a Web application. `MIT` `Nodejs/Docker`
 
+### Personal Health Records
+
+**[`^        back to top        ^`](#awesome-selfhosted)**
+
+A personal health record (PHR) can help you keep track your health care information. If you see multiple doctors and they don't use the same Electronic Health Record (EHR) system, a PHR is a good way to keep all of your health information in one place.
+
+- [Fasten Health](https://app.fastenhealth.com/) - Fasten securely connects your healthcare providers together, creating a personal health record that never leaves your hands. ([Source Code](https://github.com/fastenhealth/fasten-onprem)) `GPL-3.0` `Docker/Go/Nodejs`
+- [Mere Medical](https://meremedical.co/) - With Mere Medical, you can finally manage all of your medical records from Epic MyChart, Cerner, and OnPatient patient portals in one place. Privacy-focused, self-hosted, and offline-first. ([Demo](https://demo.meremedical.co), [Source Code](https://github.com/cfu288/mere-medical)) `GPL-3.0` `Docker/Nodejs`
 
 ### Photo and Video Galleries
 
