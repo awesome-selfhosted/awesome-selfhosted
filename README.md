@@ -98,6 +98,7 @@ See [Contributing](.github/CONTRIBUTING.md).
   - [Ticketing](#ticketing)
   - [Time Tracking](#time-tracking)
   - [URL Shorteners](#url-shorteners)
+  - [Virtualization](#virtualization)
   - [VPN](#vpn)
   - [Web Servers](#web-servers)
   - [Wikis](#wikis)
@@ -2051,6 +2052,19 @@ Before hosting one, please see [shortcomings](https://en.wikipedia.org/wiki/URL_
 - [Simple-URL-Shortener](https://github.com/azlux/Simple-URL-Shortener) - KISS URL shortener, public or private (with account). Minimalist and lightweight. No dependencies. ([Demo](https://u.azlux.fr)) `MIT` `PHP`
 - [Simply Shorten](https://gitlab.com/draganczukp/simply-shorten) - A simple URL shortener that just shortens links. `MIT` `Java`
 - [YOURLS](https://yourls.org/) - YOURLS is a set of PHP scripts that will allow you to run Your Own URL Shortener. Features include password protection, URL customization, bookmarklets, statistics, API, plugins, jsonp. ([Source Code](https://github.com/YOURLS/YOURLS)) `MIT` `PHP`
+
+
+
+### Virtualization
+
+**[`^        back to top        ^`](#awesome-selfhosted)**
+
+[Virtualization](https://en.wikipedia.org/wiki/Virtualization) creating a virtual (rather than actual) version of something at the same abstraction level, including virtual computer hardware platforms, storage devices, and computer network resources.
+
+- [Kasm](https://kasmweb.com/) - Streaming containerized apps and desktops to end-users. Examples include Ubuntu in your browser, or simply single apps such as Chrome, OpenOffice, Gimp, Filezilla etc. ([Demo](https://www.kasmweb.com/#demo), [Source Code](https://github.com/linuxserver/docker-kasm/)) `GPL-3.0`
+
+**Please visit [awesome-sysadmin/Virtualization](https://github.com/awesome-foss/awesome-sysadmin#virtualization)**
+
 
 
 ### VPN
