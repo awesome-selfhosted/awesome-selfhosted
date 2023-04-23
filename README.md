@@ -125,6 +125,7 @@ _Related: [Personal Dashboards](#personal-dashboards)_
 - [Countly Community Edition](https://count.ly) - Real time mobile and web analytics, crash reporting and push notifications platform. ([Source Code](https://github.com/countly)) `AGPL-3.0` `Nodejs`
 - [Druid](http://druid.io/) - Distributed, column-oriented, real-time analytics data store. ([Source Code](https://github.com/druid-io/druid)) `Apache-2.0` `Java`
 - [EDA](https://eda.jortilles.com/en/jortilles-english/) - Web application for data analysis and visualization. ([Source Code](https://github.com/jortilles/EDA)) `Apache-2.0` `Nodejs`
+- [Fathom Lite](https://github.com/usefathom/fathom) - A simple and privacy-focused web analytics alternative to Google Analytics. `MIT` `Go`
 - [GoAccess](http://goaccess.io/) - Real-time web log analyzer and interactive viewer that runs in a terminal. ([Source Code](https://github.com/allinurl/goaccess)) `GPL-2.0` `C`
 - [GoatCounter](https://www.goatcounter.com) - Easy web statistics without tracking of personal data. ([Source Code](https://github.com/zgoat/goatcounter)) `EUPL-1.2` `Go`
 - [Metabase](https://metabase.com/) - Easy, open-source way for everyone in your company to ask questions and learn from data. ([Source Code](https://github.com/metabase/metabase)) `AGPL-3.0` `Java`
@@ -158,6 +159,7 @@ _Related: [Content Management Systems (CMS)](#content-management-systems-cms)_
 - [LiveStreamDVR](https://github.com/MrBrax/LiveStreamDVR) `⚠` - An automatic Twitch recorder capable of capturing live streams, chat messages and stream metadata. `MIT` `Python/Nodejs`
 - [Omeka S](https://omeka.org/s/) - Omeka S is a web publication system for universities, galleries, libraries, archives, and museums. It consists of a local network of independently curated exhibits sharing a collaboratively built pool of items, media, and their metadata. ([Source Code](https://github.com/omeka/omeka-s)) `GPL-3.0` `Nodejs`
 - [Wayback](https://github.com/wabarc/wayback) - A self-hosted toolkit for archiving webpages to the Internet Archive, archive.today, IPFS, and local file systems. `GPL-3.0` `Go`
+- [Webarchive](https://github.com/derfenix/webarchive) - Lightweight self-hosted _wayback machine_ that creates HTML and PDF files from your bookmarks. `BSD-3-Clause` `Go`
 
 
 ### Automation
