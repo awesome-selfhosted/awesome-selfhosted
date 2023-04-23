@@ -1421,6 +1421,7 @@ Software for [monitoring](https://en.wikipedia.org/wiki/Monitoring#Computing) sy
 
 _Related: [Wikis](#wikis)_
 
+- [Anopaper](https://anopaper.artegoser.ru) - Notes service that allows you to save notes locally, complete notes using OpenAI API, collaborate on notes with other users and more. The notes supports markdown, MathJax, and GFM syntax. ([Source Code](https://github.com/artegoser/AnoPaper)) `GPL-3.0` `Nodejs`
 - [Benotes](https://benotes.org/) - An open source self hosted notes and bookmarks taking web app. ([Source Code](https://github.com/fr0tt/benotes)) `MIT` `PHP`
 - [DailyNotes](https://github.com/m0ngr31/DailyNotes) - App for taking notes and tracking tasks on a daily basis in Markdown. `MIT` `Python`
 - [dillinger](https://dillinger.io/) - The last Markdown editor, ever. ([Source Code](https://github.com/joemccann/dillinger)) `MIT` `Nodejs`
