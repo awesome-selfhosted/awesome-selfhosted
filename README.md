@@ -1328,6 +1328,7 @@ Software that does not fit in another section.
 - [King Phisher](https://github.com/rsmusllp/king-phisher) - King Phisher is a tool for testing and promoting user awareness by simulating real world phishing attacks. `BSD-3-Clause` `Python`
 - [Koillection](https://koillection.github.io/) - Koillection is a service allowing users to manage any kind of collections. ([Source Code](https://github.com/koillection/koillection)) `MIT` `PHP`
 - [Lama-Cleaner](https://github.com/Sanster/lama-cleaner) `⚠` - A free and open-source inpainting tool powered by SOTA AI model. `Apache-2.0` `Python/Docker`
+- [LocalAI](https://github.com/go-skynet/LocalAI) - :robot: Self-hosted, community-driven simple local OpenAI-compatible API written in go. Can be used as a drop-in replacement for OpenAI, running on CPU with consumer-grade hardware. 
 - [Libre Translate](https://libretranslate.com/) - Free and Open Source Machine Translation API, entirely self-hosted. ([Source Code](https://github.com/LibreTranslate/LibreTranslate)) `AGPL-3.0` `Docker/Python`
 - [MailyGo](https://codeberg.org/jlelse/MailyGo) - MailyGo is a small tool written in Go that allows to send HTML forms, for example from static websites without a dynamic backend, via email. `MIT` `Go`
 - [Monica](https://monicahq.com/) - Personal relationship manager, and a new kind of CRM to organize interactions with your friends and family. ([Source Code](https://github.com/monicahq/monica)) `AGPL-3.0` `PHP`
