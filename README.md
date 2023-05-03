@@ -120,7 +120,7 @@ See [Contributing](.github/CONTRIBUTING.md).
 
 _Related: [Personal Dashboards](#personal-dashboards)_
 
-- [Ackee](https://ackee.electerious.com) - Self-hosted analytics tool for those who care about privacy. ([Demo](http://demo.ackee.electerious.com), [Source Code](https://github.com/electerious/Ackee)) `MIT` `Nodejs` [](https://img.shields.io/github/stars/electerious/Ackee?style=social)
+- [Ackee](https://ackee.electerious.com) - Self-hosted analytics tool for those who care about privacy. ([Demo](http://demo.ackee.electerious.com), [Source Code](https://github.com/electerious/Ackee)) `MIT` `Nodejs` ![GitHub Repo stars](https://img.shields.io/github/stars/stephangr/go-box?color=%3Cimg%20alt%3D%22GitHub%20Repo%20stars%22%20src%3D%22https%3A%2F%2Fimg.shields.io%2Fgithub%2Fstars%2Fstephangr%2Fgo-box%3Fstyle%3Dsocial%22%3E&style=social)
 - [AWStats](http://www.awstats.org/) - Generate statistics from web, streaming, ftp or mail server logfiles. ([Source Code](https://github.com/eldy/awstats)) `GPL-3.0` `Perl`
 - [Countly Community Edition](https://count.ly) - Real time mobile and web analytics, crash reporting and push notifications platform. ([Source Code](https://github.com/countly)) `AGPL-3.0` `Nodejs`
 - [Druid](http://druid.io/) - Distributed, column-oriented, real-time analytics data store. ([Source Code](https://github.com/druid-io/druid)) `Apache-2.0` `Java`
