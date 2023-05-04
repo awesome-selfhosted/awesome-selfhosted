@@ -1515,7 +1515,6 @@ A [pastebin](https://en.wikipedia.org/wiki/Pastebin) is a type of online content
 - [prologic pastebin](https://git.mills.io/prologic/pastebin) - Simple pastebin service with convenient api and CLI. ([Demo](https://paste.mills.io)) `MIT` `Go`
 - [PurritoBin](https://github.com/PurritoBin/PurritoBin) - Ultra fast, minimalistic, encrypted command line paste-bin, where the server has no knowledge of the paste data. `ISC` `C++`
 - [rustypaste](https://github.com/orhun/rustypaste) - A minimal file upload/pastebin service. `MIT` `Rust`
-- [snipt](https://github.com/nicksergeant/snipt) - Long-term memory for coders. Share and store code snippets. `MIT` `Python`
 - [SnyPy](https://snypy.com) - Open source on-prem code snippet manager. ([Demo](https://app.snypy.com), [Source Code](https://github.com/snypy)) `MIT` `Docker`
 - [Spacebin](https://github.com/spacebin-org/spirit) - Text-sharing for the final frontier — Reliable Pastebin server in Golang and Fiber. `Apache-2.0` `Go`
 - [Sup3rS3cretMes5age](https://github.com/algolia/sup3rS3cretMes5age) - Very simple (to deploy and to use) secret message service using Hashicorp Vault as a secrets storage. `MIT` `Go`
