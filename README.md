@@ -121,6 +121,7 @@ See [Contributing](.github/CONTRIBUTING.md).
 _Related: [Database Management](#database-management), [Personal Dashboards](#personal-dashboards)_
 
 - [Ackee](https://ackee.electerious.com) - Self-hosted analytics tool for those who care about privacy. ([Demo](http://demo.ackee.electerious.com), [Source Code](https://github.com/electerious/Ackee)) `MIT` `Nodejs`
+- [Aptabase](https://aptabase.cm/) - Open Source, Privacy-First and Simple Analytics for Mobile and Desktop apps. SDKs available for Swift, Kotlin, Flutter and many others! ([Source Code](https://github.com/aptabase/aptabase)) `AGPL-3.0` `C#`
 - [AWStats](http://www.awstats.org/) - Generate statistics from web, streaming, ftp or mail server logfiles. ([Source Code](https://github.com/eldy/awstats)) `GPL-3.0` `Perl`
 - [Countly Community Edition](https://count.ly) - Real time mobile and web analytics, crash reporting and push notifications platform. ([Source Code](https://github.com/countly)) `AGPL-3.0` `Nodejs`
 - [Druid](http://druid.io/) - Distributed, column-oriented, real-time analytics data store. ([Source Code](https://github.com/druid-io/druid)) `Apache-2.0` `Java`
@@ -140,7 +141,7 @@ _Related: [Database Management](#database-management), [Personal Dashboards](#pe
 - [Socioboard](https://github.com/socioboard/Socioboard-4.0) `⚠` - Social media management, analytics, and reporting platform supporting nine social media networks out-of-the-box. `GPL-3.0` `Nodejs`
 - [Superset](http://superset.apache.org/) - Modern data exploration and visualization platform. ([Source Code](https://github.com/apache/superset)) `Apache-2.0` `Python`
 - [Umami](https://umami.is/) - Simple, fast, privacy-focused alternative to Google Analytics. ([Demo](https://app.umami.is/share/8rmHaheU/umami.is), [Source Code](https://github.com/umami-software/umami)) `MIT` `Nodejs`
-- [Aptabase](https://aptabase.cm/) - Open Source, Privacy-First and Simple Analytics for Mobile and Desktop apps. SDKs available for Swift, Kotlin, Flutter and many others! ([Source Code](https://github.com/aptabase/aptabase)) `AGPL-3.0` `C#/TypeScript`
+
 
 
 ### Archiving and Digital Preservation (DP)
