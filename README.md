@@ -143,7 +143,6 @@ _Related: [Database Management](#database-management), [Personal Dashboards](#pe
 - [Umami](https://umami.is/) - Simple, fast, privacy-focused alternative to Google Analytics. ([Demo](https://app.umami.is/share/8rmHaheU/umami.is), [Source Code](https://github.com/umami-software/umami)) `MIT` `Nodejs`
 
 
-
 ### Archiving and Digital Preservation (DP)
 
 **[`^        back to top        ^`](#awesome-selfhosted)**
