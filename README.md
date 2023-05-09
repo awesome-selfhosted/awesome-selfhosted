@@ -736,7 +736,6 @@ _See also: [dbdb.io - Database of Databases](https://dbdb.io/)_
 - [Mathesar](https://mathesar.org/) - An intuitive UI for managing data collaboratively, for users of all technical skill levels. Built on Postgres – connect an existing DB or set up a new one. ([Demo](https://demo.mathesar.org/), [Source Code](https://github.com/centerofci/mathesar)) `GPL-3.0` `Docker`
 - [MindsDB](https://github.com/mindsdb/mindsdb) - MindsDB is an open source self hosted AI layer for existing databases that allows you to effortlessly develop, train and deploy state-of-the-art machine learning models using standard queries. `GPL-3.0` `Python`
 - [NocoDB](https://www.nocodb.com/) - No-code platform that turns any database into a smart spreadsheet. It can be considered as an Airtable or Smartsheet alternative. ([Source Code](https://github.com/nocodb/nocodb)) `GPL-3.0` `Nodejs`
-- [Qdrant](https://qdrant.tech/) - Fast, scalable, vector search engine which integrates with machine learning models and supports both gRPC and REST Clients. ([Demo](https://categories.qdrant.tech/), [Source Code](https://github.com/qdrant/qdrant), [Clients](https://github.com/qdrant/qdrant-client)) `Apache-2.0` `Rust/Python/JS/TS`
 
 
 ### DNS
@@ -1140,6 +1139,7 @@ _Related: [Note-taking & Editors](#note-taking--editors), [Wikis](#wikis)_
 - [My Mind](https://github.com/ondras/my-mind) - Web application for creating and managing mind maps. ([Demo](https://my-mind.github.io/?url=examples%2Ffeatures.mymind)) `MIT` `Javascript`
 - [TeamMapper](https://github.com/b310-digital/teammapper) - Host and create your own mindmaps. Share your mindmap sessions with your team and collaborate live on mindmaps. ([Demo](https://map.kits.blog)) `MIT` `Docker/Nodejs`
 - [Weaviate](https://weaviate.io/) - A cloud-native, realtime vector search engine integrating scalable machine learning models (GraphQL and RESTful APIs). ([Demo](https://github.com/semi-technologies/semantic-search-through-wikipedia-with-weaviate/), [Source Code](https://github.com/semi-technologies/weaviate), [Clients](https://weaviate.io/developers/weaviate/current/client-libraries/index.html)) `BSD-3-Clause` `Go`
+- [Qdrant](https://qdrant.tech/) - Fast, scalable, vector search engine for the neural embeddings, that supports both gRPC and REST Clients. ([Demo](https://categories.qdrant.tech/), [Source Code](https://github.com/qdrant/qdrant), [Clients](https://github.com/qdrant/qdrant-client)) `Apache-2.0` `Rust/Python/JS/TS`
 
 
 ### Learning and Courses
