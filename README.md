@@ -1139,7 +1139,7 @@ _Related: [Note-taking & Editors](#note-taking--editors), [Wikis](#wikis)_
 - [My Mind](https://github.com/ondras/my-mind) - Web application for creating and managing mind maps. ([Demo](https://my-mind.github.io/?url=examples%2Ffeatures.mymind)) `MIT` `Javascript`
 - [TeamMapper](https://github.com/b310-digital/teammapper) - Host and create your own mindmaps. Share your mindmap sessions with your team and collaborate live on mindmaps. ([Demo](https://map.kits.blog)) `MIT` `Docker/Nodejs`
 - [Weaviate](https://weaviate.io/) - A cloud-native, realtime vector search engine integrating scalable machine learning models (GraphQL and RESTful APIs). ([Demo](https://github.com/semi-technologies/semantic-search-through-wikipedia-with-weaviate/), [Source Code](https://github.com/semi-technologies/weaviate), [Clients](https://weaviate.io/developers/weaviate/current/client-libraries/index.html)) `BSD-3-Clause` `Go`
-- [Qdrant](https://qdrant.tech/) - Fast, scalable, vector search engine for the neural embeddings, that supports both gRPC and REST Clients. ([Demo](https://categories.qdrant.tech/), [Source Code](https://github.com/qdrant/qdrant), [Clients](https://github.com/qdrant/qdrant-client)) `Apache-2.0` `Rust/Python/JS/TS`
+- [Qdrant](https://qdrant.tech/) - Vector similarity search engine and vector database with gRPC and REST clients. ([Demo](https://categories.qdrant.tech/), [Source Code](https://github.com/qdrant/qdrant), [Clients](https://github.com/qdrant/qdrant-client)) `Apache-2.0` `Docker`
 
 
 ### Learning and Courses
