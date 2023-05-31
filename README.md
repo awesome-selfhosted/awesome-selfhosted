@@ -142,6 +142,7 @@ _Related: [Database Management](#database-management), [Personal Dashboards](#pe
 - [Socioboard](https://github.com/socioboard/Socioboard-4.0) `⚠` - Social media management, analytics, and reporting platform supporting nine social media networks out-of-the-box. `GPL-3.0` `Nodejs`
 - [Superset](http://superset.apache.org/) - Modern data exploration and visualization platform. ([Source Code](https://github.com/apache/superset)) `Apache-2.0` `Python`
 - [Umami](https://umami.is/) - Simple, fast, privacy-focused alternative to Google Analytics. ([Demo](https://app.umami.is/share/8rmHaheU/umami.is), [Source Code](https://github.com/umami-software/umami)) `MIT` `Nodejs`
+- [Mixpost](https://mixpost.app/) - Self-hosted social media management software. An excellent alternative to Hootsuite, Buffer, and other social media tools ([Source Code](https://github.com/inovector/MixpostApp)) `MIT` `PHP/JavaScript`
 
 
 ### Archiving and Digital Preservation (DP)
