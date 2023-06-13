@@ -1545,7 +1545,7 @@ A [pastebin](https://en.wikipedia.org/wiki/Pastebin) is a type of online content
 A payment processor is a system that enables financial transactions, commonly employed by a merchant, to handle transactions with customers from various channels such as credit cards and debit cards or bank accounts.
 
 - [HyperSwitch](https://github.com/juspay/hyperswitch) - An Open Source Financial Switch to make Payments fast, reliable & affordable.
- ([Demo](https://app.hyperswitch.io/)) `Apache` `Rust`
+  `Apache-2.0` `Rust`
 
 ### Personal Dashboards
 
