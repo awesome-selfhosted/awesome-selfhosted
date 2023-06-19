@@ -173,7 +173,7 @@ _Related: [Content Management Systems (CMS)](#content-management-systems-cms)_
 
 [Automation](https://en.wikipedia.org/wiki/Automation) software designed to reduce human intervention in processes.
 
-_Related: [Internet of Things (IoT)](#internet-of-things-iot)_
+_Related: [Internet of Things (IoT)](#internet-of-things-iot), [Software Development - Continuous Integration & Deployment](#software-development---continuous-integration--deployment)_
 
 - [Accelerated Text](https://github.com/accelerated-text/accelerated-text) - Automatically generate multiple natural language descriptions of your data varying in wording and structure. ([Source Code](https://github.com/accelerated-text/accelerated-text)) `Apache-2.0` `Java`
 - [Actionsflow](https://actionsflow.github.io/docs/) `⚠` - The free Zapier/IFTTT alternative for developers to automate your workflows based on Github actions. ([Source Code](https://github.com/actionsflow/actionsflow)) `MIT` `Docker/Nodejs`
@@ -1806,6 +1806,8 @@ Software for easy installation, management and configuration of self-hosted serv
 **[`^        back to top        ^`](#awesome-selfhosted)**
 
 [Continuous integration](https://en.wikipedia.org/wiki/Continuous_integration) and [Continuous deployment](https://en.wikipedia.org/wiki/Continuous_deployment) software and tools.
+
+_Related: [Automation](#automation)_
 
 **Please visit [awesome-sysadmin/Continuous Integration & Continuous Deployment](https://github.com/awesome-foss/awesome-sysadmin#continuous-integration--continuous-deployment)**
 
