@@ -9,6 +9,7 @@
 - [Software](#software)
   - [Automation](#automation)
   - [Communication - Custom Communication Systems](#communication---custom-communication-systems)
+  - [Communication - Email - Mailing Lists and Newsletters](#communication---email---mailing-lists-and-newsletters)
   - [Content Management Systems (CMS)](#content-management-systems-cms)
   - [Communication - SIP](#communication---sip)
   - [Document Management - E-books](#document-management---e-books)
@@ -58,6 +59,11 @@
 ### Communication - SIP
 
 - [3CX](https://www.3cx.com/pbx/) - Full-featured PABX system, with call queues, built-in web conferencing, live chat and social media messaging all on one system. `⊘ Proprietary` `Unknown`
+
+
+### Communication - Email - Mailing Lists and Newsletters
+
+- [Sendy](https://sendy.co) - Self-hosted email newsletter application that lets you send bulk emails via Amazon Simple Email Service (SES) or other SMTP services. `⊘ Proprietary` `PHP`
 
 
 ### Document Management - E-books
