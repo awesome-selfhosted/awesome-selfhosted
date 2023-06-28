@@ -756,6 +756,7 @@ _See also: [awesome-sysadmin/DNS - Servers](https://github.com/awesome-foss/awes
 
 - [blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy (like Pi-hole) as ad-blocker for local network with many features. `Apache-2.0` `Go`
 - [Maza ad blocking](https://maza-ad-blocking.andros.dev/) - Local ad blocker. Like Pi-hole but local and using your operating system. ([Source Code](https://github.com/tanrax/maza-ad-blocking)) `Apache-2.0` `Bash`
+- [Pi-hole](https://pi-hole.net/) - A blackhole for Internet qdvertisements with a GUI for management and monitoring. ([Source Code](https://github.com/pi-hole/pi-hole)) `EUPL-1.2` `Shell/PHP`
 - [Technitium DNS Server](https://technitium.com/dns/) - Authoritative/recursive DNS server with ad blocking functionality. ([Source Code](https://github.com/TechnitiumSoftware/DnsServer)) `GPL-3.0` `Docker/C#`
 
 
