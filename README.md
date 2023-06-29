@@ -124,7 +124,7 @@ See [Contributing](.github/CONTRIBUTING.md).
 _Related: [Database Management](#database-management), [Personal Dashboards](#personal-dashboards)_
 
 - [Ackee](https://ackee.electerious.com) - Self-hosted analytics tool for those who care about privacy. ([Demo](http://demo.ackee.electerious.com), [Source Code](https://github.com/electerious/Ackee)) `MIT` `Nodejs/Docker/K8S`
-- [Aptabase](https://aptabase.com/) - Open Source, Privacy-First and Simple Analytics for Mobile and Desktop apps. SDKs available for Swift, Kotlin, Flutter and many others! ([Source Code](https://github.com/aptabase/aptabase)) `AGPL-3.0` `Docker`
+- [Aptabase](https://aptabase.com/) - Open source, privacy first and simple analytics for mobile and desktop apps. SDKs available for Swift, Kotlin, Flutter and many others! ([Source Code](https://github.com/aptabase/aptabase)) `AGPL-3.0` `Docker`
 - [AWStats](http://www.awstats.org/) - Generate statistics from web, streaming, ftp or mail server logfiles. ([Source Code](https://github.com/eldy/awstats)) `GPL-3.0` `Perl`
 - [Countly Community Edition](https://count.ly) - Real time mobile and web analytics, crash reporting and push notifications platform. ([Source Code](https://github.com/countly)) `AGPL-3.0` `Nodejs/Docker`
 - [Druid](http://druid.io/) - Distributed, column-oriented, real-time analytics data store. ([Source Code](https://github.com/druid-io/druid)) `Apache-2.0` `Java/Docker`
