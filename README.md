@@ -1653,7 +1653,7 @@ _Related: [Web Servers](#web-servers)_
 - [Squid](http://www.squid-cache.org/) - Caching proxy for the Web supporting HTTP, HTTPS, FTP, and more. It reduces bandwidth and improves response times by caching and reusing frequently-requested web pages. ([Source Code](https://code.launchpad.net/squid)) `GPL-2.0` `C`
 - [SWAG (Secure Web Application Gateway)](https://github.com/linuxserver/docker-swag) - Nginx webserver and reverse proxy with PHP support, built-in Certbot (Let's Encrypt) client and fail2ban integration. `GPL-3.0` `Docker`
 - [Tinyproxy](https://tinyproxy.github.io/) - Light-weight HTTP/HTTPS proxy daemon. ([Source Code](https://github.com/tinyproxy/tinyproxy)) `GPL-2.0` `C`
-- [Tunnel Mole](https://tunnelmole.com/) - Tunnelmole is a simple tool to give your locally running web applications a public URL. Opensource alternative to ngrok. ([Source Code](https://github.com/robbie-cahill/tunnelmole-service)) `AGPL-3.0` `Nodejs`
+- [Tunnel Mole](https://tunnelmole.com/) - A simple tool to give your locally running web applications a public URL. Open source alternative to ngrok. ([Source Code](https://github.com/robbie-cahill/tunnelmole-service)) `AGPL-3.0` `Nodejs`
 
 ### Recipe Management
 
