@@ -74,7 +74,6 @@ See [Contributing](.github/CONTRIBUTING.md).
   - [Office Suites](#office-suites)
   - [Password Managers](#password-managers)
   - [Pastebins](#pastebins)
-  - [Payment Processors](#payment-processors)
   - [Personal Dashboards](#personal-dashboards)
   - [Photo and Video Galleries](#photo-and-video-galleries)
   - [Polls and Events](#polls-and-events)
@@ -1544,16 +1543,6 @@ A [pastebin](https://en.wikipedia.org/wiki/Pastebin) is a type of online content
 - [Sup3rS3cretMes5age](https://github.com/algolia/sup3rS3cretMes5age) - Very simple (to deploy and to use) secret message service using Hashicorp Vault as a secrets storage. `MIT` `Go`
 - [wantguns/bin](https://github.com/wantguns/bin) - Minimal pastebin for both textual and binary files shipped in a single statically linked binary. ([Demo](https://basedbin.fly.dev)) `GPL-3.0` `Rust`
 - [Wastebin](https://github.com/matze/wastebin) - Lightweight, minimal and fast pastebin with an SQLite backend. ([Demo](https://bin.bloerg.net)) `MIT` `Rust`
-
-
-### Payment Processors
-
-**[`^        back to top        ^`](#awesome-selfhosted)**
-
-A payment processor is a system that enables financial transactions, commonly employed by a merchant, to handle transactions with customers from various channels such as credit cards and debit cards or bank accounts.
-
-- [HyperSwitch](https://github.com/juspay/hyperswitch) - An Open Source Financial Switch to make Payments fast, reliable & affordable.
-  `Apache-2.0` `Rust`
 
 ### Personal Dashboards
 
