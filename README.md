@@ -464,7 +464,7 @@ Simple deployment of [E-mail](https://en.wikipedia.org/wiki/Email) servers, e.g.
 - [Postorius](https://docs.mailman3.org/projects/postorius/en/latest/) - Web user interface to access GNU Mailman. ([Source Code](https://gitlab.com/mailman/postorius/)) `GPL-3.0` `Python`
 - [Schleuder](https://schleuder.nadir.org/) - GPG-enabled mailing list manager with resending-capabilities. ([Source Code](https://0xacab.org/schleuder/schleuder/tree/master)) `GPL-3.0` `Ruby`
 - [Sympa](https://www.sympa.community/) - Mailing list manager. `GPL-2.0` `Perl`
-
+- [Bespoke](https://bespoke.surf) - The open source Mailchimp alternative. Combining best parts of Mailchimp, Kalviyo's automation, Substack's newsletter and Typeform for surveys. ([Source Code](https://github.com/bespoke-surf/bespoke)) `MIT-Licenced` `Nodejs`
 
 ### Communication - Email - Webmail Clients
 
