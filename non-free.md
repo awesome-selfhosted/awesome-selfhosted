@@ -145,7 +145,7 @@
 
 ### Software Development - Project Management
 
-- [92five](https://92fiveapp.com/) - Self-hosted project management application. ([Source code](https://github.com/chintanbanugaria/92five)) `⊘ Proprietary` `PHP`
+- [92five](https://92fiveapp.com/) - Self-hosted project management application. `⊘ Proprietary` `PHP`
 - [Active Collab](https://activecollab.com/) - Project management. `⊘ Proprietary` `PHP`
 - [BitBucket Server](https://www.atlassian.com/software/bitbucket/enterprise/data-center) - Enterprise-level Git solution similar to GitLab. `⊘ Proprietary` `Java`
 - [Buddy Enterprise](https://buddy.works/) - Git and Continuous Integration/Delivery Platform. `⊘ Proprietary` `Nodejs/Java`
