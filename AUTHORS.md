@@ -1108,6 +1108,7 @@
 |1|Simon Vandevelde <simon.vandevelde@hotmail.com>|
 |1|SimonFischerSE <101107387+SimonFischerSE@users.noreply.github.com>|
 |1|SlidingHorn <slidinghorn@protonmail.com>|
+|1|Soham Sen <hello@sohamsen.me>|
 |1|Sourabh Joshi <38150665+sourabh-joshi@users.noreply.github.com>|
 |1|Spencer McIntyre <zeroSteiner@gmail.com>|
 |1|Spencer Muise <spencermuise@gmail.com>|
