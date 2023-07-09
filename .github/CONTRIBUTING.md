@@ -11,5 +11,6 @@ Other recommendations:
 - A website to help you format new entries is available at https://n8225.github.io/
 - The list of contributors can be updated with `make contrib`. 
 - Software with no development activity for 6-12 months may be removed from the list.
+- Approved Pull Requests are usually merged one week after approval.
 - Don't know where to start? Check issues labeled [`help wanted`](https://github.com/awesome-selfhosted/awesome-selfhosted/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22) and [`fix`](https://github.com/awesome-selfhosted/awesome-selfhosted/issues?q=is%3Aissue+is%3Aopen+label%3Afix).
 
