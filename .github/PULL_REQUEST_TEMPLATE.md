@@ -24,6 +24,7 @@ To ensure your PR is dealt with swiftly please check the following:
   If not, your addition may be inserted into `Miscellaneous`.
 - [ ] Any software project you are adding to the list is actively maintained.
 - [ ] Any software project you are adding has working installation instructions.
+- [ ] If you are adding software forked from another project, please provide/link to a clear list of differences between both.
 - [ ] The pull request title is informative, unlike "Update README.md".
   Suggested titles: "Add aaa to bbb" for adding software aaa to section bbb,
   "Remove aaa from bbb" for removing, "Fix license for aaa", etc.
