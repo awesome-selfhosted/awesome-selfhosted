@@ -21,7 +21,7 @@ To ensure your PR is dealt with swiftly please check the following:
 - [ ] Any license you add is in our [list of licenses](https://github.com/awesome-selfhosted/awesome-selfhosted/blob/master/README.md#list-of-licenses).
 - [ ] You have searched the repository for any relevant [issues](https://github.com/awesome-selfhosted/awesome-selfhosted/issues) or [PRs](https://github.com/awesome-selfhosted/awesome-selfhosted/pulls), including closed ones.
 - [ ] Any category you are creating has the minimum requirement of 3 items.
-  If not, your addition may be inserted into `Misc/Other`.
+  If not, your addition may be inserted into `Miscellaneous`.
 - [ ] Any software project you are adding to the list is actively maintained.
 - [ ] Any software project you are adding has working installation instructions.
 - [ ] The pull request title is informative, unlike "Update README.md".
