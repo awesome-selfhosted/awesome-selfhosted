@@ -498,7 +498,7 @@ Simple deployment of [E-mail](https://en.wikipedia.org/wiki/Email) servers, e.g.
 - [Robust IRC](https://robustirc.net/) - RobustIRC is IRC without netsplits. Distributed IRC server, based on RobustSession protocol. ([Source Code](https://github.com/robustirc/robustirc)) `BSD-3-Clause` `Go`
 - [The Lounge](https://thelounge.chat/) - Self-hosted web IRC client. ([Demo](https://demo.thelounge.chat/), [Source Code](https://github.com/thelounge/thelounge)) `MIT` `Nodejs/Docker`
 - [UnrealIRCd](https://www.unrealircd.org/) - Modular, advanced and highly configurable IRC server written in C for Linux, BSD, Windows, and macOS. ([Source Code](https://github.com/unrealircd/unrealircd)) `GPL-2.0` `C`
-- [Weechat](https://weechat.org/) - Fast, light and extensible chat client. `GPL-3.0` `C`
+- [Weechat](https://weechat.org/) - Fast, light and extensible chat client. ([Source Code](https://github.com/weechat/weechat)) `GPL-3.0` `C/Docker`
 - [ZNC](https://wiki.znc.in/ZNC) - Advanced IRC bouncer. ([Source Code](https://github.com/znc/znc)) `Apache-2.0` `C++`
 
 
@@ -518,7 +518,7 @@ Simple deployment of [E-mail](https://en.wikipedia.org/wiki/Email) servers, e.g.
 - [Kamailio](https://www.kamailio.org/w/) - Modular SIP server (registrar/proxy/router/etc). ([Source Code](https://github.com/kamailio/kamailio)) `GPL-2.0` `C`
 - [Kazoo](https://2600hz.org/) - KAZOO is an open-source, highly scalable software platform designed to provide carrier-grade VoIP switch functions and features. ([Source Code](https://github.com/2600hz/KAZOO)) `MPL-1.1` `Erlang`
 - [openSIPS](https://opensips.org/) - OpenSIPS is an Open Source SIP proxy/server for voice, video, IM, presence and any other SIP extensions. ([Source Code](https://github.com/OpenSIPS/opensips)) `GPL-2.0` `C`
-- [Routr](https://routr.io) - A lightweight sip proxy, location server, and registrar for a reliable and scalable SIP infrastructure. ([Source Code](https://github.com/fonoster/routr)) `MIT` `Docker`
+- [Routr](https://routr.io) - A lightweight sip proxy, location server, and registrar for a reliable and scalable SIP infrastructure. ([Source Code](https://github.com/fonoster/routr)) `MIT` `Docker/K8S`
 - [SIP3](https://sip3.io/) - VoIP troubleshooting and monitoring platform. ([Demo](https://demo.sip3.io), [Source Code](https://github.com/sip3io/)) `Apache-2.0` `Kotlin`
 - [SIPCAPTURE Homer](https://www.sipcapture.org/) - Troubleshooting and monitoring VoIP calls. ([Source Code](https://github.com/sipcapture/homer)) `AGPL-3.0` `Angular/C`
 - [Wazo](https://wazo-platform.org/) - Full-featured IPBX solution built atop Asterisk with integrated Web administration interface and REST-ful API. ([Source Code](https://github.com/wazo-platform)) `GPL-3.0` `Python`
@@ -531,39 +531,39 @@ Simple deployment of [E-mail](https://en.wikipedia.org/wiki/Email) servers, e.g.
 
 [Social Networking](https://en.wikipedia.org/wiki/Social_networking_service) and [Forum](https://en.wikipedia.org/wiki/Internet_forum) software.
 
-- [Akkoma](https://akkoma.social/) - Federated microblogging server with Mastodon, GNU social, and ActivityPub compatibility. ([Source Code](https://akkoma.dev/AkkomaGang/akkoma)) `AGPL-3.0` `Elixir`
+- [Akkoma](https://akkoma.social/) - Federated microblogging server with Mastodon, GNU social, and ActivityPub compatibility. ([Source Code](https://akkoma.dev/AkkomaGang/akkoma)) `AGPL-3.0` `Elixir/Docker`
 - [Anahita](https://www.anahita.io/) - Open Source Social Networking Framework and Platform. ([Source Code](https://github.com/anahitasocial/anahita)) `GPL-3.0` `PHP`
 - [Answer](https://answer.dev/) - An open-source knowledge-based community software. You can use it to quickly build your Q&A community for product technical support, customer support, user communication, and more. ([Source Code](https://github.com/answerdev/answer)) `Apache-2.0` `Docker/Go`
 - [AsmBB](https://board.asm32.info) - A fast, SQLite-powered forum engine written in ASM. ([Source Code](https://asm32.info/fossil/asmbb/index)) `EUPL-1.2` `Assembly`
 - [Bibliogram](https://bibliogram.art) `⚠` - An alternative front-end for Instagram. ([Source Code](https://sr.ht/~cadence/bibliogram/)) `AGPL-3.0` `Nodejs`
 - [Buddycloud](http://buddycloud.com/) - Tools, libraries, services and a community to build user-to-user, group and social messaging into your app. Saves time. Scales up. Supports you. ([Source Code](https://github.com/buddycloud)) `Apache-2.0` `Java`
 - [BuddyPress](https://buddypress.org/about/) - Powerful plugin that takes your WordPress.org powered site beyond the blog with social-network features like user profiles, activity streams, user groups, and more. ([Source Code](https://github.com/buddypress/BuddyPress)) `GPL-2.0` `PHP`
-- [Cactus Comments](https://cactus.chat/) - Cactus Comments is a federated comment system for the open web built on Matrix. ([Demo](https://cactus.chat/demo/), [Source Code](https://gitlab.com/cactus-comments/)) `GPL-3.0` `Python`
+- [Cactus Comments](https://cactus.chat/) - Cactus Comments is a federated comment system for the open web built on Matrix. ([Demo](https://cactus.chat/demo/), [Source Code](https://gitlab.com/cactus-comments/)) `GPL-3.0` `Docker/Python`
 - [Chirpy](https://chirpy.dev) - Chirpy is an open-source, privacy-friendly and customizable Disqus (comment system) alternate. ([Demo](https://chirpy.dev/play), [Source Code](https://github.com/devrsi0n/chirpy)) `AGPL-3.0` `Docker/Nodejs`
-- [Commento](https://gitlab.com/commento/commento) - Commento is a discussion platform that you can embed on your blog, news articles, and any place where you want your readers to add comments. `MIT` `Go`
-- [Coral](https://coralproject.net/) - A better commenting experience from Vox Media. ([Source Code](https://github.com/coralproject/talk)) `Apache-2.0` `Nodejs`
+- [Commento](https://gitlab.com/commento/commento) - Commento is a discussion platform that you can embed on your blog, news articles, and any place where you want your readers to add comments. `MIT` `Go/Docker`
+- [Coral](https://coralproject.net/) - A better commenting experience from Vox Media. ([Source Code](https://github.com/coralproject/talk)) `Apache-2.0` `Docker/Nodejs`
 - [diaspora*](https://diasporafoundation.org/) - Distributed social networking server. ([Source Code](https://github.com/diaspora/diaspora)) `AGPL-3.0` `Ruby`
-- [Discourse](https://www.discourse.org/) - Advanced forum / community solution based on Ruby and JS. ([Demo](https://try.discourse.org/), [Source Code](https://github.com/discourse/discourse)) `GPL-2.0` `Ruby`
+- [Discourse](https://www.discourse.org/) - Advanced forum / community solution based on Ruby and JS. ([Demo](https://try.discourse.org/), [Source Code](https://github.com/discourse/discourse)) `GPL-2.0` `Docker`
 - [Elgg](https://elgg.org/) - Powerful open source social networking engine. ([Source Code](https://github.com/Elgg/Elgg)) `GPL-2.0` `PHP`
 - [Enigma 1/2 BBS](https://nuskooler.github.io/enigma-bbs/) - Enigma 1/2 is a modern, multi-platform BBS engine with unlimited "callers" and legacy DOS door game support. ([Demo](https://l33t.codes/xibalba-bbs/), [Source Code](https://github.com/NuSkooler/enigma-bbs)) `BSD-2-Clause` `Shell/Docker/Nodejs`
 - [Flarum](https://flarum.org) - Delightfully simple forums. Flarum is the next-generation forum software that makes online discussion fun again. ([Source Code](https://github.com/flarum/flarum)) `MIT` `PHP`
 - [FlaskBB](https://flaskbb.org/) - FlaskBB is forum software written in Python using the microframework Flask. You can easily create new topics, posts and send other users private messages. It also includes basic administration and moderation tools. ([Source Code](https://github.com/flaskbb/flaskbb)) `BSD-3-Clause` `Python`
 - [Friendica](https://friendi.ca/) - Social Communication Server. ([Source Code](https://github.com/friendica/friendica)) `AGPL-3.0` `PHP`
-- [GNU social](https://www.gnusocial.rocks/) - Social communication software for both public and private communications. ([Source Code](https://codeberg.org/GNUsocial/gnu-social)) `AGPL-3.0` `PHP`
+- [GNU social](https://www.gnusocial.rocks/) - Social communication software for both public and private communications. ([Source Code](https://codeberg.org/GNUsocial/gnu-social)) `AGPL-3.0` `PHP/Docker`
 - [GoToSocial](https://github.com/superseriousbusiness/gotosocial) - ActivityPub federated social network server implementing the Mastodon client API. `AGPL-3.0` `Docker/Go`
 - [Hubzilla](https://hubzilla.org) - Decentralized identity, privacy, publishing, sharing, cloud storage, and communications/social platform. ([Source Code](https://framagit.org/hubzilla/core)) `MIT` `PHP`
 - [HumHub](https://www.humhub.org/) - Flexible kit for private social networks. ([Source Code](https://github.com/humhub/humhub)) `AGPL-3.0` `PHP`
 - [Isso](https://isso-comments.de/) - Lightweight commenting server written in Python and Javascript. It aims to be a drop-in replacement for Disqus. ([Source Code](https://github.com/posativ/isso)) `MIT` `Python/Docker`
 - [kbin](https://kbin.pub/) - Federated content aggregator and microblogging platform. ([Source Code](https://github.com/ernestwisniewski/kbin)) `AGPL-3.0` `PHP/Nodejs/Docker`
-- [Lemmy](https://join-lemmy.org/) - A link aggregator / reddit clone for the fediverse. Reddit alternative built in Rust. ([Source Code](https://github.com/LemmyNet/lemmy)) `AGPL-3.0` `Rust`
+- [Lemmy](https://join-lemmy.org/) - A link aggregator / reddit clone for the fediverse. Reddit alternative built in Rust. ([Source Code](https://github.com/LemmyNet/lemmy)) `AGPL-3.0` `Docker/Rust`
 - [Libreddit](https://github.com/spikecodes/libreddit/) `⚠` - Private front-end for Reddit written in Rust. `AGPL-3.0` `Rust`
-- [Loomio](https://www.loomio.org/) - Loomio is a collaborative decision-making tool that makes it easy for anyone to participate in decisions which affect them. ([Source Code](https://github.com/loomio/loomio)) `AGPL-3.0` `Ruby`
-- [Mastodon](https://joinmastodon.org/) - Federated microblogging server, an alternative to GNU social. ([Source Code](https://github.com/mastodon/mastodon)) `AGPL-3.0` `Ruby`
-- [Misago](https://misago-project.org/) - Misago is fully featured modern forum application that is fast, scalable and responsive. ([Source Code](https://github.com/rafalp/Misago)) `GPL-2.0` `Python`
-- [Misskey](https://misskey.io/) - Decentralized app-like microblogging server/SNS for the Fediverse, using the ActivityPub protocol like GNU social and Mastodon. ([Source Code](https://github.com/misskey-dev/misskey)) `AGPL-3.0` `Nodejs`
-- [Movim](https://movim.eu/) - Modern, federated social network based on XMPP, with a fully featured group-chat, subscriptions and microblogging. ([Source Code](https://github.com/movim/movim)) `AGPL-3.0` `PHP`
+- [Loomio](https://www.loomio.org/) - Loomio is a collaborative decision-making tool that makes it easy for anyone to participate in decisions which affect them. ([Source Code](https://github.com/loomio/loomio)) `AGPL-3.0` `Docker`
+- [Mastodon](https://joinmastodon.org/) - Federated microblogging server, an alternative to GNU social. ([Source Code](https://github.com/tootsuite/mastodon)) `AGPL-3.0` `Ruby`
+- [Misago](https://misago-project.org/) - Misago is fully featured modern forum application that is fast, scalable and responsive. ([Source Code](https://github.com/rafalp/Misago)) `GPL-2.0` `Docker`
+- [Misskey](https://misskey.io/) - Decentralized app-like microblogging server/SNS for the Fediverse, using the ActivityPub protocol like GNU social and Mastodon. ([Source Code](https://github.com/misskey-dev/misskey)) `AGPL-3.0` `Nodejs/Docker`
+- [Movim](https://movim.eu/) - Modern, federated social network based on XMPP, with a fully featured group-chat, subscriptions and microblogging. ([Source Code](https://github.com/movim/movim)) `AGPL-3.0` `PHP/Docker`
 - [MyBB](https://mybb.com/) - Free, extensible forum software package. ([Source Code](https://github.com/mybb/mybb)) `LGPL-3.0` `PHP`
-- [Nitter](https://nitter.net) `⚠` - A alternative front end to twitter. ([Source Code](https://github.com/zedeus/nitter)) `AGPL-3.0` `Nimble`
+- [Nitter](https://nitter.net) `⚠` - A alternative front end to twitter. ([Source Code](https://github.com/zedeus/nitter)) `AGPL-3.0` `Nimble/Docker`
 - [NodeBB](https://nodebb.org/) - Forum software built for the modern web. ([Source Code](https://github.com/NodeBB/NodeBB)) `GPL-3.0` `Nodejs`
 - [Orange Forum](https://www.goodoldweb.com/) - Orange Forum is an easy to deploy forum that has minimal dependencies and uses very little javascript. ([Source Code](https://github.com/s-gv/orangeforum)) `BSD-3-Clause` `Go`
 - [OSSN](https://www.opensource-socialnetwork.org/) - Open Source Social Network (OSSN) is a social networking software written in PHP. It allows you to make a social networking website and helps your members build social relationships, with people who share similar professional or personal interests. ([Source Code](https://github.com/opensource-socialnetwork/opensource-socialnetwork)) `GPL-2.0` `PHP`
@@ -571,15 +571,15 @@ Simple deployment of [E-mail](https://en.wikipedia.org/wiki/Email) servers, e.g.
 - [PixelFed](https://pixelfed.social) - Pixelfed is an open-source, federated platform alternate to Instagram. ([Source Code](https://github.com/pixelfed/pixelfed)) `AGPL-3.0` `PHP`
 - [Pleroma](https://pleroma.social) - Federated microblogging server, Mastodon, GNU social, & ActivityPub compatible. ([Source Code](https://git.pleroma.social/pleroma/pleroma)) `AGPL-3.0` `Elixir`
 - [qpixel](https://codidact.com/) - Q&A-based community knowledge-sharing software. ([Source Code](https://github.com/codidact/qpixel)) `AGPL-3.0` `Ruby`
-- [remark42](https://remark42.com/) - A lightweight and simple comment engine, which doesn't spy on users. It can be embedded into blogs, articles or any other place where readers add comments. ([Demo](https://remark42.com/demo/), [Source Code](https://github.com/umputun/remark42)) `MIT` `Go`
+- [remark42](https://remark42.com/) - A lightweight and simple comment engine, which doesn't spy on users. It can be embedded into blogs, articles or any other place where readers add comments. ([Demo](https://remark42.com/demo/), [Source Code](https://github.com/umputun/remark42)) `MIT` `Docker/Go`
 - [Retrospring](https://github.com/retrospring/retrospring) - A free, open-source social network following the Q/A (question and answer) principle of sites like Formspring, ask.fm or CuriousCat. ([Demo](https://retrospring.net)) `AGPL-3.0` `Ruby/Nodejs`
 - [schnack](https://github.com/schn4ck/schnack) - Schnack is simple self-hosted node app for Disqus-like drop-in commenting on static websites. `LIL-1.0` `Nodejs`
-- [Scoold](https://scoold.com) - Stack Overflow in a JAR. An enterprise-ready Q&A platform with full-text search, SAML, LDAP integration and social login support. ([Demo](https://live.scoold.com), [Source Code](https://github.com/Erudika/scoold)) `Apache-2.0` `Java`
-- [Simple Machines Forum](https://www.simplemachines.org/) - Free, professional grade software package that allows you to set up your own online community within minutes. ([Source Code](https://github.com/SimpleMachines/SMF)) `BSD-3-Clause` `PHP`
-- [Socialhome](https://socialhome.network) - Federated and decentralized profile builder and social network engine. ([Demo](https://socialhome.network/), [Source Code](https://github.com/jaywink/socialhome)) `AGPL-3.0` `Python`
+- [Scoold](https://scoold.com) - Stack Overflow in a JAR. An enterprise-ready Q&A platform with full-text search, SAML, LDAP integration and social login support. ([Demo](https://live.scoold.com), [Source Code](https://github.com/Erudika/scoold)) `Apache-2.0` `Java/Docker/K8S`
+- [Simple Machines Forum](https://www.simplemachines.org/) - Free, professional grade software package that allows you to set up your own online community within minutes. ([Source Code](https://github.com/SimpleMachines/SMF2.1)) `BSD-3-Clause` `PHP`
+- [Socialhome](https://socialhome.network) - Federated and decentralized profile builder and social network engine. ([Demo](https://socialhome.network/), [Source Code](https://github.com/jaywink/socialhome)) `AGPL-3.0` `Docker/Python`
 - [Takahē](https://jointakahe.org/) - Federated microblogging server. Mastodon, & ActivityPub compatible. ([Source Code](https://github.com/jointakahe/takahe)) `BSD-3-Clause` `Docker`
-- [Talkyard](https://www.talkyard.io/) - Create a community, where your users can suggest ideas and get questions answered. And have friendly open-ended discussions and chat (Slack/StackOverflow/Discourse/Reddit/Disqus hybrid). ([Demo](https://www.talkyard.io/forum/latest), [Source Code](https://github.com/debiki/talkyard)) `AGPL-3.0` `Scala`
-- [Teddit](https://teddit.net) `⚠` - Alternative Reddit front-end focused on privacy. ([Source Code](https://codeberg.org/teddit/teddit)) `AGPL-3.0` `Nodejs`
+- [Talkyard](https://www.talkyard.io/) - Create a community, where your users can suggest ideas and get questions answered. And have friendly open-ended discussions and chat (Slack/StackOverflow/Discourse/Reddit/Disqus hybrid). ([Demo](https://www.talkyard.io/forum/latest), [Source Code](https://github.com/debiki/talkyard)) `AGPL-3.0` `Docker/Scala`
+- [Teddit](https://teddit.net) `⚠` - Alternative Reddit front-end focused on privacy. ([Source Code](https://codeberg.org/teddit/teddit)) `AGPL-3.0` `Nodejs/Docker`
 - [Thredded](https://github.com/thredded/thredded) - Forums, feature-rich and simple. `MIT` `Ruby`
 - [Vanilla Forums](https://vanillaforums.org/) - Simple and flexible forum software. ([Source Code](https://github.com/vanilla/vanilla)) `GPL-2.0` `PHP`
 - [yarn.social](https://yarn.social) - Self-Hosted, Twitter™-like Decentralised micro-logging platform. No ads, no tracking, your content, your data. ([Source Code](https://git.mills.io/yarnsocial/yarn)) `MIT` `Go`
@@ -603,7 +603,7 @@ _Related: [Conference Management](#conference-management)_
 - [MiroTalk P2P](https://p2p.mirotalk.com) - Simple, secure, fast real-time video conferences up to 4k and 60fps, compatible with all browsers and platforms. ([Demo](https://p2p.mirotalk.com/newcall), [Source Code](https://github.com/miroslavpejic85/mirotalk)) `AGPL-3.0` `Nodejs/Docker`
 - [MiroTalk SFU](https://sfu.mirotalk.com) - Simple, secure, scalable real-time video conferences up to 4k, compatible with all browsers and platforms. ([Demo](https://sfu.mirotalk.com/newroom), [Source Code](https://github.com/miroslavpejic85/mirotalksfu)) `AGPL-3.0` `Nodejs/Docker`
 - [plugNmeet](https://www.plugnmeet.org/) - Scalable, High Performance, Open source web conferencing system. ([Demo](https://demo.plugnmeet.com/login.html), [Source Code](https://github.com/mynaparrot/plugNmeet-server)) `MIT` `Docker/Go`
-- [Wirow](https://github.com/wirow-io/wirow-server) - A full featured self-hosted video web-conferencing platform. `AGPL-3.0` `C`
+- [Wirow](https://github.com/wirow-io/wirow-server) - A full featured self-hosted video web-conferencing platform. `AGPL-3.0` `Docker/C`
 
 
 ### Communication - XMPP - Servers
@@ -612,14 +612,14 @@ _Related: [Conference Management](#conference-management)_
 
 [Extensible Messaging and Presence Protocol](https://en.wikipedia.org/wiki/XMPP) servers.
 
-- [ejabberd](https://www.ejabberd.im/) - XMPP instant messaging server. ([Source Code](https://github.com/processone/ejabberd)) `GPL-2.0` `Erlang`
-- [jackal](https://github.com/ortuman/jackal) - XMPP server with focus on stability, simple configuration and low resource consumption. `Apache-2.0` `Go`
+- [ejabberd](https://www.ejabberd.im/) - XMPP instant messaging server. ([Source Code](https://github.com/processone/ejabberd)) `GPL-2.0` `Erlang/Docker`
+- [jackal](https://github.com/ortuman/jackal) - XMPP server with focus on stability, simple configuration and low resource consumption. `Apache-2.0` `Go/Docker`
 - [Metronome IM](https://metronome.im/) - Fork of Prosody IM. ([Source Code](https://github.com/maranda/metronome)) `MIT` `Lua`
-- [MongooseIM](https://www.erlang-solutions.com/products/mongooseim.html) - Mobile messaging platform with a focus on performance and scalability. ([Source Code](https://github.com/esl/MongooseIM)) `GPL-2.0` `Erlang`
+- [MongooseIM](https://www.erlang-solutions.com/products/mongooseim.html) - Mobile messaging platform with a focus on performance and scalability. ([Source Code](https://github.com/esl/MongooseIM)) `GPL-2.0` `Erlang/Docker/K8S`
 - [Openfire](https://www.igniterealtime.org/projects/openfire/) - Real time collaboration (RTC) server. ([Source Code](https://github.com/igniterealtime/Openfire)) `Apache-2.0` `Java`
 - [Prosody IM](https://prosody.im/) - Feature-rich and easy to configure XMPP server. ([Source Code](https://hg.prosody.im/)) `MIT` `Lua`
-- [Snikket](https://snikket.org/) - All-in-one Dockerized easy XMPP solution, including web admin and clients. ([Source Code](https://github.com/snikket-im/snikket-server), [Clients](https://snikket.org/app/)) `Apache-2.0` `Lua/Python`
-- [Tigase](https://tigase.net/xmpp-server) - XMPP server implementation in Java. `GPL-3.0` `Java`
+- [Snikket](https://snikket.org/) - All-in-one Dockerized easy XMPP solution, including web admin and clients. ([Source Code](https://github.com/snikket-im/snikket-server), [Clients](https://snikket.org/app/)) `Apache-2.0` `Docker`
+- [Tigase](https://tigase.net/xmpp-server) - XMPP server implementation in Java. ([Source Code](https://github.com/tigase/tigase-server)) `GPL-3.0` `Java`
 
 
 ### Communication - XMPP - Web Clients
@@ -643,8 +643,8 @@ Management and administration tools for community supported agriculture and food
 _Related: [E-commerce](#e-commerce)_
 
 - [ACP Admin](https://acp-admin.ch/) - CSA administration. Manage members, subscriptions, deliveries, drop-off locations, member participation, invoices and emails. ([Source Code](https://github.com/acp-admin/acp-admin/)) `MIT` `Ruby`
-- [FoodCoopShop](https://www.foodcoopshop.com/) - User-friendly open source software for food-coops. ([Source Code](https://github.com/foodcoopshop/foodcoopshop)) `AGPL-3.0` `PHP`
-- [Foodsoft](https://foodcoops.net/) - Web-based software to manage a non-profit food coop (product catalog, ordering, accounting, job scheduling). ([Source Code](https://github.com/foodcoops/foodsoft)) `AGPL-3.0` `Ruby`
+- [FoodCoopShop](https://www.foodcoopshop.com/) - User-friendly open source software for food-coops. ([Source Code](https://github.com/foodcoopshop/foodcoopshop)) `AGPL-3.0` `PHP/Docker`
+- [Foodsoft](https://foodcoops.net/) - Web-based software to manage a non-profit food coop (product catalog, ordering, accounting, job scheduling). ([Source Code](https://github.com/foodcoops/foodsoft)) `AGPL-3.0` `Docker/Ruby`
 - [juntagrico](https://juntagrico.org/) - Management platform for community gardens and vegetable cooperatives. ([Source Code](https://github.com/juntagrico/juntagrico)) `LGPL-3.0` `Python`
 - [Local Food Nodes](https://localfoodnodes.org/) - Your open source platform for peoples driven local food markets and CSA. ([Source Code](https://gitlab.com/localfoodnodes/localfoodnodes)) `MIT` `PHP`
 - [Open Food Network](https://www.openfoodnetwork.org/) - Online marketplace for local food. It enables a network of independent online food stores that connect farmers and food hubs with individuals and local businesses. ([Source Code](https://github.com/openfoodfoundation/openfoodnetwork)) `AGPL-3.0` `Ruby`
@@ -659,9 +659,9 @@ _Related: [E-commerce](#e-commerce)_
 Software for submission of [abstracts](https://en.wikipedia.org/wiki/Abstract_management) and preparation/management of academic conferences.
 
 - [Conference Organizing Distribution (COD)](http://usecod.com/) - Create conference and event websites built on top of Drupal. ([Source Code](https://git.drupalcode.org/project/cod)) `GPL-2.0` `PHP`
-- [frab](https://frab.github.io/frab/) - Web-based conference planning and management system. It helps to collect submissions, to manage talks and speakers and to create a schedule. ([Source Code](https://github.com/frab/frab)) `MIT` `Ruby`
+- [frab](https://frab.github.io/frab/) - Web-based conference planning and management system. It helps to collect submissions, to manage talks and speakers and to create a schedule. ([Source Code](https://github.com/frab/frab)) `MIT` `Ruby/Docker`
 - [indico](https://getindico.io/) - A feature-rich event management system, made @ CERN, the place where the Web was born. ([Demo](https://sandbox.getindico.io/), [Source Code](https://github.com/indico/indico)) `MIT` `Python`
-- [osem](https://osem.io/) - Event management tailored to free Software conferences. ([Source Code](https://github.com/openSUSE/osem)) `MIT` `Ruby`
+- [osem](https://osem.io/) - Event management tailored to free Software conferences. ([Source Code](https://github.com/openSUSE/osem)) `MIT` `Ruby/Docker`
 - [pretalx](https://pretalx.org) - Web-based event management, including running a Call for Papers, reviewing submissions, and scheduling talks. Exports and imports for various related tools. ([Source Code](https://github.com/pretalx/pretalx)) `Apache-2.0` `Python`
 
 
@@ -681,8 +681,8 @@ _Related: [Blogging Platforms](#blogging-platforms), [Static Site Generators](#s
 - [Bludit](https://www.bludit.com/) `⚠` - Simple application to build a site or blog in seconds. Bludit uses flat-files (text files in JSON format) to store posts and pages. ([Demo](https://demo.bludit.com/), [Source Code](https://github.com/bludit/bludit)) `MIT` `PHP`
 - [Bolt CMS](https://boltcms.io/) - Open source Content Management Tool, which strives to be as simple and straightforward as possible. ([Source Code](https://github.com/bolt/core)) `MIT` `PHP`
 - [CMS Made Simple](https://www.cmsmadesimple.org/) - Open source content management system, faster and easier management of website contents, scalable for small businesses to large corporations. ([Source Code](http://svn.cmsmadesimple.org/svn/cmsmadesimple/trunk/)) `GPL-2.0` `PHP`
-- [Cockpit](https://getcockpit.com) - Simple Content Platform to manage any structured content. ([Source Code](https://github.com/agentejo/cockpit)) `MIT` `PHP`
-- [Concrete 5 CMS](https://www.concretecms.com) - Open source content management system. ([Source Code](https://github.com/concretecms/concretecms)) `MIT` `PHP`
+- [Cockpit](https://getcockpit.com) - Simple Content Platform to manage any structured content. ([Source Code](https://github.com/Cockpit-HQ/Cockpit)) `MIT` `PHP`
+- [Concrete 5 CMS](https://www.concretecms.com) - Open source content management system. ([Source Code](https://github.com/concrete5/concrete5)) `MIT` `PHP`
 - [Contao](https://contao.org/) - Contao is a powerful open source CMS that allows you to create professional websites and scalable web applications. ([Source Code](https://github.com/contao/contao/)) `LGPL-3.0` `PHP`
 - [CouchCMS](https://www.couchcms.com/) - Simple Open-Source CMS for designers. ([Source Code](https://github.com/CouchCMS/CouchCMS)) `CPAL-1.0` `PHP`
 - [Drupal](https://www.drupal.org/) - Advanced open source content management platform. ([Source Code](https://git.drupalcode.org/project/drupal)) `GPL-2.0` `PHP`
@@ -697,12 +697,12 @@ _Related: [Blogging Platforms](#blogging-platforms), [Static Site Generators](#s
 - [Omeka](https://omeka.org) - Create complex narratives and share rich collections, adhering to Dublin Core standards with Omeka on your server, designed for scholars, museums, libraries, archives, and enthusiasts. ([Demo](https://omeka.org/classic/showcase/), [Source Code](https://github.com/omeka/Omeka)) `GPL-3.0` `PHP`
 - [Payload CMS](https://payloadcms.com/) - Developer-first headless CMS and application framework. ([Demo](https://demo.payloadcms.com), [Source Code](https://github.com/payloadcms/payload)) `MIT` `Nodejs`
 - [Pico](https://picocms.org/) - Stupidly simple, blazing fast, flat file CMS. ([Source Code](https://github.com/picocms/Pico)) `MIT` `PHP`
-- [Pimcore](https://www.pimcore.org/) - Multi-Channel Experience and Engagement Management Platform. ([Source Code](https://github.com/pimcore/pimcore)) `GPL-3.0` `PHP`
-- [Plone](https://plone.org/) - Powerful open-source CMS system. ([Source Code](https://github.com/plone)) `ZPL-2.0` `Python`
+- [Pimcore](https://www.pimcore.org/) - Multi-Channel Experience and Engagement Management Platform. ([Source Code](https://github.com/pimcore/pimcore)) `GPL-3.0` `PHP/Docker`
+- [Plone](https://plone.org/) - Powerful open-source CMS system. ([Source Code](https://github.com/plone)) `ZPL-2.0` `Python/Docker`
 - [PropertyWebBuilder](https://propertywebbuilder.com) - Ultimate Ruby on Rails engine for creating real estate websites. ([Source Code](https://github.com/etewiah/property_web_builder)) `MIT` `Ruby`
 - [Publify](https://publify.github.io/) - Simple but full featured web publishing software. ([Source Code](https://github.com/publify/publify)) `MIT` `Ruby`
 - [Rapido](https://framagit.org/InfoLibre/rapido) - Create your website with Rapido. Edit, publish and share collaborative content. `AGPL-3.0` `Go`
-- [REDAXO](https://www.redaxo.org) - Simple, flexible and useful content management system (documentation only available in German). ([Source Code](https://github.com/redaxo/redaxo)) `MIT` `PHP`
+- [REDAXO](https://www.redaxo.org) - Simple, flexible and useful content management system (documentation only available in German). ([Source Code](https://github.com/redaxo/redaxo)) `MIT` `PHP/Docker`
 - [Roadiz](https://www.roadiz.io/) - Modern CMS based on a node system which can handle many types of services. ([Source Code](https://github.com/roadiz/roadiz)) `MIT` `PHP`
 - [SilverStripe](https://www.silverstripe.org) - Easy to use CMS with powerful MVC framework underlying. ([Demo](https://demo.silverstripe.org/), [Source Code](https://github.com/silverstripe)) `BSD-3-Clause` `PHP`
 - [SPIP](https://www.spip.net/fr) - Publication system for the Internet aimed at collaborative work, multilingual environments, and simplicity of use for web authors. ([Source Code](https://git.spip.net/)) `GPL-3.0` `PHP`
@@ -729,18 +729,18 @@ _Related: [Analytics](#analytics), [Automation](#automation)_
 _See also: [dbdb.io - Database of Databases](https://dbdb.io/)_
 
 - [Adminer](https://www.adminer.org/) - Database management in a single PHP file. Available for MySQL, MariaDB, PostgreSQL, SQLite, MS SQL, Oracle, Elasticsearch, MongoDB and others. ([Source Code](https://github.com/vrana/adminer/)) `Apache-2.0/GPL-2.0` `PHP`
-- [Baserow](https://baserow.io/) - Open source online database tool and Airtable alternative. Create your own database without technical experience. ([Source Code](https://gitlab.com/bramw/baserow)) `MIT` `Python/Nodejs`
-- [Bytebase](https://www.bytebase.com/) - Safe database schema change and version control for DevOps teams, supports MySQL, PostgreSQL, TiDB, ClickHouse, and Snowflake. ([Demo](https://demo.bytebase.com), [Source Code](https://github.com/bytebase/bytebase)) `MIT` `Docker/Go`
-- [Chartbrew](https://chartbrew.com) - Web application that can connect directly to databases and APIs and use the data to create beautiful charts. ([Demo](https://app.chartbrew.com/live-demo), [Source Code](https://github.com/chartbrew/chartbrew)) `MIT` `Nodejs`
-- [CloudBeaver](https://cloudbeaver.io/) - Self-hosted management of databases, supports PostgreSQL, MySQL, SQLite and more. A web/hosted version of DBeaver. ([Source Code](https://github.com/dbeaver/cloudbeaver)) `Apache-2.0` `Nodejs`
-- [Databunker](https://databunker.org/) - Network-based, self-hosted, GDPR compliant, secure database for personal data or PII. ([Source Code](https://github.com/securitybunker/databunker)) `MIT` `Go`
-- [Datasette](https://datasette.io/) - An open source multi-tool for exploring and publishing data, easy import and export and database management. ([Demo](https://global-power-plants.datasettes.com/global-power-plants/global-power-plants), [Source Code](https://github.com/simonw/datasette)) `Apache-2.0` `Python`
+- [Baserow](https://baserow.io/) - Open source online database tool and Airtable alternative. Create your own database without technical experience. ([Source Code](https://gitlab.com/bramw/baserow)) `MIT` `Docker`
+- [Bytebase](https://www.bytebase.com/) - Safe database schema change and version control for DevOps teams, supports MySQL, PostgreSQL, TiDB, ClickHouse, and Snowflake. ([Demo](https://demo.bytebase.com), [Source Code](https://github.com/bytebase/bytebase)) `MIT` `Docker/K8S/Go`
+- [Chartbrew](https://chartbrew.com) - Web application that can connect directly to databases and APIs and use the data to create beautiful charts. ([Demo](https://app.chartbrew.com/live-demo), [Source Code](https://github.com/chartbrew/chartbrew)) `MIT` `Nodejs/Docker`
+- [CloudBeaver](https://cloudbeaver.io/) - Self-hosted management of databases, supports PostgreSQL, MySQL, SQLite and more. A web/hosted version of DBeaver. ([Source Code](https://github.com/dbeaver/cloudbeaver)) `Apache-2.0` `Docker`
+- [Databunker](https://databunker.org/) - Network-based, self-hosted, GDPR compliant, secure database for personal data or PII. ([Source Code](https://github.com/securitybunker/databunker)) `MIT` `Docker`
+- [Datasette](https://datasette.io/) - An open source multi-tool for exploring and publishing data, easy import and export and database management. ([Demo](https://global-power-plants.datasettes.com/global-power-plants/global-power-plants), [Source Code](https://github.com/simonw/datasette)) `Apache-2.0` `Python/Docker`
 - [Directus](https://directus.io/) - An Instant App & API for your SQL Database. Directus wraps your new or existing SQL database with a realtime GraphQL+REST API for developers, and an intuitive admin app for non-technical users. ([Source Code](https://github.com/directus/directus)) `GPL-3.0` `Nodejs`
 - [Evidence](https://evidence.dev) - Evidence is a code-based BI tool. Write reports using SQL and markdown and they render as a website. ([Source Code](https://github.com/evidence-dev/evidence)) `MIT` `Nodejs`
 - [Limbas](https://www.limbas.com/en/) - Limbas is a database framework for creating database-driven business applications. As a graphical database frontend, it enables the efficient processing of data stocks and the flexible development of comfortable database applications. ([Source Code](https://github.com/limbas/limbas)) `GPL-2.0` `PHP`
-- [Mathesar](https://mathesar.org/) - An intuitive UI for managing data collaboratively, for users of all technical skill levels. Built on Postgres – connect an existing DB or set up a new one. ([Demo](https://demo.mathesar.org/), [Source Code](https://github.com/centerofci/mathesar)) `GPL-3.0` `Docker`
-- [MindsDB](https://github.com/mindsdb/mindsdb) - MindsDB is an open source self hosted AI layer for existing databases that allows you to effortlessly develop, train and deploy state-of-the-art machine learning models using standard queries. `GPL-3.0` `Python`
-- [NocoDB](https://www.nocodb.com/) - No-code platform that turns any database into a smart spreadsheet. It can be considered as an Airtable or Smartsheet alternative. ([Source Code](https://github.com/nocodb/nocodb)) `GPL-3.0` `Nodejs`
+- [Mathesar](https://mathesar.org/) - An intuitive UI for managing data collaboratively, for users of all technical skill levels. Built on Postgres – connect an existing DB or set up a new one. ([Demo](https://demo.mathesar.org/), [Source Code](https://github.com/centerofci/mathesar)) `GPL-3.0` `Docker/Python`
+- [MindsDB](https://mindsdb.com/) - MindsDB is an open source self hosted AI layer for existing databases that allows you to effortlessly develop, train and deploy state-of-the-art machine learning models using standard queries. ([Source Code](https://github.com/mindsdb/mindsdb)) `GPL-3.0` `Docker/Python`
+- [NocoDB](https://www.nocodb.com/) - No-code platform that turns any database into a smart spreadsheet. It can be considered as an Airtable or Smartsheet alternative. ([Source Code](https://github.com/nocodb/nocodb)) `GPL-3.0` `Nodejs/Docker`
 
 
 ### DNS
@@ -752,7 +752,7 @@ _See also: [dbdb.io - Database of Databases](https://dbdb.io/)_
 _See also: [awesome-sysadmin/DNS - Servers](https://github.com/awesome-foss/awesome-sysadmin#dns---servers), [awesome-sysadmin/DNS - Control Panels & Domain Management](https://github.com/awesome-foss/awesome-sysadmin#dns---control-panels--domain-management)_
 
 - [AdGuard Home](https://adguard.com/en/adguard-home/overview.html) - Free and open source, userfriendly ads & trackers blocking DNS server. ([Source Code](https://github.com/AdguardTeam/AdGuardHome)) `GPL-3.0` `Docker`
-- [blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy (like Pi-hole) as ad-blocker for local network with many features. `Apache-2.0` `Go`
+- [blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy (like Pi-hole) as ad-blocker for local network with many features. `Apache-2.0` `Go/Docker`
 - [Maza ad blocking](https://maza-ad-blocking.andros.dev/) - Local ad blocker. Like Pi-hole but local and using your operating system. ([Source Code](https://github.com/tanrax/maza-ad-blocking)) `Apache-2.0` `Bash`
 - [Pi-hole](https://pi-hole.net/) - A blackhole for Internet advertisements with a GUI for management and monitoring. ([Source Code](https://github.com/pi-hole/pi-hole)) `EUPL-1.2` `Shell/PHP`
 - [Technitium DNS Server](https://technitium.com/dns/) - Authoritative/recursive DNS server with ad blocking functionality. ([Source Code](https://github.com/TechnitiumSoftware/DnsServer)) `GPL-3.0` `Docker/C#`
@@ -765,12 +765,12 @@ _See also: [awesome-sysadmin/DNS - Servers](https://github.com/awesome-foss/awes
 A [document management system](https://en.wikipedia.org/wiki/Document_management_system) (DMS) is a system used to receive, track, manage and store documents and reduce paper.
 
 - [DOCAT](https://github.com/docat-org/docat) - Host your docs. Simple. Versioned. Fancy. `MIT` `Python/Docker`
-- [Docspell](https://docspell.org) - Auto-tagging document organizer and archive. ([Source Code](https://github.com/eikek/docspell)) `GPL-3.0` `Scala/Java`
-- [EveryDocs](https://github.com/jonashellmann/everydocs-core) - A simple Document Management System for private use with basic functionality to organize your documents digitally. `GPL-3.0` `Ruby`
+- [Docspell](https://docspell.org) - Auto-tagging document organizer and archive. ([Source Code](https://github.com/eikek/docspell)) `GPL-3.0` `Scala/Java/Docker`
+- [EveryDocs](https://github.com/jonashellmann/everydocs-core) - A simple Document Management System for private use with basic functionality to organize your documents digitally. `GPL-3.0` `Docker/Ruby`
 - [I, Librarian](https://i-librarian.net) - I, Librarian can organize PDF papers and office documents. It provides a lot of extra features for students and research groups both in industry and academia. ([Demo](https://i-librarian.net/demo/), [Source Code](https://github.com/mkucej/i-librarian-free)) `GPL-3.0` `PHP`
 - [Mayan EDMS](https://www.mayan-edms.com) - Free Open Source Electronic Document Management System. An electronic vault for your documents with preview generation, OCR, and automatic categorization among other features. ([Source Code](https://gitlab.com/mayan-edms/mayan-edms)) `Apache-2.0` `Python`
-- [Paperless-ngx](https://docs.paperless-ngx.com/) - A fork of paperless, adding a new interface and many other changes under the hood. Scan, index, and archive all of your paper documents. ([Demo](https://demo.paperless-ngx.com/), [Source Code](https://github.com/paperless-ngx/paperless-ngx)) `GPL-3.0` `Python`
-- [Papermerge](https://papermerge.com) - Open Source Document Management System focused on scanned documents (electronic archives). Features file browsing in similar way to dropbox/google drive. OCR, full text search, text overlay/selection. ([Source Code](https://github.com/ciur/papermerge)) `Apache-2.0` `Python`
+- [Paperless-ngx](https://docs.paperless-ngx.com/) - A fork of paperless, adding a new interface and many other changes under the hood. Scan, index, and archive all of your paper documents. ([Demo](https://demo.paperless-ngx.com/), [Source Code](https://github.com/paperless-ngx/paperless-ngx)) `GPL-3.0` `Python/Docker`
+- [Papermerge](https://papermerge.com) - Open Source Document Management System focused on scanned documents (electronic archives). Features file browsing in similar way to dropbox/google drive. OCR, full text search, text overlay/selection. ([Source Code](https://github.com/ciur/papermerge)) `Apache-2.0` `Python/Docker/K8S`
 - [paper{s}pace](https://dedicatedcode.com/projects.html) - Small web application to manage all your offline documents. Provides a searchable storage for your documents and reminds you of upcoming tasks. ([Source Code](https://gitlab.com/dedicatedcode/paperspace)) `MIT` `Java`
 - [Stirling-PDF](https://github.com/Frooodle/Stirling-PDF) - Local hosted web application that allows you to perform various operations on PDF files, such as merging, splitting, file conversions and OCR. `Apache-2.0` `Docker/Java`
 - [Teedy](https://teedy.io/) - Lightweight document management system packed with all the features you can expect from big expensive solutions (Ex SismicsDocs). ([Demo](https://demo.teedy.io/), [Source Code](https://github.com/sismics/docs)) `GPL-2.0` `Docker/Java`
@@ -786,10 +786,10 @@ A [document management system](https://en.wikipedia.org/wiki/Document_management
 - [Calibre](https://calibre-ebook.com/) - E-book library manager that can view, convert, and catalog e-books in most of the major e-book formats and provides a built-in Web server for remote clients. ([Demo](https://calibre-ebook.com/demo), [Source Code](https://launchpad.net/calibre)) `GPL-3.0` `Python`
 - [Kavita](https://www.kavitareader.com/) - Cross-platform e-book/manga/comic/pdf server and web reader with user management, ratings and reviews, and metatdata support. ([Demo](https://wiki.kavitareader.com/en/kavita-demo), [Source Code](https://github.com/Kareadita/Kavita)) `GPL-3.0` `.NET Core/Docker`
 - [Komga](https://komga.org) - Media server for comics/mangas/BDs with API and OPDS support, a modern web interface for exploring your libraries, as well as a web reader. ([Source Code](https://github.com/gotson/komga)) `MIT` `Java/Docker`
-- [Mango](https://github.com/getmango/Mango) - Manga server and web reader with a built-in MangaDex downloader. `MIT` `Crystal`
+- [Mango](https://github.com/hkalexling/Mango) - Manga server and web reader with a built-in MangaDex downloader. `MIT` `Crystal/Docker`
 - [pyShelf](https://github.com/th3r00t/pyShelf) - Lightweight Ebook Server. `GPL-3.0` `Python`
 - [Stump](https://www.stumpapp.dev) - A fast, free and open source comics, manga and digital book server with OPDS support. ([Source Code](https://github.com/stumpapp/stump)) `MIT` `Rust`
-- [Tanoshi](https://github.com/faldez/tanoshi) - Selfhosted web manga reader with extensions. `MIT` `Rust`
+- [Tanoshi](https://github.com/faldez/tanoshi) - Selfhosted web manga reader with extensions. `MIT` `Rust/Docker`
 - [The Epube](https://tt-rss.org/the-epube) - Self-hosted web EPUB reader using EPUB.js, Bootstrap, and Calibre. ([Source Code](https://git.tt-rss.org/fox/the-epube)) `GPL-3.0` `PHP`
 
 
@@ -843,9 +843,9 @@ _Related: [Community-Supported Agriculture (CSA)](#community-supported-agricultu
 - [PrestaShop](https://www.prestashop.com/) - PrestaShop offers a free, open-source and fully scalable e-commerce solution. ([Demo](https://demo.prestashop.com/), [Source Code](https://github.com/PrestaShop/PrestaShop)) `OSL-3.0` `PHP`
 - [Pretix](https://pretix.eu/) - Django based ticket sales platform for events. ([Source Code](https://github.com/pretix)) `Apache-2.0` `Python`
 - [s-cart](https://s-cart.org/) - S-Cart is a free e-commerce website project for individuals and businesses, built on top of Laravel Framework. ([Demo](https://demo.s-cart.org/), [Source Code](https://github.com/s-cart/s-cart)) `MIT` `PHP`
-- [Saleor](https://saleor.io) - Django based open-sourced e-commerce storefront. ([Demo](https://demo.saleor.io/), [Source Code](https://github.com/mirumee/saleor)) `BSD-3-Clause` `Python`
+- [Saleor](https://saleor.io) - Django based open-sourced e-commerce storefront. ([Demo](https://demo.saleor.io/), [Source Code](https://github.com/saleor/saleor)) `BSD-3-Clause` `Docker/Python`
 - [Shopware Community Edition](https://www.shopware.com/community/) - PHP based open source e-commerce software made in Germany. ([Demo](https://www.shopware.com/en/test-demo/), [Source Code](https://github.com/shopware/platform)) `MIT` `PHP`
-- [Solidus](https://solidus.io/) - A free, open-source ecommerce platform that gives you complete control over your store. ([Demo](http://demo.solidus.io/), [Source Code](https://github.com/solidusio/solidus)) `BSD-3-Clause` `Ruby`
+- [Solidus](https://solidus.io/) - A free, open-source ecommerce platform that gives you complete control over your store. ([Demo](http://demo.solidus.io/), [Source Code](https://github.com/solidusio/solidus)) `BSD-3-Clause` `Ruby/Docker`
 - [Spree Commerce](https://spreecommerce.org) - Spree is a complete, modular & API-driven open source e-commerce solution for Ruby on Rails. ([Demo](https://new-ux.spreecommerce.org/), [Source Code](https://github.com/spree/spree)) `BSD-3-Clause` `Ruby`
 - [Sylius](https://sylius.com) - Symfony2 powered open source full-stack platform for eCommerce. ([Demo](https://sylius.com/try/), [Source Code](https://github.com/Sylius/Sylius)) `MIT` `PHP`
 - [Thelia](https://thelia.net/) - Thelia is an open source and flexible e-commerce solution. ([Demo](https://demo.thelia.net/), [Source Code](https://github.com/thelia/thelia)) `LGPL-3.0` `PHP`
