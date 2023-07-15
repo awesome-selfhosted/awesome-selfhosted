@@ -2189,7 +2189,7 @@ Contributing guidelines can be found in [.github/CONTRIBUTING.md](.github/CONTRI
 
 ## Authors
 
-The list of authors can be found in [AUTHORS.md](AUTHORS.md).
+The list of authors can be found in the [AUTHORS](AUTHORS) file.
 
 ## License
 
