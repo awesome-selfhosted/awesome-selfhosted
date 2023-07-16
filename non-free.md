@@ -136,9 +136,9 @@
 
 **[`^        back to top        ^`](##awesome-selfhosted---non-free-software)**
 
- - [Keygen](https://github.com/keygen-sh/keygen-api) - Self-hosted software licensing and distribution API. `Elastic-2.0` `Ruby`
- - [RemoteUtilities](https://www.remoteutilities.com/) - Remote Utilities is self-hosted remote support software for LAN administration and remote support over the Internet. `⊘ Proprietary` `Unknown`
- - [ScreenConnect](https://www.connectwise.com/platform/unified-management/control) - Lightning-fast remote support and remote access to connect instantly and solve problems faster. `⊘ Proprietary` `Unknown`
+- [Keygen](https://github.com/keygen-sh/keygen-api) - Self-hosted software licensing and distribution API. `Elastic-2.0` `Ruby`
+- [RemoteUtilities](https://www.remoteutilities.com/) - Remote Utilities is self-hosted remote support software for LAN administration and remote support over the Internet. `⊘ Proprietary` `Unknown`
+- [ScreenConnect](https://www.connectwise.com/platform/unified-management/control) - Lightning-fast remote support and remote access to connect instantly and solve problems faster. `⊘ Proprietary` `Unknown`
 
 
 ### Money, Budgeting & Management
