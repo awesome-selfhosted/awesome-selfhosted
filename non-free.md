@@ -116,8 +116,8 @@
 ### Photo and Video Galleries
 
 - [Lomorage](https://lomorage.com/) - Google photo alternative via simple self-hosting software. Supported clients: iOS, Android, Web, MAC/Windows. Backend can run on Raspberry pi, Armbian, MAC/Windows/Linux. ([Source Code](https://github.com/lomorage/homepage)) `⊘ Proprietary` `Go`
-- [Picaport](https://www.picapport.de/en/index.php) - A photo server with web gallery for your intranet, web space or home network that allows you to organize photos, videos, PDF's, and many other mediatypes in a central location. ([Demo](https://en.onlinedemo.picapport.de/)) `CC-BY-NC-4.0` `Java/Docker`
 - [PhotoStructure](https://photostructure.com/) - All your family's photos and videos automatically organized into a fun and beautiful website. Runs via Docker, NodeJS, or native desktop installers. `⊘ Proprietary` `Nodejs`
+- [Picaport](https://www.picapport.de/en/index.php) - A photo server with web gallery for your intranet, web space or home network that allows you to organize photos, videos, PDF's, and many other mediatypes in a central location. ([Demo](https://en.onlinedemo.picapport.de/)) `CC-BY-NC-4.0` `Java/Docker`
 - [Reservo](https://reservo.co) - Scalable image hosting script with support for CDNs, paid account upgrades, advertising spots and drag & drop upload. ([Demo](https://demo.reservo.co/)) `⊘ Proprietary` `PHP`
 - [Single File PHP Gallery](http://sye.dk/sfpg/) - Web gallery in one single PHP file. `⊘ Proprietary` `PHP`
 
@@ -158,16 +158,16 @@
 ### Software Development - Testing
 
 - [Bamboo](https://www.atlassian.com/software/bamboo) - Continuous integration server. `⊘ Proprietary` `Java`
-- [Sentry Self-Hosted](https://github.com/getsentry/self-hosted) - Powerful error tracking platform with wide language support and a robust API. ([Source Code](https://github.com/getsentry/sentry)) `BUSL-1.1` `Python/Django`
 - [Moon](https://aerokube.com/moon/) - Efficient Selenium protocol implementation running everything in Kubernetes or Openshift. `⊘ Proprietary` `Go`
+- [Sentry Self-Hosted](https://github.com/getsentry/self-hosted) - Powerful error tracking platform with wide language support and a robust API. ([Source Code](https://github.com/getsentry/sentry)) `BUSL-1.1` `Python/Django`
 
 
 ### Ticketing
 
 - [Deskpro](https://www.deskpro.com/) - On-Premise helpdesk software that includes email, chat, voice & helpcentre publishing. Full visible source code and API. `⊘ Proprietary` `Unknown`
 - [Full Help](https://www.fullhelp.com/en/) - Simple, easy to use help desk & knowledge base software. Custom branding, custom themes, restful API, communication channels, multi-company support, multi-language support, and much more! At least 1 new release per month. `⊘ Proprietary` `PHP`
-- [Jitbit Helpdesk](https://www.jitbit.com/helpdesk/) - Self-hosted help desk software - simple but powerful. ([Demo](https://www.jitbit.com/saas-helpdesk/trial/)) `⊘ Proprietary` `ASP.NET`
 - [JIRA](https://www.atlassian.com/software/jira) - Professional and extensible issue tracker. `⊘ Proprietary` `Java`
+- [Jitbit Helpdesk](https://www.jitbit.com/helpdesk/) - Self-hosted help desk software - simple but powerful. ([Demo](https://www.jitbit.com/saas-helpdesk/trial/)) `⊘ Proprietary` `ASP.NET`
 - [SupportPal](https://www.supportpal.com/) - Powerful help desk software - easy, fast and intuitive. ([Demo](https://demo.supportpal.com/en)) `⊘ Proprietary` `PHP`
 
 
