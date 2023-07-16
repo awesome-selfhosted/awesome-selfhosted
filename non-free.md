@@ -9,8 +9,8 @@
 - [Software](#software)
   - [Automation](#automation)
   - [Communication - Custom Communication Systems](#communication---custom-communication-systems)
-  - [Content Management Systems (CMS)](#content-management-systems-cms)
   - [Communication - SIP](#communication---sip)
+  - [Content Management Systems (CMS)](#content-management-systems-cms)
   - [Document Management - E-books](#document-management---e-books)
   - [E-commerce](#e-commerce)
   - [File Transfer & Synchronization](#file-transfer--synchronization)
@@ -19,6 +19,7 @@
   - [Knowledge Management Tools](#knowledge-management-tools)
   - [Maps and Global Positioning System (GPS)](#maps-and-global-positioning-system-gps)
   - [Media Streaming - Video Streaming](#media-streaming---video-streaming)
+  - [Miscellaneous](#miscellaneous)
   - [Money, Budgeting & Management](#money-budgeting--management)
   - [Photo and Video Galleries](#photo-and-video-galleries)
   - [Search Engines](#search-engines)
@@ -27,7 +28,6 @@
   - [Software Development - Testing](#software-development---testing)
   - [Ticketing](#ticketing)
   - [Time Tracking](#time-tracking)
-  - [Miscellaneous](#miscellaneous)
 - [List of Licenses](#list-of-licenses)
 
 --------------------
@@ -53,6 +53,13 @@
 - [WorkAdventure](https://workadventu.re) - Virtual office / virtual conference application presented as a 16-bit RPG video game. ([Demo](https://play.staging.workadventu.re/@/tcm/workadventure/wa-village), [Source Code](https://github.com/thecodingmachine/workadventure/)) `AGPL-3.0/Commons-Clause` `Docker`
 
 
+### Communication - SIP
+
+**[`^        back to top        ^`](##awesome-selfhosted---non-free-software)**
+
+- [3CX](https://www.3cx.com/pbx/) - Full-featured PABX system, with call queues, built-in web conferencing, live chat and social media messaging all on one system. `⊘ Proprietary` `Unknown`
+
+
 ### Content Management Systems (CMS)
 
 **[`^        back to top        ^`](##awesome-selfhosted---non-free-software)**
@@ -60,13 +67,6 @@
 - [CraftCMS](https://craftcms.com/) - Content-first CMS that aims to make life enjoyable for developers and content managers alike. ([Demo](https://craftcms.com/demo), [Source Code](https://github.com/craftcms/cms)) `⊘ Proprietary` `PHP`
 - [Kirby](https://getkirby.com/) - File-based CMS. Easy to setup. Easy to use. Flexible as hell. ([Source Code](https://github.com/getkirby/kirby)) `⊘ Proprietary` `PHP`
 - [october](https://octobercms.com/) - Self-hosted CMS platform based on the Laravel PHP Framework. ([Source Code](https://github.com/octobercms/october)) `⊘ Proprietary` `PHP`
-
-
-### Communication - SIP
-
-**[`^        back to top        ^`](##awesome-selfhosted---non-free-software)**
-
-- [3CX](https://www.3cx.com/pbx/) - Full-featured PABX system, with call queues, built-in web conferencing, live chat and social media messaging all on one system. `⊘ Proprietary` `Unknown`
 
 
 ### Document Management - E-books
@@ -77,6 +77,13 @@
 - [Ubooquity](https://vaemendis.net/ubooquity/) - Free to use, versatile, lightweight, multi-platform, and secure home server for your comic and e-book library. `⊘ Proprietary` `Java`
 
 
+### E-commerce
+
+**[`^        back to top        ^`](##awesome-selfhosted---non-free-software)**
+
+- [Sharetribe](https://www.sharetribe.com) - Open-source platform to create your own peer-to-peer marketplace, also available with SaaS model. ([Source Code](https://github.com/sharetribe/sharetribe)) `⊘ Proprietary` `Ruby`
+
+
 ### File Transfer & Synchronization
 
 **[`^        back to top        ^`](##awesome-selfhosted---non-free-software)**
@@ -84,13 +91,6 @@
 - [FileRun](https://www.filerun.com/) - Complete solution for your files with integration with Google and Office. ([Demo](https://www.filerun.com/demo)) `⊘ Proprietary` `PHP`
 - [Resilio Sync](https://www.resilio.com/) - Proprietary peer-to-peer file synchronisation tool. `⊘ Proprietary` `Unknown`
 - [Yetishare](https://yetishare.com) - Powerful file hosting script with support for Amazon S3, Wasabi, Backblaze, local, direct and SFTP storage. ([Demo](https://fhscript.com)) `⊘ Proprietary` `PHP`
-
-
-### E-commerce
-
-**[`^        back to top        ^`](##awesome-selfhosted---non-free-software)**
-
-- [Sharetribe](https://www.sharetribe.com) - Open-source platform to create your own peer-to-peer marketplace, also available with SaaS model. ([Source Code](https://github.com/sharetribe/sharetribe)) `⊘ Proprietary` `Ruby`
 
 
 ### Games
@@ -132,6 +132,15 @@
 - [Subsonic](http://www.subsonic.org/pages/index.jsp) - Web-based media streamer and jukebox. ([Demo](http://demo.subsonic.org/j_acegi_security_check?j_username=guest4&j_password=guest&_acegi_security_remember_me=check)) `⊘ Proprietary` `Unknown`
 
 
+### Miscellaneous
+
+**[`^        back to top        ^`](##awesome-selfhosted---non-free-software)**
+
+ - [Keygen](https://github.com/keygen-sh/keygen-api) - Self-hosted software licensing and distribution API. `Elastic-2.0` `Ruby`
+ - [RemoteUtilities](https://www.remoteutilities.com/) - Remote Utilities is self-hosted remote support software for LAN administration and remote support over the Internet. `⊘ Proprietary` `Unknown`
+ - [ScreenConnect](https://www.connectwise.com/platform/unified-management/control) - Lightning-fast remote support and remote access to connect instantly and solve problems faster. `⊘ Proprietary` `Unknown`
+
+
 ### Money, Budgeting & Management
 
 **[`^        back to top        ^`](##awesome-selfhosted---non-free-software)**
@@ -159,6 +168,13 @@
 - [Cosmos](https://cosmos-cloud.io/) - Cosmos is a self-hosted platform for running server applications securely and with built-in privacy features. It acts as a secure gateway to your application, as well as a server manager. ([Source Code](https://github.com/azukaar/cosmos-Server)) `⊘ Proprietary` `Docker/Go`
 
 
+### Search Engines
+
+**[`^        back to top        ^`](##awesome-selfhosted---non-free-software)**
+
+- [ElasticSearch](https://www.elastic.co/elasticsearch/) - Distributed, RESTful search and analytics engine. ([Source Code](https://github.com/elastic/elasticsearch)) `SSPL-1.0` `Java`
+
+
 ### Self-hosting Solutions
 
 **[`^        back to top        ^`](##awesome-selfhosted---non-free-software)**
@@ -171,13 +187,6 @@
 - [Poste.io](https://poste.io) - Full-featured solution for your Email server. Native implementation of last anti-SPAM methods, webmail and easy administration included. Free tier available. ([Demo](https://poste.io/demo)) `⊘ Proprietary` `Unknown`
 - [Umbrel](https://umbrel.com/) - A beautiful personal server OS for self-hosting. Install on a Raspberry Pi 4 or Ubuntu/Debian. ([Source Code](https://github.com/getumbrel/umbrel)) `⊘ Proprietary` `Nodejs/Docker`
 - [Unraid](https://www.unraid.net) `⚠` - Linux-based operating system designed to run on home media server setups. `⊘ Proprietary` `Other`
-
-
-### Search Engines
-
-**[`^        back to top        ^`](##awesome-selfhosted---non-free-software)**
-
-- [ElasticSearch](https://www.elastic.co/elasticsearch/) - Distributed, RESTful search and analytics engine. ([Source Code](https://github.com/elastic/elasticsearch)) `SSPL-1.0` `Java`
 
 
 ### Software Development - Project Management
@@ -221,15 +230,6 @@
 
 - [Anuko](https://github.com/anuko/timetracker) - Simple time and project tracking on a self-hosted basis. `SSPL-1.0` `PHP`
 - [Virtual TimeClock](https://www.redcort.com/timeclock) - Powerful, easy-to-use time tracking software. ([Demo](https://www.redcort.com/timeclock/free-timeclock-software-trial)) `⊘ Proprietary` `Unknown`
-
-
-### Miscellaneous
-
-**[`^        back to top        ^`](##awesome-selfhosted---non-free-software)**
-
- - [Keygen](https://github.com/keygen-sh/keygen-api) - Self-hosted software licensing and distribution API. `Elastic-2.0` `Ruby`
- - [RemoteUtilities](https://www.remoteutilities.com/) - Remote Utilities is self-hosted remote support software for LAN administration and remote support over the Internet. `⊘ Proprietary` `Unknown`
- - [ScreenConnect](https://www.connectwise.com/platform/unified-management/control) - Lightning-fast remote support and remote access to connect instantly and solve problems faster. `⊘ Proprietary` `Unknown`
 
 
 <!-- END SOFTWARE LIST -->
