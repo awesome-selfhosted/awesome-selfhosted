@@ -22,6 +22,7 @@
   - [Miscellaneous](#miscellaneous)
   - [Money, Budgeting & Management](#money-budgeting--management)
   - [Photo and Video Galleries](#photo-and-video-galleries)
+  - [Proxy](#proxy)
   - [Search Engines](#search-engines)
   - [Self-hosting Solutions](#self-hosting-solutions)
   - [Software Development - Project Management](#software-development---project-management)
