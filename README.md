@@ -1717,6 +1717,7 @@ Software and tools to help with [enterprise resource and supply planning](https:
 - [Odoo](https://www.odoo.com) - Free open source ERP system. ([Demo](https://demo.odoo.com/), [Source Code](https://github.com/odoo/odoo)) `LGPL-3.0` `Python`
 - [OFBiz](https://ofbiz.apache.org/) - FOSS enterprise resource planning system with a suite of business applications flexible enough to be used across any industry. ([Source Code](https://svn.apache.org/viewvc/ofbiz/)) `Apache-2.0` `Java`
 - [Tryton](https://www.tryton.org/) - Free open source business solution. ([Demo](https://www.tryton.org/download.html), [Source Code](https://hg.tryton.org/)) `GPL-3.0` `Python`
+- [YetiForce](https://yetiforce.com/en/) - Opensource CRM ERP with sales, marketing, accounting, HR, Support, Logistics and GDPR support. ([Demo](https://gitstable.yetiforce.com/), [Source Code](https://github.com/YetiForceCompany/YetiForceCRM)) `YetiForce Public License 5.0` `PHP`
 
 
 ### Search Engines
