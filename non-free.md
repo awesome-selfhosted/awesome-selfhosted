@@ -23,6 +23,7 @@
   - [Money, Budgeting & Management](#money-budgeting--management)
   - [Photo and Video Galleries](#photo-and-video-galleries)
   - [Proxy](#proxy)
+  - [Resource Planning - Enterprise Resource Planning](#resource-planning---enterprise-resource-planning)
   - [Search Engines](#search-engines)
   - [Self-hosting Solutions](#self-hosting-solutions)
   - [Software Development - Project Management](#software-development---project-management)
@@ -169,6 +170,13 @@
 - [Cosmos](https://cosmos-cloud.io/) - Cosmos is a self-hosted platform for running server applications securely and with built-in privacy features. It acts as a secure gateway to your application, as well as a server manager. ([Source Code](https://github.com/azukaar/cosmos-Server)) `⊘ Proprietary` `Docker/Go`
 
 
+### Resource Planning - Enterprise Resource Planning
+
+**[`^        back to top        ^`](##awesome-selfhosted---non-free-software)**
+
+- [YetiForce](https://yetiforce.com/en/) - Opensource CRM ERP with sales, marketing, accounting, HR, Support, Logistics and GDPR support. ([Demo](https://gitstable.yetiforce.com/), [Source Code](https://github.com/YetiForceCompany/YetiForceCRM)) `YetiForce Public License 5.0` `PHP`
+
+
 ### Search Engines
 
 **[`^        back to top        ^`](##awesome-selfhosted---non-free-software)**
@@ -250,3 +258,4 @@
 - `Elastic-2.0` - [Elastic License 2.0](https://spdx.org/licenses/Elastic-2.0.html)
 - `SSPL-1.0` - [Server Side Public License](https://spdx.org/licenses/SSPL-1.0.html)
 - `⊘ Proprietary` - [Proprietary software](https://en.wikipedia.org/wiki/Proprietary_software)
+- `YetiForce Public License` - [YetiForce Public License 5.0](https://github.com/YetiForceCompany/YetiForceCRM/blob/developer/LICENSE)
