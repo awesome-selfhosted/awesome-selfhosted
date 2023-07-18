@@ -9,6 +9,7 @@
 - [Software](#software)
   - [Automation](#automation)
   - [Communication - Custom Communication Systems](#communication---custom-communication-systems)
+  - [Communication - Email - Mailing Lists and Newsletters](#communication---email---mailing-lists-and-newsletters)
   - [Communication - SIP](#communication---sip)
   - [Content Management Systems (CMS)](#content-management-systems-cms)
   - [Document Management - E-books](#document-management---e-books)
@@ -52,6 +53,13 @@
 - [PrivMX WebMail](https://privmx.com) - Alternative private mail system - web-based, end-to-end encrypted by design, self-hosted, decentralized, uses independent PKI. Easy to install and administrate, freeware, open-source. `⊘ Proprietary` `PHP`
 - [Virola Messenger](https://virola.io/) - Instant messaging and collaboration tool with private and group chat rooms, continuous voice and video meetings, files sharing, issue tracking with integrated task board. Alternative to Slack and others. `⊘ Proprietary` `C++`
 - [WorkAdventure](https://workadventu.re) - Virtual office / virtual conference application presented as a 16-bit RPG video game. ([Demo](https://play.staging.workadventu.re/@/tcm/workadventure/wa-village), [Source Code](https://github.com/thecodingmachine/workadventure/)) `AGPL-3.0/Commons-Clause` `Docker`
+
+
+### Communication - Email - Mailing Lists and Newsletters
+
+**[`^        back to top        ^`](##awesome-selfhosted---non-free-software)**
+
+- [Sendy](https://sendy.co) - Self-hosted email newsletter application that lets you send bulk emails via Amazon Simple Email Service (SES) or other SMTP services. `⊘ Proprietary` `PHP`
 
 
 ### Communication - SIP
