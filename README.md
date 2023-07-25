@@ -932,7 +932,6 @@ Network distributed filesystems.
 
 [Object storage](https://en.wikipedia.org/wiki/Object_storage) is a computer data storage that manages data as objects, as opposed to other storage architectures like file systems which manages data as a file hierarchy, and block storage which manages data as blocks within sectors and tracks.
 
-- [DaneeCloud](https://docs.daneeskripter.dev/daneecloud/) - DaneeCloud is web application, that works like storage hosting. It includes user management, file management, video and audio player, roles (admin, user, ...), email authentication, recaptcha, file sharing and other features. ([Demo](https://cloud.daneeskripter.dev), [Source Code](https://github.com/DaneeSkripter/DaneeCloud)) `GPL-3.0` `Nodejs/JavaScript/EJS`
 - [GarageHQ](https://garagehq.deuxfleurs.fr/) - An open-source geo-distributed storage service you can self-host to fulfill many needs - S3 compatible. ([Source Code](https://git.deuxfleurs.fr/Deuxfleurs/garage)) `AGPL-3.0` `Rust`
 - [Minio](https://min.io/) - Minio is an open source object storage server compatible with Amazon S3 APIs. ([Source Code](https://github.com/minio/minio)) `AGPL-3.0` `Go`
 - [SeaweedFS](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is an open source distributed file system supporting WebDAV, S3 API, FUSE mount, HDFS, etc, optimized for lots of small files, and easy to add capacity. `Apache-2.0` `Go`
