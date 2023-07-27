@@ -782,6 +782,7 @@ A [document management system](https://en.wikipedia.org/wiki/Document_management
 
 [Ebook](https://en.wikipedia.org/wiki/Ebook) library management software.
 
+- [Atsumeru](https://atsumeru.xyz) - Free and open source self-hosted manga/comic/light novel media server with clients for Windows, Linux, macOS and Android. ([Source Code](https://github.com/AtsumeruDev/Atsumeru), [Clients](https://atsumeru.xyz/guides/#how-does-it-work)) `MIT` `Java`
 - [Calibre Web](https://github.com/janeczku/calibre-web) - Web app providing a clean interface for browsing, reading and downloading eBooks using an existing Calibre database. `GPL-3.0` `Python`
 - [Calibre](https://calibre-ebook.com/) - E-book library manager that can view, convert, and catalog e-books in most of the major e-book formats and provides a built-in Web server for remote clients. ([Demo](https://calibre-ebook.com/demo), [Source Code](https://launchpad.net/calibre)) `GPL-3.0` `Python`
 - [Kavita](https://www.kavitareader.com/) - Cross-platform e-book/manga/comic/pdf server and web reader with user management, ratings and reviews, and metatdata support. ([Demo](https://wiki.kavitareader.com/en/kavita-demo), [Source Code](https://github.com/Kareadita/Kavita)) `GPL-3.0` `.NET Core/Docker`
@@ -1884,6 +1885,7 @@ _Related: [Software Development - IDE & Tools](#software-development---ide--tool
 - [Hadmean](https://hadmean.com) - Don't build in hours but generate in seconds your fully functional admin apps without any technical knowledge with just a single command `npx hadmean`. ([Demo](http://demo.hadmean.com), [Source Code](https://github.com/hadmean/hadmean)) `AGPL-3.0` `Nodejs`
 - [Motor Admin](https://www.getmotoradmin.com/) - No-code admin panel and business intelligence software - search, create, update, and delete data entries, create custom actions, and build reports. ([Source Code](https://github.com/motor-admin/motor-admin)) `AGPL-3.0` `Ruby`
 - [PocketBase](https://pocketbase.io/) - Open Source backend for your next SaaS and Mobile app in 1 file. ([Source Code](https://github.com/pocketbase/pocketbase)) `MIT` `Go/Docker`
+- [SQLPage](https://sql.ophir.dev) - SQL-only dynamic website builder. ([Source Code](https://github.com/lovasoa/SQLPage)) `MIT` `Rust/Docker`
 - [ToolJet](https://tooljet.io/) - ToolJet is the open-source low-code framework alternative to Retool & Mendix to build & deploy internal tools with minimal engineering effort. ([Source Code](https://github.com/ToolJet/ToolJet)) `GPL-3.0` `Nodejs`
 
 
