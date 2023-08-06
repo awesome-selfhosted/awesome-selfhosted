@@ -1546,7 +1546,7 @@ A [pastebin](https://en.wikipedia.org/wiki/Pastebin) is a type of online content
 - [wantguns/bin](https://github.com/wantguns/bin) - Minimal pastebin for both textual and binary files shipped in a single statically linked binary. ([Demo](https://basedbin.fly.dev)) `GPL-3.0` `Rust`
 - [Wastebin](https://github.com/matze/wastebin) - Lightweight, minimal and fast pastebin with an SQLite backend. ([Demo](https://bin.bloerg.net)) `MIT` `Rust`
 - [YABin](https://github.com/Yureien/YABin) - A pastebin that contains plentiful features while remaining simple. Supports optional E2E encryption, a client-side CLI app, syntax highlighting, minimalistic UI, APIs, keyboard shortcuts, and more. It can even be run in serverless environments. ([Demo](https://bin.sohamsen.me/)) `MIT` `Nodejs`
-- [Hemmelig](https://hemmelig.app) - Share encrypted secrets cross organizations, or as private persons. [Source Code](https://github.com/HemmeligOrg/Hemmelig.app)
+- [Hemmelig](https://hemmelig.app) - Share encrypted secrets cross organizations, or as private persons. [Source Code](https://github.com/HemmeligOrg/Hemmelig.app) `MIT` `JavaScript`
 
 ### Personal Dashboards
 
