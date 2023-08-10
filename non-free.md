@@ -107,7 +107,7 @@
 
 **[`^        back to top        ^`](#awesome-selfhosted)**
 
-- [DaneeCloud](https://docs.daneeskripter.dev/daneecloud/) - DaneeCloud is web application, that works like storage hosting. It includes user management, file management, video and audio player, roles (admin, user, ...), email authentication, recaptcha, file sharing and other features. ([Demo](https://cloud.daneeskripter.dev), [Source Code](https://github.com/DaneeSkripter/DaneeCloud)) `GPL-3.0` `Nodejs/JavaScript/EJS`
+- [DaneeCloud](https://docs.daneeskripter.dev/daneecloud/) - Multi-user file storage and sharing application. ([Demo](https://cloud.daneeskripter.dev), [Source Code](https://github.com/DaneeSkripter/DaneeCloud)) `GPL-3.0/SSPL-1.0` `Nodejs/JavaScript/EJS`
 
 
 ### Games
