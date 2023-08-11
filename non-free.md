@@ -155,9 +155,10 @@
 ### Software Development - Testing
 
 - [Bamboo](https://www.atlassian.com/software/bamboo) - Continuous integration server. `⊘ Proprietary` `Java`
+- [Grai](https://www.grai.io) `⊘ Proprietary` - Grai is the open source data observability tool that catches bugs before they make it to prod. Using data lineage it understands how changes impact your data stack and reports back in version control. ([Source Code](https://www.github.com/grai-io/grai-core)) `Elastic-2.0` `Python/Typescript`
 - [Sentry Self-Hosted](https://github.com/getsentry/self-hosted) - Powerful error tracking platform with wide language support and a robust API. ([Source Code](https://github.com/getsentry/sentry)) `BUSL-1.1` `Python/Django`
 - [Moon](https://aerokube.com/moon/) - Efficient Selenium protocol implementation running everything in Kubernetes or Openshift. `⊘ Proprietary` `Go`
-- [Grai](https://www.grai.io) `⊘ Proprietary` - Grai is the open source data observability tool that catches bugs before they make it to prod. Using data lineage it understands how changes impact your data stack and reports back in version control. ([Source Code](https://www.github.com/grai-io/grai-core)) `Elastic-2.0` `Python/Typescript`
+
 
 
 ### Ticketing
