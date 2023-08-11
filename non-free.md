@@ -157,6 +157,7 @@
 - [Bamboo](https://www.atlassian.com/software/bamboo) - Continuous integration server. `⊘ Proprietary` `Java`
 - [Sentry Self-Hosted](https://github.com/getsentry/self-hosted) - Powerful error tracking platform with wide language support and a robust API. ([Source Code](https://github.com/getsentry/sentry)) `BUSL-1.1` `Python/Django`
 - [Moon](https://aerokube.com/moon/) - Efficient Selenium protocol implementation running everything in Kubernetes or Openshift. `⊘ Proprietary` `Go`
+- [Grai](https://www.grai.io) `⊘ Proprietary` - Grai is the open source data observability tool that catches bugs before they make it to prod. Using data lineage it understands how changes impact your data stack and reports back in version control. ([Source Code](https://www.github.com/grai-io/grai-core)) `Elastic-2.0` `Python/Typescript`
 
 
 ### Ticketing
@@ -194,5 +195,6 @@
 - `CC-BY-NC-4.0` - [Creative Commons Attribution-NonCommercial License 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
 - `Commons-Clause` - [Commons Clause License](https://commonsclause.com/)
 - `DPL` - [Devblocks Public License 1.0](https://cerb.ai/license/)
+- `Elastic-2.0` - [Elastic License 2.0](https://spdx.org/licenses/Elastic-2.0.html)
 - `SSPL-1.0` - [Server Side Public License](https://spdx.org/licenses/SSPL-1.0.html)
 - `⊘ Proprietary` - [Proprietary software](https://en.wikipedia.org/wiki/Proprietary_software)
