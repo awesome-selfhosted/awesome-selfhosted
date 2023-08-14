@@ -8,32 +8,31 @@
 
 - [Awesome Selfhosted - Non-Free Software](#awesome-selfhosted---non-free-software)
   - [Table of contents](#table-of-contents)
-- [Software](#software)
-  - [Automation](#automation)
-  - [Communication - Custom Communication Systems](#communication---custom-communication-systems)
-  - [Communication - Email - Mailing Lists and Newsletters](#communication---email---mailing-lists-and-newsletters)
-  - [Communication - SIP](#communication---sip)
-  - [Content Management Systems (CMS)](#content-management-systems-cms)
-  - [Document Management - E-books](#document-management---e-books)
-  - [E-commerce](#e-commerce)
-  - [File Transfer & Synchronization](#file-transfer--synchronization)
-  - [Games](#games)
-  - [Internet of Things (IoT)](#internet-of-things-iot)
-  - [Knowledge Management Tools](#knowledge-management-tools)
-  - [Maps and Global Positioning System (GPS)](#maps-and-global-positioning-system-gps)
-  - [Media Streaming - Video Streaming](#media-streaming---video-streaming)
-  - [Miscellaneous](#miscellaneous)
-  - [Money, Budgeting & Management](#money-budgeting--management)
-  - [Photo and Video Galleries](#photo-and-video-galleries)
-  - [Proxy](#proxy)
-  - [Search Engines](#search-engines)
-  - [Self-hosting Solutions](#self-hosting-solutions)
-  - [Software Development - Project Management](#software-development---project-management)
-  - [Software Development - Testing](#software-development---testing)
-  - [Ticketing](#ticketing)
-  - [Time Tracking](#time-tracking)
-- [List of Licenses](#list-of-licenses)
-
+  - [Software](#software)
+    - [Automation](#automation)
+    - [Communication - Custom Communication Systems](#communication---custom-communication-systems)
+    - [Communication - Email - Mailing Lists and Newsletters](#communication---email---mailing-lists-and-newsletters)
+    - [Communication - SIP](#communication---sip)
+    - [Content Management Systems (CMS)](#content-management-systems-cms)
+    - [Document Management - E-books](#document-management---e-books)
+    - [E-commerce](#e-commerce)
+    - [File Transfer \& Synchronization](#file-transfer--synchronization)
+    - [Games](#games)
+    - [Internet of Things (IoT)](#internet-of-things-iot)
+    - [Knowledge Management Tools](#knowledge-management-tools)
+    - [Maps and Global Positioning System (GPS)](#maps-and-global-positioning-system-gps)
+    - [Media Streaming - Video Streaming](#media-streaming---video-streaming)
+    - [Miscellaneous](#miscellaneous)
+    - [Money, Budgeting \& Management](#money-budgeting--management)
+    - [Photo and Video Galleries](#photo-and-video-galleries)
+    - [Proxy](#proxy)
+    - [Search Engines](#search-engines)
+    - [Self-hosting Solutions](#self-hosting-solutions)
+    - [Software Development - Project Management](#software-development---project-management)
+    - [Software Development - Testing](#software-development---testing)
+    - [Ticketing](#ticketing)
+    - [Time Tracking](#time-tracking)
+  - [List of Licenses](#list-of-licenses)
 
 --------------------
 
@@ -222,7 +221,6 @@
 
 - [Bamboo](https://www.atlassian.com/software/bamboo) - Continuous integration server. `⊘ Proprietary` `Java`
 - [Grai](https://www.grai.io) `⊘ Proprietary` - Grai is the open source data observability tool that catches bugs before they make it to prod. Using data lineage it understands how changes impact your data stack and reports back in version control. ([Source Code](https://www.github.com/grai-io/grai-core)) `Elastic-2.0` `Docker`
-- [Sentry Self-Hosted](https://github.com/getsentry/self-hosted) - Powerful error tracking platform with wide language support and a robust API. ([Source Code](https://github.com/getsentry/sentry)) `BUSL-1.1` `Python/Django`
 - [Moon](https://aerokube.com/moon/) - Efficient Selenium protocol implementation running everything in Kubernetes or Openshift. `⊘ Proprietary` `Go`
 - [Sentry Self-Hosted](https://github.com/getsentry/self-hosted) - Powerful error tracking platform with wide language support and a robust API. ([Source Code](https://github.com/getsentry/sentry)) `BUSL-1.1` `Python/Django`
 
