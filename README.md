@@ -223,6 +223,7 @@ _Related: [Internet of Things (IoT)](#internet-of-things-iot), [Software Develop
 - [YoutubeDL-Server](https://github.com/nbr23/youtube-dl-server) - Web and REST interface for downloading videos onto a server. `MIT` `Python/Docker`
 - [yt-dlp Web UI](https://github.com/marcopeocchi/yt-dlp-web-ui) - Web GUI for yt-dlp. `MPL-2.0` `Docker/Go/Nodejs`
 - [µTask](https://github.com/ovh/utask) - Automation engine that models and executes business processes declared in yaml. `BSD-3-Clause` `Go/Docker`
+- [Woodpecker](https://woodpecker-ci.org/) - Continuous integration engine with great extensibility. ([Source Code](https://github.com/woodpecker-ci/woodpecker)) `Apache-2.0` `Go/Docker`
 
 
 ### Backup
