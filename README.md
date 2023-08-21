@@ -1659,7 +1659,7 @@ _Related: [Web Servers](#web-servers)_
 - [Squid](http://www.squid-cache.org/) - Caching proxy for the Web supporting HTTP, HTTPS, FTP, and more. It reduces bandwidth and improves response times by caching and reusing frequently-requested web pages. ([Source Code](https://code.launchpad.net/squid)) `GPL-2.0` `C`
 - [SWAG (Secure Web Application Gateway)](https://github.com/linuxserver/docker-swag) - Nginx webserver and reverse proxy with PHP support, built-in Certbot (Let's Encrypt) client and fail2ban integration. `GPL-3.0` `Docker`
 - [Tinyproxy](https://tinyproxy.github.io/) - Light-weight HTTP/HTTPS proxy daemon. ([Source Code](https://github.com/tinyproxy/tinyproxy)) `GPL-2.0` `C`
-- [zrok](https://zrok.io/) - Open source serveo/ngrok alternative. Creates network tunnels that allow sharing locally running services and other private resources with others over the public Internet using OpenZiti. ([Source Code](https://github.com/openziti/zrok)) `Apache-2.0` `Go`
+- [zrok](https://zrok.io/) - Open source . Creates network tunnels that allow sharing locally running services and other private resources with others over the public Internet using OpenZiti (alternative to serveo/ngrok). ([Source Code](https://github.com/openziti/zrok)) `Apache-2.0` `Go`
 
 
 ### Recipe Management
