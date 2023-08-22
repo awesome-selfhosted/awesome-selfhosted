@@ -38,7 +38,6 @@
 
 ## Software
 
-
 ### Automation
 
 **[`^        back to top        ^`](##awesome-selfhosted---non-free-software)**
@@ -106,7 +105,7 @@
 
 ### File Transfer - Object Storage & File Servers
 
-**[`^        back to top        ^`](#awesome-selfhosted)**
+**[`^        back to top        ^`](##awesome-selfhosted---non-free-software)**
 
 - [DaneeCloud](https://docs.daneeskripter.dev/daneecloud/) - Multi-user file storage and sharing application. ([Demo](https://cloud.daneeskripter.dev), [Source Code](https://github.com/DaneeSkripter/DaneeCloud)) `GPL-3.0/SSPL-1.0` `Nodejs/JavaScript/EJS`
 
@@ -257,13 +256,11 @@
 - [Virtual TimeClock](https://www.redcort.com/timeclock) - Powerful, easy-to-use time tracking software. ([Demo](https://www.redcort.com/timeclock/free-timeclock-software-trial)) `⊘ Proprietary` `Unknown`
 
 
-<!-- END SOFTWARE LIST -->
-
 --------------------
 
 ## List of Licenses
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](##awesome-selfhosted---non-free-software)**
 
 - `BUSL-1.1` - [Business Source License 1.1](https://spdx.org/licenses/BUSL-1.1.html)
 - `CC-BY-NC-SA-3.0` - [Creative Commons Attribution-NonCommercial-ShareAlike License 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
@@ -274,3 +271,4 @@
 - `Elastic-2.0` - [Elastic License 2.0](https://spdx.org/licenses/Elastic-2.0.html)
 - `SSPL-1.0` - [Server Side Public License](https://spdx.org/licenses/SSPL-1.0.html)
 - `⊘ Proprietary` - [Proprietary software](https://en.wikipedia.org/wiki/Proprietary_software)
+
