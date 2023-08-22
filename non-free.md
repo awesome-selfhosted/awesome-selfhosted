@@ -25,6 +25,7 @@
   - [Money, Budgeting & Management](#money-budgeting--management)
   - [Photo and Video Galleries](#photo-and-video-galleries)
   - [Proxy](#proxy)
+  - [Resource Planning - Enterprise Resource Planning](#resource-planning---enterprise-resource-planning)
   - [Search Engines](#search-engines)
   - [Self-hosting Solutions](#self-hosting-solutions)
   - [Software Development - Project Management](#software-development---project-management)
@@ -182,6 +183,13 @@
 **[`^        back to top        ^`](##awesome-selfhosted---non-free-software)**
 
 - [Cosmos](https://cosmos-cloud.io/) - Cosmos is a self-hosted platform for running server applications securely and with built-in privacy features. It acts as a secure gateway to your application, as well as a server manager. ([Source Code](https://github.com/azukaar/cosmos-Server)) `⊘ Proprietary` `Docker/Go`
+
+
+### Resource Planning - Enterprise Resource Planning
+
+**[`^        back to top        ^`](##awesome-selfhosted---non-free-software)**
+
+- [YetiForce](https://yetiforce.com/en/) - Opensource CRM ERP with sales, marketing, accounting, HR, Support, Logistics and GDPR support. ([Demo](https://gitstable.yetiforce.com/), [Source Code](https://github.com/YetiForceCompany/YetiForceCRM)) `⊘ Proprietary` `PHP`
 
 
 ### Search Engines
