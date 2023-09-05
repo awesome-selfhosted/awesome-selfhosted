@@ -1884,6 +1884,7 @@ Tools and software for [software project management](https://en.wikipedia.org/wi
 _Related: [Ticketing](#ticketing), [Task Management & To-do Lists](#task-management--to-do-lists)_
 
 - [Cgit](https://git.zx2c4.com/cgit/about/) - A fast lightweight web interface for git repositories. ([Source Code](https://git.zx2c4.com/cgit/tree/)) `GPL-2.0` `C`
+- [Forgejo](https://forgejo.org) `⚠` - A lightweight software forge focused on scaling, federation, and privacy (fork of Gitea). ([Demo](https://next.forgejo.org), [Source Code](https://codeberg.org/forgejo/forgejo/), [Clients](https://codeberg.org/forgejo-contrib/delightful-forgejo)) `MIT` `Docker/Go`
 - [Fossil](https://www.fossil-scm.org/index.html/doc/trunk/www/index.wiki) - Distributed version control system featuring wiki and bug tracker. `BSD-2-Clause-FreeBSD` `C`
 - [Gerrit](https://www.gerritcodereview.com/) - A code review and project management tool for Git based projects. ([Source Code](https://github.com/GerritCodeReview/gerrit)) `Apache-2.0` `Java/Docker`
 - [Gitblit](https://www.gitblit.com/) - Pure Java stack for managing, viewing, and serving Git repositories. ([Source Code](https://github.com/gitblit-org/gitblit)) `Apache-2.0` `Java`
