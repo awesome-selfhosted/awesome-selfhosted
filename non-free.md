@@ -107,7 +107,7 @@
 
 **[`^        back to top        ^`](##awesome-selfhosted---non-free-software)**
 
-- [DaneeCloud](https://docs.daneeskripter.dev/daneecloud/) - Multi-user file storage and sharing application. ([Demo](https://cloud.daneeskripter.dev), [Source Code](https://github.com/DaneeSkripter/DaneeCloud)) `GPL-3.0/SSPL-1.0` `Nodejs/JavaScript/EJS`
+- [DaneeCloud](https://docs.daneeskripter.dev/daneecloud/) - Multi-user file storage and sharing application. ([Demo](https://cloud.daneeskripter.dev), [Source Code](https://github.com/DaneeSkripter/DaneeCloud)) `GPL-3.0/SSPL-1.0` `Nodejs`
 
 
 ### Games
