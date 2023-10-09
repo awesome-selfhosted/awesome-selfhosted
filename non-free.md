@@ -235,7 +235,7 @@
 - [Grai](https://www.grai.io) - Automated integration testing. Uses data lineage to statically analyze the impact of a data change across your entire data stack. ([Source Code](https://www.github.com/grai-io/grai-core)) `Elastic-2.0` `Docker`
 - [Moon](https://aerokube.com/moon/) - Efficient Selenium protocol implementation running everything in Kubernetes or Openshift. `⊘ Proprietary` `Go`
 - [Sentry Self-Hosted](https://github.com/getsentry/self-hosted) - Powerful error tracking platform with wide language support and a robust API. ([Source Code](https://github.com/getsentry/sentry)) `BUSL-1.1` `Python/Django`
-- [BrowserStack Automate TurboScale](https://www.browserstack.com/automate-turboscale) - Kubernetes based Scalable Browser Automation on your Cloud (AWS, GCP and Azure) supporting Selenium and Playwright. `⊘ Proprietary` `Docker`
+- [BrowserStack Automate TurboScale](https://www.browserstack.com/automate-turboscale) - Scalable Browser Automation Grid on your Cloud (AWS, GCP and Azure) supporting Selenium and Playwright. `⊘ Proprietary` `⊘ Kubernetes` `Docker`
 
 
 ### Ticketing
