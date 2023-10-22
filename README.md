@@ -1825,7 +1825,7 @@ _Related: [Software Development - IDE & Tools](#software-development---ide--tool
 
 - [Appsmith](https://www.appsmith.com/) - Cloud or self-hosted open-source platform to build admin panels, CRUD apps and workflows. Build everything you need, 10x faster. ([Source Code](https://github.com/appsmithorg/appsmith)) `Apache-2.0` `Java/Docker/K8S`
 - [Budibase](https://www.budibase.com) - Build and automate internal tools, admin panels, dashboards, CRUD apps, and more, in minutes (alternative to Outsystems, Retool, Mendix, Appian). ([Source Code](https://github.com/Budibase/budibase)) `GPL-3.0` `Nodejs/Docker/K8S`
-- [Hadmean](https://hadmean.com) - Generate fully functional admin apps in seconds from your database information, with a single command. ([Source Code](https://github.com/hadmean/hadmean)) `AGPL-3.0` `Nodejs/Docker`
+- [Dashpress](https://github.com/dashpresshq/dashpress) - Generate fully functional admin apps in seconds from your database information, with a single command. ([Demo](https://demo.dashpress.io/auth)) `AGPL-3.0` `Nodejs/Docker`
 - [Motor Admin](https://www.getmotoradmin.com/) - No-code admin panel and business intelligence software - search, create, update, and delete data entries, create custom actions, and build reports. ([Source Code](https://github.com/motor-admin/motor-admin)) `AGPL-3.0` `Ruby/Docker`
 - [PocketBase](https://pocketbase.io/) - Open Source backend for your next SaaS and Mobile app in 1 file. ([Source Code](https://github.com/pocketbase/pocketbase)) `MIT` `Go/Docker`
 - [SQLPage](https://sql.ophir.dev) - SQL-only dynamic website builder. ([Source Code](https://github.com/lovasoa/SQLPage)) `MIT` `Rust/Docker`
