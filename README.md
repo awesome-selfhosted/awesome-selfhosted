@@ -82,7 +82,6 @@ See [Contributing](#contributing).
   - [Recipe Management](#recipe-management)
   - [Remote Access](#remote-access)
   - [Resource Planning](#resource-planning)
-  - [Resource Planning - Enterprise Resource Planning](#resource-planning---enterprise-resource-planning)
   - [Search Engines](#search-engines)
   - [Self-hosting Solutions](#self-hosting-solutions)
   - [Software Development](#software-development)
@@ -282,7 +281,7 @@ Software which allows users to add, annotate, edit, and share [bookmarks](https:
 - [Buku](https://github.com/jarun/Buku) - A powerful bookmark manager and a personal textual mini-web. `GPL-3.0` `Python`
 - [Espial](https://github.com/jonschoning/espial) - An open-source, web-based bookmarking server. `AGPL-3.0` `Haskell`
 - [Firefox Account Server](https://mozilla-services.readthedocs.io/en/latest/howtos/run-fxa.html) - This allows you to host your own Firefox accounts server. ([Source Code](https://github.com/mozilla/fxa)) `MPL-2.0` `Nodejs/Java`
-- [Hackershare](https://github.com/hackershare/hackershare) - Social bookmarks website for hackers. ([Demo](https://hackershare.dev/en)) `MIT` `Ruby`
+- [Hackershare](https://github.com/hackershare/hackershare) - Social bookmarks website for hackers. `MIT` `Ruby`
 - [LinkAce](https://www.linkace.org/) - A bookmark archive with automatic backups to the Internet Archive, link monitoring, and a full REST API. Installation is done via Docker, or as a simple PHP application. ([Demo](https://demo.linkace.org/guest/links), [Source Code](https://github.com/Kovah/LinkAce/)) `GPL-3.0` `Docker/PHP`
 - [linkding](https://github.com/sissbruecker/linkding) - Minimal bookmark management with a fast and clean UI. Simple installation through Docker and can run on your Raspberry Pi. `MIT` `Docker/Python/Nodejs`
 - [LinkWarden](https://linkwarden.app/) - A self-hosted bookmark + archive manager to store your useful links. ([Source Code](https://github.com/linkwarden/linkwarden)) `MIT` `Docker/Nodejs`
@@ -988,6 +987,8 @@ _Related: [Groupware](#groupware)_
 
 Multiplayer game servers and [browser games](https://en.wikipedia.org/wiki/Browser_game).
 
+_Related: [Games - Administrative Utilities & Control Panels](#games---administrative-utilities--control-panels)_
+
 - [0 A.D.](https://play0ad.com/) - A free, open-source game of ancient warfare. ([Source Code](https://github.com/0ad/0ad)) `MIT/GPL-2.0/Zlib` `C++/C/deb`
 - [A Dark Room](https://github.com/doublespeakgames/adarkroom) - Minimalist text adventure game for your browser. ([Demo](https://adarkroom.doublespeakgames.com/)) `MPL-2.0` `Javascript`
 - [EmuLinkerSF](https://emulinker.org) - EmuLinkerSF is an open source Kaillera server. Kaillera is a client/server system that any emulator can implement to enable netplay over the Internet. ([Source Code](https://github.com/God-Weapon/EmuLinkerSF)) `GPL-2.0` `Java`
@@ -1014,6 +1015,8 @@ Multiplayer game servers and [browser games](https://en.wikipedia.org/wiki/Brows
 **[`^        back to top        ^`](#awesome-selfhosted)**
 
 Utilities for managing game servers.
+
+_Related: [Games](#games)_
 
 - [ARRCON](https://github.com/radj307/ARRCON) - Terminal-based RCON client compatible with any game servers using the Source RCON Protocol. `GPL-3.0` `C++`
 - [Crafty Controller](https://craftycontrol.com/) - Crafty Controller is a free and open-source Minecraft launcher and manager that allows users to start and administer Minecraft servers from a user-friendly interface. ([Source Code](https://gitlab.com/crafty-controller/crafty-4)) `GPL-3.0` `Docker/Python`
@@ -1101,7 +1104,7 @@ A [human resources management system](https://en.wikipedia.org/wiki/Human_resour
 
 [Inventory management software](https://en.wikipedia.org/wiki/Inventory_management_software).
 
-_Related: [Money, Budgeting & Management](#money-budgeting--management), [Resource Planning](#resource-planning), [Resource Planning - Enterprise Resource Planning](#resource-planning---enterprise-resource-planning)_
+_Related: [Money, Budgeting & Management](#money-budgeting--management), [Resource Planning](#resource-planning)_
 
 _See also: [awesome-sysadmin/IT Asset Management](https://github.com/awesome-foss/awesome-sysadmin#it-asset-management)_
 
@@ -1359,7 +1362,7 @@ Software that does not fit in another section.
 
 [Money management](https://en.wikipedia.org/wiki/Money_management) and budgeting software.
 
-_Related: [Inventory Management](#inventory-management), [Resource Planning - Enterprise Resource Planning](#resource-planning---enterprise-resource-planning)_
+_Related: [Inventory Management](#inventory-management), [Resource Planning](#resource-planning)_
 
 - [Actual](https://actualbudget.github.io/docs/) - Actual is a local-first personal finance tool based on zero-sum budgeting. It support synchronization across devices, custom rules, manual transaction importing (from QIF, OFX, and QFX files), and optional automatic synchronization with many banks. ([Source Code](https://github.com/actualbudget/actual-server)) `MIT` `Nodejs/Docker`
 - [Akaunting](https://akaunting.com/) - Akaunting is a free, online and open source accounting software designed for small businesses and freelancers. ([Source Code](https://github.com/akaunting/akaunting)) `GPL-3.0` `PHP`
@@ -1645,24 +1648,18 @@ Software and tools for managing [recipes](https://en.wikipedia.org/wiki/Recipe).
 
 **[`^        back to top        ^`](#awesome-selfhosted)**
 
-Software and tools to help with [resource and supply planning](https://en.wikipedia.org/wiki/Resource_planning).
+Software and tools to help with [resource and supply planning](https://en.wikipedia.org/wiki/Resource_planning), including [enterprise resource and supply planning (ERP)](https://en.wikipedia.org/wiki/Enterprise_resource_planning).
 
-- [farmOS](https://farmos.org/) - Web-based farm record keeping application. ([Demo](https://farmos-demo.rootedsolutions.io/), [Source Code](https://github.com/farmOS/farmOS)) `GPL-2.0` `PHP/Docker`
-- [grocy](https://grocy.info/) - ERP beyond your fridge - grocy is a web-based self-hosted groceries & household management solution for your home. ([Demo](https://en.demo.grocy.info/), [Source Code](https://github.com/grocy/grocy)) `MIT` `PHP/Docker`
-- [Tania](https://usetania.org/) - Tania is a free and open source farming management system for everyone. You can manage your areas, reservoirs, farm tasks, inventories, and the crop growing progress. ([Source Code](https://github.com/usetania/tania-core)) `Apache-2.0` `Go`
-
-
-### Resource Planning - Enterprise Resource Planning
-
-**[`^        back to top        ^`](#awesome-selfhosted)**
-
-Software and tools to help with [enterprise resource and supply planning](https://en.wikipedia.org/wiki/Enterprise_resource_planning).
+_Related: [Money, Budgeting & Management](#money-budgeting--management), [Inventory Management](#inventory-management)_
 
 - [Dolibarr](https://www.dolibarr.org/) - Dolibarr ERP CRM is a modern software package to manage your company or foundation activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). ([Demo](https://www.dolibarr.org/onlinedemo.php), [Source Code](https://github.com/Dolibarr/dolibarr)) `GPL-3.0` `PHP/deb`
 - [ERPNext](https://erpnext.com) - Free open source ERP system. ([Source Code](https://github.com/frappe/erpnext)) `GPL-3.0` `Python/Docker`
+- [farmOS](https://farmos.org/) - Web-based farm record keeping application. ([Demo](https://farmos-demo.rootedsolutions.io/), [Source Code](https://github.com/farmOS/farmOS)) `GPL-2.0` `PHP/Docker`
+- [grocy](https://grocy.info/) - ERP beyond your fridge - grocy is a web-based self-hosted groceries & household management solution for your home. ([Demo](https://en.demo.grocy.info/), [Source Code](https://github.com/grocy/grocy)) `MIT` `PHP/Docker`
 - [LedgerSMB](https://ledgersmb.org/) - Integrated accounting and ERP system for small and midsize businesses, with double entry accounting, budgeting, invoicing, quotations, projects, orders and inventory management, shipping and more. ([Demo](https://demo.cloud.efficito.com/erp/1.5/login.pl), [Source Code](https://github.com/ledgersmb/LedgerSMB)) `GPL-2.0` `Docker/Perl`
 - [Odoo](https://www.odoo.com) - Free open source ERP system. ([Demo](https://demo.odoo.com/), [Source Code](https://github.com/odoo/odoo)) `LGPL-3.0` `Python/deb/Docker`
-- [OFBiz](https://ofbiz.apache.org/) - FOSS enterprise resource planning system with a suite of business applications flexible enough to be used across any industry. ([Source Code](https://svn.apache.org/viewvc/ofbiz/)) `Apache-2.0` `Java`
+- [OFBiz](https://ofbiz.apache.org/) - Enterprise Resource Planning system with a suite of business applications flexible enough to be used across any industry. ([Source Code](https://svn.apache.org/viewvc/ofbiz/)) `Apache-2.0` `Java`
+- [Tania](https://usetania.org/) - Tania is a free and open source farming management system for everyone. You can manage your areas, reservoirs, farm tasks, inventories, and the crop growing progress. ([Source Code](https://github.com/usetania/tania-core)) `Apache-2.0` `Go`
 - [Tryton](https://www.tryton.org/) - Free open source business solution. ([Demo](https://www.tryton.org/download.html), [Source Code](https://hg.tryton.org/)) `GPL-3.0` `Python`
 
 

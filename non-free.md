@@ -26,7 +26,7 @@
   - [Money, Budgeting & Management](#money-budgeting--management)
   - [Photo and Video Galleries](#photo-and-video-galleries)
   - [Proxy](#proxy)
-  - [Resource Planning - Enterprise Resource Planning](#resource-planning---enterprise-resource-planning)
+  - [Resource Planning](#resource-planning)
   - [Search Engines](#search-engines)
   - [Self-hosting Solutions](#self-hosting-solutions)
   - [Software Development - Project Management](#software-development---project-management)
@@ -191,7 +191,7 @@
 - [Cosmos](https://cosmos-cloud.io/) - Cosmos is a self-hosted platform for running server applications securely and with built-in privacy features. It acts as a secure gateway to your application, as well as a server manager. ([Source Code](https://github.com/azukaar/cosmos-Server)) `Apache-2.0/Commons-Clause` `Docker/Go`
 
 
-### Resource Planning - Enterprise Resource Planning
+### Resource Planning
 
 **[`^        back to top        ^`](##awesome-selfhosted---non-free-software)**
 
