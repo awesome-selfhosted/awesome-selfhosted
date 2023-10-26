@@ -12,6 +12,7 @@
   - [Communication - Email - Mailing Lists and Newsletters](#communication---email---mailing-lists-and-newsletters)
   - [Communication - SIP](#communication---sip)
   - [Content Management Systems (CMS)](#content-management-systems-cms)
+  - [Database Management](#database-management)
   - [Document Management - E-books](#document-management---e-books)
   - [E-commerce](#e-commerce)
   - [File Transfer & Synchronization](#file-transfer--synchronization)
@@ -77,6 +78,13 @@
 - [CraftCMS](https://craftcms.com/) - Content-first CMS that aims to make life enjoyable for developers and content managers alike. ([Demo](https://craftcms.com/demo), [Source Code](https://github.com/craftcms/cms)) `⊘ Proprietary` `PHP`
 - [Kirby](https://getkirby.com/) - File-based CMS. Easy to setup. Easy to use. Flexible as hell. ([Source Code](https://github.com/getkirby/kirby)) `⊘ Proprietary` `PHP`
 - [october](https://octobercms.com/) - Self-hosted CMS platform based on the Laravel PHP Framework. ([Source Code](https://github.com/octobercms/october)) `⊘ Proprietary` `PHP`
+
+
+### Database Management
+
+**[`^        back to top        ^`](##awesome-selfhosted---non-free-software)**
+
+- [Cluster Control](https://severalnines.com/clustercontrol/) - Setup many databases in few clicks with monitoring, load balancing and more. `⊘ Proprietary` `deb/Ansible/Shell/Docker`
 
 
 ### Document Management - E-books
