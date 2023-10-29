@@ -12,9 +12,11 @@
   - [Communication - Email - Mailing Lists and Newsletters](#communication---email---mailing-lists-and-newsletters)
   - [Communication - SIP](#communication---sip)
   - [Content Management Systems (CMS)](#content-management-systems-cms)
+  - [Database Management](#database-management)
   - [Document Management - E-books](#document-management---e-books)
   - [E-commerce](#e-commerce)
   - [File Transfer & Synchronization](#file-transfer--synchronization)
+  - [File Transfer - Object Storage & File Servers](#file-transfer---object-storage--file-servers)
   - [Games](#games)
   - [Internet of Things (IoT)](#internet-of-things-iot)
   - [Knowledge Management Tools](#knowledge-management-tools)
@@ -24,6 +26,7 @@
   - [Money, Budgeting & Management](#money-budgeting--management)
   - [Photo and Video Galleries](#photo-and-video-galleries)
   - [Proxy](#proxy)
+  - [Resource Planning](#resource-planning)
   - [Search Engines](#search-engines)
   - [Self-hosting Solutions](#self-hosting-solutions)
   - [Software Development - Project Management](#software-development---project-management)
@@ -35,7 +38,6 @@
 --------------------
 
 ## Software
-
 
 ### Automation
 
@@ -78,6 +80,13 @@
 - [october](https://octobercms.com/) - Self-hosted CMS platform based on the Laravel PHP Framework. ([Source Code](https://github.com/octobercms/october)) `⊘ Proprietary` `PHP`
 
 
+### Database Management
+
+**[`^        back to top        ^`](##awesome-selfhosted---non-free-software)**
+
+- [Cluster Control](https://severalnines.com/clustercontrol/) - Setup many databases in few clicks with monitoring, load balancing and more. `⊘ Proprietary` `deb/Ansible/Shell/Docker`
+
+
 ### Document Management - E-books
 
 **[`^        back to top        ^`](##awesome-selfhosted---non-free-software)**
@@ -102,11 +111,18 @@
 - [Yetishare](https://yetishare.com) - Powerful file hosting script with support for Amazon S3, Wasabi, Backblaze, local, direct and SFTP storage. ([Demo](https://fhscript.com)) `⊘ Proprietary` `PHP`
 
 
+### File Transfer - Object Storage & File Servers
+
+**[`^        back to top        ^`](##awesome-selfhosted---non-free-software)**
+
+- [DaneeCloud](https://docs.daneeskripter.dev/daneecloud/) - Multi-user file storage and sharing application. ([Demo](https://cloud.daneeskripter.dev), [Source Code](https://github.com/DaneeSkripter/DaneeCloud)) `GPL-3.0/SSPL-1.0` `Nodejs`
+
+
 ### Games
 
 **[`^        back to top        ^`](##awesome-selfhosted---non-free-software)**
 
-- [Cubiks-2048](https://github.com/Kshitij-Banerjee/Cubiks-2048) - Clone of 2048 game in 3D. ([Demo](https://kshitij-banerjee.github.io/Cubiks-2048/)) `CC-BY-NC-4.0` `HTML5`
+- [Cubiks-2048](https://github.com/Kshitij-Banerjee/Cubiks-2048) - Clone of 2048 game in 3D. ([Demo](https://kshitij-banerjee.github.io/Cubiks-2048/)) `CC-BY-NC-4.0` `Javascript`
 - [untrusted](https://github.com/AlexNisnevich/untrusted) - Unique puzzle game designed for geeks and developers, where you solve the puzzles in the game by reading and writing Javascript. ([Demo](http://alexnisnevich.github.io/untrusted/)) `CC-BY-NC-SA-3.0` `Nodejs`
 
 
@@ -154,8 +170,6 @@
 
 **[`^        back to top        ^`](##awesome-selfhosted---non-free-software)**
 
-- [Anchor](http://theanchorapp.com/) - Invoicing system that integrates with Stripe and Paypal. Includes features such as: reporting, dashboard and no client limit. ([Demo](http://theanchorapp.com/demo/admin-login)) `⊘ Proprietary` `PHP`
-- [Manager](https://www.manager.io/server) - Online accounting software for small businesses. `⊘ Proprietary` `Mono`
 - [Pancake](https://www.pancakeapp.com/) - Online invoicing, project management, time tracking and proposal software. `⊘ Proprietary` `PHP`
 
 
@@ -174,7 +188,14 @@
 
 **[`^        back to top        ^`](##awesome-selfhosted---non-free-software)**
 
-- [Cosmos](https://cosmos-cloud.io/) - Cosmos is a self-hosted platform for running server applications securely and with built-in privacy features. It acts as a secure gateway to your application, as well as a server manager. ([Source Code](https://github.com/azukaar/cosmos-Server)) `⊘ Proprietary` `Docker/Go`
+- [Cosmos](https://cosmos-cloud.io/) - Cosmos is a self-hosted platform for running server applications securely and with built-in privacy features. It acts as a secure gateway to your application, as well as a server manager. ([Source Code](https://github.com/azukaar/cosmos-Server)) `Apache-2.0/Commons-Clause` `Docker/Go`
+
+
+### Resource Planning
+
+**[`^        back to top        ^`](##awesome-selfhosted---non-free-software)**
+
+- [YetiForce](https://yetiforce.com/en/) - Opensource CRM ERP with sales, marketing, accounting, HR, Support, Logistics and GDPR support. ([Demo](https://gitstable.yetiforce.com/), [Source Code](https://github.com/YetiForceCompany/YetiForceCRM)) `⊘ Proprietary` `PHP`
 
 
 ### Search Engines
@@ -195,7 +216,7 @@
 - [Poste.io](https://poste.io) - Full-featured solution for your Email server. Native implementation of last anti-SPAM methods, webmail and easy administration included. Free tier available. ([Demo](https://poste.io/demo)) `⊘ Proprietary` `Unknown`
 - [StartOS](https://start9.com) -  Browser-based, graphical operating system for a personal server. ([Source Code](https://github.com/Start9Labs/start-os)) `⊘ Proprietary` `Rust`
 - [Umbrel](https://umbrel.com/) - A beautiful personal server OS for self-hosting. Install on a Raspberry Pi 4 or Ubuntu/Debian. ([Source Code](https://github.com/getumbrel/umbrel)) `⊘ Proprietary` `Nodejs/Docker`
-- [Unraid](https://www.unraid.net) `⚠` - Linux-based operating system designed to run on home media server setups. `⊘ Proprietary` `Other`
+- [Unraid](https://www.unraid.net) `⚠` - Linux-based operating system designed to run on home media server setups. `⊘ Proprietary` `Unknown`
 
 
 ### Software Development - Project Management
@@ -218,6 +239,8 @@
 **[`^        back to top        ^`](##awesome-selfhosted---non-free-software)**
 
 - [Bamboo](https://www.atlassian.com/software/bamboo) - Continuous integration server. `⊘ Proprietary` `Java`
+- [BrowserStack Automate TurboScale](https://www.browserstack.com/automate-turboscale) - Scalable browser automation grid on your cloud (AWS, GCP and Azure) supporting Selenium and Playwright. `⊘ Proprietary` `Docker`
+- [Grai](https://www.grai.io) - Automated integration testing. Uses data lineage to statically analyze the impact of a data change across your entire data stack. ([Source Code](https://www.github.com/grai-io/grai-core)) `Elastic-2.0` `Docker`
 - [Moon](https://aerokube.com/moon/) - Efficient Selenium protocol implementation running everything in Kubernetes or Openshift. `⊘ Proprietary` `Go`
 - [Sentry Self-Hosted](https://github.com/getsentry/self-hosted) - Powerful error tracking platform with wide language support and a robust API. ([Source Code](https://github.com/getsentry/sentry)) `BUSL-1.1` `Python/Django`
 
@@ -229,7 +252,7 @@
 - [Deskpro](https://www.deskpro.com/) - On-Premise help desk software that includes email, chat, voice & help centre publishing. Full visible source code and API. `⊘ Proprietary` `Unknown`
 - [Full Help](https://www.fullhelp.com/en/) - Simple, easy to use help desk & knowledge base software. Custom branding, custom themes, restful API, communication channels, multi-company support, multi-language support, and much more! At least 1 new release per month. `⊘ Proprietary` `PHP`
 - [JIRA](https://www.atlassian.com/software/jira) - Professional and extensible issue tracker. `⊘ Proprietary` `Java`
-- [Jitbit Helpdesk](https://www.jitbit.com/helpdesk/) - Self-hosted help desk software - simple but powerful. ([Demo](https://www.jitbit.com/saas-helpdesk/trial/)) `⊘ Proprietary` `ASP.NET`
+- [Jitbit Helpdesk](https://www.jitbit.com/helpdesk/) - Self-hosted help desk software - simple but powerful. ([Demo](https://www.jitbit.com/saas-helpdesk/trial/)) `⊘ Proprietary` `.NET`
 - [SupportPal](https://www.supportpal.com/) - Powerful help desk software - easy, fast and intuitive. ([Demo](https://demo.supportpal.com/en)) `⊘ Proprietary` `PHP`
 
 
@@ -241,13 +264,11 @@
 - [Virtual TimeClock](https://www.redcort.com/timeclock) - Powerful, easy-to-use time tracking software. ([Demo](https://www.redcort.com/timeclock/free-timeclock-software-trial)) `⊘ Proprietary` `Unknown`
 
 
-<!-- END SOFTWARE LIST -->
-
 --------------------
 
 ## List of Licenses
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](##awesome-selfhosted---non-free-software)**
 
 - `BUSL-1.1` - [Business Source License 1.1](https://spdx.org/licenses/BUSL-1.1.html)
 - `CC-BY-NC-SA-3.0` - [Creative Commons Attribution-NonCommercial-ShareAlike License 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
@@ -258,3 +279,4 @@
 - `Elastic-2.0` - [Elastic License 2.0](https://spdx.org/licenses/Elastic-2.0.html)
 - `SSPL-1.0` - [Server Side Public License](https://spdx.org/licenses/SSPL-1.0.html)
 - `⊘ Proprietary` - [Proprietary software](https://en.wikipedia.org/wiki/Proprietary_software)
+
