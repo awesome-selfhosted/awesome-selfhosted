@@ -189,6 +189,7 @@
 **[`^        back to top        ^`](##awesome-selfhosted---non-free-software)**
 
 - [Cosmos](https://cosmos-cloud.io/) - Cosmos is a self-hosted platform for running server applications securely and with built-in privacy features. It acts as a secure gateway to your application, as well as a server manager. ([Source Code](https://github.com/azukaar/cosmos-Server)) `Apache-2.0/Commons-Clause` `Docker/Go`
+- [inlets](https://inlets.dev/) - Expose your local endpoints to the Internet - with a Kubernetes integration, Docker image and CLI available. ([Source Code](https://github.com/inlets/inlets-pro)) `⊘ Proprietary` `Go/Docker`
 
 
 ### Resource Planning
