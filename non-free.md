@@ -180,7 +180,6 @@
 
 - [Lomorage](https://lomorage.com/) - Google photo alternative via simple self-hosting software. Supported clients: iOS, Android, Web, MAC/Windows. Backend can run on Raspberry pi, Armbian, MAC/Windows/Linux. ([Source Code](https://github.com/lomorage/homepage)) `⊘ Proprietary` `Go`
 - [PhotoStructure](https://photostructure.com/) - All your family's photos and videos automatically organized into a fun and beautiful website. Runs via Docker, NodeJS, or native desktop installers. `⊘ Proprietary` `Nodejs`
-- [Picaport](https://www.picapport.de/en/index.php) - A photo server with web gallery for your intranet, web space or home network that allows you to organize photos, videos, PDF's, and many other media types in a central location. ([Demo](https://en.onlinedemo.picapport.de/)) `CC-BY-NC-4.0` `Java/Docker`
 - [Reservo](https://reservo.co) - Scalable image hosting script with support for CDNs, paid account upgrades, advertising spots and drag & drop upload. ([Demo](https://demo.reservo.co/)) `⊘ Proprietary` `PHP`
 - [Single File PHP Gallery](http://sye.dk/sfpg/) - Web gallery in one single PHP file. `⊘ Proprietary` `PHP`
 
