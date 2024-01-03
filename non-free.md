@@ -154,6 +154,7 @@
 
 **[`^        back to top        ^`](##awesome-selfhosted---non-free-software)**
 
+- [GameVault](https://gamevau.lt) - Organize, download, and play DRM-free games from your own server, complete with metadata enrichment and user-friendly interface. ([Demo](https://demo.gamevau.lt), [Source Code](https://github.com/Phalcode/gamevault-backend)) `CC-BY-NC-SA-4.0` `Nodejs/Docker`
 - [Keygen](https://github.com/keygen-sh/keygen-api) - Self-hosted software licensing and distribution API. `Elastic-2.0` `Ruby`
 - [RemoteUtilities](https://www.remoteutilities.com/) - Remote Utilities is self-hosted remote support software for LAN administration and remote support over the Internet. `⊘ Proprietary` `Unknown`
 - [ScreenConnect](https://www.connectwise.com/platform/unified-management/control) - Lightning-fast remote support and remote access to connect instantly and solve problems faster. `⊘ Proprietary` `Unknown`
@@ -273,6 +274,7 @@
 
 - `BUSL-1.1` - [Business Source License 1.1](https://spdx.org/licenses/BUSL-1.1.html)
 - `CC-BY-NC-SA-3.0` - [Creative Commons Attribution-NonCommercial-ShareAlike License 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
+- `CC-BY-NC-SA-4.0` - [Creative Commons Attribution-NonCommercial-ShareAlike License 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 - `CC-BY-ND-3.0` - [Creative Commons Attribution-NoDerivs Unported License 3.0](https://creativecommons.org/licenses/by-nd/3.0/)
 - `CC-BY-NC-4.0` - [Creative Commons Attribution-NonCommercial License 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
 - `Commons-Clause` - [Commons Clause License](https://commonsclause.com/)
