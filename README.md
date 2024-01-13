@@ -204,6 +204,7 @@ _Related: [Internet of Things (IoT)](#internet-of-things-iot), [Software Develop
 - [Medusa](https://pymedusa.com/) - Automatic Video Library Manager for TV Shows. It watches for new episodes of your favorite shows, and when they are posted it does its magic. ([Source Code](https://github.com/pymedusa/Medusa), [Clients](https://github.com/medusajs/nextjs-starter-medusa)) `GPL-3.0` `Python`
 - [MetaTube](https://github.com/JVT038/MetaTube) `⚠` - A Web GUI to automatically download music from YouTube add metadata from Spotify, Deezer or Musicbrainz. `GPL-3.0` `Python`
 - [MeTube](https://github.com/alexta69/metube) - Web GUI for youtube-dl, with playlist support. Allows downloading videos from dozens of websites. `AGPL-3.0` `Python/Nodejs/Docker`
+- [Mylar3](https://mylarcomics.com/) - Automated Comic Book (cbr/cbz) downloader program for use with NZB and torrents. ([Source Code](https://github.com/mylar3/mylar3)) `GPL-3.0` `Python/Docker`
 - [nefarious](https://github.com/lardbit/nefarious) - Web application that automates downloading Movies and TV Shows. `GPL-3.0` `Python`
 - [OliveTin](https://github.com/OliveTin/OliveTin) - OliveTin is a web interface for running Linux shell commands. `AGPL-3.0` `Go`
 - [pyLoad](https://pyload.net/) - Lightweight, customizable and remotely manageable downloader for 1-click-hosting sites like rapidshare.com or uploaded.to. ([Source Code](https://github.com/pyload/pyload)) `GPL-3.0` `Python`
@@ -1607,6 +1608,7 @@ _Related: [Web Servers](#web-servers)_
 - [Squid](http://www.squid-cache.org/) - Caching proxy for the Web supporting HTTP, HTTPS, FTP, and more. It reduces bandwidth and improves response times by caching and reusing frequently-requested web pages. ([Source Code](https://code.launchpad.net/squid)) `GPL-2.0` `C/deb`
 - [SWAG (Secure Web Application Gateway)](https://github.com/linuxserver/docker-swag) - Nginx webserver and reverse proxy with PHP support, built-in Certbot (Let's Encrypt) client and fail2ban integration. `GPL-3.0` `Docker`
 - [Tinyproxy](https://tinyproxy.github.io/) - Light-weight HTTP/HTTPS proxy daemon. ([Source Code](https://github.com/tinyproxy/tinyproxy)) `GPL-2.0` `C/deb`
+- [txtdot](https://txtdot.github.io/documentation/) - A HTTP proxy that parses only text, links and pictures from pages reducing internet bandwidth usage, removing ads and heavy scripts. ([Demo](https://txt.dc09.ru), [Source Code](https://github.com/TxtDot/txtdot)) `MIT` `Nodejs/Docker`
 
 
 ### Recipe Management
