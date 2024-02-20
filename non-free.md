@@ -26,6 +26,7 @@
   - [Photo and Video Galleries](#photo-and-video-galleries)
   - [Proxy](#proxy)
   - [Recipe Management](#recipe-management)
+  - [Remote Access](#remote-access)
   - [Resource Planning](#resource-planning)
   - [Search Engines](#search-engines)
   - [Self-hosting Solutions](#self-hosting-solutions)
@@ -192,6 +193,13 @@
 **[`^        back to top        ^`](##awesome-selfhosted---non-free-software)**
 
 - [Tandoor Recipes](https://docs.tandoor.dev/) - Django application to manage, tag and search recipes using either built-in models or external storage providers hosting PDFs, Images or other files. ([Demo](https://app.tandoor.dev/accounts/login/?demo), [Source Code](https://github.com/TandoorRecipes/recipes)) `MIT/Commons-Clause` `Python/Docker/K8S`
+
+
+### Remote Access
+
+**[`^        back to top        ^`](##awesome-selfhosted---non-free-software)**
+
+- [SparkView](https://www.beyondssl.com/en/products/sparkview/) - Browser-based remote access solution. No VPN client; just deploy the software in the DMZ. Access VMs, desktops, servers, and apps anytime, anywhere, without complex and costly client rollouts or user management. `⊘ Proprietary` `Java`
 
 
 ### Resource Planning
