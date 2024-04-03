@@ -45,6 +45,7 @@
 
 **[`^        back to top        ^`](##awesome-selfhosted---non-free-software)**
 
+- [Ctfreak](https://ctfreak.com) - IT task scheduler with mobile-friendly web UI to schedule concurrent, remote and chained execution of Bash / Powershell / SQL scripts, Webhooks, and more. `⊘ Proprietary` `Unknown`
 - [n8n](https://n8n.io/) - Free node based Workflow Automation Tool. Easily automate tasks across different services. ([Source Code](https://github.com/n8n-io/n8n)) `Apache-2.0/Commons-Clause` `Nodejs`
 
 
