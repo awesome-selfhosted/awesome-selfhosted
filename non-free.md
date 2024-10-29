@@ -239,6 +239,7 @@
 
 - [Budibase](https://www.budibase.com) - Build and automate internal tools, admin panels, dashboards, CRUD apps, and more, in minutes (alternative to Outsystems, Retool, Mendix, Appian). ([Source Code](https://github.com/Budibase/budibase)) `⊘ Proprietary` `Nodejs/Docker/K8S`
 - [Dify.ai](https://dify.ai) - Build, test and deploy LLM applications. ([Source Code](https://github.com/langgenius/dify)) `Apache-2.0/Commons-Clause` `Docker`
+- [UI Bakery](https://uibakery.io) - Build internal tools, customer portals, and CRUD apps quickly. Configure scheduled jobs and webhooks. Create structure and manage data through a GUI. ([Demo](https://cloud.uibakery.io), [Source Code](https://github.com/uibakery/self-hosted)) `⊘ Proprietary` `Docker/K8S`
 
 
 ### Software Development - Project Management
