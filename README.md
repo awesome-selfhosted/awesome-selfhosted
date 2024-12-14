@@ -1640,7 +1640,7 @@ _Related: [Web Servers](#web-servers)_
 
 Software and tools for managing [recipes](https://en.wikipedia.org/wiki/Recipe).
 
-- [Bar Assistant](https://github.com/karlomikus/bar-assistant) - Bar assistant is a self hosted application for managing your home bar. It allows you to add your ingredients, search for cocktails and create custom cocktail recipes. ([Demo](https://bar.karlomikus.com/)) `MIT` `PHP/Docker`
+- [Bar Assistant](https://barassistant.app/) - Bar assistant is a self hosted application for managing your home bar. It allows you to add your ingredients, search for cocktails and create custom cocktail recipes. ([Demo](https://demo.barassistant.app/), [Source Code](https://github.com/karlomikus/bar-assistant)) `MIT` `PHP/Docker`
 - [KitchenOwl](https://tombursch.github.io/kitchenowl/) - A cross-platform shopping list, recipe storage, expense tracker, and meal planner following the material design language. ([Source Code](https://github.com/TomBursch/kitchenowl)) `AGPL-3.0` `Docker/deb`
 - [Mealie](https://nightly.mealie.io/) - Material design inspired recipe manager with category and tag management, shopping-lists, meal-planner, and site customizations. Mealie is focused on simple user interactions to keep the whole family using the app. ([Source Code](https://github.com/mealie-recipes/mealie)) `MIT` `Python`
 - [RecipeSage](https://github.com/julianpoy/recipesage) - A recipe keeper, meal plan organizer, and shopping list manager that can import recipes directly from any URL. ([Demo](https://recipesage.com)) `AGPL-3.0` `Nodejs`
