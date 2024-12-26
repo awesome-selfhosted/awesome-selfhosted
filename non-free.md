@@ -23,6 +23,7 @@
   - [Media Streaming - Video Streaming](#media-streaming---video-streaming)
   - [Miscellaneous](#miscellaneous)
   - [Money, Budgeting & Management](#money-budgeting--management)
+  - [Pastebins](#pastebins)
   - [Photo and Video Galleries](#photo-and-video-galleries)
   - [Proxy](#proxy)
   - [Recipe Management](#recipe-management)
@@ -172,6 +173,13 @@
 - [Pancake](https://www.pancakeapp.com/) - Online invoicing, project management, time tracking and proposal software. `⊘ Proprietary` `PHP`
 
 
+### Pastebins
+
+**[`^        back to top        ^`](##awesome-selfhosted---non-free-software)**
+
+- [not-th.re](https://not-th.re) - Simple paste sharing platform, with client side encryption, featuring the monaco browser-based code editor. ([Demo](https://not-th.re), [Source Code](https://github.com/not-three/main)) `NPOSL-3.0` `Nodejs/Docker`
+
+
 ### Photo and Video Galleries
 
 **[`^        back to top        ^`](##awesome-selfhosted---non-free-software)**
@@ -300,6 +308,7 @@
 - `Commons-Clause` - [Commons Clause License](https://commonsclause.com/)
 - `DPL` - [Devblocks Public License 1.0](https://cerb.ai/license/)
 - `Elastic-2.0` - [Elastic License 2.0](https://spdx.org/licenses/Elastic-2.0.html)
+- `NPOSL-3.0` - [Non-Profit Open Software License 3.0](https://spdx.org/licenses/NPOSL-3.0.html)
 - `SSPL-1.0` - [Server Side Public License](https://spdx.org/licenses/SSPL-1.0.html)
 - `⊘ Proprietary` - [Proprietary software](https://en.wikipedia.org/wiki/Proprietary_software)
 
