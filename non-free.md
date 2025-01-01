@@ -290,7 +290,6 @@
 
 **[`^        back to top        ^`](##awesome-selfhosted---non-free-software)**
 
-- [Anuko](https://github.com/anuko/timetracker) - Simple time and project tracking on a self-hosted basis. `SSPL-1.0` `PHP`
 - [Virtual TimeClock](https://www.redcort.com/timeclock) - Powerful, easy-to-use time tracking software. ([Demo](https://www.redcort.com/timeclock/free-timeclock-software-trial)) `⊘ Proprietary` `Unknown`
 
 
