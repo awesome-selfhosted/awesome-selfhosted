@@ -24,7 +24,7 @@
   - [Miscellaneous](#miscellaneous)
   - [Money, Budgeting & Management](#money-budgeting--management)
   - [Pastebins](#pastebins)
-  - [Photo and Video Galleries](#photo-and-video-galleries)
+  - [Photo Galleries](#photo-galleries)
   - [Proxy](#proxy)
   - [Recipe Management](#recipe-management)
   - [Remote Access](#remote-access)
@@ -181,7 +181,7 @@
 - [not-th.re](https://not-th.re) - Simple paste sharing platform, with client side encryption, featuring the monaco browser-based code editor. ([Demo](https://not-th.re), [Source Code](https://github.com/not-three/main)) `NPOSL-3.0` `Nodejs/Docker`
 
 
-### Photo and Video Galleries
+### Photo Galleries
 
 **[`^        back to top        ^`](##awesome-selfhosted---non-free-software)**
 

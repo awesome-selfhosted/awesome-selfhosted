@@ -76,7 +76,7 @@ See [Contributing](#contributing).
   - [Password Managers](#password-managers)
   - [Pastebins](#pastebins)
   - [Personal Dashboards](#personal-dashboards)
-  - [Photo and Video Galleries](#photo-and-video-galleries)
+  - [Photo Galleries](#photo-galleries)
   - [Polls and Events](#polls-and-events)
   - [Proxy](#proxy)
   - [Recipe Management](#recipe-management)
@@ -636,7 +636,7 @@ Software for submission of [abstracts](https://en.wikipedia.org/wiki/Abstract_ma
 
 [Content Management Systems](https://en.wikipedia.org/wiki/Content_management_system) offer a practical way to setup a website with many features, using third party plugins, themes and functionality that are easy to add and customize.
 
-_Related: [Blogging Platforms](#blogging-platforms), [Static Site Generators](#static-site-generators), [Photo and Video Galleries](#photo-and-video-galleries)_
+_Related: [Blogging Platforms](#blogging-platforms), [Static Site Generators](#static-site-generators), [Photo Galleries](#photo-galleries)_
 
 - [Alfresco Community Edition](https://www.alfresco.com/products/community/download) - The open source Enterprise Content Management software that handles any type of content, allowing users to easily share and collaborate on content. ([Source Code](https://github.com/Alfresco/alfresco-community-repo)) `LGPL-3.0` `Java`
 - [Apostrophe](https://apostrophecms.com/) - CMS with a focus on extensible in-context editing tools. ([Demo](https://apostrophecms.com/demo), [Source Code](https://github.com/apostrophecms/apostrophe)) `MIT` `Nodejs`
@@ -1550,19 +1550,19 @@ _Related: [Monitoring](#monitoring), [Bookmarks and Link Sharing](#bookmarks-and
 - [Your Spotify](https://github.com/Yooooomi/your_spotify) `⚠` - Allows you to record your Spotify listening activity and have statistics about them served through a Web application. `MIT` `Nodejs/Docker`
 
 
-### Photo and Video Galleries
+### Photo Galleries
 
 **[`^        back to top        ^`](#awesome-selfhosted)**
 
 A [gallery](https://en.wikipedia.org/wiki/Gallery_Software) is software that helps the user publish or share photos, pictures, videos or other digital media.
 
-_Related: [Static Site Generators](#static-site-generators), [Photo and Video Galleries](#photo-and-video-galleries), [Content Management Systems (CMS)](#content-management-systems-cms)_
+_Related: [Static Site Generators](#static-site-generators), [Photo Galleries](#photo-galleries), [Content Management Systems (CMS)](#content-management-systems-cms)_
 
 - [Chevereto](https://chevereto.com/) - Ultimate image sharing software. Create your very own personal image hosting website in just minutes. ([Source Code](https://github.com/chevereto/chevereto)) `AGPL-3.0` `PHP/Docker`
 - [Coppermine](https://coppermine-gallery.com/) - Multilingual photo gallery that integrates with various bulletin boards. Includes upload approval and password protected albums. ([Demo](https://coppermine-gallery.com/demo/cpg15x/), [Source Code](https://github.com/coppermine-gallery/cpg1.6.x)) `GPL-3.0` `PHP`
 - [Damselfly](https://damselfly.info) - Fast server-based photo management system for large collections of images. Includes face detection, face & object recognition, powerful search, and EXIF Keyword tagging. Runs on Linux, MacOS and Windows. ([Source Code](https://github.com/webreaper/damselfly)) `GPL-3.0` `Docker/C#/.NET`
 - [Ente](https://ente.io/) - An end-to-end encrypted photo-sharing platform (alternative to Google Photos, Apple Photos). ([Source Code](https://github.com/ente-io/ente)) `AGPL-3.0` `Docker/Nodejs/Go`
-- [HomeGallery](https://home-gallery.org) - Self-hosted open-source web gallery to browse personal photos and videos featuring tagging, mobile-friendly, and AI powered image discovery. ([Demo](https://demo.home-gallery.org), [Source Code](https://github.com/xemle/home-gallery)) `MIT` `Nodejs/Docker`
+- [HomeGallery](https://home-gallery.org) - Web gallery to browse personal photos and videos featuring tagging, mobile-friendly, and AI powered image discovery. ([Demo](https://demo.home-gallery.org), [Source Code](https://github.com/xemle/home-gallery)) `MIT` `Nodejs/Docker`
 - [Immich Kiosk](https://github.com/damongolding/immich-kiosk) - A lightweight slideshow for running on kiosk devices and browsers that uses Immich as a data source. `GPL-3.0` `Docker/Go`
 - [Immich](https://immich.app/) - Self-hosted photo and video backup solution directly from your mobile phone. ([Source Code](https://github.com/immich-app/immich)) `AGPL-3.0` `Docker`
 - [LibrePhotos](https://github.com/LibrePhotos/librephotos) - Self hosted wannabe Google Photos clone, with a slight focus on cool graphs. ([Clients](https://docs.librephotos.com/docs/user-guide/mobile/)) `MIT` `Python/Docker`
@@ -1904,7 +1904,7 @@ Tools and software for [software testing](https://en.wikipedia.org/wiki/Software
 
 **Please visit [staticsitegenerators.net](https://staticsitegenerators.net), [staticgen.com](https://www.staticgen.com)**
 
-_Related: [Blogging Platforms](#blogging-platforms), [Photo and Video Galleries](#photo-and-video-galleries), [Content Management Systems (CMS)](#content-management-systems-cms)_
+_Related: [Blogging Platforms](#blogging-platforms), [Photo Galleries](#photo-galleries), [Content Management Systems (CMS)](#content-management-systems-cms)_
 
 
 
