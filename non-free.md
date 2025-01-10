@@ -238,6 +238,7 @@
 
 **[`^        back to top        ^`](##awesome-selfhosted---non-free-software)**
 
+- [Composio](https://composio.dev/) `⚠` - Integration platform for AI agents & LLMs with support for 250+ apps and custom tools. ([Source Code](https://github.com/ComposioHQ/composio)) `Elastic-2.0` `Python`
 - [Hook0](https://www.hook0.com) - A Webhooks-as-a-service (WaaS) that makes it easy for online products to provide webhooks. Dispatch up to 3,000 events/month with 7 days of history retention for free. ([Source Code](https://gitlab.com/hook0/hook0)) `SSPL-1.0` `Rust/Nodejs/Docker`
 
 
