@@ -16,7 +16,6 @@
   - [Document Management - E-books](#document-management---e-books)
   - [E-commerce](#e-commerce)
   - [File Transfer & Synchronization](#file-transfer--synchronization)
-  - [File Transfer - Object Storage & File Servers](#file-transfer---object-storage--file-servers)
   - [Games](#games)
   - [Knowledge Management Tools](#knowledge-management-tools)
   - [Maps and Global Positioning System (GPS)](#maps-and-global-positioning-system-gps)
@@ -116,13 +115,6 @@
 - [FileRun](https://www.filerun.com/) - Complete solution for your files with integration with Google and Office. ([Demo](https://www.filerun.com/demo)) `⊘ Proprietary` `PHP`
 - [Resilio Sync](https://www.resilio.com/) - Proprietary peer-to-peer file synchronisation tool. `⊘ Proprietary` `Unknown`
 - [Yetishare](https://yetishare.com) - Powerful file hosting script with support for Amazon S3, Wasabi, Backblaze, local, direct and SFTP storage. ([Demo](https://fhscript.com)) `⊘ Proprietary` `PHP`
-
-
-### File Transfer - Object Storage & File Servers
-
-**[`^        back to top        ^`](##awesome-selfhosted---non-free-software)**
-
-- [DaneeCloud](https://docs.daneeskripter.dev/projects/daneecloud) - Multi-user file storage and sharing application. ([Source Code](https://github.com/DaneeSkripter/DaneeCloud)) `GPL-3.0/SSPL-1.0` `Nodejs`
 
 
 ### Games
