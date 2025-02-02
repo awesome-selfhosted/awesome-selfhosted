@@ -22,7 +22,6 @@
   - [Media Streaming - Video Streaming](#media-streaming---video-streaming)
   - [Miscellaneous](#miscellaneous)
   - [Money, Budgeting & Management](#money-budgeting--management)
-  - [Pastebins](#pastebins)
   - [Photo Galleries](#photo-galleries)
   - [Recipe Management](#recipe-management)
   - [Remote Access](#remote-access)
@@ -164,13 +163,6 @@
 
 - [Akaunting](https://akaunting.com/) - Akaunting is a free, online and open source accounting software designed for small businesses and freelancers. ([Source Code](https://github.com/akaunting/akaunting)) `BUSL-1.1` `PHP`
 - [Pancake](https://www.pancakeapp.com/) - Online invoicing, project management, time tracking and proposal software. `⊘ Proprietary` `PHP`
-
-
-### Pastebins
-
-**[`^        back to top        ^`](##awesome-selfhosted---non-free-software)**
-
-- [not-th.re](https://not-th.re) - Simple paste sharing platform, with client side encryption, featuring the monaco browser-based code editor. ([Demo](https://not-th.re), [Source Code](https://github.com/not-three/main)) `NPOSL-3.0` `Nodejs/Docker`
 
 
 ### Photo Galleries
