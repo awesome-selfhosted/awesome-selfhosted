@@ -1933,7 +1933,7 @@ _Related: [Monitoring](#monitoring)_
 - [Gatus](https://github.com/TwiN/gatus) - Automated service health dashboard. ([Demo](https://status.twin.sh)) `Apache-2.0` `Docker/K8S`
 - [kener](https://kener.ing/) - Status page with incident management, easy to use and customize. ([Demo](https://kener.ing/), [Source Code](https://github.com/rajnandan1/kener)) `MIT` `Nodejs/Docker`
 - [StatPing.ng](https://statping-ng.github.io/) - An easy to use Status Page for your websites and applications. Statping will automatically fetch the application and render a beautiful status page with tons of features for you to build an even better status page. ([Source Code](https://github.com/statping-ng/statping-ng)) `GPL-3.0` `Docker/Go`
-- [Uptime Kuma](https://github.com/louislam/uptime-kuma) - Self-hosted website monitoring tool like "Uptime Robot". ([Demo](https://demo.kuma.pet)) `MIT` `Docker/Nodejs`
+- [Uptime Kuma](https://uptime.kuma.pet/) - Self-hosted website monitoring tool like "Uptime Robot". ([Demo](https://demo.kuma.pet), [Source Code](https://github.com/louislam/uptime-kuma)) `MIT` `Docker/Nodejs`
 
 
 ### Task Management & To-do Lists
