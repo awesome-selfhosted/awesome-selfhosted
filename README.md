@@ -2011,7 +2011,6 @@ _Related: [Task Management & To-do Lists](#task-management--to-do-lists), [Softw
 - [Just Short It!](https://github.com/miawinter98/just-short-it) - A KISS, single-user URL shortener that runs in just one container. `MIT` `Docker`
 - [liteshort](https://git.ikl.sh/132ikl/liteshort) - User-friendly, actually lightweight, and configurable URL shortener. `MIT` `Python/deb`
 - [Lstu](https://github.com/ldidry/lstu) - Lightweight URL shortener. `WTFPL` `Perl/Docker`
-- [Lynx](https://getlynx.dev) - URL shortener with many functions such as multiple accounts, ShareX support and an attractive but simple interface. ([Demo](https://demo.getlynx.dev), [Source Code](https://github.com/Lynx-Shortener/Lynx)) `MIT` `Nodejs/Docker`
 - [rs-short](https://git.42l.fr/42l/rs-short) - A lightweight link shortener written in Rust, with features such as caching, spambot protection and phishing detection. ([Demo](https://s.42l.fr/)) `MPL-2.0` `Rust`
 - [Shlink](https://shlink.io) - URL shortener with REST API and command line interface. Includes official progressive web application and docker images. ([Source Code](https://github.com/shlinkio/shlink), [Clients](https://shlink.io/apps)) `MIT` `PHP/Docker`
 - [Simple-URL-Shortener](https://github.com/azlux/Simple-URL-Shortener) - KISS URL shortener, public or private (with account). Minimalist and lightweight. No dependencies. ([Demo](https://u.azlux.fr)) `MIT` `PHP`
