@@ -58,6 +58,7 @@ See [Contributing](#contributing).
   - [Genealogy](#genealogy)
   - [Groupware](#groupware)
   - [Human Resources Management (HRM)](#human-resources-management-hrm)
+  - [Identity Management](#identity-management)
   - [Internet of Things (IoT)](#internet-of-things-iot)
   - [Inventory Management](#inventory-management)
   - [Knowledge Management Tools](#knowledge-management-tools)
@@ -1082,6 +1083,16 @@ A [human resources management system](https://en.wikipedia.org/wiki/Human_resour
 - [Frappe HR](https://frappe.io/hr) - Complete HRMS solution with over 13 different modules right from employee management, onboarding, leaves, to payroll, taxation, and more. ([Source Code](https://github.com/frappe/hrms)) `GPL-3.0` `Docker/Python/Nodejs`
 - [MintHCM](https://minthcm.org/) - Tool for Human Capital Management based on two popular, well-known business applications SugarCRM Community Edition and SuiteCRM. ([Source Code](https://github.com/minthcm/minthcm)) `AGPL-3.0` `PHP`
 - [OrangeHRM](https://www.orangehrm.com/) - OrangeHRM is a comprehensive HRM system that captures all the essential functionalities required for any enterprise. ([Demo](https://opensource-demo.orangehrmlive.com/), [Source Code](https://github.com/orangehrm/orangehrm)) `GPL-2.0` `PHP`
+
+
+### Identity Management
+
+**[`^        back to top        ^`](#awesome-selfhosted)**
+
+[Identity management](https://en.wikipedia.org/wiki/Identity_management) (IdM), also known as identity and access management (IAM or IdAM), is a framework of policies and technologies to ensure that the right users have the appropriate access to technology resources.
+
+**Please visit [awesome-sysadmin/Identity Management](https://github.com/awesome-foss/awesome-sysadmin#identity-management)**
+
 
 
 ### Internet of Things (IoT)
