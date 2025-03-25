@@ -11,6 +11,7 @@
   - [Communication - Custom Communication Systems](#communication---custom-communication-systems)
   - [Communication - Email - Mailing Lists and Newsletters](#communication---email---mailing-lists-and-newsletters)
   - [Communication - SIP](#communication---sip)
+  - [Communication - Video Conferencing](#communication---video-conferencing)
   - [Content Management Systems (CMS)](#content-management-systems-cms)
   - [Database Management](#database-management)
   - [Document Management - E-books](#document-management---e-books)
@@ -72,6 +73,13 @@
 **[`^        back to top        ^`](##awesome-selfhosted---non-free-software)**
 
 - [3CX](https://www.3cx.com/pbx/) - Full-featured PABX system, with call queues, built-in web conferencing, live chat and social media messaging all on one system. `⊘ Proprietary` `Unknown`
+
+
+### Communication - Video Conferencing
+
+**[`^        back to top        ^`](##awesome-selfhosted---non-free-software)**
+
+- [TrueConf](https://trueconf.com/products/server/video-conferencing-server.html) - Platform for your corporate communications, based on the advanced architecture, with support for UltraHD video conferencing, built-in messenger with personal and group chats, and a free version for up to 1,000 users. `⊘ Proprietary` `Docker/deb`
 
 
 ### Content Management Systems (CMS)
