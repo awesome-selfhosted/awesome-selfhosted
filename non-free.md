@@ -79,7 +79,7 @@
 
 **[`^        back to top        ^`](##awesome-selfhosted---non-free-software)**
 
-- [TrueConf](https://trueconf.com/products/server/video-conferencing-server.html) - Platform for your corporate communications, based on the advanced architecture, with support for UltraHD video conferencing, built-in messenger with personal and group chats, and a free version for up to 1,000 users. `⊘ Proprietary` `Docker/deb`
+- [TrueConf](https://trueconf.com/products/tcsf/trueconf-server-free.html) - Platform for your corporate communications, based on the advanced architecture, with support for UltraHD video conferencing, built-in messenger with personal and group chats, and a free version for up to 1,000 users. `⊘ Proprietary` `Docker/deb`
 
 
 ### Content Management Systems (CMS)
