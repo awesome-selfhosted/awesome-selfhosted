@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: "Awesome Selfhosted Data"
+    url: "https://github.com/awesome-selfhosted/awesome-selfhosted-data/issues"
+    about: "Please submit your issues or suggestions to the awesome-selfhosted-data repository instead."
