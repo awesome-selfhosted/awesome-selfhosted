@@ -9,6 +9,7 @@
 - [Software](#software)
   - [Automation](#automation)
   - [Communication - Custom Communication Systems](#communication---custom-communication-systems)
+  - [Communication - Email - Complete Solutions](#communication---email---complete-solutions)
   - [Communication - Email - Mailing Lists and Newsletters](#communication---email---mailing-lists-and-newsletters)
   - [Communication - SIP](#communication---sip)
   - [Communication - Video Conferencing](#communication---video-conferencing)
@@ -59,6 +60,13 @@
 - [PrivMX WebMail](https://privmx.com) - Alternative private mail system - web-based, end-to-end encrypted by design, self-hosted, decentralized, uses independent PKI. Easy to install and administrate, freeware, open-source. `⊘ Proprietary` `PHP`
 - [Virola Messenger](https://virola.io/) - Instant messaging and collaboration tool with private and group chat rooms, continuous voice and video meetings, files sharing, issue tracking with integrated task board. Alternative to Slack and others. `⊘ Proprietary` `C++`
 - [WorkAdventure](https://workadventu.re) - Virtual office / virtual conference application presented as a 16-bit RPG video game. ([Demo](https://play.staging.workadventu.re/@/tcm/workadventure/wa-village), [Source Code](https://github.com/thecodingmachine/workadventure/)) `AGPL-3.0/Commons-Clause` `Docker`
+
+
+### Communication - Email - Complete Solutions
+
+**[`^        back to top        ^`](##awesome-selfhosted---non-free-software)**
+
+- [Forward Email](https://forwardemail.net) - Privacy-focused encrypted email for everyone. All-in-one alternative to Gmail + Mailchimp + Sendgrid. ([Source Code](https://github.com/forwardemail/forwardemail.net)) `BUSL-1.1/MPL-2.0` `Nodejs/Docker`
 
 
 ### Communication - Email - Mailing Lists and Newsletters
