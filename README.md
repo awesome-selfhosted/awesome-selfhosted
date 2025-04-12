@@ -338,7 +338,6 @@ _See also: [Comparison of CalDAV and CardDAV implementations - Wikipedia](https:
 - [Chatwoot](https://www.chatwoot.com) - Self-hosted customer communication platform (alternative to Intercom & Zendesk). ([Source Code](https://github.com/chatwoot/chatwoot)) `MIT` `Ruby/Docker/K8S`
 - [Chitchatter](https://chitchatter.im/) - A peer-to-peer chat app that is serverless, decentralized, and ephemeral. ([Source Code](https://github.com/jeremyckahn/chitchatter)) `GPL-2.0` `Nodejs`
 - [Conduit](https://conduit.rs/) - A simple, fast, and reliable chat server powered by Matrix. ([Source Code](https://gitlab.com/famedly/conduit)) `Apache-2.0` `Rust`
-- [conduwuit](https://conduwuit.puppyirl.gay) - Well-maintained, featureful Matrix chat homeserver (fork of Conduit). ([Source Code](https://github.com/girlbossceo/conduwuit)) `Apache-2.0` `Rust`
 - [Databag](https://github.com/balzack/databag) - Federated, end-to-end encrypted messaging service for the web, iOS, and Android, supporting text, photos, video, and WebRTC video and audio calls. ([Demo](https://databag.coredb.org/#/create)) `Apache-2.0` `Docker`
 - [Element](https://element.io) - Fully-featured Matrix client for Web, iOS & Android. ([Source Code](https://github.com/vector-im/element-web)) `Apache-2.0` `Nodejs`
 - [GlobaLeaks](https://www.globaleaks.org/) - Whistleblowing software enabling anyone to easily set up and maintain a secure reporting platform. ([Demo](https://demo.globaleaks.org), [Source Code](https://github.com/globaleaks/whistleblowing-software)) `AGPL-3.0` `Python/deb/Docker`
