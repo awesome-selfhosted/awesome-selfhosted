@@ -66,6 +66,7 @@ See [Contributing](#contributing).
   - [Learning and Courses](#learning-and-courses)
   - [Manufacturing](#manufacturing)
   - [Maps and Global Positioning System (GPS)](#maps-and-global-positioning-system-gps)
+  - [Media Management](#media-management)
   - [Media Streaming](#media-streaming)
   - [Media Streaming - Audio Streaming](#media-streaming---audio-streaming)
   - [Media Streaming - Multimedia Streaming](#media-streaming---multimedia-streaming)
@@ -165,7 +166,7 @@ _See also: [awesome-web-archiving](https://github.com/iipc/awesome-web-archiving
 
 - [ArchiveBox](https://archivebox.io/) - Create HTML & screenshot archives of sites from your bookmarks, browsing history, RSS feeds, or other sources (alternative to Wayback Machine). ([Source Code](https://github.com/ArchiveBox/ArchiveBox)) `MIT` `Python/Docker`
 - [ArchivesSpace](https://archivesspace.org/) - Archives information management application for managing and providing Web access to archives, manuscripts and digital objects. ([Demo](https://archivesspace.org/application/sandbox), [Source Code](https://github.com/archivesspace/archivesspace)) `ECL-2.0` `Ruby`
-- [bitmagnet](https://bitmagnet.io) - A self-hosted BitTorrent indexer, DHT crawler, content classifier and torrent search engine with web UI, GraphQL API and Servarr stack integration. ([Source Code](https://github.com/bitmagnet-io/bitmagnet)) `MIT` `Go/Docker`
+- [bitmagnet](https://bitmagnet.io) - BitTorrent indexer, DHT crawler, content classifier and torrent search engine with web UI, GraphQL API and Servarr stack integration. ([Source Code](https://github.com/bitmagnet-io/bitmagnet)) `MIT` `Go/Docker`
 - [CKAN](https://ckan.org) - CKAN is a tool for making open data websites. ([Source Code](https://github.com/ckan/ckan)) `AGPL-3.0` `Python`
 - [Collective Access - Providence](https://collectiveaccess.org/) - Highly configurable Web-based framework for management, description, and discovery of digital and physical collections supporting a variety of metadata standards, data types, and media formats. ([Source Code](https://github.com/collectiveaccess/providence)) `GPL-3.0` `PHP`
 - [Ganymede](https://github.com/Zibbp/ganymede) `⚠` - Twitch VOD and Live Stream archiving platform. Includes a rendered chat for each archive. `GPL-3.0` `Docker`
@@ -182,22 +183,19 @@ _See also: [awesome-web-archiving](https://github.com/iipc/awesome-web-archiving
 
 [Automation](https://en.wikipedia.org/wiki/Automation) software designed to reduce human intervention in processes.
 
-_Related: [Internet of Things (IoT)](#internet-of-things-iot), [Software Development - Continuous Integration & Deployment](#software-development---continuous-integration--deployment)_
+_Related: [Internet of Things (IoT)](#internet-of-things-iot), [Software Development - Continuous Integration & Deployment](#software-development---continuous-integration--deployment), [Media Management](#media-management)_
 
 - [Activepieces](https://www.activepieces.com) - No-code business automation tool like Zapier or Tray. For example, you can send a Slack notification for each new Trello card. ([Source Code](https://github.com/activepieces/activepieces)) `MIT` `Docker`
 - [Apache Airflow](https://airflow.apache.org/) - Platform to programmatically author, schedule, and monitor workflows. ([Source Code](https://github.com/apache/airflow/)) `Apache-2.0` `Python/Docker`
 - [Automatisch](https://automatisch.io) - Business automation tool that lets you connect different services like Twitter, Slack, and more to automate your business processes (alternative to Zapier). ([Source Code](https://github.com/automatisch/automatisch)) `AGPL-3.0` `Docker`
 - [BookBounty](https://github.com/TheWicklowWolf/BookBounty) `⚠` - Retrieve missing Readarr books from Library Genesis. `MPL-2.0` `Docker`
 - [changedetection.io](https://github.com/dgtlmoon/changedetection.io) - Self-hosted tool for staying up-to-date with web-site content changes. `Apache-2.0` `Python/Docker`
-- [ChannelTube](https://github.com/TheWicklowWolf/ChannelTube) `⚠` - Download video or audio from YouTube channels on a schedule via yt-dlp. `AGPL-3.0` `Docker`
 - [ChiefOnboarding](https://chiefonboarding.com) - Employee onboarding platform that allows you to provision user accounts and create sequences with todo items, resources, text/email/Slack messages, and more! Available as a web portal and Slack bot. ([Source Code](https://github.com/chiefonboarding/ChiefOnboarding)) `AGPL-3.0` `Docker`
-- [Dagu](https://dagu.readthedocs.io/) - Powerful Cron alternative with a Web UI. It allows you to define dependencies between commands as a Directed Acyclic Graph (DAG) in a declarative YAML format. ([Source Code](https://github.com/dagu-dev/dagu)) `GPL-3.0` `Go/Docker`
 - [Discount Bandit](https://discount-bandit.cybrarist.com/) `⚠` - Track pricing, stock status of products across multiple stores such as Amazon, Ebay, Walmart, etc. ([Demo](https://discount-bandit.cybrarist.com/screenshots.html), [Source Code](https://github.com/Cybrarist/Discount-Bandit)) `GPL-3.0` `PHP/Docker`
 - [Dittofeed](https://www.dittofeed.com) - Omni-channel customer engagement and messaging automation platform (alternative to Braze, Customer.io, Iterable). ([Demo](https://demo.dittofeed.com/dashboard/journeys), [Source Code](https://github.com/dittofeed/dittofeed)) `MIT` `Docker`
 - [feedmixer](https://github.com/cristoper/feedmixer) - FeedMixer is a WSGI (Python3) micro web service which takes a list of feed URLs and returns a new feed consisting of the most recent n entries from each given feed(Returns Atom, RSS, or JSON). ([Demo](https://mretc.net/feedmixer/json?f=https://hnrss.org/newest&f=https://americancynic.net/atom.xml&n=1)) `WTFPL` `Python`
 - [Github Ntfy](https://github.com/BreizhHardware/ntfy_alerts) `⚠` - Push notifications to NTFY when a new release is available on Docker Hub or Github. ([Clients](https://github.com/binwiederhier/ntfy)) `GPL-3.0` `Docker`
 - [HandBrake Web](https://github.com/TheNickOfTime/handbrake-web) - Platform to use one or more instances of HandBrake video transcoder on a headless device via a web interface. `AGPL-3.0` `Docker`
-- [Headphones](https://github.com/rembo10/headphones) - Automated music downloader for NZB and Torrent, written in Python. It supports SABnzbd, NZBget, Transmission, µTorrent, Deluge and Blackhole. `GPL-3.0` `Python`
 - [Healthchecks](https://healthchecks.io/) - Django app which listens for pings and sends alerts when pings are late. ([Source Code](https://github.com/healthchecks/healthchecks)) `BSD-3-Clause` `Python`
 - [HRConvert2](https://github.com/zelon88/HRConvert2) - Drag-and-drop file conversion server with session based authentication, automatic temporary file maintenance, and logging capability. `GPL-3.0` `PHP`
 - [Huginn](https://github.com/huginn/huginn) - Allows you to build agents that monitor and act on your behalf. `MIT` `Ruby`
@@ -205,27 +203,11 @@ _Related: [Internet of Things (IoT)](#internet-of-things-iot), [Software Develop
 - [Kibitzr](https://kibitzr.github.io) - Lightweight personal web assistant with powerful integrations. ([Source Code](https://github.com/kibitzr/kibitzr)) `MIT` `Python`
 - [LazyLibrarian](https://gitlab.com/LazyLibrarian/LazyLibrarian) `⚠` - LazyLibrarian is a program to follow authors and grab metadata for all your digital reading needs. It uses a combination of Goodreads Librarything and optionally GoogleBooks as sources for author info and book info. `GPL-3.0` `Python`
 - [Leon](https://getleon.ai) - Open-source personal assistant who can live on your server. ([Source Code](https://github.com/leon-ai/leon)) `MIT` `Nodejs`
-- [Lidarr](https://lidarr.audio/) - Lidarr is a music collection manager for Usenet and BitTorrent users. ([Source Code](https://github.com/Lidarr/Lidarr)) `GPL-3.0` `C#/Docker`
-- [LidaTube](https://github.com/TheWicklowWolf/LidaTube) `⚠` - Finding and fetch missing Lidarr albums via yt-dlp. `GPL-3.0` `Docker`
-- [Lidify](https://github.com/TheWicklowWolf/Lidify) `⚠` - Music discovery tool that provides recommendations based on selected Lidarr artists, using Spotify or LastFM. `MIT` `Docker`
 - [Matchering](https://github.com/sergree/matchering) - A containerized web app for automated music mastering (alternative to LANDR, eMastered, and MajorDecibel). `GPL-3.0` `Docker`
-- [Medusa](https://github.com/pymedusa/Medusa) - Automatic Video Library Manager for TV Shows. It watches for new episodes of your favorite shows, and when they are posted it does its magic. ([Clients](https://github.com/medusajs/nextjs-starter-medusa)) `GPL-3.0` `Python`
-- [MetaTube](https://github.com/JVT038/MetaTube) `⚠` - A Web GUI to automatically download music from YouTube add metadata from Spotify, Deezer or Musicbrainz. `GPL-3.0` `Python`
-- [MeTube](https://github.com/alexta69/metube) - Web GUI for youtube-dl, with playlist support. Allows downloading videos from dozens of websites. `AGPL-3.0` `Python/Nodejs/Docker`
 - [Mylar3](https://mylarcomics.com/) - Automated Comic Book (cbr/cbz) downloader program for use with NZB and torrents. ([Source Code](https://github.com/mylar3/mylar3)) `GPL-3.0` `Python/Docker`
-- [nefarious](https://github.com/lardbit/nefarious) - Web application that automates downloading Movies and TV Shows. `GPL-3.0` `Python`
 - [OliveTin](https://github.com/OliveTin/OliveTin) - OliveTin is a web interface for running Linux shell commands. `AGPL-3.0` `Go`
-- [Pinchflat](https://github.com/kieraneglin/pinchflat) `⚠` - An app for downloading YouTube content built using yt-dlp. `AGPL-3.0` `Docker`
-- [PlexRipper](https://www.plexripper.rocks/) `⚠` - A cross-platform Plex media downloader that seamlessly adds media from other Plex servers to your own. ([Source Code](https://github.com/PlexRipper/PlexRipper)) `GPL-3.0` `Docker`
 - [pyLoad](https://pyload.net/) - Lightweight, customizable and remotely manageable downloader for 1-click-hosting sites like rapidshare.com or uploaded.to. ([Source Code](https://github.com/pyload/pyload)) `GPL-3.0` `Python`
-- [Radarr](https://radarr.video/) - Radarr is an independent fork of Sonarr reworked for automatically downloading movies via Usenet and BitTorrent, à la Couchpotato. ([Source Code](https://github.com/Radarr/Radarr)) `GPL-3.0` `C#/Docker`
-- [SickChill](https://sickchill.github.io/) - SickChill is an automatic video library manager for TV shows. It watches for new episodes of your favorite shows, and when they are posted it does its magic. ([Source Code](https://github.com/SickChill/SickChill)) `GPL-3.0` `Python/Docker`
-- [Sonarr](https://sonarr.tv/) - Automatic TV Shows downloader and manager for Usenet and BitTorrent. It can grab, sort and rename new episodes and automatically upgrade the quality of files already downloaded when a better quality format becomes available. ([Source Code](https://github.com/Sonarr/Sonarr)) `GPL-3.0` `C#/Docker`
 - [StackStorm](https://stackstorm.com) - StackStorm (aka _IFTTT for Ops_) is event-driven automation for auto-remediation, security responses, troubleshooting, deployments, and more. Includes rules engine, workflow, 160 integration packs with 6000+ actions and ChatOps. ([Source Code](https://github.com/StackStorm/st2)) `Apache-2.0` `Python`
-- [tubesync](https://github.com/meeb/tubesync) `⚠` - Syncs YouTube channels and playlists to a locally hosted media server. `AGPL-3.0` `Docker/Python`
-- [ydl_api_ng](https://github.com/Totonyus/ydl_api_ng) - Simple youtube-dl REST API to launch downloads on a distant server. `GPL-3.0` `Python`
-- [YoutubeDL-Server](https://github.com/nbr23/youtube-dl-server) - Web and REST interface for downloading videos onto a server. `MIT` `Python/Docker`
-- [yt-dlp Web UI](https://github.com/marcopeocchi/yt-dlp-web-ui) - Web GUI for yt-dlp. `MPL-2.0` `Docker/Go/Nodejs`
 - [µTask](https://github.com/ovh/utask) - Automation engine that models and executes business processes declared in yaml. `BSD-3-Clause` `Go/Docker`
 
 
@@ -288,7 +270,7 @@ _Related: [Polls and Events](#polls-and-events)_
 Software which allows users to add, annotate, edit, and share [bookmarks](https://en.wikipedia.org/wiki/Bookmark_(digital)) of web documents.
 
 - [Briefkasten](https://github.com/ndom91/briefkasten) - Modern app for saving and managing your own bookmarks. Includes a browser extension. ([Demo](https://briefkastenhq.com/auth/signin)) `MIT` `Nodejs/Docker`
-- [Buku](https://github.com/jarun/Buku) - A powerful bookmark manager and a personal textual mini-web. `GPL-3.0` `Python/deb`
+- [Buku](https://github.com/jarun/Buku) - Powerful bookmark manager and a personal textual mini-web. `GPL-3.0` `Python/deb`
 - [Digibunch](https://ladigitale.dev/digibunch/#/) - Create bunches of links to share with your learners or colleagues. ([Demo](https://ladigitale.dev/digibunch/#/b/5f67b12092b60), [Source Code](https://codeberg.org/ladigitale/digibunch)) `AGPL-3.0` `Nodejs/PHP`
 - [Espial](https://github.com/jonschoning/espial) - An open-source, web-based bookmarking server. `AGPL-3.0` `Haskell`
 - [Firefox Account Server](https://mozilla-services.readthedocs.io/en/latest/howtos/run-fxa.html) - This allows you to host your own Firefox accounts server. ([Source Code](https://github.com/mozilla/fxa)) `MPL-2.0` `Nodejs/Java`
@@ -639,8 +621,8 @@ _Related: [Blogging Platforms](#blogging-platforms), [Static Site Generators](#s
 - [Alfresco Community Edition](https://www.alfresco.com/products/community/download) - The open source Enterprise Content Management software that handles any type of content, allowing users to easily share and collaborate on content. ([Source Code](https://github.com/Alfresco/alfresco-community-repo)) `LGPL-3.0` `Java`
 - [Apostrophe](https://apostrophecms.com/) - CMS with a focus on extensible in-context editing tools. ([Demo](https://apostrophecms.com/demo), [Source Code](https://github.com/apostrophecms/apostrophe)) `MIT` `Nodejs`
 - [Backdrop CMS](https://backdropcms.org/) - Comprehensive CMS for small to medium sized businesses and non-profits. ([Source Code](https://github.com/backdrop/backdrop)) `GPL-2.0` `PHP`
-- [BigTree CMS](https://www.bigtreecms.org/) - Straightforward, well documented, and capable written with PHP and MySQL. ([Source Code](https://github.com/bigtreecms/BigTree-CMS)) `LGPL-2.1` `PHP`
-- [Bludit](https://www.bludit.com/) `⚠` - Simple application to build a site or blog in seconds. Bludit uses flat-files (text files in JSON format) to store posts and pages. ([Demo](https://demo.bludit.com/), [Source Code](https://github.com/bludit/bludit)) `MIT` `PHP`
+- [BigTree CMS](https://www.bigtreecms.org/) - Straightforward, well documented, and capable CMS. ([Source Code](https://github.com/bigtreecms/BigTree-CMS)) `LGPL-2.1` `PHP`
+- [Bludit](https://www.bludit.com/) `⚠` - Build a site or blog in seconds. Bludit uses flat-files (text files in JSON format) to store posts and pages. ([Source Code](https://github.com/bludit/bludit)) `MIT` `PHP`
 - [CMS Made Simple](https://www.cmsmadesimple.org/) - Open source content management system, faster and easier management of website contents, scalable for small businesses to large corporations. ([Source Code](http://svn.cmsmadesimple.org/svn/cmsmadesimple/trunk/)) `GPL-2.0` `PHP`
 - [Cockpit](https://getcockpit.com) - Simple Content Platform to manage any structured content. ([Source Code](https://github.com/Cockpit-HQ/Cockpit)) `MIT` `PHP`
 - [Concrete 5 CMS](https://www.concretecms.com) - Open source content management system. ([Source Code](https://github.com/concretecms/concretecms)) `MIT` `PHP`
@@ -730,7 +712,7 @@ _See also: [dbdb.io - Database of Databases](https://dbdb.io/)_
 _See also: [awesome-sysadmin/DNS - Servers](https://github.com/awesome-foss/awesome-sysadmin#dns---servers), [awesome-sysadmin/DNS - Control Panels & Domain Management](https://github.com/awesome-foss/awesome-sysadmin#dns---control-panels--domain-management)_
 
 - [AdGuard Home](https://adguard.com/en/adguard-home/overview.html) - User-friendly ads & trackers blocking DNS server. ([Source Code](https://github.com/AdguardTeam/AdGuardHome)) `GPL-3.0` `Docker`
-- [blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy (like Pi-hole) as ad-blocker for local network with many features. `Apache-2.0` `Go/Docker`
+- [blocky](https://0xerr0r.github.io/blocky/latest/) - Fast and lightweight DNS proxy as ad-blocker for local network with many features (alternative to Pi-hole). ([Source Code](https://github.com/0xERR0R/blocky)) `Apache-2.0` `Go/Docker`
 - [Maza ad blocking](https://maza-ad-blocking.andros.dev/) - Local ad blocker. Like Pi-hole but local and using your operating system. ([Source Code](https://github.com/tanrax/maza-ad-blocking)) `Apache-2.0` `Shell`
 - [Pi-hole](https://pi-hole.net/) - A blackhole for Internet advertisements with a GUI for management and monitoring. ([Source Code](https://github.com/pi-hole/pi-hole)) `EUPL-1.2` `Shell/PHP/Docker`
 - [Technitium DNS Server](https://technitium.com/dns/) - Authoritative/recursive DNS server with ad blocking functionality. ([Source Code](https://github.com/TechnitiumSoftware/DnsServer)) `GPL-3.0` `Docker/C#`
@@ -766,7 +748,7 @@ A [document management system](https://en.wikipedia.org/wiki/Document_management
 [Ebook](https://en.wikipedia.org/wiki/Ebook) library management software.
 
 - [Atsumeru](https://atsumeru.xyz) - Manga/comic/light novel media server with clients for Windows, Linux, macOS and Android. ([Source Code](https://github.com/AtsumeruDev/Atsumeru), [Clients](https://atsumeru.xyz/guides/#how-does-it-work)) `MIT` `Java/Docker`
-- [BookLogr](https://github.com/Mozzo1000/booklogr) - Web app designed to help you manage your personal book library with ease. ([Demo](https://demo.booklogr.app/)) `Apache-2.0` `Docker`
+- [BookLogr](https://github.com/Mozzo1000/booklogr) - Manage your personal book library with ease. ([Demo](https://demo.booklogr.app/)) `Apache-2.0` `Docker`
 - [Calibre Web](https://github.com/janeczku/calibre-web) - Web app providing a clean interface for browsing, reading and downloading eBooks using an existing Calibre database. `GPL-3.0` `Python`
 - [Calibre](https://calibre-ebook.com/) - E-book library manager that can view, convert, and catalog e-books in most of the major e-book formats and provides a built-in Web server for remote clients. ([Demo](https://calibre-ebook.com/demo), [Source Code](https://github.com/kovidgoyal/calibre)) `GPL-3.0` `Python/deb`
 - [Kavita](https://www.kavitareader.com/) - Cross-platform e-book/manga/comic/pdf server and web reader with user management, ratings and reviews, and metadata support. ([Demo](https://www.kavitareader.com/#demo), [Source Code](https://github.com/Kareadita/Kavita)) `GPL-3.0` `.NET/Docker`
@@ -851,7 +833,7 @@ _Related: [Community-Supported Agriculture (CSA)](#community-supported-agricultu
 
 A [news aggregator](https://en.wikipedia.org/wiki/News_aggregator), also termed a feed aggregator, feed reader, news reader, [RSS](https://en.wikipedia.org/wiki/RSS) reader, is an application that aggregates web content such as newspapers/blogs/vlogs/podcasts in one location for easy viewing.
 
-- [Bubo Reader](https://github.com/georgemandis/bubo-rss) - Open source, "irrationally minimal" RSS feed reader. ([Demo](https://bubo-rss-demo.netlify.app/)) `MIT` `Nodejs`
+- [Bubo Reader](https://github.com/georgemandis/bubo-rss) - Irrationally minimal RSS feed reader. ([Demo](https://bubo-rss-demo.netlify.app/)) `MIT` `Nodejs`
 - [CommaFeed](https://www.commafeed.com/) - Google Reader inspired self-hosted RSS reader. ([Demo](https://www.commafeed.com/#/app/category/all), [Source Code](https://github.com/Athou/commafeed)) `Apache-2.0` `Java/Docker`
 - [FeedCord](https://github.com/Qolors/FeedCord) `⚠` - A simple, lightweight & customizable RSS News Feed for your Discord Server. `MIT` `Docker`
 - [Feedpushr](https://github.com/ncarlier/feedpushr) - Powerful RSS aggregator, able to transform and send articles to many outputs. Single binary, extensible with plugins. `GPL-3.0` `Go/Docker`
@@ -885,7 +867,7 @@ A [news aggregator](https://en.wikipedia.org/wiki/News_aggregator), also termed 
 
 _Related: [Groupware](#groupware)_
 
-- [bewCloud](https://bewcloud.com) - A simpler alternative to Nextcloud and ownCloud's RSS Reader, File Sharing + Sync, Notes, and Photos. ([Source Code](https://github.com/bewcloud/bewcloud), [Clients](https://github.com/bewcloud)) `AGPL-3.0` `Docker`
+- [bewCloud](https://bewcloud.com) - File sharing + sync, notes, and photos (alternative to Nextcloud and ownCloud's RSS reader). ([Source Code](https://github.com/bewcloud/bewcloud), [Clients](https://github.com/bewcloud)) `AGPL-3.0` `Docker`
 - [Git Annex](https://git-annex.branchable.com/) - File synchronization between computers, servers, external drives. ([Source Code](https://git.joeyh.name/index.cgi/git-annex.git/)) `GPL-3.0` `Haskell`
 - [Kinto](https://kinto.readthedocs.org) - Kinto is a minimalist JSON storage service with synchronisation and sharing abilities. ([Source Code](https://github.com/Kinto)) `Apache-2.0` `Python`
 - [Nextcloud](https://nextcloud.com/) - Access and share your files, calendars, contacts, mail and [more](https://apps.nextcloud.com/) from any device, on your terms. ([Demo](https://try.nextcloud.com/), [Source Code](https://github.com/nextcloud/server)) `AGPL-3.0` `PHP/deb`
@@ -1225,13 +1207,48 @@ _See also: [awesome-openstreetmap](https://github.com/osmlab/awesome-openstreetm
 - [μlogger](https://github.com/bfabiszewski/ulogger-server) - Collect geolocation from users in real-time and display their GPS tracks on a website. ([Demo](http://ulogger.fabiszewski.net/)) `GPL-3.0` `PHP`
 
 
+### Media Management
+
+**[`^        back to top        ^`](#awesome-selfhosted)**
+
+[Digital media](https://en.wikipedia.org/wiki/Digital_media) management tools and software.
+
+_Related: [Automation](#automation), [Media Streaming](#media-streaming), [Media Streaming - Audio Streaming](#media-streaming---audio-streaming), [Media Streaming - Multimedia Streaming](#media-streaming---multimedia-streaming), [Media Streaming - Video Streaming](#media-streaming---video-streaming)_
+
+- [ChannelTube](https://github.com/TheWicklowWolf/ChannelTube) `⚠` - Download video or audio from YouTube channels on a schedule via yt-dlp. `AGPL-3.0` `Docker`
+- [Dagu](https://dagu.readthedocs.io/) - Powerful Cron alternative with a Web UI. It allows you to define dependencies between commands as a Directed Acyclic Graph (DAG) in a declarative YAML format. ([Source Code](https://github.com/dagu-dev/dagu)) `GPL-3.0` `Go/Docker`
+- [Headphones](https://github.com/rembo10/headphones) - Automated music downloader for NZB and Torrent, written in Python. It supports SABnzbd, NZBget, Transmission, µTorrent, Deluge and Blackhole. `GPL-3.0` `Python`
+- [Jellyseerr](https://github.com/Fallenbagel/jellyseerr) - Manage requests for your media library, supports Plex, Jellyfin and Emby media servers (fork of Overseerr). `MIT` `Docker/Nodejs`
+- [Lidarr](https://lidarr.audio/) - Lidarr is a music collection manager for Usenet and BitTorrent users. ([Source Code](https://github.com/Lidarr/Lidarr)) `GPL-3.0` `C#/Docker`
+- [LidaTube](https://github.com/TheWicklowWolf/LidaTube) `⚠` - Finding and fetch missing Lidarr albums via yt-dlp. `GPL-3.0` `Docker`
+- [Lidify](https://github.com/TheWicklowWolf/Lidify) `⚠` - Music discovery tool that provides recommendations based on selected Lidarr artists, using Spotify or LastFM. `MIT` `Docker`
+- [Medusa](https://github.com/pymedusa/Medusa) - Automatic Video library manager for TV Shows. It watches for new episodes of your favorite shows, and when they are posted it does its magic. ([Clients](https://github.com/medusajs/nextjs-starter-medusa)) `GPL-3.0` `Python`
+- [MetaTube](https://github.com/JVT038/MetaTube) `⚠` - Automatically download music from YouTube add metadata from Spotify, Deezer or Musicbrainz. `GPL-3.0` `Python`
+- [MeTube](https://github.com/alexta69/metube) - Web GUI for youtube-dl, with playlist support. Allows downloading videos from dozens of websites. `AGPL-3.0` `Python/Nodejs/Docker`
+- [nefarious](https://github.com/lardbit/nefarious) - Automate downloading Movies and TV Shows. `GPL-3.0` `Python`
+- [Ombi](https://ombi.io/) - A content request system for Plex/Emby, connects to SickRage, CouchPotato, Sonarr, with a growing feature set. ([Demo](https://app.ombi.io/), [Source Code](https://github.com/Ombi-app/Ombi)) `GPL-2.0` `C#/deb`
+- [Overseerr](https://overseerr.dev/) `⚠` - Overseerr is a free and open source software application for managing requests for your media library. It integrates with your existing services, such as Sonarr, Radarr, and Plex!. ([Source Code](https://github.com/sct/overseerr)) `MIT` `Docker`
+- [Pinchflat](https://github.com/kieraneglin/pinchflat) `⚠` - Download YouTube content built using yt-dlp. `AGPL-3.0` `Docker`
+- [PlexRipper](https://www.plexripper.rocks/) `⚠` - Cross-platform Plex media downloader that seamlessly adds media from other Plex servers to your own. ([Source Code](https://github.com/PlexRipper/PlexRipper)) `GPL-3.0` `Docker`
+- [PodFetch](https://samtv12345.github.io/PodFetch) - Sleek and efficient podcast downloader. ([Source Code](https://github.com/SamTV12345/PodFetch)) `Apache-2.0` `Docker/Rust`
+- [Radarr](https://radarr.video/) - Radarr is an independent fork of Sonarr reworked for automatically downloading movies via Usenet and BitTorrent, à la Couchpotato. ([Source Code](https://github.com/Radarr/Radarr)) `GPL-3.0` `C#/Docker`
+- [Reiverr](https://github.com/aleksilassila/reiverr) `⚠` - Clean combined interface for Jellyfin, TMDB, Radarr and Sonarr, as well as a replacement to Overseerr. `AGPL-3.0` `Docker`
+- [SickChill](https://sickchill.github.io/) - Automatic video library manager for TV shows. It watches for new episodes of your favorite shows, and when they are posted it does its magic. ([Source Code](https://github.com/SickChill/SickChill)) `GPL-3.0` `Python/Docker`
+- [Sonarr](https://sonarr.tv/) - Automatic TV Shows downloader and manager for Usenet and BitTorrent. It can grab, sort and rename new episodes and automatically upgrade the quality of files already downloaded when a better quality format becomes available. ([Source Code](https://github.com/Sonarr/Sonarr)) `GPL-3.0` `C#/Docker`
+- [tubesync](https://github.com/meeb/tubesync) `⚠` - Syncs YouTube channels and playlists to a locally hosted media server. `AGPL-3.0` `Docker/Python`
+- [Watcharr](https://github.com/sbondCo/Watcharr) - Add and track all the shows and movies you are watching. Comes with user authentication, modern and clean UI and a very simple setup. ([Demo](https://beta.watcharr.app/)) `MIT` `Docker`
+- [ydl_api_ng](https://github.com/Totonyus/ydl_api_ng) - Simple youtube-dl REST API to launch downloads on a distant server. `GPL-3.0` `Python`
+- [YoutubeDL-Server](https://github.com/nbr23/youtube-dl-server) - Web and REST interface to Youtube-DL for downloading videos onto a server. `MIT` `Python/Docker`
+- [yt-dlp Web UI](https://github.com/marcopeocchi/yt-dlp-web-ui) - Web GUI for yt-dlp. `MPL-2.0` `Docker/Go/Nodejs`
+
+
 ### Media Streaming
 
 **[`^        back to top        ^`](#awesome-selfhosted)**
 
 [Streaming media](https://en.wikipedia.org/wiki/Streaming_media) is multimedia that is delivered and consumed in a continuous manner from a source, with little or no intermediate storage in network elements.
 
-**Please visit [Media streaming - Audio Streaming](#media-streaming---audio-streaming), [Media streaming - Multimedia Streaming](#media-streaming---multimedia-streaming), [Media streaming - Video Streaming](#media-streaming---video-streaming)**
+**Please visit [Media streaming - Audio Streaming](#media-streaming---audio-streaming), [Media streaming - Multimedia Streaming](#media-streaming---multimedia-streaming), [Media streaming - Video Streaming](#media-streaming---video-streaming), [Media Management](#media-management)**
 
 _See also: [List of streaming media systems - Wikipedia](https://en.wikipedia.org/wiki/List_of_streaming_media_systems), [Comparison of streaming media systems - Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_streaming_media_systems)_
 
@@ -1243,12 +1260,14 @@ _See also: [List of streaming media systems - Wikipedia](https://en.wikipedia.or
 
 [Audio](https://en.wikipedia.org/wiki/Audio) streaming tools and software.
 
+_Related: [Media Management](#media-management)_
+
 - [Ampache](https://ampache.org/) - Web based audio/video streaming application. ([Demo](https://play.dogmazic.net/), [Source Code](https://github.com/ampache/ampache)) `AGPL-3.0` `PHP`
 - [Audiobookshelf](https://www.audiobookshelf.org/) - Audiobook and podcast server. It streams all audio formats, keeps and syncs progress across devices. Comes with open-source apps for Android and iOS. ([Source Code](https://github.com/advplyr/audiobookshelf), [Clients](https://github.com/advplyr/audiobookshelf-app)) `GPL-3.0` `Docker/deb/Nodejs`
 - [Audioserve](https://github.com/izderadicka/audioserve) - Simple personal server to serve audio files from directories (audiobooks, music, podcasts...). Focused on simplicity and supports sync of play position between clients. `MIT` `Rust`
 - [AzuraCast](https://www.azuracast.com/) - Modern and accessible web radio management suite. ([Source Code](https://github.com/AzuraCast/AzuraCast)) `Apache-2.0` `Docker`
 - [Beets](https://beets.io/) - Music library manager and MusicBrainz tagger (command-line and Web interface). ([Source Code](https://github.com/beetbox/beets)) `MIT` `Python/deb`
-- [Black Candy](https://github.com/blackcandy-org/black_candy) - Music streaming server built with Rails and Stimulus. `MIT` `Docker/Ruby`
+- [Black Candy](https://github.com/blackcandy-org/black_candy) - Music streaming server. `MIT` `Docker/Ruby`
 - [Funkwhale](https://dev.funkwhale.audio/funkwhale) - Modern, web-based, convivial, multi-user and free music server. `BSD-3-Clause` `Python/Django`
 - [gonic](https://github.com/sentriz/gonic) - Lightweight music streaming server. Subsonic compatible. `GPL-3.0` `Go/Docker`
 - [HoloPlay](https://app.holoplay.io) `⚠` - Web app using Invidious API for listening to Youtube audio sources. ([Source Code](https://github.com/stephane-r/holoplay-pwa)) `MIT` `Nodejs/Docker`
@@ -1264,7 +1283,6 @@ _See also: [List of streaming media systems - Wikipedia](https://en.wikipedia.or
 - [musikcube](https://musikcube.com/) - Streaming audio server with Linux/macOS/Windows/Android clients. ([Source Code](https://github.com/clangen/musikcube)) `BSD-3-Clause` `C++/deb`
 - [Navidrome Music Server](https://www.navidrome.org) - Modern Music Server and Streamer, compatible with Subsonic/Airsonic. ([Demo](https://www.navidrome.org/demo), [Source Code](https://github.com/navidrome/navidrome), [Clients](https://www.navidrome.org/docs/overview/#apps)) `GPL-3.0` `Docker/Go`
 - [Pinepods](https://www.pinepods.online/) - A rust based podcast management system with multi-user support. Pinepods utilizes a central database so aspects like listen time and themes follow from device to device. ([Demo](https://try.pinepods.online), [Source Code](https://github.com/madeofpendletonwool/PinePods)) `GPL-3.0` `Docker`
-- [PodFetch](https://samtv12345.github.io/PodFetch) - A sleek and efficient podcast downloader. ([Source Code](https://github.com/SamTV12345/PodFetch)) `Apache-2.0` `Docker/Rust`
 - [Polaris](https://github.com/agersant/polaris) - Music browsing and streaming application optimized for large music collections, ease of use and high performance. `MIT` `Rust/Docker`
 - [Snapcast](https://github.com/badaix/snapcast) - Synchronous multiroom audio server. `GPL-3.0` `C++/deb`
 - [Stretto](https://github.com/benkaiser/stretto) `⚠` - Music player with Youtube/Soundcloud import and iTunes/Spotify discovery. ([Demo](https://next.kaiserapps.com), [Clients](https://github.com/benkaiser/stretto-mobile-next)) `MIT` `Nodejs`
@@ -1279,7 +1297,7 @@ _See also: [List of streaming media systems - Wikipedia](https://en.wikipedia.or
 
 [Multimedia](https://en.wikipedia.org/wiki/Multimedia) streaming tools and software.
 
-_Related: [Media Streaming - Video Streaming](#media-streaming---video-streaming), [Media Streaming - Audio Streaming](#media-streaming---audio-streaming)_
+_Related: [Media Streaming - Video Streaming](#media-streaming---video-streaming), [Media Streaming - Audio Streaming](#media-streaming---audio-streaming), [Media Management](#media-management)_
 
 - [ClipBucket](https://clipbucket.fr/) - Start your own video sharing website (YouTube/Netflix Clone) in a matter of minutes. ([Demo](https://demo.clipbucket.oxygenz.fr/), [Source Code](https://github.com/MacWarrior/clipbucket-v5)) `AAL` `Docker/PHP`
 - [Gerbera](https://gerbera.io/) - Gerbera is an UPnP Media Server. It allows you to stream your digital media throughout your home network and listen to/watch it on a variety of UPnP compatible devices. ([Source Code](https://github.com/gerbera/gerbera)) `GPL-2.0` `Docker/deb/C++`
@@ -1292,7 +1310,6 @@ _Related: [Media Streaming - Video Streaming](#media-streaming---video-streaming
 - [MistServer](https://mistserver.org/) - Public domain streaming media server that works with any device and any format. ([Source Code](https://github.com/DDVTECH/mistserver)) `Unlicense` `C++`
 - [NymphCast](http://nyanko.ws/nymphcast.php) - Turn your choice of Linux-capable hardware into an audio and video source for a television or powered speakers (alternative to Chromecast). ([Source Code](https://github.com/MayaPosch/NymphCast)) `BSD-3-Clause` `C++`
 - [ReadyMedia](https://sourceforge.net/projects/minidlna/) - Simple media server software, with the aim of being fully compliant with DLNA/UPnP-AV clients. Formerly known as MiniDLNA. ([Source Code](https://sourceforge.net/p/minidlna/git/ci/master/tree/)) `GPL-2.0` `C`
-- [Reiverr](https://github.com/aleksilassila/reiverr) `⚠` - Clean combined interface for Jellyfin, TMDB, Radarr and Sonarr, as well as a replacement to Overseerr. `AGPL-3.0` `Docker`
 - [Rygel](https://gnome.pages.gitlab.gnome.org/rygel/) - Rygel is a UPnP AV MediaServer that allows you to easily share audio, video, and pictures. Media player software may use Rygel to become a MediaRenderer that may be controlled remotely by a UPnP or DLNA Controller. ([Source Code](https://gitlab.gnome.org/GNOME/rygel/)) `GPL-3.0` `C`
 - [Stash](https://stashapp.cc) - A web-based library organizer and player for your adult media stash, with auto-tagging and metadata scraping support. ([Source Code](https://github.com/stashapp/stash)) `AGPL-3.0` `Docker/Go`
 - [µStreamer](https://github.com/pikvm/ustreamer) - Lightweight and very quick server to stream MJPEG video from any V4L2 device to the net. `GPL-3.0` `C/deb`
@@ -1305,7 +1322,7 @@ _Related: [Media Streaming - Video Streaming](#media-streaming---video-streaming
 
 [Video](https://en.wikipedia.org/wiki/Video) streaming tools and software.
 
-_Related: [Video Surveillance](#video-surveillance), [Media Streaming - Multimedia Streaming](#media-streaming---multimedia-streaming), [Photo Galleries](#photo-galleries)_
+_Related: [Video Surveillance](#video-surveillance), [Media Streaming - Multimedia Streaming](#media-streaming---multimedia-streaming), [Photo Galleries](#photo-galleries), [Media Management](#media-management)_
 
 - [CyTube](https://github.com/calzoneman/sync) - CyTube is a web application providing media synchronization, chat, and more for an arbitrary number of channels. ([Demo](https://cytu.be)) `MIT` `Nodejs`
 - [Invidious](https://github.com/iv-org/invidious) `⚠` - Alternative YouTube front-end. ([Demo](https://docs.invidious.io/instances/)) `AGPL-3.0` `Docker/Crystal`
@@ -1332,8 +1349,8 @@ Software that does not fit in another section.
 - [AlertHub](https://github.com/Ardakilic/alerthub) `⚠` - Get alerts from GitHub releases. `MIT` `Nodejs/Docker`
 - [Anchr](https://anchr.io) - Toolbox for tiny tasks on the internet, including bookmark collections, URL shortening and (encrypted) image uploads. ([Source Code](https://github.com/muety/anchr)) `GPL-3.0` `Nodejs`
 - [asciinema](https://asciinema.org/) - Web app for hosting asciicasts. ([Demo](https://asciinema.org/explore), [Source Code](https://github.com/asciinema/asciinema-server)) `Apache-2.0` `Elixir/Docker`
-- [Baby Buddy](https://github.com/babybuddy/babybuddy) - Helps caregivers track baby sleep, feedings, diaper changes, and tummy time. ([Demo](https://demo.baby-buddy.net/login/?next=/)) `BSD-2-Clause` `Python`
-- [beelzebub](https://beelzebub-honeypot.com/) `⚠` - Honeypot framework designed to provide a highly secure environment for detecting and analyzing cyber attacks. ([Demo](https://beelzebub-honeypot.com/docs/), [Source Code](https://github.com/mariocandela/beelzebub)) `MIT` `Docker/K8S/Go`
+- [Baby Buddy](https://github.com/babybuddy/babybuddy) - Helps caregivers track baby sleep, feedings, diaper changes, and tummy time. ([Demo](https://github.com/babybuddy/babybuddy#-demo)) `BSD-2-Clause` `Python`
+- [beelzebub](https://beelzebub-honeypot.com/) `⚠` - Honeypot framework designed to provide a highly secure environment for detecting and analyzing cyber attacks. ([Source Code](https://github.com/mariocandela/beelzebub)) `MIT` `Docker/K8S/Go`
 - [ClipCascade](https://github.com/Sathvik-Rao/ClipCascade) - Syncs your clipboard across multiple devices instantly, without any button press. Available on Windows, macOS, Linux, and Android, it provides seamless and secure clipboard sharing with end-to-end data encryption. `GPL-3.0` `Java/Docker`
 - [Cloudlog](https://magicbug.co.uk/cloudlog/) - Cloudlog is a self-hosted PHP application that allows you to log your amateur radio contacts anywhere. ([Source Code](https://github.com/magicbug/cloudlog)) `MIT` `PHP/Docker`
 - [ConvertX](https://github.com/C4illin/ConvertX) - Online file converter which supports over a thousand different formats. `AGPL-3.0` `Docker`
@@ -1365,7 +1382,6 @@ Software that does not fit in another section.
 - [Habitica](https://habitica.com/) - Habit tracker app which treats your goals like a Role Playing Game. Previously called HabitRPG. ([Source Code](https://github.com/HabitRPG/habitica)) `GPL-3.0/CC-BY-SA-3.0` `Nodejs/Docker`
 - [HortusFox](https://hortusfox.github.io) - A collaborative plant management system. ([Source Code](https://github.com/danielbrendel/hortusfox-web)) `MIT` `PHP/Docker`
 - [iSponsorBlockTV](https://github.com/dmunozv04/iSponsorBlockTV) `⚠` - SponsorBlock for YouTube TV, allows skipping sponsors, muting and skipping ads. `GPL-3.0` `Docker/Python`
-- [Jellyseerr](https://github.com/Fallenbagel/jellyseerr) - Manage requests for your media library, supports Plex, Jellyfin and Emby media servers (fork of Overseerr). `MIT` `Docker/Nodejs`
 - [Jelu](https://bayang.github.io/jelu-web) - Self hosted read and to-read list book tracker. ([Source Code](https://github.com/bayang/jelu)) `MIT` `Java/Docker`
 - [Kasm Workspaces](https://kasmweb.com/) - Streaming containerized apps and desktops to end-users. Examples include Ubuntu in your browser, or simply single apps such as Chrome, OpenOffice, Gimp, Filezilla etc. ([Demo](https://www.kasmweb.com/#demo), [Source Code](https://github.com/kasmtech)) `GPL-3.0` `Docker`
 - [Koillection](https://koillection.github.io/) - Koillection is a service allowing users to manage any kind of collections. ([Source Code](https://github.com/benjaminjonard/koillection)) `MIT` `Docker/PHP`
@@ -1377,10 +1393,8 @@ Software that does not fit in another section.
 - [mosparo](https://mosparo.io/) - The modern spam protection tool. It replaces other captcha methods with a simple and easy to use spam protection solution. ([Source Code](https://github.com/mosparo/mosparo)) `MIT` `PHP`
 - [MyIP](https://ipcheck.ing) `⚠` - All in one IP Toolbox. Easy to check what's your IPs, IP geolocation, check for DNS leaks, examine WebRTC connections, speed test, ping test, MTR test, check website availability and more. ([Demo](https://ipcheck.ing), [Source Code](https://github.com/jason5ng32/MyIP)) `MIT` `Nodejs/Docker`
 - [Neko](https://neko.m1k1o.net) - A self hosted virtual browser (rabb.it clone) that runs in Docker. ([Source Code](https://github.com/m1k1o/neko)) `Apache-2.0` `Docker/Go`
-- [Ombi](https://ombi.io/) - A content request system for Plex/Emby, connects to SickRage, CouchPotato, Sonarr, with a growing feature set. ([Demo](https://app.ombi.io/), [Source Code](https://github.com/Ombi-app/Ombi)) `GPL-2.0` `C#/deb`
 - [Open-Meteo](https://open-meteo.com/) - Open-source weather API with open-data forecasts, historical and climate data from all major national weather services. ([Demo](https://open-meteo.com/en/docs), [Source Code](https://github.com/open-meteo/open-meteo)) `AGPL-3.0` `Docker`
 - [OpenZiti](https://openziti.github.io/) - Fully-featured, self-hostable, zero trust, full mesh overlay network. Includes a 2FA support out of the box, clients for all major desktop/mobile OS'es. ([Source Code](https://github.com/openziti/ziti)) `Apache-2.0` `Go`
-- [Overseerr](https://overseerr.dev/) `⚠` - Overseerr is a free and open source software application for managing requests for your media library. It integrates with your existing services, such as Sonarr, Radarr, and Plex!. ([Source Code](https://github.com/sct/overseerr)) `MIT` `Docker`
 - [penpot](https://penpot.app/) - A web based design and prototyping platform meant for cross-domain teams. ([Source Code](https://github.com/penpot/penpot)) `MPL-2.0` `Docker`
 - [POMjs](https://password.oppetmoln.se/) - Random Password Generator. ([Source Code](https://github.com/joho1968/POMjs)) `GPL-2.0` `Javascript`
 - [Reactive Resume](https://rxresu.me/) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. ([Demo](https://rxresu.me/app/dashboard/), [Source Code](https://github.com/AmruthPillai/Reactive-Resume)) `MIT` `Docker/Nodejs`
@@ -1396,7 +1410,6 @@ Software that does not fit in another section.
 - [Upsnap](https://github.com/seriousm4x/UpSnap) - A simple Wake on LAN (WOL) dashboard app. Wake up devices on your network and see current status. `MIT` `Go/Docker`
 - [URL-to-PNG](https://github.com/jasonraimondi/url-to-png) - URL to PNG utility featuring parallel rendering using Playwright for screenshots and with storage caching via Local, S3, or CouchDB. `MIT` `Nodejs/Docker`
 - [Wakupator](https://github.com/Gibus21250/Wakupator) - Wake On LAN Machine Manager based on network traffic. `MIT` `C`
-- [Watcharr](https://github.com/sbondCo/Watcharr) - A free and open source content watch list. Add and track all the shows and movies you are watching. Comes with user authentication, modern and clean UI and a very simple setup. ([Demo](https://beta.watcharr.app/)) `MIT` `Docker`
 - [Wavelog](https://www.wavelog.org) - Webbased Logging Software for Radio Amateurs. Enhanced QSO logging, statistics and maps for your browser. ([Demo](https://demo.wavelog.org), [Source Code](https://github.com/wavelog/wavelog)) `MIT` `PHP/Docker`
 - [WeeWX](https://weewx.com/) - Open source software for your weather station. ([Demo](https://weewx.com/showcase.html), [Source Code](https://github.com/weewx/weewx)) `GPL-3.0` `Python/deb`
 - [WeTTY](https://butlerx.github.io/wetty/#/) - Terminal in browser over http/https. ([Source Code](https://github.com/butlerx/wetty)) `MIT` `Docker/Nodejs`
@@ -1413,9 +1426,9 @@ Software that does not fit in another section.
 _Related: [Inventory Management](#inventory-management), [Resource Planning](#resource-planning)_
 
 - [Actual](https://actualbudget.github.io/docs/) - Local-first personal finance tool based on zero-sum budgeting, supporting synchronization across devices, custom rules, manual transaction importing (from QIF, OFX, and QFX files), and optional automatic synchronization with many banks. ([Source Code](https://github.com/actualbudget/actual)) `MIT` `Nodejs/Docker`
-- [Bigcapital](https://bigcapital.app/) - A self-hosted financial accounting and inventory management software for small to medium businesses. ([Source Code](https://github.com/bigcapitalhq/bigcapital)) `AGPL-3.0` `Docker`
-- [Bitcart](https://bitcart.ai) - A self-hosted cryptocurrencies payment processor and development platform. ([Demo](https://admin.bitcart.ai), [Source Code](https://github.com/bitcart/bitcart)) `MIT` `Docker/Python/Nodejs`
-- [BTCPay Server](https://btcpayserver.org/) - A self-hosted Bitcoin and other cryptocurrencies payment processor. ([Demo](https://mainnet.demo.btcpayserver.org/), [Source Code](https://github.com/btcpayserver/btcpayserver)) `MIT` `C#`
+- [Bigcapital](https://bigcapital.app/) - Financial accounting and inventory management software for small to medium businesses. ([Source Code](https://github.com/bigcapitalhq/bigcapital)) `AGPL-3.0` `Docker`
+- [Bitcart](https://bitcart.ai) - Cryptocurrencies payment processor and development platform. ([Demo](https://admin.bitcart.ai), [Source Code](https://github.com/bitcart/bitcart)) `MIT` `Docker/Python/Nodejs`
+- [BTCPay Server](https://btcpayserver.org/) - Bitcoin and other cryptocurrencies payment processor. ([Demo](https://mainnet.demo.btcpayserver.org/), [Source Code](https://github.com/btcpayserver/btcpayserver)) `MIT` `C#`
 - [DePay](https://depay.com) - Accept Web3 Payments directly into your wallet. Peer-to-peer, free, self-hosted & open-source. ([Demo](https://depay.com/products/payments), [Source Code](https://github.com/depayfi/widgets)) `MIT` `Nodejs`
 - [ExpenseOwl](https://github.com/tanq16/expenseowl) - Extremely simple expense tracker with a beautiful UI. `MIT` `Go/Docker/K8S`
 - [ezbookkeeping](https://ezbookkeeping.mayswind.net/) - A lightweight personal bookkeeping app hosted by yourself. ([Demo](https://ezbookkeeping-demo.mayswind.net/), [Source Code](https://github.com/mayswind/ezbookkeeping)) `MIT` `Go/Docker`
@@ -1513,7 +1526,7 @@ An [office suite](https://en.wikipedia.org/wiki/List_of_office_suites) is a coll
 A [password manager](https://en.wikipedia.org/wiki/Password_manager) allows users to store, generate, and manage their passwords for local applications and online services.
 
 - [AliasVault](https://www.aliasvault.net) - End-to-end encrypted password manager with a built-in email alias generator and server. ([Source Code](https://github.com/lanedirt/AliasVault)) `MIT` `Docker`
-- [Bitwarden](https://bitwarden.com/) `⚠` - Password manager with webapp, browser extension, and mobile app. ([Source Code](https://github.com/bitwarden/server)) `AGPL-3.0` `Docker/C#`
+- [Bitwarden](https://bitwarden.com/) `⚠` - Password manager with a webapp, browser extension, and mobile app. ([Source Code](https://github.com/bitwarden/server)) `AGPL-3.0` `Docker/C#`
 - [Passbolt](https://www.passbolt.com/) - Password manager dedicated for managing passwords in a collaborative way on any Web server, using a MySQL database backend. ([Source Code](https://github.com/passbolt/passbolt_api)) `AGPL-3.0` `PHP/deb/K8S/Docker`
 - [PassIt](https://passit.io/) - Simple password manage with sharing features by group and user, but no administration interface. ([Demo](https://app.passit.io/), [Source Code](https://gitlab.com/passit)) `AGPL-3.0` `Docker/Django`
 - [Passky](https://passky.org) - Simple, modern and open source password manager with website, browser extension, android and desktop application. ([Demo](https://vault.passky.org), [Source Code](https://github.com/Rabbit-Company/Passky-Server)) `GPL-3.0` `PHP`
@@ -1622,8 +1635,8 @@ Software for organising [polls](https://en.wikipedia.org/wiki/Opinion_poll) and 
 
 _Related: [Booking and Scheduling](#booking-and-scheduling)_
 
-- [Bitpoll](https://github.com/fsinfuhh/Bitpoll) - A web application for scheduling meetings and general polling. ([Demo](https://bitpoll.de/)) `GPL-3.0` `Docker/Python`
-- [Bracket](https://evroon.github.io/bracket) - Flexible tournament system to build a tournament setup, add teams, schedule matches, keep track of scores and present ranking live to the public. ([Demo](https://www.bracketapp.nl/demo), [Source Code](https://github.com/evroon/bracket)) `AGPL-3.0` `Docker/Nodejs`
+- [Bitpoll](https://github.com/fsinfuhh/Bitpoll) - Conduct polls about dates, times or general questions. ([Demo](https://bitpoll.de/)) `GPL-3.0` `Docker/Python`
+- [Bracket](https://docs.bracketapp.nl/) - Flexible tournament system to build a tournament setup, add teams, schedule matches, keep track of scores and present ranking live to the public. ([Demo](https://www.bracketapp.nl/demo), [Source Code](https://github.com/evroon/bracket)) `AGPL-3.0` `Docker/Nodejs`
 - [Christmas Community](https://github.com/Wingysam/Christmas-Community) - Create a simple place for your entire family to use to find gifts that people want, and to avoid double-gifting. `AGPL-3.0` `Docker/Nodejs`
 - [Claper](https://claper.co/) - The ultimate tool to interact with your audience (alternative to Slido, AhaSlides and Mentimeter). ([Source Code](https://github.com/ClaperCo/Claper)) `GPL-3.0` `Elixir/Docker`
 - [ClearFlask](https://clearflask.com) - Community-feedback tool for managing incoming feedback and prioritizing a public roadmap (alternative to Canny, UserVoice, Upvoty). ([Demo](https://product.clearflask.com), [Source Code](https://github.com/clearflask/clearflask)) `AGPL-3.0` `Docker`
@@ -1668,7 +1681,7 @@ _Related: [Web Servers](#web-servers)_
 
 Software and tools for managing [recipes](https://en.wikipedia.org/wiki/Recipe).
 
-- [Bar Assistant](https://barassistant.app/) - Bar assistant is a self hosted application for managing your home bar. It allows you to add your ingredients, search for cocktails and create custom cocktail recipes. ([Demo](https://demo.barassistant.app/), [Source Code](https://github.com/karlomikus/bar-assistant)) `MIT` `PHP/Docker`
+- [Bar Assistant](https://barassistant.app/) - Manage your home bar while adding your ingredients, searching for cocktails and creating custom cocktail recipes. ([Demo](https://demo.barassistant.app/), [Source Code](https://github.com/karlomikus/bar-assistant)) `MIT` `PHP/Docker`
 - [Fork Recipes](https://mikebgrep.github.io/forkapi/clients/) - Manage your food recipes with simplicity. ([Source Code](https://github.com/mikebgrep/fork.recipes)) `BSD-3-Clause` `Docker`
 - [KitchenOwl](https://tombursch.github.io/kitchenowl/) - A cross-platform shopping list, recipe storage, expense tracker, and meal planner following the material design language. ([Source Code](https://github.com/TomBursch/kitchenowl)) `AGPL-3.0` `Docker/deb`
 - [ManageMeals](https://managemeals.com/) - Manage recipes, import recipes by URL and organize them without any ads or unnecessary text. ([Demo](https://demo.managemeals.com/), [Source Code](https://github.com/managemeals/manage-meals-web)) `GPL-3.0` `Docker`
@@ -1943,7 +1956,7 @@ _Related: [Ticketing](#ticketing), [Task Management & To-do Lists](#task-managem
 
 Tools and software for [software testing](https://en.wikipedia.org/wiki/Software_testing).
 
-- [Bencher](https://bencher.dev/) - Bencher is a suite of continuous benchmarking tools designed to catch performance regressions in CI. ([Source Code](https://github.com/bencherdev/bencher)) `MIT/Apache-2.0` `Rust`
+- [Bencher](https://bencher.dev/) - Suite of continuous benchmarking tools designed to catch performance regressions in CI. ([Source Code](https://github.com/bencherdev/bencher)) `MIT/Apache-2.0` `Rust`
 - [Sorry Cypress](https://sorry-cypress.dev) - Alternative open-source dashboard for the Cypress browser automation framework, featuring unlimited parallelization, recording and debugging of tests. ([Source Code](https://github.com/sorry-cypress/sorry-cypress)) `MIT` `Docker/K8S`
 - [WebHook Tester](https://github.com/tarampampam/webhook-tester) - Powerful tool for testing WebHooks and more. `MIT` `Docker/Go/deb/K8S`
 
@@ -2042,7 +2055,7 @@ _Related: [Task Management & To-do Lists](#task-management--to-do-lists), [Softw
 
 [URL shortening](https://en.wikipedia.org/wiki/URL_shortening) is the action of shortening a [URL](https://en.wikipedia.org/wiki/Uniform_Resource_Locator) to make it substantially shorter and still direct to the required page. Before hosting one, please see [disadvantages](https://en.wikipedia.org/wiki/URL_shortening#Disadvantages) of URL shorteners.
 
-- [bit](https://github.com/sjdonado/bit) - Fast, lightweight, resource-efficient, compiled URL shortener powered by SQLite. `MIT` `Docker/Crystal`
+- [bit](https://github.com/sjdonado/bit) - Fast, lightweight, resource-efficient, compiled URL shortener. `MIT` `Docker/Crystal`
 - [Chhoto URL](https://github.com/SinTan1729/chhoto-url) - Simple, lightning-fast URL shortener with no bloat (fork of simply-shorten). `MIT` `Rust/Docker`
 - [clink](https://git.swurl.xyz/swirl/clink.git/about/) - A super-minimal link shortening service written in pure C, focusing on small executable size, portability, and ease of configuration. ([Demo](https://short.swurl.xyz), [Source Code](https://git.swurl.xyz/swirl/clink.git)) `AGPL-3.0` `C`
 - [Flink](https://gitlab.com/rtraceio/web/flink) - Create QR Codes, embeddable link previews for your website and crawls/scrapes metadata. ([Demo](https://flink.is)) `MIT` `Docker`
@@ -2117,7 +2130,7 @@ _Related: [Note-taking & Editors](#note-taking--editors), [Static Site Generator
 _See also: [Wikimatrix](https://www.wikimatrix.org/), [List of wiki software - Wikipedia](https://en.wikipedia.org/wiki/List_of_wiki_software), [Comparison of wiki software - Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_wiki_software)_
 
 - [AmuseWiki](https://amusewiki.org/) - Amusewiki is based on the Emacs Muse markup, remaining mostly compatible with the original implementation. It can work as a read-only site, as a moderated wiki, or as a fully open wiki or even as a private site. ([Demo](https://sandbox.amusewiki.org), [Source Code](https://github.com/melmothx/amusewiki)) `GPL-1.0` `Perl/Docker`
-- [BookStack](https://www.bookstackapp.com/) - BookStack is a simple, self-hosted, easy-to-use platform for organizing and storing information. It allows for documentation to be stored in a book like fashion. ([Demo](https://www.bookstackapp.com/#demo), [Source Code](https://github.com/BookStackApp/BookStack)) `MIT` `PHP/Docker`
+- [BookStack](https://www.bookstackapp.com/) - Organize and store information. Stores documentation in a book like fashion. ([Demo](https://www.bookstackapp.com/#demo), [Source Code](https://github.com/BookStackApp/BookStack)) `MIT` `PHP/Docker`
 - [django-wiki](https://github.com/django-wiki/django-wiki) - Wiki system with complex functionality for simple integration and a superb interface. Store your knowledge with style: Use django models. ([Demo](https://demo.django-wiki.org/)) `GPL-3.0` `Python`
 - [docmost](https://docmost.com/) - Collaborative wiki and documentation software (alternative to Confluence, Notion). ([Source Code](https://github.com/docmost/docmost)) `AGPL-3.0` `Docker/Nodejs`
 - [Documize](https://documize.com) - Modern Docs + Wiki software with built-in workflow, single binary executable, just bring MySQL/Percona. ([Source Code](https://github.com/documize/community)) `AGPL-3.0` `Go`

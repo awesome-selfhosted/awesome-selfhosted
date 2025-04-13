@@ -256,7 +256,7 @@
 
 - [92five](https://92fiveapp.com/) - Self-hosted project management application. `⊘ Proprietary` `PHP`
 - [Active Collab](https://activecollab.com/) - Project management. `⊘ Proprietary` `PHP`
-- [BitBucket Server](https://www.atlassian.com/software/bitbucket/enterprise/data-center) - Enterprise-level Git solution similar to GitLab. `⊘ Proprietary` `Java`
+- [BitBucket Server](https://www.atlassian.com/software/bitbucket/enterprise/data-center) - Enterprise-level Git solution (alternative to GitLab). `⊘ Proprietary` `Java`
 - [Buddy Enterprise](https://buddy.works/) - Git and Continuous Integration/Delivery Platform. `⊘ Proprietary` `Nodejs/Java`
 - [Crucible](https://www.atlassian.com/software/crucible) - Peer code review application. `⊘ Proprietary` `Java`
 - [Kanban Tool](https://kanbantool.com/kanban-tool-on-site) - Advanced Kanban boards with time tracking. `⊘ Proprietary` `Ruby`
