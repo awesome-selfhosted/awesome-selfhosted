@@ -57,6 +57,7 @@ See [Contributing](#contributing).
   - [Games](#games)
   - [Games - Administrative Utilities & Control Panels](#games---administrative-utilities--control-panels)
   - [Genealogy](#genealogy)
+  - [Generative Artificial Intelligence (GenAI)](#generative-artificial-intelligence-genai)
   - [Groupware](#groupware)
   - [Human Resources Management (HRM)](#human-resources-management-hrm)
   - [Identity Management](#identity-management)
@@ -1042,6 +1043,17 @@ _Related: [Games](#games)_
 - [GeneWeb](https://geneweb.tuxfamily.org/wiki/GeneWeb) - Genealogy software. It comes with a Web interface and can be used off-line or as a Web service. ([Demo](https://demo.geneweb.tuxfamily.org/gw7/), [Source Code](https://github.com/geneweb/geneweb)) `GPL-2.0` `OCaml`
 - [Gramps Web](https://www.grampsweb.org/) - Web app for collaborative genealogy, based on and interoperable with Gramps, the open source genealogy desktop application. ([Demo](https://gramps-project.github.io/gramps-web-api/), [Source Code](https://github.com/gramps-project/gramps-web-api)) `AGPL-3.0` `Docker`
 - [webtrees](https://www.webtrees.net) - Webtrees is the web's leading online collaborative genealogy application. ([Demo](https://dev.webtrees.net/demo-stable/index.php?ctype=gedcom&ged=demo), [Source Code](https://github.com/fisharebest/webtrees)) `GPL-3.0` `PHP`
+
+
+### Generative Artificial Intelligence (GenAI)
+
+**[`^        back to top        ^`](#awesome-selfhosted)**
+
+[Generative Artificial Intelligence (GenAI)] is a subset of [artificial intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence) that uses generative models to produce text, images, videos, or other forms of data.
+
+- [Ollama](https://ollama.com/) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, and other large language models. ([Source Code](https://github.com/ollama/ollama)) `MIT` `Docker/Python`
+- [Open-WebUI](https://openwebui.com) - User-friendly AI Interface, supports Ollama, OpenAI API. ([Source Code](https://github.com/open-webui/open-webui)) `BSD-3-Clause` `Docker/Python`
+- [Perplexica](https://github.com/ItzCrazyKns/Perplexica) - AI-powered search engine (alternative to Perplexity AI). `MIT` `Docker`
 
 
 ### Groupware
