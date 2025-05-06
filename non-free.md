@@ -37,6 +37,7 @@
   - [Software Development - Testing](#software-development---testing)
   - [Ticketing](#ticketing)
   - [Time Tracking](#time-tracking)
+  - [Wikis](#wikis)
 - [List of Licenses](#list-of-licenses)
 
 --------------------
@@ -98,7 +99,7 @@
 
 - [CraftCMS](https://craftcms.com/) - Content-first CMS that aims to make life enjoyable for developers and content managers alike. ([Demo](https://craftcms.com/demo), [Source Code](https://github.com/craftcms/cms)) `⊘ Proprietary` `PHP`
 - [Kirby](https://getkirby.com/) - File-based CMS. Easy to setup. Easy to use. Flexible as hell. ([Source Code](https://github.com/getkirby/kirby)) `⊘ Proprietary` `PHP`
-- [october](https://octobercms.com/) - Self-hosted CMS platform based on the Laravel PHP Framework. ([Source Code](https://github.com/octobercms/october)) `⊘ Proprietary` `PHP`
+- [october](https://octobercms.com/) - CMS platform based on the Laravel PHP Framework. ([Source Code](https://github.com/octobercms/october)) `⊘ Proprietary` `PHP`
 
 
 ### Database Management
@@ -302,6 +303,13 @@
 **[`^        back to top        ^`](##awesome-selfhosted---non-free-software)**
 
 - [Virtual TimeClock](https://www.redcort.com/timeclock) - Powerful, easy-to-use time tracking software. ([Demo](https://www.redcort.com/timeclock/free-timeclock-software-trial)) `⊘ Proprietary` `Unknown`
+
+
+### Wikis
+
+**[`^        back to top        ^`](##awesome-selfhosted---non-free-software)**
+
+- [Outline](https://www.getoutline.com/) `⚠` - Extensible wiki for your team. ([Source Code](https://github.com/outline/outline)) `BUSL-1.1` `Nodejs/Docker`
 
 
 --------------------
