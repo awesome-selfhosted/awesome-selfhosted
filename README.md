@@ -726,7 +726,6 @@ _See also: [awesome-sysadmin/DNS - Servers](https://github.com/awesome-foss/awes
 
 A [document management system](https://en.wikipedia.org/wiki/Document_management_system) (DMS) is a system used to receive, track, manage and store documents and reduce paper.
 
-- [DocKing](https://docking.shipsaas.tech) - Document management service/microservice that handles templates and renders them in PDF format, all in one place. ([Demo](https://docking-demo.shipsaas.tech/console), [Source Code](https://github.com/shipsaas/docking)) `MIT` `PHP/Nodejs/Docker`
 - [Docspell](https://docspell.org) - Auto-tagging document organizer and archive. ([Source Code](https://github.com/eikek/docspell)) `GPL-3.0` `Scala/Java/Docker`
 - [Documenso](https://documenso.com) - Digital document signing platform (alternative to DocuSign). ([Source Code](https://github.com/documenso/documenso)) `AGPL-3.0` `Nodejs/Docker`
 - [Docuseal](https://www.docuseal.co) - Create, fill, and sign digital documents (alternative to DocuSign). ([Demo](https://demo.docuseal.tech/), [Source Code](https://github.com/docusealco/docuseal)) `AGPL-3.0` `Docker`
