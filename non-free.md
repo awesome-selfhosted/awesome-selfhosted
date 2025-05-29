@@ -189,6 +189,7 @@
 **[`^        back to top        ^`](##awesome-selfhosted---non-free-software)**
 
 - [Akaunting](https://akaunting.com/) - Accounting software designed for small businesses and freelancers. ([Source Code](https://github.com/akaunting/akaunting)) `BUSL-1.1` `PHP`
+- [Invoice Ninja](https://www.invoiceninja.org/) - Powerful tool to invoice clients online. ([Demo](https://app.invoiceninja.com/invoices/create), [Source Code](https://github.com/invoiceninja/invoiceninja)) `Elastic-2.0` `PHP/Docker/K8S`
 - [Pancake](https://www.pancakeapp.com/) - Online invoicing, project management, time tracking and proposal software. `⊘ Proprietary` `PHP`
 
 
