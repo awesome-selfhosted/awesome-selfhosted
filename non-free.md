@@ -7,6 +7,7 @@
 ## Table of contents
 
 - [Software](#software)
+  - [Analytics](#analytics)
   - [Automation](#automation)
   - [Communication - Custom Communication Systems](#communication---custom-communication-systems)
   - [Communication - Email - Complete Solutions](#communication---email---complete-solutions)
@@ -43,6 +44,13 @@
 --------------------
 
 ## Software
+
+### Analytics
+
+**[`^        back to top        ^`](##awesome-selfhosted---non-free-software)**
+
+- [RudderStack](https://rudderstack.com/) - Collect, unify, transform, and store your customer data, and route it to a wide range of common, popular marketing, sales, and product tools (alternative to Segment). ([Source Code](https://github.com/rudderlabs/rudder-server/)) `Elastic-2.0` `Docker/K8S/Go/Nodejs`
+
 
 ### Automation
 
@@ -180,7 +188,7 @@
 **[`^        back to top        ^`](##awesome-selfhosted---non-free-software)**
 
 - [Keygen](https://keygen.sh/) - Software licensing and distribution API. ([Source Code](https://github.com/keygen-sh/keygen-api)) `⊘ Proprietary` `Ruby`
-- [RemoteUtilities](https://www.remoteutilities.com/) - Remote Utilities is self-hosted remote support software for LAN administration and remote support over the Internet. `⊘ Proprietary` `Unknown`
+- [RemoteUtilities](https://www.remoteutilities.com/) - Remote support software for LAN administration and remote support over the Internet. `⊘ Proprietary` `Unknown`
 - [ScreenConnect](https://www.connectwise.com/platform/unified-management/control) - Lightning-fast remote support and remote access to connect instantly and solve problems faster. `⊘ Proprietary` `Unknown`
 
 
