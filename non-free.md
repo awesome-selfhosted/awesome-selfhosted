@@ -9,6 +9,7 @@
 - [Software](#software)
   - [Analytics](#analytics)
   - [Automation](#automation)
+  - [Bookmarks and Link Sharing](#bookmarks-and-link-sharing)
   - [Communication - Custom Communication Systems](#communication---custom-communication-systems)
   - [Communication - Email - Complete Solutions](#communication---email---complete-solutions)
   - [Communication - Email - Mailing Lists and Newsletters](#communication---email---mailing-lists-and-newsletters)
@@ -59,6 +60,13 @@
 - [Ctfreak](https://ctfreak.com) - IT task scheduler with mobile-friendly web UI to schedule concurrent, remote and chained execution of Bash / Powershell / SQL scripts, Webhooks, and more. `⊘ Proprietary` `Unknown`
 - [CxReports](https://www.cx-reports.com) `⚠` - Reporting and PDF document generation with a user-friendly WYSIWYG template editor, API, automated email delivery, and robust security features. `⊘ Proprietary` `Docker`
 - [n8n](https://n8n.io/) - Free node based Workflow Automation Tool. Easily automate tasks across different services. ([Source Code](https://github.com/n8n-io/n8n)) `Apache-2.0/Commons-Clause` `Nodejs`
+
+
+### Bookmarks and Link Sharing
+
+**[`^        back to top        ^`](##awesome-selfhosted---non-free-software)**
+
+- [42links](https://42links.tuxproject.de) - Bookmarking server supporting multiple accounts. ([Source Code](https://code.rosaelefanten.org/42links)) `BSD-3-Clause-No-Military-License` `CommonLisp`
 
 
 ### Communication - Custom Communication Systems
@@ -328,6 +336,7 @@
 
 **[`^        back to top        ^`](##awesome-selfhosted---non-free-software)**
 
+- `BSD-3-Clause-No-Military-License` - [BSD 3-Clause No Military License](https://spdx.org/licenses/BSD-3-Clause-No-Military-License.html)
 - `BUSL-1.1` - [Business Source License 1.1](https://spdx.org/licenses/BUSL-1.1.html)
 - `CC-BY-NC-SA-3.0` - [Creative Commons Attribution-NonCommercial-ShareAlike License 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
 - `CC-BY-NC-SA-4.0` - [Creative Commons Attribution-NonCommercial-ShareAlike License 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
