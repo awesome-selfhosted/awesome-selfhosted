@@ -2084,7 +2084,7 @@ _Related: [Task Management & To-do Lists](#task-management--to-do-lists), [Softw
 [URL shortening](https://en.wikipedia.org/wiki/URL_shortening) is the action of shortening a [URL](https://en.wikipedia.org/wiki/Uniform_Resource_Locator) to make it substantially shorter and still direct to the required page. Before hosting one, please see [disadvantages](https://en.wikipedia.org/wiki/URL_shortening#Disadvantages) of URL shorteners.
 
 - [bit](https://github.com/sjdonado/bit) - Fast, lightweight, resource-efficient, compiled URL shortener. `MIT` `Docker/Crystal`
-- [Chhoto URL](https://github.com/SinTan1729/chhoto-url) - Simple, lightning-fast URL shortener with no bloat (fork of simply-shorten). `MIT` `Rust/Docker`
+- [Chhoto URL](https://github.com/SinTan1729/chhoto-url) - Simple, lightning-fast URL shortener with no bloat (fork of simply-shorten). ([Demo](https://github.com/SinTan1729/chhoto-url?tab=readme-ov-file#demo), [Clients](https://github.com/SinTan1729/chhoto-url/blob/main/TOOLS.md)) `MIT` `Rust/Docker`
 - [clink](https://git.swurl.xyz/swirl/clink.git/about/) - A super-minimal link shortening service written in pure C, focusing on small executable size, portability, and ease of configuration. ([Demo](https://short.swurl.xyz), [Source Code](https://git.swurl.xyz/swirl/clink.git)) `AGPL-3.0` `C`
 - [Flink](https://gitlab.com/rtraceio/web/flink) - Create QR Codes, embeddable link previews for your website and crawls/scrapes metadata. ([Demo](https://flink.is)) `MIT` `Docker`
 - [Just Short It!](https://github.com/miawinter98/just-short-it) - A KISS, single-user URL shortener that runs in just one container. `MIT` `Docker`
