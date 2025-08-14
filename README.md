@@ -1059,7 +1059,6 @@ _Related: [Games](#games)_
 [Generative Artificial Intelligence (GenAI)](https://en.wikipedia.org/wiki/Generative_artificial_intelligence) is a subset of [artificial intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence) that uses generative models to produce text, images, videos, or other forms of data.
 
 - [AnythingLLM](https://anythingllm.com/) - All-in-one desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility, and more. ([Source Code](https://github.com/Mintplex-Labs/anything-llm)) `MIT` `Nodejs/Docker`
-- [IOPaint](https://www.iopaint.com/) `⚠` - Image inpainting tool powered by SOTA AI Model. ([Source Code](https://github.com/Sanster/IOPaint)) `Apache-2.0` `Python/Docker`
 - [Khoj](https://khoj.dev/) - Your AI second brain. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI. ([Demo](https://app.khoj.dev/), [Source Code](https://github.com/khoj-ai/khoj)) `AGPL-3.0` `Python/Docker`
 - [Ollama](https://ollama.com/) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, and other large language models. ([Source Code](https://github.com/ollama/ollama)) `MIT` `Docker/Python`
 - [Open-WebUI](https://openwebui.com) - User-friendly AI Interface, supports Ollama, OpenAI API. ([Source Code](https://github.com/open-webui/open-webui)) `BSD-3-Clause` `Docker/Python`
