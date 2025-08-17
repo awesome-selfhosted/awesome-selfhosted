@@ -197,7 +197,7 @@
 
 - [Keygen](https://keygen.sh/) - Software licensing and distribution API. ([Source Code](https://github.com/keygen-sh/keygen-api)) `⊘ Proprietary` `Ruby`
 - [RemoteUtilities](https://www.remoteutilities.com/) - Remote support software for LAN administration and remote support over the Internet. `⊘ Proprietary` `Unknown`
-- [ScreenConnect](https://www.connectwise.com/platform/unified-management/control) - Lightning-fast remote support and remote access to connect instantly and solve problems faster. `⊘ Proprietary` `Unknown`
+- [ScreenConnect](https://www.screenconnect.com/) - Lightning-fast remote support and remote access to connect instantly and solve problems faster. `⊘ Proprietary` `Unknown`
 
 
 ### Money, Budgeting & Management
