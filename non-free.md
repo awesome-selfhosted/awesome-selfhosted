@@ -73,7 +73,6 @@
 
 **[`^        back to top        ^`](##awesome-selfhosted---non-free-software)**
 
-- [Chaskiq](https://chaskiq.io) - Full featured live chat, help center and CRM (alternative to Intercom & Drift and Crisp). ([Source Code](https://github.com/chaskiq/chaskiq)) `AGPL-3.0/Commons-Clause` `Ruby`
 - [Chatwoot](https://www.chatwoot.com) - Customer communication platform (alternative to Intercom and Zendesk). ([Source Code](https://github.com/chatwoot/chatwoot)) `⊘ Proprietary` `Ruby/Docker/K8S`
 - [Groupboard](https://www.groupboard.com/products/) - Online whiteboard, audio/video conferencing, screen sharing, shared code editing and optional session recording/playback. `⊘ Proprietary` `Unknown`
 - [PrivMX WebMail](https://privmx.com) - Alternative private mail system - web-based, end-to-end encrypted by design, self-hosted, decentralized, uses independent PKI. Easy to install and administrate, freeware, open-source. `⊘ Proprietary` `PHP`
