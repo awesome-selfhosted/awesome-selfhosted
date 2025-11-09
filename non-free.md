@@ -22,6 +22,7 @@
   - [File Transfer & Synchronization](#file-transfer--synchronization)
   - [Games](#games)
   - [Games - Administrative Utilities & Control Panels](#games---administrative-utilities--control-panels)
+  - [Generative Artificial Intelligence (GenAI)](#generative-artificial-intelligence-genai)
   - [Knowledge Management Tools](#knowledge-management-tools)
   - [Maps and Global Positioning System (GPS)](#maps-and-global-positioning-system-gps)
   - [Media Streaming - Video Streaming](#media-streaming---video-streaming)
@@ -164,6 +165,13 @@
 **[`^        back to top        ^`](##awesome-selfhosted---non-free-software)**
 
 - [GameVault](https://gamevau.lt) - Organize, download, and play DRM-free games from your own server, complete with metadata enrichment and user-friendly interface. ([Demo](https://demo.gamevau.lt), [Source Code](https://github.com/Phalcode/gamevault-backend)) `CC-BY-NC-SA-4.0` `Nodejs/Docker`
+
+
+### Generative Artificial Intelligence (GenAI)
+
+**[`^        back to top        ^`](##awesome-selfhosted---non-free-software)**
+
+- [LobeHub](https://www.lobehub.com) - Modern design AI chat framework supporting multiple AI providers, one click install MCP Marketplace and Artifacts / Thinking. ([Demo](https://www.lobechat.com), [Source Code](https://github.com/lobehub/lobe-chat), [Clients](https://lobehub.com/mcp)) `⊘ Proprietary` `Nodejs/Docker`
 
 
 ### Knowledge Management Tools
