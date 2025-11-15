@@ -147,7 +147,7 @@
 
 **[`^        back to top        ^`](##awesome-selfhosted---non-free-software)**
 
-- [FileRun](https://www.filerun.com/) - Complete solution for your files with integration with Google and Office. ([Demo](https://www.filerun.com/demo)) `⊘ Proprietary` `PHP`
+- [FileRun](https://filerun.com/) - Complete solution for your files with integration with Google and Office. ([Demo](https://filerun.com/demo)) `⊘ Proprietary` `PHP`
 - [Resilio Sync](https://www.resilio.com/) - Proprietary peer-to-peer file synchronisation tool. `⊘ Proprietary` `Unknown`
 - [Yetishare](https://yetishare.com) - Powerful file hosting script with support for Amazon S3, Wasabi, Backblaze, local, direct and SFTP storage. ([Demo](https://fhscript.com)) `⊘ Proprietary` `PHP`
 
