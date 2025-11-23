@@ -186,6 +186,7 @@
 **[`^        back to top        ^`](##awesome-selfhosted---non-free-software)**
 
 - [MapTiler Server](https://www.maptiler.com/server/) - Host OpenStreetMap vector tiles, satellite imagery, own geodata and data from PostGIS database. `⊘ Proprietary` `Unknown`
+- [TRIP](https://itskovacs-trip.netlify.app/) - Minimalist POI Map tracker and Trip planner. ([Demo](https://itskovacs-trip.netlify.app/home), [Source Code](https://github.com/itskovacs/trip)) `CC-BY-NC-4.0` `Docker`
 
 
 ### Media Streaming - Video Streaming
