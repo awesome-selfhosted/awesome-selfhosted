@@ -851,7 +851,6 @@ A [news aggregator](https://en.wikipedia.org/wiki/News_aggregator), also termed 
 - [Miniflux](https://miniflux.app/) - Minimalist news reader. ([Source Code](https://github.com/miniflux/v2)) `Apache-2.0` `Go/deb/Docker`
 - [NewsBlur](https://www.newsblur.com/) - Personal news reader that brings people together to talk about the world. A new sound of an old instrument. ([Source Code](https://github.com/samuelclay/NewsBlur)) `MIT` `Python`
 - [Newspipe](https://git.sr.ht/~cedric/newspipe) - Web news reader. ([Demo](https://www.newspipe.org/signup)) `AGPL-3.0` `Python`
-- [Precis](https://github.com/leozqin/precis) - Extensibility-oriented RSS reader that can use LLMs (including local LLMs) to summarize RSS entries with built-in notification support. `MIT` `Python/Docker`
 - [reader](https://github.com/lemon24/reader) - Feed reader web app and library (so you can use it to build your own), with only standard library and pure-Python dependencies. `BSD-3-Clause` `Python`
 - [Readflow](https://readflow.app) - Lightweight news reader with modern interface and features: full-text search, automatic categorization, archiving, offline support, notifications. ([Source Code](https://github.com/ncarlier/readflow)) `AGPL-3.0` `Go/Docker`
 - [RSS-Bridge](https://github.com/RSS-Bridge/rss-bridge) - Generate RSS/ATOM feeds for websites which don't have one. `Unlicense` `PHP/Docker`
