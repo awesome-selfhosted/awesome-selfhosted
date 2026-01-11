@@ -294,6 +294,7 @@
 - [BitBucket Server](https://www.atlassian.com/software/bitbucket/enterprise/data-center) - Enterprise-level Git solution (alternative to GitLab). `⊘ Proprietary` `Java`
 - [Buddy Enterprise](https://buddy.works/) - Git and Continuous Integration/Delivery Platform. `⊘ Proprietary` `Nodejs/Java`
 - [Crucible](https://www.atlassian.com/software/crucible) - Peer code review application. `⊘ Proprietary` `Java`
+- [eigenfocus](https://eigenfocus.com/) - Project Management, Planning and Time Tracking app. From solo projects to multi-member teams, Eigenfocus adapts to your workflow. ([Source Code](https://github.com/Eigenfocus/eigenfocus)) `⊘ Proprietary` `Docker`
 - [Kanban Tool](https://kanbantool.com/kanban-tool-on-site) - Advanced Kanban boards with time tracking. `⊘ Proprietary` `Ruby`
 - [Kantree](https://kantree.io) - Work management and collaboration. `⊘ Proprietary` `Python`
 - [Solo](https://www.getsoloapp.com/) - Free project management app created for freelancers. Create contacts, manage tasks, upload files, track project progress, and keep notes. ([Demo](https://www.getsoloapp.com/demo/)) `⊘ Proprietary` `PHP`
