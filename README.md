@@ -167,7 +167,7 @@ _Related: [Database Management](#database-management), [Personal Dashboards](#pe
 
 Digital [archiving](https://en.wikipedia.org/wiki/Archival_science) and [preservation](https://en.wikipedia.org/wiki/Digital_preservation) software.
 
-_Related: [Content Management Systems (CMS)](#content-management-systems-cms)_
+_Related: [Backup](#backup), [Content Management Systems (CMS)](#content-management-systems-cms)_
 
 _See also: [awesome-web-archiving](https://github.com/iipc/awesome-web-archiving)_
 
@@ -228,6 +228,8 @@ _Related: [Internet of Things (IoT)](#internet-of-things-iot), [Software Develop
 [Backup](https://en.wikipedia.org/wiki/Backup) software.
 
 **Please visit [awesome-sysadmin/Backups](https://github.com/awesome-foss/awesome-sysadmin#backups)**
+
+_Related: [Archiving and Digital Preservation (DP)](#archiving-and-digital-preservation-dp)_
 
 
 
