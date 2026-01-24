@@ -20,6 +20,7 @@
   - [Document Management - E-books](#document-management---e-books)
   - [E-commerce](#e-commerce)
   - [File Transfer & Synchronization](#file-transfer--synchronization)
+  - [File Transfer - Object Storage & File Servers](#file-transfer---object-storage--file-servers)
   - [Games](#games)
   - [Games - Administrative Utilities & Control Panels](#games---administrative-utilities--control-panels)
   - [Generative Artificial Intelligence (GenAI)](#generative-artificial-intelligence-genai)
@@ -151,6 +152,13 @@
 - [FileRun](https://filerun.com/) - Complete solution for your files with integration with Google and Office. ([Demo](https://filerun.com/demo)) `⊘ Proprietary` `PHP`
 - [Resilio Sync](https://www.resilio.com/) - Proprietary peer-to-peer file synchronisation tool. `⊘ Proprietary` `Unknown`
 - [Yetishare](https://yetishare.com) - Powerful file hosting script with support for Amazon S3, Wasabi, Backblaze, local, direct and SFTP storage. ([Demo](https://fhscript.com)) `⊘ Proprietary` `PHP`
+
+
+### File Transfer - Object Storage & File Servers
+
+**[`^        back to top        ^`](##awesome-selfhosted---non-free-software)**
+
+- [sftpgo Community Edition](https://github.com/drakkan/sftpgo) - Flexible, fully featured and highly configurable SFTP server with optional FTP/S and WebDAV support. `AGPL-3.0/⊘ Proprietary` `Go/deb/Docker`
 
 
 ### Games
