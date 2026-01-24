@@ -1383,7 +1383,7 @@ _Related: [Video Surveillance](#video-surveillance), [Media Streaming - Multimed
 - [CyTube](https://github.com/calzoneman/sync) - Synchronize media, chat, and more for an arbitrary number of channels. ([Demo](https://cytu.be)) `MIT` `Nodejs`
 - [Invidious](https://github.com/iv-org/invidious) `⚠` - Alternative YouTube front-end. ([Demo](https://docs.invidious.io/instances/)) `AGPL-3.0` `Docker/Crystal`
 - [MediaCMS](https://mediacms.io) - Modern, fully featured open source video and media CMS, written in Python/Django/React, featuring a REST API. ([Source Code](https://github.com/mediacms-io/mediacms)) `AGPL-3.0` `Python/Docker`
-- [OvenMediaEngine](https://github.com/AirenSoft/OvenMediaEngine) - Streaming Server with Sub-Second Latency. ([Demo](https://demo.ovenplayer.com)) `AGPL-3.0` `C++/Docker`
+- [OvenMediaEngine](https://github.com/OvenMediaLabs/OvenMediaEngine) - Streaming Server with Sub-Second Latency. ([Demo](https://demo.ovenplayer.com)) `AGPL-3.0` `C++/Docker`
 - [Owncast](https://owncast.online/) - Decentralized single-user live video streaming and chat server for running your own live streams similar in style to the large mainstream options. ([Source Code](https://github.com/owncast/owncast)) `MIT` `Go`
 - [PeerTube](https://joinpeertube.org/en/) - Decentralized video streaming platform using P2P (BitTorrent) directly in the web browser. ([Source Code](https://github.com/Chocobozzz/PeerTube)) `AGPL-3.0` `Nodejs`
 - [Rapidbay](https://github.com/hauxir/rapidbay/) - Videostreaming service/torrent client that allows searching and playing videos from torrents in the browser or from a Chromecast/AppleTV/Smart TV. `MIT` `Python/Docker`
