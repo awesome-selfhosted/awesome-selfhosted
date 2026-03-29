@@ -181,7 +181,7 @@
 
 **[`^        back to top        ^`](##awesome-selfhosted---non-free-software)**
 
-- [LobeHub](https://www.lobehub.com) - Modern design AI chat framework supporting multiple AI providers, one click install MCP Marketplace and Artifacts / Thinking. ([Demo](https://www.lobechat.com), [Source Code](https://github.com/lobehub/lobehub), [Clients](https://lobehub.com/mcp)) `⊘ Proprietary` `Nodejs/Docker`
+- [LobeHub](https://www.lobehub.com) - Modern design AI chat framework supporting multiple AI providers, one click install MCP Marketplace and Artifacts / Thinking. ([Source Code](https://github.com/lobehub/lobehub), [Clients](https://lobehub.com/mcp)) `⊘ Proprietary` `Nodejs/Docker`
 
 
 ### Knowledge Management Tools
