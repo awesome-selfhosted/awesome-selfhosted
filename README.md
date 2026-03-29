@@ -159,7 +159,7 @@ _Related: [Database Management](#database-management), [Personal Dashboards](#pe
 - [Superset](http://superset.apache.org/) - Modern data exploration and visualization platform. ([Source Code](https://github.com/apache/superset)) `Apache-2.0` `Python`
 - [Swetrix](https://swetrix.com/) - Ultimate, open-source web analytics to satisfy all your needs. ([Demo](https://swetrix.com/projects/STEzHcB1rALV), [Source Code](https://github.com/Swetrix/selfhosting)) `AGPL-3.0` `Docker`
 - [Umami](https://umami.is/) - Simple, fast, privacy-focused alternative to Google Analytics. ([Demo](https://cloud.umami.is/share/LGazGOecbDtaIwDr), [Source Code](https://github.com/umami-software/umami)) `MIT` `Nodejs/Docker`
-- [Vince](https://www.vinceanalytics.com/) - Web analytics and dashboard (alternative to Google Analytics). ([Demo](https://demo.vinceanalytics.com/v1/share/vinceanalytics.com?auth=Ls9tV4pzqOn7BJ7-&demo=true), [Source Code](https://github.com/vinceanalytics/vince)) `AGPL-3.0` `Go/Docker/K8S/deb`
+- [Vince](https://www.vinceanalytics.com/) - Web analytics and dashboard (alternative to Google Analytics). ([Source Code](https://github.com/vinceanalytics/vince)) `AGPL-3.0` `Go/Docker/K8S/deb`
 
 
 ### Archiving and Digital Preservation (DP)
@@ -955,7 +955,7 @@ Simplified file servers for sharing of one-time/short-lived/temporary files, pro
 - [OnionShare](https://github.com/onionshare/onionshare) - Securely and anonymously share a file of any size. `GPL-3.0` `Python/deb`
 - [Pairdrop](https://pairdrop.net/) - Local file sharing in your browser, inspired by Apple's AirDrop (fork of Snapdrop). ([Source Code](https://github.com/schlagmichdoch/pairdrop)) `GPL-3.0` `Docker`
 - [PicoShare](https://github.com/mtlynch/picoshare) - Minimalist, easy-to-host service for sharing images and other files. `AGPL-3.0` `Go/Docker`
-- [Picsur](https://github.com/CaramelFur/Picsur) - Simple imaging hosting platform that allows you to easily host, edit, and share images. ([Demo](https://picsur.org/upload)) `AGPL-3.0` `Docker`
+- [Picsur](https://github.com/CaramelFur/Picsur) - Simple imaging hosting platform that allows you to easily host, edit, and share images. `AGPL-3.0` `Docker`
 - [PictShare](https://www.pictshare.net/) - Multi lingual image hosting service with a simple resizing and upload API. ([Source Code](https://github.com/HaschekSolutions/pictshare)) `Apache-2.0` `PHP/Docker`
 - [Plik](https://github.com/root-gg/plik) - Scalable and friendly temporary file upload system. ([Demo](https://plik.root.gg/)) `MIT` `Go/Docker`
 - [ProjectSend](https://www.projectsend.org/) - Upload files and assign them to specific clients you create. Give access to those files to your clients. ([Source Code](https://github.com/projectsend/projectsend)) `GPL-2.0` `PHP`
