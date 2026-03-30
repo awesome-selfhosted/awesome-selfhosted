@@ -1029,7 +1029,7 @@ _Related: [Games - Administrative Utilities & Control Panels](#games---administr
 
 **[`^        back to top        ^`](#awesome-selfhosted)**
 
-Utilities for managing game servers.
+Utilities for managing game servers and game libraries.
 
 _Related: [Games](#games)_
 
