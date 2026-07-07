@@ -26,6 +26,7 @@
   - [Generative Artificial Intelligence (GenAI)](#generative-artificial-intelligence-genai)
   - [Knowledge Management Tools](#knowledge-management-tools)
   - [Maps and Global Positioning System (GPS)](#maps-and-global-positioning-system-gps)
+  - [Media Streaming - Audio Streaming](#media-streaming---audio-streaming)
   - [Media Streaming - Video Streaming](#media-streaming---video-streaming)
   - [Miscellaneous](#miscellaneous)
   - [Money, Budgeting & Management](#money-budgeting--management)
@@ -196,6 +197,13 @@
 **[`^        back to top        ^`](##awesome-selfhosted---non-free-software)**
 
 - [MapTiler Server](https://www.maptiler.com/server/) - Host OpenStreetMap vector tiles, satellite imagery, own geodata and data from PostGIS database. `⊘ Proprietary` `Unknown`
+
+
+### Media Streaming - Audio Streaming
+
+**[`^        back to top        ^`](##awesome-selfhosted---non-free-software)**
+
+- [Väinö](https://supponexus.com/products/vaino) - High-fidelity music server for Raspberry Pi with iOS and Android companion apps. `⊘ Proprietary` `Python`
 
 
 ### Media Streaming - Video Streaming
