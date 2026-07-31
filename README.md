@@ -765,6 +765,7 @@ A [document management system](https://en.wikipedia.org/wiki/Document_management
 [Ebook](https://en.wikipedia.org/wiki/Ebook) library management software.
 
 - [Atsumeru](https://atsumeru.xyz) - Manga/comic/light novel media server with clients for Windows, Linux, macOS and Android. ([Source Code](https://github.com/Atsumeru-xyz/Atsumeru), [Clients](https://atsumeru.xyz/guides/#how-does-it-work)) `MIT` `Java/Docker`
+- [Bindery](https://github.com/jarynclouatre/bindery) - Folder-watching converter for e-books and comics. EPUB to Kobo KEPUB via kepubify, CBZ/CBR/PDF via Kindle Comic Converter, with per-device profiles, ComicInfo.xml naming, chapter-to-volume bundling and a web UI. `MIT` `Docker`
 - [BookLogr](https://github.com/Mozzo1000/booklogr) - Manage your personal book library with ease. ([Demo](https://demo.booklogr.app/)) `Apache-2.0` `Docker`
 - [Calibre Web Automated](https://github.com/crocodilestick/Calibre-Web-Automated) - All-in-one solution, combining the modern lightweight web UI from Calibre-Web with the robust, versatile feature set of Calibre (fork of Calibre Web). `GPL-3.0` `Docker`
 - [Calibre Web](https://github.com/janeczku/calibre-web) - Browse, read and download eBooks using an existing Calibre database. `GPL-3.0` `Python`
