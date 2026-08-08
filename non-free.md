@@ -153,6 +153,7 @@
 **[`^        back to top        ^`](##awesome-selfhosted---non-free-software)**
 
 - [FileRun](https://filerun.com/) - Complete solution for your files with integration with Google and Office. ([Demo](https://filerun.com/demo)) `⊘ Proprietary` `PHP`
+- [Hoodik](https://hoodik.io) - End-to-end encrypted cloud storage server. Files are encrypted and decrypted in the browser, so the server only ever holds ciphertext. Runs on SQLite or PostgreSQL, stores chunks on local disk or any S3-compatible service. ([Source Code](https://github.com/hudikhq/hoodik)) `CC-BY-NC-4.0` `Docker`
 - [Resilio Sync](https://www.resilio.com/) - Proprietary peer-to-peer file synchronisation tool. `⊘ Proprietary` `Unknown`
 - [Yetishare](https://yetishare.com) - Powerful file hosting script with support for Amazon S3, Wasabi, Backblaze, local, direct and SFTP storage. ([Demo](https://fhscript.com)) `⊘ Proprietary` `PHP`
 
