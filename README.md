@@ -1200,6 +1200,7 @@ _Related: [Money, Budgeting & Management](#money-budgeting--management), [Resour
 _See also: [awesome-sysadmin/IT Asset Management](https://github.com/awesome-foss/awesome-sysadmin#it-asset-management)_
 
 - [Cannery](https://cannery.app) - Firearm and ammunition tracker app. ([Source Code](https://codeberg.org/shibao/cannery)) `AGPL-3.0` `Docker`
+- [DVinyl](https://github.com/Kyonew/DVinyl) `⚠` - Modern collection manager for physical media (vinyls, CDs, cassettes, books, movies, and video games). `MIT` `Nodejs/Docker`
 - [HomeBox (SysAdminsMedia)](https://homebox.software/) - Inventory and organization system built for the home user. ([Demo](https://demo.homebox.software/), [Source Code](https://github.com/sysadminsmedia/homebox)) `AGPL-3.0` `Docker/Go`
 - [Inventaire](https://inventaire.io/welcome) - Collaborative resources mapper project, while yet only focused on exploring books mapping with wikidata and ISBNs. ([Source Code](https://codeberg.org/inventaire/inventaires)) `AGPL-3.0` `Nodejs`
 - [Inventree](https://docs.inventree.org/en/latest/) - Inventory management system which provides intuitive parts management and stock control. ([Demo](https://inventree.org/demo), [Source Code](https://github.com/inventree/InvenTree)) `MIT` `Python`
