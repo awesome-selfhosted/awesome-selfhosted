@@ -233,6 +233,7 @@
 - [Akaunting](https://akaunting.com/) - Accounting software designed for small businesses and freelancers. ([Source Code](https://github.com/akaunting/akaunting)) `BUSL-1.1` `PHP`
 - [Assets](https://github.com/venil7/assets) `⚠` - Personal net worth and investment tracker. `⊘ Proprietary` `Docker`
 - [Invoice Ninja](https://www.invoiceninja.org/) - Powerful tool to invoice clients online. ([Demo](https://app.invoiceninja.com/invoices/create), [Source Code](https://github.com/invoiceninja/invoiceninja)) `Elastic-2.0` `PHP/Docker/K8S`
+- [monetr](https://monetr.app/) - Budgeting application focused on planning for recurring expenses. ([Source Code](https://github.com/monetr/monetr)) `FSL-1.1-MIT` `Docker/K8S`
 - [Pancake](https://www.pancakeapp.com/) - Online invoicing, project management, time tracking and proposal software. `⊘ Proprietary` `PHP`
 
 
@@ -379,6 +380,7 @@
 - `Commons-Clause` - [Commons Clause License](https://commonsclause.com/)
 - `DPL` - [Devblocks Public License 1.0](https://cerb.ai/license/)
 - `Elastic-2.0` - [Elastic License 2.0](https://spdx.org/licenses/Elastic-2.0.html)
+- `FSL-1.1-MIT` - [Functional Source License, Version 1.1, MIT Future License](https://spdx.org/licenses/FSL-1.1-MIT.html)
 - `NPOSL-3.0` - [Non-Profit Open Software License 3.0](https://spdx.org/licenses/NPOSL-3.0.html)
 - `SSPL-1.0` - [Server Side Public License](https://spdx.org/licenses/SSPL-1.0.html)
 - `SUL-1.0` - [Sustainable Use License v1.0](https://spdx.org/licenses/SUL-1.0.html)
