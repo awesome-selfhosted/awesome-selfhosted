@@ -2149,6 +2149,7 @@ _Related: [Task Management & To-do Lists](#task-management--to-do-lists), [Softw
 - [Kimai](https://www.kimai.org/) - Track work time and print out a summary of your activities on demand. ([Demo](https://www.kimai.org/demo/), [Source Code](https://github.com/kimai/kimai)) `AGPL-3.0` `PHP`
 - [solidtime](https://www.solidtime.io) - Modern time tracking application for freelancers and agencies. ([Source Code](https://github.com/solidtime-io/solidtime)) `AGPL-3.0` `Docker`
 - [TimeTagger](https://timetagger.app) - An open source time-tracker based on an interactive timeline and powerful reporting. ([Demo](https://timetagger.app/app/demo), [Source Code](https://github.com/almarklein/timetagger)) `GPL-3.0` `Python`
+- [TimeTracker](https://timetracker.drytrix.com/) - Track time across projects and clients, with timers, kanban tasks, CRM, expense tracking, multi-currency invoicing (PDF, Peppol/ZugFerd e-invoicing), reports, OIDC/SSO, and a REST API. ([Source Code](https://github.com/drytrix/TimeTracker)) `GPL-3.0` `Docker`
 - [Traggo](https://traggo.net/) - Traggo is a tag-based time tracking tool. In Traggo there are no tasks, only tagged time spans. ([Source Code](https://github.com/traggo/server)) `GPL-3.0` `Docker/Go`
 - [Wakapi](https://wakapi.dev/) - Tracking tool for coding statistics, compatible with WakaTime. ([Source Code](https://github.com/muety/wakapi)) `GPL-3.0` `Go/Docker`
 - [Ziit](https://ziit.app) - The Swiss army knife of code time tracking (alternative to WakaTime). ([Source Code](https://github.com/0pandadev/ziit)) `AGPL-3.0` `Docker`
