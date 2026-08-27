@@ -308,7 +308,6 @@
 
 **[`^        back to top        ^`](##awesome-selfhosted---non-free-software)**
 
-- [92five](https://92fiveapp.com/) - Self-hosted project management application. `⊘ Proprietary` `PHP`
 - [Active Collab](https://activecollab.com/) - Project management. `⊘ Proprietary` `PHP`
 - [BitBucket Server](https://www.atlassian.com/software/bitbucket/enterprise/data-center) - Enterprise-level Git solution (alternative to GitLab). `⊘ Proprietary` `Java`
 - [Buddy Enterprise](https://buddy.works/) - Git and Continuous Integration/Delivery Platform. `⊘ Proprietary` `Nodejs/Java`
