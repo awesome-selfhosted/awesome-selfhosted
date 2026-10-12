@@ -1223,7 +1223,7 @@ _Related: [Note-taking & Editors](#note-taking--editors), [Wikis](#wikis), [Data
 - [Digimindmap](https://ladigitale.dev/digimindmap/#/) - Create simple mindmaps (documentation in French). ([Demo](https://ladigitale.dev/digimindmap/#/), [Source Code](https://codeberg.org/ladigitale/digimindmap)) `AGPL-3.0` `Nodejs/PHP`
 - [LibreKB](https://librekb.com/) - Web-based knowledge base solution. A simple web app, it runs on pretty much any web server or hosting provider with PHP and MySQL. ([Source Code](https://github.com/michaelstaake/LibreKB/)) `GPL-3.0` `PHP`
 - [Marmot](https://marmotdata.io) - Data catalog for discovering and organizing data assets across your stack, including databases, APIs, message queues, and pipelines. ([Demo](https://demo.marmotdata.io), [Source Code](https://github.com/marmotdata/marmot)) `MIT` `Docker`
-- [memEx](https://gitlab.com/shibaobun/memex) - Structured personal knowledge base, inspired by zettlekasten and org-mode. `AGPL-3.0` `Docker`
+- [memEx](https://memex-app.shibao.dev) - Structured personal knowledge base, inspired by zettlekasten and org-mode. ([Source Code](https://gitlab.com/shibaobun/memex)) `AGPL-3.0` `Docker`
 - [SiYuan](https://b3log.org/siyuan/) - A privacy-first personal knowledge management software, written in typescript and golang. ([Source Code](https://github.com/siyuan-note/siyuan)) `AGPL-3.0` `Docker/Go`
 - [TeamMapper](https://github.com/b310-digital/teammapper) - Host and create your own mindmaps. Share your mindmap sessions with your team and collaborate live on mindmaps. ([Demo](https://map.kits.blog)) `MIT` `Docker/Nodejs`
 
