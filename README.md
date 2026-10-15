@@ -741,6 +741,7 @@ _See also: [awesome-sysadmin/DNS - Servers](https://github.com/awesome-foss/awes
 A [document management system](https://en.wikipedia.org/wiki/Document_management_system) (DMS) is a system used to receive, track, manage and store documents and reduce paper.
 
 - [BentoPDF](https://bentopdf.com) `⚠` - Powerful, privacy-first, client-side PDF toolkit that allows you to manipulate, edit, merge, and process PDF files directly in your browser. ([Demo](https://bentopdf.com), [Source Code](https://github.com/alam00000/bentopdf)) `AGPL-3.0` `Nodejs/Docker`
+- [Bottle Rocket](https://bottle-rocket.app/) - Document scanning and management application, compatible with Rocketbook and Scribzee formats. ([Source Code](https://github.com/gman-au/bottle-rocket-server)) `MIT` `C#/Docker`
 - [Docspell](https://docspell.org) - Auto-tagging document organizer and archive. ([Source Code](https://github.com/eikek/docspell)) `GPL-3.0` `Scala/Java/Docker`
 - [Documenso](https://documenso.com) - Digital document signing platform (alternative to DocuSign). ([Source Code](https://github.com/documenso/documenso)) `AGPL-3.0` `Nodejs/Docker`
 - [Docuseal](https://www.docuseal.co) - Create, fill, and sign digital documents (alternative to DocuSign). ([Demo](https://demo.docuseal.tech/), [Source Code](https://github.com/docusealco/docuseal)) `AGPL-3.0` `Docker`
