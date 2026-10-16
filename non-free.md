@@ -24,6 +24,7 @@
   - [Games](#games)
   - [Games - Administrative Utilities & Control Panels](#games---administrative-utilities--control-panels)
   - [Generative Artificial Intelligence (GenAI)](#generative-artificial-intelligence-genai)
+  - [Health and Fitness](#health-and-fitness)
   - [Knowledge Management Tools](#knowledge-management-tools)
   - [Maps and Global Positioning System (GPS)](#maps-and-global-positioning-system-gps)
   - [Media Streaming - Audio Streaming](#media-streaming---audio-streaming)
@@ -184,6 +185,13 @@
 **[`^        back to top        ^`](##awesome-selfhosted---non-free-software)**
 
 - [LobeHub](https://www.lobehub.com) - Modern design AI chat framework supporting multiple AI providers, one click install MCP Marketplace and Artifacts / Thinking. ([Source Code](https://github.com/lobehub/lobehub), [Clients](https://lobehub.com/mcp)) `⊘ Proprietary` `Nodejs/Docker`
+
+
+### Health and Fitness
+
+**[`^        back to top        ^`](##awesome-selfhosted---non-free-software)**
+
+- [SparkyFitness](https://codewithcj.github.io/SparkyFitness/) - Fitness-Tracker which tracks nutrition, exercise, body metrics, and health data (alternative to MyFitnessPal). ([Source Code](https://github.com/CodeWithCJ/SparkyFitness)) `⊘ Proprietary` `Docker`
 
 
 ### Knowledge Management Tools
