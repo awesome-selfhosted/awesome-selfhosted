@@ -1921,7 +1921,6 @@ Software for easy installation, management and configuration of self-hosted serv
 
 - [Aastro](https://voidrunner3074.github.io/aastro-docs) - Extensible API Gateway written in Go. ([Source Code](https://github.com/voidrunner3074/aastro)) `Apache-2.0` `Go/Docker`
 - [DreamFactory](https://www.dreamfactory.com/) - Turns any SQL/NoSQL/Structured data into Restful API. ([Source Code](https://github.com/dreamfactorysoftware/dreamfactory)) `Apache-2.0` `PHP/Docker/K8S`
-- [form.io](https://form.io) - REST API building platform that utilizes a drag & drop form builder, and is application framework agnostic. Comes in a community and an enterprise version. ([Demo](https://portal.form.io), [Source Code](https://github.com/formio)) `MIT` `Nodejs/Docker`
 - [Fusio](https://www.fusio-project.org/) - API management platform which helps to build and manage REST APIs. ([Demo](https://fusio-project.org/demo), [Source Code](https://github.com/apioo/fusio)) `AGPL-3.0` `PHP/Docker`
 - [Graphweaver](https://graphweaver.com/) - Turn multiple data sources into a single GraphQL API. ([Source Code](https://github.com/exogee-technology/graphweaver)) `MIT` `Nodejs`
 - [Hasura](https://hasura.io) - Fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events. ([Source Code](https://github.com/hasura/graphql-engine)) `Apache-2.0` `Haskell/Docker/K8S`
