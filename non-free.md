@@ -90,14 +90,14 @@
 
 **[`^        back to top        ^`](##awesome-selfhosted---non-free-software)**
 
-- [Forward Email](https://forwardemail.net) - Privacy-focused encrypted email for everyone. All-in-one alternative to Gmail + Mailchimp + Sendgrid. ([Source Code](https://github.com/forwardemail/forwardemail.net)) `BUSL-1.1/MPL-2.0` `Nodejs/Docker`
+- [Forward Email](https://forwardemail.net) - Privacy-focused encrypted email for everyone. All-in-one (alternative to Gmail, Mailchimp, Sendgrid). ([Source Code](https://github.com/forwardemail/forwardemail.net)) `BUSL-1.1/MPL-2.0` `Nodejs/Docker`
 
 
 ### Communication - Email - Mailing Lists and Newsletters
 
 **[`^        back to top        ^`](##awesome-selfhosted---non-free-software)**
 
-- [Sendy](https://sendy.co) - Self-hosted email newsletter application that lets you send bulk emails via Amazon Simple Email Service (SES) or other SMTP services. `⊘ Proprietary` `PHP`
+- [Sendy](https://sendy.co) - Email newsletter application that lets you send bulk emails via Amazon Simple Email Service (SES) or other SMTP services. `⊘ Proprietary` `PHP`
 
 
 ### Communication - SIP
@@ -128,7 +128,7 @@
 **[`^        back to top        ^`](##awesome-selfhosted---non-free-software)**
 
 - [Cluster Control](https://severalnines.com/clustercontrol/) - Setup many databases in few clicks with monitoring, load balancing and more. `⊘ Proprietary` `deb/Ansible/Shell/Docker`
-- [Directus](https://directus.io/) - An Instant App & API for your SQL Database. Directus wraps your new or existing SQL database with a realtime GraphQL+REST API for developers, and an intuitive admin app for non-technical users. ([Source Code](https://github.com/directus/directus)) `BUSL-1.1` `Nodejs/Docker`
+- [Directus](https://directus.io/) - Instant App & API for your SQL Database. Directus wraps your new or existing SQL database with a realtime GraphQL+REST API for developers, and an intuitive admin app for non-technical users. ([Source Code](https://github.com/directus/directus)) `BUSL-1.1` `Nodejs/Docker`
 - [MindsDB](https://mindsdb.com/) - AI layer for existing databases that allows you to effortlessly develop, train and deploy state-of-the-art machine learning models using standard queries. ([Source Code](https://github.com/mindsdb/mindshub)) `Elastic-2.0` `Docker/Python`
 - [NocoDB](https://www.nocodb.com/) - No-code platform that turns any database into a smart spreadsheet (alternative to Airtable and Smartsheet). ([Source Code](https://github.com/nocodb/nocodb)) `SUL-1.0` `Nodejs/Docker`
 
@@ -145,7 +145,7 @@
 
 **[`^        back to top        ^`](##awesome-selfhosted---non-free-software)**
 
-- [OXID eShop](https://oxidforge.org/en/) - OXID eShop is a flexible open source e-commerce software with a wide range of functionalities. ([Source Code](https://github.com/OXID-eSales/oxideshop_ce)) `⊘ Proprietary` `PHP`
+- [OXID eShop](https://oxidforge.org/en/) - Flexible e-commerce software with a wide range of functionalities. ([Source Code](https://github.com/OXID-eSales/oxideshop_ce)) `⊘ Proprietary` `PHP`
 - [Sharetribe](https://www.sharetribe.com) - Platform to create your own peer-to-peer marketplace, also available with SaaS model. ([Source Code](https://github.com/sharetribe/sharetribe)) `⊘ Proprietary` `Ruby`
 
 
@@ -219,7 +219,7 @@
 
 **[`^        back to top        ^`](##awesome-selfhosted---non-free-software)**
 
-- [Channels DVR Server](https://getchannels.com/dvr-server/) - Flexible server providing a whole home self hosted DVR experience for [Channels](https://getchannels.com). `⊘ Proprietary` `Unknown`
+- [Channels DVR Server](https://getchannels.com/dvr-server/) - Flexible server providing a whole home DVR experience for Channels. `⊘ Proprietary` `Unknown`
 - [Emby](https://emby.media/) - Home media server supporting both DLNA and DIAL (Chromecast) devices out-of-the-box. `⊘ Proprietary` `C#`
 - [Plex](https://www.plex.tv/) - Centralized home media playback system with a powerful central server. `⊘ Proprietary` `Unknown`
 - [Subsonic](http://www.subsonic.org/pages/index.jsp) - Web-based media streamer and jukebox. ([Demo](http://demo.subsonic.org/j_acegi_security_check?j_username=guest4&j_password=guest&_acegi_security_remember_me=check)) `⊘ Proprietary` `Unknown`
@@ -284,7 +284,7 @@
 - [Cosmos](https://cosmos-cloud.io/) - Run server applications securely and with built-in privacy features. It acts as a secure gateway to your application, as well as a server manager. ([Source Code](https://github.com/azukaar/cosmos-Server)) `Apache-2.0/Commons-Clause` `Docker/Go`
 - [Easypanel](https://easypanel.io) - Modern server control panel powered by Docker. `⊘ Proprietary` `Docker`
 - [Poste.io](https://poste.io) - Full-featured solution for your Email server. Native implementation of last anti-SPAM methods, webmail and easy administration included. Free tier available. ([Demo](https://poste.io/demo)) `⊘ Proprietary` `Unknown`
-- [Umbrel](https://umbrel.com/) - A beautiful personal server OS for self-hosting. Install on a Raspberry Pi 4 or Ubuntu/Debian. ([Source Code](https://github.com/getumbrel/umbrel)) `⊘ Proprietary` `Nodejs/Docker`
+- [Umbrel](https://umbrel.com/) - Beautiful personal server OS for self-hosting. Install on a Raspberry Pi 4 or Ubuntu/Debian. ([Source Code](https://github.com/getumbrel/umbrel)) `⊘ Proprietary` `Nodejs/Docker`
 - [Unraid](https://www.unraid.net) `⚠` - Linux-based operating system designed to run on home media server setups. `⊘ Proprietary` `Unknown`
 
 
@@ -300,14 +300,14 @@
 
 **[`^        back to top        ^`](##awesome-selfhosted---non-free-software)**
 
-- [RepoFlow](https://www.repoflow.io) - Simplify package management for npm, PyPI, Docker, Go, Helm, and more. Try it for free with 10GB storage, 10GB bandwidth, 100 packages, and unlimited users in the cloud, or self-hosted for personal use only. `⊘ Proprietary` `Nodejs/Docker`
+- [RepoFlow](https://www.repoflow.io) - Simplify package management for npm, PyPI, Docker, Go, Helm, and more. Try it for free with 10GB storage, 10GB bandwidth, 100 packages, and unlimited users in the cloud, or on your own server for personal use only. `⊘ Proprietary` `Nodejs/Docker`
 
 
 ### Software Development - Low Code
 
 **[`^        back to top        ^`](##awesome-selfhosted---non-free-software)**
 
-- [Budibase](https://www.budibase.com) - Build and automate internal tools, admin panels, dashboards, CRUD apps, and more, in minutes (alternative to Outsystems, Retool, Mendix, Appian). ([Source Code](https://github.com/Budibase/budibase)) `⊘ Proprietary` `Nodejs/Docker/K8S`
+- [Budibase](https://www.budibase.com) - Build and automate internal tools, admin panels, dashboards, CRUD apps, and more, in minutes (alternative to Outsystems, Retool, Mendix). ([Source Code](https://github.com/Budibase/budibase)) `⊘ Proprietary` `Nodejs/Docker/K8S`
 - [Dify.ai](https://dify.ai) - Build, test and deploy LLM applications. ([Source Code](https://github.com/langgenius/dify)) `Apache-2.0/Commons-Clause` `Docker`
 - [UI Bakery](https://uibakery.io) - Build internal tools, customer portals, and CRUD apps quickly. Configure scheduled jobs and webhooks. Create structure and manage data through a GUI. ([Demo](https://cloud.uibakery.io), [Source Code](https://github.com/uibakery/self-hosted)) `⊘ Proprietary` `Docker/K8S`
 
