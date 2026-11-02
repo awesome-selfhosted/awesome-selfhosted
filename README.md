@@ -928,6 +928,7 @@ Network distributed filesystems.
 
 - [GarageHQ](https://garagehq.deuxfleurs.fr/) - Geo-distributed, S3‑compatible storage service that can fulfill many needs. ([Source Code](https://git.deuxfleurs.fr/Deuxfleurs/garage)) `AGPL-3.0` `Docker/Rust`
 - [Harbor](https://goharbor.io/) - Cloud native image registry that stores, signs, and scans content. ([Source Code](https://github.com/goharbor/harbor)) `Apache-2.0` `Docker/K8S`
+- [s3-orchestrator](https://s3-orchestrator.munchbox.cc) - Storage orchestration layer presenting many cloud providers as a single S3 endpoint, keeping N copies across them with read failover, plus optional per-backend byte, request, ingress and egress limits, zstd compression and envelope encryption. ([Source Code](https://github.com/afreidah/s3-orchestrator)) `MIT` `Go/Docker/deb/K8S`
 - [SeaweedFS](https://github.com/seaweedfs/seaweedfs) - Distributed file system supporting WebDAV, S3 API, FUSE mount, HDFS, etc, optimized for lots of small files, and easy to add capacity. `Apache-2.0` `Go`
 - [Zenko CloudServer](https://www.zenko.io/cloudserver) - Implementation of the Amazon S3 protocol on the front-end and backend storage capabilities to multiple clouds, including Azure and Google. ([Source Code](https://github.com/scality/cloudserver)) `Apache-2.0` `Docker/Nodejs`
 - [ZOT OCI Registry](https://zotregistry.dev) - Production-ready vendor-neutral OCI-native container image registry. ([Demo](https://zothub.io), [Source Code](https://github.com/project-zot/zot)) `Apache-2.0` `Go/Docker`
